@@ -12,10 +12,12 @@
 # distributed under the License is distributed on an "AS IS" BASIS,
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
+
 # limitations under the License.
 
-FILES=$*
-URL=http://127.0.0.1:8080/modern-english-solr/update
+#FILES=$*
+FILES="../cocoon/add_docs/add_BooColl.xml"
+URL=http://127.0.0.1:8080/cbw-solr/update
 
 for f in $FILES; do
   echo Posting file $f to $URL
@@ -24,5 +26,5 @@ for f in $FILES; do
 done
 
 #send the commit command to make sure all the changes are flushed and visible
-curl $URL --data-binary '<commit/>'
+curl $URL --data-binary '<commit/>' -H 'Content-type:text/xml; charset=utf-8'
 echo
