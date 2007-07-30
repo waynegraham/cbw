@@ -25,7 +25,7 @@
 		<html>
 			<head>
 				<link type="text/css" href="style.css" rel="stylesheet"/>
-				<script type="text/javascript" language="javascript" src="javascript/searchhi.js"/>
+				<!--<script type="text/javascript" language="javascript" src="javascript/searchhi.js"/>-->
 				<title>The Collective Biographies of Women: Bibliography</title>
 			</head>
 			<body>

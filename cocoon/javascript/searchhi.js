@@ -125,6 +125,7 @@ function highlightWord(node,word) {
 	}
 }
 
+/*
 function googleSearchHighlight() {
 	if (!document.createElement) return;
 	ref = document.referrer;
@@ -134,13 +135,13 @@ function googleSearchHighlight() {
 	for (i=0;i<qsa.length;i++) {
 		qsip = qsa[i].split('=');
 	        if (qsip.length == 1) continue;
-        	if (qsip[0] == 'fulltext'/* || qsip[0] == 'author' || qsip[0] == 'title'*/) { // q= for Google, p= for Yahoo
+       	if (qsip[0] == 'fulltext' || qsip[0] == 'author' || qsip[0] == 'title') {
 			words = unescape(qsip[1].replace(/\+/g,' ')).split(/\s+/);
 	                for (w=0;w<words.length;w++) {
 				highlightWord(document.getElementsByTagName("body")[0],Url.decode(words[w]));
                 	}
 	        }
 	}
-}
+} */
 
-window.onload = googleSearchHighlight;
+//window.onload = googleSearchHighlight;
