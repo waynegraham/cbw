@@ -113,7 +113,7 @@
 
 							<xsl:variable name="pubplace_search">
 								<xsl:if test="$pubplace">
-									<xsl:text> AND pubplace:</xsl:text>
+									<xsl:text> AND pubPlace:</xsl:text>
 									<xsl:value-of select="$pubplace"/>
 								</xsl:if>
 							</xsl:variable>
