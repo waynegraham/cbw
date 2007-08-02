@@ -5,6 +5,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 	<xsl:param name="ref"/>
+	<xsl:param name="bibl_id"/>
 
 	<xsl:template match="teiHeader"> </xsl:template>
 
@@ -137,7 +138,14 @@
 
 	<xsl:template match="bibl/author">
 		<b>
-			<xsl:apply-templates/>
+			<xsl:choose>
+				<xsl:when test="contains(abbr, '---') and string($bibl_id)">
+					<xsl:value-of select="abbr/@expan"/><xsl:text>.  </xsl:text>
+				</xsl:when>
+				<xsl:otherwise>
+					<xsl:value-of select="."/>
+				</xsl:otherwise>
+			</xsl:choose>
 		</b>
 	</xsl:template>
 
@@ -161,15 +169,26 @@
 
 	<xsl:template match="bibl/editor">
 		<xsl:choose>
-			<xsl:when test="@role='translator'">
-				<xsl:apply-templates/>
-			</xsl:when>
-			<xsl:when test="@role='illustrator'">
-				<xsl:apply-templates/>
+			<xsl:when test="@role='translator' or @role='illustrator'">
+				<xsl:choose>
+					<xsl:when test="contains(abbr, '---') and string($bibl_id)">
+						<xsl:value-of select="abbr/@expan"/><xsl:text>,  </xsl:text>
+					</xsl:when>
+					<xsl:otherwise>
+						<xsl:value-of select="."/>
+					</xsl:otherwise>
+				</xsl:choose>
 			</xsl:when>
 			<xsl:otherwise>
 				<b>
-					<xsl:apply-templates/>
+					<xsl:choose>
+						<xsl:when test="contains(abbr, '---') and string($bibl_id)">
+							<xsl:value-of select="abbr/@expan"/><xsl:text>,  </xsl:text>
+						</xsl:when>
+						<xsl:otherwise>
+							<xsl:value-of select="."/>
+						</xsl:otherwise>
+					</xsl:choose>
 				</b>
 			</xsl:otherwise>
 		</xsl:choose>
@@ -200,8 +219,8 @@
 		<br/>
 		<br/>
 	</xsl:template>
-	
+
 	<xsl:template match="ref"/>
-	
+
 
 </xsl:stylesheet>
