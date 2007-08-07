@@ -127,7 +127,8 @@ function highlightWord(node,word) {
 
 function SearchHighlight() {
 	if (!document.createElement) return;
-	ref = document.referrer;
+	//ref = document.referrer;
+	ref = window.location.href
 	if (ref.indexOf('?') == -1) return;
 	qs = ref.substr(ref.indexOf('?')+1);
 	qsa = qs.split('&');
