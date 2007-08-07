@@ -19,10 +19,12 @@
 	<xsl:param name="note"/>
 	<xsl:param name="rows"/>
 	<xsl:param name="start"/>
-
-
-
+	
+	<xsl:param name="searchstring"/>
+	
 	<xsl:template match="/">
+		
+		;<xsl:value-of select="$searchstring"/>
 
 		<table class="search_results_table">
 			<xsl:choose>
@@ -81,14 +83,14 @@
 						<xsl:choose>
 							<xsl:when test="$numFound &gt; $rows and $start &gt; $previous">
 								<a class="pagingBtn"
-									href="?fulltext={$fulltext}&amp;title={$title}&amp;author={$author}&amp;editor={$editor}&amp;pubplace={$pubplace}&amp;publisher={$publisher}&amp;note={$note}&amp;rows={$rows}&amp;start={$previous}"
+									href="?fulltext={$fulltext}&amp;author={$author}&amp;title={$title}&amp;editor={$editor}&amp;pubplace={$pubplace}&amp;publisher={$publisher}&amp;note={$note}&amp;rows={$rows}&amp;start={$previous}&amp;searchstring={$searchstring}"
 									>previous</a>
 							</xsl:when>
 							<xsl:otherwise>previous</xsl:otherwise>
 						</xsl:choose> | <xsl:choose>
 							<xsl:when test="$numFound &gt; $rows and $next &lt; $numFound">
 								<a class="pagingBtn"
-									href="?fulltext={$fulltext}&amp;title={$title}&amp;author={$author}&amp;editor={$editor}&amp;pubplace={$pubplace}&amp;publisher={$publisher}&amp;note={$note}&amp;rows={$rows}&amp;start={$next}"
+									href="?fulltext={$fulltext}&amp;author={$author}&amp;title={$title}&amp;editor={$editor}&amp;pubplace={$pubplace}&amp;publisher={$publisher}&amp;note={$note}&amp;rows={$rows}&amp;start={$next}&amp;searchstring={$searchstring}"
 									>next</a>
 							</xsl:when>
 							<xsl:otherwise>next</xsl:otherwise>
@@ -100,9 +102,9 @@
 	</xsl:template>
 
 	<xsl:template match="doc">
-		
+
 		<!-- this is for giving position() = odd number search results a darker cell color to add contract and a line of division for search results -->
-		
+
 		<xsl:variable name="search_result">
 			<xsl:choose>
 				<xsl:when test="position() mod 2 = 0">
@@ -117,9 +119,8 @@
 
 		<tr>
 			<td class="{$search_result}">
-
 				<a
-					href="browse?bibl_id={str[@name='id']}&amp;fulltext={$fulltext}&amp;title={$title}&amp;author={$author}&amp;editor={$editor}&amp;pubplace={$pubplace}&amp;publisher={$publisher}&amp;note={$note}&amp;rows={$rows}&amp;start={$start}">
+					href="browse?bibl_id={str[@name='id']}&amp;searchstring={$searchstring}">
 					<xsl:value-of select="arr[@name='ref']/str"/>
 					<xsl:text> </xsl:text>
 					<xsl:value-of select="arr[@name='author']/str"/>

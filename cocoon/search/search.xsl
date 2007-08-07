@@ -37,55 +37,50 @@
 					<tr>
 						<!-- if there are no search parameters, the search form is displayed; otherwise, hidden -->
 						<td class="content">
-							<xsl:if test="not($fulltext) and not($title) and not($author) and not($editor) and not($pubplace) and not($publisher) and not($note) ">
-								
+							<xsl:if
+								test="not(string($fulltext)) and not(string($title)) and not(string($author)) and not(string($editor)) and not(string($pubplace)) and not(string($publisher)) and not(string($note))">
+
 								<p>Use AND/OR/NOT to filter multiple search terms in the same field.</p>
-								
+
 								<form method="get">
-									<input class="search_box" type="hidden" name="rows" value="20"/>
-									<input class="search_box" type="hidden" name="start" value="0"/>
+									<input type="hidden" name="rows" value="20"/>
+									<input type="hidden" name="start" value="0"/>
 									<label>Search for word or phrase: </label>
 									<br/>
-									<input class="search_box" type="text" size="65" name="fulltext"
-										value="{$fulltext}"/>
+									<input type="text" size="65" name="fulltext"/>
 									<br/>
 									<label>Title: </label>
 									<br/>
-									<input class="search_box" type="text" size="65" name="title"
-										value="{$title}"/>
+									<input type="text" size="65" name="title"/>
 									<br/>
 									<label>Author: </label>
 									<br/>
-									<input class="search_box" type="text" size="65" name="author"
-										value="{$author}"/>
+									<input type="text" size="65" name="author"/>
 									<br/>
 									<label>Editor, illustrator, or translator: </label>
 									<br/>
-									<input class="search_box" type="text" size="65" name="editor"
-										value="{$editor}"/>
+									<input type="text" size="65" name="editor"/>
 									<br/>
 									<label>Place of publication: </label>
 									<br/>
-									<input class="search_box" type="text" size="65" name="pubplace"
-										value="{$pubplace}"/>
+									<input type="text" size="65" name="pubplace"/>
 									<br/>
 									<label>Publisher: </label>
 									<br/>
-									<input class="search_box" type="text" size="65" name="publisher"
-										value="{$publisher}"/>
+									<input type="text" size="65" name="publisher"/>
 									<br/>
 									<label>Editorial notes: </label>
 									<br/>
-									<input class="search_box" type="text" size="65" name="note"
-										value="{$note}"/>
+									<input type="text" size="65" name="note"/>
 									<br/>
-									<input class="search_box" type="submit" id="searchBtn"
-										name="action" value="Submit"/>
+									<input type="submit" id="searchBtn" name="action" value="Submit"
+									/>
+									
 								</form>
 							</xsl:if>
 							<!-- this part is for combining the parameter with AND to filter search results passed to SOLR -->
 							<xsl:variable name="fulltext_search">
-								<xsl:if test="$fulltext">
+								<xsl:if test="string($fulltext)">
 									<xsl:text> AND fulltext:</xsl:text>
 									<xsl:value-of select="$fulltext"/>
 								</xsl:if>
@@ -98,36 +93,66 @@
 							</xsl:variable>
 
 							<xsl:variable name="author_search">
-								<xsl:if test="$author">
+								<xsl:if test="string($author)">
 									<xsl:text> AND author:</xsl:text>
 									<xsl:value-of select="$author"/>
 								</xsl:if>
 							</xsl:variable>
 
 							<xsl:variable name="editor_search">
-								<xsl:if test="$editor">
+								<xsl:if test="string($editor)">
 									<xsl:text> AND editor:</xsl:text>
 									<xsl:value-of select="$editor"/>
 								</xsl:if>
 							</xsl:variable>
 
 							<xsl:variable name="pubplace_search">
-								<xsl:if test="$pubplace">
+								<xsl:if test="string($pubplace)">
 									<xsl:text> AND pubPlace:</xsl:text>
 									<xsl:value-of select="$pubplace"/>
 								</xsl:if>
 							</xsl:variable>
 
 							<xsl:variable name="publisher_search">
-								<xsl:if test="$publisher">
+								<xsl:if test="string($publisher)">
 									<xsl:text> AND publisher:</xsl:text>
 									<xsl:value-of select="$publisher"/>
 								</xsl:if>
 							</xsl:variable>
 
 							<xsl:variable name="note_search">
-								<xsl:if test="$note">
+								<xsl:if test="string($note)">
 									<xsl:text> AND note:</xsl:text>
+									<xsl:value-of select="$note"/>
+								</xsl:if>
+							</xsl:variable>
+							
+							<xsl:variable name="searchstring" >
+								<xsl:if test="string($fulltext)">
+									<xsl:value-of select="$fulltext"/>
+									<xsl:text> </xsl:text>
+								</xsl:if>
+								<xsl:if test="string($title)">
+									<xsl:value-of select="$title"/>
+									<xsl:text> </xsl:text>
+								</xsl:if>
+								<xsl:if test="string($author)">
+									<xsl:value-of select="$author"/>
+									<xsl:text> </xsl:text>
+								</xsl:if>
+								<xsl:if test="string($editor)">
+									<xsl:value-of select="$editor"/>
+									<xsl:text> </xsl:text>
+								</xsl:if>
+								<xsl:if test="string($pubplace)">
+									<xsl:value-of select="$pubplace"/>
+									<xsl:text> </xsl:text>
+								</xsl:if>
+								<xsl:if test="string($publisher)">
+									<xsl:value-of select="$publisher"/>
+									<xsl:text> </xsl:text>
+								</xsl:if>
+								<xsl:if test="string($note)">
 									<xsl:value-of select="$note"/>
 								</xsl:if>
 							</xsl:variable>
@@ -138,14 +163,12 @@
 									select="concat($fulltext_search,$title_search,$author_search,$editor_search,$pubplace_search,$publisher_search,$note_search)"
 								/>
 							</xsl:variable>
-
-
 							<xsl:if test="$search_text">
-
-								<cinclude:include src="cocoon:/search_results?q={$search_text}"/>
-
+								<form method="post">
+									<input type="hidden" name="searchstring" value="{$searchstring}"/>								
+								</form>
+								<cinclude:include src="cocoon:/search_results?q={$search_text}&amp;searchstring={$searchstring}"/>
 							</xsl:if>
-
 						</td>
 					</tr>
 					<tr>

@@ -10,25 +10,17 @@
 	<xsl:include href="biblio.xsl"/>
 
 	<xsl:param name="bibl_id"/>
-	
-	<xsl:param name="fulltext"/>
-	<xsl:param name="title"/>
-	<xsl:param name="author"/>
-	<xsl:param name="editor"/>
-	<xsl:param name="pubplace"/>
-	<xsl:param name="publisher"/>
-	<xsl:param name="note"/>
-	<xsl:param name="start"/>
-	<xsl:param name="rows"/>
 
+	<xsl:param name="searchstring"/>
+	
 	<xsl:template match="/">
 		<html>
 			<head>
 				<link type="text/css" href="style.css" rel="stylesheet"/>
-				<!--<script type="text/javascript" language="javascript" src="javascript/searchhi.js"/>-->
+				<script type="text/javascript" language="javascript" src="javascript/searchhi.js"/>
 				<title>The Collective Biographies of Women: Bibliography</title>
 			</head>
-			<body>
+			<body onLoad="JavaScript:SearchHighlight();">
 				<table id="wrap">
 					<tr>
 						<td class="headfoot">
@@ -37,12 +29,13 @@
 					</tr>
 					<tr>
 						<td class="content">
+							<xsl:value-of select="$searchstring"/>
 							<xsl:choose>
-							<!-- when the bibl_id is not passed as a parameter, i. e. the page is not accessed from a search result, the stylesheet is applied to all of //text -->
+								<!-- when the bibl_id is not passed as a parameter, i. e. the page is not accessed from a search result, the stylesheet is applied to all of //text -->
 								<xsl:when test="not($bibl_id)">
 									<xsl:apply-templates select="//text"/>
 								</xsl:when>
-							<!-- otherwise, it is applied to the bible with an id of $bibl_id -->
+								<!-- otherwise, it is applied to the bible with an id of $bibl_id -->
 								<xsl:otherwise>
 									<xsl:apply-templates select="//bibl[@id=$bibl_id]"/>
 								</xsl:otherwise>
@@ -90,7 +83,7 @@
 		<div class="bibl">
 			<xsl:apply-templates/>
 		</div>
-		
+
 	</xsl:template>
 
 </xsl:stylesheet>
