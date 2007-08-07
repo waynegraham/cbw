@@ -29,7 +29,6 @@
 					</tr>
 					<tr>
 						<td class="content">
-							<xsl:value-of select="$searchstring"/>
 							<xsl:choose>
 								<!-- when the bibl_id is not passed as a parameter, i. e. the page is not accessed from a search result, the stylesheet is applied to all of //text -->
 								<xsl:when test="not($bibl_id)">

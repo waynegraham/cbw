@@ -24,8 +24,6 @@
 	
 	<xsl:template match="/">
 		
-		;<xsl:value-of select="$searchstring"/>
-
 		<table class="search_results_table">
 			<xsl:choose>
 				<xsl:when test="response/result[@name='response']/@numFound > 0">
@@ -83,14 +81,14 @@
 						<xsl:choose>
 							<xsl:when test="$numFound &gt; $rows and $start &gt; $previous">
 								<a class="pagingBtn"
-									href="?fulltext={$fulltext}&amp;author={$author}&amp;title={$title}&amp;editor={$editor}&amp;pubplace={$pubplace}&amp;publisher={$publisher}&amp;note={$note}&amp;rows={$rows}&amp;start={$previous}&amp;searchstring={$searchstring}"
+									href="?fulltext={$fulltext}&amp;author={$author}&amp;title={$title}&amp;editor={$editor}&amp;pubplace={$pubplace}&amp;publisher={$publisher}&amp;note={$note}&amp;rows={$rows}&amp;start={$previous}"
 									>previous</a>
 							</xsl:when>
 							<xsl:otherwise>previous</xsl:otherwise>
 						</xsl:choose> | <xsl:choose>
 							<xsl:when test="$numFound &gt; $rows and $next &lt; $numFound">
 								<a class="pagingBtn"
-									href="?fulltext={$fulltext}&amp;author={$author}&amp;title={$title}&amp;editor={$editor}&amp;pubplace={$pubplace}&amp;publisher={$publisher}&amp;note={$note}&amp;rows={$rows}&amp;start={$next}&amp;searchstring={$searchstring}"
+									href="?fulltext={$fulltext}&amp;author={$author}&amp;title={$title}&amp;editor={$editor}&amp;pubplace={$pubplace}&amp;publisher={$publisher}&amp;note={$note}&amp;rows={$rows}&amp;start={$next}"
 									>next</a>
 							</xsl:when>
 							<xsl:otherwise>next</xsl:otherwise>
