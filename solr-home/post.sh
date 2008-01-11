@@ -16,8 +16,8 @@
 # limitations under the License.
 
 #FILES=$*
-FILES="../cocoon/add_docs/add_BooColl.xml"
-URL=http://127.0.0.1:8080/cbw-solr/update
+FILES="./add_docs/add_BooColl.xml"
+URL=http://127.0.0.1:8080/womensbios-solr/update
 
 for f in $FILES; do
   echo Posting file $f to $URL
