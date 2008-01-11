@@ -1,6 +1,5 @@
 tomcat-solr.xml
-Linked to /usr/local/tomcat/conf/Catalina/localhost/{app-name}.xml
-This file tells Tomcat where the solr/home is.
+This file is used when deploying the application via the tomcat web manager
 
 solr-home
 The tomcat-solr.xml file tells Solr that this is the solr/home. This is where the Solr config and Solr data/index are located.
