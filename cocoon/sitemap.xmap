@@ -87,7 +87,6 @@
 
 	<map:pipelines>
 		<map:pipeline>
-
 			<map:match pattern="*.css">
 				<map:read src="xsl/{1}.css" mime-type="text/css"/>
 			</map:match>
