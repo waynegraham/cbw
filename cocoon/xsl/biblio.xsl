@@ -220,7 +220,13 @@
 		<br/>
 	</xsl:template>
 
-	<xsl:template match="ref"/>
+	<!-- If there is a reference to another work, create a link to it.  -->
+	<xsl:template match="ref">
+		<xsl:variable name="target" select="@target"/>
+		<a href="browse?bibl_id={$target}">
+			<xsl:apply-templates/>
+		</a>
+	</xsl:template>
 
 
 </xsl:stylesheet>
