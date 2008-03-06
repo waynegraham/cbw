@@ -81,6 +81,7 @@
 
 		<div class="bibl">
 			<xsl:apply-templates/>
+			<a href="whatever">links here</a>
 		</div>
 
 	</xsl:template>
