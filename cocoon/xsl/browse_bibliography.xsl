@@ -12,7 +12,7 @@
 	<xsl:param name="bibl_id"/>
 
 	<xsl:param name="searchstring"/>
-	
+
 	<xsl:template match="/">
 		<html>
 			<head>
@@ -81,8 +81,13 @@
 
 		<div class="bibl">
 			<xsl:apply-templates/>
-			<br/><br/>
-			<a href="http://www.worldcat.org/search?q=ti%3A{title/hi}">Search OCLC WorldCat for this title.</a>
+			<br/>
+			<br/>
+			<a href="http://www.worldcat.org/search?q=ti%3A{title/hi}">Search OCLC WorldCat for this
+				title.</a>
+			<br/>
+			<a href="http://books.google.com/books?q={title/hi}">Search Google Books for this
+			title.</a>
 		</div>
 
 	</xsl:template>
