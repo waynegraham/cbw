@@ -82,7 +82,7 @@
 		<div class="bibl">
 			<xsl:apply-templates/>
 			<br/><br/>
-			<a href="http://www.worldcat.org/search?q=ti%3A{//title/hi}">Search OCLC WorldCat for this title.</a>
+			<a href="http://www.worldcat.org/search?q=ti%3A{title/hi}">Search OCLC WorldCat for this title.</a>
 		</div>
 
 	</xsl:template>
