@@ -237,7 +237,7 @@
      starting point rather than a definitive study of the works in this mode. I do not claim to have
      seen or read all the entries. </p>
 
-    <p id="footer">With the support of Digital Scholarly Services, Special Collections, the Department of
+    <p>With the support of Digital Scholarly Services, Special Collections, the Department of
      English and the editorial board of NINES, we are working on the documentation, markup, design,
      and substance of this site. A short-term goal is to provide links to available electronic texts
      of items in the bibliography. In 2008 we will launch a gallery of digital images of collections
@@ -249,7 +249,7 @@
 
     <p>-- Alison Booth, Professor, Department of English, University of Virginia </p>
 
-    <p>This online version expands upon the Bibliography of
+    <p id="footer">This online version expands upon the Bibliography of
      Collective Biographies of Women published in Alison Booth  <hi rend="italics">How to Make It
       as a Woman</hi> (Chicago: University of Chicago Press, 2004). It has been
      developed with the assistance of Cindy Maisannes, Ethan Gruber, and Joseph Gilbert of Digital Scholarship Services at the
