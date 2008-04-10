@@ -83,9 +83,8 @@
 			<xsl:apply-templates/>
 			<br/>
 			<br/>
-			<a href="http://www.worldcat.org/search?q={title/hi}">Search OCLC WorldCat for this
-			title.</a>
-			<a href="http://www.worldcat.org/search?q=ti%3A{title/hi}+au%3A{author/name[@type='last']}&amp;fq=yr%3A{imprint/date}+%3E&amp;qt=advanced">new</a>
+			<a href="http://www.worldcat.org/search?q=ti%3A{title/hi}+au%3A{author/name[@type='last']}&amp;fq=yr%3A{imprint/date}+%3E&amp;qt=advanced">Search OCLC WorldCat for this
+				title.</a>
 			<br/>
 			<a href="http://books.google.com/books?q={title/hi}">Search Google Books for this
 			title.</a>
