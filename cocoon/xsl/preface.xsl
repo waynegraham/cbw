@@ -47,7 +47,7 @@
 		</p>
 	</xsl:template>
 	
-	<xsl:template match="p[id='footer']">
+	<xsl:template match="p[@id='footer']">
 		<hr/>
 		<xsl:apply-templates></xsl:apply-templates>
 	</xsl:template>
