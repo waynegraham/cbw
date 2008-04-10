@@ -80,10 +80,6 @@
 	<xsl:template match="bibl">
 
 		<div class="bibl">
-			<xsl:if test="note[@id='genre']='Bible'">
-				<p>justatest</p>
-				<xsl:apply-templates></xsl:apply-templates>
-			</xsl:if>
 			<xsl:apply-templates/>
 			<br/>
 			<br/>
