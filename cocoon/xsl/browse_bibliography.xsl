@@ -83,10 +83,10 @@
 			<xsl:apply-templates/>
 			<br/>
 			<br/>
-			<a href="http://www.worldcat.org/search?q=ti%3A{title/hi}+au%3A{author/name[@type='last']}&amp;fq=yr%3A{imprint/date}+%3E&amp;qt=advanced">Search OCLC WorldCat for this
+			<a href="http://www.worldcat.org/search?q=%22{title/hi}%22+au%3A{author/name[@type='last']}">Search OCLC WorldCat for this
 				title.</a>
 			<br/>
-			<a href="http://books.google.com/books?as_q=%22{title/hi}%22&amp;as_auth={author/name[@type='last']}&amp;as_miny=0&amp;as_maxy=2000">Search Google Books for this
+			<a href="http://books.google.com/books?as_q=%22{title/hi}%22&amp;as_auth={author/name[@type='last']}">Search Google Books for this
 			title.</a>
 		</div>
 
