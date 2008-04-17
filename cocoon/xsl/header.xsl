@@ -32,7 +32,7 @@
 			<b>
 				<a href="http://etext.lib.virginia.edu">Etext</a>
 			</b>
-		</span>
+		</div>
 		<hr/>
 
 	</xsl:template>
