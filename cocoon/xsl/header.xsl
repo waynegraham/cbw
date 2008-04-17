@@ -11,7 +11,7 @@
 		<img src="banner.jpg" style="width: 650px; margin:20px 155px;"/>
 		<hr/>
 
-		<span id="navbar">
+		<div id="navbar">
 
 			<b>
 				<a href=".">Home</a>
