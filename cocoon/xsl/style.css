@@ -14,7 +14,11 @@ body {
   height:100%
   }
   
-
+hr {
+height: 1px;
+color:#782F26;
+margin: 10px 40px;
+}
 
 .body {padding-left:2em}
 
@@ -22,7 +26,7 @@ body {
 #wrap{
 
 background-color: #E7E3D8; /*table background color */
-width:700px; 
+width:960px; 
 border-style: solid; 
 border-color: black; 
 border-width: 2px}

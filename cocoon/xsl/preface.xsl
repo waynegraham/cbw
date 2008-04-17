@@ -47,9 +47,10 @@
 		</p>
 	</xsl:template>
 	
-	<xsl:template match="p[@id='footer']">
-		<hr/>
-		<xsl:apply-templates></xsl:apply-templates>
+	<xsl:template match="div2[@type='footer']">
+		<div class="smallpara">
+			<xsl:apply-templates/>
+		</div>
 	</xsl:template>
 
 </xsl:stylesheet>

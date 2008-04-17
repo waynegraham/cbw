@@ -2,7 +2,7 @@
 
 <!-- This is the userguide stylesheet for CBW.
 	
-	Created July 2007 by Ethan Gruber -->
+	Created July 2007 by Ethan Gruber, modified April 2008 by Joseph Gilbert -->
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
 
@@ -49,5 +49,5 @@
     <xsl:template match="p">
         <p><xsl:apply-templates/></p>
     </xsl:template>
-    
+	
 </xsl:stylesheet>
