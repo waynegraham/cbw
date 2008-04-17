@@ -11,20 +11,24 @@
 		<img src="banner.jpg" style="width: 650px; margin:20px 155px;"/>
 		<hr/>
 
-		<span style="background-color:#E7E3D8">
+		<span id="navbar">
 
 			<b>
 				<a href=".">Home</a>
 			</b>
+			&#160;
 			<b>
 				<a href="userguide">User Guide</a>
 			</b>
+			&#160;
 			<b>
 				<a href="browse">Browse the Bibliography</a>
 			</b>
+			&#160;
 			<b>
 				<a href="search">Search the Bibliography</a>
 			</b>
+			&#160;
 			<b>
 				<a href="http://etext.lib.virginia.edu">Etext</a>
 			</b>

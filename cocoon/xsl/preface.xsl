@@ -48,6 +48,7 @@
 	</xsl:template>
 	
 	<xsl:template match="div2[@type='footer']">
+		<hr/>
 		<div class="smallpara">
 			<xsl:apply-templates/>
 		</div>
