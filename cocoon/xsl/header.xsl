@@ -7,20 +7,20 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
 	<xsl:output method="xml" indent="yes"/>
 	<xsl:template name="header">
-		<div id="head" style="margin: 0 75px;">
+		<div id="head" style="margin: 20px 75px;">
 			<table id="headTop">
 				<tr>
 					<td id="headImg" style="width: 330px">
-						<img src="../images/banner_img1.jpg"/>
-						<img src="../images/banner_img2.jpg"/>
-						<img src="../images/banner_img3.jpg"/>
+						<img src="banner_img1.jpg"/>
+						<img src="banner_img2.jpg"/>
+						<img src="banner_img3.jpg"/>
 					</td>
 					<td id="headTitle" style="width: 460px; font-size: 24pt; color: #991818;">
 						<i>Collective Biographies of Women: A Bibliography, with Annotations</i>
 					</td>
 				</tr>
 			</table>
-			<h2 id="byline" style="position:relative; left: 630px; margin-top: -20px">
+			<h2 id="byline" style="position:relative; left: 630px; margin-top: -5px">
 				<i>Alison Booth</i>
 			</h2>
 			<div
