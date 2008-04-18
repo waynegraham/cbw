@@ -27,7 +27,7 @@
 				style="background:transparent url(banner_border.jpg) repeat-x scroll left bottom; width: 780px; height: 20px;"> </div>
 			<p id="subheading" style="font-size:10pt; margin-left: 10px;">
 				<i>Includes Volumes of Three or More Female Biographies Published in English
-					1830-1940 &middot; With a Select Chronological Bibliography Prior to 1830</i>
+					1830-1940 &#x2022; With a Select Chronological Bibliography Prior to 1830</i>
 			</p>
 		</div>
 		<hr/>
