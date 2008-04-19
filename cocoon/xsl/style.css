@@ -140,6 +140,40 @@ margin-top: 0ex;
 padding-top: 1ex; 
 padding-bottom: 1ex}
 
+#head {
+margin: 20px 75px;
+}
+
+#headImg {
+width: 330px;
+}
+
+#headImg img {
+margin: 0 10px;
+}
+
+#headTitle {
+width: 460px; 
+font-size: 24pt; 
+color: #991818;
+}
+
+#byline {
+margin-left: 630px; 
+margin-top: -5px; 
+}
+
+.headBorder {
+background:transparent url(banner_border.jpg) repeat-x scroll left bottom; 
+width: 780px; 
+height: 20px;
+}
+
+h4#subheading {
+font-size:10pt;
+margin-left: 10px;
+}
+
 .navigation {
 color: black; 
 font-size: 10pt;
