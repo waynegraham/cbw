@@ -171,7 +171,8 @@ height: 20px;
 
 p#subheading {
 font-size:10pt;
-margin-left: 10px;
+margin-left: 5px;
+margin-right: -3px;
 }
 
 .navigation {
