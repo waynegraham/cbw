@@ -24,10 +24,10 @@
 				<i>Alison Booth</i>
 			</h2>
 			<div class="headBorder"/> 
-			<h4 id="subheading">
+			<p id="subheading">
 				<i>Includes Volumes of Three or More Female Biographies Published in English
 					1830-1940 &#x2022; With a Select Chronological Bibliography Prior to 1830</i>
-			</h4>
+			</p>
 		</div>
 		<hr/>
 
