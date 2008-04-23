@@ -16,7 +16,7 @@
 						<img src="banner_img3.jpg"/>
 					</td>
 					<td id="headTitle">
-						<i>Collective Biographies of Women: A Bibliography, with Annotations</i>
+						<i>Collective Biographies of Women: An Annotated Bibliography</i>
 					</td>
 				</tr>
 			</table>
