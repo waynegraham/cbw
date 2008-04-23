@@ -211,14 +211,13 @@
 				<xsl:text> </xsl:text>
 			</xsl:otherwise>
 		</xsl:choose>
-	</xsl:template>
-
-	<xsl:template match="idno">
-		<xsl:text>Bibliographic id: </xsl:text>
+	</xsl:template><xsl:template match="idno">
 		<xsl:value-of select="."/>
 		<br/>
 		<br/>
 	</xsl:template>
+
+	
 
 	<!-- If there is a reference to another work, create a link to it.  -->
 	<xsl:template match="ref">
