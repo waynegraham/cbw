@@ -35,7 +35,7 @@
 			<b>
 				<a href=".">Home</a>
 			</b> &#160; <b>
-				<a href="userguide">User Guide</a>
+				<a href="userguide">User's Guide</a>
 			</b> &#160; <b>
 				<a href="browse">Browse the Bibliography</a>
 			</b> &#160; <b>
