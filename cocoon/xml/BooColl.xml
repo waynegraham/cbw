@@ -2746,7 +2746,7 @@
        <publisher>Partridge,</publisher>
        <date>[1867].</date>
       </imprint>
-      <note> Bodleian NOT:=religious miscellany.  An 80-pp. tract with didactic examples, but not collective biography. Incl.
+      <note> Bodleian NOT:=religious advice, typology.  An 80-pp. tract with didactic examples, but not collective biography. Incl.
        16-pp. catalogue, “Illustrated Books Suitable for Presents and Distribution,” with ads for <title>
         <hi rend="italics">British Workman</hi>
        </title> and other “One Penny Monthly” magazines published by Partridge. Endpaper title list
@@ -4104,7 +4104,7 @@
        <publisher>Duckworth,</publisher>
        <date>1915.</date>
       </imprint>
-      <note> Biographer of William Penn and the Wesley family. NOT:=history.  Includes 1 p. on Elizabeth Fry
+      <note> Biographer of William Penn and the Wesley family. NOT:=religious history.  Includes 1 p. on Elizabeth Fry
        (322-3); Hannah Kilham, the Quaker missionary to the Sierra Leon freed slave colony with Anne
        Thompson (333-4); Elizabeth Hooton; Margaret Fell; Mary Fisher; Barbara Blaugdone. Catalogue.
       </note>
@@ -5142,7 +5142,7 @@
        <publisher>Bentley,</publisher>
        <date>1857.</date>
       </imprint>
-      <note>NOT:=advice and reform miscellany.</note>
+      <note>NOT:=advice and reform typology.</note>
      </bibl>
 
      <bibl id="a154"><ref>154.</ref>
@@ -6279,7 +6279,7 @@
        <publisher>S. Bagster &amp; Son,</publisher>
        <date>1875.</date>
       </imprint>
-      <note> British Library. NOT:=history. Unified narration of the lives of five Assyrian or Egyptian
+      <note> British Library. NOT:=history lecture, typology. Unified narration of the lives of five Assyrian or Egyptian
        queens: Taia, Hat-a-Su, Sammuramat, Neit-Aker, and Amytas. Contrary to earlier views, “the
        records of ancient history not only afford us many examples of illustrious empresses, sole
        and regnant, but they also show that in certain flourishing states the royal succession ran
@@ -7841,7 +7841,7 @@
        <date>1869.</date>
       </imprint>
       <note> TOC: Women of Fashion; Women of Pleasure; Married Women; Wicked Women; Female Artistes;
-       Life in a Female Seminary; Other Women; Female Institutions. NOT:=history. </note>
+       Life in a Female Seminary; Other Women; Female Institutions. NOT:=history, typology. </note>
       <note> Complete title: <title>
         <hi rend="italics">The Women of New York: or, The under-world of the great city :
          illustrating the life of women of fashion, women of pleasure, actresses and ballet girls,
@@ -9589,7 +9589,7 @@
        <publisher>Bunnell,</publisher>
        <date>1881.</date>
       </imprint>
-      <note>NOT. Partially biographical.</note>
+      <note>NOT:=religious miscellany. Partially biographical.</note>
      </bibl>
 
      <bibl id="a338">
@@ -9665,7 +9665,7 @@
        <publisher>Colburn,</publisher>
        <date>1846.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=correspondence.</note>
      </bibl>
 
      <bibl id="a342">
@@ -9814,7 +9814,7 @@
        <publisher>American Society for the Extension of University Teaching,</publisher>
        <date>1900.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=lectures, typology.</note>
      </bibl>
 
      <bibl id="a349">
@@ -9898,7 +9898,7 @@
        <publisher>Odhams,</publisher>
        <date>1905.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=portraits, catalogue.</note>
      </bibl>
 
      <bibl id="a352">
@@ -10162,7 +10162,7 @@
        <publisher>Perkins &amp; Purves,</publisher>
        <date>1843.</date>
       </imprint>
-      <note> NOT. Narratives such as “The Soldier of the Revolution,” “The Village Schoolmistress.”
+      <note> NOT:=history, typology. Narratives such as “The Soldier of the Revolution,” “The Village Schoolmistress.”
       </note>
      </bibl>
 
@@ -10509,7 +10509,7 @@
        <publisher>Cornhill,</publisher>
        <date>1922.</date>
       </imprint>
-      <note> NOT. Though mixed, it belongs with “Mothers of Great Men” subgenre. </note>
+      <note> NOT:=male-female collective biography. Though mixed, it belongs with “Mothers of Great Men” subgenre. </note>
      </bibl>
 
      <bibl id="a375">
@@ -10531,7 +10531,7 @@
        Builder of Prosperity: John B. Pierce; A Woman Banker: Mrs. Maggie L. Walker; “A Composer by
        Divine Right”: Harry T. Burleigh; A Light in a Dark Place: Miss Martha Drummer; Sure
        Foundations: Rev. James H. Dunston; A Speed of Flame: Joseph S. Cotter, Jr. </note>
-      <note> NOT. </note>
+      <note> NOT:=male-female collectiv biography.  African-American. </note>
      </bibl>
 
      <bibl id="a376"><ref>376.</ref>
@@ -10678,7 +10678,7 @@
        <date>1898;</date>
        <date>1899.</date>
       </imprint>
-      <note> NOT. “Images of women” studies of Gottfried Keller, Paul Heyse, Ibsen, Björnson,
+      <note> NOT:=literary heroines; typology. “Images of women” studies of Gottfried Keller, Paul Heyse, Ibsen, Björnson,
        Tolstoy, Strindberg, Maupassant, Barbey d'Aurevilly. </note>
      </bibl>
 
@@ -11099,7 +11099,7 @@
       <title>
        <hi rend="italics">Wives and Mothers in the Olden Time.</hi>
       </title>
-      <note> British Library. NOT. Includes lives of St. Paula and St. Olympias only. </note>
+      <note> British Library. NOT:=fewer than three. Includes lives of St. Paula and St. Olympias only. </note>
      </bibl>
 
      <bibl id="a399">
@@ -11115,7 +11115,7 @@
        <date>1918;</date>
        <date>1919.</date>
       </imprint>
-      <note> NOT. (Spanish U.S. pub.; organized by historical period). </note>
+      <note> NOT:=other than Anglophone.  A U.S. publication in Spanish.; organized by historical period. </note>
      </bibl>
 
      <bibl id="a400">
@@ -11483,7 +11483,7 @@
        <publisher>Hurst,</publisher>
        <date>1889.</date>
       </imprint>
-      <note> NOT. Anthology of fiction, with biographical sketch and portrait of each author.
+      <note> NOT:=fiction. Anthology of fiction, with biographical sketch and portrait of each author.
       </note>
      </bibl>
 
@@ -12061,9 +12061,9 @@
        <date>1888;</date>
        <date>1892.</date>
       </imprint>
-      <note> NOT. Note series of associated titles: <title>
+      <note> NOT:=auto/biography.  Note series of associated titles: <title>
         <hi rend="italics">Famous Women of the French Court</hi>
-       </title> (with following titles). </note>
+       </title> (with following titles, A436, A437, A438). </note>
      </bibl>
 
      <bibl id="a436">
@@ -12091,7 +12091,7 @@
        <publisher>Hutchinson,</publisher>
        <date>1890.</date>
       </imprint>
-      <note> NOT. Marie Louise, Empress, Consort of Napoleon I. </note>
+      <note> NOT:=auto/biography. Marie Louise, Empress, Consort of Napoleon I. </note>
      </bibl>
 
      <bibl id="a437"><ref>437.</ref>
@@ -12116,7 +12116,7 @@
        <publisher>Hutchinson,</publisher>
        <date>1893.</date>
       </imprint>
-      <note>NOT. <title>
+      <note>NOT:=auto/biography. <title>
         <hi rend="italics">Famous Women of the French Court</hi>
        </title> on spine.</note>
      </bibl>
@@ -12150,7 +12150,7 @@
        <publisher>Hutchinson,</publisher>
        <date>1893.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=auto/biography.</note>
      </bibl>
 
      <bibl id="a439">
@@ -12418,7 +12418,7 @@
       <xref>See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 175-96.</xref>
-      <note>NOT.</note>
+      <note>NOT:=auto/biography, miscellany.</note>
      </bibl>
 
      <bibl id="a450">
@@ -12974,7 +12974,7 @@
       <xref>See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 175-96.</xref>
-      <note>NOT.</note>
+      <note>NOT:=advice miscellany.</note>
      </bibl>
 
      <bibl id="a458"><ref>458.</ref>
@@ -13025,7 +13025,7 @@
       <xref>See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 175-96.</xref>
-      <note>NOT.</note>
+      <note>NOT:=auto/biography miscellany.</note>
      </bibl>
 
      <bibl id="a459">
@@ -13069,7 +13069,8 @@
       </imprint>
       <xref>See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
-       </title> 175-96.</xref>
+      </title> 175-96.</xref>
+      <note>NOT:=auto/biography miscellany.</note>
      </bibl>
 
      <bibl id="a460">
@@ -13085,6 +13086,7 @@
        <date>1854;</date>
        <date>1856.</date>
       </imprint>
+      <note>Biblical.</note>
      </bibl>
 
      <bibl id="a461">
@@ -13446,7 +13448,7 @@
        <publisher>n.p.,</publisher>
        <date>1937.</date>
       </imprint>
-      <note> NOT. M.A. Thesis, <date>1935</date>. One of several similar published studies at that
+      <note> NOT:=history, typology. M.A. Thesis, <date>1935</date>. One of several similar published studies at that
        time. </note>
      </bibl>
 
@@ -13682,7 +13684,7 @@
        <publisher>Harvey &amp; Darton,</publisher>
        <date>1844.</date>
       </imprint>
-      <note> NOT. Centered on George Fox. </note>
+      <note> NOT:=male. Centered on George Fox. </note>
      </bibl>
 
      <bibl id="a484">
@@ -14072,7 +14074,7 @@
        <publisher>Colburn,</publisher>
        <date>1843.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=history.</note>
      </bibl>
 
      <bibl id="a502">
