@@ -311,9 +311,9 @@
      collection with that chart will give a sense of how closely the list conforms to the consensus
      on the representative eminent women of history at the time of publication. </p>
 
-    <p><hi rend="bold">Alterations</hi> to this bibliography since publication of the book have been
-     made silently in the entries themselves, but are listed separately in a linked appendix. Where
-     a new item is inserted in the chronological or alphabetical order, it is marked by a letter
+    <p><hi rend="bold">Corrections</hi> or additions to the publication data provided in the bibliographic entries printed in the book will be marked.  Other changes
+     in annotation, cross referencing, etc. have been made silently in the entries themselves. Where
+     a new item is inserted in the chronological or alphabetical order, it is marked by a capital letter
      (e.g. 762A), so as to avoid changing or confusing item numbers discussed in <hi rend="italics"
       >How to Make It as a Woman</hi>. </p>
 
@@ -668,7 +668,7 @@
        <date>1759;</date>
        <date>1776.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT: =a male collective biography</note>
      </bibl>
 
      <bibl id="c019">
@@ -1190,7 +1190,7 @@
        <publisher>Southwick &amp; Hardcast,</publisher>
        <date>1807.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=advice miscellany</note>
      </bibl>
 
      <bibl id="c038">
@@ -2746,7 +2746,7 @@
        <publisher>Partridge,</publisher>
        <date>[1867].</date>
       </imprint>
-      <note> Bodleian NOT. 80-pp. tract with didactic examples, but not collective biography. Incl.
+      <note> Bodleian NOT:=religious miscellany.  An 80-pp. tract with didactic examples, but not collective biography. Incl.
        16-pp. catalogue, “Illustrated Books Suitable for Presents and Distribution,” with ads for <title>
         <hi rend="italics">British Workman</hi>
        </title> and other “One Penny Monthly” magazines published by Partridge. Endpaper title list
@@ -2776,7 +2776,7 @@
        <publisher>American Sunday-School Union,</publisher>
        <date>1850.</date>
       </imprint>
-      <note> British Library. NOT. Twelve chapters with titles that place the qualities first, the
+      <note> British Library. NOT=male-female collective biography. Twelve chapters with titles that place the qualities first, the
        names of male examplars next, and include only two women's names, Lady Russell and Elizabeth
        Fry. Cf. pairing of "great and good" or "good and great" in titles by <ref target="a186"
         >Robert Cochrane</ref>, <ref target="a489">Kirkes</ref>, <ref target="a700">Sargeant</ref>,
@@ -2971,7 +2971,7 @@
        Letters about Maria Walpole, . . . Niece of Horace Walpole; A Bluestocking at Court: Why
        Fanny Burney, Madame D'Arblay, Retired from Court in <date>1791</date>; The Darcys of Rosing:
        A Reintroduction to Some of the Characters of Miss Austen's Novels.” </note>
-      <note> NOT. Preface: “The aim of these stories is not historical accuracy. . . . rather . . .
+      <note> NOT:=biographical fiction. Preface: “The aim of these stories is not historical accuracy. . . . rather . . .
        to re-create the personalities of a succession of charming women. . . . as I have imagined
        them” (n.p.). </note>
      </bibl>
@@ -3337,7 +3337,7 @@
        <publisher>Macmillan,</publisher>
        <date>1919.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT=auto/biography; fewer than three subjects.</note>
      </bibl>
 
      <bibl id="a075">
@@ -3562,7 +3562,7 @@
        <publisher>Dutton,</publisher>
        <date>1914.</date>
       </imprint>
-      <note> NOT. British Library lists Dent, <date>1914</date> edition under the former title.
+      <note> NOT=auto/biography; fewer than three subjects.  Includes examples of women's careers.  British Library lists Dent, <date>1914</date> edition under the former title.
        Blackwell is a frequent subject, Fawcett a presenter and (rarely) a subject. </note>
      </bibl>
 
@@ -3578,7 +3578,7 @@
        <publisher>Epworth,</publisher>
        <date>1939.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT=drama.</note>
      </bibl>
 
      <bibl id="a086"><ref>86.</ref>
@@ -4104,7 +4104,7 @@
        <publisher>Duckworth,</publisher>
        <date>1915.</date>
       </imprint>
-      <note> Biographer of William Penn and the Wesley family. NOT. A history; incl. 1 p. on E. Fry
+      <note> Biographer of William Penn and the Wesley family. NOT:=history.  Includes 1 p. on Elizabeth Fry
        (322-3); Hannah Kilham, the Quaker missionary to the Sierra Leon freed slave colony with Anne
        Thompson (333-4); Elizabeth Hooton; Margaret Fell; Mary Fisher; Barbara Blaugdone. Catalogue.
       </note>
@@ -4193,7 +4193,7 @@
       <xref>Also listed under Fortescue-Brickdale, and as <title>
         <hi rend="italics">Eleanor Fortesque Brickdale's Golden Book of Famous Women</hi>
        </title>.</xref>
-      <note> NOT. Elegant album in blue cloth with golden lettering and decoration: a frieze of
+      <note> NOT=fiction.  A mix of historical fiction and biography, including literary heroines.  Elegant album in blue cloth with golden lettering and decoration: a frieze of
        early-modern figures strolling through an orchard on the front cover. 200 pp. of large type
        and wide margins. Pasted-in color illustrations by “E.F.B.”: mostly of a solitary woman in a
        pastoral or garden setting. Exceptions: Abelard embraces an ecstatic Eloise; Beatrice and
@@ -4473,7 +4473,7 @@
        <pubPlace>Adelaide:</pubPlace>
        <publisher>Rigby,</publisher>
        <date>1936.</date>
-      </imprint> Illus. <note> NOT. Frontispiece engraving of Adelaide (pasted in). Three-color
+      </imprint> Illus. <note> NOT=national miscellany. Frontispiece engraving of Adelaide (pasted in). Three-color
        cardboard cover with rising sun, ship, compass; “<date>1836</date>” inscribed in the waves;
         “<date>1936</date>” on the compass. “We want the youth of S. Australia to know and to glory
        in what their forebears did, and to realize what women are doing even now in the outback
@@ -4515,7 +4515,7 @@
        <publisher>Arnold,</publisher>
        <date>1895.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=reference.</note>
      </bibl>
 
      <bibl id="a125"><ref>125.</ref>
@@ -4626,7 +4626,7 @@
        <publisher>Dean,</publisher>
        <date>1883.</date>
       </imprint>
-      <note> NOT. Subjects and publisher common in this subgenre. </note>
+      <note> NOT=fewer than three subjects. Subjects and publisher common in this subgenre. </note>
      </bibl>
 
      <bibl id="a130">
@@ -4689,7 +4689,7 @@
        <publisher>Sampson Low, Marston,</publisher>
        <date>1893.</date>
       </imprint>
-      <note>British Library. NOT. Compare <ref target="a245">Eagle, <title>
+      <note>British Library. NOT:=reform miscellany. Compare <ref target="a245">Eagle, <title>
          <hi rend="italics">The Congress of Women</hi>
         </title></ref> and other compilations of <date>1893-1894.</date></note>
      </bibl>
@@ -5097,7 +5097,7 @@
        <publisher>Booth,</publisher>
        <date>1864.</date>
       </imprint>
-      <note> NOT. Full title: <title>
+      <note> NOT:=male-female collective biography. Full title: <title>
         <hi rend="italics">French Authors at Home. Episodes in the Lives and Works of Balzac--Madame
          de Girardin--George Sand--Lamartine--Léon Gozlan--Lamennais--Victor Hugo, etc.</hi>
        </title> Challice also published as “Annie E. Armstrong,” author of juvenile fiction. </note>
@@ -5142,7 +5142,7 @@
        <publisher>Bentley,</publisher>
        <date>1857.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=advice and reform miscellany.</note>
      </bibl>
 
      <bibl id="a154"><ref>154.</ref>
@@ -5439,7 +5439,7 @@
        <publisher>Dodd, Mead,</publisher>
        <date>[n.d.].</date>
       </imprint>
-      <note> NOT. Anonymous in <date>1885</date>. Mrs. Rundle Charles stated as author,
+      <note> NOT:=male collective biography. Anonymous in <date>1885</date>. Mrs. Rundle Charles stated as author,
        <date>1895</date>. </note>
      </bibl>
 
@@ -5498,7 +5498,7 @@
        <publisher>Carter &amp; Hendee,</publisher>
        <date>1832.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=fewer than three subjects.</note>
      </bibl>
 
      <bibl id="a169"><ref>169.</ref>
@@ -5513,7 +5513,7 @@
        <publisher>Carter &amp; Hendee,</publisher>
        <date>1832.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=fewer than three subjects.</note>
      </bibl>
 
      <bibl id="a170"><ref>170.</ref>
@@ -5647,7 +5647,7 @@
        <date>1854;</date>
        <date>1860.</date>
       </imprint>
-      <note>NOT. The third Mrs. Judson (pseudonym “Fanny Forester”) wrote the life of the second
+      <note>NOT:=auto/biography. The third Mrs. Judson (pseudonym “Fanny Forester”) wrote the life of the second
        Mrs. Judson. See collective biographies of the three wives by <ref target="a249">Eddy,</ref>
        <ref target="a386">Hartley,</ref> and <ref target="a885">Willson.</ref></note>
      </bibl>
@@ -6095,7 +6095,7 @@
        <date>[1920-38].</date>
       </imprint> Vol. 1: <date>1861-1920</date>; vol. 2: <date>1861-1923</date>; vol. 3:
        <date>1861-1925</date>; vol. 4: <date>1861-1927</date>; vol. 5: <date>1861-1929</date>; vol.
-      6: <date>1861-1938</date>. <note> NOT. Biographical sketches of over one hundred women of the
+      6: <date>1861-1938</date>. <note> NOT:=reference. Biographical sketches of over one hundred women of the
        South written to honor women of the confederacy. </note>
      </bibl>
 
@@ -6279,7 +6279,7 @@
        <publisher>S. Bagster &amp; Son,</publisher>
        <date>1875.</date>
       </imprint>
-      <note> British Library. NOT. Unified narration of the lives of five Assyrian or Egyptian
+      <note> British Library. NOT:=history. Unified narration of the lives of five Assyrian or Egyptian
        queens: Taia, Hat-a-Su, Sammuramat, Neit-Aker, and Amytas. Contrary to earlier views, “the
        records of ancient history not only afford us many examples of illustrious empresses, sole
        and regnant, but they also show that in certain flourishing states the royal succession ran
@@ -6348,7 +6348,7 @@
       </imprint>
       <note> TOC: David George Hogarth; Gertrude Bell; Florence Bell: an epilogue; Hugh Chisholm;
        Ralph Thicknesse; The Ladies of Oxford. </note>
-      <note> NOT. </note>
+      <note> NOT:=male-female collective biography. </note>
      </bibl>
 
      <bibl id="a202">
@@ -6387,7 +6387,7 @@
        <publisher>Chapman,</publisher>
        <date>1904.</date>
       </imprint>
-      <note> NOT. A male author [<title>
+      <note> NOT:=literary miscellany. A male author [<title>
         <hi rend="italics">The Metaphysics of J.S. Mill</hi>
        </title>, <title>
         <hi rend="italics">The Idea of Tragedy</hi>
@@ -6595,7 +6595,7 @@
        <publisher>Harcourt,</publisher>
        <date>n.d.</date>
       </imprint>
-      <note> NOT. With sixteen illustrations. Compare to <ref target="a098">Bolton, <title>
+      <note> NOT:=male-female collective biography. With sixteen illustrations. Compare to <ref target="a098">Bolton, <title>
          <hi rend="italics">Lives of Girls Who Became Famous,</hi>
         </title></ref> and <title>
         <hi rend="italics">Poor Boys Who Became Famous</hi>
@@ -7233,7 +7233,7 @@
        <publisher>n.p.,</publisher>
        <date>[1890s?].</date>
       </imprint>
-      <note> NOT. State Library NSW: article bound as pamphlet in cloth and leather, with many blank
+      <note> NOT:=article. State Library NSW: article bound as pamphlet in cloth and leather, with many blank
        pages, pagination 435-446. Illus. with photographs, a “little portrait gallery of the ladies
        of Sydney.” Subjects: Miss Rose Scott, suffrage advocate; Mrs. Stoddard and her Daughter,
        painters; Edith Cusack, artist; Miss Theodora Cowan, the “only sculptress in Australia,” “a
@@ -7841,7 +7841,7 @@
        <date>1869.</date>
       </imprint>
       <note> TOC: Women of Fashion; Women of Pleasure; Married Women; Wicked Women; Female Artistes;
-       Life in a Female Seminary; Other Women; Female Institutions. NOT. </note>
+       Life in a Female Seminary; Other Women; Female Institutions. NOT:=history. </note>
       <note> Complete title: <title>
         <hi rend="italics">The Women of New York: or, The under-world of the great city :
          illustrating the life of women of fashion, women of pleasure, actresses and ballet girls,
@@ -7895,7 +7895,7 @@
        <publisher>Fisher,</publisher>
        <date>1839.</date>
       </imprint>
-      <note>NOT. Part of advice series.</note>
+      <note>NOT:=advice. Part of Ellis's bestselling series of guides for women in domestic roles.</note>
      </bibl>
 
      <bibl id="a264">
@@ -7941,7 +7941,7 @@
        <publisher>[Brooks],</publisher>
        <date>[1912?].</date>
       </imprint>
-      <note> NOT. State Library NSW lists Corrie as author. 8 pp. pamphlet, part of series? Final
+      <note> NOT:=article. State Library NSW lists Corrie as author. 8 pp. pamphlet, part of series? Final
        page signed “Yours Faithfully Sophie Corrie” before binding (last syllable cut off).
        Third-person account begins, “Under the above category [Eminent Women?], in this week's ”Town
        and Country Journal,“ is classed Mrs. Sophie Corrie, of Colo Vale . . . a very interesting
@@ -7969,7 +7969,7 @@
        <publisher>Allen,</publisher>
        <date>1883-95.</date>
       </imprint>
-      <note> British Library. Bodleian NOT. Series of twenty-two volumes of biographies of British
+      <note> British Library. Bodleian NOT:=book series. Series of twenty-two volumes of biographies of British
        and French women (with one American entry, <title>
         <hi rend="italics">Margaret Fuller, Marchesa Ossoli</hi>
        </title> by Julia Ward Howe), including Mathilde Blind's <title>
@@ -8626,7 +8626,7 @@
        <publisher>Tilt,</publisher>
        <date>1865.</date>
       </imprint>
-      <note> NOT. The <date>1836</date> edition has a variant title: <title>
+      <note> NOT:=literary heroines. The <date>1836</date> edition has a variant title: <title>
         <hi rend="italics">Les dames de Byron; or, Portraits of the principal female characters in
          Lord Byron's poems. Engraved from original paintings by eminent artists. Under the
          superintendence of W. and E. Finden</hi>
@@ -8653,7 +8653,7 @@
        <publisher>David Boquet</publisher>
        <date>[1830s?].</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=literary heroines.</note>
      </bibl>
 
      <bibl id="a297"><ref>297.</ref>
@@ -9035,7 +9035,7 @@
       <imprint>
        <date>1916.</date>
       </imprint>
-      <note> NOT. Intended “for the use of Societies,” a pageant, with directions and speeches. A
+      <note> NOT:=drama. Intended “for the use of Societies,” a pageant, with directions and speeches. A
        judge asks, “Whom among them manifests the true ideal of womanhood? Who has rendered the
        greatest service to the world, and upon whom shall we confer the crown?” A long list mixing
        popular great names, national or occupational types, and even fictional characters, e.g.:
