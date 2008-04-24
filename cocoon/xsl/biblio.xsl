@@ -158,18 +158,7 @@
 	</xsl:template>
 
 	<xsl:template match="bibl/date">
-		<xsl:choose>
-			<xsl:when test="@value='new'">
-				<b style="color: #FF0000;">
-					here<xsl:apply-templates></xsl:apply-templates>
-				</b>				
-			</xsl:when>	
-			<xsl:otherwise>
-		<xsl:apply-templates/>				
-			</xsl:otherwise>
-			
-		</xsl:choose>
-		
+		<xsl:apply-templates/>
 	</xsl:template>
 
 	<xsl:template match="bibl/xref">
