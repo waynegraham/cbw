@@ -161,7 +161,7 @@
 		<xsl:choose>
 			<xsl:when test="@value='new'">
 				<b style="color: #FF0000;">
-					<xsl:apply-templates></xsl:apply-templates>
+					here<xsl:apply-templates></xsl:apply-templates>
 				</b>				
 			</xsl:when>	
 			<xsl:otherwise>
