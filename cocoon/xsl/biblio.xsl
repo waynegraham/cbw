@@ -131,8 +131,8 @@
 	<!--This does bibliography stuff-->
 	<xsl:template match="bibl">
 		<xsl:choose>
-			<xsl:when test="./@added !=''">
-				<div class="biblNew style='background-color: #efefef'">
+			<xsl:when test="./@added!=''">
+				<div class="biblNew">
 					<xsl:apply-templates/>
 				</div>
 			</xsl:when>
@@ -175,7 +175,7 @@
 		<xsl:choose>
 			<xsl:when test="./@added!=''">
 				<b style="color: #ff0000;">
-					<xsl:apply-templates/>
+					<xsl:value-of select="."/>
 				</b>
 			</xsl:when>
 			<xsl:otherwise>
@@ -187,7 +187,7 @@
 
 	<xsl:template match="image">
 		<a href="{@id}_full.jpg">
-			<img src="{@id}.jpg" alt="{./imageDesc}"/>
+			<img src="{@id}.jpg" alt="{./imgDesc}"/>
 		</a>
 	</xsl:template>
 
