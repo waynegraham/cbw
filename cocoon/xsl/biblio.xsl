@@ -131,8 +131,8 @@
 	<!--This does bibliography stuff-->
 	<xsl:template match="bibl">
 		<xsl:choose>
-			<xsl:when test="@added">
-				<div class="biblNew">
+			<xsl:when test="@added != ''">
+				<div class="biblNew style='background-color: #efefef'">
 					<xsl:apply-templates/>
 				</div>
 			</xsl:when>
@@ -168,7 +168,7 @@
 
 	<xsl:template match="bibl/date">
 		<xsl:choose>
-			<xsl:when test="@added">
+			<xsl:when test="./@added!=''">
 				<b style="color: #ff0000;">
 					<xsl:apply-templates/>
 				</b>
@@ -183,7 +183,7 @@
 
 	<xsl:template match="image">
 		<a href="{@id}_full.jpg">
-			<img src="{@id}.jpg" alt="{imageDesc}"/>
+			<img src="{@id}.jpg" alt="{./imageDesc}"/>
 		</a>
 	</xsl:template>
 
