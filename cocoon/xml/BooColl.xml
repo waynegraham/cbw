@@ -4,7 +4,9 @@
 <!ENTITY % ISOlat2 SYSTEM "tei/ISOlat2.pen"> %ISOlat2; 
 <!ENTITY % ISOnum SYSTEM "tei/ISOnum.pen"> %ISOnum; 
 <!ENTITY % ISOpub SYSTEM "tei/ISOpub.pen"> %ISOpub; 
-<!ENTITY % ISOtech SYSTEM "tei/ISOtech.pen"> %ISOtech; 
+<!ENTITY % ISOtech SYSTEM "tei/ISOtech.pen"> %ISOtech;
+
+<!ENTITY % no26 SYSTEM "../images/no26.jpg"> %no26;
 ]> 
 <TEI.2 id="BooColl">
  <teiHeader type="aacr2">
@@ -804,7 +806,7 @@
       </note>
      </bibl>
 
-     <bibl id="c023">
+     <bibl id="c023" added="2008-04-27">
       <idno>c023</idno>
       <date>1755.</date>
       <author><name type="last">Amory</name>, <name type="first">Thomas</name>.</author>
@@ -817,7 +819,10 @@
        <publisher>John Noon.</publisher>
       </imprint>
       <note>A generic grab-bag, possibly identical to the following. The title echoes Ballard's
-       first edition three years earlier.</note>
+      first edition three years earlier.</note>
+      <image entity="no26">
+       <imgDesc>Test image.</imgDesc>
+      </image>
      </bibl>
 
      <bibl id="c024">
@@ -887,6 +892,7 @@
        <date>1813;</date>
        <date>1815;</date>
        <date>1833.</date>
+       <date added="2008-04-27">2008.</date>
       </imprint>
       <note>British Library.</note>
      </bibl>

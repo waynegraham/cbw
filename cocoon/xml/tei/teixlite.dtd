@@ -392,7 +392,7 @@
 	| unclear | emph | foreign | gloss | hi | mentioned | soCalled 
 	| term | title | ptr | ref | xptr | xref | s | seg | gi 
 	| formula | author | biblScope | edition | editor | extent 
-	| idno | imprint | note | publisher | pubPlace | respStmt 
+	| idno | image | imprint | note | publisher | pubPlace | respStmt 
 	| index | interp | interpGrp | lb | milestone | pb | gap 
 	| anchor)* >
 
@@ -403,6 +403,7 @@
 	next IDREF #IMPLIED
 	prev IDREF #IMPLIED
 	id ID #IMPLIED
+	added CDATA #IMPLIED
 	n CDATA #IMPLIED
 	lang IDREF #IMPLIED
 	rend CDATA #IMPLIED
@@ -453,6 +454,48 @@
 	rend CDATA #IMPLIED
 	TEIform CDATA "imprint" >
 
+<!ELEMENT image 
+	((index | interp | interpGrp | lb | milestone | pb | gap 
+	| anchor)*, (head, (index | interp | interpGrp | lb | milestone 
+	| pb | gap | anchor)*)?, (p, (index | interp | interpGrp 
+	| lb | milestone | pb | gap | anchor)*)*, (imgDesc, (index 
+	| interp | interpGrp | lb | milestone | pb | gap | anchor)*)?, 
+	(text, (index | interp | interpGrp | lb | milestone | pb 
+	| gap | anchor)*)?) >
+
+
+<!ATTLIST image 
+	ana IDREFS #IMPLIED
+	corresp IDREFS #IMPLIED
+	next IDREF #IMPLIED
+	prev IDREF #IMPLIED
+	id ID #IMPLIED
+	n CDATA #IMPLIED
+	lang IDREF #IMPLIED
+	rend CDATA #IMPLIED
+	entity ENTITY #IMPLIED
+	TEIform CDATA "image" >
+
+<!ELEMENT imgDesc 
+	(#PCDATA | ident | code | kw | abbr | address | date | name 
+	| num | rs | time | add | corr | del | orig | reg | sic 
+	| unclear | emph | foreign | gloss | hi | mentioned | soCalled 
+	| term | title | ptr | ref | xptr | xref | s | seg | gi 
+	| formula | eg | bibl | biblFull | cit | q | label | list 
+	| listBibl | note | figure | stage | table | text | index 
+	| interp | interpGrp | lb | milestone | pb | gap | anchor)* >
+
+
+<!ATTLIST imgDesc 
+	ana IDREFS #IMPLIED
+	corresp IDREFS #IMPLIED
+	next IDREF #IMPLIED
+	prev IDREF #IMPLIED
+	id ID #IMPLIED
+	n CDATA #IMPLIED
+	lang IDREF #IMPLIED
+	rend CDATA #IMPLIED
+	TEIform CDATA "imgDesc" >
 
 <!ELEMENT lg 
 	((argument | byline | docAuthor | docDate | epigraph | head 
@@ -2070,6 +2113,7 @@
 	next IDREF #IMPLIED
 	prev IDREF #IMPLIED
 	id ID #IMPLIED
+	added CDATA #IMPLIED
 	n CDATA #IMPLIED
 	lang IDREF #IMPLIED
 	rend CDATA #IMPLIED

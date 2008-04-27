@@ -135,12 +135,19 @@
 		</div>
 	</xsl:template>
 
+	<xsl:template match="bib[@added]">
+		<div class="biblNew">
+			<xsl:apply-templates/>
+		</div>
+	</xsl:template>
+
 
 	<xsl:template match="bibl/author">
 		<b>
 			<xsl:choose>
 				<xsl:when test="contains(abbr, '---') and string($bibl_id)">
-					<xsl:value-of select="abbr/@expan"/><xsl:text>.  </xsl:text>
+					<xsl:value-of select="abbr/@expan"/>
+					<xsl:text>.  </xsl:text>
 				</xsl:when>
 				<xsl:otherwise>
 					<xsl:value-of select="."/>
@@ -161,6 +168,18 @@
 		<xsl:apply-templates/>
 	</xsl:template>
 
+	<xsl:template match="bibl/date[@added]">
+		<b style="color: #ff0000;">
+			<xsl:apply-templates/>
+		</b>
+	</xsl:template>
+
+	<xsl:template match="bibl/image">
+		<a href="{@entity}_full.jpg">
+			<img src="{@entity}.jpg" alt="{imageDesc}"/>
+		</a>
+	</xsl:template>
+
 	<xsl:template match="bibl/xref">
 		<br/>
 		<br/>
@@ -172,7 +191,8 @@
 			<xsl:when test="@role='translator' or @role='illustrator'">
 				<xsl:choose>
 					<xsl:when test="contains(abbr, '---') and string($bibl_id)">
-						<xsl:value-of select="abbr/@expan"/><xsl:text>,  </xsl:text>
+						<xsl:value-of select="abbr/@expan"/>
+						<xsl:text>,  </xsl:text>
 					</xsl:when>
 					<xsl:otherwise>
 						<xsl:value-of select="."/>
@@ -183,7 +203,8 @@
 				<b>
 					<xsl:choose>
 						<xsl:when test="contains(abbr, '---') and string($bibl_id)">
-							<xsl:value-of select="abbr/@expan"/><xsl:text>,  </xsl:text>
+							<xsl:value-of select="abbr/@expan"/>
+							<xsl:text>,  </xsl:text>
 						</xsl:when>
 						<xsl:otherwise>
 							<xsl:value-of select="."/>
@@ -211,13 +232,14 @@
 				<xsl:text> </xsl:text>
 			</xsl:otherwise>
 		</xsl:choose>
-	</xsl:template><xsl:template match="idno">
+	</xsl:template>
+	<xsl:template match="idno">
 		<xsl:value-of select="."/>
 		<br/>
 		<br/>
 	</xsl:template>
 
-	
+
 
 	<!-- If there is a reference to another work, create a link to it.  -->
 	<xsl:template match="ref">
