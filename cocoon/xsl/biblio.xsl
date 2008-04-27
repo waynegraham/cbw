@@ -130,17 +130,19 @@
 
 	<!--This does bibliography stuff-->
 	<xsl:template match="bibl">
-		<div class="bibl">
-			<xsl:apply-templates/>
-		</div>
+		<xsl:choose>
+			<xsl:when test="@added">
+				<div class="biblNew">
+					<xsl:apply-templates/>
+				</div>
+			</xsl:when>
+			<xsl:otherwise>
+				<div class="bibl">
+					<xsl:apply-templates/>
+				</div>
+			</xsl:otherwise>
+		</xsl:choose>
 	</xsl:template>
-
-	<xsl:template match="bib[@added]">
-		<div class="biblNew">
-			<xsl:apply-templates/>
-		</div>
-	</xsl:template>
-
 
 	<xsl:template match="bibl/author">
 		<b>
@@ -165,16 +167,21 @@
 	</xsl:template>
 
 	<xsl:template match="bibl/date">
+		<xsl:choose>
+			<xsl:when test="@added">
+				<b style="color: #ff0000;">
+					<xsl:apply-templates/>
+				</b>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:apply-templates></xsl:apply-templates>
+			</xsl:otherwise>
+		</xsl:choose>
+		
 		<xsl:apply-templates/>
 	</xsl:template>
 
-	<xsl:template match="bibl/date[@added]">
-		<b style="color: #ff0000;">
-			<xsl:apply-templates/>
-		</b>
-	</xsl:template>
-
-	<xsl:template match="bibl/image">
+	<xsl:template match="image">
 		<a href="{@id}_full.jpg">
 			<img src="{@id}.jpg" alt="{imageDesc}"/>
 		</a>
