@@ -175,8 +175,8 @@
 	</xsl:template>
 
 	<xsl:template match="bibl/image">
-		<a href="{@entity}_full.jpg">
-			<img src="{@entity}.jpg" alt="{imageDesc}"/>
+		<a href="{@id}_full.jpg">
+			<img src="{@id}.jpg" alt="{imageDesc}"/>
 		</a>
 	</xsl:template>
 

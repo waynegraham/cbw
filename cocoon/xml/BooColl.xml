@@ -5,8 +5,6 @@
 <!ENTITY % ISOnum SYSTEM "tei/ISOnum.pen"> %ISOnum; 
 <!ENTITY % ISOpub SYSTEM "tei/ISOpub.pen"> %ISOpub; 
 <!ENTITY % ISOtech SYSTEM "tei/ISOtech.pen"> %ISOtech;
-
-<!ENTITY % no26 SYSTEM "../images/no26.jpg"> %no26;
 ]> 
 <TEI.2 id="BooColl">
  <teiHeader type="aacr2">
@@ -820,7 +818,7 @@
       </imprint>
       <note>A generic grab-bag, possibly identical to the following. The title echoes Ballard's
       first edition three years earlier.</note>
-      <image entity="no26">
+      <image id="no26">
        <imgDesc>Test image.</imgDesc>
       </image>
      </bibl>
