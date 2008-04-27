@@ -130,18 +130,9 @@
 
 	<!--This does bibliography stuff-->
 	<xsl:template match="bibl">
-		<xsl:choose>
-			<xsl:when test="./@added!=''">
-				<div class="biblNew">
-					<xsl:apply-templates/>
-				</div>
-			</xsl:when>
-			<xsl:otherwise>
-				<div class="bibl">
-					<xsl:apply-templates/>
-				</div>
-			</xsl:otherwise>
-		</xsl:choose>
+		<div class="bibl">
+			<xsl:apply-templates/>
+		</div>
 	</xsl:template>
 
 	<xsl:template match="bibl/author">
@@ -167,10 +158,10 @@
 	</xsl:template>
 
 	<xsl:template match="bibl/date">
-		<xsl:apply-templates/>			
+		<xsl:apply-templates/>
 	</xsl:template>
-	
-	
+
+
 	<xsl:template match="bibl/imprint/date">
 		<xsl:choose>
 			<xsl:when test="./@added!=''">
@@ -179,11 +170,10 @@
 				</b>
 			</xsl:when>
 			<xsl:otherwise>
-				<xsl:apply-templates></xsl:apply-templates>
+				<xsl:apply-templates/>
 			</xsl:otherwise>
 		</xsl:choose>
-		<xsl:apply-templates/>
-		</xsl:template>
+	</xsl:template>
 
 	<xsl:template match="image">
 		<a href="{@id}_full.jpg">
@@ -245,9 +235,20 @@
 		</xsl:choose>
 	</xsl:template>
 	<xsl:template match="idno">
-		<xsl:value-of select="."/>
-		<br/>
-		<br/>
+		<xsl:choose>
+			<xsl:when test="./@added!=''">
+				<b style="color: #ff0000;">
+					<xsl:value-of select="."/>
+				</b>
+				<br/>
+				<br/>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:value-of select="."/>
+				<br/>
+				<br/>
+			</xsl:otherwise>
+		</xsl:choose>
 	</xsl:template>
 
 

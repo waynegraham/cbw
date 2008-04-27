@@ -804,8 +804,8 @@
       </note>
      </bibl>
 
-     <bibl id="c023" added="2008-04-27">
-      <idno>c023</idno>
+     <bibl id="c023">
+      <idno  added="2008-04-27">c023</idno>
       <date>1755.</date>
       <author><name type="last">Amory</name>, <name type="first">Thomas</name>.</author>
       <title type="ref">
