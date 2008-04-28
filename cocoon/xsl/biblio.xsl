@@ -176,7 +176,7 @@
 	</xsl:template>
 
 	<xsl:template match="image">
-		<a href="full/{@id}_full.jpg">
+		<a href="/full/{@id}_full.jpg">
 			<img src="{@id}.jpg" alt="{./imgDesc}"/>
 		</a>
 	</xsl:template>
