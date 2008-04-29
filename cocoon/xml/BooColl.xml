@@ -1194,7 +1194,7 @@
        <publisher>Southwick &amp; Hardcast,</publisher>
        <date>1807.</date>
       </imprint>
-      <note>NOT:=advice miscellany</note>
+      <note>NOT:=advice, miscellany</note>
      </bibl>
 
      <bibl id="c038">
@@ -5146,7 +5146,7 @@
        <publisher>Bentley,</publisher>
        <date>1857.</date>
       </imprint>
-      <note>NOT:=advice and reform typology.</note>
+      <note>NOT:=advice, reform typology.</note>
      </bibl>
 
      <bibl id="a154"><ref>154.</ref>
@@ -5606,7 +5606,7 @@
       </imprint>
       <note> TOC: I. Comprising the Women of Asia and Africa; II. Comprising the Women of Europe,
        America, and South Sea Islands. </note>
-      <note> NOT. </note>
+      <note> NOT:=history, typology </note>
      </bibl>
 
      <bibl id="a172">
@@ -10535,7 +10535,7 @@
        Builder of Prosperity: John B. Pierce; A Woman Banker: Mrs. Maggie L. Walker; “A Composer by
        Divine Right”: Harry T. Burleigh; A Light in a Dark Place: Miss Martha Drummer; Sure
        Foundations: Rev. James H. Dunston; A Speed of Flame: Joseph S. Cotter, Jr. </note>
-      <note> NOT:=male-female collectiv biography.  African-American. </note>
+      <note> NOT:=male-female collective biography.  African-American. </note>
      </bibl>
 
      <bibl id="a376"><ref>376.</ref>
@@ -11152,7 +11152,7 @@
       </imprint>
       <note> TOC: A Noble Woman's Experience / Joseph Fielding Smith; A Remarkable Life /
        “Homespun”; A Heroine of Haun's Mill Massacre / E.B.W. </note>
-      <note> NOT: male-female. </note>
+      <note> NOT: male-female collective biography. </note>
      </bibl>
 
      <bibl id="a402">
@@ -11292,7 +11292,7 @@
       <note> TOC: Maria Leczinska, or, The Conspiracy; Olga, Grand Duchess of Russia; Marietta
        Tintoret : A Tale of Venice; Isabelle of France and Richard of Bordeaux, or, The Youthful
        Queen; Jeanne Hachette, or, The Heroine of Beauvais. </note>
-      <note> NOT: fictional. </note>
+      <note> NOT:=historical fiction. </note>
      </bibl>
 
      <bibl id="a408"><ref>408.</ref>
@@ -11708,7 +11708,7 @@
        passages in the life of Madame de Parabere; Jacques Callot; Ralph and Gabrielle; The hundred
        and one pictures of Tardif; Hands full of roses, full of gold, and full of blood; Prudhon;
        Mademoiselle de Marivaux; The Daughter of Sedaine; Plato the divine. </note>
-      <note> NOT: male/female. </note>
+      <note> NOT:=male-female collective biography. </note>
      </bibl>
 
      <bibl id="a422">
@@ -14279,7 +14279,7 @@
        <publisher>Le Quesne &amp; Hooten-Smith,</publisher>
        <date>1913.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=reference.</note>
      </bibl>
 
      <bibl id="a513"><ref>513.</ref>
@@ -14357,7 +14357,7 @@
        <publisher>Barnum,</publisher>
        <date>1908.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=male-female collective biography.</note>
      </bibl>
 
      <bibl id="a516">
@@ -14374,7 +14374,7 @@
        <publisher>Perry-Nalle,</publisher>
        <date>1912.</date>
       </imprint>
-      <note> NOT. Encyclopedic, with 15 ½-pp., double-column subject index and extensive list of
+      <note> NOT:=reference, history.  Encyclopedic, with 15 ½-pp., double-column subject index and extensive list of
        works consulted. “Appreciating the fact that scant tribute has been paid to the women of
        America and that no concrete record of their achievements existed, I have . . . endeavored .
        . . to bring together the names of the women well known, and to rescue from oblivion those
@@ -14747,7 +14747,7 @@
        <publisher>Macmillan,</publisher>
        <date>1904.</date>
       </imprint>
-      <note> NOT. Collective portraits of types: “The pioneer woman of the West. The woman in the
+      <note> NOT:=typology.  Collective portraits of types: “The pioneer woman of the West. The woman in the
        small town. The southern woman and reconstruction. Woman's suffrage in Colorado. The woman in
        her club. The woman from the college. The woman in the play. The American woman of letters.
        Women and philanthropy. The school teacher. The mother in the tenement home. The woman on the
@@ -15302,7 +15302,7 @@
        <publisher>Pott,</publisher>
        <date>1914.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=literary heroines.</note>
      </bibl>
 
      <bibl id="a559">
@@ -15880,7 +15880,7 @@
        <publisher>Bryce,</publisher>
        <date>1855.</date>
       </imprint>
-      <note> NOT. Biographical elements. </note>
+      <note> NOT:=history.  Biographical elements. </note>
      </bibl>
 
      <bibl id="a586">
@@ -16001,7 +16001,7 @@
        <publisher>Appleton,</publisher>
        <date>1913.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=history.</note>
      </bibl>
 
      <bibl id="a591">
@@ -16402,7 +16402,7 @@
        <publisher>Duckworth,</publisher>
        <date>1933.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=history.</note>
      </bibl>
 
      <bibl id="a611">
@@ -16432,7 +16432,7 @@
        <date>1935.</date>
       </imprint>
       <note> TOC: The Sarashina Diary; The diary of Murasaki Shikibu; The diary of Izumi Shikubu. </note>
-      <note> NOT. </note>
+      <note> NOT:=auto/biography. </note>
      </bibl>
 
      <bibl id="a612"><ref>612.</ref>
@@ -16885,7 +16885,7 @@
        <date>1873;</date>
        <date>1874.</date>
       </imprint>
-      <note> NOT. An individual “life,” of Mrs. James Parton, fellow contributor to <ref
+      <note> NOT:=auto/biography.  An individual “life,” of Mrs. James Parton, fellow contributor to <ref
         target="a630">
         <title>
          <hi rend="italics">Eminent Women of the Age</hi>
@@ -16959,7 +16959,7 @@
        <date>1885;</date>
        <date>1886.</date>
       </imprint>
-      <note> NOT. Includes biography of Queen Victoria by Louise Chandler Moulton. </note>
+      <note> NOT:=male-female collective biography.  Includes biography of Queen Victoria by Louise Chandler Moulton. </note>
      </bibl>
 
      <bibl id="a630"><ref>630.</ref>
@@ -17047,7 +17047,7 @@
        <date>1868;</date>
        <date>1869.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=male-female collective biography.</note>
      </bibl>
 
      <bibl id="a632">
@@ -17681,7 +17681,7 @@
       </imprint>
       <note> TOC: Jonathan Swift; Alexander Pope; Samuel Johnson; Lawrence Sterne; William Cowper;
        Thomas Carlyle; Edgar Allan Poe; Percy Bysshe Shelley; John Keats. </note>
-      <note> NOT. Reed was a prolific author of fiction, women's self-help, cookbooks, many for
+      <note> NOT:=male-female collective biography.  Reed was a prolific author of fiction, women's self-help, cookbooks, many for
        Putnam's, some under the pseudonym Olive Green. </note>
      </bibl>
 
@@ -18237,7 +18237,7 @@
        <date>1866;</date>
        <date>1888.</date>
       </imprint>
-      <note> NOT. <xref>Oldfield</xref>. Includes women. </note>
+      <note> NOT:=male-female collective biography. <xref>Oldfield</xref>. Includes women. </note>
      </bibl>
 
      <bibl id="a692">
@@ -18532,7 +18532,7 @@
        <publisher>Schmidt,</publisher>
        <date>1933.</date>
       </imprint>
-      <note> NOT. “This book is composed of two parts: the first is a compilation of biographical
+      <note> NOT:=miscellanry, history.  “This book is composed of two parts: the first is a compilation of biographical
        sketches of accomplished women throughout the world; the second is a series of essays on the
        social history of dress and fashion.” </note>
      </bibl>
@@ -18724,7 +18724,7 @@
        <publisher>Brentano's,</publisher>
        <date>1927.</date>
       </imprint>
-      <note> NOT. Includes Anna, Countess of Shrewsbury, and Mary de la Rivière Manley with men.
+      <note> NOT:=male-female collective biography.   Includes Anna, Countess of Shrewsbury, and Mary de la Rivière Manley with men.
       </note>
      </bibl>
 
@@ -18830,7 +18830,7 @@
        <publisher>Scribner,</publisher>
        <date>1857.</date>
       </imprint>
-      <note> NOT. Including 7 women out of 17 in chronological order. Sigourney author of <title>
+      <note> NOT:=male-female collective biography.  Including 7 women out of 17 in chronological order. Sigourney author of <title>
         <hi rend="italics">Pocahontas and Other Poems</hi>
        </title> (<date>1841</date>); <title>
         <hi rend="italics">Biography of Pious Persons: Abridged for Youth</hi>
@@ -18854,7 +18854,7 @@
        <publisher>Nelson,</publisher>
        <date>1852.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=advice.</note>
      </bibl>
 
      <bibl id="a720">
@@ -19479,7 +19479,7 @@
        <publisher>Scribner,</publisher>
        <date>1912.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=male-female collective biography.</note>
      </bibl>
 
      <bibl id="a751">
@@ -19685,7 +19685,7 @@
        <publisher>Harrap,</publisher>
        <date>1917.</date>
       </imprint>
-      <note> NOT. Collective autobiography; prosopography of Woman in War. </note>
+      <note> NOT:=auto/biography, history.  Collection of memoirs of a type; prosopography of Woman in War. </note>
      </bibl>
 
      <bibl id="a758">
@@ -20378,7 +20378,7 @@
        <date>1908;</date>
        <date>1913.</date>
       </imprint>
-      <note> NOT. Descendent of <ref target="a456">Jameson's <title>
+      <note> NOT:=art history, religious typology.  Descendent of <ref target="a456">Jameson's <title>
          <hi rend="italics">Sacred and Legendary Art</hi>
         </title></ref>. </note>
      </bibl>
@@ -20462,7 +20462,7 @@
        <publisher>R. Clarke,</publisher>
        <date>1893.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=miscellany, history.</note>
      </bibl>
 
      <bibl id="a785">
@@ -21151,7 +21151,7 @@
        <publisher>Heywood,</publisher>
        <date>1907.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=auto/biography.</note>
      </bibl>
 
      <bibl id="a816">
@@ -21242,7 +21242,7 @@
        <publisher>Eaton and Mains,</publisher>
        <date>1907.</date>
       </imprint>
-      <note> NOT (i.e. male-female). Keddie a.k.a. Tytler [pseud] was a novelist who wrote a
+      <note> NOT:=male-female collective biography. Keddie a.k.a. Tytler [pseud] was a novelist who wrote a
        biography of Victoria; Marie Antoinette; volumes on Modern Painters, Musical Composers, Old
        Masters, etc. </note>
      </bibl>
@@ -21267,7 +21267,7 @@
        <publisher>Ward, Lock,</publisher>
        <date>1895.</date>
       </imprint>
-      <note> NOT. One of her many historical or instructive fictional works. </note>
+      <note> NOT:=historical fiction, advice.  One of her many historical or instructive fictional works. </note>
      </bibl>
 
      <bibl id="a819">
@@ -21461,7 +21461,7 @@
        <date>1890;</date>
        <date>1891.</date>
       </imprint>
-      <note> NOT. Suffragist, issued the Annual Reports of the National American Woman Suffrage
+      <note> NOT:=male-female collective biography.  Suffragist, issued the Annual Reports of the National American Woman Suffrage
        Association from <date>1890s</date> through <date>1905</date>. </note>
      </bibl>
     </div2>
@@ -21679,7 +21679,7 @@
        <publisher>n.p.,</publisher>
        <date>1906.</date>
       </imprint>
-      <note> NOT. Mounted newspaper clippings. This and corresponding item below retort to Northern
+      <note> NOT:=history, typology, miscellany.  Mounted newspaper clippings. This and corresponding item below retort to Northern
        prosopographies of the women in the Civil War effort. </note>
      </bibl>
 
@@ -22109,7 +22109,7 @@
        <publisher>M.E. Church South,</publisher>
        <date>1922.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=religious typology.</note>
      </bibl>
 
      <bibl id="a861">
@@ -22127,7 +22127,7 @@
       <xref>See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 7-9.</xref>
-      <note> NOT. Travels, memoirs and other essays, by a prolific writer of inspirational works,
+      <note> NOT:=auto/biography, miscellany.  Travels, memoirs and other essays, by a prolific writer of inspirational works,
        travel, and biographies of the Brownings, Kate Field, and others. </note>
      </bibl>
 
@@ -22262,7 +22262,7 @@
        <publisher>Mast, Crowell &amp; Kirkpatrick,</publisher>
        <date>1897.</date>
       </imprint>
-      <note> NOT. International Dictionary incorrectly states 470, not 1470. Another encyclopedic
+      <note> NOT:=reference, history.  International Dictionary incorrectly states 470, not 1470. Another encyclopedic
        compilation associated with the occasion of the World's Columbian Exposition. Willard and
        Livermore were active participants in mutual multibiography at this period. Willard is author
        of <title>
@@ -22482,7 +22482,7 @@
        <publisher>Hutchinson,</publisher>
        <date>1902.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=art history, miscellany, history.</note>
      </bibl>
 
      <bibl id="a881">
@@ -22503,7 +22503,7 @@
        <date>1896;</date>
        <date>1897.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=art history, miscellany, history.</note>
      </bibl>
 
      <bibl id="a882">
@@ -22652,7 +22652,7 @@
        <pubPlace>Dunedin and Wellington, New Zealand:</pubPlace>
        <publisher>Reed,</publisher>
        <date>1939.</date>
-      </imprint> Illustrated. <note> NOT. A collective history, descriptive of conditions; organized
+      </imprint> Illustrated. <note> NOT:=miscellany, history.  A collective history, descriptive of conditions; organized
        by region rather than bio. subject. Yet part of <date>1930s</date> efforts in Aus. and N.Z.
        to honor pioneer women. </note>
      </bibl>
@@ -22762,7 +22762,7 @@
        <publisher>Calvo,</publisher>
        <date>1893.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=catalogue, miscellany, history.</note>
      </bibl>
 
      <bibl id="a894">
@@ -23410,7 +23410,7 @@
        <publisher>Donohue, Henneberry</publisher>
        <date>[1899?].</date>
       </imprint>
-      <note>NOT. All page citations in the text are to the <date>1892</date> ed.</note>
+      <note>NOT:=male-female, miscellany, advice.   Anecdotes.  All page citations in the text are to the <date>1892</date> ed.</note>
      </bibl>
 
      <bibl id="a926">
@@ -23436,7 +23436,7 @@
        <date>1882;</date>
        <date>1890.</date>
       </imprint>
-      <note>NOT.</note>
+      <note>NOT:=advice.</note>
      </bibl>
 
      <bibl id="a927">
