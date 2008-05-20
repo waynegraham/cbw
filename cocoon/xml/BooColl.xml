@@ -773,7 +773,7 @@
      </bibl>
 
      <bibl id="c022">
-      <idno>c022</idno>
+      <idno added="2008-05-20">c022</idno>
       <date>1752.</date>
       <author><name type="last">Serviez</name>, <name type="first">Jacques Roergas de</name>.</author>
       <title type="ref">
@@ -836,7 +836,12 @@
        </title> and <title>
         <hi rend="italics">Memoirs of Eminent Ladies.</hi>
        </title></note>
-     </bibl>
+      <image id="no1">
+       <imgDesc>
+        Test image of Queen Elizabeth I.
+       </imgDesc>       
+      </image>
+      </bibl>
 
      <bibl id="c025">
       <idno>c025</idno>
