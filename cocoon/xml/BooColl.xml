@@ -238,13 +238,12 @@
      seen or read all the entries. </p>
 
     <p>With the support of Digital Scholarly Services, Special Collections, the Department of
-     English and the editorial board of NINES, we are working on the documentation, markup, design,
-     and substance of this site. A short-term goal is to provide links to available electronic texts
-     of items in the bibliography. In 2008 we will launch a gallery of digital images of collections
-     that include a life of the nursing reformer Sister Dora, followed by future galleries.</p>
+     English and the editorial board of NINES, we are working on the design, functionality, and substance of this site. We have added links to search OCLC WorldCat and Google Books for library holdings or available digital versions of these texts.
+  In 2008 a focus of the project is to develop an image gallery of collections
+     that include a life of the nursing reformer Sister Dora, which will form the basis of a model of archives on individual subjects.</p>
 
-    <p>Please let us know if you have corrections or additions regarding book collections of short
-     biographies of women published in English, in any country, before 1940: email Alison Booth at
+    <p><hi rend="bold">Feedback:</hi> Please let us know if you have corrections or additions regarding book collections of short
+     biographies of women published in English, in any country, not only between 1830 and 1940 but also before and after these dates (for the selective bibliographies).  Email Alison Booth at
      ab6j@virginia.edu. </p>
 
     <p>-- Alison Booth, Professor, Department of English, University of Virginia </p>
@@ -400,8 +399,11 @@
        <publisher>Persea,</publisher>
        <date>1982.</date>
       </imprint>
+      <xref>See <title>
+       <hi rend="italics">How To Make It as a Woman,</hi>
+      </title> 1-2, 5, 14-15, 26, etc., and notes on pp. 283-5, etc.</xref>
      </bibl>
-
+     
      <bibl id="c005">
       <idno>c005</idno>
       <date>1443-47</date>. <author><name type="last">Bokenham</name>, <name type="first"
@@ -656,7 +658,7 @@
       <author><name type="last">Burton,</name>
        <name type="first">Robert</name>. [i.e., Nathaniel Crouch] </author>
       <title type="ref">
-       <hi rend="italics">The History of the Nine Worthies of the World.</hi>
+       <hi rend="italics">The History of the Nine Worthies of the World:  three whereof were Gentiles, I. Hector, son of Priamus, King of Troy, II. Alexander the Great ..., III. Julius Cæsar ..., : three Jews, IV. Joshua ..., V. David ..., VI. Judas Maccabeus ..., : three Christians, VII. Arthur, King of Brittain, VIII. Charles the Great, Emp. of Germany, IX. Godfrey of Bulloign, King of Jerusalem : being an account of their glorious lives, worthy actions, renowned victories and deaths : illustrated with poems and the picture of each worthy </hi>
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
@@ -770,6 +772,9 @@
        <publisher>Wayne State University Press,</publisher>
        <date>1985.</date>
       </imprint>
+      <xref>See <title>
+       <hi rend="italics">How To Make It as a Woman,</hi>
+      </title> 6, 14, 30, 55, etc..</xref>
      </bibl>
 
      <bibl id="c022">
@@ -933,6 +938,9 @@
       </imprint>]. <note>
        <ref target="c035">See 1804.</ref>
       </note>
+      <xref>See <title>
+       <hi rend="italics">How To Make It as a Woman,</hi>
+      </title>30, 52-53, 80, 299n15.</xref>
      </bibl>
 
      <bibl id="c029">
@@ -1100,7 +1108,7 @@
        <publisher>Printed for B. Crosby; Tegg and Castleman; and E. Lloyd, Betham, and Warde,
         Printers.</publisher>
       </imprint>
-      <note> Aunt of Matilda Barbara Betham-Edwards, Bethan is included as a subject in the latter's <title>
+      <note> Aunt of Matilda Barbara Betham-Edwards, Betham is included as a subject in the latter's <title>
         <hi rend="italics">Six Life Studies of Famous Women</hi>
        </title> (<date>1880</date>). Various collections list this title as <title>
         <hi rend="italics">A Biographical Dictionary of Celebrated Women of Every Age and
@@ -1262,6 +1270,9 @@
        <date>1835;</date>
        <date>1836.</date>
       </imprint>
+      <xref>See <title>
+       <hi rend="italics">How To Make It as a Woman,</hi>
+      </title>30.</xref>
       <note> “What is now comprised in the 1st vol. was compiled by Dr. Gibbons, and published in
         <date>1777</date>, in two vol., and republished in <date>1804,</date> with some . . .
        omissions. The 2nd vol. . . . was compiled by the Rev. George Jerment, and published with the
@@ -1269,7 +1280,7 @@
        . . . present ed. for the 1st time, in a collected form” (Preface, viii). See <ref
         target="c046">Sharp, <date>1822,</date></ref>
        <ref target="c041">Bacon, <date>1833,</date></ref> and <ref target="a132">Burder,
-        <date>1835,</date></ref> below.</note>
+        <date>1835.</date></ref></note>
      </bibl>
 
      <bibl id="c041">
@@ -1474,7 +1485,7 @@
        <ref target="a392">Hays,</ref>
        <ref target="a448">James,</ref>
        <ref target="a474">Junot,</ref>
-       <ref target="a696">Sainte-Beuve,</ref> below. Like others of the many collective biographies
+       <ref target="a696">Sainte-Beuve.</ref>  Like others of the many collective biographies
        of women in French, this was not directly translated into English. French sources frequently
        replenished the English catalogues. Prudhomme co-authored <title>
         <hi rend="italics">Les crimes des reines de France: depuis le commencement de la monarchie
@@ -1515,6 +1526,7 @@
        <pubPlace>London:</pubPlace>
        <publisher>T. Cadell.</publisher>
       </imprint>
+      <note>NOT:=poetry</note>
      </bibl>
 
     </div2>
@@ -1869,19 +1881,16 @@
        <pubPlace>London:</pubPlace>
        <publisher>T. Nelson,</publisher>
        <date>1877.</date>
-      </imprint>
-      <xref>Riches.</xref>
-      <imprint>
        <date>1880;</date>
        <date>1882.</date>
+        <date>[1911].</date>
       </imprint>
       <xref>Riches.</xref>
-      <imprint>
-       <date>[1911].</date>
-      </imprint>
-      <note>Bodleian Same contents as <title>
-        <hi rend="italics">The Sunshine,</hi>
-       </title> below, but adds Charlotte Brontë.</note>
+      <note>TOC: Anne Askew; Lady Vere; Lady Alicia Lisle; Elizabeth Gaunt; Elizabeth Inchbald;
+       Lady Arabella Stuart; Lady Jane Grey; Mary Countess of Pembroke; Queen Jeanne d'Albret; Mme
+       Roland; Charlotte Bronte. Bodleian.  Same contents as <ref target="a013">Adams,<title>
+       <hi rend="italics">The Sunshine,</hi>
+      </title></ref> with the addition of Charlotte Brontë.</note>
      </bibl>
 
      <bibl id="a013">
@@ -1914,7 +1923,7 @@
        Lady Arabella Stuart; Lady Jane Grey; Mary Countess of Pembroke; Queen Jeanne d'Albret; Mme
        Roland. <hi rend="bold">*Pop Chart</hi>
       </note>
-      <note>Bodleian Republished as <title>
+      <note>Bodleian.  Republished as <title>
         <hi rend="italics">Stories of the Lives of Noble Women</hi>
        </title> in Nelson's Girls' Library.</note>
      </bibl>
