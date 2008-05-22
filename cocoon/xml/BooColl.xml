@@ -823,9 +823,6 @@
       </imprint>
       <note>A generic grab-bag, possibly identical to the following. The title echoes Ballard's
       first edition three years earlier.</note>
-      <image id="no26">
-       <imgDesc>Test image.</imgDesc>
-      </image>
      </bibl>
 
      <bibl id="c024">
@@ -841,11 +838,6 @@
        </title> and <title>
         <hi rend="italics">Memoirs of Eminent Ladies.</hi>
        </title></note>
-      <image id="no1">
-       <imgDesc>
-        Test image of Queen Elizabeth I.
-       </imgDesc>       
-      </image>
       </bibl>
 
      <bibl id="c025">
