@@ -244,7 +244,7 @@
 				<br/>
 			</xsl:when>
 			<xsl:when test="starts-with(., 'a')">
-				<xsl:apply-templates/>
+				<br/>
 			</xsl:when>
 			<xsl:otherwise>
 				<xsl:value-of select="."/>
