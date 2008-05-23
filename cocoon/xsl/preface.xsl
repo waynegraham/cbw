@@ -14,7 +14,7 @@
 			<head>
 				<link type="text/css" href="style.css" rel="stylesheet"/>
 				<title>The Collective Biographies of Women: Preface</title>
-				<style> 	td.mosaic img {height: 50px; margin-right=-6px; } </style>
+				<style> td.mosaic img {height: 80px; margin-right: -22px; } </style>
 			</head>
 			<body>
 				<table id="wrap">
@@ -55,33 +55,35 @@
 						</td>
 					</tr>
 					<tr class="content">
-						<a href="/full/no14_full.jpg">
-							<img src="no14.jpg"/>
-						</a>
-						<a href="/full/no15_full.jpg">
-							<img src="no15.jpg"/>
-						</a>
-						<a href="/full/no07_full.jpg">
-							<img src="no16.jpg"/>
-						</a>
-						<a href="/full/no08_full.jpg">
-							<img src="no17.jpg"/>
-						</a>
-						<a href="/full/no09_full.jpg">
-							<img src="no18.jpg"/>
-						</a>
-						<a href="/full/no19_full.jpg">
-							<img src="no19.jpg"/>
-						</a>
-						<a href="/full/no21_full.jpg">
-							<img src="no21.jpg"/>
-						</a>
-						<a href="/full/no22_full.jpg">
-							<img src="no22.jpg"/>
-						</a>
-						<a href="/full/no23_full.jpg">
-							<img src="no23.jpg"/>
-						</a>
+						<td class="mosaic">
+							<a href="/full/no14_full.jpg">
+								<img src="no14.jpg"/>
+							</a>
+							<a href="/full/no15_full.jpg">
+								<img src="no15.jpg"/>
+							</a>
+							<a href="/full/no07_full.jpg">
+								<img src="no16.jpg"/>
+							</a>
+							<a href="/full/no08_full.jpg">
+								<img src="no17.jpg"/>
+							</a>
+							<a href="/full/no09_full.jpg">
+								<img src="no18.jpg"/>
+							</a>
+							<a href="/full/no19_full.jpg">
+								<img src="no19.jpg"/>
+							</a>
+							<a href="/full/no21_full.jpg">
+								<img src="no21.jpg"/>
+							</a>
+							<a href="/full/no22_full.jpg">
+								<img src="no22.jpg"/>
+							</a>
+							<a href="/full/no23_full.jpg">
+								<img src="no23.jpg"/>
+							</a>
+						</td>
 					</tr>
 					<tr>
 						<td class="content">
