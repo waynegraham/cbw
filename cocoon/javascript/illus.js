@@ -1,4 +1,3 @@
-<script type="text/javascript">
 function displayIllus(illus, caption)
 {
 	var illusWin=window.open('','illusWin','height=400,width=500');
@@ -11,4 +10,3 @@ function displayIllus(illus, caption)
 	illusWin.document.write('</body></html>');
 	illusWin.document.close();
 }
-</script>
