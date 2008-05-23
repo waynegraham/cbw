@@ -21,7 +21,7 @@
 <!-- sitemap.xmap created for Alison Booth's Collective Biographies of Women project -->
 <!-- author: Cindy Speer -->
 <!-- created: June 2007 -->
-<!-- last modified: July 2007 by Ethan Gruber -->
+<!-- last modified: May 2008 by Joseph Gilbert -->
 
 <map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
 	<map:components>
@@ -118,6 +118,13 @@
 			<map:match pattern="browse">
 				<map:generate src="xml/BooColl.xml" label="record"/>
 				<map:transform src="xsl/browse_bibliography.xsl" label="basiccontent"/>
+				<map:serialize type="html"/>
+			</map:match>
+			
+			<!-- displays bibliography only -->
+			<map:match pattern="popchart">
+				<map:generate src="xml/BooColl.xml" label="record"/>
+				<map:transform src="xsl/pop_chart.xsl" label="basiccontent"/>
 				<map:serialize type="html"/>
 			</map:match>
 

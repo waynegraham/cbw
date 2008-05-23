@@ -11,6 +11,7 @@
     *      from version 1.6 of the SGML TEI Lite
     *      and tweaked manually by CMSMcQ (tei@uic.edu).
     *      Tweaks concerned comments and the entity sets.
+    *        Modified May 2008 by Joseph Gilbert.
     *-->
 
 <!ELEMENT TEI.2 

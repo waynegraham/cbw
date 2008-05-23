@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 
-<!-- Stylesheet for displaying content of bibliographies in CBW.  Created by Cindy (Speer) Maisannes -->
+<!-- Stylesheet for displaying content of bibliographies in CBW.  Created by Cindy (Speer) Maisannes.  Modified March, April, May 2008 by Joseph Gilbert -->
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 

@@ -2,7 +2,7 @@
 
 <!-- This is the preface stylesheet for CBW.
 	
-	Created July 2007 by Ethan Gruber -->
+	Created July 2007 by Ethan Gruber.  Modified March, April, May 2008 by Joseph Gilbert -->
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
 	<xsl:include href="header.xsl"/>
