@@ -19,6 +19,7 @@
 				<link type="text/css" href="style.css" rel="stylesheet"/>
 				<script type="text/javascript" language="javascript" src="javascript/searchhi.js"/>
 				<title>The Collective Biographies of Women: Bibliography</title>
+				<script type="text/javascript" language="javascript" src="javascript/illus.js"/>
 			</head>
 			<body onLoad="JavaScript:SearchHighlight();">
 				<table id="wrap">
@@ -86,7 +87,7 @@
 					<tr>
 						<xsl:for-each select="image">
 							<td>
-								<a href="/full/{@id}_full.jpg">
+								<a href="javascript::displayIllus({@id}_full.jpg, {./imgDesc})">
 									<img src="{@id}.jpg" alt="{./imgDesc}"/>
 								</a>
 							</td>
