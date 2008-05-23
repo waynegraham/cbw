@@ -22,6 +22,27 @@
 							<xsl:call-template name="header"/>
 						</td>
 					</tr>
+					<tr class="mosaicRow" width="950px">
+						<xsl:for-each select="//image">
+							<td>
+								<img src="{@id}.jpg" alt="{./imgDesc}"/>
+							</td>
+						</xsl:for-each>
+					</tr>
+					<tr class="mosaicRow">
+						<td class="mosaicImg"></td>
+						<td class="mosaicImg"></td>
+						<td class="mosaicImg"></td>
+						<td class="mosaicImg"></td>
+						<td class="mosaicImg"></td>
+						<td class="mosaicImg"></td>
+						<td class="mosaicImg"></td>
+						<td class="mosaicImg"></td>
+						<td class="mosaicImg"></td>
+						<td class="mosaicImg"></td>
+						<td class="mosaicImg"></td>
+						<td class="mosaicImg"></td>
+					</tr>
 					<tr>
 						<td class="content">
 							<xsl:apply-templates select="/TEI.2/text/front/div1[@type='preface']"/>
