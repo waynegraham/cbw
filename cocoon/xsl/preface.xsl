@@ -8,7 +8,7 @@
 	<xsl:include href="header.xsl"/>
 	<xsl:include href="footer.xsl"/>
 	<xsl:include href="biblio.xsl"/>
-	
+
 	<xsl:template match="/">
 		<html>
 			<head>
@@ -22,26 +22,100 @@
 							<xsl:call-template name="header"/>
 						</td>
 					</tr>
-					<tr class="mosaicRow" width="950px">
-						<xsl:for-each select="//image">
-							<td>
-								<img src="{@id}.jpg" alt="{./imgDesc}"/>
-							</td>
-						</xsl:for-each>
+					<tr class="mosaicRow">
+						<td class="mosaicImg">
+							<a href="/full/no01A_full.jpg">
+								<img src="no01A.jpg"/>
+							</a>
+						</td>
+						<td class="mosaicImg">
+							<a href="/full/no06_full.jpg">
+								<img src="no06.jpg"/>
+							</a>
+						</td>
+						<td class="mosaicImg">
+							<a href="/full/no07_full.jpg">
+								<img src="no07.jpg"/>
+							</a>
+						</td>
+						<td class="mosaicImg">
+							<a href="/full/no08_full.jpg">
+								<img src="no08.jpg"/>
+							</a>
+						</td>
+						<td class="mosaicImg">
+							<a href="/full/no09_full.jpg">
+								<img src="no09.jpg"/>
+							</a>
+						</td>
+						<td class="mosaicImg">
+							<a href="/full/no10_full.jpg">
+								<img src="no10.jpg"/>
+							</a>
+						</td>
+						<td class="mosaicImg">
+							<a href="/full/no11_full.jpg">
+								<img src="no11.jpg"/>
+							</a>
+						</td>
+						<td class="mosaicImg">
+							<a href="/full/no12_full.jpg">
+								<img src="no12.jpg"/>
+							</a>
+						</td>
+						<td class="mosaicImg">
+							<a href="/full/no13_full.jpg">
+								<img src="no13.jpg"/>
+							</a>
+						</td>
+						
 					</tr>
 					<tr class="mosaicRow">
-						<td class="mosaicImg"></td>
-						<td class="mosaicImg"></td>
-						<td class="mosaicImg"></td>
-						<td class="mosaicImg"></td>
-						<td class="mosaicImg"></td>
-						<td class="mosaicImg"></td>
-						<td class="mosaicImg"></td>
-						<td class="mosaicImg"></td>
-						<td class="mosaicImg"></td>
-						<td class="mosaicImg"></td>
-						<td class="mosaicImg"></td>
-						<td class="mosaicImg"></td>
+						<td class="mosaicImg">
+							<a href="/full/no14_full.jpg">
+								<img src="no14.jpg"/>
+							</a>
+						</td>
+						<td class="mosaicImg">
+							<a href="/full/no15_full.jpg">
+								<img src="no15.jpg"/>
+							</a>
+						</td>
+						<td class="mosaicImg">
+							<a href="/full/no07_full.jpg">
+								<img src="no16.jpg"/>
+							</a>
+						</td>
+						<td class="mosaicImg">
+							<a href="/full/no08_full.jpg">
+								<img src="no17.jpg"/>
+							</a>
+						</td>
+						<td class="mosaicImg">
+							<a href="/full/no09_full.jpg">
+								<img src="no18.jpg"/>
+							</a>
+						</td>
+						<td class="mosaicImg">
+							<a href="/full/no19_full.jpg">
+								<img src="no19.jpg"/>
+							</a>
+						</td>
+						<td class="mosaicImg">
+							<a href="/full/no21_full.jpg">
+								<img src="no21.jpg"/>
+							</a>
+						</td>
+						<td class="mosaicImg">
+							<a href="/full/no22_full.jpg">
+								<img src="no22.jpg"/>
+							</a>
+						</td>
+						<td class="mosaicImg">
+							<a href="/full/no23_full.jpg">
+								<img src="no23.jpg"/>
+							</a>
+						</td>
 					</tr>
 					<tr>
 						<td class="content">
@@ -67,7 +141,7 @@
 			<xsl:apply-templates/>
 		</p>
 	</xsl:template>
-	
+
 	<xsl:template match="div2[@type='footer']">
 		<hr/>
 		<div class="smallpara">
