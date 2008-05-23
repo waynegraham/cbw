@@ -179,7 +179,7 @@
 		<a href="/full/{@id}_full.jpg">
 			<img src="{@id}.jpg" alt="{./imgDesc}"/>
 		</a>
-		<span>{./imgName}</span>
+		<span> <xsl:value-of select="./imgName"/></span>
 	</xsl:template>
 
 	<xsl:template match="bibl/xref">
