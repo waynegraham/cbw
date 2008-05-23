@@ -175,6 +175,10 @@
 		</xsl:choose>
 	</xsl:template>
 
+	<xsl:template match="image">
+
+	</xsl:template>
+
 	<xsl:template match="bibl/xref">
 		<br/>
 		<br/>
