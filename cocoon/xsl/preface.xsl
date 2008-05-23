@@ -14,8 +14,7 @@
 			<head>
 				<link type="text/css" href="style.css" rel="stylesheet"/>
 				<title>The Collective Biographies of Women: Preface</title>
-				<style> tr.content { width: 700px; } td.mosaicImg { width: 52px; height: 52px; }
-					td.mosaicImg img { width: 50px; height: 50px; margin-right=-6px; } </style>
+				<style> 	td.mosaic img {height: 50px; margin-right=-6px; } </style>
 			</head>
 			<body>
 				<table id="wrap">
@@ -25,33 +24,35 @@
 						</td>
 					</tr>
 					<tr class="content">
-						<a href="/full/no01A_full.jpg">
-							<img src="no01A.jpg"/>
-						</a>
-						<a href="/full/no06_full.jpg">
-							<img src="no06.jpg"/>
-						</a>
-						<a href="/full/no07_full.jpg">
-							<img src="no07.jpg"/>
-						</a>
-						<a href="/full/no08_full.jpg">
-							<img src="no08.jpg"/>
-						</a>
-						<a href="/full/no08_full.jpg">
-							<img src="no08.jpg"/>
-						</a>
-						<a href="/full/no10_full.jpg">
-							<img src="no10.jpg"/>
-						</a>
-						<a href="/full/no11_full.jpg">
-							<img src="no11.jpg"/>
-						</a>
-						<a href="/full/no12_full.jpg">
-							<img src="no12.jpg"/>
-						</a>
-						<a href="/full/no13_full.jpg">
-							<img src="no13.jpg"/>
-						</a>
+						<td class="mosaic">
+							<a href="/full/no01A_full.jpg">
+								<img src="no01A.jpg"/>
+							</a>
+							<a href="/full/no06_full.jpg">
+								<img src="no06.jpg"/>
+							</a>
+							<a href="/full/no07_full.jpg">
+								<img src="no07.jpg"/>
+							</a>
+							<a href="/full/no08_full.jpg">
+								<img src="no08.jpg"/>
+							</a>
+							<a href="/full/no08_full.jpg">
+								<img src="no08.jpg"/>
+							</a>
+							<a href="/full/no10_full.jpg">
+								<img src="no10.jpg"/>
+							</a>
+							<a href="/full/no11_full.jpg">
+								<img src="no11.jpg"/>
+							</a>
+							<a href="/full/no12_full.jpg">
+								<img src="no12.jpg"/>
+							</a>
+							<a href="/full/no13_full.jpg">
+								<img src="no13.jpg"/>
+							</a>
+						</td>
 					</tr>
 					<tr class="content">
 						<a href="/full/no14_full.jpg">
