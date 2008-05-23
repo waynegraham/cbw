@@ -14,15 +14,8 @@
 			<head>
 				<link type="text/css" href="style.css" rel="stylesheet"/>
 				<title>The Collective Biographies of Women: Preface</title>
-				<style>
-					tr.content {
-					width: 700px;
-					}
-					td.mosaicImg {
-					width: 100px;
-					height: 100px;
-					}
-				</style>
+				<style> tr.content { width: 700px; } td.mosaicImg { width: 52px; height: 52px; }
+					td.mosaicImg img { width: 50px; height: 50px; margin-right=-6px; } </style>
 			</head>
 			<body>
 				<table id="wrap">
@@ -32,99 +25,62 @@
 						</td>
 					</tr>
 					<tr class="content">
-						<td class="mosaicImg">
-							<a href="/full/no01A_full.jpg">
-								<img src="no01A.jpg"/>
-							</a>
-						</td>
-						<td class="mosaicImg">
-							<a href="/full/no06_full.jpg">
-								<img src="no06.jpg"/>
-							</a>
-						</td>
-						<td class="mosaicImg">
-							<a href="/full/no07_full.jpg">
-								<img src="no07.jpg"/>
-							</a>
-						</td>
-						<td class="mosaicImg">
-							<a href="/full/no08_full.jpg">
-								<img src="no08.jpg"/>
-							</a>
-						</td>
-						<td class="mosaicImg">
-							<a href="/full/no08_full.jpg">
-								<img src="no08.jpg"/>
-							</a>
-						</td>
-						<td class="mosaicImg">
-							<a href="/full/no10_full.jpg">
-								<img src="no10.jpg"/>
-							</a>
-						</td>
-						<td class="mosaicImg">
-							<a href="/full/no11_full.jpg">
-								<img src="no11.jpg"/>
-							</a>
-						</td>
-						<td class="mosaicImg">
-							<a href="/full/no12_full.jpg">
-								<img src="no12.jpg"/>
-							</a>
-						</td>
-						<td class="mosaicImg">
-							<a href="/full/no13_full.jpg">
-								<img src="no13.jpg"/>
-							</a>
-						</td>
-						
+						<a href="/full/no01A_full.jpg">
+							<img src="no01A.jpg"/>
+						</a>
+						<a href="/full/no06_full.jpg">
+							<img src="no06.jpg"/>
+						</a>
+						<a href="/full/no07_full.jpg">
+							<img src="no07.jpg"/>
+						</a>
+						<a href="/full/no08_full.jpg">
+							<img src="no08.jpg"/>
+						</a>
+						<a href="/full/no08_full.jpg">
+							<img src="no08.jpg"/>
+						</a>
+						<a href="/full/no10_full.jpg">
+							<img src="no10.jpg"/>
+						</a>
+						<a href="/full/no11_full.jpg">
+							<img src="no11.jpg"/>
+						</a>
+						<a href="/full/no12_full.jpg">
+							<img src="no12.jpg"/>
+						</a>
+						<a href="/full/no13_full.jpg">
+							<img src="no13.jpg"/>
+						</a>
 					</tr>
 					<tr class="content">
-						<td class="mosaicImg">
-							<a href="/full/no14_full.jpg">
-								<img src="no14.jpg"/>
-							</a>
-						</td>
-						<td class="mosaicImg">
-							<a href="/full/no15_full.jpg">
-								<img src="no15.jpg"/>
-							</a>
-						</td>
-						<td class="mosaicImg">
-							<a href="/full/no07_full.jpg">
-								<img src="no16.jpg"/>
-							</a>
-						</td>
-						<td class="mosaicImg">
-							<a href="/full/no08_full.jpg">
-								<img src="no17.jpg"/>
-							</a>
-						</td>
-						<td class="mosaicImg">
-							<a href="/full/no09_full.jpg">
-								<img src="no18.jpg"/>
-							</a>
-						</td>
-						<td class="mosaicImg">
-							<a href="/full/no19_full.jpg">
-								<img src="no19.jpg"/>
-							</a>
-						</td>
-						<td class="mosaicImg">
-							<a href="/full/no21_full.jpg">
-								<img src="no21.jpg"/>
-							</a>
-						</td>
-						<td class="mosaicImg">
-							<a href="/full/no22_full.jpg">
-								<img src="no22.jpg"/>
-							</a>
-						</td>
-						<td class="mosaicImg">
-							<a href="/full/no23_full.jpg">
-								<img src="no23.jpg"/>
-							</a>
-						</td>
+						<a href="/full/no14_full.jpg">
+							<img src="no14.jpg"/>
+						</a>
+						<a href="/full/no15_full.jpg">
+							<img src="no15.jpg"/>
+						</a>
+						<a href="/full/no07_full.jpg">
+							<img src="no16.jpg"/>
+						</a>
+						<a href="/full/no08_full.jpg">
+							<img src="no17.jpg"/>
+						</a>
+						<a href="/full/no09_full.jpg">
+							<img src="no18.jpg"/>
+						</a>
+						<a href="/full/no19_full.jpg">
+							<img src="no19.jpg"/>
+						</a>
+						<a href="/full/no21_full.jpg">
+							<img src="no21.jpg"/>
+						</a>
+						<a href="/full/no22_full.jpg">
+							<img src="no22.jpg"/>
+						</a>
+						<a href="/full/no23_full.jpg">
+							<img src="no23.jpg"/>
+						</a>
 					</tr>
 					<tr>
 						<td class="content">
