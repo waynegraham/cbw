@@ -87,7 +87,7 @@
 					<tr>
 						<xsl:for-each select="image">
 							<td>
-								<a href="#" onclick="displayIllus('{@id}_full.jpg');">
+								<a href="#" onclick="displayIllus('{@id}_full.jpg', 'escape('{./imgDesc}')');">
 									<img src="{@id}.jpg" alt="{./imgDesc}"/>
 								</a>
 							</td>
