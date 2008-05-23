@@ -14,6 +14,15 @@
 			<head>
 				<link type="text/css" href="style.css" rel="stylesheet"/>
 				<title>The Collective Biographies of Women: Preface</title>
+				<style>
+					tr.content {
+					width: 700px;
+					}
+					td.mosaicImg {
+					width: 100px;
+					height: 100px;
+					}
+				</style>
 			</head>
 			<body>
 				<table id="wrap">
@@ -22,7 +31,7 @@
 							<xsl:call-template name="header"/>
 						</td>
 					</tr>
-					<tr class="mosaicRow">
+					<tr class="content">
 						<td class="mosaicImg">
 							<a href="/full/no01A_full.jpg">
 								<img src="no01A.jpg"/>
@@ -44,8 +53,8 @@
 							</a>
 						</td>
 						<td class="mosaicImg">
-							<a href="/full/no09_full.jpg">
-								<img src="no09.jpg"/>
+							<a href="/full/no08_full.jpg">
+								<img src="no08.jpg"/>
 							</a>
 						</td>
 						<td class="mosaicImg">
@@ -70,7 +79,7 @@
 						</td>
 						
 					</tr>
-					<tr class="mosaicRow">
+					<tr class="content">
 						<td class="mosaicImg">
 							<a href="/full/no14_full.jpg">
 								<img src="no14.jpg"/>
