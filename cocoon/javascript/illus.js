@@ -6,7 +6,7 @@ function displayIllus(illus, caption)
   generator.document.write('<link rel="stylesheet" href="style.css">');
   generator.document.write('</head><body>');
   generator.document.write('<p>File name:' + illus + '</p>');
-  generator.document.write('<p>Caption:' + caption + '</p>');
+  generator.document.write('<p>Caption:' + unescape(caption) + '</p>');
   generator.document.write('<img src=\"full/' + illus + '\">');
   generator.document.write('<p><a href="javascript:self.close()"> Close</a> the popup.</p>');
   generator.document.write('</body></html>');
