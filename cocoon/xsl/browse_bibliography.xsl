@@ -81,15 +81,37 @@
 
 		<div class="bibl">
 			<xsl:apply-templates/>
+			<xsl:if test="./image != ''">
+				<table>
+					<tr>
+						<xsl:for-each select="image">
+							<td>
+								<a href="/full/{@id}_full.jpg">
+									<img src="{@id}.jpg" alt="{./imgDesc}"/>
+								</a>
+							</td>
+
+						</xsl:for-each>
+					</tr>
+					<tr>
+						<xsl:for-each select="image/imgName">
+							<td>
+								<xsl:value-of select="."/>
+							</td>
+						</xsl:for-each>
+					</tr>
+				</table>
+			</xsl:if>
 			<br/>
 			<br/>
-			<a href="http://www.worldcat.org/search?q=%22{title/hi}%22+au%3A{author/name[@type='last']}">Search OCLC WorldCat for this
-				title.</a>
+			<a
+				href="http://www.worldcat.org/search?q=%22{title/hi}%22+au%3A{author/name[@type='last']}"
+				>Search OCLC WorldCat for this title.</a>
 			<br/>
-			<a href="http://books.google.com/books?as_q=%22{title/hi}%22&amp;as_auth={author/name[@type='last']}">Search Google Books for this
-			title.</a>
+			<a
+				href="http://books.google.com/books?as_q=%22{title/hi}%22&amp;as_auth={author/name[@type='last']}"
+				>Search Google Books for this title.</a>
 		</div>
 
 	</xsl:template>
-
 </xsl:stylesheet>

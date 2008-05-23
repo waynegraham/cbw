@@ -175,13 +175,6 @@
 		</xsl:choose>
 	</xsl:template>
 
-	<xsl:template match="image">
-		<a href="/full/{@id}_full.jpg">
-			<img src="{@id}.jpg" alt="{./imgDesc}"/>
-		</a>
-		<span> <xsl:value-of select="./imgName"/></span>
-	</xsl:template>
-
 	<xsl:template match="bibl/xref">
 		<br/>
 		<br/>
