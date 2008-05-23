@@ -458,7 +458,8 @@
 	((index | interp | interpGrp | lb | milestone | pb | gap 
 	| anchor)*, (head, (index | interp | interpGrp | lb | milestone 
 	| pb | gap | anchor)*)?, (p, (index | interp | interpGrp 
-	| lb | milestone | pb | gap | anchor)*)*, (imgDesc, (index 
+	| lb | milestone | pb | gap | anchor)*)*, (imgName, (index 
+	| interp | interpGrp | lb | milestone | pb | gap | anchor)*)?, (imgDesc, (index 
 	| interp | interpGrp | lb | milestone | pb | gap | anchor)*)?, 
 	(text, (index | interp | interpGrp | lb | milestone | pb 
 	| gap | anchor)*)?) >
@@ -476,6 +477,28 @@
 	entity ENTITY #IMPLIED
 	TEIform CDATA "image" >
 
+
+<!ELEMENT imgName 
+	(#PCDATA | ident | code | kw | abbr | address | date | name 
+	| num | rs | time | add | corr | del | orig | reg | sic 
+	| unclear | emph | foreign | gloss | hi | mentioned | soCalled 
+	| term | title | ptr | ref | xptr | xref | s | seg | gi 
+	| formula | eg | bibl | biblFull | cit | q | label | list 
+	| listBibl | note | figure | stage | table | text | index 
+	| interp | interpGrp | lb | milestone | pb | gap | anchor)* >
+
+
+<!ATTLIST imgName
+	ana IDREFS #IMPLIED
+	corresp IDREFS #IMPLIED
+	next IDREF #IMPLIED
+	prev IDREF #IMPLIED
+	id ID #IMPLIED
+	n CDATA #IMPLIED
+	lang IDREF #IMPLIED
+	rend CDATA #IMPLIED
+	TEIform CDATA "imgName" >
+	
 <!ELEMENT imgDesc 
 	(#PCDATA | ident | code | kw | abbr | address | date | name 
 	| num | rs | time | add | corr | del | orig | reg | sic 
