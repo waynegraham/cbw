@@ -33,10 +33,10 @@
         </h2>
         <table>
             <thead>
-                <xsl:apply-templates select="row[@role='header']"/>
+                <xsl:apply-templates select="./row[@role='header']"/>
             </thead>
             <tbody>
-                <xsl:apply-templates select="row[@role='body']"/>
+                <xsl:apply-templates select="./row[@role='body']"/>
             </tbody>
         </table>
     </xsl:template>
@@ -51,6 +51,18 @@
         <td class="{./@role}">
             <xsl:apply-templates/>
         </td>
+    </xsl:template>
+
+    <xsl:template match="cell[@role='header']">
+        <th class="header">
+            <xsl:apply-templates/>
+        </th>
+    </xsl:template>
+
+    <xsl:template match="cell[@role='category']">
+        <th class="category" colspan="5">
+            <xsl:apply-templates/>
+        </th>
     </xsl:template>
 
 </xsl:stylesheet>
