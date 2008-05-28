@@ -8,7 +8,7 @@
         <html>
             <head>
                 <link type="text/css" href="style.css" rel="stylesheet"/>
-                <title>The Collective Biographies of Women: test</title>
+                <title>The Collective Biographies of Women: Dimensions</title>
             </head>
             <body>
                 <table id="wrap">
@@ -19,8 +19,12 @@
                     </tr>
                     <tr>
                         <td class="content">
-                            Just a test.  Should point to /TEI.2/text/front/div1[@type='dimens']
-                            <!-- <xsl:apply-templates select="/TEI.2/text/front/div1[@type='dimens']"/> -->
+                            <xsl:apply-templates select="/TEI.2/text/front/div1[@type='dimens']"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="headfoot">
+                            <xsl:call-template name="footer"/>
                         </td>
                     </tr>
                 </table>
@@ -28,14 +32,20 @@
         </html>
     </xsl:template>
     
-    <!-- <xsl:template match="/TEI.2/text/front/div1[@type='dimens']">
+    <xsl:template match="/TEI.2/text/front/div1[@type='dimens']">
         <xsl:apply-templates/>
         </xsl:template>
         
-        <xsl:template match="p">
-        <p>
+        <xsl:template match="head">
+        <h2>
         <xsl:apply-templates/>
+        </h2>
+        </xsl:template>
+    
+    <xsl:template match="p">
+        <p>
+            <xsl:apply-templates/>
         </p>
-        </xsl:template> -->
+    </xsl:template>
     
 </xsl:stylesheet>

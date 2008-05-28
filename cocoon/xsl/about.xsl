@@ -19,8 +19,7 @@
                     </tr>
                     <tr>
                         <td class="content">
-                            Just a test.  Should point to /TEI.2/text/front/div1[@type='about']
-                            <!-- <xsl:apply-templates select="/TEI.2/text/front/div1[@type='about']"/> -->
+                            <xsl:apply-templates select="/TEI.2/text/front/div1[@type='about']"/>
                         </td>
                     </tr>
                 </table>
@@ -28,14 +27,20 @@
         </html>
     </xsl:template>
     
-    <!-- <xsl:template match="/TEI.2/text/front/div1[@type='about']">
+    <xsl:template match="/TEI.2/text/front/div1[@type='about']">
         <xsl:apply-templates/>
+    </xsl:template>
+    
+    <xsl:template match="head">
+        <h2>
+            <xsl:apply-templates/>
+        </h2>
     </xsl:template>
     
     <xsl:template match="p">
         <p>
             <xsl:apply-templates/>
         </p>
-    </xsl:template> -->
+    </xsl:template>
     
 </xsl:stylesheet>

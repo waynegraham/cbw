@@ -14,7 +14,9 @@
 			<head>
 				<link type="text/css" href="style.css" rel="stylesheet"/>
 				<title>The Collective Biographies of Women: Preface</title>
-				<style> td.mosaic {padding-left: 42px; padding-right: 42px;}  td.mosaic img {height: 80px; width: 75px; margin-right: -20px; margin-bottom:-24px; border: none;} </style>
+				<style> td.mosaic {padding-left: 42px; padding-right: 42px;} td.mosaic img {height:
+					80px; width: 75px; margin-right: -20px; margin-bottom:-24px; border: none;}
+				</style>
 			</head>
 			<body>
 				<table id="wrap">
@@ -22,6 +24,9 @@
 						<td class="headfoot">
 							<xsl:call-template name="header"/>
 						</td>
+					</tr>
+					<tr class="content">
+						<xsl:apply-templates select="/TEI.2/text/front/div1[@type='preface']"/>
 					</tr>
 					<tr class="content">
 						<td class="mosaic">
@@ -99,7 +104,8 @@
 					</tr>
 					<tr>
 						<td class="content">
-							<xsl:apply-templates select="/TEI.2/text/front/div1[@type='preface']"/>
+							<xsl:apply-templates
+								select="/TEI.2/text/front/div1[@type='preface']/div2"/>
 						</td>
 					</tr>
 					<tr>
@@ -113,6 +119,11 @@
 	</xsl:template>
 
 	<xsl:template match="/TEI.2/text/front/div1[@type='preface']">
+		<xsl:apply-templates select="p"/>
+	</xsl:template>
+
+
+	<xsl:template match="/TEI.2/text/front/div1[@type='preface']/div2">
 		<xsl:apply-templates/>
 	</xsl:template>
 
@@ -127,6 +138,12 @@
 		<div class="smallpara">
 			<xsl:apply-templates/>
 		</div>
+	</xsl:template>
+
+	<xsl:template match="ref">
+		<a href="{./@type}">
+			<xsl:apply-templates/>
+		</a>
 	</xsl:template>
 
 </xsl:stylesheet>
