@@ -25,10 +25,12 @@
 							<xsl:call-template name="header"/>
 						</td>
 					</tr>
-					<tr class="content">
+					<tr>
+						<td class="content">
 						<xsl:apply-templates select="/TEI.2/text/front/div1[@type='preface']"/>
+						</td>
 					</tr>
-					<tr class="content">
+					<tr>
 						<td class="mosaic">
 							<a href="/full/no01A_full.jpg">
 								<img src="no01A.jpg"/>
@@ -65,7 +67,7 @@
 							</a>
 						</td>
 					</tr>
-					<tr class="content">
+					<tr>
 						<td class="mosaic">
 							<a href="/full/no14_full.jpg">
 								<img src="no14.jpg"/>
@@ -126,6 +128,10 @@
 	<xsl:template match="/TEI.2/text/front/div1[@type='preface']/div2">
 		<xsl:apply-templates/>
 	</xsl:template>
+	
+	<xsl:template match="head">
+		<h3><xsl:apply-templates/></h3>
+	</xsl:template>
 
 	<xsl:template match="p">
 		<p>
@@ -141,6 +147,8 @@
 	</xsl:template>
 
 	<xsl:template match="ref">
+		<br/>
+		<br/>
 		<a href="{./@type}">
 			<xsl:apply-templates/>
 		</a>
