@@ -63,14 +63,8 @@
         </td>
     </xsl:template>
 
-    <xsl:template match="cell[@role='header']">
+    <xsl:template match="cell[@role='label']">
         <th class="header">
-            <xsl:apply-templates/>
-        </th>
-    </xsl:template>
-
-    <xsl:template match="cell[@role='category']">
-        <th class="category" colspan="5">
             <xsl:apply-templates/>
         </th>
     </xsl:template>
