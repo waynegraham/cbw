@@ -3,12 +3,12 @@
     <xsl:include href="header.xsl"/>
     <xsl:include href="footer.xsl"/>
     <xsl:include href="biblio.xsl"/>
-
+    
     <xsl:template match="/">
         <html>
             <head>
                 <link type="text/css" href="style.css" rel="stylesheet"/>
-                <title>The Collective Biographies of Women: Pop Chart</title>
+                <title>The Collective Biographies of Women: test</title>
             </head>
             <body>
                 <table id="wrap">
@@ -19,38 +19,23 @@
                     </tr>
                     <tr>
                         <td class="content">
-                            <xsl:apply-templates select="/TEI.2/text/front/div1[@type='popchart']"/>
+                            Just a test.  Should point to /TEI.2/text/front/div1[@type='about']
+                            <!-- <xsl:apply-templates select="/TEI.2/text/front/div1[@type='about']"/> -->
                         </td>
                     </tr>
                 </table>
             </body>
         </html>
     </xsl:template>
-
-    <xsl:template match="/TEI.2/text/front/div1[@type='popchart']">
-        <h2>
-            <xsl:value-of select="./head"/>
-        </h2>
-        <table>
-            <thead>
-                <xsl:apply-templates select="row[@role='header']"/>
-            </thead>
-            <tbody>
-                <xsl:apply-templates select="row[@role='body']"/>
-            </tbody>
-        </table>
+    
+    <!-- <xsl:template match="/TEI.2/text/front/div1[@type='about']">
+        <xsl:apply-templates/>
     </xsl:template>
-
-    <xsl:template match="row">
-        <tr class="{./@role}">
+    
+    <xsl:template match="p">
+        <p>
             <xsl:apply-templates/>
-        </tr>
-    </xsl:template>
-
-    <xsl:template match="cell">
-        <td class="{./@role}">
-            <xsl:apply-templates/>
-        </td>
-    </xsl:template>
-
+        </p>
+    </xsl:template> -->
+    
 </xsl:stylesheet>

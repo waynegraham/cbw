@@ -321,48 +321,48 @@
       Make It as a Woman</hi>. </p>
 
    </div1>
-   
+
    <div1 type="popchart">
     <head>Pop Chart</head>
-    <p>
+    <note>
      <table>
       <head>Pop Chart</head>
-      <row>
+      <row role="header">
        <cell role="label">Name</cell>
        <cell role="label">1850-1870</cell>
        <cell role="label">1880-1900</cell>
        <cell role="label">1910-1930</cell>
        <cell role="label">Total</cell>
       </row>
-      <row>
+      <row role="body">
        <cell role="category">Paragon</cell>
       </row>
-      <row>
-       <cell>Joan of Arc</cell>
-       <cell>13</cell>
-       <cell>16</cell>
-       <cell>9</cell>
-       <cell>38</cell>
+      <row role="body">
+       <cell role="data">Joan of Arc</cell>
+       <cell role="data">13</cell>
+       <cell role="data">16</cell>
+       <cell role="data">9</cell>
+       <cell role="data">38</cell>
       </row>
-      <row>
+      <row role="body">
        <cell role="category">Philanthropy/Reform</cell>
       </row>
-      <row>
-       <cell>Elizabeth Fry</cell>
-       <cell>14</cell>
-       <cell>14</cell>
-       <cell>8</cell>
-       <cell>36</cell>
+      <row role="body">
+       <cell role="data">Elizabeth Fry</cell>
+       <cell role="data">14</cell>
+       <cell role="data">14</cell>
+       <cell role="data">8</cell>
+       <cell role="data">36</cell>
       </row>
-      <row>
-       <cell>Hannah More</cell>
-       <cell>14</cell>
-       <cell>11</cell>
-       <cell>1</cell>
-       <cell>26</cell>
+      <row role="body">
+       <cell role="data">Hannah More</cell>
+       <cell role="data">14</cell>
+       <cell role="data">11</cell>
+       <cell role="data">1</cell>
+       <cell role="data">26</cell>
       </row>
-     </table>     
-    </p>
+     </table>
+    </note>
    </div1>
   </front>
 

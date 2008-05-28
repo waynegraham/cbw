@@ -113,6 +113,20 @@
 				<map:transform src="xsl/userguide.xsl" label="basiccontent"/>
 				<map:serialize type="html"/>
 			</map:match>
+			
+			<!-- displays dimensions information only -->
+			<map:match pattern="dimensions">
+				<map:generate src="xml/BooColl.xml" label="record"/>
+				<map:transform src="xsl/dimens.xsl" label="basiccontent"/>
+				<map:serialize type="html"/>
+			</map:match>
+			
+			<!-- displays about information only -->
+			<map:match pattern="about">
+				<map:generate src="xml/BooColl.xml" label="record"/>
+				<map:transform src="xsl/about.xsl" label="basiccontent"/>
+				<map:serialize type="html"/>
+			</map:match>
 
 			<!-- displays bibliography only -->
 			<map:match pattern="browse">
@@ -121,7 +135,7 @@
 				<map:serialize type="html"/>
 			</map:match>
 			
-			<!-- displays bibliography only -->
+			<!-- displays pop chart only -->
 			<map:match pattern="popchart">
 				<map:generate src="xml/BooColl.xml" label="record"/>
 				<map:transform src="xsl/pop_chart.xsl" label="basiccontent"/>
