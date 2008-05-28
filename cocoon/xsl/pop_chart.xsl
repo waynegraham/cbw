@@ -7,21 +7,25 @@
     <xsl:template match="/">
         <html>
             <head>
-                <link rel="stylesheet" type="text/css" href="http://extjs.com/deploy/dev/resources/css/ext-all.css" />
-                <link rel="stylesheet" type="text/css" href="http://extjs.com/deploy/dev/resources/css/xtheme-default.css" /><!-- LIBS -->
-                <script type="text/javascript" src="http://extjs.com/deploy/dev/adapter/ext/ext-base.js"></script>
-                <!-- ENDLIBS -->
+                <style type="text/css">
+                    body {
+                    margin:0;
+                    padding:0;
+                    }
+                </style>
                 
-                <script type="text/javascript" src="http://extjs.com/deploy/dev/ext-all.js"></script>
-                <script type="text/javascript" src="http://extjs.com/deploy/dev/examples/grid/from-markup.js"></script>
-                <link rel="stylesheet" type="text/css" href="http://extjs.com/deploy/dev/examples/grid/grid-examples.css" />
-                <!-- Common Styles for the examples -->
-                <link rel="stylesheet" type="text/css" href="http://extjs.com/deploy/dev/examples/shared/examples.css" />
+                <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.5.2/build/fonts/fonts-min.css" />
+                <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.5.2/build/datatable/assets/skins/sam/datatable.css" />
+                <script type="text/javascript" src="http://yui.yahooapis.com/2.5.2/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+                <script type="text/javascript" src="http://yui.yahooapis.com/2.5.2/build/element/element-beta-min.js"></script>
+                
+                <script type="text/javascript" src="http://yui.yahooapis.com/2.5.2/build/datasource/datasource-beta-min.js"></script>
+                <script type="text/javascript" src="http://yui.yahooapis.com/2.5.2/build/datatable/datatable-beta-min.js"></script>
                 
                 <link type="text/css" href="style.css" rel="stylesheet"/>
                 <title>The Collective Biographies of Women: Pop Chart</title>
             </head>
-            <body>
+            <body class=" yui-skin-sam">
                 <table id="wrap">
                     <tr>
                         <td class="headfoot">
@@ -34,9 +38,40 @@
                         </td>
                     </tr>
                 </table>
-                <button id="create-grid" type="button">Create grid</button>
-                <br/>
-                <div id="example-grid"></div>
+                <script type="text/javascript">
+                    YAHOO.util.Event.addListener(window, "load", function() {
+                    YAHOO.example.EnhanceFromMarkup = new function() {
+                    var myColumnDefs = [
+                    {key:"name",label:"Name", sortable:true},
+                    {key:"period1",label:"1850-1870", sortable:true},
+                    {key:"period2",label:"1880-1900", sortable:true},
+                    {key:"period3",label:"1910-1930", sortable:true},
+                    {key:"total",label:"Total", sortable:true}
+                    ];
+                    
+                    this.parseNumberFromCurrency = function(sString) {
+                    // Remove dollar sign and make it a float
+                    return parseFloat(sString.substring(1));
+                    };
+                    
+                    this.myDataSource = new YAHOO.util.DataSource(YAHOO.util.Dom.get("popChart"));
+                    this.myDataSource.responseType = YAHOO.util.DataSource.TYPE_HTMLTABLE;
+                    this.myDataSource.responseSchema = {
+                    fields: [{key:"Name"},
+                    {key:"period1"},
+                    {key:"period2"},
+                    {key:"period3"},
+                    {key:"total"}
+                    ]
+                    };
+                    
+                    this.myDataTable = new YAHOO.widget.DataTable("popMarkup", myColumnDefs, this.myDataSource,
+                    {caption:"Example: Progressively Enhanced Table from Markup",
+                    sortedBy:{key:"name",dir:"desc"}}
+                    );
+                    };
+                    });
+                </script>
             </body>
         </html>
     </xsl:template>
@@ -45,7 +80,8 @@
         <h2>
             <xsl:value-of select="./head"/>
         </h2>
-        <table id="the-table">
+        <div id="popMarkup">
+        <table id="popChart">
             <thead>
                 <xsl:apply-templates select="./note/table/row[@role='header']"/>
             </thead>
@@ -53,28 +89,29 @@
                 <xsl:apply-templates select="./note/table/row[@role='body']"/>
             </tbody>
         </table>
+        </div>
     </xsl:template>
 
     <xsl:template match="row">
-        <tr class="{./@role}">
+        <tr>
             <xsl:apply-templates/>
         </tr>
     </xsl:template>
 
     <xsl:template match="cell">
-        <td class="{./@role}">
+        <td>
             <xsl:apply-templates/>
         </td>
     </xsl:template>
 
-    <xsl:template match="cell[@role='header']">
-        <th class="header">
+    <xsl:template match="cell[@role='label']">
+        <th>
             <xsl:apply-templates/>
         </th>
     </xsl:template>
 
     <xsl:template match="cell[@role='category']">
-        <th class="category" colspan="5">
+        <th colspan="5">
             <xsl:apply-templates/>
         </th>
     </xsl:template>
