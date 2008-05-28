@@ -8,13 +8,6 @@
         <html>
             <head>
                 <link type="text/css" href="style.css" rel="stylesheet"/>
-                <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.5.1/build/fonts/fonts-min.css" />
-                <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.5.1/build/datatable/assets/skins/sam/datatable.css" />
-                <script type="text/javascript" src="http://yui.yahooapis.com/2.5.1/build/yahoo-dom-event/yahoo-dom-event.js"></script>
-                <script type="text/javascript" src="http://yui.yahooapis.com/2.5.1/build/element/element-beta-min.js"></script>
-                
-                <script type="text/javascript" src="http://yui.yahooapis.com/2.5.1/build/datasource/datasource-beta-min.js"></script>
-                <script type="text/javascript" src="http://yui.yahooapis.com/2.5.1/build/datatable/datatable-beta-min.js"></script>
                 <title>The Collective Biographies of Women: Pop Chart</title>
             </head>
             <body>
@@ -30,7 +23,6 @@
                         </td>
                     </tr>
                 </table>
-                <script type="text/javascript" language="javascript" src="javascript/chart.js"/>
             </body>
         </html>
     </xsl:template>
@@ -39,8 +31,7 @@
         <h2>
             <xsl:value-of select="./head"/>
         </h2>
-        <div id="popchart">
-        <table id="popchart">
+        <table>
             <thead>
                 <xsl:apply-templates select="./note/table/row[@role='header']"/>
             </thead>
@@ -48,7 +39,6 @@
                 <xsl:apply-templates select="./note/table/row[@role='body']"/>
             </tbody>
         </table>
-        </div>
     </xsl:template>
 
     <xsl:template match="row">
@@ -63,8 +53,14 @@
         </td>
     </xsl:template>
 
-    <xsl:template match="cell[@role='label']">
+    <xsl:template match="cell[@role='header']">
         <th class="header">
+            <xsl:apply-templates/>
+        </th>
+    </xsl:template>
+
+    <xsl:template match="cell[@role='category']">
+        <th class="category" colspan="5">
             <xsl:apply-templates/>
         </th>
     </xsl:template>

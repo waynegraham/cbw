@@ -335,11 +335,17 @@
        <cell role="label">Total</cell>
       </row>
       <row role="body">
+       <cell role="category">Paragon</cell>
+      </row>
+      <row role="body">
        <cell role="data">Joan of Arc</cell>
        <cell role="data">13</cell>
        <cell role="data">16</cell>
        <cell role="data">9</cell>
        <cell role="data">38</cell>
+      </row>
+      <row role="body">
+       <cell role="category">Philanthropy/Reform</cell>
       </row>
       <row role="body">
        <cell role="data">Elizabeth Fry</cell>
