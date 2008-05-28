@@ -39,6 +39,7 @@
         <h2>
             <xsl:value-of select="./head"/>
         </h2>
+        <div id="popchart">
         <table id="popchart">
             <thead>
                 <xsl:apply-templates select="./note/table/row[@role='header']"/>
@@ -47,6 +48,7 @@
                 <xsl:apply-templates select="./note/table/row[@role='body']"/>
             </tbody>
         </table>
+        </div>
     </xsl:template>
 
     <xsl:template match="row">

@@ -29,7 +29,7 @@ YAHOO.util.Event.addListener(window, "load", function() {
             ]
         };
 
-        this.myDataTable = new YAHOO.widget.DataTable("markup", myColumnDefs, this.myDataSource,
+        this.myDataTable = new YAHOO.widget.DataTable("popchart", myColumnDefs, this.myDataSource,
                 {caption:"Pop Chart",
                 sortedBy:{key:"total",dir:"desc"}}
         );
