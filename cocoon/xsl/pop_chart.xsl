@@ -33,10 +33,10 @@
         </h2>
         <table>
             <thead>
-                <xsl:apply-templates select="./row[@role='header']"/>
+                <xsl:apply-templates select="./note/table/row[@role='header']"/>
             </thead>
             <tbody>
-                <xsl:apply-templates select="./row[@role='body']"/>
+                <xsl:apply-templates select="./note/table/row[@role='body']"/>
             </tbody>
         </table>
     </xsl:template>
