@@ -15,7 +15,6 @@
                 
                 <script type="text/javascript" src="http://yui.yahooapis.com/2.5.1/build/datasource/datasource-beta-min.js"></script>
                 <script type="text/javascript" src="http://yui.yahooapis.com/2.5.1/build/datatable/datatable-beta-min.js"></script>
-                <script type="text/javascript" language="javascript" src="javascript/chart.js"/>                
                 <title>The Collective Biographies of Women: Pop Chart</title>
             </head>
             <body>
@@ -31,6 +30,7 @@
                         </td>
                     </tr>
                 </table>
+                <script type="text/javascript" language="javascript" src="javascript/chart.js"/>
             </body>
         </html>
     </xsl:template>
