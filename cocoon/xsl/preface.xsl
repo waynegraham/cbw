@@ -112,6 +112,11 @@
 					</tr>
 					<tr>
 						<td class="headfoot">
+							<a href="http://www.press.uchicago.edu/cgi-bin/hfs.cgi/00/16399.ctl"><img src="howto.jpg" alt="How to Make It as a Woman" border="0"/></a>
+						</td>
+					</tr>
+					<tr>
+						<td class="headfoot">
 							<xsl:call-template name="footer"/>
 						</td>
 					</tr>
