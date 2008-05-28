@@ -7,6 +7,17 @@
     <xsl:template match="/">
         <html>
             <head>
+                <link rel="stylesheet" type="text/css" href="http://extjs.com/deploy/dev/resources/css/ext-all.css" />
+                <link rel="stylesheet" type="text/css" href="http://extjs.com/deploy/dev/resources/css/xtheme-default.css" /><!-- LIBS -->
+                <script type="text/javascript" src="http://extjs.com/deploy/dev/adapter/ext/ext-base.js"></script>
+                <!-- ENDLIBS -->
+                
+                <script type="text/javascript" src="http://extjs.com/deploy/dev/ext-all.js"></script>
+                <script type="text/javascript" src="http://extjs.com/deploy/dev/examples/grid/from-markup.js"></script>
+                <link rel="stylesheet" type="text/css" href="http://extjs.com/deploy/dev/examples/grid/grid-examples.css" />
+                <!-- Common Styles for the examples -->
+                <link rel="stylesheet" type="text/css" href="http://extjs.com/deploy/dev/examples/shared/examples.css" />
+                
                 <link type="text/css" href="style.css" rel="stylesheet"/>
                 <title>The Collective Biographies of Women: Pop Chart</title>
             </head>
@@ -23,6 +34,9 @@
                         </td>
                     </tr>
                 </table>
+                <button id="create-grid" type="button">Create grid</button>
+                <br/>
+                <div id="example-grid"></div>
             </body>
         </html>
     </xsl:template>
@@ -31,7 +45,7 @@
         <h2>
             <xsl:value-of select="./head"/>
         </h2>
-        <table>
+        <table id="the-table">
             <thead>
                 <xsl:apply-templates select="./note/table/row[@role='header']"/>
             </thead>
