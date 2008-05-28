@@ -129,7 +129,7 @@
 		<xsl:apply-templates/>
 	</xsl:template>
 	
-	<xsl:template match="head">
+	<xsl:template match="/TEI.2/text/front/div1[@type='preface']/div2/head">
 		<h3><xsl:apply-templates/></h3>
 	</xsl:template>
 
