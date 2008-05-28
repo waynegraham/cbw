@@ -57,7 +57,7 @@
                     this.myDataSource = new YAHOO.util.DataSource(YAHOO.util.Dom.get("popChart"));
                     this.myDataSource.responseType = YAHOO.util.DataSource.TYPE_HTMLTABLE;
                     this.myDataSource.responseSchema = {
-                    fields: [{key:"Name"},
+                    fields: [{key:"name"},
                     {key:"period1"},
                     {key:"period2"},
                     {key:"period3"},
