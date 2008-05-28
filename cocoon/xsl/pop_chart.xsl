@@ -8,6 +8,7 @@
         <html>
             <head>
                 <link type="text/css" href="style.css" rel="stylesheet"/>
+                <script type="text/javascript" language="javascript" src="javascript/chart.js"/>                
                 <title>The Collective Biographies of Women: Pop Chart</title>
             </head>
             <body>
@@ -31,7 +32,7 @@
         <h2>
             <xsl:value-of select="./head"/>
         </h2>
-        <table>
+        <table id="popchart">
             <thead>
                 <xsl:apply-templates select="./note/table/row[@role='header']"/>
             </thead>
