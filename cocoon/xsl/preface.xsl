@@ -147,11 +147,13 @@
 	</xsl:template>
 
 	<xsl:template match="ref">
-		<br/>
-		<br/>
 		<a href="{./@type}">
 			<xsl:apply-templates/>
 		</a>
+	</xsl:template>
+	
+	<xsl:template match="lb">
+		<br/>
 	</xsl:template>
 
 </xsl:stylesheet>
