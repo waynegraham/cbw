@@ -35,13 +35,17 @@
 			<b>
 				<a href=".">Home</a>
 			</b> &#160; <b>
+				<a href="about">About</a>
+			</b> &#160; <b>
+				<a href="dimensions">Dimensions</a>
+			</b> &#160; <b>
 				<a href="userguide">User's Guide</a>
 			</b> &#160; <b>
 				<a href="browse">Browse the Bibliography</a>
 			</b> &#160; <b>
 				<a href="search">Search the Bibliography</a>
 			</b> &#160; <b>
-				<a href="http://etext.lib.virginia.edu">Etext</a>
+				<a href="popchart">Pop Chart</a>
 			</b>
 		</div>
 		<hr/>

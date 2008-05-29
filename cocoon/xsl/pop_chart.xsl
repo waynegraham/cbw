@@ -66,8 +66,8 @@
                     };
                     
                     this.myDataTable = new YAHOO.widget.DataTable("popMarkup", myColumnDefs, this.myDataSource,
-                    {caption:"Example: Progressively Enhanced Table from Markup",
-                    sortedBy:{key:"name",dir:"desc"}}
+                    {caption:"Pop Chart",
+                    sortedBy:{key:"total",dir:"desc"}}
                     );
                     };
                     });
