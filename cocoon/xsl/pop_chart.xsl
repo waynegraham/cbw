@@ -37,6 +37,11 @@
                             <xsl:apply-templates select="/TEI.2/text/front/div1[@type='popchart']"/>
                         </td>
                     </tr>
+                    <tr>
+                        <td class="content">
+                            <xsl:apply-templates select="/TEI.2/text/front/div1[@type='popchart']/p"/>
+                        </td>
+                    </tr>
                 </table>
                 <script type="text/javascript">
                     YAHOO.util.Event.addListener(window, "load", function() {
@@ -116,6 +121,12 @@
         <th colspan="5">
             <xsl:apply-templates/>
         </th>
+    </xsl:template>
+    
+    <xsl:template match="p">
+        <p>
+            <xsl:apply-templates/>
+        </p>
     </xsl:template>
 
 </xsl:stylesheet>
