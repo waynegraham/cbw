@@ -267,8 +267,12 @@ color:black;
 td.mosaic {
 padding-left: 42px; 
 padding-right: 42px;
-padding-bottom: 20px;
+padding-bottom: 10px;
 } 
+
+tr.spacer {
+height: 30px;
+}
 
 td.mosaic img {
 height: 80px; 

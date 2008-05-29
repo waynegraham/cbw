@@ -43,6 +43,7 @@
                     YAHOO.example.EnhanceFromMarkup = new function() {
                     var myColumnDefs = [
                     {key:"name",label:"Name", sortable:true},
+                    {key:"category",label:"Category", sortable:true},
                     {key:"period1",label:"1850-1870", sortable:true},
                     {key:"period2",label:"1880-1900", sortable:true},
                     {key:"period3",label:"1910-1930", sortable:true},
@@ -58,6 +59,7 @@
                     this.myDataSource.responseType = YAHOO.util.DataSource.TYPE_HTMLTABLE;
                     this.myDataSource.responseSchema = {
                     fields: [{key:"name"},
+                    {key:"category"},
                     {key:"period1"},
                     {key:"period2"},
                     {key:"period3"},

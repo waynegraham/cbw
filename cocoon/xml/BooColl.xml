@@ -465,6 +465,7 @@
       <head>Pop Chart</head>
       <row role="header">
        <cell role="label">Name</cell>
+       <cell role="label">Category</cell>
        <cell role="label">1850-1870</cell>
        <cell role="label">1880-1900</cell>
        <cell role="label">1910-1930</cell>
@@ -472,6 +473,7 @@
       </row>
       <row role="body">
        <cell role="data">Joan of Arc</cell>
+       <cell role="data">Paragon</cell>
        <cell role="data">13</cell>
        <cell role="data">16</cell>
        <cell role="data">9</cell>
@@ -479,6 +481,7 @@
       </row>
       <row role="body">
        <cell role="data">Elizabeth Fry</cell>
+       <cell role="data">Philanthropy/Reform</cell>
        <cell role="data">14</cell>
        <cell role="data">14</cell>
        <cell role="data">8</cell>
@@ -486,6 +489,7 @@
       </row>
       <row role="body">
        <cell role="data">Hannah More</cell>
+       <cell role="data">Philanthropy/Reform</cell>
        <cell role="data">14</cell>
        <cell role="data">11</cell>
        <cell role="data">1</cell>

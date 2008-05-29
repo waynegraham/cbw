@@ -14,9 +14,6 @@
 			<head>
 				<link type="text/css" href="style.css" rel="stylesheet"/>
 				<title>The Collective Biographies of Women: Preface</title>
-				<style> td.mosaic {padding-left: 42px; padding-right: 42px;} td.mosaic img {height:
-					80px; width: 75px; margin-right: -20px; margin-bottom:-24px; border: none;}
-				</style>
 			</head>
 			<body>
 				<table id="wrap">
@@ -104,6 +101,7 @@
 							</a>
 						</td>
 					</tr>
+					<tr class="spacer"/>
 					<tr>
 						<td class="content">
 							<xsl:apply-templates
