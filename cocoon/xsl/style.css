@@ -171,8 +171,7 @@ height: 20px;
 
 p#subheading {
 font-size:10pt;
-margin-left: -3px;
-margin-right: -3px;
+text-align: center;
 }
 
 .navigation {
@@ -197,8 +196,8 @@ text-align: center;
 }
 
 #navbar a {
-padding-left: 30px;
-padding-right: 30px;
+padding-left: 10px;
+padding-right: 10px;
 }
 
 .head1 {
@@ -264,4 +263,17 @@ font-size:14pt
 .searchword {
 background-color:yellow;
 color:black;
+}
+td.mosaic {
+padding-left: 42px; 
+padding-right: 42px;
+padding-bottom: 20px;
+} 
+
+td.mosaic img {
+height: 80px; 
+width: 75px; 
+margin-right: -20px; 
+margin-bottom:-24px; 
+border: none;
 }
