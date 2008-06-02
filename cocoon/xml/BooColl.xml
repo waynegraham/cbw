@@ -1853,8 +1853,8 @@
      <bibl id="a004">
       <ref>4.</ref>
       <idno>a004</idno>
-      <author><name type="last">Adams</name>, <name type="first">Elmer Cleveland</name>, and W<name
-        type="first">arren Dunham</name>
+      <author><name type="last">Adams</name>, <name type="first">Elmer Cleveland</name>, and<name
+        type="first">Warren Dunham</name>
        <name type="last">Foster</name>.</author>
       <title type="ref">
        <hi rend="italics">Heroines of Modern Progress.</hi>
@@ -1878,9 +1878,15 @@
        </title> 136, 147-149.</xref>
       <note> TOC: Elizabeth Fry; Mary Lyon; Elizabeth Cady Stanton; Harriet Beecher Stowe; Florence
        Nightingale; Clara Barton; Julia Ward Howe; Francis W. Willard; J. Ellen Foster; Jane Addams.
+       
+       See additional collection edited by Foster, 
+       <ref target="a302A">
+        <hi rend="italics">Heroines of Modern Religion</hi>, <date>1913</date>.
+       </ref>
         <hi rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
+     
 
      <bibl id="a005"><ref>5.</ref>
       <idno>a005</idno>
@@ -2497,8 +2503,9 @@
        <date>1893.</date>
       </imprint>
       <note>6th ed. as <title>
-        <hi rend="italics">The World's Workers</hi>
-       </title>: [above names]. See Companion volumes by <ref target="a123">Browne</ref> and <ref
+        <hi rend="italics">The World's Workers: Florence Nightingale. Frances Ridley Havergal. Catherine Marsh. Mrs.
+         Ranyard (“L. N. R.”)</hi>
+      </title>. See companion volumes by <ref target="a123">Browne</ref> and <ref
         target="a808">Tomkinson</ref> below.</note>
      </bibl>
 
@@ -2720,7 +2727,8 @@
        Shakespeare, Lord Byron, and Sir Walter Scott.” Note Appleton title by Mary Cowden Clarke,
         <ref target="a174">
         <hi rend="italics">World-Noted Women</hi>
-       </ref>, <date>1857</date>. Compare <ref target="a295">Finden</ref> below. </note>
+        </ref>, <date>1857</date>. Compare <ref target="a112">Bristol,</ref><ref target="a295">Finden,</ref> and <ref target="a450">Jameson,</ref> and 
+        for literary heroines. </note>
      </bibl>
 
      <bibl id="a034">
@@ -2797,8 +2805,8 @@
       <note> “Women of Worth,” TOC: Charlotte Bronté [sic]; Sarah Martin; Sarah Boardman Judson;
        Lady Rachel Russell; Isabel the Catholic; Mrs. Elizabeth Rowe; Maria Theresa; Caroline
        Herschel; Mrs. Flaxman; Lady Warwick; Lady Mackintosh. </note>
-      <note> “Mothers of the Bible” is the following collection. One of many volumes marketing
-       girlhood/childhood. </note>
+      <note> One of many volumes marketing
+       girlhood/childhood. “Mothers of the Bible” is the volume by <ref target="a038">Sophia Goodrich Ashton</ref>.  </note>
      </bibl>
 
      <bibl id="a038">
@@ -3017,7 +3025,7 @@
        place the qualities first, the names of male examplars next, and include only two women's
        names, Lady Russell and Elizabeth Fry. Cf. pairing of "great and good" or "good and great" in
        titles by <ref target="a186">Robert Cochrane</ref>, <ref target="a489">Kirkes</ref>, <ref
-        target="a700">Sargeant</ref>, and <ref target="a720">Sigourney</ref> below. </note>
+        target="a700">Sargeant</ref>, and <ref target="a720">Sigourney</ref>. </note>
      </bibl>
 
      <bibl id="a048">
@@ -4657,7 +4665,7 @@
       <note> TOC: Introduction; Eve the Unfolded; Sarah the Steadfast; Rebekah the Far-Seeing;
        Rachael the Placid; Miriam the Gifted; Deborah the Drastic; Ruth the Decided; Hannah the
        Pious; Mary the Guiding; Mary the Thought-Reading. </note>
-      <note> Note George Matheson's volume with the same main title, <date>1907</date>, below. (The
+      <note> Note <hi rend="italics">The Representative Women of the Bible</hi>, <ref target="a552">by Matheson</ref>, <date>1907</date>. (The
        bibliography in <title>
         <hi rend="italics">How to Make It as a Woman</hi>
        </title> incorrectly blends the publication information for Broughton's and Mathesons'
@@ -4739,7 +4747,7 @@
        <date>1893.</date>
       </imprint>
       <note>Part of The World's Workers Series. See <ref target="a024">Alldridge</ref> above; <ref
-        target="a808">Tomkinson</ref> below.</note>
+        target="a808">Tomkinson</ref>.</note>
      </bibl>
 
      <bibl id="a124"><ref>124.</ref>
@@ -5100,8 +5108,8 @@
         rend="bold">*Pop Chart</hi>
       </note>
       <note> British Library stamp 20 Oct 11. Acknowledges other sources in Preface (vii-viii).
-       While some subjects are literally noble, Cairns uses “noble” in the sense of <ref
-        target="a160">Chappell (below)</ref>, i.e. called to religious social service. </note>
+       While some subjects are literally noble, Cairns uses “noble” in the sense that Chappell does in collections of <ref
+        target="a160">"noble women"</ref>, <ref target="a161">"noble work"</ref>, or <ref target="a162">"noble workers"</ref>, i.e. called to religious social service. </note>
       <note> --Catherine of Siena, d. <date>1380</date>, canonized <date>1461</date>: “we cannot
        judge her by common standards, nor perhaps accept her example as a safe one to follow” (50);
        a beloved nurse of people during the black plague, a negotiator with Popes who sat “on a
@@ -5532,8 +5540,8 @@
        <ref target="a123">Browne,</ref> and <ref target="a808">Tomkinson</ref>
        (<date>1880s-1890s</date>). <hi rend="bold">*Pop Chart</hi> See the re-issue as part of <ref
         target="a162">
-        <hi rend="italics">Noble Workers</hi>
-       </ref>, below </note>
+        <hi rend="italics">Noble Workers.</hi>
+       </ref></note>
      </bibl>
 
      <bibl id="a161">
@@ -5554,8 +5562,8 @@
       </imprint>
       <note>
        <hi rend="bold">*Pop Chart</hi> See the re-issue as part of <ref target="a162">
-        <hi rend="italics">Noble Workers</hi>
-       </ref>, below. </note>
+        <hi rend="italics">Noble Workers.</hi>
+       </ref></note>
      </bibl>
 
      <bibl id="a162">
@@ -6306,7 +6314,7 @@
        Anderson; Laura Knight; Annie Besant; Clare Sheridan; Beatrice Webb; Rosita Forbes. </note>
       <note> British Library. Pollock's <title>
         <hi rend="italics">Women of To-Day</hi>
-       </title> (same title) is not biographical. See <ref target="a215">Da Libra</ref> below.
+       </title> (same title) is not biographical. See <ref target="a215">Da Libra</ref> .
       </note>
      </bibl>
 
@@ -9048,6 +9056,30 @@
        <date>1924.</date>
       </imprint>
      </bibl>
+     
+     <bibl id="a302A">
+      <ref>302A.</ref>
+      <idno>a302a</idno>
+      <author><name type="last">Foster</name>, <name type="first">Warren Dunham</name>
+      </author>
+      <title type="ref">
+       <hi rend="italics">Heroines of Modern Religion.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Sturgis &amp; Walton; Macmillan,</publisher>
+       <date>1913;</date>
+      </imprint>
+      
+      <note> TOC: Anne Hutchinson, by A.E. Jenkins; Susannah Wesley, by W.H. Foster; Elizabeth Ann Seton, by R.V. Trevel; 
+       Lucretia Mott, by A.E. Jenkins; Fanny Crosby, by W. Bradbury; Sister Dora, by G.L. Mumford; Hannah Whitall Smith, by W.H. Foster; Frances Ridley Havergal, by W. Bradbury; Ramabai Dongre Medhavi, by J.C. Minot; 
+       Maud Ballington Booth, by R.V. Trevel.
+       Part of "Modern Heroines Series," ed. Foster (b. 1886).  See companion collection <ref target="a004">
+        <hi rend="italics">Heroines of Modern Progress</hi>
+       </ref> by Adams and Foster.
+       Available microfiche.  Rpt. Freeport, NY: Books for Libraries, 1970.
+      </note>
+     </bibl>
 
      <bibl id="a303">
       <ref>303.</ref>
@@ -11483,7 +11515,7 @@
       <note> Variant title of <title>
         <hi rend="italics">Lives of Celebrated Female Sovereigns and Illustrious Women</hi>
        </title>, ed. Hewitt (some identical publication data, identical subjects). See my listing
-       under <ref target="a449">Jameson</ref>. <hi rend="bold">*Pop Chart</hi>
+       under <ref target="a454">Jameson</ref>. <hi rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
 
@@ -13096,7 +13128,7 @@
        <pubPlace>Rochester, NY:</pubPlace>
        <publisher>Graves,</publisher>
        <date> [1870?]. </date>
-      </imprint> As: Celebrated Female Rulers in History. <imprint>
+      </imprint> As: <hi rend="italics">Celebrated Female Rulers in History</hi>. <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>MacLellan, </publisher>
        <date>1910.</date>
@@ -17315,6 +17347,7 @@
       <image id="no07">
        <imgName>Harriet Hosmer</imgName>
        <imgDesc>Harriet Hosmer, engraved by Augustus Robin</imgDesc>
+       </image>
      </bibl>
 
      <bibl id="a631">
