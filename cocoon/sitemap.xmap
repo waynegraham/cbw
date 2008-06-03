@@ -141,6 +141,13 @@
 				<map:transform src="xsl/pop_chart.xsl" label="basiccontent"/>
 				<map:serialize type="html"/>
 			</map:match>
+			
+			<!-- displays acknowledgments only -->
+			<map:match pattern="acknowledgments">
+				<map:generate src="xml/BooColl.xml" label="record"/>
+				<map:transform src="xsl/acknowledgments.xsl" label="basiccontent"/>
+				<map:serialize type="html"/>
+			</map:match>
 
 			<!-- produces the search form; needs to be generated as xml and serialized as xhtml -->
 			<map:match pattern="search">
