@@ -278,7 +278,7 @@ color:black;
 td.mosaic {
 padding-left: 42px; 
 padding-right: 42px;
-padding-bottom: 10px;
+padding-bottom: 0px;
 } 
 
 tr.spacer {
@@ -288,8 +288,8 @@ height: 30px;
 td.mosaic img {
 height: 80px; 
 width: 75px; 
-margin-right: -20px; 
-margin-bottom: -33px;
+margin: 0px;
+padding: 0px;
 border: none;
 border: 1px solid #FFF7F7;
 }
