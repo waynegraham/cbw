@@ -40,8 +40,8 @@ height:100%;
 }
 
 div.box {
-background-color: #FFF7F7;
-padding: 10px;
+background-color: #FFFAF0;
+padding: 10px 20px;
 margin-top: 40px;
 margin-bottom: 40px;
 border: 4px double #DCDCDC;
@@ -68,9 +68,7 @@ padding-right:2em}
 /*styling for bibl entry*/
 .bibl {
 background-color: #FDFDFD; 
-border-style: solid; 
-border-color: black; 
-border-width:2px; 
+border: 4px double #DCDCDC;
 padding-left: 1em; 
 padding-right: 1em; 
 padding-top: 1em; 
@@ -244,7 +242,9 @@ text-align:center
 text-align: center
 }
 
-
+.headfoot {
+margin-left: 100px;
+}
 
 .list {
 margin-left: 2em; 
