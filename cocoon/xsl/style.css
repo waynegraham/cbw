@@ -207,6 +207,7 @@ text-align: center;
 #navbar a {
 padding-left: 10px;
 padding-right: 10px;
+margin-left: 0px;
 }
 
 .head1 {
