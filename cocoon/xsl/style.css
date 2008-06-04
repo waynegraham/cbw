@@ -67,7 +67,7 @@ padding-right:2em}
 
 /*styling for bibl entry*/
 .bibl {
-background-color: #FDFDFD; 
+background-color: #FFFAF0; 
 border: 4px double #DCDCDC;
 padding-left: 1em; 
 padding-right: 1em; 
@@ -242,7 +242,7 @@ text-align:center
 text-align: center
 }
 
-.headfoot {
+.headfoot a {
 margin-left: 100px;
 }
 
