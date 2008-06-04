@@ -24,7 +24,7 @@
 					</tr>
 					<tr>
 						<td class="content">
-						<xsl:apply-templates select="/TEI.2/text/front/div1[@type='preface']"/>
+							<xsl:apply-templates select="/TEI.2/text/front/div1[@type='preface']"/>
 						</td>
 					</tr>
 					<tr>
@@ -110,7 +110,9 @@
 					</tr>
 					<tr>
 						<td class="headfoot">
-							<a href="http://www.press.uchicago.edu/cgi-bin/hfs.cgi/00/16399.ctl"><img src="howto.jpg" alt="How to Make It as a Woman" border="0"/></a>
+							<a href="http://www.press.uchicago.edu/cgi-bin/hfs.cgi/00/16399.ctl">
+								<img src="howto.jpg" alt="How to Make It as a Woman" border="0"/>
+							</a>
 						</td>
 					</tr>
 					<tr>
@@ -129,11 +131,15 @@
 
 
 	<xsl:template match="/TEI.2/text/front/div1[@type='preface']/div2">
-		<xsl:apply-templates/>
+		<div class="box">
+			<xsl:apply-templates/>
+		</div>
 	</xsl:template>
-	
+
 	<xsl:template match="/TEI.2/text/front/div1[@type='preface']/div2/head">
-		<div class="head1"><xsl:apply-templates/></div>
+		<div class="head1">
+			<xsl:apply-templates/>
+		</div>
 	</xsl:template>
 
 	<xsl:template match="p">
@@ -154,7 +160,7 @@
 			<xsl:apply-templates/>
 		</a>
 	</xsl:template>
-	
+
 	<xsl:template match="lb">
 		<br/>
 	</xsl:template>

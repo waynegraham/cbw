@@ -6,7 +6,8 @@ A {color:#57744C; font-weight:bold; text-decoration:none}
 IMG {margin:20px}
 
 body {
-  padding-left: 12px;
+  background-image: url('back_xs.jpg');
+  padding: 20px;
   font-family: "Palatino Linotype", Times, serif;
   font-size: 15px; 
   color: #000000;
@@ -25,18 +26,25 @@ width: 90%;
 
 /*style for entire page */
 #wrap{
-
+background-image: url('fore_xs.jpg');
+border: 7px solid #FFF7F7;
 background-color: #E7E3D8; /*table background color */
 width:960px; 
-border-style: solid; 
-border-color: black; 
-border-width: 2px}
+}
 
 /*style for the content between the header and footer only*/
 .content {
 padding-left:25px;
 padding-right:25px;
 height:100%;
+}
+
+div.box {
+background-color: #FFF7F7;
+padding: 10px;
+margin-top: 40px;
+margin-bottom: 40px;
+border: 4px double #DCDCDC;
 }
 
 .head {
@@ -154,8 +162,9 @@ margin: 0 5px;
 
 #headTitle {
 width: 460px; 
-font-size: 24pt; 
 color: #991818;
+font-size: 22pt;
+font-weight: bold;
 }
 
 #byline {
@@ -172,6 +181,8 @@ height: 20px;
 p#subheading {
 font-size:10pt;
 text-align: center;
+background: transparent;
+border: none;
 }
 
 .navigation {
@@ -278,6 +289,7 @@ td.mosaic img {
 height: 80px; 
 width: 75px; 
 margin-right: -20px; 
-margin-bottom:-24px; 
+margin-bottom: -33px;
 border: none;
+border: 1px solid #FFF7F7;
 }
