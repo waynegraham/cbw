@@ -1028,7 +1028,7 @@
        <publisher>R. Dodsley.</publisher>
       </imprint>
       <note>
-       <ref target="a714">See 1899 and early twentieth-century editions below (item 714).</ref>
+       <ref target="a714">See 1899 and early twentieth-century editions (item 714).</ref>
       </note>
      </bibl>
 
@@ -2500,7 +2500,7 @@
         <hi rend="italics">The World's Workers: Florence Nightingale. Frances Ridley Havergal.
          Catherine Marsh. Mrs. Ranyard (“L. N. R.”)</hi>
        </title>. See companion volumes by <ref target="a123">Browne</ref> and <ref target="a808"
-        >Tomkinson</ref> below.</note>
+        >Tomkinson</ref>.</note>
      </bibl>
 
      <bibl id="a025">
@@ -17075,7 +17075,7 @@
         <title>
          <hi rend="italics">Noted Women</hi>
         </title>
-       </ref>, below (Hartford: Phoenix, <date>1883</date>). <title>
+       </ref> (Hartford: Phoenix, <date>1883</date>). <title>
         <hi rend="italics">Daughters</hi>
        </title> has identical Preface to <title>
         <hi rend="italics">Noted Women</hi>
@@ -19708,9 +19708,9 @@
        Jairus [by] William B. Sprague; Widow of Nain [by] Rt. Rev. J.H. Hopkins; Michal [by] Rev.
        J.F. Stearns; Martha [by] Rev. Robert A. Hallam; Mary Magdalene [by] Nicholas Murray;
        Bathsheba [by] Rev. R.S. Storrs, Jr. </note>
-      <note> Under either Sprague or Wainwright with different titles; see <title>
+      <note> Under either Sprague or Wainwright with different titles; see <ref target="a905"><title>
         <hi rend="italics">Women of the Old and New Testament</hi>
-       </title> below. Sprague author of <title>
+      </title></ref>. Sprague author of <title>
         <hi rend="italics">The Excellent Woman, as Described in the Book of Proverbs</hi>
        </title> (<date>1851</date>) and <title>
         <hi rend="italics">Letters on Practical Subjects to a Daughter</hi>
@@ -22048,7 +22048,8 @@
        <date>1906.</date>
       </imprint>
       <note> NOT:=history, typology, miscellany. Mounted newspaper clippings. This and corresponding
-       item below retort to Northern prosopographies of the women in the Civil War effort. </note>
+       item <ref target="a838"><title><hi rend="italics">The Women of the Southern Confederacy ... Alabama, Florida, ...</hi>
+       </title></ref> retort to Northern prosopographies of the women in the Civil War effort. </note>
      </bibl>
 
      <bibl id="a838">
@@ -22068,6 +22069,7 @@
        <publisher>n.p.,</publisher>
        <date>1908.</date>
       </imprint>
+      <note>See <ref target="a839"><title><hi>The Women of the Southern Confederacy...Virginia, North Carolina, ...</hi></title></ref> </note>
      </bibl>
 
      <bibl id="a839">
