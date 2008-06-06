@@ -28,15 +28,13 @@
 							<xsl:call-template name="header"/>
 						</td>
 					</tr>
-					<tr id="subNav">
+					<tr>
 						<td>
-							<a href="#1">Chronological Selection of Early Examples</a>
-						</td>
-						<td>
-							<a href="#2">Alphabetical Bibliography, 1830-1940</a>
-						</td>
-						<td>
-							<a href="#3">Chronological Selection of Examples after 1950</a>
+							<div id="subNav">
+							<a href="#1">Early Examples</a>
+							<a href="#2">Alphabetical, 1830-1940</a>
+							<a href="#3">Examples after 1950</a>
+							</div>
 						</td>
 					</tr>
 					<tr>
