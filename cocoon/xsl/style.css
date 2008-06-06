@@ -208,6 +208,7 @@ text-align: center;
 padding-left: 10px;
 padding-right: 10px;
 margin-left: 0px;
+font-size:  14px;
 }
 
 #subNav {
@@ -218,7 +219,8 @@ margin-left: 0px;
   padding-left: 10px;
   padding-right: 10px;
   margin-left: 0px;
-  font-size: 12pt;
+  font-size: 10pt;
+  color: #991818;
 }
 
 .head1 {
