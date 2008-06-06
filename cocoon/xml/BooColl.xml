@@ -23930,6 +23930,32 @@
 
     </div2>
    </div1>
+   <div1 type="biblio" n="3">
+    <head>III. Post-1950 Examples</head>
+    <div2>
+
+     <bibl id="p001">
+      <idno>p001</idno>
+      <author><name type="last">Wittenmyer</name>, <name type="first">Annie</name>.</author>
+      <title type="ref">
+       <hi rend="italics">The Women of the Reformation.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Phillips &amp; Hunt;</publisher>
+       <pubPlace>Cincinnati, OH:</pubPlace>
+       <publisher>Cranston &amp; Stowe,</publisher>
+       <date>1885.</date>
+      </imprint>
+      <note> Author of memoirs and handbook of women's Civil War work and of <title>
+        <hi rend="italics">Women's Work for Jesus</hi>
+       </title> (<date>1871</date>; Methodist churchwomen); co-author with Frances Willard of <title>
+        <hi rend="italics">History of the Woman's Temperance Crusade</hi>
+       </title> (<date>1878</date>). </note>
+     </bibl>
+
+    </div2>
+   </div1>
   </body>
 
   <back> </back>
