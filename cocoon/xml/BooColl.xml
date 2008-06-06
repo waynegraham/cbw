@@ -362,23 +362,22 @@
 
    <div1 type="acknowledgments">
     <head>Acknowledgments</head>
-     <p>This online version expands upon the Bibliography of Collective Biographies of Women
-      published in Alison Booth <hi rend="italics">How to Make It as a Woman</hi> (Chicago:
-      University of Chicago Press, 2004). It has been developed through the research support of the
-      English Department and the sponsorship, consultation, technical, and staff support of the
-      University of Virginia Libraries. The design and construction of the site are indebted to
-      Cindy Filer Speer--now Cindy Maisannes--and Ethan Gruber of the Electronic Text Center; Aimee
-      Geoghan and Mara Bandy assisted with the annotations, and Kiera Allison helped with the
-      beginning of the Sister Dora project. Jessica Swope has had a hand in creating many new
-      features of the site; she and Joe Gilbert have been wonderful collaborators in 2007-2008.
-      Bethany Nowviskie, Director of Digital Research and Scholarship, along with Bess Sandler and
-      Joe Gilbert of Digital Scholarship Services and the Scholar's Lab, have brought fresh
-      inspiration, expert guidance and insight, as well as generous hours of consultation and
-      hands-on production.</p>
+    <p>This online version expands upon the Bibliography of Collective Biographies of Women
+     published in Alison Booth <hi rend="italics">How to Make It as a Woman</hi> (Chicago:
+     University of Chicago Press, 2004). It has been developed through the research support of the
+     English Department and the sponsorship, consultation, technical, and staff support of the
+     University of Virginia Libraries. The design and construction of the site are indebted to Cindy
+     Filer Speer--now Cindy Maisannes--and Ethan Gruber of the Electronic Text Center; Aimee Geoghan
+     and Mara Bandy assisted with the annotations, and Kiera Allison helped with the beginning of
+     the Sister Dora project. Jessica Swope has had a hand in creating many new features of the
+     site; she and Joe Gilbert have been wonderful collaborators in 2007-2008. Bethany Nowviskie,
+     Director of Digital Research and Scholarship, along with Bess Sandler and Joe Gilbert of
+     Digital Scholarship Services and the Scholar's Lab, have brought fresh inspiration, expert
+     guidance and insight, as well as generous hours of consultation and hands-on production.</p>
 
-     <p>The bibliography in the book was compiled with the assistance of Christopher Jackson, Karen
-      Dietz, Erin O'Connor, Sarah Whitney, Christine Bayles-Korstch, Margaret Cooke, and Regan
-      Boxwell.</p>
+    <p>The bibliography in the book was compiled with the assistance of Christopher Jackson, Karen
+     Dietz, Erin O'Connor, Sarah Whitney, Christine Bayles-Korstch, Margaret Cooke, and Regan
+     Boxwell.</p>
    </div1>
 
 
@@ -3934,12 +3933,15 @@
       </imprint>
       <note> Annual, <title>
         <hi rend="italics">Heath's Book of Beauty</hi>
-      </title>, begun in <date>1834</date>. Corresponds with <ref target="a462">Jerrold</ref>, <ref  target="a296">Finden</ref>, <ref target="a134">Burke</ref>, and <ref target="a452">Jameson</ref>.  "Gallery" is a literal and figurative premise for at least seventeen collections in this bibliography.</note>
-     Blessington also ed. <title>
+       </title> , begun in <date>1834</date>. Corresponds with <ref target="a462">Jerrold</ref>,
+        <ref target="a296">Finden</ref>, <ref target="a134">Burke</ref>, and <ref target="a452"
+        >Jameson</ref>. "Gallery" is a literal and figurative premise for at least seventeen
+       collections in this bibliography.</note>
+      <note>Blessington also ed. <title>
         <hi rend="italics">Keepsake</hi>
-     </title> from <date>1841</date>. L.E.L. also listed as editor. </note>
-      </bibl>
-    
+       </title> from <date>1841</date>. L.E.L. also listed as editor. </note>
+     </bibl>
+
 
      <bibl id="a091">
       <ref>91.</ref>
@@ -4511,8 +4513,9 @@
        <pubPlace>Abingdon,</pubPlace>
        <date>1914.</date>
       </imprint>
-      <note> Bristol identified as Bishop of the Methodist Episcopal Church. Chapters typically entitled: “The
-       Heroine-Mother: Thetis, Hecuba, Latona,” or “The Heroine-Daughter: Miranda, Cordelia.”  See <ref target="a033"><hi>Appleton's Portrait Gallery of Women</hi>.</ref>
+      <note> Bristol identified as Bishop of the Methodist Episcopal Church. Chapters typically
+       entitled: “The Heroine-Mother: Thetis, Hecuba, Latona,” or “The Heroine-Daughter: Miranda,
+       Cordelia.” See <ref target="a033"><hi>Appleton's Portrait Gallery of Women</hi>.</ref>
       </note>
      </bibl>
 
@@ -4955,7 +4958,10 @@
        others, including Mrs. J. Robertson and Miss E. Kendrick, engraved by Thomson, Dean, Cochrane
        and others. Burke's “memoirs” are skeletal genealogies or annals focused on males
        (cross-referenced among interrelated families). Wide individualist variety in the portraits.
-       No discernible order. This collection corresponds with <ref target="a462">Jerrold</ref>, <ref  target="a090">Blessington</ref>, and <ref target="a452">Jameson</ref>.  "Gallery" is a literal and figurative premise for at least seventeen collections in this bibliography.</note></note>
+       No discernible order. This collection corresponds with <ref target="a462">Jerrold</ref>, <ref
+        target="a090">Blessington</ref>, and <ref target="a452">Jameson</ref>. "Gallery" is a
+       literal and figurative premise for at least seventeen collections in this
+      bibliography.</note>
      </bibl>
 
      <bibl id="a135">
@@ -8893,7 +8899,8 @@
        <publisher>Tilt,</publisher>
        <date>1865.</date>
       </imprint>
-      <note> NOT:=literary heroines. See <ref target="a033"><hi>Appleton's Portrait Gallery of Women</hi>.</ref>The <date>1836</date> edition has a variant title: <title>
+      <note> NOT:=literary heroines. See <ref target="a033"><hi>Appleton's Portrait Gallery of
+        Women</hi>.</ref>The <date>1836</date> edition has a variant title: <title>
         <hi rend="italics">Les dames de Byron; or, Portraits of the principal female characters in
          Lord Byron's poems. Engraved from original paintings by eminent artists. Under the
          superintendence of W. and E. Finden</hi>
@@ -8920,7 +8927,10 @@
        <publisher>David Boquet</publisher>
        <date>[1830s?].</date>
       </imprint>
-      <note>NOT:=literary heroines.  Corresponds with <ref target="a462">Jerrold</ref>, <ref  target="a090">Lady Blessington</ref>, <ref target="a134">Burke</ref>, and <ref target="a452">Jameson</ref>.  "Gallery" is a literal and figurative premise for at least seventeen collections in this bibliography</note>
+      <note>NOT:=literary heroines. Corresponds with <ref target="a462">Jerrold</ref>, <ref
+        target="a090">Lady Blessington</ref>, <ref target="a134">Burke</ref>, and <ref target="a452"
+        >Jameson</ref>. "Gallery" is a literal and figurative premise for at least seventeen
+       collections in this bibliography</note>
      </bibl>
 
      <bibl id="a297"><ref>297.</ref>
@@ -9941,7 +9951,8 @@
        <date>1912.</date>
       </imprint>
       <note> Cf. varied titles by <ref target="a303">William W. Fowler</ref> and <ref target="a305"
-        >John Frost.</ref> </note>
+        >John Frost.</ref>
+      </note>
      </bibl>
 
      <bibl id="a341"><ref>341.</ref>
@@ -12182,8 +12193,12 @@
        <publisher>Wise,</publisher>
        <date>1928.</date>
       </imprint>
-      <note> TOC: Elizabeth Barrett Browning, Jeanne Marie Bouvier de La Motte Guyon,
-       Harriet Martineau. Excerpt of <ref target="a425"><title><hi>Little Journeys to the Homes of Famous Women</hi></title></ref></note>
+      <note> TOC: Elizabeth Barrett Browning, Jeanne Marie Bouvier de La Motte Guyon, Harriet
+       Martineau. Excerpt of <ref target="a425">
+        <title>
+         <hi>Little Journeys to the Homes of Famous Women</hi>
+        </title>
+       </ref></note>
      </bibl>
 
      <bibl id="a427"><ref>427.</ref>
@@ -13019,7 +13034,10 @@
       </imprint>
       <xref>See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
-      </title> 175-96.</xref><note>Corresponds with <ref target="a462">Jerrold</ref>, <ref  target="a296">Finden</ref>, <ref target="a134">Burke</ref>, and <ref target="090">Blessington</ref>.  "Gallery" is a literal and figurative premise for at least seventeen collections in this bibliography.</note>
+       </title> 175-96.</xref>
+      <note>Corresponds with <ref target="a462">Jerrold</ref>, <ref target="a296">Finden</ref>, <ref
+        target="a134">Burke</ref>, and <ref target="a090">Blessington</ref>. "Gallery" is a literal
+       and figurative premise for at least seventeen collections in this bibliography.</note>
      </bibl>
 
      <bibl id="a453"><ref>453.</ref>
@@ -13137,7 +13155,8 @@
       <note> TOC: Semiramis; Nictoris; Zenobia; Boadicea; Berengaria; Laura; Joan of Arc; Isabella
        of Castile; Beatrice Cenci; Ann Boleyn; Lady Jane Gray; Leonora d'Este; Catherine Alexiewna;
        Maria Theresa; Charlotte Corday; Josephine. </note>
-      <note> See <ref target="a403">Hewitt.</ref> </note>
+      <note> See <ref target="a403">Hewitt.</ref>
+      </note>
      </bibl>
 
      <bibl id="a455"><ref>455.</ref>
@@ -13483,8 +13502,10 @@
        <publisher>Putnam's,</publisher>
        <date>1912.</date>
       </imprint>
-      <note> Corresponds with <ref target="a090">Blessington</ref>, <ref  target="a296">Finden</ref>, <ref target="a134">Burke</ref>, and <ref target="a452">Jameson</ref>.  "Gallery" is a literal and figurative premise for at least seventeen collections in this bibliography.  Clare Jerrold also wrote three individual
-       biographies of Victoria. </note>
+      <note> Corresponds with <ref target="a090">Blessington</ref>, <ref target="a296">Finden</ref>,
+        <ref target="a134">Burke</ref>, and <ref target="a452">Jameson</ref>. "Gallery" is a literal
+       and figurative premise for at least seventeen collections in this bibliography. Clare Jerrold
+       also wrote three individual biographies of Victoria. </note>
      </bibl>
 
      <bibl id="a463">
@@ -14632,8 +14653,8 @@
        </title>; T. A. Trollope, <title>
         <hi rend="italics">Vittoria Colonna</hi>
        </title>, the latter possibly an extract from <ref target="a810">Trollope's <title>
-        <hi rend="italics">A Decade of Italian Women</hi>
-       </title></ref>. <hi rend="bold">*Pop Chart</hi>
+         <hi rend="italics">A Decade of Italian Women</hi>
+        </title></ref>. <hi rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
 
@@ -19090,7 +19111,8 @@
        <publisher>Wise,</publisher>
        <date>1935.</date>
       </imprint>
-      <note> Original English version pub. <date>1752</date> (see <ref target="c022">c022</ref>). </note>
+      <note> Original English version pub. <date>1752</date> (see <ref target="c022">c022</ref>).
+      </note>
      </bibl>
 
      <bibl id="a715">
@@ -19710,9 +19732,11 @@
        Jairus [by] William B. Sprague; Widow of Nain [by] Rt. Rev. J.H. Hopkins; Michal [by] Rev.
        J.F. Stearns; Martha [by] Rev. Robert A. Hallam; Mary Magdalene [by] Nicholas Murray;
        Bathsheba [by] Rev. R.S. Storrs, Jr. </note>
-      <note> Under either Sprague or Wainwright with different titles; see <ref target="a905"><title>
-        <hi rend="italics">Women of the Old and New Testament</hi>
-      </title></ref>. Sprague author of <title>
+      <note> Under either Sprague or Wainwright with different titles; see <ref target="a905">
+        <title>
+         <hi rend="italics">Women of the Old and New Testament</hi>
+        </title>
+       </ref>. Sprague author of <title>
         <hi rend="italics">The Excellent Woman, as Described in the Book of Proverbs</hi>
        </title> (<date>1851</date>) and <title>
         <hi rend="italics">Letters on Practical Subjects to a Daughter</hi>
@@ -21420,10 +21444,12 @@
        <publisher>Chapman &amp; Hall,</publisher>
        <date>1859.</date>
       </imprint>
-      <note> TOC: Vol. 1: St. Catherine of Siena; Caterina Sforza; Vittoria Colonna; Vol. 2: Tullia d'Aragona; Olympia Morata; Isabella Andreini; Bianca Cappello; Olympia Pamfili; Elisabetta Sirani; La Corilla. Contributor to <ref target="a514"><title>
+      <note> TOC: Vol. 1: St. Catherine of Siena; Caterina Sforza; Vittoria Colonna; Vol. 2: Tullia
+       d'Aragona; Olympia Morata; Isabella Andreini; Bianca Cappello; Olympia Pamfili; Elisabetta
+       Sirani; La Corilla. Contributor to <ref target="a514"><title>
          <hi rend="italics">Lives of Celebrated Women</hi>
         </title> (<date>1875</date>);</ref> author of a biography of Vittoria Colonna
-       (<date>1881</date>) and  "The Girlhood of Catherine de' Medici (pre-1859?). </note>
+       (<date>1881</date>) and "The Girlhood of Catherine de' Medici (pre-1859?). </note>
      </bibl>
 
      <bibl id="a811">
@@ -22050,8 +22076,11 @@
        <date>1906.</date>
       </imprint>
       <note> NOT:=history, typology, miscellany. Mounted newspaper clippings. This and corresponding
-       item <ref target="a838"><title><hi rend="italics">The Women of the Southern Confederacy ... Alabama, Florida, ...</hi>
-       </title></ref> retort to Northern prosopographies of the women in the Civil War effort. </note>
+       item <ref target="a838">
+        <title>
+         <hi rend="italics">The Women of the Southern Confederacy ... Alabama, Florida, ...</hi>
+        </title>
+       </ref> retort to Northern prosopographies of the women in the Civil War effort. </note>
      </bibl>
 
      <bibl id="a838">
@@ -22071,7 +22100,12 @@
        <publisher>n.p.,</publisher>
        <date>1908.</date>
       </imprint>
-      <note>See <ref target="a839"><title><hi>The Women of the Southern Confederacy...Virginia, North Carolina, ...</hi></title></ref> </note>
+      <note>See <ref target="a839">
+        <title>
+         <hi>The Women of the Southern Confederacy...Virginia, North Carolina, ...</hi>
+        </title>
+       </ref>
+      </note>
      </bibl>
 
      <bibl id="a839">
