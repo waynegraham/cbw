@@ -28,6 +28,17 @@
 							<xsl:call-template name="header"/>
 						</td>
 					</tr>
+					<tr id="subNav">
+						<td>
+							<a href="#1">Chronological Selection of Early Examples</a>
+						</td>
+						<td>
+							<a href="#2">Alphabetical Bibliography, 1830-1940</a>
+						</td>
+						<td>
+							<a href="#3">Chronological Selection of Examples after 1950</a>
+						</td>
+					</tr>
 					<tr>
 						<td class="content">
 							<xsl:choose>
@@ -61,7 +72,7 @@
 	<xsl:template match="div1[@type='biblio']">
 
 		<div class="head1">
-			<xsl:value-of select="head"/>
+			<a name="{./@n}"><xsl:value-of select="head"/></a>
 		</div>
 
 		<xsl:apply-templates select="div2"/>

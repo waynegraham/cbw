@@ -73,7 +73,7 @@ padding-left: 1em;
 padding-right: 1em; 
 padding-top: 1em; 
 padding-bottom:1em; 
-margin-top:1ex; 
+margin-top:2ex; 
 margin-left: 4em; 
 margin-right: 4em}
 
@@ -210,12 +210,24 @@ padding-right: 10px;
 margin-left: 0px;
 }
 
+#subnav {
+  text-align: center;
+}
+
+#subnav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 0px;
+  font-size: 12pt;
+}
+
 .head1 {
 color: #531B15; 
 font-size: 15pt; 
 padding-left:1em; 
 margin-bottom: 2ex; 
-font-weight:bold
+font-weight:bold;
+margin-top: 2em;
 }
 
 .head2 {
@@ -244,7 +256,7 @@ text-align: center
 }
 
 .headfoot a {
-margin-left: 100px;
+margin-left: 120px;
 }
 
 .list {
@@ -293,4 +305,8 @@ margin: 0px;
 padding: 0px;
 border: none;
 border: 1px solid #FFF7F7;
+}
+
+.yui-skin-sam .yui-dt table {
+  font-family: "Palatino Linotype",Times,serif;
 }
