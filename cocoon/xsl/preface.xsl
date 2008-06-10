@@ -29,75 +29,75 @@
 					</tr>
 					<tr>
 						<td class="mosaic">
-							<a href="/full/no01A_full.jpg">
-								<img src="no01A.jpg"/>
+							<a href="full/no01A.jpg">
+								<img src="no01.jpg"/>
 							</a>
-							<a href="/full/no06_full.jpg">
+							<a href="full/no06.jpg">
 								<img src="no06.jpg"/>
 							</a>
-							<a href="/full/no07_full.jpg">
+							<a href="full/no07.jpg">
 								<img src="no07.jpg"/>
 							</a>
-							<a href="/full/no08_full.jpg">
+							<a href="full/no08.jpg">
 								<img src="no08.jpg"/>
 							</a>
-							<a href="/full/no24_full.jpg">
+							<a href="full/no24.jpg">
 								<img src="no24.jpg"/>
 							</a>
-							<a href="/full/no10_full.jpg">
+							<a href="full/no10.jpg">
 								<img src="no10.jpg"/>
 							</a>
-							<a href="/full/no11_full.jpg">
+							<a href="full/no11.jpg">
 								<img src="no11.jpg"/>
 							</a>
-							<a href="/full/no12_full.jpg">
+							<a href="full/no12.jpg">
 								<img src="no12.jpg"/>
 							</a>
-							<a href="/full/no13_full.jpg">
+							<a href="full/no13.jpg">
 								<img src="no13.jpg"/>
 							</a>
-							<a href="/full/no25A_full.jpg">
-								<img src="no25A.jpg"/>
+							<a href="full/no25A.jpg">
+								<img src="no25.jpg"/>
 							</a>
-							<a href="/full/no26A_full.jpg">
-								<img src="no26A.jpg"/>
+							<a href="full/no26A.jpg">
+								<img src="no26.jpg"/>
 							</a>
 						</td>
 					</tr>
 					<tr>
 						<td class="mosaic">
-							<a href="/full/no14_full.jpg">
+							<a href="full/no14.jpg">
 								<img src="no14.jpg"/>
 							</a>
-							<a href="/full/no15_full.jpg">
+							<a href="full/no15.jpg">
 								<img src="no15.jpg"/>
 							</a>
-							<a href="/full/no16_full.jpg">
+							<a href="full/no16.jpg">
 								<img src="no16.jpg"/>
 							</a>
-							<a href="/full/no17_full.jpg">
+							<a href="full/no17.jpg">
 								<img src="no17.jpg"/>
 							</a>
-							<a href="/full/no18_full.jpg">
+							<a href="full/no18.jpg">
 								<img src="no18.jpg"/>
 							</a>
-							<a href="/full/no19_full.jpg">
+							<a href="full/no19.jpg">
 								<img src="no19.jpg"/>
 							</a>
-							<a href="/full/no21_full.jpg">
+							<a href="full/no21.jpg">
 								<img src="no21.jpg"/>
 							</a>
-							<a href="/full/no22_full.jpg">
+							<a href="full/no22.jpg">
 								<img src="no22.jpg"/>
 							</a>
-							<a href="/full/no23_full.jpg">
+							<a href="full/no23.jpg">
 								<img src="no23.jpg"/>
 							</a>
-							<a href="/full/no27_full.jpg">
+							<a href="full/no27.jpg">
 								<img src="no27.jpg"/>
 							</a>
-							<a href="/full/no28A_full.jpg">
-								<img src="no28A.jpg"/>
+							<a href="full/no28A.jpg">
+								<img src="no28.jpg"/>
 							</a>
 						</td>
 					</tr>

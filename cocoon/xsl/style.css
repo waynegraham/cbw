@@ -285,6 +285,11 @@ text-transform:uppercase;
 font-size:14pt
 }
 
+.illus {
+text-align: center;
+font-size: 12pt;
+}
+
 /*highlighted search text is yellow*/
 .searchword {
 background-color:yellow;

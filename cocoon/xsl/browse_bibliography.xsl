@@ -95,7 +95,7 @@
 				<table>
 					<tr>
 						<xsl:for-each select="image">
-							<td>
+							<td class="illus">
 								<a onclick="displayIllus('{@n}.jpg', escape('{./imgDesc}'));">
 									<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
 								</a>
