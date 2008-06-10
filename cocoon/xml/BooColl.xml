@@ -5937,15 +5937,15 @@
        </title>. Spine title: <title>
         <hi rend="italics">Biographies of Celebrated Women</hi>
        </title>. </note>
-      <image id="no15">
+      <image n="no15">
        <imgName>Maid of Sargosa</imgName>
        <imgDesc>The Maid of Sargosa by J. Champagne, engraved by S. Hollyer</imgDesc>
       </image>
-      <image id="no23">
+      <image n="no23">
        <imgName>Ann Hasseltin</imgName>
        <imgDesc>Ann Hasseltin Judson by J. B. Wandesforde, engraved by F. Halpin</imgDesc>
       </image>
-      <image id="no24">
+      <image n="no24">
        <imgName>Fanny Forester</imgName>
        <imgDesc>Emily C. Judson (Fanny Forester) by F. E. Jones</imgDesc>
       </image>
@@ -8335,11 +8335,11 @@
        Elizabeth Boyd Bayly; Mrs. Carlyle by Alex H. Japp; Baroness Bunsen by Professor Simon. <hi
         rend="bold">*Pop Chart</hi>
       </note>
-      <image id="no21">
+      <image n="no21">
        <imgName>Sarah Martin</imgName>
        <imgDesc>Teaching in Yarmouth Workhouse (Sarah Martin) by unidentified artist</imgDesc>
       </image>
-      <image id="no22">
+      <image n="no22">
        <imgName>Sarah Martin</imgName>
        <imgDesc>Sarah Martin at the Door of Yarmouth Prison by unidentified artist ("W")</imgDesc>
       </image>
@@ -12100,23 +12100,23 @@
        <ref target="a762">Strickland</ref> differs markedly from <ref target="a424">Howitt</ref>
        (latter full of censure). No illustration of Anne, subject of vol. 8 of <ref target="a762"
         >Strickland</ref> (<date>1851</date>). </note>
-      <image id="no01A">
+      <image n="no01">
        <imgName>Queen Elizabeth</imgName>
        <imgDesc>Queen Elizabeth by Edward Corbould, engraved by William Holl</imgDesc>
       </image>
-      <image id="no25A">
+      <image n="no25">
        <imgName>Queen Victoria</imgName>
        <imgDesc>Queen Victoria by Sir Walter Ross, R.A., engraved by F. Bacon</imgDesc>
       </image>
-      <image id="no26A">
+      <image n="no26">
        <imgName>Matilda of Scotland</imgName>
        <imgDesc>Matilda of Scotland by J. W. Wright, engraved by W. H. Mote</imgDesc>
       </image>
-      <image id="no27">
+      <image n="no27">
        <imgName>Queen Victoria</imgName>
        <imgDesc>Queen Victoria (classical bust) by J. Durham</imgDesc>
       </image>
-      <image id="no28A">
+      <image n="no28">
        <imgName>Queen Mary I</imgName>
        <imgDesc>Queen Mary I by A. Bouvier, engraved by W. H. Egleton</imgDesc>
       </image>
@@ -17116,7 +17116,7 @@
        </title>, <date>1868</date>; <title>
         <hi rend="italics">A History of the Sewing Machine</hi>
        </title>, <date>1867</date>). </note>
-      <image id="no01B">
+      <image n="no01">
        <imgName>Queen Elizabeth</imgName>
        <imgDesc>Queen Elizabeth by Edward Corbould, engraved by William Holl.</imgDesc>
       </image>
@@ -17359,11 +17359,11 @@
        compilations, but they are not simply reissues. Bound with John S. Jenkins, <title>
         <hi rend="italics">Heroines of History</hi>
        </title>, 2 vol. in 1, Hartford: Park, <date>1880</date>. </note>
-      <image id="no06">
+      <image n="no06">
        <imgName>Rosa Bonheur</imgName>
        <imgDesc>Rosa Bonheur by Edouard Dubuffe (or Dubufe), engraved by Augustus Robin</imgDesc>
       </image>
-      <image id="no07">
+      <image n="no07">
        <imgName>Harriet Hosmer</imgName>
        <imgDesc>Harriet Hosmer, engraved by Augustus Robin</imgDesc>
       </image>
@@ -20087,20 +20087,20 @@
        Elizabeth Stuart Phelps; Frances Hodgson Burnett; Julia Ward Howe. <hi rend="bold">*Pop
        Chart</hi>
       </note>
-      <image id="no10">
+      <image n="no10">
        <imgName>Our Famous Women</imgName>
        <imgDesc>Title Page from Our Famous Women, illustrated by T. W. Williams</imgDesc>
       </image>
-      <image id="no17">
+      <image n="no17">
        <imgName>Dr. Elizabeth Blackwell</imgName>
        <imgDesc>An Incident in the Student Life of Dr. Elizabeth Blackwell--An Actual Scene in the
         Operating-Room of a Medical College by T. W. Williams</imgDesc>
       </image>
-      <image id="no18">
+      <image n="no18">
        <imgName>Clara Barton</imgName>
        <imgDesc>Scenes in the Life of Clara Barton by T. W. Williams</imgDesc>
       </image>
-      <image id="no19">
+      <image n="no19">
        <imgName>Clara Barton</imgName>
        <imgDesc>Clara Barton Entering Strasburg with the German Army by T. W. Williams</imgDesc>
       </image>
@@ -20141,11 +20141,11 @@
        the Praying Mother; Ruth the Moabitess; The Witch of Endor; Queen Esther; Judith the
        Deliverer; The Mythical Madonna; Mary the Mother of Jesus; The Daughter of Herodias; The
        Woman of Samaria; Mary Magdalene; Martha and Mary. </note>
-      <image id="no11">
+      <image n="no11">
        <imgName>Delilah</imgName>
        <imgDesc>Delilah by Louise Marie Baader, chromolithograph by Jehenne</imgDesc>
       </image>
-      <image id="no12">
+      <image n="no12">
        <imgName>Judith</imgName>
        <imgDesc>Judith by Horace Bernet, chromolithograph by Jehenne</imgDesc>
       </image>
@@ -20385,19 +20385,19 @@
       </imprint>
       <note> A different repackaging in one volume than the <date>1851</date> abridged ed. above,
        this one dominated by its large portraits. </note>
-      <image id="no01C">
+      <image n="no01">
        <imgName>Queen Elizabeth</imgName>
        <imgDesc>Queen Elizabeth by Edward Corbould, engraved by William Holl</imgDesc>
       </image>
-      <image id="no25B">
+      <image n="no25">
        <imgName>Queen Victoria</imgName>
        <imgDesc>Queen Victoria by Sir William Ross, R. A., engraved by F. Bacon</imgDesc>
       </image>
-      <image id="no26B">
+      <image n="no26">
        <imgName>Matilda of Scotland</imgName>
        <imgDesc>Matilda of Scotland by J. W. Wright, engraved by W. H. Mote</imgDesc>
       </image>
-      <image id="no28B">
+      <image n="no28">
        <imgName>Queen Mary</imgName>
        <imgDesc>Queen Mary by A. Bouvier, engraved by W. H. Egleton</imgDesc>
       </image>
