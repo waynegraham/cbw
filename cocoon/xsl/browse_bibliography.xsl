@@ -105,7 +105,7 @@
 					</tr>
 					<tr>
 						<xsl:for-each select="image/imgName">
-							<td>
+							<td class="illus">
 								<xsl:value-of select="."/>
 							</td>
 						</xsl:for-each>
