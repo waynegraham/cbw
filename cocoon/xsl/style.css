@@ -3,7 +3,7 @@ A:visited{color:#57744C; font-weight:bold; text-decoration:none}
 A:hover{color:#991818; font-weight:bold; text-decoration:none}
 A:active{color:#57744C; font-weight:bold; text-decoration:none}
 A {color:#57744C; font-weight:bold; text-decoration:none}
-IMG {margin:20px}
+IMG {margin:0px 15px}
 
 body {
   background-image: url('back_xs.jpg');
@@ -287,7 +287,7 @@ font-size:14pt
 
 .illus {
 text-align: center;
-font-size: 12pt;
+font-size: 10pt;
 }
 
 /*highlighted search text is yellow*/

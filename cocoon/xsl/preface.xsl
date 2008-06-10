@@ -29,7 +29,7 @@
 					</tr>
 					<tr>
 						<td class="mosaic">
-							<a href="full/no01A.jpg">
+							<a href="full/no01.jpg">
 								<img src="thumbs/no01.jpg"/>
 							</a>
 							<a href="full/no06.jpg">
@@ -56,10 +56,10 @@
 							<a href="full/no13.jpg">
 								<img src="thumbs/no13.jpg"/>
 							</a>
-							<a href="full/no25A.jpg">
+							<a href="full/no25.jpg">
 								<img src="thumbs/no25.jpg"/>
 							</a>
-							<a href="full/no26A.jpg">
+							<a href="full/no26.jpg">
 								<img src="thumbs/no26.jpg"/>
 							</a>
 						</td>
@@ -96,7 +96,7 @@
 							<a href="full/no27.jpg">
 								<img src="thumbs/no27.jpg"/>
 							</a>
-							<a href="full/no28A.jpg">
+							<a href="full/no28.jpg">
 								<img src="thumbs/no28.jpg"/>
 							</a>
 						</td>

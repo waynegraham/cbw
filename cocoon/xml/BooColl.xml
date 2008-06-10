@@ -1000,7 +1000,7 @@
      </bibl>
 
      <bibl id="c022">
-      <idno added="2008-05-20">c022</idno>
+      <idno>c022</idno>
       <date>1752.</date>
       <author><name type="last">Serviez</name>, <name type="first">Jacques Roergas de</name>.</author>
       <title type="ref">
@@ -1032,7 +1032,7 @@
      </bibl>
 
      <bibl id="c023">
-      <idno added="2008-04-27">c023</idno>
+      <idno>c023</idno>
       <date>1755.</date>
       <author><name type="last">Amory</name>, <name type="first">Thomas</name>.</author>
       <title type="ref">
@@ -1114,7 +1114,7 @@
        <date>1813;</date>
        <date>1815;</date>
        <date>1833.</date>
-       <date added="2008-04-27">2008.</date>
+       <date>2008.</date>
       </imprint>
       <note>British Library.</note>
      </bibl>
