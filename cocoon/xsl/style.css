@@ -314,6 +314,10 @@ border: none;
 border: 1px solid #FFF7F7;
 }
 
+.popMarkup {
+padding: 20px;
+}
+
 .yui-skin-sam .yui-dt table {
   font-family: "Palatino Linotype",Times,serif;
 }

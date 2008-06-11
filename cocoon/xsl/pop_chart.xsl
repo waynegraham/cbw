@@ -73,8 +73,7 @@
                     };
                     
                     this.myDataTable = new YAHOO.widget.DataTable("popMarkup", myColumnDefs, this.myDataSource,
-                    {caption:"Pop Chart",
-                    sortedBy:{key:"total",dir:"desc"}}
+                    {sortedBy:{key:"total",dir:"desc"}}
                     );
                     };
                     });
