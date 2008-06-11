@@ -49,10 +49,10 @@
                     var myColumnDefs = [
                     {key:"name",label:"Name", sortable:true},
                     {key:"category",label:"Category", sortable:true},
-                    {key:"period1",label:"1850-1870", sortable:true},
-                    {key:"period2",label:"1880-1900", sortable:true},
-                    {key:"period3",label:"1910-1930", sortable:true},
-                    {key:"total",label:"Total", sortable:true}
+                    {key:"period1",label:"1850-1870", formatter:YAHOO.widget.DataTable.formatNumber, sortable:true},
+                    {key:"period2",label:"1880-1900", formatter:YAHOO.widget.DataTable.formatNumber, sortable:true},
+                    {key:"period3",label:"1910-1930", formatter:YAHOO.widget.DataTable.formatNumber, sortable:true},
+                    {key:"total",label:"Total", formatter:YAHOO.widget.DataTable.formatNumber, sortable:true}
                     ];
                     
                     this.parseNumberFromCurrency = function(sString) {
@@ -65,10 +65,10 @@
                     this.myDataSource.responseSchema = {
                     fields: [{key:"name"},
                     {key:"category"},
-                    {key:"period1"},
-                    {key:"period2"},
-                    {key:"period3"},
-                    {key:"total"}
+                    {key:"period1", parser:YAHOO.util.DataSource.parseNumber},
+                    {key:"period2", parser:YAHOO.util.DataSource.parseNumber},
+                    {key:"period3", parser:YAHOO.util.DataSource.parseNumber},
+                    {key:"total", parser:YAHOO.util.DataSource.parseNumber}
                     ]
                     };
                     
