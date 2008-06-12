@@ -92,25 +92,39 @@
 		<div class="bibl">
 			<xsl:apply-templates/>
 			<xsl:if test="./image != ''">
-				<table>
-					<tr>
-						<xsl:for-each select="image">
-							<td class="illus">
-								<a onclick="displayIllus('{@n}.jpg', escape('{./imgDesc}'));">
-									<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
-								</a>
-							</td>
-
-						</xsl:for-each>
-					</tr>
-					<tr>
-						<xsl:for-each select="image/imgName">
-							<td class="illus">
-								<xsl:value-of select="."/>
-							</td>
-						</xsl:for-each>
-					</tr>
-				</table>
+				<xsl:choose>
+					<xsl:when test="count(./image) &gt; number(7)">
+						<table>
+							<tr>
+								<td>
+									<a href="browse?bibl_id={./@id}">See all images...</a>
+								</td>
+							</tr>
+						</table>
+					</xsl:when>
+					<xsl:otherwise>						
+						<table>
+							<tr>
+								<xsl:for-each select="image">
+									<td class="illus">
+										<a onclick="displayIllus('{@n}.jpg', escape('{./imgDesc}'));">
+											<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
+										</a>
+									</td>
+									
+								</xsl:for-each>
+							</tr>
+							<tr>
+								<xsl:for-each select="image/imgName">
+									<td class="illus">
+										<xsl:value-of select="."/>
+									</td>
+								</xsl:for-each>
+							</tr>
+						</table>						
+					</xsl:otherwise>
+				</xsl:choose>
+				
 			</xsl:if>
 			<br/>
 			<br/>
