@@ -93,14 +93,28 @@
 			<xsl:apply-templates/>
 			<xsl:if test="./image != ''">
 				<xsl:choose>
-					<xsl:when test="count(./image) &gt; number(7)">
+					<xsl:when test="count(./image) &gt; number(6)">
+						<xsl:variable name="img_rows">
+							<xsl:value-of select="count(./image) mod 6"/>
+						</xsl:variable>
 						<table>
 							<tr>
 								<td>
-									<a href="browse?bibl_id={./@id}">See all images...</a>
+									<a href="browse?bibl_id={./@id}">There should be  <xsl:value-of select="count(./image)"/> images in <xsl:value-of select="$img_rows"/> rows.</a>									
 								</td>
 							</tr>
 						</table>
+						<xsl:for-each select="image">
+							<div class="illus">
+								<a onclick="displayIllus('{@n}.jpg', escape('{./imgDesc}'));">
+									<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
+								</a>
+								<span class="caption"><xsl:value-of select="image/imgName"></xsl:value-of></span>
+							</div>
+						</xsl:for-each>
+						<div>
+							
+						</div>
 					</xsl:when>
 					<xsl:otherwise>						
 						<table>
