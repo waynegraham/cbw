@@ -103,18 +103,12 @@
 									<a href="browse?bibl_id={./@id}">There should be  <xsl:value-of select="count(./image)"/> images in <xsl:value-of select="$img_rows"/> rows.</a>									
 								</td>
 							</tr>
-							<tr>
-								<td>
-									<xsl:value-of select="./image except image[7-(count(./image))]"></xsl:value-of>
-								</td>
-							</tr>
 						</table>
 						<xsl:for-each select="image">
-							<span>
+							<span class="illus">
 								<a onclick="displayIllus('{@n}.jpg', escape('{./imgDesc}'));">
 									<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
 								</a>
-								<xsl:value-of select="./imgName"/>
 							</span>
 						</xsl:for-each>
 						<div>
