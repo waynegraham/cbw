@@ -2152,7 +2152,7 @@
        <pubPlace>London:</pubPlace>
        <publisher>Backland</publisher>
       </imprint>]. <note>
-       <ref target="c035">See 1804.</ref>
+       See <ref target="c031">Gibbons and Dana, 1803</ref> and <ref target="c035"> Jerment, 1804.</ref> 
       </note>
       <note>TOC: Mary of Padilla, Under Peter the Cruel, King of Castile; Livia, Under the Emperor
        Augustus; Julia Farnesa, Under Alexander the Sixth, Pope of Rome; Agnes Soreau, under Charles
@@ -2261,7 +2261,7 @@
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 30, 52-53 and note 15 on page 299.</xref>
       <note>
-       <ref target="c028">See 1777.</ref>
+       <ref target="c028">See Gibbons, 1777</ref> and <ref target="c040">Burder, Gibbons, and Jerment, 1815.</ref>
       </note>
      </bibl>
 
@@ -2409,8 +2409,8 @@
        remarkably <hi rend="italics">pious</hi>" (x-xi). 2 pp. catalogue at end: Ogle in London,
        Glasgow; Ogle and Aikin, Edinburgh, mostly sermons. </note>
       <note>
-       <xref>See Gibbons (1777), Gibbons and Dana (1803), and Burder, Gibbons, and Jerment
-       (1815).</xref>
+       <xref>See <ref target="c028">Gibbons (1777),</ref> <ref target="c031">Gibbons and Dana (1803),</ref> and <ref target="c040">Burder, Gibbons, and Jerment
+        (1815).</ref></xref>
       </note>
      </bibl>
 
@@ -2532,8 +2532,8 @@
        omissions. The 2nd vol. . . . was compiled by the Rev. George Jerment, and published with the
        former, as an additional vol. . . . Memoirs [which] form the 3rd vol. . . . appear under the
        . . . present ed. for the 1st time, in a collected form” (Preface, viii). See <ref
-        target="c046">Sharp, <date>1822,</date></ref>
-       <ref target="c041">Bacon, <date>1833,</date></ref> and <ref target="a132">Burder,
+        target="c047">Sharp, <date>1822,</date></ref>
+       <ref target="a041">Bacon, <date>1833,</date></ref> and <ref target="a132">Burder,
         <date>1835.</date></ref></note>
      </bibl>
 
@@ -6038,7 +6038,7 @@
        <pubPlace>Philadelphia,</pubPlace>
        <date>1835.</date>
       </imprint>
-      <note>Possible title variation on <ref target="c029">Gibbons / Jerment / Burder,</ref>
+      <note>Possible title variation on <ref target="c028">Gibbons</ref>, <ref target="c035">Jerment</ref>, and <ref target="c040">Burder, 1815</ref>.
        <title>
         <hi rend="italics">Memoirs of Eminently Pious Women . . . </hi>
        </title> (early chronological list).</note>
