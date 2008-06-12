@@ -111,8 +111,10 @@
     </xsl:template>
     
     <xsl:template match="cell[@rend='bold']">
-        <td class="hi_cell">
+        <td>
+            <b>
             <xsl:apply-templates/>
+            </b>
         </td>
     </xsl:template>
 
