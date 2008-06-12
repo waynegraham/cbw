@@ -105,12 +105,10 @@
 							</tr>
 						</table>
 						<xsl:for-each select="image">
-							<div class="illus">
 								<a onclick="displayIllus('{@n}.jpg', escape('{./imgDesc}'));">
 									<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
 								</a>
-								<span class="caption"><xsl:value-of select="image/imgName"></xsl:value-of></span>
-							</div>
+								<xsl:value-of select="./imgName"></xsl:value-of> <xsl:text>          </xsl:text>
 						</xsl:for-each>
 						<div>
 							
