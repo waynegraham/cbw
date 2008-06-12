@@ -31,9 +31,9 @@
 					<tr>
 						<td>
 							<div id="subNav">
-							<a href="#1">Early Examples</a>
-							<a href="#2">Alphabetical, 1830-1940</a>
-							<a href="#3">Examples after 1950</a>
+								<a href="#1">Early Examples</a>
+								<a href="#2">Alphabetical, 1830-1940</a>
+								<a href="#3">Examples after 1950</a>
 							</div>
 						</td>
 					</tr>
@@ -70,7 +70,9 @@
 	<xsl:template match="div1[@type='biblio']">
 
 		<div class="head1">
-			<a name="{./@n}"><xsl:value-of select="head"/></a>
+			<a name="{./@n}">
+				<xsl:value-of select="head"/>
+			</a>
 		</div>
 
 		<xsl:apply-templates select="div2"/>
@@ -91,58 +93,17 @@
 
 		<div class="bibl">
 			<xsl:apply-templates/>
-			<xsl:if test="./image != ''">
-				<xsl:choose>
-					<xsl:when test="count(./image) &gt; number(6)">
-						<xsl:variable name="img_rows">
-							<xsl:value-of select=" ceiling(count(./image) div 6)"/>
-						</xsl:variable>
-						<table>
-							<tr>
-								<td>
-									<a href="browse?bibl_id={./@id}">There should be  <xsl:value-of select="count(./image)"/> images in <xsl:value-of select="$img_rows"/> rows.</a>									
-								</td>
-							</tr>
-						</table>
-						<xsl:for-each select="image">
-							<div class="illus">
-								<a onclick="displayIllus('{@n}.jpg', escape('{./imgDesc}'));">
-									<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
-								</a>
-								<div class="caption">
-								<xsl:value-of select="./imgName"/>
-								</div>
-							</div>
-						</xsl:for-each>
-						<div>
-							
-						</div>
-					</xsl:when>
-					<xsl:otherwise>						
-						<table>
-							<tr>
-								<xsl:for-each select="image">
-									<td class="illus">
-										<a onclick="displayIllus('{@n}.jpg', escape('{./imgDesc}'));">
-											<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
-										</a>
-									</td>
-									
-								</xsl:for-each>
-							</tr>
-							<tr>
-								<xsl:for-each select="image/imgName">
-									<td class="illus">
-										<xsl:value-of select="."/>
-									</td>
-								</xsl:for-each>
-							</tr>
-						</table>						
-					</xsl:otherwise>
-				</xsl:choose>
-				
-			</xsl:if>
-			<br/>
+			<xsl:for-each select="image">
+				<div class="illus">
+					<a onclick="displayIllus('{@n}.jpg', escape('{./imgDesc}'));">
+						<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
+					</a>
+					<div class="caption">
+						<xsl:value-of select="./imgName"/>
+					</div>
+				</div>
+			</xsl:for-each>
+			<br clear="all"/>
 			<br/>
 			<a
 				href="http://www.worldcat.org/search?q=%22{title/hi}%22+au%3A{author/name[@type='last']}"
