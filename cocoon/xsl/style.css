@@ -318,6 +318,10 @@ border: 1px solid #FFF7F7;
 padding: 20px;
 }
 
+.hi_cell {
+background: #aaaa44;
+}
+
 .yui-skin-sam .yui-dt table {
   font-family: "Palatino Linotype",Times,serif;
 }
