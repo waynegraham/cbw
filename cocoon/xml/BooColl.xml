@@ -158,7 +158,7 @@
      <docAuthor>Alison Booth</docAuthor>
 
      <seg>Includes Volumes of Three or More Female Biographies<lb/> Published in English
-      1830-1940<lb/> With a Select Chronological Bibliography Prior to 1830</seg>
+      1830-1940<lb/> With Selected Bibliographies of Collections Published Before 1830 and After 1940 </seg>
 
      <seg>Compiled with the assistance of Christopher Jackson, Karen Dietz, Erin O'Connor, Sarah
       Whitney, Christine Bayles-Korstch, Margaret Cooke</seg>
@@ -397,7 +397,7 @@
        <cell role="data">Joan of Arc</cell>
        <cell role="data">Paragon</cell>
        <cell role="data">13</cell>
-       <cell role="data" rend="bold">16</cell>
+       <cell role="data">16</cell>
        <cell role="data">9</cell>
        <cell role="data">38</cell>
       </row>
@@ -25057,25 +25057,206 @@
    <div1 type="biblio" n="3">
     <head>III. Post-1950 Examples</head>
     <div2>
-
      <bibl id="p001">
       <idno>p001</idno>
-      <author><name type="last">Wittenmyer</name>, <name type="first">Annie</name>.</author>
+      <author><name type="last">Adams</name>, <name type="first">Jean,</name> <name type="last">Kimball,</name>
+       <name type="first">Margaret</name>, and <name type="last">Eaton</name>, <name type="first">Jeanette.</name> </author>
+      <title type="ref"><hi rend="italics">Heroines of the Sky.</hi></title>
+      <imprint>
+       <pubPlace>Garden City, NY:</pubPlace>
+       <publisher>Doubleday, Doran,</publisher>
+       <date>1942.</date>
+      </imprint>
+     </bibl>
+     
+     <bibl id="p002">
+      <idno>p002</idno>
+      <author><name type="last">Ahlers</name>, <name type="first">Lena C.</name>.</author>
       <title type="ref">
-       <hi rend="italics">The Women of the Reformation.</hi>
+       <hi rend="italics">Daughters Known to Fame.</hi>
       </title>
       <imprint>
-       <pubPlace>New York:</pubPlace>
-       <publisher>Phillips &amp; Hunt;</publisher>
-       <pubPlace>Cincinnati, OH:</pubPlace>
-       <publisher>Cranston &amp; Stowe,</publisher>
-       <date>1885.</date>
+       <pubPlace>  Chicago: </pubPlace>
+       <publisher>A. Whitman, </publisher>
+       <date>1942.</date>
+      </imprint></bibl>
+     
+     <bibl id="p003">
+      <idno>p003</idno>
+      <author><name type="last">Alexander</name>, <name type="first">Meena</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women in Romanticism:  Mary Wollstonecraft, Dorothy Wordsworth and Mary Shelley.</hi>
+      </title>
+      <imprint>
+       <pubPlace>  London: </pubPlace>
+       <publisher>Macmillan, </publisher>
+       <date>1989.</date>
+      </imprint></bibl>
+     
+     <bibl id="p004">
+      <idno>p004</idno>
+      <author><name type="last">Als</name>, <name type="first">Hilton</name>.</author>
+      <title type="ref"><hi rend="italics">The Women.</hi></title>
+      <imprint>
+       <pubPlace>New York: </pubPlace>
+       <publisher>Farrar Straus Giroux,</publisher>
+       <date> 1996.</date>           
       </imprint>
-      <note> Author of memoirs and handbook of women's Civil War work and of <title>
-        <hi rend="italics">Women's Work for Jesus</hi>
-       </title> (<date>1871</date>; Methodist churchwomen); co-author with Frances Willard of <title>
-        <hi rend="italics">History of the Woman's Temperance Crusade</hi>
-       </title> (<date>1878</date>). </note>
+     </bibl>    
+
+     <bibl id="p005">
+      <idno>p005</idno>
+      
+      <title type="ref"><hi rend="italics">American Women at the Court of St. James's.</hi></title>
+      <imprint>
+       <pubPlace>New York: </pubPlace>
+       <publisher>Presentation Publications,</publisher>
+       <date> 1942.</date>           
+      </imprint>
+     </bibl>
+     
+     <bibl id="p006">
+      <idno>p006</idno>
+      <author><name type="last">Armour,</name><name type="first">Richard Willard</name>.</author>
+      <title type="ref"><hi>It All Started with Eve.</hi></title>
+      <imprint>
+       <pubPlace>Boston: </pubPlace>
+       <publisher>G. K. Hall, </publisher>
+       <date>1976.</date>
+      </imprint>
+     </bibl>
+     
+     <bibl id="p007">
+      <idno>p007</idno>
+      <author><name>Arts Council of Great Britain.</name></author>
+      <title type="ref"><hi>Women Artists from the Netherlands.</hi></title>
+      <imprint>
+       <pubPlace>London: </pubPlace>
+       <publisher>Arts Council of Great Britain, </publisher>
+       <date>1949.</date>
+      </imprint>
+     </bibl>
+     
+     <bibl id="p008">
+     <idno>p008</idno>
+     <author><name type="last">Ashby,</name><name type="first">Ruth</name>, and <name type="first">Deborah</name> <name type="last">Gore Ohrn, eds.</name></author>
+     <title type="ref"><hi>Herstory.</hi></title>
+      Introduction by Gloria Steinem.
+     <imprint>
+      <pubPlace>New York: </pubPlace>
+      <publisher>Viking Penguin, </publisher>
+      <date>1995.</date>
+     </imprint>
+     </bibl>
+     
+     <bibl id="p009">
+      <idno>p009</idno>
+      <author><name type="last">Bainton,</name><name type="first">Roland Herbert. </name></author>
+      <title type="ref"><hi>Women of the Reformation in France and England.</hi></title>
+          <imprint>
+       <pubPlace>Minneapolis: </pubPlace>
+       <publisher>Augsburg, </publisher>
+       <date>1973.</date>
+          </imprint>
+      <imprint>
+       <pubPlace>Boston:</pubPlace>
+       <publisher>Beacon Press,</publisher>
+       <date>1975.</date>
+      </imprint>
+     </bibl>
+     
+     <bibl id="p010">
+      <idno>p010</idno>
+      <author><name type="last">Bainton,</name><name type="first">Roland Herbert. </name></author>
+      <title type="ref"><hi>Women of the Reformation :  From Spain to Scandinavia.</hi></title>
+      <imprint>
+       <pubPlace>Minneapolis: </pubPlace>
+       <publisher>Augsburg, </publisher>
+       <date>1977.</date>
+      </imprint>
+     </bibl>
+     
+     <bibl id="p011">
+      <idno>p011</idno>
+      <author><name type="last">Bannerman,</name><name type="first">Jean MacKay. </name></author>
+      <title type="ref"><hi>Leading Ladies, Canada 1639-1967.</hi></title>
+      <imprint>
+       <pubPlace>Dundas, ON:  </pubPlace>
+       <publisher>Carrswood, </publisher>
+       <date>1967.</date>
+      </imprint>
+     </bibl>
+     <bibl id="p012">
+      <idno>p012</idno>
+      <author><name type="last">Bennett,</name><name type="first">Henry Stanley. </name></author>
+      <title type="ref"><hi>Six Medieval Men and Women. </hi></title>
+      <imprint>
+       <pubPlace>Cambridge:  </pubPlace>
+       <publisher>Atheneum, </publisher>
+       <date>1955.</date>
+      </imprint>
+     </bibl>
+     
+     <bibl id="p013">
+      <idno>p013</idno>
+      <author><name type="last">Benstock,</name><name type="first">Shari. </name></author>
+      <title type="ref"><hi>Women of the Left Bank:  Paris, 1900-1940. </hi></title>
+      <imprint>
+       <pubPlace>Austin, Texas:  </pubPlace>
+       <publisher>University of  Texas Press, </publisher>
+       <date>1986.</date>
+      </imprint>
+     </bibl>
+     
+     <bibl id="p014">
+      <idno>p014</idno>
+      <author><name type="last">Bernikow,</name><name type="first">Louise, </name>with <name>National Women's History Project</name></author>
+      <title type="ref"><hi>The American Women’s Almanac: An Inspiring and Irreverent Women’s History. </hi></title>
+      <imprint>
+       <pubPlace>New York:  </pubPlace>
+       <publisher>Berkley Books, </publisher>
+       <date>1997.</date>
+      </imprint>
+     </bibl>
+     
+     <bibl id="p015">
+      <idno>p015</idno>
+      <author><name type="last">Biddle,</name><name type="first">Gertrude, </name> and <name type="first">Sarah Dickson</name> <name type="last">Lowrie</name></author>
+           <title type="ref"><hi>Notable Women of Pennsylvania. </hi></title>
+      <imprint>
+       <pubPlace>Philadelphia:  </pubPlace>
+       <publisher>University of Pennsylvania Press, </publisher>
+       <date>1942.</date>
+      </imprint>
+     </bibl>
+     
+     <bibl id="p016">
+      <idno>p016</idno>
+      <author><name type="last">Black,</name><name type="first">Helen</name></author>
+      <title type="ref"><hi>Sunshine and Shadow. </hi></title>
+      <imprint>
+       <pubPlace>[Dunedin, N.Z.:  </pubPlace>
+       <publisher>Printed by John McIndoe, </publisher>
+       <date>1947.</date>
+       
+      </imprint>
+      <note>See possible connection with Helen C. Black, entery 82; possibly a memoir or biography.</note>
+     </bibl>
+     
+     
+     
+     <bibl id="p017">
+      <idno>p017</idno>
+            <author><name type="last">Blackburne</name>, <name type="first">Neville</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Ladies' Chain.</hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Falcon,</publisher>
+              <date>1952.</date>
+      </imprint>
+      <note> </note>
      </bibl>
 
     </div2>
