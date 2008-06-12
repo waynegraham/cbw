@@ -95,7 +95,7 @@
 				<xsl:choose>
 					<xsl:when test="count(./image) &gt; number(6)">
 						<xsl:variable name="img_rows">
-							<xsl:value-of select="count(./image) mod 6"/>
+							<xsl:value-of select=" ceiling(count(./image) div 6)"/>
 						</xsl:variable>
 						<table>
 							<tr>
@@ -103,12 +103,19 @@
 									<a href="browse?bibl_id={./@id}">There should be  <xsl:value-of select="count(./image)"/> images in <xsl:value-of select="$img_rows"/> rows.</a>									
 								</td>
 							</tr>
+							<tr>
+								<td>
+									<xsl:value-of select="./image except image[7-(count(./image))]"></xsl:value-of>
+								</td>
+							</tr>
 						</table>
 						<xsl:for-each select="image">
+							<span>
 								<a onclick="displayIllus('{@n}.jpg', escape('{./imgDesc}'));">
 									<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
 								</a>
-								<xsl:value-of select="./imgName"></xsl:value-of> <xsl:text>          </xsl:text>
+								<xsl:value-of select="./imgName"/>
+							</span>
 						</xsl:for-each>
 						<div>
 							
