@@ -109,14 +109,6 @@
             <xsl:apply-templates/>
         </td>
     </xsl:template>
-    
-    <xsl:template match="cell[@rend='bold']">
-        <td>
-            <b>
-            <xsl:apply-templates/>
-            </b>
-        </td>
-    </xsl:template>
 
     <xsl:template match="cell[@role='label']">
         <th>

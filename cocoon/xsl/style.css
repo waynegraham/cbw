@@ -318,8 +318,8 @@ border: 1px solid #FFF7F7;
 padding: 20px;
 }
 
-.hi_cell {
-background: #aaaa44;
+#yui-dt0-bdrow0-cell3, #yui-dt0-bdrow0-cell5 {
+background: #efefaf;
 }
 
 .yui-skin-sam .yui-dt table {
