@@ -3008,7 +3008,7 @@
      <bibl id="a004">
       <ref>4.</ref>
       <idno>a004</idno>
-      <author><name type="last">Adams</name>, <name type="first">Elmer Cleveland</name>, and<name
+      <author><name type="last">Adams</name>, <name type="first">Elmer Cleveland</name>, and <name
         type="first">Warren Dunham</name>
        <name type="last">Foster</name>.</author>
       <title type="ref">
@@ -3047,7 +3047,7 @@
        <imgName>Mary Lyon</imgName>
       </image>
       <image n="no44">
-       <imgName>Elizabeth Lady Stanton</imgName>
+       <imgName>Elizabeth Cady Stanton</imgName>
       </image>
       <image n="no45">
        <imgName>Florence Nightingale</imgName>
@@ -3556,7 +3556,7 @@
        <date>1913;</date>
        <date>1917.</date>
       </imprint>
-      <note> Bodleian Aguilar is the author fiction, notably, <title>
+      <note> Bodleian.   Aguilar is the author fiction, notably, <title>
         <hi rend="italics">Woman's Friendship: A Story of Domestic Life</hi>
        </title> (London: Groombridge; New York: Appleton, <date>1850</date>), evidently in print in
        London until <date>1903</date>, in New York until <date>1901</date>. In <date>1870</date>,
@@ -3619,7 +3619,7 @@
        <imgName>Madame Diaz</imgName>
       </image>
       <image n="no54">
-       <imgName>Milicent</imgName>
+       <imgName>The Duchess of Sutherland</imgName>
       </image>
       <image n="no55">
        <imgName>Byron's Maid of Athens</imgName>
@@ -4101,8 +4101,7 @@
        <publisher>D. McLeod,</publisher>
        <date>1833.</date>
       </imprint>
-      <note>Evident reference to <ref target="c029">Gibbons / Jerment / Burder editions,</ref>
-       <date>1777-1836.</date></note>
+      <note>Evident reference to <ref target="c028">Gibbons</ref> and later editions by <ref target="c035">Jerment,</ref>  <ref target="c040">Burder,</ref> and others <date>1777-1836.</date></note>
       <note>TOC: Lady Jane Grey; Queen Catharine Parr; Countess of Warwick; Lady Elizabeth Brooke; Lady Alice Lucy; Lady Frances Hobart; Viscountess Falkland; Mrs. Lucy Hutchinson; Mrs. Catharine Clark; Countess of Carbery; Lady Rachel Russell; Mrs. Elizabeth Bury; Queen Mary II; Mrs. Elizabeth Burnet; Mrs. Elizabeth Rowe; Countess of Seafield; Elizabeth West; Lady Elizabeth Hastings; Countess of Huntingdon; Lady Ann Agnes Erskine; Viscountess Glenorchy; Lady Henrietta Hope; Mrs. Sarah Edwards; Mrs. Sarah Osborn; Miss Susanna Anthony; Mrs. Martha Laurens Ramsay; Mrs. Isabella Graham; Mrs Harriet Newell; Miss Fanny Woodbury; Mrs. Susan Huntington; Miss Caroline Elizabeth Smelt; Mrs. Susan Poor; Mrs. Elizabeth Dolson; Mrs. Sally Agard; Miss Elizabeth Peck; Miss Lydia B. Leavitt; Miss Elizabeth Hough; Mrs. Sally Rundal; Miss Catharine Brown; Tahneh; Mrs. Jane Clark; Mrs. Elizabeth Bishop; Mrs. Ann Hasseltine Judson; Mrs. Esther Butler; Eliza; Mrs. Myra W. Allen; Miss Hannah Adams.</note>
      </bibl>
 
@@ -20878,7 +20877,7 @@
        <imgName>Duchess of Orleans</imgName>
       </image>
       <image n="no180">
-       <imgName>Diane de Paitiers</imgName>
+       <imgName>Diane de Poitiers</imgName>
       </image>
       <image n="no181">
        <imgName>Madame des Ursins</imgName>
@@ -20896,7 +20895,7 @@
        <imgName>Caterina Cornaro</imgName>
       </image>
       <image n="no186">
-       <imgName>La Grande Mademoisselle</imgName>
+       <imgName>La Grande Mademoiselle</imgName>
       </image>
       <note>TOC: Mary, Queen of Scots; Madame de Maintenon; Louise de Queroualle; Margaret of Parma; Marie de Mancini; Elizabeth, Queen of England; La Marquise de Montespan; The Duchess of Cleveland; Madame Roland; Lady Hamilton; La Duchesse de Maine; The Duchess of Cleveland; Madame Roland; Lady Hamilton; La Duchesse du Maine; Agnes Sorel; Lady Blessington; La Duchesse de Chebreuse; Lady Jane Grey; Anne de Pisseleu; Bianca Capello; Madame de Pompadour; Bess of Hardwick; Gabrielle d’Estrees; Isabella of Austria; Christina, Queen of Sweden; Mrs. Fitzherbert; Henriette de Balzac; Sarah, Duchess of Marborough; Madame de Longueville; Catherine II; Madame Recamier; Elizabeth Cromwell Claypole; Isabella d’Este; La Duchesse de Berri; Joan of Arc; Henrietta Maria; Diane de Poitiers; Madame Des Ursins; Madame du Barry; Margaret Douglas; Catherine de Medici; Caterina Cornaro; Anne Marie Louise d’Orleans.</note>
      </bibl>
@@ -23603,7 +23602,7 @@
        Countess of Somerset; A. Kalisch: Barbara Villiers, Duchess of Cleveland; C. Andrews: Jenny
        Diver, Pickpocket; G. Burgess: Teresia C. Phillips; E. Stubbs: Elizabeth Brownrigg, Cruelty
        Personified; W.G. Waters: Elizabeth Canning, Imposter; W.G. Waters: Elizabeth Chudleigh,
-       Duchess of Kingston; A. Vincent: Mary Bateman, “The Yorkshire Witch; W.G. Waters: Mary A.
+       Duchess of Kingston; A. Vincent: Mary Bateman, “The Yorkshire Witch"; W.G. Waters: Mary A.
        Clarke. <hi rend="bold">*Pop Chart</hi>
       </note>
       <image n="no213">
@@ -23619,7 +23618,7 @@
        <imgName>Barbara Villiers</imgName>
       </image>
       <image n="no217">
-       <imgName>Tersia Constantia Phillips</imgName>
+       <imgName>Teresia Constantia Phillips</imgName>
       </image>
       <image n="no218">
        <imgName>Elizabeth Brownrigg</imgName>
@@ -24274,7 +24273,7 @@
        <imgName>Margaret Fuller d'Ossoli</imgName>
       </image>
       <image n="no228">
-       <imgName>Mary Lyn</imgName>
+       <imgName>Mary Lyon</imgName>
       </image>
       <image n="no229">
        <imgName>Harriet Beecher Stowe</imgName>
@@ -24289,7 +24288,7 @@
        <imgName>Harriet Hosmer</imgName>
       </image>
       <image n="no233">
-       <imgName>Beatrice Cencie</imgName>
+       <imgName>Beatrice Cenci</imgName>
       </image>
       <image n="no234">
        <imgName>Julia Ward Howe</imgName>
