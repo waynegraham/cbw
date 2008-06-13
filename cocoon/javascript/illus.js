@@ -7,7 +7,7 @@ function displayIllus(illus, caption)
   generator.document.write('</head><body>');
   generator.document.write('<div class=\'head1\'>' + unescape(caption) + '</div>');
   generator.document.write('<img src=\"full/' + illus + '\">');
-  generator.document.write('<div class=\'head2\'><a href="javascript:self.close()"> Close</a> this window.</div>');
+  generator.document.write('<div class=\'head2\'><a href="javascript:self.close()"> Close this window</a>.</div>');
   generator.document.write('</body></html>');
   generator.document.close();
 }
