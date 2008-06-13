@@ -290,9 +290,14 @@ text-align: center;
 font-size: 10pt;
 }
 
+.illus img {
+max-width: 100px;
+}
+
 div.illus {
 float: left;
 padding: 5px;
+width: 108px;
 }
 
 /*highlighted search text is yellow*/
