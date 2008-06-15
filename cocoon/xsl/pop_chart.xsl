@@ -71,7 +71,7 @@
                     // Apply mark class to identified cells
                     for (var recKey in markRecs) {
                     if (YAHOO.lang.hasOwnProperty(markRecs, recKey)) {
-                    Dom.addClass(Ex.dataTable.getTrEl(markRecs[recKey]), 'mark');
+                    Dom.addClass(this.myDataTable.getTrEl(markRecs[recKey]), 'mark');
                     }
                     }
                     };
