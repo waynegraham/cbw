@@ -97,15 +97,16 @@
                     }
                     };
                     
+                    this.myDataTable = new YAHOO.widget.DataTable("popMarkup", myColumnDefs, this.myDataSource,
+                    {sortedBy:{key:"total",dir:"desc"}}
+                    );
+                    
                     // Set row colors initially
                     Ex.updateMarks();
                     
                     // Add the class to the rows on renderEvent
                     this.myDataTable.subscribe('renderEvent',Ex.updateMarks);
                     
-                    this.myDataTable = new YAHOO.widget.DataTable("popMarkup", myColumnDefs, this.myDataSource,
-                    {sortedBy:{key:"total",dir:"desc"}}
-                    );
                     };
                     
                     });
