@@ -45,6 +45,7 @@
                 </table>
                 <script type="text/javascript">
                     YAHOO.util.Event.addListener(window, "load", function() {
+                    YAHOO.example.EnhanceFromMarkup = new function() {
                     // Create a shortcut
                     var Dom = YAHOO.util.Dom;
                     
@@ -52,8 +53,6 @@
                     var Ex = YAHOO.example,
                     // cache of the records to mark
                     markRecs = {};
-                    
-                    YAHOO.example.EnhanceFromMarkup = new function() {
                     
                     var myColumnDefs = [
                     {key:"name",label:"Name", sortable:true},
@@ -76,12 +75,6 @@
                     ]
                     };
                     
-                    this.myDataTable = new YAHOO.widget.DataTable("popMarkup", myColumnDefs, this.myDataSource,
-                    {sortedBy:{key:"total",dir:"desc"}}
-                    );
-                    };
-                    
-                    
                     // Create a custom function to store the records needing row coloring
                     YAHOO.widget.DataTable.Formatter.rowMarker = function (cell,rec,col,data) {
                     if (cell.getId() = 1 || 2 || 3) {
@@ -93,9 +86,9 @@
                     
                     // Function to add the color class to rows
                     Ex.updateMarks = function () {
-                    
                     // Clear mark class off all rows
-                    Dom.removeClass(Dom.getElementsByClassName('mark','td','tbl'), 'mark');                    
+                    Dom.removeClass(Dom.getElementsByClassName('mark','td','tbl'), 'mark');
+                    
                     // Apply mark class to identified rows
                     for (var recKey in markRecs) {
                     if (YAHOO.lang.hasOwnProperty(markRecs, recKey)) {
@@ -109,6 +102,11 @@
                     
                     // Add the class to the rows on renderEvent
                     this.myDataTable.subscribe('renderEvent',Ex.updateMarks);
+                    
+                    this.myDataTable = new YAHOO.widget.DataTable("popMarkup", myColumnDefs, this.myDataSource,
+                    {sortedBy:{key:"total",dir:"desc"}}
+                    );
+                    };
                     
                     });
                 </script>
