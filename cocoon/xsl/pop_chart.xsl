@@ -71,7 +71,7 @@
                     // Apply mark class to identified cells
                     for (var recKey in markRecs) {
                     if (YAHOO.lang.hasOwnProperty(markRecs, recKey)) {
-                    Dom.addClass(this.myDataTable.getTrEl(markRecs[recKey]), 'mark');
+                    Dom.addClass(Ex.myDataTable.getTrEl(markRecs[recKey]), 'mark');
                     }
                     }
                     };
@@ -85,9 +85,9 @@
                     {key:"total",label:"Total", formatter: 'cellMarker', sortable:true}
                     ];
                     
-                    this.myDataSource = new YAHOO.util.DataSource(YAHOO.util.Dom.get("popChart"));
-                    this.myDataSource.responseType = YAHOO.util.DataSource.TYPE_HTMLTABLE;
-                    this.myDataSource.responseSchema = {
+                    Ex.myDataSource = new YAHOO.util.DataSource(YAHOO.util.Dom.get("popChart"));
+                    Ex.myDataSource.responseType = YAHOO.util.DataSource.TYPE_HTMLTABLE;
+                    Ex.myDataSource.responseSchema = {
                     fields: [{key:"name"},
                     {key:"category"},
                     {key:"period1", parser:YAHOO.util.DataSource.parseNumber},
@@ -97,7 +97,7 @@
                     ]
                     };
                     
-                    this.myDataTable = new YAHOO.widget.DataTable("popMarkup", myColumnDefs, this.myDataSource,
+                    Ex.myDataTable = new YAHOO.widget.DataTable("popMarkup", myColumnDefs, Ex.myDataSource,
                     {sortedBy:{key:"total",dir:"desc"}}
                     );
                     
@@ -105,7 +105,7 @@
                     Ex.updateMarks();
                     
                     // Add the class to the rows on renderEvent
-                    this.myDataTable.subscribe('renderEvent',Ex.updateMarks);
+                    Ex.myDataTable.subscribe('renderEvent',Ex.updateMarks);
                     
                     };
                     
