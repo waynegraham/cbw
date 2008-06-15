@@ -54,13 +54,35 @@
                     // cache of the records to mark
                     markRecs = {};
                     
+                    // Create a custom function to store the records needing cell coloring
+                    YAHOO.widget.DataTable.Formatter.cellMarker = function (cell,rec,col,data) {
+                    if (cell.getId() = 1 || 2 || 3) {
+                    // In object hash to prevent duplication
+                    markRecs[cell.getId()] = cell;
+                    }
+                    cell.innerHTML = data;
+                    };
+                    
+                    // Function to add the color class to cells
+                    Ex.updateMarks = function () {
+                    // Clear mark class off all cells
+                    Dom.removeClass(Dom.getElementsByClassName('mark','td','tbl'), 'mark');
+                    
+                    // Apply mark class to identified cells
+                    for (var recKey in markRecs) {
+                    if (YAHOO.lang.hasOwnProperty(markRecs, recKey)) {
+                    Dom.addClass(Ex.dataTable.getTrEl(markRecs[recKey]), 'mark');
+                    }
+                    }
+                    };
+                    
                     var myColumnDefs = [
                     {key:"name",label:"Name", sortable:true},
                     {key:"category",label:"Category", sortable:true},
-                    {key:"period1",label:"1850-1870", formatter:YAHOO.widget.DataTable.formatNumber, sortable:true},
-                    {key:"period2",label:"1880-1900", formatter:YAHOO.widget.DataTable.formatNumber, sortable:true},
-                    {key:"period3",label:"1910-1930", formatter:YAHOO.widget.DataTable.formatNumber, sortable:true},
-                    {key:"total",label:"Total", formatter:YAHOO.widget.DataTable.formatNumber, sortable:true}
+                    {key:"period1",label:"1850-1870", formatter: 'cellMarker', sortable:true},
+                    {key:"period2",label:"1880-1900", formatter: 'cellMarker', sortable:true},
+                    {key:"period3",label:"1910-1930", formatter:'cellMarker', sortable:true},
+                    {key:"total",label:"Total", formatter: 'cellMarker', sortable:true}
                     ];
                     
                     this.myDataSource = new YAHOO.util.DataSource(YAHOO.util.Dom.get("popChart"));
@@ -73,28 +95,6 @@
                     {key:"period3", parser:YAHOO.util.DataSource.parseNumber},
                     {key:"total", parser:YAHOO.util.DataSource.parseNumber}
                     ]
-                    };
-                    
-                    // Create a custom function to store the records needing row coloring
-                    YAHOO.widget.DataTable.Formatter.rowMarker = function (cell,rec,col,data) {
-                    if (cell.getId() = 1 || 2 || 3) {
-                    // In object hash to prevent duplication
-                    markRecs[cell.getId()] = cell;
-                    }
-                    cell.innerHTML = data;
-                    };
-                    
-                    // Function to add the color class to rows
-                    Ex.updateMarks = function () {
-                    // Clear mark class off all rows
-                    Dom.removeClass(Dom.getElementsByClassName('mark','td','tbl'), 'mark');
-                    
-                    // Apply mark class to identified rows
-                    for (var recKey in markRecs) {
-                    if (YAHOO.lang.hasOwnProperty(markRecs, recKey)) {
-                    Dom.addClass(Ex.dataTable.getTrEl(markRecs[recKey]), 'mark');
-                    }
-                    }
                     };
                     
                     this.myDataTable = new YAHOO.widget.DataTable("popMarkup", myColumnDefs, this.myDataSource,
