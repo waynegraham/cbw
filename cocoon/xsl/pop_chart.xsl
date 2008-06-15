@@ -103,7 +103,7 @@
                     };
                     
                     // Set row colors initially
-                    this.updateMarks();
+                    Ex.updateMarks();
                     
                     // Add the class to the rows on renderEvent
                     this.myDataTable.subscribe('renderEvent',Ex.updateMarks);
