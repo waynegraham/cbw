@@ -58,7 +58,7 @@
                     YAHOO.widget.DataTable.Formatter.cellMarker = function (cell,rec,col,data) {
                     if (data &gt; 20) {
                     // In object hash to prevent duplication
-                    markRecs[rec.getId()] = rec;
+                    markRecs[rec.getId()] = cell;
                     }
                     cell.innerHTML = data;
                     };
