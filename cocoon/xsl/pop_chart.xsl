@@ -46,7 +46,14 @@
                 <script type="text/javascript">
                     YAHOO.util.Event.addListener(window, "load", function() {
                     YAHOO.example.EnhanceFromMarkup = new function() {
-                    var markCells= {};
+                    // Create a shortcut
+                    var Dom = YAHOO.util.Dom;
+                    
+                    // Contain our code under the YAHOO.example namespace
+                    var Ex = YAHOO.example,
+                    // cache of the records to mark
+                    markRecs = {};
+                    
                     var myColumnDefs = [
                     {key:"name",label:"Name", sortable:true},
                     {key:"category",label:"Category", sortable:true},
