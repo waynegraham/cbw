@@ -332,12 +332,6 @@ border: 1px solid #FFF7F7;
 padding: 20px;
 }
 
-/* Unfortunately necessary since YUI script doesn't respect classes already in markup */
-
-#yui-dt0-bdrow0-cell3, #yui-dt0-bdrow0-cell5, #yui-dt0-bdrow0-cell8, #yui-dt0-bdrow0-cell9, #yui-dt0-bdrow0-cell11, #yui-dt0-bdrow0-cell14, #yui-dt0-bdrow0-cell21, #yui-dt0-bdrow0-cell28, #yui-dt0-bdrow0-cell34, #yui-dt0-bdrow0-cell40, #yui-dt0-bdrow0-cell46, #yui-dt0-bdrow0-cell52 {
-background: #efefaf;
-}
-
 .yui-skin-sam .yui-dt table {
   font-family: "Palatino Linotype",Times,serif;
 }

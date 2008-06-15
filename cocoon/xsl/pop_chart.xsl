@@ -46,6 +46,7 @@
                 <script type="text/javascript">
                     YAHOO.util.Event.addListener(window, "load", function() {
                     YAHOO.example.EnhanceFromMarkup = new function() {
+                    var markCells= {};
                     var myColumnDefs = [
                     {key:"name",label:"Name", sortable:true},
                     {key:"category",label:"Category", sortable:true},
@@ -54,11 +55,6 @@
                     {key:"period3",label:"1910-1930", formatter:YAHOO.widget.DataTable.formatNumber, sortable:true},
                     {key:"total",label:"Total", formatter:YAHOO.widget.DataTable.formatNumber, sortable:true}
                     ];
-                    
-                    this.parseNumberFromCurrency = function(sString) {
-                    // Remove dollar sign and make it a float
-                    return parseFloat(sString.substring(1));
-                    };
                     
                     this.myDataSource = new YAHOO.util.DataSource(YAHOO.util.Dom.get("popChart"));
                     this.myDataSource.responseType = YAHOO.util.DataSource.TYPE_HTMLTABLE;
@@ -72,10 +68,39 @@
                     ]
                     };
                     
+                    // Create a custom function to store the records needing row coloring
+                    YAHOO.widget.DataTable.Formatter.rowMarker = function (cell,rec,col,data) {
+                    if (cell.getId() = 1 || 2 || 3) {
+                    // In object hash to prevent duplication
+                    markRecs[cell.getId()] = cell;
+                    }
+                    cell.innerHTML = data;
+                    };
+                    
+                    // Function to add the color class to rows
+                    Ex.updateMarks = function () {
+                    // Clear mark class off all rows
+                    Dom.removeClass(Dom.getElementsByClassName('mark','td','tbl'), 'mark');
+                    
+                    // Apply mark class to identified rows
+                    for (var recKey in markRecs) {
+                    if (YAHOO.lang.hasOwnProperty(markRecs, recKey)) {
+                    Dom.addClass(Ex.dataTable.getTrEl(markRecs[recKey]), 'mark');
+                    }
+                    }
+                    };
+                    
                     this.myDataTable = new YAHOO.widget.DataTable("popMarkup", myColumnDefs, this.myDataSource,
                     {sortedBy:{key:"total",dir:"desc"}}
                     );
                     };
+                    
+                    // Set row colors initially
+                    this.updateMarks();
+                    
+                    // Add the class to the rows on renderEvent
+                    this.myDataTable.subscribe('renderEvent',Ex.updateMarks);
+                    
                     });
                 </script>
             </body>

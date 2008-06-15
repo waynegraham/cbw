@@ -33,7 +33,7 @@
 							<div id="subNav">
 								<a href="#1">Early Examples</a>
 								<a href="#2">Alphabetical, 1830-1940</a>
-								<a href="#3">Examples after 1950</a>
+								<a href="#3">Examples after 1940</a>
 							</div>
 						</td>
 					</tr>
