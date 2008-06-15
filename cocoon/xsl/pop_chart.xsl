@@ -66,12 +66,12 @@
                     // Function to add the color class to cells
                     Ex.updateMarks = function () {
                     // Clear mark class off all cells
-                    Dom.removeClass(Dom.getElementsByClassName('mark','td','tbl'), 'mark');
+                    Dom.removeClass(Dom.getElementsByClassName('mark','td'), 'mark');
                     
                     // Apply mark class to identified cells
                     for (var recKey in markRecs) {
                     if (YAHOO.lang.hasOwnProperty(markRecs, recKey)) {
-                    Dom.addClass(Ex.myDataTable.getTrEl(markRecs[recKey]), 'mark');
+                    Dom.addClass(Ex.myDataTable.getTdEl(markRecs[recKey]), 'mark');
                     }
                     }
                     };
