@@ -139,9 +139,7 @@
 
     <xsl:template match="cell">
         <td>
-            <span class="{./@role}">
             <xsl:apply-templates/>
-        </span>
         </td>
     </xsl:template>
 
