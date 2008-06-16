@@ -56,7 +56,7 @@
                     
                     // Create a custom function to store the records needing cell coloring
                     YAHOO.widget.DataTable.Formatter.cellMarker = function (cell,rec,col,data) {
-                    if (data &gt; 20) {
+                    if (cell.yuiCellIndex &gt; 20) {
                     // In object hash to prevent duplication
                     markRecs[rec.getId()] = cell;
                     }
@@ -90,10 +90,10 @@
                     Ex.myDataSource.responseSchema = {
                     fields: [{key:"name"},
                     {key:"category"},
-                    {key:"period1"},
-                    {key:"period2"},
-                    {key:"period3"},
-                    {key:"total"}
+                    {key:"period1", parser:YAHOO.util.DataSource.parseNumber},
+                    {key:"period2", parser:YAHOO.util.DataSource.parseNumber},
+                    {key:"period3", parser:YAHOO.util.DataSource.parseNumber},
+                    {key:"total", parser:YAHOO.util.DataSource.parseNumber}
                     ]
                     };
                     
@@ -139,9 +139,7 @@
 
     <xsl:template match="cell">
         <td>
-            <span class="{./@role}">
             <xsl:apply-templates/>
-            </span>
         </td>
     </xsl:template>
 
