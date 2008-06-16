@@ -138,7 +138,7 @@
     </xsl:template>
 
     <xsl:template match="cell">
-        <td>
+        <td class="{./@role}">
             <xsl:apply-templates/>
         </td>
     </xsl:template>
