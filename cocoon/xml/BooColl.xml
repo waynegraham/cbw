@@ -304,13 +304,14 @@
       relevant but formally divergent works with the shorthand "NOT" followed by a short
       identification of the format or genre of the item.</hi></p>
 
-    <p>Following the chronological selection of female prosopographies in earlier centuries, the
+    <p>Following the <hi rend="bold">chronological selection of female prosopographies in earlier centuries</hi>, the
      bibliography is <hi rend="bold">alphabetical by author</hi> rather than chronological in part
      to serve those who are interested in the biographers, but primarily because of the
      extraordinary fluidity of these publications: the same collection often was reprinted many
      times, republished under different titles, or partly lifted into other collections. <hi
       rend="bold">Anonymous publications</hi> are alphabetized by title unless authorship is known;
-     pseudonymous works are listed under the pseudonym. </p>
+     pseudonymous works are listed under the pseudonym.  A <hi rend="bold">selected biobiliography of collections of women's lives 
+      published since 1940 (alphabetical by author's name)</hi>follows the main list; entries are in progress.</p>
 
     <p>The <hi rend="bold">publication data</hi> includes the date of every edition or reprint
      through 1940 that I have traced, though I have not attempted complete histories of each work.
@@ -331,7 +332,7 @@
      contribute to the "Pop Chart" of subjects; comparison of the list of subjects in any one collection with that chart will give a sense of
      how closely the list conforms to the consensus on the representative eminent women of history
      at the time of publication. </p>
-    <p><hi rend="bold">The Number of Collective Biographies per Year</hi> charts the varying rates
+    <p><hi rend="bold">The Number of Collective Biographies per Year</hi> Iin preparation) charts the varying rates
      of publication based on the known years in which the works in the bibliography were published.</p>
 
     <p><hi rend="bold">Corrections</hi> or additions to the publication data provided in the
@@ -25976,7 +25977,79 @@
       <date>1990.</date>
      </imprint>
      <note> </note>
+    </bibl>
+     
+     <bibl id="p025">
+      <idno>p025</idno>
+      <author><name type="last">Chadwick,</name>, <name type="first">Whitney</name>and <name type="first">Isabelle</name> <name type="last">de Courtivron</name>, eds..</author>
+      <title type="ref">
+       <hi rend="italics">Significant Others:  Creativity and Intimate Partnership.</hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Thames &amp; Hudson,</publisher>
+       <date>1993.</date>
+      </imprint>
+      <note> </note>
      </bibl>
+     
+     <bibl id="p026">
+      <idno>p026</idno>
+      <author><name type="last">Chicago,</name>, <name type="first">Judy</name></author>
+      <title type="ref">
+       <hi rend="italics">The Dinner Party:  A Symbol of Our Heritage. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Garden City, NY:</pubPlace>
+       <publisher>Anchor/Doubleday,</publisher>
+       <date>1979.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p027">
+      <idno>p027</idno>
+      <author><name type="last">Churchill,</name>, <name type="first">Caryl</name></author>
+      <title type="ref">
+       <hi rend="italics">Top Girls.</hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Methuen,</publisher>
+       <date>1982.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     
+     <bibl id="p028">
+      <idno>p028</idno>
+      <author><name type="last">Coxhead,</name>, <name type="first">Elizabeth</name></author>
+      <title type="ref">
+       <hi rend="italics">Daughters of Erin:  five women of the Irish renascence. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Secker &amp; Warburg/New English Library,</publisher>
+       <date>1965.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p029">
+      <idno>p029</idno>
+      <author><name type="last">Crane,</name>, <name type="first">Louise</name></author>
+      <title type="ref">
+       <hi rend="italics">Ms. Africa:  Profiles of Modern African Women. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Philadelphia:</pubPlace>
+       <publisher>Lippincott,</publisher>
+       <date>1973.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+             
      
      
                   
