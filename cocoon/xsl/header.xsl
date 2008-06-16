@@ -26,7 +26,7 @@
 			<div class="headBorder"/> 
 			<p id="subheading">
 				<i>Includes Volumes of Three or More Female Biographies Published in English
-					1830-1940 &#x2022; With Selected Bibliographies of Collections Published before 1830 and after 1940</i>
+					1830-1940 <br/>  With Selected Bibliographies of Collections Published before 1830 and after 1940</i>
 			</p>
 		</div>
 		<hr/>
