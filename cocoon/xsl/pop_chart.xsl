@@ -90,10 +90,10 @@
                     Ex.myDataSource.responseSchema = {
                     fields: [{key:"name"},
                     {key:"category"},
-                    {key:"period1", parser:YAHOO.util.DataSource.parseNumber},
-                    {key:"period2", parser:YAHOO.util.DataSource.parseNumber},
-                    {key:"period3", parser:YAHOO.util.DataSource.parseNumber},
-                    {key:"total", parser:YAHOO.util.DataSource.parseNumber}
+                    {key:"period1"},
+                    {key:"period2"},
+                    {key:"period3"},
+                    {key:"total"}
                     ]
                     };
                     
