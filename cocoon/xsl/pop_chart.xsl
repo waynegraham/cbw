@@ -112,8 +112,8 @@
                     
                     function getElementsByCondition(condition,container)
                     {
-                    container = container¦¦document
-                    var all = container.all¦¦container.getElementsByTagName('*')
+                    container = container||document
+                    var all = container.all||container.getElementsByTagName('*')
                     var arr = []
                     for(var k=0;k&lt;all.length;k++)
                         {
