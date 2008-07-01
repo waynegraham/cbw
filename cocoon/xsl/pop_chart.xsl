@@ -56,8 +56,8 @@
                     
                     // Create a custom function to store the records needing cell coloring
                     YAHOO.widget.DataTable.Formatter.cellMarker = function (cell,rec,col,data) {
-                    if (getNextTdEl(cell)) {
-                        var nxt = getNextTdEl(cell);
+                    if (Ex.myDataTable.getNextTdEl(cell)) {
+                    var nxt = Ex.myDataTable.getNextTdEl(cell);
                         if (data &gt; nxt.innerHTML) {
                         // In object hash to prevent duplication
                         markRecs[rec.getId()] = cell;
