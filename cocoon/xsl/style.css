@@ -333,6 +333,10 @@ border: 1px solid #FFF7F7;
 padding: 20px;
 }
 
+.datahi {
+height: 10px; width: 20px; background-color: #990000;
+}
+
 .yui-skin-sam .yui-dt table {
   font-family: "Palatino Linotype",Times,serif;
 }
