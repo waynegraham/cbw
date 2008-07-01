@@ -21,25 +21,6 @@
                 
                 <script type="text/javascript" src="http://yui.yahooapis.com/2.5.2/build/datasource/datasource-beta-min.js"></script>
                 <script type="text/javascript" src="http://yui.yahooapis.com/2.5.2/build/datatable/datatable-beta-min.js"></script>
-                <script type="text/javascript">
-                    function getElementsByClass(searchClass,node,tag) {
-                    var classElements = new Array();
-                    if ( node == null )
-                    node = document;
-                    if ( tag == null )
-                    tag = '*';
-                    var els = node.getElementsByTagName(tag);
-                    var elsLen = els.length;
-                    var pattern = new RegExp('(^|\\\\s)'+searchClass+'(\\\\s|$)');
-                    for (i = 0, j = 0; i &lt; elsLen; i++) {
-                    if ( pattern.test(els[i].className) ) {
-                    classElements[j] = els[i];
-                    j++;
-                    }
-                    }
-                    return classElements;
-                    }
-                </script>
                 
                 <link type="text/css" href="style.css" rel="stylesheet"/>
                 <title>The Collective Biographies of Women: Pop Chart</title>
@@ -127,11 +108,25 @@
                     Ex.myDataTable.subscribe('renderEvent',Ex.updateMarks);
                     
                     };
-                    var hiEls = getElementsByClass('datahi');
-                    for(n=0; n &gt; hiEls.length; n++) {
-                    YAHOO.util.Dom.addClass(hiEls[n].parentNode, "highlight");
-                    }
                     });
+                    
+                    function getElementsByCondition(condition,container)
+                    {
+                    container = container¦¦document
+                    var all = container.all¦¦container.getElementsByTagName('*')
+                    var arr = []
+                    for(var k=0;k&lt;all.length;k++)
+                        {
+                        var elm = all[k]
+                        if(condition(elm,k))
+                        arr[arr.length] = elm
+                        }
+                        return arr
+                        } 
+                        
+                        var hiEls = getElementsByCondition(
+                        function(el){if(el.className=='datahi'){el.parentNode.className+=el.parentNode.className?' highlight':'highlight';return el}} 
+                        }
                 </script>
             </body>
         </html>
