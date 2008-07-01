@@ -140,7 +140,7 @@
     <xsl:template match="cell">
         <td>
             <xsl:if test=" number(.) &lt; 10">
-                <span class="hiddenzero"/>
+                0
             </xsl:if>
             <xsl:apply-templates/>
             <span class="{@role}"/>
