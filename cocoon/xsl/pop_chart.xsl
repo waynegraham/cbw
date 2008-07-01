@@ -139,7 +139,11 @@
 
     <xsl:template match="cell">
         <td>
-            <xsl:apply-templates/><xsl:text> </xsl:text><span class="{@role}"/>
+            <xsl:if test=" number(.) &lt; 10">
+                <span class="hiddenzero"/>
+            </xsl:if>
+            <xsl:apply-templates/>
+            <span class="{@role}"/>
         </td>
     </xsl:template>
 
