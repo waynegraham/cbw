@@ -138,8 +138,8 @@
     </xsl:template>
 
     <xsl:template match="cell">
-        <td name="{@role}">
-            <xsl:apply-templates/>
+        <td>
+            <xsl:apply-templates/><span class="{@role}"/>
         </td>
     </xsl:template>
 
