@@ -340,12 +340,12 @@ height: 1em;
 .datahi {
 position: relative;
 bottom: 1em;
-left: -0.5em;
-float: left;
+float: right;
 height: 1em;
-width: 2em;
+width: 1em;
 background-color: #EFEF44;
-opacity: 0.3;
+overflow: hidden;
+clear: both;
 }
 
 .yui-skin-sam .yui-dt table {
