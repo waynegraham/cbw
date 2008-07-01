@@ -139,11 +139,13 @@
 
     <xsl:template match="cell">
         <td>
+            <!-- Hack for sorting to work with numbers less than ten -->
             <xsl:if test=" number(.) &lt; 10">
                 <xsl:text>&#32;</xsl:text>
             </xsl:if>
             <xsl:apply-templates/>
-            <span class="{@role}"/>
+            <!-- Hack for adding highlighting with YUI datatable. -->
+            <div class="{@role}"><!-- IE fix --></div>
         </td>
     </xsl:template>
 
