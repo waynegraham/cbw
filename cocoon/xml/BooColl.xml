@@ -1025,14 +1025,14 @@
        <cell role="data">Arts</cell>
        <cell role="data">2</cell>
        <cell role="data">4</cell>
-       <cell role="data">9</cell>
+       <cell role="datahi">9</cell>
        <cell role="data">15</cell>
       </row>
       <row role="body">
        <cell role="data">Harriet Hosmer</cell>
        <cell role="data">Arts</cell>
        <cell role="data">3</cell>
-       <cell role="data">4</cell>
+       <cell role="datahi">4</cell>
        <cell role="data">3</cell>
        <cell role="data">10</cell>
       </row>
@@ -1041,14 +1041,14 @@
        <cell role="data">Arts</cell>
        <cell role="data">2</cell>
        <cell role="data">3</cell>
-       <cell role="data">5</cell>
+       <cell role="datahi">5</cell>
        <cell role="data">10</cell>
       </row>
       <row role="body">
        <cell role="data">Angelica Kaufman</cell>
        <cell role="data">Arts</cell>
        <cell role="data">2</cell>
-       <cell role="data">6</cell>
+       <cell role="datahi">6</cell>
        <cell role="data">1</cell>
        <cell role="data">9</cell>
       </row>
@@ -1056,7 +1056,7 @@
        <cell role="data">Charlotte Cushman</cell>
        <cell role="data">Arts</cell>
        <cell role="data">0</cell>
-       <cell role="data">5</cell>
+       <cell role="datahi">5</cell>
        <cell role="data">2</cell>
        <cell role="data">7</cell>
       </row>
@@ -1064,14 +1064,14 @@
        <cell role="data">Madame Rachel</cell>
        <cell role="data">Arts</cell>
        <cell role="data">1</cell>
-       <cell role="data">5</cell>
+       <cell role="datahi">5</cell>
        <cell role="data">0</cell>
        <cell role="data">7</cell>
       </row>
       <row role="body">
        <cell role="data">Elizabeth Smith</cell>
        <cell role="data">Arts</cell>
-       <cell role="data">5</cell>
+       <cell role="datahi">5</cell>
        <cell role="data">2</cell>
        <cell role="data">0</cell>
        <cell role="data">7</cell>
@@ -1080,30 +1080,30 @@
        <cell role="data">Fanny Mendelssohn</cell>
        <cell role="data">Arts</cell>
        <cell role="data">0</cell>
-       <cell role="data">4</cell>
+       <cell role="datahi">4</cell>
        <cell role="data">0</cell>
        <cell role="data">4</cell>
       </row>
       <row role="body">
        <cell role="data">Pocahontas</cell>
        <cell role="data">Rescue/Adventure/Exhibit</cell>
-       <cell role="data">7</cell>
+       <cell role="datahi">7</cell>
        <cell role="data">6</cell>
        <cell role="data">3</cell>
-       <cell role="data">16</cell>
+       <cell role="datahi">16</cell>
       </row>
       <row role="body">
        <cell role="data">Grace Darling</cell>
        <cell role="data">Rescue/Adventure/Exhibit</cell>
        <cell role="data">5</cell>
-       <cell role="data">7</cell>
+       <cell role="datahi">7</cell>
        <cell role="data">3</cell>
        <cell role="data">15</cell>
       </row>
       <row role="body">
        <cell role="data">Margaret More Roper</cell>
        <cell role="data">Rescue/Adventure/Exhibit</cell>
-       <cell role="data">7</cell>
+       <cell role="datahi">7</cell>
        <cell role="data">4</cell>
        <cell role="data">2</cell>
        <cell role="data">13</cell>
@@ -1112,14 +1112,14 @@
        <cell role="data">Lady Mary Wortley Montagu</cell>
        <cell role="data">Rescue/Adventure/Exhibit</cell>
        <cell role="data">4</cell>
-       <cell role="data">6</cell>
+       <cell role="datahi">6</cell>
        <cell role="data">1</cell>
        <cell role="data">11</cell>
       </row>
       <row role="body">
        <cell role="data">Flora MacDonald</cell>
        <cell role="data">Rescue/Adventure/Exhibit</cell>
-       <cell role="data">5</cell>
+       <cell role="datahi">5</cell>
        <cell role="data">2</cell>
        <cell role="data">3</cell>
        <cell role="data">10</cell>
@@ -1127,7 +1127,7 @@
       <row role="body">
        <cell role="data">Nell Gwyn</cell>
        <cell role="data">Rescue/Adventure/Exhibit</cell>
-       <cell role="data">4</cell>
+       <cell role="datahi">4</cell>
        <cell role="data">2</cell>
        <cell role="data">3</cell>
        <cell role="data">9</cell>
@@ -1137,14 +1137,14 @@
        <cell role="data">Rescue/Adventure/Exhibit</cell>
        <cell role="data">0</cell>
        <cell role="data">0</cell>
-       <cell role="data">7</cell>
+       <cell role="datahi">7</cell>
        <cell role="data">7</cell>
       </row>
       <row role="body">
        <cell role="data">Laura Bridgman</cell>
        <cell role="data">Rescue/Adventure/Exhibit</cell>
        <cell role="data">2</cell>
-       <cell role="data">4</cell>
+       <cell role="datahi">4</cell>
        <cell role="data">0</cell>
        <cell role="data">6</cell>
       </row>
@@ -1153,22 +1153,22 @@
        <cell role="data">Rescue/Adventure/Exhibit</cell>
        <cell role="data">0</cell>
        <cell role="data">0</cell>
-       <cell role="data">5</cell>
+       <cell role="datahi">5</cell>
        <cell role="data">5</cell>
       </row>
       <row role="body">
        <cell role="data">Caroline Herschel</cell>
        <cell role="data">Science/Learning</cell>
        <cell role="data">2</cell>
-       <cell role="data">10</cell>
+       <cell role="datahi">10</cell>
        <cell role="data">4</cell>
-       <cell role="data">16</cell>
+       <cell role="datahi">16</cell>
       </row>
       <row role="body">
        <cell role="data">Harriet Martineau</cell>
        <cell role="data">Science/Learning</cell>
        <cell role="data">2</cell>
-       <cell role="data">9</cell>
+       <cell role="datahi">9</cell>
        <cell role="data">2</cell>
        <cell role="data">13</cell>
       </row>
@@ -1176,7 +1176,7 @@
        <cell role="data">Mary Somerville</cell>
        <cell role="data">Science/Learning</cell>
        <cell role="data">0</cell>
-       <cell role="data">11</cell>
+       <cell role="datahi">11</cell>
        <cell role="data">2</cell>
        <cell role="data">13</cell>
       </row>
@@ -1184,7 +1184,7 @@
        <cell role="data">Elizabeth Carter</cell>
        <cell role="data">Science/Learning</cell>
        <cell role="data">4</cell>
-       <cell role="data">5</cell>
+       <cell role="datahi">5</cell>
        <cell role="data">0</cell>
        <cell role="data">9</cell>
       </row>
@@ -1193,14 +1193,14 @@
        <cell role="data">Science/Learning</cell>
        <cell role="data">2</cell>
        <cell role="data">2</cell>
-       <cell role="data">4</cell>
+       <cell role="datahi">4</cell>
        <cell role="data">8</cell>
       </row>
       <row role="body">
        <cell role="data">Maria Mitchell</cell>
        <cell role="data">Science/Learning</cell>
        <cell role="data">0</cell>
-       <cell role="data">6</cell>
+       <cell role="datahi">6</cell>
        <cell role="data">2</cell>
        <cell role="data">8</cell>
       </row>
@@ -1209,21 +1209,21 @@
        <cell role="data">Science/Learning</cell>
        <cell role="data">0</cell>
        <cell role="data">0</cell>
-       <cell role="data">6</cell>
+       <cell role="datahi">6</cell>
        <cell role="data">6</cell>
       </row>
       <row role="body">
        <cell role="data">Anne Hasseltine Judson</cell>
        <cell role="data">Religious Mission</cell>
-       <cell role="data">8</cell>
+       <cell role="datahi">8</cell>
        <cell role="data">6</cell>
        <cell role="data">0</cell>
-       <cell role="data">14</cell>
+       <cell role="datahi">14</cell>
       </row>
       <row role="body">
        <cell role="data">Monica</cell>
        <cell role="data">Religious Mission</cell>
-       <cell role="data">5</cell>
+       <cell role="datahi">5</cell>
        <cell role="data">4</cell>
        <cell role="data">1</cell>
        <cell role="data">10</cell>
@@ -1231,7 +1231,7 @@
       <row role="body">
        <cell role="data">Anne Askew</cell>
        <cell role="data">Religious Mission</cell>
-       <cell role="data">5</cell>
+       <cell role="datahi">5</cell>
        <cell role="data">4</cell>
        <cell role="data">0</cell>
        <cell role="data">9</cell>
@@ -1240,7 +1240,7 @@
        <cell role="data">Catherine of Siena</cell>
        <cell role="data">Religious Mission</cell>
        <cell role="data">1</cell>
-       <cell role="data">4</cell>
+       <cell role="datahi">4</cell>
        <cell role="data">3</cell>
        <cell role="data">8</cell>
       </row>
@@ -1248,14 +1248,14 @@
        <cell role="data">Mary Bosanquet Fletcher</cell>
        <cell role="data">Religious Mission</cell>
        <cell role="data">3</cell>
-       <cell role="data">5</cell>
+       <cell role="datahi">5</cell>
        <cell role="data">0</cell>
        <cell role="data">8</cell>
       </row>
       <row role="body">
        <cell role="data">Madame Guyon</cell>
        <cell role="data">Religious Mission</cell>
-       <cell role="data">4</cell>
+       <cell role="datahi">4</cell>
        <cell role="data">3</cell>
        <cell role="data">1</cell>
        <cell role="data">8</cell>
@@ -1263,7 +1263,7 @@
       <row role="body">
        <cell role="data">Elizabeth Rowe</cell>
        <cell role="data">Religious Mission</cell>
-       <cell role="data">6</cell>
+       <cell role="datahi">6</cell>
        <cell role="data">2</cell>
        <cell role="data">0</cell>
        <cell role="data">8</cell>
@@ -1272,7 +1272,7 @@
        <cell role="data">Susannah Wesley</cell>
        <cell role="data">Religious Mission</cell>
        <cell role="data">3</cell>
-       <cell role="data">5</cell>
+       <cell role="datahi">5</cell>
        <cell role="data">0</cell>
        <cell role="data">8</cell>
       </row>
@@ -1281,13 +1281,13 @@
        <cell role="data">Religious Mission</cell>
        <cell role="data">2</cell>
        <cell role="data">1</cell>
-       <cell role="data">4</cell>
+       <cell role="datahi">4</cell>
        <cell role="data">7</cell>
       </row>
       <row role="body">
        <cell role="data">Countess of Huntingdon</cell>
        <cell role="data">Religious Mission</cell>
-       <cell role="data">5</cell>
+       <cell role="datahi">5</cell>
        <cell role="data">1</cell>
        <cell role="data">0</cell>
        <cell role="data">6</cell>
@@ -1295,7 +1295,7 @@
       <row role="body">
        <cell role="data">Elizabeth Burnet </cell>
        <cell role="data">Religious Mission</cell>
-       <cell role="data">5</cell>
+       <cell role="datahi">5</cell>
        <cell role="data">0</cell>
        <cell role="data">0</cell>
        <cell role="data">5</cell>
