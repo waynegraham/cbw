@@ -333,13 +333,19 @@ border: 1px solid #FFF7F7;
 padding: 20px;
 }
 
+.data {
+height: 1em;
+}
+
 .datahi {
 position: relative;
-bottom: 15px;
-float: right;
-height: 10px; 
-width: 20px; 
-background-color: #990000;
+bottom: 1em;
+left: -0.5em;
+float: left;
+height: 1em;
+width: 2em/
+background-color: #EFEF44;
+opacity: 0.3;
 }
 
 .yui-skin-sam .yui-dt table {
