@@ -79,10 +79,10 @@
                     var myColumnDefs = [
                     {key:"name",label:"Name", sortable:true},
                     {key:"category",label:"Category", sortable:true},
-                    {key:"period1",label:"1850-1870", formatter: 'cellMarker', sortable:true},
-                    {key:"period2",label:"1880-1900", formatter: 'cellMarker', sortable:true},
-                    {key:"period3",label:"1910-1930", formatter:'cellMarker', sortable:true},
-                    {key:"total",label:"Total", formatter: 'cellMarker', sortable:true}
+                    {key:"period1",label:"1850-1870", sortable:true},
+                    {key:"period2",label:"1880-1900", sortable:true},
+                    {key:"period3",label:"1910-1930", sortable:true},
+                    {key:"total",label:"Total", sortable:true}
                     ];
                     
                     Ex.myDataSource = new YAHOO.util.DataSource(YAHOO.util.Dom.get("popChart"));
@@ -139,7 +139,7 @@
 
     <xsl:template match="cell">
         <td>
-            <xsl:apply-templates/><span class="{@role}"/>
+            <xsl:apply-templates/><xsl:text> </xsl:text><span class="{@role}"/>
         </td>
     </xsl:template>
 
