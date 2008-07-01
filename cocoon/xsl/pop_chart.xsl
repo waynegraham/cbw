@@ -35,7 +35,7 @@
                 <link type="text/css" href="style.css" rel="stylesheet"/>
                 <title>The Collective Biographies of Women: Pop Chart</title>
             </head>
-            <body class=" yui-skin-sam" onload="getElementsByClass('datahi');">
+            <body class=" yui-skin-sam" onload="getElementByClass('datahi');">
                 <table id="wrap">
                     <tr>
                         <td class="headfoot">
