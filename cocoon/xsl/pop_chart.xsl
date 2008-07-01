@@ -24,7 +24,7 @@
                 <link type="text/css" href="style.css" rel="stylesheet"/>
                 <title>The Collective Biographies of Women: Pop Chart</title>
             </head>
-            <body class=" yui-skin-sam" onload="getElementByClass('datahi');">
+            <body class=" yui-skin-sam">
                 <table id="wrap">
                     <tr>
                         <td class="headfoot">
@@ -110,7 +110,7 @@
                     allHTMLTags=document.getElementsByTagName("*");
                     for (i=0; i&lt;allHTMLTags.length; i++) {
                     if (allHTMLTags[i].className=='datahi') {
-                    allHTMLTags[i].parentNode.parentNode.className+=n.className?' isDOM':'isDOM';                    
+                    allHTMLTags[i].parentNode.parentNode.className+=allHTMLTags[i].parentNode.parentNode.className?' isDOM':'isDOM';                    
                     }
                     }
                     };
