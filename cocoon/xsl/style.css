@@ -346,6 +346,7 @@ width: 1em;
 background-color: #EFEF44;
 overflow: hidden;
 clear: both;
+content:"\2713";
 }
 
 .yui-skin-sam .yui-dt table {
