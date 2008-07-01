@@ -27,7 +27,7 @@
                 allHTMLTags=document.getElementsByTagName("*");
                 for (i=0; i&lt;allHTMLTags.length; i++) {
                 if (allHTMLTags[i].className==theClass) {
-                allHTMLTags[i].parentNode.style.background=’#FFFF99’;
+                allHTMLTags[i].parentNode.style.background='#FFFF99';
                 }
                 }
                 }
@@ -35,7 +35,7 @@
                 <link type="text/css" href="style.css" rel="stylesheet"/>
                 <title>The Collective Biographies of Women: Pop Chart</title>
             </head>
-            <body class=" yui-skin-sam" onload="getElementByClass('datahi');">
+            <body class=" yui-skin-sam" onload="getElementsByClass('datahi');">
                 <table id="wrap">
                     <tr>
                         <td class="headfoot">
