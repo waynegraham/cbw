@@ -21,17 +21,6 @@
                 
                 <script type="text/javascript" src="http://yui.yahooapis.com/2.5.2/build/datasource/datasource-beta-min.js"></script>
                 <script type="text/javascript" src="http://yui.yahooapis.com/2.5.2/build/datatable/datatable-beta-min.js"></script>
-                <script type="text/javascript">
-                function getElementByClass(theClass) {
-                var allHTMLTags = new Array();
-                allHTMLTags=document.getElementsByTagName("*");
-                for (i=0; i&lt;allHTMLTags.length; i++) {
-                if (allHTMLTags[i].className==theClass) {
-                allHTMLTags[i].parentNode.style.background='#FFFF99';
-                }
-                }
-                }
-                </script>
                 <link type="text/css" href="style.css" rel="stylesheet"/>
                 <title>The Collective Biographies of Women: Pop Chart</title>
             </head>
@@ -117,6 +106,13 @@
                     // Add the class to the rows on renderEvent
                     Ex.myDataTable.subscribe('renderEvent',Ex.updateMarks);
                     
+                    var allHTMLTags = new Array();
+                    allHTMLTags=document.getElementsByTagName("*");
+                    for (i=0; i&lt;allHTMLTags.length; i++) {
+                    if (allHTMLTags[i].className=='datahi') {
+                    allHTMLTags[i].parentNode.parentNode.className+=n.className?' isDOM':'isDOM';                    
+                    }
+                    }
                     };
                     });
                     </script>
