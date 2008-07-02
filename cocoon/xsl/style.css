@@ -333,11 +333,7 @@ border: 1px solid #FFF7F7;
 padding: 20px;
 }
 
-.yui-dt-even .isHi {
-background-color: #FFFFDD !important;
-}
-
-.yui-dt-odd .isHi {
+.isHi {
 background-color: #FFFFCC !important;
 }
 
