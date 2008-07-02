@@ -110,7 +110,7 @@
                     allHTMLTags=document.getElementsByTagName("*");
                     for (i=0; i&lt;allHTMLTags.length; i++) {
                     if (allHTMLTags[i].className=='datahi') {
-                    allHTMLTags[i].parentNode.parentNode.className+=allHTMLTags[i].parentNode.className?' isHi':'isHi';                    
+                    allHTMLTags[i].parentNode.className+=allHTMLTags[i].parentNode.className?' isHi':'isHi';                    
                     }
                     }
                     };
