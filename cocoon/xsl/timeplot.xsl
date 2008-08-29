@@ -125,10 +125,10 @@
                                 <div id="tp-container" class="yui-navset">
                                     <ul class="yui-nav">
                                         <li class="selected"><a href="#tab1"><em>Intro</em></a></li>
-                                        <li><a href="#tab2" onclick="tpView('/cocoon/timeplot-1850.html', 'output-1850');"><em>1850-1870</em></a></li>
-                                        <li><a href="#tab3" onclick="tpView('/cocoon/timeplot-1870.html', 'output-1870');"><em>1870-1890</em></a></li>
-                                        <li><a href="#tab4" onclick="tpView('/cocoon/timeplot-1890.html', 'output-1890');"><em>1890-1910</em></a></li>
-                                        <li><a href="#tab5" onclick="tpView('/cocoon/timeplot-all.html', 'output-all');"><em>All</em></a></li>
+                                        <li><a href="#tab2" onclick="tpView('timeplot-1850.html', 'output-1850');"><em>1850-1870</em></a></li>
+                                        <li><a href="#tab3" onclick="tpView('timeplot-1870.html', 'output-1870');"><em>1870-1890</em></a></li>
+                                        <li><a href="#tab4" onclick="tpView('timeplot-1890.html', 'output-1890');"><em>1890-1910</em></a></li>
+                                        <li><a href="#tab5" onclick="tpView('timeplot-all.html', 'output-all');"><em>All</em></a></li>
                                         
                                     </ul>            
                                     <div class="yui-content">
