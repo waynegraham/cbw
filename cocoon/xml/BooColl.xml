@@ -332,7 +332,7 @@
      contribute to the "Pop Chart" of subjects; comparison of the list of subjects in any one collection with that chart will give a sense of
      how closely the list conforms to the consensus on the representative eminent women of history
      at the time of publication. </p>
-    <p><hi rend="bold">The Number of Collective Biographies per Year</hi> Iin preparation) charts the varying rates
+    <p><hi rend="bold">The Number of Collective Biographies per Year</hi> (in preparation) charts the varying rates
      of publication based on the known years in which the works in the bibliography were published.</p>
 
     <p><hi rend="bold">Corrections</hi> or additions to the publication data provided in the
@@ -1727,9 +1727,14 @@
      <bibl id="c016">
       <idno>c016</idno>
       <date>1671.</date>
+      <author><name type="last">Barton</name>, <name type="first">William</name></author>
       <title type="ref">
-       <hi rend="italics">A Catalogue of Virtuous Women.</hi>
+       <hi rend="italics">A Catalogue of Virtuous Women recorded in the Old and New Testament.</hi>
       </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>printed by W. Goodbid for William Cooper at Pelican in Little-Britain.</publisher>
+        </imprint>
       <image n="no30">
        <imgName>Catherine de Medici</imgName>
          </image>
@@ -25676,12 +25681,12 @@
     </div2>
    </div1>
    <div1 type="biblio" n="3">
-    <head>III. Post-1940 Examples (in progress)</head>
+    <head>III. Alphabetical Selection of Post-1940 Examples (in progress)</head>
     <div2>
      <bibl id="p001">
       <idno>p001</idno>
-      <author><name type="last">Adams</name>, <name type="first">Jean,</name> <name type="last">Kimball,</name>
-       <name type="first">Margaret</name>, and <name type="last">Eaton</name>, <name type="first">Jeanette.</name> </author>
+      <author><name type="last">Adams</name>, <name type="first">Jean,</name> 
+       <name type="first">Margaret</name> <name type="last">Kimball,</name>, and  <name type="first">Jeanette</name><name type="last">Eaton</name>. </author>
       <title type="ref"><hi rend="italics">Heroines of the Sky.</hi></title>
       <imprint>
        <pubPlace>Garden City, NY:</pubPlace>
@@ -25693,7 +25698,7 @@
      
      <bibl id="p002">
       <idno>p002</idno>
-      <author><name type="last">Ahlers</name>, <name type="first">Lena C.</name>.</author>
+      <author><name type="last">Ahlers</name>, <name type="first">Lena C.</name></author>
       <title type="ref">
        <hi rend="italics">Daughters Known to Fame.</hi>
       </title>
@@ -25832,7 +25837,7 @@
      
      <bibl id="p014">
       <idno>p014</idno>
-      <author><name type="last">Bernikow,</name><name type="first">Louise, </name>with <name>National Women's History Project</name></author>
+      <author><name type="last">Bernikow,</name><name type="first">Louise, </name>with <name>National Women's History Project.</name></author>
       <title type="ref"><hi>The American Women’s Almanac: An Inspiring and Irreverent Women’s History. </hi></title>
       <imprint>
        <pubPlace>New York:  </pubPlace>
@@ -25843,7 +25848,7 @@
      
      <bibl id="p015">
       <idno>p015</idno>
-      <author><name type="last">Biddle,</name><name type="first">Gertrude, </name> and <name type="first">Sarah Dickson</name> <name type="last">Lowrie</name></author>
+      <author><name type="last">Biddle,</name><name type="first">Gertrude, </name> and <name type="first">Sarah Dickson</name> <name type="last">Lowrie.</name></author>
            <title type="ref"><hi>Notable Women of Pennsylvania. </hi></title>
       <imprint>
        <pubPlace>Philadelphia:  </pubPlace>
@@ -25854,10 +25859,10 @@
      
      <bibl id="p016">
       <idno>p016</idno>
-      <author><name type="last">Black,</name><name type="first">Helen</name></author>
+      <author><name type="last">Black,</name><name type="first">Helen.</name></author>
       <title type="ref"><hi>Sunshine and Shadow. </hi></title>
       <imprint>
-       <pubPlace>[Dunedin, N.Z.:  </pubPlace>
+       <pubPlace>[Dunedin, N.Z.]:  </pubPlace>
        <publisher>Printed by John McIndoe, </publisher>
        <date>1947.</date>
        
@@ -25897,7 +25902,7 @@
      
      <bibl id="p019">
       <idno>p019</idno>
-      <author><name type="last">Brink</name>, <name type="first">J. R.</name>.</author>
+      <author><name type="last">Brink</name>, <name type="first">J. R.</name></author>
       <title type="ref">
        <hi rend="italics">Female Scholars: a tradition of learned women before 1800.</hi>
       </title>
@@ -25953,9 +25958,9 @@
      
      <bibl id="p023">
       <idno>p023</idno>
-      <author><name type="last">Castillo-Speed,</name>, <name type="first">Lillian</name>.</author>
+      <author><name type="last">Castillo-Speed</name>, <name type="first">Lillian</name>.</author>
       <title type="ref">
-       <hi rend="italics">Latina: Women’s Voices from the Borderlands..</hi>
+       <hi rend="italics">Latina: Women’s Voices from the Borderlands.</hi>
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
@@ -25981,7 +25986,7 @@
      
      <bibl id="p025">
       <idno>p025</idno>
-      <author><name type="last">Chadwick,</name> <name type="first">Whitney</name>and <name type="first">Isabelle</name> <name type="last">de Courtivron</name>, eds.</author>
+      <author><name type="last">Chadwick,</name> <name type="first">Whitney,</name> and <name type="first">Isabelle</name> <name type="last">de Courtivron</name>, eds.</author>
       <title type="ref">
        <hi rend="italics">Significant Others:  Creativity and Intimate Partnership.</hi>
       </title>
