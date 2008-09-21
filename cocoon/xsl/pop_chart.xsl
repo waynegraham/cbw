@@ -3,7 +3,7 @@
     <xsl:include href="header.xsl"/>
     <xsl:include href="footer.xsl"/>
     <xsl:include href="biblio.xsl"/>
-
+    
     <xsl:template match="/">
         <html>
             <head>
@@ -67,6 +67,10 @@
                     var allHTMLTags = new Array();
                     allHTMLTags=document.getElementsByTagName("*");
                     for (i=0; i&lt;allHTMLTags.length; i++) {
+                    if (allHTMLTags[i].className=='name') {
+                    var name = allHTMLTags[i].parentNode.innerHTML.split('&lt;')[0];
+                    allHTMLTags[i].parentNode.innerHTML='<a href="search?rows=20&amp;start=0&amp;fulltext=%27' + name + '%27&amp;action=Submit">' + name + '</a>';                   
+                    }
                     if (allHTMLTags[i].className=='datahi') {
                     allHTMLTags[i].parentNode.className+=allHTMLTags[i].parentNode.className?' isHi':'isHi';                    
                     }
@@ -106,33 +110,33 @@
                     
                     };
                     });
-                    </script>
+                </script>
             </body>
         </html>
     </xsl:template>
-
+    
     <xsl:template match="/TEI.2/text/front/div1[@type='popchart']">
         <h2>
             <xsl:value-of select="./head"/>
         </h2>
         <div id="popMarkup">
-        <table id="popChart">
-            <thead>
-                <xsl:apply-templates select="./note/table/row[@role='header']"/>
-            </thead>
-            <tbody>
-                <xsl:apply-templates select="./note/table/row[@role='body']"/>
-            </tbody>
-        </table>
+            <table id="popChart">
+                <thead>
+                    <xsl:apply-templates select="./note/table/row[@role='header']"/>
+                </thead>
+                <tbody>
+                    <xsl:apply-templates select="./note/table/row[@role='body']"/>
+                </tbody>
+            </table>
         </div>
     </xsl:template>
-
+    
     <xsl:template match="row">
         <tr>
             <xsl:apply-templates/>
         </tr>
     </xsl:template>
-
+    
     <xsl:template match="cell">
         <td>
             <!-- Hack for sorting to work with numbers less than ten -->
@@ -144,13 +148,13 @@
             <span class="{@role}"><!-- IE fix --></span>
         </td>
     </xsl:template>
-
+    
     <xsl:template match="cell[@role='label']">
         <th>
             <xsl:apply-templates/>
         </th>
     </xsl:template>
-
+    
     <xsl:template match="cell[@role='category']">
         <th colspan="5">
             <xsl:apply-templates/>
@@ -162,5 +166,5 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
-
+    
 </xsl:stylesheet>
