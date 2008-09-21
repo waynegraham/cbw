@@ -330,7 +330,7 @@ border: 1px solid #FFF7F7;
 }
 
 #popMarkup {
-padding: 20px;
+padding: 10px;
 }
 
 .isHi {
@@ -348,3 +348,11 @@ overflow: hidden;
 .yui-skin-sam .yui-dt table {
   font-family: "Palatino Linotype",Times,serif;
 }
+
+.yui-dt-col-0 {
+width: 300px !important;
+}
+
+.yui-dt-col-1 {
+width: 150px !important;
+} 
