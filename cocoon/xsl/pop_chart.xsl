@@ -99,7 +99,7 @@
                     };
                     
                     Ex.myDataTable = new YAHOO.widget.DataTable("popMarkup", myColumnDefs, Ex.myDataSource,
-                    {sortedBy:{key:"total",dir:"desc"}}
+                    {paginator: new YAHOO.widget.Paginator({rowsPerPage: 25}), sortedBy:{key:"total",dir:"desc"}}
                     );
                     
                     // Set row colors initially
