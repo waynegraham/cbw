@@ -1735,31 +1735,6 @@
        <pubPlace>London:</pubPlace>
        <publisher>printed by W. Goodbid for William Cooper at Pelican in Little-Britain.</publisher>
         </imprint>
-      <image n="no30">
-       <imgName>Catherine de Medici</imgName>
-         </image>
-      <image n="no31">
-       <imgName>Marie Stuart</imgName>
-      </image>
-      <image n="no32">
-       <imgName>Marie Stuart</imgName>
-      </image>
-      <image n="no33">
-       <imgName>Elizabeth of France</imgName>
-      </image>
-      <image n="no34">
-       <imgName>Marie de Medici</imgName>
-       <imgDesc>Coronation of Marie de Medici</imgDesc>
-      </image>
-      <image n="no35">
-       <imgName>Diane de France</imgName>
-      </image>
-      <image n="no36">
-       <imgName>Isabelle d'Autriche</imgName>
-      </image>
-      <image n="no37">
-       <imgName>Louise de Lorraine</imgName>
-      </image>
      </bibl>
 
      <bibl id="c017">
@@ -1787,6 +1762,31 @@
        Duc de Lorraine; Marie d’Autriche, Wife of the Emperor Maximillan II; Blanche de Montferrat,
        Duchesse de Savoie; Catherine de Cleves, Wife of Henri I de Lorraine, Duc de Guise; Madame de
        Bourdeille. </note>
+      <image n="no30">
+       <imgName>Catherine de Medici</imgName>
+      </image>
+      <image n="no31">
+       <imgName>Marie Stuart</imgName>
+      </image>
+      <image n="no32">
+       <imgName>Marie Stuart</imgName>
+      </image>
+      <image n="no33">
+       <imgName>Elizabeth of France</imgName>
+      </image>
+      <image n="no34">
+       <imgName>Marie de Medici</imgName>
+       <imgDesc>Coronation of Marie de Medici</imgDesc>
+      </image>
+      <image n="no35">
+       <imgName>Diane de France</imgName>
+      </image>
+      <image n="no36">
+       <imgName>Isabelle d'Autriche</imgName>
+      </image>
+      <image n="no37">
+       <imgName>Louise de Lorraine</imgName>
+      </image>
      </bibl>
 
      <bibl id="c018">
