@@ -14,12 +14,12 @@
                     }
                 </style>
                 
-                <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.5.2/build/datatable/assets/skins/sam/datatable.css" />
-                <script type="text/javascript" src="http://yui.yahooapis.com/2.5.2/build/yahoo-dom-event/yahoo-dom-event.js"></script>
-                <script type="text/javascript" src="http://yui.yahooapis.com/2.5.2/build/element/element-beta-min.js"></script>
+                <link rel="stylesheet" type="text/css" href="javascript/yui/build/datatable/assets/skins/sam/datatable.css" />
+                <script type="text/javascript" src="javascript/yui/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+                <script type="text/javascript" src="javascript/yui/build/element/element-beta-min.js"></script>
                 
-                <script type="text/javascript" src="http://yui.yahooapis.com/2.5.2/build/datasource/datasource-beta-min.js"></script>
-                <script type="text/javascript" src="http://yui.yahooapis.com/2.5.2/build/datatable/datatable-beta-min.js"></script>
+                <script type="text/javascript" src="javascript/yui/build/datasource/datasource-beta-min.js"></script>
+                <script type="text/javascript" src="javascript/yui/build/datatable/datatable-beta-min.js"></script>
                 <script src="http://static.simile.mit.edu/timeplot/api/1.0/timeplot-api.js"  type="text/javascript"></script>
                 <link type="text/css" href="style.css" rel="stylesheet"/>
                 <title>The Collective Biographies of Women: Pop Chart</title>
@@ -31,8 +31,8 @@
                 </style>
                 
                 
-                <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.5.2/build/tabview/assets/skins/sam/tabview.css" />
-                <script type="text/javascript" src="http://yui.yahooapis.com/2.5.2/build/tabview/tabview-min.js"></script>
+                <link rel="stylesheet" type="text/css" href="javascript/yui/build/tabview/assets/skins/sam/tabview.css" />
+                <script type="text/javascript" src="javascript/yui/build/tabview/tabview-min.js"></script>
                 
                 <script type="text/javascript">
                     function tpView(source, dest)

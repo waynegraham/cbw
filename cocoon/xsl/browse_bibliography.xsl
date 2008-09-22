@@ -20,6 +20,44 @@
 				<script type="text/javascript" language="javascript" src="javascript/searchhi.js"/>
 				<title>The Collective Biographies of Women: Bibliography</title>
 				<script type="text/javascript" language="javascript" src="javascript/illus.js"/>
+				<!--	jQuery library	-->
+				<script type="text/javascript" src="javascript/jcarousel/lib/jquery-1.2.3.pack.js"></script>
+				<!--	jCarousel library	-->
+				<script type="text/javascript" src="javascript/jcarousel/lib/jquery.jcarousel.pack.js"></script>
+				<!--	jCarousel core stylesheet	-->
+				<link rel="stylesheet" type="text/css" href="javascript/jcarousel/lib/jquery.jcarousel.css" />
+				<!--	jCarousel skin stylesheets	-->
+				<link rel="stylesheet" type="text/css" href="javascript/jcarousel/skins/tango/skin.css" />
+				<link rel="stylesheet" type="text/css" href="javascript/jcarousel/skins/ie7/skin.css" />
+				
+				<script type="text/javascript">
+					jQuery(document).ready(function() {
+					// Initialise the first and second carousel by class selector.
+					// Note that they use both the same configuration options (none in this case).
+					jQuery('.image-carousel').jcarousel();
+					});
+					
+				</script>
+				<style type="text/css">
+					.bibl .jcarousel-skin-tango .jcarousel-container-horizontal {
+						width: 680px;
+						height: 160px;
+						background: #FFFAF0;
+						border: none;
+					}
+					.bibl .jcarousel-skin-tango .jcarousel-clip-horizontal {
+						height: 160px;
+						width: auto;
+					}
+					.bibl .jcarousel-skin-tango .jcarousel-container-horizontal ul {
+						height: 160px;
+					}
+					.bibl .jcarousel-skin-tango .jcarousel-container-horizontal .jcarousel-item {
+						height: 100px;
+						width: 100px;
+					}
+					
+				</style>
 			</head>
 			<body onLoad="JavaScript:SearchHighlight();">
 				<table id="wrap">
@@ -93,16 +131,18 @@
 
 		<div class="bibl">
 			<xsl:apply-templates/>
-			<xsl:for-each select="image">
-				<div class="illus">
+			<xsl:if test="image">
+				<ul class="image-carousel jcarousel-skin-tango">
+				<xsl:for-each select="image">
+				<li>
 					<a onclick="displayIllus('{@n}.jpg', escape('{./imgDesc}'));">
 						<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
+						<div class="illus"><xsl:value-of select="./imgName"/></div>
 					</a>
-					<div class="caption">
-						<xsl:value-of select="./imgName"/>
-					</div>
-				</div>
-			</xsl:for-each>
+				</li>
+				</xsl:for-each>
+				</ul>
+			</xsl:if>
 			<br clear="all"/>
 			<br/>
 			<a
