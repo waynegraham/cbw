@@ -35,7 +35,7 @@
 				
 				<script type="text/javascript">
 					// Set thickbox loading image
-					tb_pathToImage = "images/loading-thickbox.gif";
+					tb_pathToImage = "loading-thickbox.gif";
 					
 					jQuery(document).ready(function() {
 					// Initialise the first and second carousel by class selector.
