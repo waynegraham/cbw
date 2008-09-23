@@ -29,8 +29,6 @@
 					1830-1940 <br/>  With Selected Bibliographies of Collections Published before 1830 and after 1940</i>
 			</p>
 		</div>
-		<hr/>
-
 		<div id="navbar">
 			<b>
 				<a href=".">Home</a>
@@ -48,8 +46,6 @@
 				<a href="popchart">Pop Chart</a>
 			</b>
 		</div>
-		<hr/>
-
 	</xsl:template>
 
 </xsl:stylesheet>

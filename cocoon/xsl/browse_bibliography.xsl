@@ -2,7 +2,7 @@
 
 <!-- This is the stylesheet for browsing the bibliography for CBW and for displaying a bibliography from a search result.
 	
-	Created July 2007 by Ethan Gruber.  Modified March, April, May 2008 by Joseph Gilbert -->
+	Created July 2007 by Ethan Gruber.  Modified 2008 by Joseph Gilbert -->
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
 	<xsl:include href="header.xsl"/>
@@ -24,13 +24,19 @@
 				<script type="text/javascript" src="javascript/jcarousel/lib/jquery-1.2.3.pack.js"></script>
 				<!--	jCarousel library	-->
 				<script type="text/javascript" src="javascript/jcarousel/lib/jquery.jcarousel.pack.js"></script>
+				<!--	Thickbox 3 library	-->
+				<script type="text/javascript" src="javascript/jcarousel/lib/thickbox/thickbox.js"></script>
 				<!--	jCarousel core stylesheet	-->
 				<link rel="stylesheet" type="text/css" href="javascript/jcarousel/lib/jquery.jcarousel.css" />
+				<!--	Thickbox stylesheet	 -->
+				<link rel="stylesheet" type="text/css" href="thickbox.css" />
 				<!--	jCarousel skin stylesheets	-->
 				<link rel="stylesheet" type="text/css" href="javascript/jcarousel/skins/tango/skin.css" />
-				<link rel="stylesheet" type="text/css" href="javascript/jcarousel/skins/ie7/skin.css" />
 				
 				<script type="text/javascript">
+					// Set thickbox loading image
+					tb_pathToImage = "images/loading-thickbox.gif";
+					
 					jQuery(document).ready(function() {
 					// Initialise the first and second carousel by class selector.
 					// Note that they use both the same configuration options (none in this case).
@@ -40,23 +46,31 @@
 				</script>
 				<style type="text/css">
 					.bibl .jcarousel-skin-tango .jcarousel-container-horizontal {
-						width: 680px;
+						width: 650px;
 						height: 160px;
 						background: #FFFAF0;
 						border: none;
-					}
+						}  
 					.bibl .jcarousel-skin-tango .jcarousel-clip-horizontal {
 						height: 160px;
-						width: auto;
-					}
+						width: 100%;
+					} 
 					.bibl .jcarousel-skin-tango .jcarousel-container-horizontal ul {
 						height: 160px;
 					}
-					.bibl .jcarousel-skin-tango .jcarousel-container-horizontal .jcarousel-item {
-						height: 100px;
-						width: 100px;
+					.bibl .jcarousel-skin-tango .jcarousel-next-horizontal,
+					.bibl .jcarousel-skin-tango .jcarousel-prev-horizontal {
+						top: 55px;
+						}
+					.bibl img {
+						max-height: 75px;
+						max-width: 75px;
+						border: none;
 					}
-					
+					#TB_overlay {
+					background: #DDD;
+					opacity: 0.7;
+					}
 				</style>
 			</head>
 			<body onLoad="JavaScript:SearchHighlight();">
@@ -135,7 +149,7 @@
 				<ul class="image-carousel jcarousel-skin-tango">
 				<xsl:for-each select="image">
 				<li>
-					<a onclick="displayIllus('{@n}.jpg', escape('{./imgDesc}'));">
+					<a href="full/{@n}.jpg" class="thickbox" title="{./imgDesc}">
 						<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
 						<div class="illus"><xsl:value-of select="./imgName"/></div>
 					</a>

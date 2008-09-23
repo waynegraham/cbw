@@ -12,7 +12,8 @@ body {
   font-size: 15px; 
   color: #000000;
   background-color: #CDC7B1; /*page background color */
-  height:100%
+  height:100%;
+  width: 960px;
   }
   
 hr {
@@ -181,6 +182,7 @@ font-size:10pt;
 text-align: center;
 background: transparent;
 border: none;
+margin: 10px;
 }
 
 .navigation {
@@ -202,6 +204,9 @@ padding-bottom: 1ex
 
 #navbar {
 text-align: center;
+border-bottom: 4px double gainsboro;
+margin: 10px 20px;
+padding: 10px 0;
 }
 
 #navbar a {
@@ -291,8 +296,8 @@ font-size: 10pt;
 }
 
 .illus img {
-max-width: 110px;
-max-height: 110px;
+max-width: 100px;
+max-height: 100px;
 margin: 0px;
 cursor: pointer;
 }
@@ -300,8 +305,8 @@ cursor: pointer;
 div.illus {
 float: left;
 padding: 15px 5px;
-width: 112px;
-height: 112px;
+width: 70px;
+height: 70px;
 overflow: visible;
 }
 
