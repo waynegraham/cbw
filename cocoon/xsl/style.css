@@ -14,6 +14,7 @@ body {
   background-color: #CDC7B1; /*page background color */
   height:100%;
   width: 960px;
+  margin: 8px;
   }
   
 hr {
@@ -70,13 +71,10 @@ padding-right:2em}
 .bibl {
 background-color: #FFFAF0; 
 border: 4px double #DCDCDC;
-padding-left: 1em; 
-padding-right: 1em; 
-padding-top: 1em; 
-padding-bottom:1em; 
-margin-top:2ex; 
-margin-left: 4em; 
-margin-right: 4em}
+padding: 15px;
+margin-top:2ex;
+margin-left: 15px; 
+margin-right: 15px;}
 
 p.notepara {
 color: #531B15; 
@@ -169,6 +167,7 @@ font-weight: bold;
 #byline {
 margin-left: 630px; 
 margin-top: -5px; 
+margin-bottom: 18px;
 }
 
 .headBorder {
@@ -204,8 +203,7 @@ padding-bottom: 1ex
 
 #navbar {
 text-align: center;
-border-bottom: 4px double gainsboro;
-margin: 10px 20px;
+margin: 20px;
 padding: 10px 0;
 }
 
@@ -214,6 +212,13 @@ padding-left: 10px;
 padding-right: 10px;
 margin-left: 0px;
 font-size:  14px;
+}
+
+.divider {
+width: 400px;
+height: 3px;
+background: #FFF7F7;
+margin: 0px 270px 10px;
 }
 
 #subNav {
@@ -231,7 +236,7 @@ font-size:  14px;
 .head1 {
 color: #531B15; 
 font-size: 15pt; 
-padding-left:1em; 
+margin-left:15px; 
 margin-bottom: 2ex; 
 font-weight:bold;
 margin-top: 1em;
@@ -241,10 +246,10 @@ margin-top: 1em;
 color: #B22222; 
 font-weight: bold; 
 font-size: 12pt; 
-margin-left: 2em;
+margin-left: 15px;
 margin-top: 2ex; 
 margin-bottom: 2ex; 
-text-align: left
+text-align: left;
 }
 
 .right {
@@ -348,6 +353,71 @@ overflow: hidden;
 
 .datahi {
 overflow: hidden;
+}
+
+#page-nav {
+text-align: center;
+margin: 10px;
+}
+
+#page-nav a {
+padding:2px 6px;
+text-decoration:none;
+margin-left:1px;
+margin-right:1px;
+}
+
+#page-nav .page-link {
+background-color:#FFF7F7;
+border:1px solid #CBCBCB;
+}
+
+#page-nav .current {
+background-color:#FFF7F7;
+border:1px solid #FFFFFF;
+padding:2px 6px;
+text-decoration:none;
+margin-left:1px;
+margin-right:1px;
+}
+
+#results-count {
+margin-left: 15px;
+font-weight:bold;
+}
+
+.bibl .jcarousel-skin-tango .jcarousel-container-horizontal {
+width: 650px;
+height: 160px;
+background: #FFFAF0;
+border: none;
+}
+
+.bibl .jcarousel-skin-tango .jcarousel-clip-horizontal {
+height: 160px;
+width: 100%;
+}
+
+.bibl .jcarousel-skin-tango .jcarousel-container-horizontal ul {
+height: 160px;
+}
+
+.bibl .jcarousel-skin-tango .jcarousel-next-horizontal,
+.bibl .jcarousel-skin-tango .jcarousel-prev-horizontal {
+top: 55px;
+}
+
+.bibl img {
+max-height: 75px;
+max-width: 75px;
+border: none;
+}
+
+#TB_overlay {
+background: #DDD;
+opacity: 0.7;
+filter:alpha(opacity=70);
+-moz-opacity:.7;
 }
 
 .yui-skin-sam .yui-dt table {

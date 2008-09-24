@@ -39,13 +39,14 @@
 			</b> &#160; <b>
 				<a href="userguide">User's Guide</a>
 			</b> &#160; <b>
-				<a href="browse">Browse the Bibliography</a>
+				<a href="browse?start=1&amp;end=15">Browse the Bibliography</a>
 			</b> &#160; <b>
 				<a href="search">Search the Bibliography</a>
 			</b> &#160; <b>
 				<a href="popchart">Pop Chart</a>
 			</b>
 		</div>
+		<div class="divider"></div>
 	</xsl:template>
 
 </xsl:stylesheet>
