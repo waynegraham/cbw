@@ -6475,6 +6475,18 @@
        <imgName>Princess of Wales</imgName>
        <imgDesc>The Princess of Wales, from a photograph by Lafayette</imgDesc>
       </image>
+      <image n="no289">
+       <imgName>Queen Victoria</imgName>
+       <imgDesc>Her Majesty the Queen.  From a photograph by Hughes &amp; Mullins</imgDesc>
+      </image>
+      <image n="no290">
+       <imgName>Elizabeth Fry</imgName>
+       <imgDesc>Elizabeth Fry</imgDesc>
+      </image>
+      <image n="no291">
+       <imgName>Florence Nightingale</imgName>
+       <imgDesc>Florence Nightinagle.  From a photograph by the London Stereoscopic Co.</imgDesc>
+      </image>
      </bibl>
 
      <bibl id="a144"><ref>144.</ref>
@@ -7571,6 +7583,27 @@
       <note> Refers to Victoria's funeral, the anniversary of Scutari (Nightingale still living) in
         <date>1903</date>, and the death of Frances Power Cobbe in <date>1904</date>; thus,
        published <date>1904-1911</date>. </note>
+      <image n="no300">
+       <imgName>Baroness Burdett-Coutts</imgName>
+      </image>
+      <image n="no301">
+       <imgName>Frances Cobbe</imgName>
+      </image>
+      <image n="no302">
+       <imgName>Elizabeth Fry</imgName>
+      </image>
+      <image n="no303">
+       <imgName>Florence Nightingale</imgName>
+      </image>
+      <image n="no304">
+       <imgName>Sarah Robinson</imgName>
+      </image>
+      <image n="no305">
+       <imgName>Sister Dora</imgName>
+      </image>
+      <image n="no306">
+       <imgName>Mary Carpenter</imgName>
+      </image>
      </bibl>
 
      <bibl id="a186">
