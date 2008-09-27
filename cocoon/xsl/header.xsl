@@ -31,22 +31,21 @@
 		</div>
 		<div id="navbar">
 			<b>
-				<a href=".">Home</a>
+				<a href="." id="home-link">Home</a>
 			</b> &#160; <b>
-				<a href="about">About</a>
+				<a href="about" id="about-link">About</a>
 			</b> &#160; <b>
-				<a href="dimensions">Dimensions</a>
+				<a href="dimensions" id="dimens-link">Dimensions</a>
 			</b> &#160; <b>
-				<a href="userguide">User's Guide</a>
+				<a href="userguide" id="guide-link">User's Guide</a>
 			</b> &#160; <b>
-				<a href="browse?start=1&amp;end=15">Browse the Bibliography</a>
+				<a href="browse?section=1" id="browse-link">Browse the Bibliography</a>
 			</b> &#160; <b>
-				<a href="search">Search the Bibliography</a>
+				<a href="search" id="search-link">Search the Bibliography</a>
 			</b> &#160; <b>
-				<a href="popchart">Pop Chart</a>
+				<a href="popchart" id="pop-link">Pop Chart</a>
 			</b>
 		</div>
-		<div class="divider"></div>
 	</xsl:template>
 
 </xsl:stylesheet>

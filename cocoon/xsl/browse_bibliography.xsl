@@ -10,13 +10,10 @@
 	<xsl:include href="biblio.xsl"/>
 
 	<xsl:param name="bibl_id"/>
-	<xsl:param name="start"/>
-	<xsl:param name="end"/>
+	<xsl:param name="section"/>
 	
-	<xsl:variable name="entries" select="//text//bibl"/>
-	<xsl:variable name="count" select="count($entries)"/>
-	<xsl:variable name="pageRange" select="5"/>
-	<xsl:variable name="hitsPerPage" select="15"/>	
+	<xsl:variable name="entries" select="//text/body//div2"/>
+	<xsl:variable name="count" select="count($entries)"/>	
 
 	<xsl:param name="searchstring"/>
 
@@ -48,11 +45,20 @@
 					// Initialise the first and second carousel by class selector.
 					// Note that they use both the same configuration options (none in this case).
 					jQuery('.image-carousel').jcarousel();
+					var loc = document.location.href;
+					var section = loc.split('section=')[1];
+					if(section == 1) {
+						document.getElementById('early-link').className='selected';
+					} else if(section &gt; 1 &amp;&amp; section &lt; 26) {
+						document.getElementById('alpha-link').className='selected';
+						document.getElementById(section).className='selected';
+					} else if(section &gt; 25) {
+						document.getElementById('post-link').className='selected';
+					}
 					});
-					
 				</script>
 			</head>
-			<body onLoad="JavaScript:SearchHighlight();">
+			<body onLoad="JavaScript:SearchHighlight(); document.getElementById('browse-link').className='selected';">
 				<table id="wrap">
 					<tr>
 						<td class="headfoot">
@@ -62,29 +68,62 @@
 					<tr>
 						<td>
 							<div id="subNav">
-								<a href="browse?start=1&amp;end=15">Early Examples</a>
-								<a href="browse?start=53&amp;end=60">Alphabetical, 1830-1940</a>
-								<a href="browse?start=987&amp;end=990">Examples after 1940</a>
+								<a href="browse?section=1" id="early-link">Early Examples</a>
+								<a href="browse?section=2" id="alpha-link">Alphabetical, 1830-1940</a>
+								<a href="browse?section=26" id="post-link">Examples after 1940</a>
 							</div>
 						</td>
 					</tr>
+					<xsl:if test="$section &gt; 1 and $section &lt; 26">
+					<tr>
+						<td>
+							<div id="page-nav">
+								<a href="browse?section=2" id="2">A</a>
+								<a href="browse?section=3" id="3">B</a>
+								<a href="browse?section=4" id="4">C</a>
+								<a href="browse?section=5" id="5">D</a>
+								<a href="browse?section=6" id="6">E</a>
+								<a href="browse?section=7" id="7">F</a>
+								<a href="browse?section=8" id="8">G</a>
+								<a href="browse?section=9" id="9">H</a>
+								<a href="browse?section=10" id="10">I</a>
+								<a href="browse?section=11" id="11">J</a>
+								<a href="browse?section=12" id="12">K</a>
+								<a href="browse?section=13" id="13">L</a>
+								<a href="browse?section=14" id="14">M</a>
+								<a href="browse?section=15" id="15">N</a>
+								<a href="browse?section=16" id="16">O</a>
+								<a href="browse?section=17" id="17">P</a>
+								<a><span class='no-entries'>Q</span></a>
+								<a href="browse?section=18" id="18">R</a>
+								<a href="browse?section=19" id="19">S</a>
+								<a href="browse?section=20" id="20">T</a>
+								<a href="browse?section=21" id="21">U</a>
+								<a href="browse?section=22" id="22">V</a>
+								<a href="browse?section=23" id="23">W</a>
+								<a><span class='no-entries'>X</span></a>
+								<a href="browse?section=24" id="24">Y</a>
+								<a href="browse?section=25" id="25">Z</a>
+							</div>
+						</td>
+					</tr>
+					</xsl:if>
 					<tr>
 						<td class="content">
 							<xsl:choose>
 								<!-- when the bibl_id is not passed as a parameter, i. e. the page is not accessed from a search result, the stylesheet is applied to all of //text -->
 								<xsl:when test="not($bibl_id)">
 									<div class="head1">
-										<a name="{$entries[position() = $start]/../../head}">
-											<xsl:value-of select="$entries[position() = $start]/../../head"/>
+										<a name="{$entries[position() = $section]/../head}">
+											<xsl:value-of select="$entries[position() = $section]/../head"/>
 										</a>
 									</div>
 									<div class="head2">
-										<a name="{$entries[position() = $start]/../head}">
-											<xsl:value-of select="$entries[position() = $start]/../head"/>
+										<a name="{$entries[position() = $section]/head}">
+											<xsl:value-of select="$entries[position() = $section]/head"/>
 										</a>										
 									</div>									
-									<div id="results-count">Entries <xsl:value-of select="$start"/> - <xsl:value-of select="$end"/> of <xsl:value-of select="count($entries)"/></div>
-									<xsl:for-each select="$entries[position() &lt;= $end and position() &gt;= $start]">
+									<xsl:for-each select="$entries[position() = $section]/bibl">
 										<div class="bibl">
 											<xsl:apply-templates/>
 											<xsl:if test="image">
@@ -110,11 +149,8 @@
 												>Search Google Books for this title.</a>
 										</div>
 									</xsl:for-each>
-									<div id="page-nav">
-										<xsl:call-template name="pageList"/>
-									</div>
 								</xsl:when>
-								<!-- otherwise, it is applied to the bible with an id of $bibl_id -->
+								<!-- otherwise, it is applied to the bibl with an id of $bibl_id -->
 								<xsl:otherwise>
 									<xsl:apply-templates select="//bibl[@id=$bibl_id]"/>
 								</xsl:otherwise>
@@ -130,120 +166,4 @@
 			</body>
 		</html>
 	</xsl:template>
-	
-	<!--
-		list of pages
-	-->
-	<xsl:template name="pageList">
-		<xsl:variable name="currPage" select="floor(($start - 1) div $hitsPerPage + 1)"/>
-		<xsl:variable name="minPage">
-			<xsl:choose>
-				<xsl:when test="$currPage > $pageRange">
-					<xsl:value-of select="$currPage - $pageRange"/>
-				</xsl:when>
-				<xsl:otherwise>1</xsl:otherwise>
-			</xsl:choose>
-		</xsl:variable>
-		<xsl:variable name="maxPage">
-			<xsl:choose>
-				<xsl:when
-					test="$currPage &lt; floor(($count - 1) div $hitsPerPage + 1 - $pageRange)">
-					<xsl:value-of select="$currPage + $pageRange"/>
-				</xsl:when>
-				<xsl:otherwise>
-					<xsl:value-of select="floor(($count - 1) div $hitsPerPage + 1)"/>
-				</xsl:otherwise>
-			</xsl:choose>
-		</xsl:variable>
-		<xsl:if test="$currPage = $minPage">
-			<xsl:text>&lt;&lt; First </xsl:text>
-			<xsl:text>&lt; Previous</xsl:text>
-		</xsl:if>
-		<xsl:if test="$currPage &gt; $minPage">
-			<xsl:variable name="prevFrom" select="$start - $hitsPerPage"/>
-			<xsl:variable name="prevTo" select="$end - $hitsPerPage"/>
-			<a href="browse?start=1&amp;end={$hitsPerPage}">
-				<xsl:text>&lt;&lt; First </xsl:text>
-			</a>
-			<a href="browse?start={$prevFrom}&amp;end={$prevTo}">
-				<xsl:text>&lt; Previous</xsl:text>
-			</a>
-		</xsl:if>
-		<xsl:call-template name="pageLoop">
-			<xsl:with-param name="minPage" select="$minPage"/>
-			<xsl:with-param name="currPage" select="$currPage"/>
-			<xsl:with-param name="maxPage" select="$maxPage"/>
-		</xsl:call-template>
-		<xsl:if test="$currPage = $maxPage">
-			<xsl:text>Next &gt; </xsl:text>
-			<xsl:text>Last &gt;&gt;</xsl:text>
-		</xsl:if>
-		<xsl:if test="$currPage &lt; $maxPage">
-			<xsl:variable name="nextFrom" select="$start + $hitsPerPage"/>
-			<xsl:variable name="nextTo">
-				<xsl:choose>
-					<xsl:when test="$count &lt; $end + $hitsPerPage - 1">
-						<xsl:value-of select="$count"/>
-					</xsl:when>
-					<xsl:otherwise>
-						<xsl:value-of select="$end + $hitsPerPage - 1"/>
-					</xsl:otherwise>
-				</xsl:choose>
-			</xsl:variable>
-			<a href="browse?start={$nextFrom}&amp;end={$nextTo}">
-				<xsl:text>Next &gt; </xsl:text>
-			</a>
-			<a href="browse?start={$count - $hitsPerPage}&amp;end={$count}">
-				<xsl:text>Last &gt;&gt;</xsl:text>
-			</a>
-		</xsl:if>
-	</xsl:template>
-	
-	<xsl:template name="pageLoop">
-		<xsl:param name="minPage"/>
-		<xsl:param name="currPage"/>
-		<xsl:param name="maxPage"/>
-		
-		<xsl:if test="$minPage &lt;= $maxPage">
-			<xsl:choose>
-				<xsl:when test="$minPage = $currPage">
-				<span class="current">
-					<xsl:value-of select="$minPage"/>
-				</span>
-				</xsl:when>
-				<xsl:otherwise>
-				<xsl:call-template name="pageLink">
-					<xsl:with-param name="page" select="$minPage"/>
-					<xsl:with-param name="label" select="$minPage"/>
-				</xsl:call-template>
-				</xsl:otherwise>
-			</xsl:choose>
-			<xsl:call-template name="pageLoop">
-				<xsl:with-param name="minPage" select="$minPage + 1"/>
-				<xsl:with-param name="currPage" select="$currPage"/>
-				<xsl:with-param name="maxPage" select="$maxPage"/>
-			</xsl:call-template>
-		</xsl:if>
-	</xsl:template>
-	
-	<xsl:template name="pageLink">
-		<xsl:param name="page"/>
-		<xsl:param name="label"/>
-		
-		<xsl:variable name="from" select="($page - 1) * $hitsPerPage + 1"/>
-		<xsl:variable name="to">
-			<xsl:choose>
-				<xsl:when test="$count &lt; $from + $hitsPerPage - 1">
-					<xsl:value-of select="$count"/>
-				</xsl:when>
-				<xsl:otherwise>
-					<xsl:value-of select="$from + $hitsPerPage - 1"/>
-				</xsl:otherwise>
-			</xsl:choose>
-		</xsl:variable>
-		<a class="page-link" href="browse?start={$from}&amp;end={$to}">
-			<xsl:value-of select="$label"/>
-		</a>
-	</xsl:template>
-	
 </xsl:stylesheet>

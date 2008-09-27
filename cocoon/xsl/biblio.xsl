@@ -56,9 +56,20 @@
 				</sup>
 			</xsl:when>
 			<xsl:when test="@rend='bold'">
-				<b>
-					<xsl:apply-templates/>
-				</b>
+				<xsl:choose>
+					<xsl:when test=" starts-with(., '*Pop')">
+						<b>
+							<a href="popchart">
+								See also Pop Chart
+							</a>
+						</b>
+					</xsl:when>
+					<xsl:otherwise>
+						<b>
+							<xsl:apply-templates/>
+						</b>
+					</xsl:otherwise>
+				</xsl:choose>
 			</xsl:when>
 			<xsl:when test="@rend='underscore'">
 				<u>

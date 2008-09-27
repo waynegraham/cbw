@@ -10,7 +10,7 @@
                 <link type="text/css" href="style.css" rel="stylesheet"/>
                 <title>The Collective Biographies of Women: Dimensions</title>
             </head>
-            <body>
+            <body onload="document.getElementById('dimens-link').className='selected';">
                 <table id="wrap">
                     <tr>
                         <td class="headfoot">

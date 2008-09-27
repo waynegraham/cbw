@@ -15,7 +15,7 @@
 				<link type="text/css" href="style.css" rel="stylesheet"/>
 				<title>The Collective Biographies of Women: Preface</title>
 			</head>
-			<body>
+			<body onload="document.getElementById('home-link').className='selected';">
 				<table id="wrap">
 					<tr>
 						<td class="headfoot">

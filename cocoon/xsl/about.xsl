@@ -10,7 +10,7 @@
                 <link type="text/css" href="style.css" rel="stylesheet"/>
                 <title>The Collective Biographies of Women: test</title>
             </head>
-            <body>
+            <body onload="document.getElementById('about-link').className='selected';">
                 <table id="wrap">
                     <tr>
                         <td class="headfoot">

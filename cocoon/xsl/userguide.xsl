@@ -18,7 +18,7 @@
         		<link type="text/css" href="style.css" rel="stylesheet"/>
         		<title>The Collective Biographies of Women: User's Guide</title>
         	</head>
-            	<body>
+        	<body onload="document.getElementById('guide-link').className='selected';">
             		<table id="wrap">
             			<tr>
             				<td class="headfoot">

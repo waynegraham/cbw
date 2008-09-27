@@ -27,7 +27,7 @@
 				<link type="text/css" href="style.css" rel="stylesheet"/>
 				<title>The Collective Biographies of Women: Search</title>
 			</head>
-			<body>
+			<body onload="document.getElementById('search-link').className='selected';">
 				<table id="wrap">
 					<tr>
 						<td class="headfoot">

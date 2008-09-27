@@ -24,7 +24,7 @@
                 <link type="text/css" href="style.css" rel="stylesheet"/>
                 <title>The Collective Biographies of Women: Pop Chart</title>
             </head>
-            <body class=" yui-skin-sam">
+            <body class=" yui-skin-sam" onload="document.getElementById('pop-link').className='selected';">
                 <table id="wrap">
                     <tr>
                         <td class="headfoot">
