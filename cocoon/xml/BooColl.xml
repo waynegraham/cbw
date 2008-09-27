@@ -6578,17 +6578,17 @@
        <imgName>Princess of Wales</imgName>
        <imgDesc>The Princess of Wales, from a photograph by Lafayette</imgDesc>
       </image>
-      <image n="no289">
-       <imgName>Queen Victoria</imgName>
-       <imgDesc>Her Majesty the Queen. From a photograph by Hughes &amp; Mullins</imgDesc>
-      </image>
       <image n="no290">
        <imgName>Elizabeth Fry</imgName>
        <imgDesc>Elizabeth Fry</imgDesc>
-      </image>
+      </image> 
       <image n="no291">
        <imgName>Florence Nightingale</imgName>
        <imgDesc>Florence Nightinagle. From a photograph by the London Stereoscopic Co.</imgDesc>
+      </image>
+      <image n="no289">
+       <imgName>Queen Victoria</imgName>
+       <imgDesc>Her Majesty the Queen. From a photograph by Hughes &amp; Mullins</imgDesc>
       </image>
      </bibl>
 
