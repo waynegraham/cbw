@@ -6961,17 +6961,33 @@
        <imgName>Catherine Booth</imgName>
        <imgDesc>Catherine Booth</imgDesc>
       </image>
+      <image n="no325">
+       <imgName>Catherine Booth</imgName>
+       <imgDesc>Catherine Booth.  Four Noble Women.</imgDesc>
+      </image>
       <image n="no293">
        <imgName>Sister Dora</imgName>
        <imgDesc>Sister Dora</imgDesc>
       </image>
+      <image n="no326">
+       <imgName>Sister Dora</imgName>
+       <imgDesc>Sister Dora.  Four Noble Women.</imgDesc>
+      </image>
       <image n="no294">
        <imgName>Agnes Weston</imgName>
-       <imgDesc>Agnes L. Weston</imgDesc>
+       <imgDesc>Agnes E. Weston</imgDesc>
+      </image>
+      <image n="no327">
+       <imgName>Agnes Weston</imgName>
+       <imgDesc>Agnes E. Weston.  Four Noble Women.</imgDesc>
       </image>
       <image n="no295">
        <imgName>Frances Willard</imgName>
        <imgDesc>Frances Willard, Photo by Russell &amp; Sons</imgDesc>
+      </image>
+      <image n="no328">
+       <imgName>Frances Willard</imgName>
+       <imgDesc>Frances C. Willard.  Four Noble Women.</imgDesc>
       </image>
      </bibl>
 
@@ -7031,6 +7047,10 @@
        <imgName>Philippa Fawcett</imgName>
        <imgDesc>Miss Philippa Fawcett, Photo by Owen, Salisbury</imgDesc>
       </image>
+      <image n="no329">
+       <imgName>Philippa Fawcett</imgName>
+       <imgDesc> Mrs. Fawcett.  Lady Henry Somerset.  Mrs. Gladstone.  Baroness Burdett-Coutts.  Miss Sarah Robinson.</imgDesc>
+      </image>
       <image n="no297">
        <imgName>Agnes Weston</imgName>
        <imgDesc>Agnes L. Weston</imgDesc>
@@ -7039,9 +7059,21 @@
        <imgName>Frances Willard</imgName>
        <imgDesc>Frances Willard, Photo by Russell &amp; Sons</imgDesc>
       </image>
-      <image n="no299">
-       <imgName>Catherine Booth</imgName>
-       <imgDesc>Catherine Booth</imgDesc>
+      <image n="no330">
+       <imgName>Mrs. Gladstone</imgName>
+       <imgDesc>Mrs. Fawcett.  Lady Henry Somerset.  Mrs. Gladstone.  Baroness Burdett-Coutts.  Miss Sarah Robinson.</imgDesc>
+      </image>
+      <image n="no331">
+       <imgName>Sarah Robinson</imgName>
+       <imgDesc>Mrs. Fawcett.  Lady Henry Somerset.  Mrs. Gladstone.  Baroness Burdett-Coutts.  Miss Sarah Robinson.</imgDesc>
+      </image>
+      <image n="no332">
+       <imgName>Lady HenrySomerset</imgName>
+       <imgDesc>Mrs. Fawcett.  Lady Henry Somerset.  Mrs. Gladstone.  Baroness Burdett-Coutts.  Miss Sarah Robinson.</imgDesc>
+      </image>
+      <image n="no333">
+       <imgName>Baroness Burdett-Coutts</imgName>
+       <imgDesc>Mrs. Fawcett.  Lady Henry Somerset.  Mrs. Gladstone.  Baroness Burdett-Coutts.  Miss Sarah Robinson.</imgDesc>
       </image>
      </bibl>
 
