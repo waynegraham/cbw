@@ -8444,7 +8444,11 @@
        <imgName>Joan of Arc</imgName>
        <imgDesc>Jeanne in Church</imgDesc>
       </image>
-       <image n="no315">
+      <image n="no311">
+      <imgName>Elizabeth of York</imgName> 
+       <imgDesc>Elizabeth of York, Queen of Henry VII.  From an original picture in the National Portrait Gallery.</imgDesc>
+      </image>
+      <image n="no315">
         <imgName>Margaret Beaufort</imgName>
        <imgDesc>Margaret, Countess of Richmond.  Photo: Emery Walker.</imgDesc>
        </image>
