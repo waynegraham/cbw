@@ -30,21 +30,21 @@
 			</p>
 		</div>
 		<div id="navbar">
-			<b>
+			<span class="nav-item">
 				<a href="." id="home-link">Home</a>
-			</b> &#160; <b>
+			</span> &#160; <span class="nav-item">
 				<a href="about" id="about-link">About</a>
-			</b> &#160; <b>
+			</span> &#160; <span class="nav-item">
 				<a href="dimensions" id="dimens-link">Dimensions</a>
-			</b> &#160; <b>
+			</span> &#160; <span class="nav-item">
 				<a href="userguide" id="guide-link">User's Guide</a>
-			</b> &#160; <b>
+			</span> &#160; <span class="nav-item">
 				<a href="browse?section=1" id="browse-link">Browse the Bibliography</a>
-			</b> &#160; <b>
+			</span> &#160; <span class="nav-item">
 				<a href="search" id="search-link">Search the Bibliography</a>
-			</b> &#160; <b>
+			</span> &#160; <span class="nav-item">
 				<a href="popchart" id="pop-link">Pop Chart</a>
-			</b>
+			</span>
 		</div>
 	</xsl:template>
 

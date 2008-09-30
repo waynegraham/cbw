@@ -213,22 +213,24 @@ padding-bottom: 1ex
 
 
 #navbar {
-height: 20px;
+height: 19px;
 text-align: center;
-padding: 6px 0px 2px;
+padding: 5px 0px 3px;
 margin: 10px 0px;
 overflow: hidden;
-border-bottom: 1px solid gainsboro;
+border-bottom: 3px solid #FFF7F7;
 }
 
 #navbar a {
-padding: 5px 10px 6px;
+padding: 5px 10px 8px;
 margin: 0;
 font-size: 14px;
 }
 
 #navbar a.selected{
 background: #FFF7F7;
+-moz-border-radius-topleft:10px;
+-moz-border-radius-topright:10px;
 }
 
 .divider {
@@ -239,23 +241,26 @@ margin: 0px 270px 10px;
 }
 
 #subNav {
-  height: 16px;
+  height: 18px;
   text-align: center;
   padding: 6px 0px 3px;
   margin: 10px 0px;
-  border-bottom: 1px solid gainsboro;
+  border-bottom: 3px solid #FFF7F7;
   overflow: hidden;
 }
 
 #subNav a {
-  padding: 4px 10px 4px;
+  padding: 6px 10px 7px;
   margin-left: 0px;
   font-size: 10pt;
   color: #991818;
+  vertical-align:bottom;
 }
 
 #subNav a.selected {
-    background: #FFF7F7;
+background: #FFF7F7;
+-moz-border-radius-topleft:10px;
+-moz-border-radius-topright:10px;
 }
 
 .head1 {
@@ -382,9 +387,9 @@ overflow: hidden;
 
 #page-nav {
 text-align: center;
-margin: 10px;
+margin: 10px 0px;
 padding: 5px 0px 2px;
-border-bottom: 1px solid gainsboro;
+border-bottom: 3px solid #FFF7F7;
 overflow: hidden;
 }
 
@@ -394,10 +399,13 @@ text-decoration:none;
 margin-left:1px;
 margin-right:1px;
 font-size: 10pt;
+vertical-align:bottom;
 }
 
 #page-nav .selected {
 background: #FFF7F7;
+-moz-border-radius-topleft:5px;
+-moz-border-radius-topright:5px;
 }
 
 #page-nav .no-entries {
@@ -424,8 +432,12 @@ margin-left: 15px;
 font-weight:bold;
 }
 
+.bibl .jcarousel-skin-tango {
+width: 700px;
+}
+
 .bibl .jcarousel-skin-tango .jcarousel-container-horizontal {
-width: 650px;
+width: 100%;
 height: 160px;
 background: #FFFAF0;
 border: none;
