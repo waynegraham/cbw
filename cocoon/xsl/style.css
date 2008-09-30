@@ -229,7 +229,6 @@ font-size: 14px;
 
 #navbar a.selected{
 background: #FFF7F7;
-border: 1px solid gainsboro;
 }
 
 .divider {
@@ -257,7 +256,6 @@ margin: 0px 270px 10px;
 
 #subNav a.selected {
     background: #FFF7F7;
-    border: 1px solid gainsboro;
 }
 
 .head1 {
@@ -400,7 +398,6 @@ font-size: 10pt;
 
 #page-nav .selected {
 background: #FFF7F7;
-border: 1px solid gainsboro;
 }
 
 #page-nav .no-entries {
