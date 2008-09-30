@@ -8444,9 +8444,21 @@
        <imgName>Joan of Arc</imgName>
        <imgDesc>Jeanne in Church</imgDesc>
       </image>
+      <image n="no310">
+       <imgName>Edward IV</imgName>
+       <imgDesc>Edward IV.  From an original painting belonging to the Society of Antiquaries.</imgDesc>
+      </image>
       <image n="no311">
       <imgName>Elizabeth of York</imgName> 
        <imgDesc>Elizabeth of York, Queen of Henry VII.  From an original picture in the National Portrait Gallery.</imgDesc>
+      </image>
+      <image n="no313">
+       <imgName>Henry VII</imgName> 
+       <imgDesc>Henry VII.  From an original picture in the National Portrait Gallery.</imgDesc>
+      </image>
+      <image n="no317.jpg">
+       <imgName>Richard III</imgName>
+       <imgDesc>Richard III.  From an original painting belonging to the Society of Antiquaries.</imgDesc>
       </image>
       <image n="no315">
         <imgName>Margaret Beaufort</imgName>
@@ -8476,9 +8488,29 @@
       <imgName>Queen Victoria</imgName>
        <imgDesc>Victoria R.</imgDesc>
       </image>
+      <image n="no307">
+       <imgName>Prince Albert</imgName>
+       <imgDesc>Portrait of Prince Albert</imgDesc>
+      </image>
       <image n="no321"> 
        <imgName>Queen Victoria</imgName>
        <imgDesc>Queen Victoria at Her Accession.  (Engraved by Thompson after a Portrait by Lane.)</imgDesc>
+      </image>
+      <image n="309">
+       <imgName>Benjamin Disraeli</imgName>
+       <imgDesc>Benjamin Disraeli, Lord Beaconsfield</imgDesc>
+      </image>
+      <image n="no314">
+       <imgName>Lord Palmerston</imgName> 
+       <imgDesc>Lord Palmerston.  From a seated figure in Hayter's Reformed Parliament in the National Portrait Gallery.</imgDesc>
+      </image>
+      <image n="no322">
+       <imgName>Viscount Melbourne</imgName> 
+       <imgDesc>Viscount Melbourne.  From a figure in Hayter's Reformed Parliament in the National Portrait Gallery.</imgDesc>
+      </image>
+      <image n="no323">
+       <imgName>William Gladstone</imgName> 
+       <imgDesc>William Ewert Gladstone.</imgDesc>
       </image>
      </bibl>
 
