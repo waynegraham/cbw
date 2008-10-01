@@ -7025,6 +7025,10 @@
        <imgName>Sister Dora</imgName>
        <imgDesc>Sister Dora.  Four Noble Women.</imgDesc>
       </image>
+      <image n="no335.jpg">
+       <imgName>Sister Dora Statue</imgName>
+       <imgDesc>Statue Erected to Sister Dora at Walsall.</imgDesc>
+      </image>
       <image n="no294">
        <imgName>Agnes Weston</imgName>
        <imgDesc>Agnes E. Weston</imgDesc>
@@ -7130,6 +7134,14 @@
       <image n="no334">
       <imgName>Baroness Burdett-Coutts</imgName>
       <imgDesc>The Baroness Burdett-Coutts Distributing Prizes for Essays of Kindness to Animals.</imgDesc> 
+      </image>
+      <image n="no293">
+       <imgName>Sister Dora</imgName>
+       <imgDesc>Sister Dora</imgDesc>
+      </image>
+      <image n="no335.jpg">
+       <imgName>Sister Dora Statue</imgName>
+       <imgDesc>Statue Erected to Sister Dora at Walsall.</imgDesc>
       </image>
      </bibl>
 
@@ -7884,6 +7896,9 @@
       <image n="no306">
        <imgName>Mary Carpenter</imgName>
       </image>
+      <image n="no336">
+       <imgName>Victoria and the Royal Family</imgName>
+      </image>
      </bibl>
 
      <bibl id="a186">
@@ -8442,7 +8457,27 @@
        </title>; biographies of male rulers. </note>
       <image n="no324">
        <imgName>Joan of Arc</imgName>
-       <imgDesc>Jeanne in Church</imgDesc>
+       <imgDesc>Jeanne In Church.</imgDesc>
+      </image>
+      <image n="no342">
+       <imgName>Joan of Arc</imgName>
+       <imgDesc>Jeanne Hears The Voice.</imgDesc>
+      </image>
+      <image n="no343">
+       <imgName>Joan of Arc</imgName>
+       <imgDesc>Jeanne Rides To Chinon.</imgDesc>
+      </image>
+      <image n="no344">
+       <imgName>Joan of Arc</imgName>
+       <imgDesc>Jeanne Is Wounded By The Arrow.</imgDesc>
+      </image>
+      <image n="no345">
+       <imgName>Joan of Arc</imgName>
+       <imgDesc>The Coronation Of Charles VII.</imgDesc>
+      </image>
+      <image n="no346">
+       <imgName>Joan of Arc</imgName>
+       <imgDesc>The Burning Of Jeanne.</imgDesc>
       </image>
       <image n="no310">
        <imgName>Edward IV</imgName>
