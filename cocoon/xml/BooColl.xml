@@ -8457,27 +8457,27 @@
        </title>; biographies of male rulers. </note>
       <image n="no324">
        <imgName>Joan of Arc</imgName>
-       <imgDesc>Jeanne In Church.</imgDesc>
+       <imgDesc>Jeanne in Church.</imgDesc>
       </image>
       <image n="no342">
        <imgName>Joan of Arc</imgName>
-       <imgDesc>Jeanne Hears The Voice.</imgDesc>
+       <imgDesc>Jeanne Hears the Voice.</imgDesc>
       </image>
       <image n="no343">
        <imgName>Joan of Arc</imgName>
-       <imgDesc>Jeanne Rides To Chinon.</imgDesc>
+       <imgDesc>Jeanne Rides to Chinon.</imgDesc>
       </image>
       <image n="no344">
        <imgName>Joan of Arc</imgName>
-       <imgDesc>Jeanne Is Wounded By The Arrow.</imgDesc>
+       <imgDesc>Jeanne is Wounded by the Arrow.</imgDesc>
       </image>
       <image n="no345">
        <imgName>Joan of Arc</imgName>
-       <imgDesc>The Coronation Of Charles VII.</imgDesc>
+       <imgDesc>The Coronation of Charles VII.</imgDesc>
       </image>
       <image n="no346">
        <imgName>Joan of Arc</imgName>
-       <imgDesc>The Burning Of Jeanne.</imgDesc>
+       <imgDesc>The Burning of Jeanne.</imgDesc>
       </image>
       <image n="no310">
        <imgName>Edward IV</imgName>
@@ -8502,10 +8502,22 @@
        <image n="no312">
        <imgName>Elizabeth Fry</imgName>
        <imgDesc>Elizabeth Fry.  Photo: Emery Walker.</imgDesc>
+       </image>
+      <image n="no348">
+       <imgName>Elizabeth Fry</imgName>
+       <imgDesc>Mrs. Fry Reading to the Prisoners in Newgate, 1816.  (After the Picture by Jerrry Barrett.)</imgDesc>
       </image>
       <image n="no316">
        <imgName>Florence Nightingale</imgName>
        <imgDesc>Florence Nightingale.  Photo: London Stereoscopic Co.</imgDesc>
+      </image>
+      <image n="no349">
+       <imgName>Florence Nightingale</imgName>
+       <imgDesc>Florence Nightingale at Scutari--- a Mission of Mercy.  (After the Picture by Jerry Barrett.)</imgDesc>
+      </image>
+      <image n="no350">
+       <imgName>Florence Nightingale</imgName>
+       <imgDesc>Florence Nightingale in One of the Wards of the Hospital at Scutari</imgDesc>
       </image>
       <image n="no319"> 
        <imgName>Mary Somerville</imgName>
@@ -8514,6 +8526,10 @@
       <image n="no318">
        <imgName>Sister Dora</imgName>
        <imgDesc>Sister Dora.  Photo: Mrs. Williams, Wolverhampton</imgDesc>
+      </image>
+      <image n="no347">
+       <imgName>Sister Dora Statue</imgName>
+       <imgDesc>The Statue at Walsall</imgDesc>
       </image>
       <image n="no308">
        <imgName>Isabella Bird (Mrs. Bishop)</imgName>
@@ -8529,7 +8545,15 @@
       </image>
       <image n="no321"> 
        <imgName>Queen Victoria</imgName>
-       <imgDesc>Queen Victoria at Her Accession.  (Engraved by Thompson after a Portrait by Lane.)</imgDesc>
+       <imgDesc>Queen Victoria at her Accession.  (Engraved by Thompson after a Portrait by Lane.)</imgDesc>
+      </image>
+      <image n="no352">
+       <imgName>Queen Victoria</imgName>
+       <imgDesc>Marriage of H.R.H. Victoria, Princess Royal, to H.R.H. Prince Frederick William of Prussia.  (From the Portrait by John Philip at Windsor Castle.)</imgDesc>
+      </image>
+      <image n="no351">
+       <imgName>Queen Victoria</imgName>
+       <imgDesc>The Marriage of Queen Victoria to H.R.H. Prince Albert.  (From the Picture by Sir George Hayter at Windsor Castle.)</imgDesc>
       </image>
       <image n="309">
        <imgName>Benjamin Disraeli</imgName>
@@ -12026,6 +12050,10 @@
        <date>1905.</date>
       </imprint>
       <note>Women saints.</note>
+      <image n="no353.jpg">
+       <imgName>The Dawn of Holiness</imgName>
+       <imgDesc>The Dawn of Holiness.  Variation from Lanfant de Metz.  On steel by John Sartain, Phil.  </imgDesc>
+      </image>
      </bibl>
 
      <bibl id="a345">
