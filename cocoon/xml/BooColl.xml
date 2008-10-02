@@ -7884,8 +7884,16 @@
       <image n="no302">
        <imgName>Elizabeth Fry</imgName>
       </image>
+      <image n="no340">
+       <imgName>Elizabeth Fry</imgName>
+       <imgDesc>"A passage was read from the Bible."</imgDesc>
+      </image>
       <image n="no303">
        <imgName>Florence Nightingale</imgName>
+      </image>
+      <image n="no339">
+       <imgName>Florence Nightingale</imgName>
+       <imgDesc>"We could kiss her shadow as it fell."</imgDesc>
       </image>
       <image n="no304">
        <imgName>Sarah Robinson</imgName>
