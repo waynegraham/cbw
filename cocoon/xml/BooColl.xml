@@ -7021,6 +7021,18 @@
        <imgName>Catherine Booth</imgName>
        <imgDesc>Mrs. Booth at the Manchester Free Trade Hall.</imgDesc>
       </image>
+      <image n="no361">
+      <imgName>Oceanville</imgName>
+      <imgDesc>Oceanville, Clacton-On-Sea</imgDesc>
+      </image>
+      <image n="no362">
+       <imgName>Booth Sitting-Room</imgName>
+       <imgDesc>Interior of Mrs. Booth's Sitting-Room, Oceanville. (The Vacant Chair.)</imgDesc>
+      </image>
+      <image n="no360">
+       <imgName></imgName>
+       <imgDesc>Befriending the Drunkard</imgDesc>
+      </image>
       <image n="no293">
        <imgName>Sister Dora</imgName>
        <imgDesc>Sister Dora</imgDesc>
@@ -7041,6 +7053,18 @@
        <imgName>Agnes Weston</imgName>
        <imgDesc>Agnes E. Weston.  Four Noble Women.</imgDesc>
       </image>
+      <image n="no357">
+       <imgName>Weston's Audience</imgName>
+       <imgDesc>An Interested Audience.  (Boys and Ship's Company listening to an Address by Miss Weston.)(From "The Quiver")</imgDesc>
+      </image>
+      <image n="no358">
+       <imgName>Devanport</imgName>
+       <imgDesc>The Devanport Sailors' Rest</imgDesc>
+      </image>
+      <image n="no359">
+       <imgName>Refreshment Bar</imgName>
+       <imgDesc>The Refreshment Bar.</imgDesc>
+      </image>
       <image n="no295">
        <imgName>Frances Willard</imgName>
        <imgDesc>Frances Willard, Photo by Russell &amp; Sons</imgDesc>
@@ -7048,6 +7072,14 @@
       <image n="no328">
        <imgName>Frances Willard</imgName>
        <imgDesc>Frances C. Willard.  Four Noble Women.</imgDesc>
+      </image>
+      <image n="no356">
+       <imgName>Willard Home</imgName>
+       <imgDesc>Miss Willard's Early Home</imgDesc>
+      </image>
+      <image n="no354">
+       <imgName></imgName>
+       <imgDesc>"She Knelt Down in the Sawdust on the Floor."</imgDesc>
       </image>
      </bibl>
 
@@ -7115,9 +7147,25 @@
        <imgName>Agnes Weston</imgName>
        <imgDesc>Agnes L. Weston</imgDesc>
       </image>
-      <image n="no298">
+      <image n="no357">
+       <imgName>Weston's Audience</imgName>
+       <imgDesc>An Interested Audience.  (Boys and Ship's Company listening to an Address by Miss Weston.)(From "The Quiver")</imgDesc>
+      </image>
+      <image n="no358">
+       <imgName>Devanport</imgName>
+       <imgDesc>The Devanport Sailors' Rest</imgDesc>
+      </image>
+      <image n="no359">
+       <imgName>Refreshment Bar</imgName>
+       <imgDesc>The Refreshment Bar.</imgDesc>
+      </image>
+       <image n="no298">
        <imgName>Frances Willard</imgName>
        <imgDesc>Frances Willard, Photo by Russell &amp; Sons</imgDesc>
+      </image>
+      <image n="no356">
+       <imgName>Willard Home</imgName>
+       <imgDesc>Miss Willard's Early Home</imgDesc>
       </image>
       <image n="no299">
        <imgName>Catherine Booth</imgName>
@@ -7126,6 +7174,14 @@
       <image n="no355">
        <imgName>Catherine Booth</imgName>
        <imgDesc>Mrs. Booth at the Manchester Free Trade Hall.</imgDesc>
+      </image>
+      <image n="no362">
+       <imgName>Booth Sitting-Room</imgName>
+       <imgDesc>Interior of Mrs. Booth's Sitting-Room, Oceanville. (The Vacant Chair.)</imgDesc>
+      </image>
+      <image n="no361">
+       <imgName>Oceanville</imgName>
+       <imgDesc>Oceanville, Clacton-On-Sea</imgDesc>
       </image>
       <image n="no330">
        <imgName>Mrs. Gladstone</imgName>
@@ -7147,6 +7203,10 @@
       <imgName>Baroness Burdett-Coutts</imgName>
       <imgDesc>The Baroness Burdett-Coutts Distributing Prizes for Essays of Kindness to Animals.</imgDesc> 
       </image>
+      <image n="no360">
+       <imgName></imgName>
+       <imgDesc>Befriending the Drunkard</imgDesc>
+      </image>
       <image n="no293">
        <imgName>Sister Dora</imgName>
        <imgDesc>Sister Dora</imgDesc>
@@ -7154,6 +7214,10 @@
       <image n="no335">
        <imgName>Sister Dora Statue</imgName>
        <imgDesc>Statue Erected to Sister Dora at Walsall.</imgDesc>
+      </image>
+      <image n="no354">
+       <imgName></imgName>
+       <imgDesc>"She Knelt Down in the Sawdust on the Floor."</imgDesc>
       </image>
      </bibl>
 
@@ -7893,6 +7957,10 @@
       <image n="no301">
        <imgName>Frances Cobbe</imgName>
       </image>
+      <image n="no338">
+       <imgName></imgName>
+       <imgDesc>"It was a sight worth seeing."</imgDesc>
+      </image>
       <image n="no302">
        <imgName>Elizabeth Fry</imgName>
       </image>
@@ -7910,11 +7978,19 @@
       <image n="no304">
        <imgName>Sarah Robinson</imgName>
       </image>
+      <image n="no341">
+       <imgName></imgName>
+       <imgDesc>"She raised her hands in prayer."</imgDesc>
+      </image>
       <image n="no305">
        <imgName>Sister Dora</imgName>
       </image>
       <image n="no306">
        <imgName>Mary Carpenter</imgName>
+      </image>
+      <image n="no337">
+       <imgName></imgName>
+       <imgDesc>"She was like a mother with her boys."</imgDesc>
       </image>
       <image n="no336">
        <imgName>Victoria and the Royal Family</imgName>
