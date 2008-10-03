@@ -7025,7 +7025,7 @@
        <imgName>Sister Dora</imgName>
        <imgDesc>Sister Dora.  Four Noble Women.</imgDesc>
       </image>
-      <image n="no335.jpg">
+      <image n="no335">
        <imgName>Sister Dora Statue</imgName>
        <imgDesc>Statue Erected to Sister Dora at Walsall.</imgDesc>
       </image>
@@ -7139,7 +7139,7 @@
        <imgName>Sister Dora</imgName>
        <imgDesc>Sister Dora</imgDesc>
       </image>
-      <image n="no335.jpg">
+      <image n="no335">
        <imgName>Sister Dora Statue</imgName>
        <imgDesc>Statue Erected to Sister Dora at Walsall.</imgDesc>
       </image>
@@ -8499,7 +8499,7 @@
        <imgName>Henry VII</imgName> 
        <imgDesc>Henry VII.  From an original picture in the National Portrait Gallery.</imgDesc>
       </image>
-      <image n="no317.jpg">
+      <image n="no317">
        <imgName>Richard III</imgName>
        <imgDesc>Richard III.  From an original painting belonging to the Society of Antiquaries.</imgDesc>
       </image>
@@ -8547,13 +8547,13 @@
       <imgName>Queen Victoria</imgName>
        <imgDesc>Victoria R.</imgDesc>
       </image>
-      <image n="no307">
-       <imgName>Prince Albert</imgName>
-       <imgDesc>Portrait of Prince Albert</imgDesc>
-      </image>
       <image n="no321"> 
        <imgName>Queen Victoria</imgName>
        <imgDesc>Queen Victoria at her Accession.  (Engraved by Thompson after a Portrait by Lane.)</imgDesc>
+      </image>
+      <image n="no307">
+       <imgName>Prince Albert</imgName>
+       <imgDesc>Portrait of Prince Albert</imgDesc>
       </image>
       <image n="no352">
        <imgName>Queen Victoria</imgName>
@@ -8563,7 +8563,7 @@
        <imgName>Queen Victoria</imgName>
        <imgDesc>The Marriage of Queen Victoria to H.R.H. Prince Albert.  (From the Picture by Sir George Hayter at Windsor Castle.)</imgDesc>
       </image>
-      <image n="309">
+      <image n="no309">
        <imgName>Benjamin Disraeli</imgName>
        <imgDesc>Benjamin Disraeli, Lord Beaconsfield</imgDesc>
       </image>
@@ -12058,7 +12058,7 @@
        <date>1905.</date>
       </imprint>
       <note>Women saints.</note>
-      <image n="no353.jpg">
+      <image n="no353">
        <imgName>The Dawn of Holiness</imgName>
        <imgDesc>The Dawn of Holiness.  Variation from Lanfant de Metz.  On steel by John Sartain, Phil.  </imgDesc>
       </image>
