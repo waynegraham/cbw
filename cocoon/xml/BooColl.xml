@@ -7963,22 +7963,40 @@
       <note> Refers to Victoria's funeral, the anniversary of Scutari (Nightingale still living) in
         <date>1903</date>, and the death of Frances Power Cobbe in <date>1904</date>; thus,
        published <date>1904-1911</date>. </note>
+      <image n="no377">
+       <imgName>Sister Dora</imgName>
+       <imgDesc>"Poor little mites nestled against her bosom."</imgDesc>
+      </image>
+      <image n="no305">
+       <imgName>Sister Dora</imgName>
+      </image>
+      <image n="no336">
+       <imgName>Victoria and the Royal Family</imgName>
+      </image>
+      <image n="no306">
+       <imgName>Mary Carpenter</imgName>
+      </image>
+      <image n="no376">
+       <imgName>Mrs. Carpenter</imgName>
+       <imgDesc>"He was brought before Miss Carpenter."</imgDesc>
+      </image>
+      <image n="no304">
+       <imgName>Sarah Robinson</imgName>
+      </image>
+      <image n="no337">
+       <imgName>Sarah Robinson</imgName>
+       <imgDesc>"She was like a mother with her boys."</imgDesc>
+      </image>
+      <image n="no366">
+       <imgName></imgName>
+       <imgDesc>"He showed the letter to one of the sailors."</imgDesc>
+      </image>
       <image n="no300">
        <imgName>Baroness Burdett-Coutts</imgName>
       </image>
-      <image n="no301">
-       <imgName>Frances Cobbe</imgName>
-      </image>
       <image n="no338">
-       <imgName></imgName>
+       <imgName>Baroness Burdett-Coutts</imgName>
        <imgDesc>"It was a sight worth seeing."</imgDesc>
-      </image>
-      <image n="no302">
-       <imgName>Elizabeth Fry</imgName>
-      </image>
-      <image n="no340">
-       <imgName>Elizabeth Fry</imgName>
-       <imgDesc>"A passage was read from the Bible."</imgDesc>
       </image>
       <image n="no303">
        <imgName>Florence Nightingale</imgName>
@@ -7987,30 +8005,21 @@
        <imgName>Florence Nightingale</imgName>
        <imgDesc>"We could kiss her shadow as it fell."</imgDesc>
       </image>
-      <image n="no304">
-       <imgName>Sarah Robinson</imgName>
+      <image n="no302">
+       <imgName>Elizabeth Fry</imgName>
       </image>
-      <image n="no366">
-       <imgName></imgName>
-       <imgDesc>"He showed the letter to one of the sailors."</imgDesc>
+      <image n="no340">
+       <imgName>Elizabeth Fry</imgName>
+       <imgDesc>"A passage was read from the Bible."</imgDesc>
       </image>
       <image n="no341">
        <imgName></imgName>
        <imgDesc>"She raised her hands in prayer."</imgDesc>
       </image>
-      <image n="no305">
-       <imgName>Sister Dora</imgName>
+      <image n="no301">
+       <imgName>Frances Cobbe</imgName>
       </image>
-      <image n="no306">
-       <imgName>Mary Carpenter</imgName>
-      </image>
-      <image n="no337">
-       <imgName></imgName>
-       <imgDesc>"She was like a mother with her boys."</imgDesc>
-      </image>
-      <image n="no336">
-       <imgName>Victoria and the Royal Family</imgName>
-      </image>
+    
      </bibl>
 
      <bibl id="a186">
@@ -8608,25 +8617,25 @@
        <imgName>Joan of Arc</imgName>
        <imgDesc>The Burning of Jeanne.</imgDesc>
       </image>
+      <image n="no315">
+       <imgName>Margaret Beaufort</imgName>
+       <imgDesc>Margaret, Countess of Richmond.  Photo: Emery Walker.</imgDesc>
+      </image>
       <image n="no310">
        <imgName>Edward IV</imgName>
        <imgDesc>Edward IV.  From an original painting belonging to the Society of Antiquaries.</imgDesc>
-      </image>
-      <image n="no311">
-      <imgName>Elizabeth of York</imgName> 
-       <imgDesc>Elizabeth of York, Queen of Henry VII.  From an original picture in the National Portrait Gallery.</imgDesc>
-      </image>
-      <image n="no313">
-       <imgName>Henry VII</imgName> 
-       <imgDesc>Henry VII.  From an original picture in the National Portrait Gallery.</imgDesc>
       </image>
       <image n="no317">
        <imgName>Richard III</imgName>
        <imgDesc>Richard III.  From an original painting belonging to the Society of Antiquaries.</imgDesc>
       </image>
-      <image n="no315">
-        <imgName>Margaret Beaufort</imgName>
-       <imgDesc>Margaret, Countess of Richmond.  Photo: Emery Walker.</imgDesc>
+      <image n="no313">
+       <imgName>Henry VII</imgName> 
+       <imgDesc>Henry VII.  From an original picture in the National Portrait Gallery.</imgDesc>
+      </image>
+      <image n="no311">
+      <imgName>Elizabeth of York</imgName> 
+       <imgDesc>Elizabeth of York, Queen of Henry VII.  From an original picture in the National Portrait Gallery.</imgDesc>
       </image>
       <image n="no371">
       <imgName>Christ's College</imgName>
@@ -8636,7 +8645,6 @@
        <imgName>Lord Russell</imgName>
        <imgDesc>Lord Russell  Taking Leave of  his Children Previous to his Execution, 1683.  (After J. Bridges.)</imgDesc>
       </image>
-     
        <image n="no312">
        <imgName>Elizabeth Fry</imgName>
        <imgDesc>Elizabeth Fry.  Photo: Emery Walker.</imgDesc>
@@ -8644,6 +8652,18 @@
       <image n="no348">
        <imgName>Elizabeth Fry</imgName>
        <imgDesc>Mrs. Fry Reading to the Prisoners in Newgate, 1816.  (After the Picture by Jerrry Barrett.)</imgDesc>
+      </image>
+      <image n="no319"> 
+       <imgName>Mary Somerville</imgName>
+       <imgDesc>Mary Somerville.  Photo: Emery Walker.</imgDesc>
+      </image>
+      <image n="no373">
+       <imgName>Somerville College</imgName>
+       <imgDesc>Somerville College, Oxford.</imgDesc>
+      </image>
+      <image n="no374">
+       <imgName>Lucknow Gateway</imgName>
+       <imgDesc>The Gateway of the Residency, Lucknow, Showing Marks of Shot and Shell on the Brickwork.</imgDesc>
       </image>
       <image n="no316">
        <imgName>Florence Nightingale</imgName>
@@ -8657,17 +8677,9 @@
        <imgName>Florence Nightingale</imgName>
        <imgDesc>Florence Nightingale in One of the Wards of the Hospital at Scutari</imgDesc>
       </image>
-      <image n="no319"> 
-       <imgName>Mary Somerville</imgName>
-      <imgDesc>Mary Somerville.  Photo: Emery Walker.</imgDesc>
-      </image>
-      <image n="no373">
-       <imgName>Somerville College</imgName>
-       <imgDesc>Somerville College, Oxford.</imgDesc>
-      </image>
-      <image n="no374">
-       <imgName>Lucknow Gateway</imgName>
-       <imgDesc>The Gateway of the Residency, Lucknow, Showing Marks of Shot and Shell on the Brickwork.</imgDesc>
+      <image n="no308">
+       <imgName>Isabella Bird (Mrs. Bishop)</imgName>
+       <imgDesc>Mrs. Bishop (Isabella Bird). Photo by Elliot and Fry.</imgDesc>
       </image>
       <image n="no318">
        <imgName>Sister Dora</imgName>
@@ -8677,10 +8689,6 @@
        <imgName>Sister Dora Statue</imgName>
        <imgDesc>The Statue at Walsall</imgDesc>
       </image>
-      <image n="no308">
-       <imgName>Isabella Bird (Mrs. Bishop)</imgName>
-       <imgDesc>Mrs. Bishop (Isabella Bird). Photo by Elliot and Fry.</imgDesc>
-     </image>
       <image n="no320"> 
       <imgName>Queen Victoria</imgName>
        <imgDesc>Victoria R.</imgDesc>
@@ -8693,33 +8701,33 @@
        <imgName>Prince Albert</imgName>
        <imgDesc>Portrait of Prince Albert</imgDesc>
       </image>
-      <image n="no352">
-       <imgName>Queen Victoria</imgName>
-       <imgDesc>Marriage of H.R.H. Victoria, Princess Royal, to H.R.H. Prince Frederick William of Prussia.  (From the Portrait by John Philip at Windsor Castle.)</imgDesc>
+      <image n="no322">
+       <imgName>Viscount Melbourne</imgName> 
+       <imgDesc>Viscount Melbourne.  From a figure in Hayter's Reformed Parliament in the National Portrait Gallery.</imgDesc>
       </image>
       <image n="no351">
        <imgName>Queen Victoria</imgName>
        <imgDesc>The Marriage of Queen Victoria to H.R.H. Prince Albert.  (From the Picture by Sir George Hayter at Windsor Castle.)</imgDesc>
       </image>
-      <image n="no375">
-       <imgName>Victoria's Jubilee</imgName>
-       <imgDesc>Queen Victoria's Jubilee, 1897.  Photo: London Stereoscopic Co.</imgDesc>
+      <image n="no314">
+       <imgName>Lord Palmerston</imgName> 
+       <imgDesc>Lord Palmerston.  From a seated figure in Hayter's Reformed Parliament in the National Portrait Gallery.</imgDesc>
+      </image>
+      <image n="no323">
+       <imgName>William Gladstone</imgName> 
+       <imgDesc>William Ewert Gladstone.</imgDesc>
+      </image>
+      <image n="no352">
+       <imgName>Queen Victoria</imgName>
+       <imgDesc>Marriage of H.R.H. Victoria, Princess Royal, to H.R.H. Prince Frederick William of Prussia.  (From the Portrait by John Philip at Windsor Castle.)</imgDesc>
       </image>
       <image n="no309">
        <imgName>Benjamin Disraeli</imgName>
        <imgDesc>Benjamin Disraeli, Lord Beaconsfield</imgDesc>
       </image>
-      <image n="no314">
-       <imgName>Lord Palmerston</imgName> 
-       <imgDesc>Lord Palmerston.  From a seated figure in Hayter's Reformed Parliament in the National Portrait Gallery.</imgDesc>
-      </image>
-      <image n="no322">
-       <imgName>Viscount Melbourne</imgName> 
-       <imgDesc>Viscount Melbourne.  From a figure in Hayter's Reformed Parliament in the National Portrait Gallery.</imgDesc>
-      </image>
-      <image n="no323">
-       <imgName>William Gladstone</imgName> 
-       <imgDesc>William Ewert Gladstone.</imgDesc>
+      <image n="no375">
+       <imgName>Victoria's Jubilee</imgName>
+       <imgDesc>Queen Victoria's Jubilee, 1897.  Photo: London Stereoscopic Co.</imgDesc>
       </image>
      </bibl>
 
