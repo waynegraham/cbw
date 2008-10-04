@@ -7143,6 +7143,10 @@
        <imgName>Philippa Fawcett</imgName>
        <imgDesc> Mrs. Fawcett.  Lady Henry Somerset.  Mrs. Gladstone.  Baroness Burdett-Coutts.  Miss Sarah Robinson.</imgDesc>
       </image>
+      <image n="no364">
+       <imgName>Aldeburgh</imgName>
+       <imgDesc>Aldeburgh, the Birthplace of Mrs. Fawcett.</imgDesc>
+      </image>
       <image n="no297">
        <imgName>Agnes Weston</imgName>
        <imgDesc>Agnes L. Weston</imgDesc>
@@ -7187,6 +7191,10 @@
        <imgName>Mrs. Gladstone</imgName>
        <imgDesc>Mrs. Fawcett.  Lady Henry Somerset.  Mrs. Gladstone.  Baroness Burdett-Coutts.  Miss Sarah Robinson.</imgDesc>
       </image>
+      <image n="no365">
+       <imgName>Hawarden Castle</imgName>
+       <imgDesc>Hawarden Castle, the Birthplace of Mrs. Gladstone.  From Harper's Magazine.  Copyright, 1858, by Harper &amp; Brothers.</imgDesc>
+      </image>
       <image n="no331">
        <imgName>Sarah Robinson</imgName>
        <imgDesc>Mrs. Fawcett.  Lady Henry Somerset.  Mrs. Gladstone.  Baroness Burdett-Coutts.  Miss Sarah Robinson.</imgDesc>
@@ -7202,6 +7210,10 @@
       <image n="no334">
       <imgName>Baroness Burdett-Coutts</imgName>
       <imgDesc>The Baroness Burdett-Coutts Distributing Prizes for Essays of Kindness to Animals.</imgDesc> 
+      </image>
+      <image n="no363">
+       <imgName></imgName>
+       <imgDesc>Holly Lodge</imgDesc>
       </image>
       <image n="no360">
        <imgName></imgName>
@@ -7978,6 +7990,10 @@
       <image n="no304">
        <imgName>Sarah Robinson</imgName>
       </image>
+      <image n="no366">
+       <imgName></imgName>
+       <imgDesc>"He showed the letter to one of the sailors."</imgDesc>
+      </image>
       <image n="no341">
        <imgName></imgName>
        <imgDesc>"She raised her hands in prayer."</imgDesc>
@@ -8551,6 +8567,23 @@
        </title>; <title>
         <hi rend="italics">The Art of Living and Other Addresses to Girls</hi>
        </title>; biographies of male rulers. </note>
+     <image n="no367">
+      <imgName>Whitby Abbey</imgName>
+      <imgDesc>Whitby Abbey.  This was the successor of St. Hilda's building.  Photo: Frith &amp; Co.</imgDesc>
+     </image>
+      <image n="no368">
+       <imgName>The Ark</imgName>
+       <imgDesc>The Completion of the Ark.  From the Caedmon MS., circa A.D. 1000, in the Bodleian Library, Oxford.</imgDesc>
+      </image>
+      <image n="no369">
+       <imgName>Tournament</imgName>
+       <imgDesc>Tournament.</imgDesc>
+      </image>
+      <image></image>
+      <image n="no370">
+       <imgName>Knight and Lady</imgName>
+       <imgDesc>Knight Receiving His Helmet From Lady.</imgDesc>
+      </image>
       <image n="no324">
        <imgName>Joan of Arc</imgName>
        <imgDesc>Jeanne in Church.</imgDesc>
@@ -8594,7 +8627,16 @@
       <image n="no315">
         <imgName>Margaret Beaufort</imgName>
        <imgDesc>Margaret, Countess of Richmond.  Photo: Emery Walker.</imgDesc>
-       </image>
+      </image>
+      <image n="no371">
+      <imgName>Christ's College</imgName>
+       <imgDesc>Christ's College, Cambridge.  Photo: A.E. Walsham.</imgDesc>
+      </image>
+      <image n="no372">
+       <imgName>Lord Russell</imgName>
+       <imgDesc>Lord Russell  Taking Leave of  his Children Previous to his Execution, 1683.  (After J. Bridges.)</imgDesc>
+      </image>
+     
        <image n="no312">
        <imgName>Elizabeth Fry</imgName>
        <imgDesc>Elizabeth Fry.  Photo: Emery Walker.</imgDesc>
@@ -8618,7 +8660,15 @@
       <image n="no319"> 
        <imgName>Mary Somerville</imgName>
       <imgDesc>Mary Somerville.  Photo: Emery Walker.</imgDesc>
-      </image>  
+      </image>
+      <image n="no373">
+       <imgName>Somerville College</imgName>
+       <imgDesc>Somerville College, Oxford.</imgDesc>
+      </image>
+      <image n="no374">
+       <imgName>Lucknow Gateway</imgName>
+       <imgDesc>The Gateway of the Residency, Lucknow, Showing Marks of Shot and Shell on the Brickwork.</imgDesc>
+      </image>
       <image n="no318">
        <imgName>Sister Dora</imgName>
        <imgDesc>Sister Dora.  Photo: Mrs. Williams, Wolverhampton</imgDesc>
@@ -8650,6 +8700,10 @@
       <image n="no351">
        <imgName>Queen Victoria</imgName>
        <imgDesc>The Marriage of Queen Victoria to H.R.H. Prince Albert.  (From the Picture by Sir George Hayter at Windsor Castle.)</imgDesc>
+      </image>
+      <image n="no375">
+       <imgName>Victoria's Jubilee</imgName>
+       <imgDesc>Queen Victoria's Jubilee, 1897.  Photo: London Stereoscopic Co.</imgDesc>
       </image>
       <image n="no309">
        <imgName>Benjamin Disraeli</imgName>
