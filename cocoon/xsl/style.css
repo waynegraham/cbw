@@ -337,6 +337,12 @@ margin: 0px;
 cursor: pointer;
 }
 
+
+#image-wrap {
+background: #F7F7F7;
+font-size: 18pt;
+}
+
 div.illus {
 float: left;
 padding: 15px 5px;
@@ -444,12 +450,12 @@ border: none;
 }
 
 .bibl .jcarousel-skin-tango .jcarousel-clip-horizontal {
-height: 160px;
+height: 170px;
 width: 100%;
 }
 
 .bibl .jcarousel-skin-tango .jcarousel-container-horizontal ul {
-height: 160px;
+height: 170px;
 }
 
 .bibl .jcarousel-skin-tango .jcarousel-next-horizontal,

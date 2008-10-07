@@ -130,7 +130,7 @@
 												<ul class="image-carousel jcarousel-skin-tango">
 													<xsl:for-each select="image">
 														<li>
-															<a href="full/{@n}.jpg" class="thickbox" title="{./imgDesc}">
+															<a title="{./imgDesc}" onclick="displayIllus('{@n}', '{./imgDesc}')">
 																<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
 																<div class="illus"><xsl:value-of select="./imgName"/></div>
 															</a>
