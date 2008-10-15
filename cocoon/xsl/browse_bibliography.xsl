@@ -47,13 +47,11 @@
 					jQuery('.image-carousel').jcarousel();
 					var loc = document.location.href;
 					var section = loc.split('section=')[1];
-					if(section == 1) {
-						document.getElementById('early-link').className='selected';
+					document.getElementById(section).className='selected';
+					if(section == 1 || section &gt; 25) {
+						document.getElementById('select-link').className='selected';
 					} else if(section &gt; 1 &amp;&amp; section &lt; 26) {
-						document.getElementById('alpha-link').className='selected';
-						document.getElementById(section).className='selected';
-					} else if(section &gt; 25) {
-						document.getElementById('post-link').className='selected';
+						document.getElementById('anno-link').className='selected';
 					}
 					});
 				</script>
@@ -68,9 +66,8 @@
 					<tr>
 						<td>
 							<div id="subNav">
-								<a href="browse?section=1" id="early-link">Early Examples</a>
-								<a href="browse?section=2" id="alpha-link">Alphabetical, 1830-1940</a>
-								<a href="browse?section=26" id="post-link">Examples after 1940</a>
+								<a href="browse?section=2" id="anno-link">Annotated Bibliography, 1830-1940</a>
+								<a href="browse?section=1" id="select-link">Selective Examples</a>
 							</div>
 						</td>
 					</tr>
@@ -107,6 +104,16 @@
 							</div>
 						</td>
 					</tr>
+					</xsl:if>
+					<xsl:if test="$section = 1 or $section &gt; 25">
+						<tr>
+							<td>
+								<div id="page-nav">
+									<a href="browse?section=1" id="1">Examples before 1830</a>
+									<a href="browse?section=26" id="26">Examples after 1940</a>
+								</div>
+							</td>
+						</tr>						
 					</xsl:if>
 					<tr>
 						<td class="content">
