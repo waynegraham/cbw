@@ -24,6 +24,7 @@
 			<xsl:apply-templates select="editor"/>
 			<xsl:apply-templates select="imprint"/>
 			<xsl:apply-templates select="note"/>
+			<xsl:apply-templates select="image"/>
 		</doc>
 	</xsl:template>
 
@@ -92,6 +93,13 @@
 			</xsl:for-each>
 		</field>
 	</xsl:template>
-
+	
+	<xsl:template match="image">
+		<field name="image">
+			<xsl:for-each select="descendant-or-self::text()">
+				<xsl:value-of select="."/>
+			</xsl:for-each>
+		</field>
+	</xsl:template>
 
 </xsl:stylesheet>
