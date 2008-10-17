@@ -17,6 +17,7 @@
 	<xsl:param name="pubplace"/>
 	<xsl:param name="publisher"/>
 	<xsl:param name="note"/>
+	<xsl:param name="image"/>
 	<xsl:param name="rows"/>
 	<xsl:param name="start"/>
 	
@@ -81,14 +82,14 @@
 						<xsl:choose>
 							<xsl:when test="$numFound &gt; $rows and $start &gt; $previous">
 								<a class="pagingBtn"
-									href="?fulltext={$fulltext}&amp;author={$author}&amp;title={$title}&amp;editor={$editor}&amp;pubplace={$pubplace}&amp;publisher={$publisher}&amp;note={$note}&amp;rows={$rows}&amp;start={$previous}"
+									href="?fulltext={$fulltext}&amp;author={$author}&amp;title={$title}&amp;editor={$editor}&amp;pubplace={$pubplace}&amp;publisher={$publisher}&amp;note={$note}&amp;image={$image}&amp;rows={$rows}&amp;start={$previous}"
 									>previous</a>
 							</xsl:when>
 							<xsl:otherwise>previous</xsl:otherwise>
 						</xsl:choose> | <xsl:choose>
 							<xsl:when test="$numFound &gt; $rows and $next &lt; $numFound">
 								<a class="pagingBtn"
-									href="?fulltext={$fulltext}&amp;author={$author}&amp;title={$title}&amp;editor={$editor}&amp;pubplace={$pubplace}&amp;publisher={$publisher}&amp;note={$note}&amp;rows={$rows}&amp;start={$next}"
+									href="?fulltext={$fulltext}&amp;author={$author}&amp;title={$title}&amp;editor={$editor}&amp;pubplace={$pubplace}&amp;publisher={$publisher}&amp;note={$note}&amp;image={$image}&amp;rows={$rows}&amp;start={$next}"
 									>next</a>
 							</xsl:when>
 							<xsl:otherwise>next</xsl:otherwise>

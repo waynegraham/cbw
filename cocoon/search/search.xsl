@@ -19,6 +19,7 @@
 	<xsl:param name="pubplace"/>
 	<xsl:param name="publisher"/>
 	<xsl:param name="note"/>
+	<xsl:param name="image"/>
 
 	<xsl:template match="/">
 
@@ -38,7 +39,7 @@
 						<!-- if there are no search parameters, the search form is displayed; otherwise, hidden -->
 						<td class="content">
 							<xsl:if
-								test="not(string($fulltext)) and not(string($title)) and not(string($author)) and not(string($editor)) and not(string($pubplace)) and not(string($publisher)) and not(string($note))">
+								test="not(string($fulltext)) and not(string($title)) and not(string($author)) and not(string($editor)) and not(string($pubplace)) and not(string($publisher)) and not(string($note)) and not(string($image))">
 
 								<p>Use AND/OR/NOT to filter multiple search terms in the same field.</p>
 
@@ -73,6 +74,11 @@
 									<br/>
 									<input type="text" size="65" name="note"/>
 									<br/>
+									<label>Illustration titles and captions: </label>
+									<br/>
+									<input type="text" size="65" name="image"/>
+									<br/>
+=======
 									<label>Image names and captions: </label>
 									<br/>
 									<input type="text" size="65" name="image"/>
@@ -132,6 +138,13 @@
 								</xsl:if>
 							</xsl:variable>
 							
+							<xsl:variable name="image_search">
+								<xsl:if test="string($image)">
+									<xsl:text> AND image:</xsl:text>
+									<xsl:value-of select="$image"/>
+								</xsl:if>
+							</xsl:variable>
+							
 							<xsl:variable name="searchstring" >
 								<xsl:if test="string($fulltext)">
 									<xsl:value-of select="$fulltext"/>
@@ -160,12 +173,16 @@
 								<xsl:if test="string($note)">
 									<xsl:value-of select="$note"/>
 								</xsl:if>
+								<xsl:if test="string($image)">
+									<xsl:value-of select="$image"/>
+								</xsl:if>
+
 							</xsl:variable>
 
-							<!-- search string is concatted.  this string is passed to SOLR after select?q=[* TO *] and before the row and start params -->
+							<!-- search string is concatenated.  this string is passed to SOLR after select?q=[* TO *] and before the row and start params -->
 							<xsl:variable name="search_text">
 								<xsl:value-of
-									select="concat($fulltext_search,$title_search,$author_search,$editor_search,$pubplace_search,$publisher_search,$note_search)"
+									select="concat($fulltext_search,$title_search,$author_search,$editor_search,$pubplace_search,$publisher_search,$note_search,$image_search)"
 								/>
 							</xsl:variable>
 							<xsl:if test="$search_text">
