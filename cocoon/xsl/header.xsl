@@ -39,7 +39,7 @@
 			</span> &#160; <span class="nav-item">
 				<a href="userguide" id="guide-link">User's Guide</a>
 			</span> &#160; <span class="nav-item">
-				<a href="browse?section=1" id="browse-link">Browse the Bibliography</a>
+				<a href="browse?section=2" id="browse-link">Browse the Bibliography</a>
 			</span> &#160; <span class="nav-item">
 				<a href="search" id="search-link">Search the Bibliography</a>
 			</span> &#160; <span class="nav-item">
