@@ -78,12 +78,6 @@
 									<br/>
 									<input type="text" size="65" name="image"/>
 									<br/>
-=======
-									<label>Image names and captions: </label>
-									<br/>
-									<input type="text" size="65" name="image"/>
-									<br/>
-									
 									<input type="submit" id="searchBtn" name="action" value="Submit"
 									/>
 									
