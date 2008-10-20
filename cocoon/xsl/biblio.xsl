@@ -141,9 +141,9 @@
 
 	<!--This does bibliography stuff-->
 	<xsl:template match="bibl">
-		<div class="bibl">
+		<!--  <div class="bibl">-->
 			<xsl:apply-templates/>
-		</div>
+		<!-- </div>-->
 	</xsl:template>
 
 	<xsl:template match="bibl/author">
