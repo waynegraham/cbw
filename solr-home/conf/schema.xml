@@ -214,6 +214,7 @@
 		<field name="publisher" type="text" indexed="true" multiValued="true" stored="true"/>
 		<field name="date" type="text" indexed="true" multiValued="true" stored="true"/>
 		<field name="note" type="text" indexed="true" multiValued="true" stored="true"/>
+	  <field name="image" type="text" indexed="true" multiValued="true" stored="true"/>
 		
 
 		<!-- catchall field, containing all other searchable text fields (implemented
@@ -256,6 +257,7 @@
 	<copyField source="publisher" dest="fulltext"/>
 	<copyField source="date" dest="fulltext"/>
 	<copyField source="note" dest="fulltext"/>
+  <copyField source="image" dest="fulltext"/>
 	<copyField source="ref" dest="fulltext"/>
 
 	<!-- Similarity is the scoring routine for each document vs. a query.
