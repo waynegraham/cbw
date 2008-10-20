@@ -159,6 +159,7 @@
 								</xsl:when>
 								<!-- otherwise, it is applied to the bibl with an id of $bibl_id -->
 								<xsl:otherwise>
+									<div class="bibl">
 									<xsl:apply-templates select="//bibl[@id=$bibl_id]"/>
 									<xsl:if test="//bibl[@id=$bibl_id]/image">
 										<ul class="image-carousel jcarousel-skin-tango">
@@ -172,6 +173,16 @@
 											</xsl:for-each>
 										</ul>
 									</xsl:if>
+										<br clear="all"/>
+										<br/>
+										<a
+											href="http://www.worldcat.org/search?q=%22{title/hi}%22+au%3A{author/name[@type='last']}"
+											>Search OCLC WorldCat for this title.</a>
+										<br/>
+										<a
+											href="http://books.google.com/books?as_q=%22{title/hi}%22&amp;as_auth={author/name[@type='last']}"
+											>Search Google Books for this title.</a>
+									</div>
 								</xsl:otherwise>
 							</xsl:choose>
 						</td>
