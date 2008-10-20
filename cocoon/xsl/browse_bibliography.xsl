@@ -160,7 +160,7 @@
 								<!-- otherwise, it is applied to the bibl with an id of $bibl_id -->
 								<xsl:otherwise>
 									<xsl:apply-templates select="//bibl[@id=$bibl_id]"/>
-									<xsl:if test="image">
+									<xsl:if test="//bibl[@id=$bibl_id]/image">
 										<ul class="image-carousel jcarousel-skin-tango">
 											<xsl:for-each select="image">
 												<li>
