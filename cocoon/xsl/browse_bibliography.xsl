@@ -163,7 +163,7 @@
 									<xsl:apply-templates select="//bibl[@id=$bibl_id]"/>
 									<xsl:if test="//bibl[@id=$bibl_id]/image">
 										<ul class="image-carousel jcarousel-skin-tango">
-											<xsl:for-each select="image">
+											<xsl:for-each select="//bibl[@id=$bibl_id]/image">
 												<li>
 													<a title="{./imgDesc}" onclick="displayIllus('{@n}', '{./imgDesc}')">
 														<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
@@ -176,11 +176,11 @@
 										<br clear="all"/>
 										<br/>
 										<a
-											href="http://www.worldcat.org/search?q=%22{title/hi}%22+au%3A{author/name[@type='last']}"
+											href="http://www.worldcat.org/search?q=%22{//bibl[@id=$bibl_id]/title/hi}%22+au%3A{//bibl[@id=$bibl_id]/author/name[@type='last']}"
 											>Search OCLC WorldCat for this title.</a>
 										<br/>
 										<a
-											href="http://books.google.com/books?as_q=%22{title/hi}%22&amp;as_auth={author/name[@type='last']}"
+											href="http://books.google.com/books?as_q=%22{//bibl[@id=$bibl_id]/title/hi}%22&amp;as_auth={//bibl[@id=$bibl_id]/author/name[@type='last']}"
 											>Search Google Books for this title.</a>
 									</div>
 								</xsl:otherwise>
