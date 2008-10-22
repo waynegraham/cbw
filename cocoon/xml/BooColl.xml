@@ -26929,7 +26929,9 @@
       <imprint>
        <pubPlace>Garden City, NY:</pubPlace>
        <publisher>Doubleday, Doran,</publisher>
-       <date>1942;</date>
+       <date>1942.</date>
+      </imprint>
+      <imprint>
        <pubPlace>Freeport, NY:</pubPlace>
        <publisher>Books For Libraries Press,</publisher>
        <date>1970.</date>
@@ -26952,7 +26954,9 @@
        <pubPlace> Chicago: </pubPlace>
        <publisher>A. Whitman, </publisher>
       <date>1932;</date>
-       <date>1942;</date>
+       <date>1942.</date>
+      </imprint>
+      <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>A. Whitman,</publisher>
        <date>1935.</date>
@@ -26977,10 +26981,14 @@
       <imprint>
        <pubPlace> London: </pubPlace>
        <publisher>Macmillan, </publisher>
-       <date>1989;</date>
-       <pubPlace>Savage, MD:</pubPlace>
+       <date>1989.</date>
+       </imprint>
+      <imprint> 
+      <pubPlace>Savage, MD:</pubPlace>
        <publisher>Barnes and Noble Books,</publisher>
-       <date>1989;</date>
+       <date>1989.</date>
+      </imprint>
+      <imprint>
        <pubPlace>New Delhi:</pubPlace>
        <publisher>Orient Longman,</publisher>
        <date>1995.</date>
@@ -26997,7 +27005,9 @@
       <imprint>
        <pubPlace>New York: </pubPlace>
        <publisher>Farrar Straus Giroux,</publisher>
-       <date> 1996;</date>
+       <date> 1996.</date>
+      </imprint>
+      <imprint>
        <publisher>Noon Day Press,</publisher>
        <date>1996;</date>
        <date>1998.</date>
@@ -27036,6 +27046,23 @@
        <hi>It All Started with Eve.</hi>
       </title>
       <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>McGraw-Hill,</publisher>
+       <date>1956.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Hammond,</publisher>
+       <date>1956;</date>
+       <date>1957;</date>
+       <date>1959.</date>
+      </imprint>
+      <imprint>
+       <publisher>New American Library,</publisher>
+       <date>1956;</date>
+       <date>1966.</date>
+      </imprint>
+      <imprint>
        <pubPlace>Boston: </pubPlace>
        <publisher>G. K. Hall, </publisher>
        <date>1976.</date>
@@ -27044,21 +27071,6 @@
 
      <bibl id="p008">
       <idno>p008</idno>
-      <author>
-       <name>Arts Council of Great Britain.</name>
-      </author>
-      <title type="ref">
-       <hi>Women Artists from the Netherlands.</hi>
-      </title>
-      <imprint>
-       <pubPlace>London: </pubPlace>
-       <publisher>Arts Council of Great Britain, </publisher>
-       <date>1949.</date>
-      </imprint>
-     </bibl>
-
-     <bibl id="p009">
-      <idno>p009</idno>
       <author><name type="last">Ashby,</name><name type="first">Ruth</name>, and <name type="first"
         >Deborah</name>
        <name type="last">Gore Ohrn, eds.</name></author>
@@ -27069,10 +27081,26 @@
        <publisher>Viking Penguin, </publisher>
        <date>1995.</date>
       </imprint>
+      <note>TOC: Queen Hatshepsut; Sappho; Aspasia; Cleopatra; The Trung sisters; Boudica; Hypatia; Empress Theodora; Wu Chao; 
+       Murasaki Shikibu; Sultana Razia; Christine de Pizan; Joan of Arc; Queen Isabella I; La Malinche; Catherine de Médicis; Queen Elizabeth I; 
+       Mary Queen of Scots; Artemisia Gentileschi; Judith Leyster; Sor Juana Ines de la Cruz; Catherine the Great; Mary Wollstonecraft; 
+       Deborah Sampson; Jane Austen; Emma Willard; Sacajawea; Sarah Grimké and Angelina Grimké; La Pola; Sojourner Truth; Catharine Beecher; 
+       Dorothea Dix; Margaret Fuller; Harriet Beecher Stowe; Harriet Tubman; Elizabeth Cady Stanton; Charlotte Brontë and Emily Brontë; Maria Mitchell; 
+       Clara Schumann; Queen Victoria; Susan B. Anthony; Florence Nightingale; Elizabeth Blackwell; Clara Barton; Marie Antoinette; Brown Blackwell; 
+       Mary Harris "Mother" Jones; Lakshmi Bai; Emily Dickinson; Louisa May Alcott; Tz'u-hsi; Queen Liliuokalani; Sarah Bernhardt; Mary Cassatt; 
+       Sarah Winnemucca; Carry Nation; Louisa Lawson; Olive Schreiner; Fannie Farmer; Charlotte Perkins Gilman; Jane Addams; Ida B. Wells; 
+       Beatrix Potter; Marie Curie; Sophia Hayden; Alexandra David-Neel; Emma Goldman; Rosa Luxemburg; Maria Montessori; Alexandra Kollontai; 
+       Qiu Jin; Mary McLeod Bethune; Huda Shaarawi; Margaret Sanger; Helen Keller; Anna Pavlova; Virginia Woolf; Rose Schneiderman; 
+       Gabrielle "Coco" Chanel; Eleanor Roosevelt; Georgia O'Keeffe; Gabriela Mistral; Ichikawa Fusae; Bessie Smith; Martha Graham; Marian Anderson; 
+       Amelia Earhart; Golda Meir; Zora Neale Hurston; Margaret Mead; Margaret Bourke-White; Greta Garbo; Frida Kahlo; Rachel Carson; 
+       Simone de Beauvoir; Mother Teresa; Mildred "Babe" Didrikson; Mary Leakey; Indira Gandhi; Jessie Lopez De La Cruz; Eva Perón; Betty Friedan; 
+       Diane Arbus; Shirley Chisholm; Margaret Thatcher; Nguyen Thi Binh; Jacqueline Kennedy Onassis; Violeta Chamorro; Toni Morrison; Corazon Aquino; 
+       Barbara Jordan; Valentina Tereshkova; Marian Wright Edelman; Wilma Rudolph; Billie Jean King; Mairead Corrigan and Betty Williams; 
+       Antonia Novello; Aung San Suu Kyi; Wilma Mankiller; Eka Esu-Williams; Rigoberta Menchú.</note>
      </bibl>
 
-     <bibl id="p010">
-      <idno>p010</idno>
+     <bibl id="p009">
+      <idno>p009</idno>
       <author>
        <name type="last">Bainton,</name>
        <name type="first">Roland Herbert. </name>
@@ -27088,7 +27116,14 @@
       <imprint>
        <pubPlace>Boston:</pubPlace>
        <publisher>Beacon Press,</publisher>
+       <date>1973;</date>
        <date>1975.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Lima, OH:</pubPlace>
+       <publisher>Academic Renewal Press,</publisher>
+       <date>1973;</date>
+       <date>2001.</date>
       </imprint>
      </bibl>
 
