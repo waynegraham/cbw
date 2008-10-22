@@ -26929,7 +26929,10 @@
       <imprint>
        <pubPlace>Garden City, NY:</pubPlace>
        <publisher>Doubleday, Doran,</publisher>
-       <date>1942.</date>
+       <date>1942;</date>
+       <pubPlace>Freeport, NY:</pubPlace>
+       <publisher>Books For Libraries Press,</publisher>
+       <date>1970.</date>
       </imprint>
       <note>TOC: From the Apocrypha: Judith; The Mother of the Seven Martyrs; The Graeco-Roman
        Period: Queen Salome Alexandra; Mariamne, the Hasmonean; Helena, Queen and Proselyte;
@@ -26948,8 +26951,20 @@
       <imprint>
        <pubPlace> Chicago: </pubPlace>
        <publisher>A. Whitman, </publisher>
-       <date>1942.</date>
+      <date>1932;</date>
+       <date>1942;</date>
+       <pubPlace>New York:</pubPlace>
+       <publisher>A. Whitman,</publisher>
+       <date>1935.</date>
       </imprint>
+      <note>TOC:Jane Addams; Louisa May Alcott ; Susan B. Anthony ;  Amelia Barr ; Clara Barton ; Sara Bernhardt ;
+       Josephine Bonaparte ; Rosa Bonheur ; Charlotte Bronte ; Elizabeth B. Browning ; Alice Cary ; Phoebe Cary ; Cleopatra ; Fanny Crosby --
+       Charlotte Cushman ; Virginia Dare ; Madam De Stael ; Mary Baker Eddy ; George Eliot ; Esther ; Fanny Fern ; Barbara Frietchie; 
+       Lucy Page Gaston; Felicia D. Hemans; Julia Ward Howe;  Anne Hutchinson;  Hypatia; Jean Ingelow; Queen Isabella ; 
+       Helen Hunt Jackson; Joan of Arc; Helen Keller; Lucy Larcom; Jenny Lind; Mary Lyon; Marie Antoinette; Mary, Queen of Scots; 
+       Maria Mitchell; Lucretia Mott; Florence Nightingale; Ouida; Elizabeth Stuart Phelps; Molly Pitcher; Pocahontas; Adelaide Proctor; 
+       Betsy Ross; Ruth; Sacajawea; Anne Howard Shaw; Kate Shelley; Elizabeth Cady Stanton; Harriet Beecher Stowe; Celia Thaxter; 
+       Queen Victoria; Martha Washington; Emma Willard; Frances E. Willard; Ella Flagg Young. </note>
      </bibl>
 
      <bibl id="p003">
@@ -26962,8 +26977,15 @@
       <imprint>
        <pubPlace> London: </pubPlace>
        <publisher>Macmillan, </publisher>
-       <date>1989.</date>
+       <date>1989;</date>
+       <pubPlace>Savage, MD:</pubPlace>
+       <publisher>Barnes and Noble Books,</publisher>
+       <date>1989;</date>
+       <pubPlace>New Delhi:</pubPlace>
+       <publisher>Orient Longman,</publisher>
+       <date>1995.</date>
       </imprint>
+      <note>TOC: Mary Wollstonecraft; Dorothy Wordsworth; Mary Shelley </note>
      </bibl>
 
      <bibl id="p004">
@@ -26975,13 +26997,15 @@
       <imprint>
        <pubPlace>New York: </pubPlace>
        <publisher>Farrar Straus Giroux,</publisher>
-       <date> 1996.</date>
+       <date> 1996;</date>
+       <publisher>Noon Day Press,</publisher>
+       <date>1996;</date>
+       <date>1998.</date>
       </imprint>
      </bibl>
 
      <bibl id="p005">
       <idno>p005</idno>
-
       <title type="ref">
        <hi rend="italics">American Women at the Court of St. James's.</hi>
       </title>
@@ -26991,8 +27015,21 @@
        <date> 1942.</date>
       </imprint>
      </bibl>
-
+     
      <bibl id="p006">
+      <idno>p006</idno>
+      <author><name type="last">Anisoara,</name><name type="first">Stan</name>.</author>
+      <title type="ref">
+       <hi>They Crossed Mountains and Oceans.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York: </pubPlace>
+       <publisher>Frederick-Williams Press, </publisher>
+       <date>1947.</date>
+      </imprint>
+     </bibl>
+
+     <bibl id="p007">
       <idno>p006</idno>
       <author><name type="last">Armour,</name><name type="first">Richard Willard</name>.</author>
       <title type="ref">
@@ -27005,8 +27042,8 @@
       </imprint>
      </bibl>
 
-     <bibl id="p007">
-      <idno>p007</idno>
+     <bibl id="p008">
+      <idno>p008</idno>
       <author>
        <name>Arts Council of Great Britain.</name>
       </author>
@@ -27020,8 +27057,8 @@
       </imprint>
      </bibl>
 
-     <bibl id="p008">
-      <idno>p008</idno>
+     <bibl id="p009">
+      <idno>p009</idno>
       <author><name type="last">Ashby,</name><name type="first">Ruth</name>, and <name type="first"
         >Deborah</name>
        <name type="last">Gore Ohrn, eds.</name></author>
@@ -27034,8 +27071,8 @@
       </imprint>
      </bibl>
 
-     <bibl id="p009">
-      <idno>p009</idno>
+     <bibl id="p010">
+      <idno>p010</idno>
       <author>
        <name type="last">Bainton,</name>
        <name type="first">Roland Herbert. </name>
@@ -27055,8 +27092,8 @@
       </imprint>
      </bibl>
 
-     <bibl id="p010">
-      <idno>p010</idno>
+     <bibl id="p011">
+      <idno>p011</idno>
       <author>
        <name type="last">Bainton,</name>
        <name type="first">Roland Herbert. </name>
@@ -27071,8 +27108,8 @@
       </imprint>
      </bibl>
 
-     <bibl id="p011">
-      <idno>p011</idno>
+     <bibl id="p012">
+      <idno>p012</idno>
       <author>
        <name type="last">Bannerman,</name>
        <name type="first">Jean MacKay. </name>
@@ -27086,8 +27123,9 @@
        <date>1967.</date>
       </imprint>
      </bibl>
-     <bibl id="p012">
-      <idno>p012</idno>
+     
+     <bibl id="p013">
+      <idno>p013</idno>
       <author>
        <name type="last">Bennett,</name>
        <name type="first">Henry Stanley. </name>
@@ -27102,8 +27140,8 @@
       </imprint>
      </bibl>
 
-     <bibl id="p013">
-      <idno>p013</idno>
+     <bibl id="p014">
+      <idno>p014</idno>
       <author>
        <name type="last">Benstock,</name>
        <name type="first">Shari. </name>
@@ -27118,8 +27156,8 @@
       </imprint>
      </bibl>
 
-     <bibl id="p014">
-      <idno>p014</idno>
+     <bibl id="p015">
+      <idno>p015</idno>
       <author><name type="last">Bernikow,</name><name type="first">Louise, </name>with
         <name>National Women's History Project.</name></author>
       <title type="ref">
@@ -27132,8 +27170,8 @@
       </imprint>
      </bibl>
 
-     <bibl id="p015">
-      <idno>p015</idno>
+     <bibl id="p016">
+      <idno>p016</idno>
       <author><name type="last">Biddle,</name><name type="first">Gertrude, </name> and <name
         type="first">Sarah Dickson</name>
        <name type="last">Lowrie.</name></author>
@@ -27147,8 +27185,8 @@
       </imprint>
      </bibl>
 
-     <bibl id="p016">
-      <idno>p016</idno>
+     <bibl id="p017">
+      <idno>p017</idno>
       <author>
        <name type="last">Black,</name>
        <name type="first">Helen.</name>
@@ -27160,7 +27198,6 @@
        <pubPlace>[Dunedin, N.Z.]: </pubPlace>
        <publisher>Printed by John McIndoe, </publisher>
        <date>1947.</date>
-
       </imprint>
       <note>See possible connection with Helen C. Black, entery 82; possibly a memoir or
       biography.</note>
@@ -27168,8 +27205,8 @@
 
 
 
-     <bibl id="p017">
-      <idno>p017</idno>
+     <bibl id="p018">
+      <idno>p018</idno>
       <author><name type="last">Blackburne</name>, <name type="first">Neville</name>.</author>
       <title type="ref">
        <hi rend="italics">Ladies' Chain.</hi>
@@ -27182,8 +27219,8 @@
       <note> </note>
      </bibl>
 
-     <bibl id="p018">
-      <idno>p018</idno>
+     <bibl id="p019">
+      <idno>p019</idno>
       <author><name type="last">Boruff</name>, <name type="first">Mrs. Blanche Foster</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of Indiana: A Work for Newspaper and Library Reference.</hi>
@@ -27196,8 +27233,8 @@
       <note> </note>
      </bibl>
 
-     <bibl id="p019">
-      <idno>p019</idno>
+     <bibl id="p020">
+      <idno>p020</idno>
       <author><name type="last">Brink</name>, <name type="first">J. R.</name></author>
       <title type="ref">
        <hi rend="italics">Female Scholars: a tradition of learned women before 1800.</hi>
@@ -27210,8 +27247,8 @@
       <note> </note>
      </bibl>
 
-     <bibl id="p020">
-      <idno>p020</idno>
+     <bibl id="p021">
+      <idno>p021</idno>
       <author><name type="last">Buckmaster</name>, <name type="first">Henrietta (pseudonym)</name>.</author>
       <title type="ref">
        <hi rend="italics">Women Who Shaped History.</hi>
@@ -27224,9 +27261,8 @@
       <note> </note>
      </bibl>
 
-     <bibl id="p021">
-      <idno>p021</idno>
-
+     <bibl id="p022">
+      <idno>p022</idno>
       <title type="ref">
        <hi rend="italics">Career Women of America.</hi>
       </title>
@@ -27238,8 +27274,8 @@
       <note> </note>
      </bibl>
 
-     <bibl id="p022">
-      <idno>p022</idno>
+     <bibl id="p023">
+      <idno>p023</idno>
       <author><name type="last">Carpenter</name>, <name type="first">Minnie Lindsay Rowell</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of the Flag.</hi>
@@ -27252,8 +27288,8 @@
       <note> </note>
      </bibl>
 
-     <bibl id="p023">
-      <idno>p023</idno>
+     <bibl id="p024">
+      <idno>p024</idno>
       <author><name type="last">Castillo-Speed</name>, <name type="first">Lillian</name>.</author>
       <title type="ref">
        <hi rend="italics">Latina: Women’s Voices from the Borderlands.</hi>
@@ -27266,8 +27302,8 @@
       <note> </note>
      </bibl>
 
-     <bibl id="p024">
-      <idno>p024</idno>
+     <bibl id="p025">
+      <idno>p025</idno>
       <author><name type="last">Caws,</name>
        <name type="first">Mary Ann</name>.</author>
       <title type="ref">
@@ -27281,8 +27317,8 @@
       <note> </note>
      </bibl>
 
-     <bibl id="p025">
-      <idno>p025</idno>
+     <bibl id="p026">
+      <idno>p026</idno>
       <author><name type="last">Chadwick,</name>
        <name type="first">Whitney,</name> and <name type="first">Isabelle</name>
        <name type="last">de Courtivron</name>, eds.</author>
@@ -27297,8 +27333,8 @@
       <note> </note>
      </bibl>
 
-     <bibl id="p026">
-      <idno>p026</idno>
+     <bibl id="p027">
+      <idno>p027</idno>
       <author>
        <name type="last">Chicago,</name>
        <name type="first">Judy.</name>
@@ -27314,8 +27350,8 @@
       <note> </note>
      </bibl>
 
-     <bibl id="p027">
-      <idno>p027</idno>
+     <bibl id="p028">
+      <idno>p028</idno>
       <author>
        <name type="last">Churchill,</name>
        <name type="first">Caryl.</name>
@@ -27332,8 +27368,8 @@
      </bibl>
 
 
-     <bibl id="p028">
-      <idno>p028</idno>
+     <bibl id="p029">
+      <idno>p029</idno>
       <author><name type="last">Coxhead</name>, <name type="first">Elizabeth.</name></author>
       <title type="ref">
        <hi rend="italics">Daughters of Erin: five women of the Irish renascence. </hi>
@@ -27346,8 +27382,8 @@
       <note> </note>
      </bibl>
 
-     <bibl id="p029">
-      <idno>p029</idno>
+     <bibl id="p030">
+      <idno>p030</idno>
       <author><name type="last">Crane</name>, <name type="first">Louise.</name></author>
       <title type="ref">
        <hi rend="italics">Ms. Africa: Profiles of Modern African Women. </hi>
