@@ -27028,7 +27028,7 @@
      
      <bibl id="p006">
       <idno>p006</idno>
-      <author><name type="last">Anisoara,</name><name type="first">Stan</name>.</author>
+      <author><name type="last">Anisoara</name>,<name type="first">Stan</name>.</author>
       <title type="ref">
        <hi>They Crossed Mountains and Oceans.</hi>
       </title>
@@ -27041,7 +27041,7 @@
 
      <bibl id="p007">
       <idno>p006</idno>
-      <author><name type="last">Armour,</name><name type="first">Richard Willard</name>.</author>
+      <author><name type="last">Armour</name>,<name type="first">Richard Willard</name>.</author>
       <title type="ref">
        <hi>It All Started with Eve.</hi>
       </title>
@@ -27071,9 +27071,9 @@
 
      <bibl id="p008">
       <idno>p008</idno>
-      <author><name type="last">Ashby,</name><name type="first">Ruth</name>, and <name type="first"
+      <author><name type="last">Ashby</name>,<name type="first">Ruth</name> and <name type="first"
         >Deborah</name>
-       <name type="last">Gore Ohrn, eds.</name></author>
+       <name type="last">Gore Ohrn</name>,eds.</author>
       <title type="ref">
        <hi>Herstory.</hi>
       </title> Introduction by Gloria Steinem. <imprint>
@@ -27102,8 +27102,8 @@
      <bibl id="p009">
       <idno>p009</idno>
       <author>
-       <name type="last">Bainton,</name>
-       <name type="first">Roland Herbert. </name>
+       <name type="last">Bainton</name>,
+       <name type="first">Roland Herbert </name>.
       </author>
       <title type="ref">
        <hi>Women of the Reformation in France and England.</hi>
@@ -27125,13 +27125,39 @@
        <date>1973;</date>
        <date>2001.</date>
       </imprint>
+      <note>TOC: Marguerite of Navarre ; Jeanne d'Albret; Minor sketches : Catherine de Bourbon, Éléanore de Roye, Idelette de Bure ; Charlotte de Bourbon ; Louis de Coligny; 
+       Catherine of Aragon ; Anne Boleyn ; Minor sketches : the negligible wives of Henry VIII ; Catherine Parr ; Lady Jane Grey ; Mary I ; John Foxe and the women martyrs ; Elizabeth I ; 
+       Catherine Willoughby, the Duchess of Suffolk.
+      </note>
+     </bibl>
+
+     <bibl id="p010">
+      <idno>p010</idno>
+      <author>
+       <name type="last">Bainton</name>,
+       <name type="first">Roland Herbert </name>.
+      </author>
+      <title type="ref">
+       <hi>Women of the Reformation in Germany and Italy.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Minneapolis: </pubPlace>
+       <publisher>Augsburg, </publisher>
+       <date>1971.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Boston:</pubPlace>
+       <publisher>Beacon Press,</publisher>
+       <date>1974;</date>
+       <date>1975.</date>
+      </imprint>
      </bibl>
 
      <bibl id="p011">
       <idno>p011</idno>
       <author>
-       <name type="last">Bainton,</name>
-       <name type="first">Roland Herbert. </name>
+       <name type="last">Bainton</name>,
+       <name type="first">Roland Herbert </name>.
       </author>
       <title type="ref">
        <hi>Women of the Reformation : From Spain to Scandinavia.</hi>
@@ -27146,8 +27172,8 @@
      <bibl id="p012">
       <idno>p012</idno>
       <author>
-       <name type="last">Bannerman,</name>
-       <name type="first">Jean MacKay. </name>
+       <name type="last">Bannerman</name>,
+       <name type="first">Jean MacKay </name>.
       </author>
       <title type="ref">
        <hi>Leading Ladies, Canada 1639-1967.</hi>
@@ -27157,29 +27183,36 @@
        <publisher>Carrswood, </publisher>
        <date>1967.</date>
       </imprint>
+      <imprint>
+       <pubPlace>Belleville, ON:</pubPlace>
+       <publisher>Mika Pub.,</publisher>
+       <date>1977.</date>
+      </imprint>
      </bibl>
      
      <bibl id="p013">
       <idno>p013</idno>
       <author>
-       <name type="last">Bennett,</name>
-       <name type="first">Henry Stanley. </name>
+       <name type="last">Baxter</name>,
+       <name type="first">Richard</name>.
       </author>
       <title type="ref">
-       <hi>Six Medieval Men and Women. </hi>
+       <hi>Guilty Women. </hi>
       </title>
       <imprint>
-       <pubPlace>Cambridge: </pubPlace>
-       <publisher>Atheneum, </publisher>
-       <date>1955.</date>
+       <pubPlace>London: </pubPlace>
+       <publisher>Quality Press, </publisher>
+       <date>1941;.</date>
+       <date>1942;</date>
+       <date>1943.</date>
       </imprint>
      </bibl>
-
+     
      <bibl id="p014">
       <idno>p014</idno>
       <author>
-       <name type="last">Benstock,</name>
-       <name type="first">Shari. </name>
+       <name type="last">Benstock</name>,
+       <name type="first">Shari </name>.
       </author>
       <title type="ref">
        <hi>Women of the Left Bank: Paris, 1900-1940. </hi>
@@ -27187,14 +27220,25 @@
       <imprint>
        <pubPlace>Austin, Texas: </pubPlace>
        <publisher>University of Texas Press, </publisher>
-       <date>1986.</date>
+       <date>1986;</date>
+       <date>1987;</date>
+       <date>1988;</date>
+       <date>1997;</date>
+       <date>2002.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Virago,</publisher>
+       <date>1986;</date>
+       <date>1987;</date>
+       <date>1994.</date>
       </imprint>
      </bibl>
 
      <bibl id="p015">
       <idno>p015</idno>
-      <author><name type="last">Bernikow,</name><name type="first">Louise, </name>with
-        <name>National Women's History Project.</name></author>
+      <author><name type="last">Bernikow</name>,<name type="first">Louise </name>, with the
+        <name>National Women's History Project</name>.</author>
       <title type="ref">
        <hi>The American Women’s Almanac: An Inspiring and Irreverent Women’s History. </hi>
       </title>
@@ -27207,9 +27251,9 @@
 
      <bibl id="p016">
       <idno>p016</idno>
-      <author><name type="last">Biddle,</name><name type="first">Gertrude, </name> and <name
+      <author><name type="last">Biddle</name>,<name type="first">Gertrude </name> and <name
         type="first">Sarah Dickson</name>
-       <name type="last">Lowrie.</name></author>
+       <name type="last">Lowrie</name>.</author>
       <title type="ref">
        <hi>Notable Women of Pennsylvania. </hi>
       </title>
@@ -27222,26 +27266,6 @@
 
      <bibl id="p017">
       <idno>p017</idno>
-      <author>
-       <name type="last">Black,</name>
-       <name type="first">Helen.</name>
-      </author>
-      <title type="ref">
-       <hi>Sunshine and Shadow. </hi>
-      </title>
-      <imprint>
-       <pubPlace>[Dunedin, N.Z.]: </pubPlace>
-       <publisher>Printed by John McIndoe, </publisher>
-       <date>1947.</date>
-      </imprint>
-      <note>See possible connection with Helen C. Black, entery 82; possibly a memoir or
-      biography.</note>
-     </bibl>
-
-
-
-     <bibl id="p018">
-      <idno>p018</idno>
       <author><name type="last">Blackburne</name>, <name type="first">Neville</name>.</author>
       <title type="ref">
        <hi rend="italics">Ladies' Chain.</hi>
@@ -27253,9 +27277,48 @@
       </imprint>
       <note> </note>
      </bibl>
-
+     
+     <bibl id="p018">
+      <idno>p018</idno>
+      <author><name type="last">Blackman</name>, <name type="first">Lucy Worthington</name>.</author>
+      <title type="ref">
+       <hi rend="italics">The Women of Florida.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Jacksonville, FL:</pubPlace>
+       <publisher>Southern Historical Pub. Assoc.,</publisher>
+       <date>1940.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
      <bibl id="p019">
       <idno>p019</idno>
+      <author><name type="last">Bolton</name>, <name type="first">Sarah Knowles</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Lives of Girls Who Became Famous.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Thomas Y. Crowell,</publisher>
+       <date>1886;</date>
+       <date>1914;</date>
+       <date>1923;</date>
+       <date>1925?;</date>
+       <date>1930;</date>
+       <date>1936;</date>
+       <date>1938;</date>
+       <date>1939;</date>
+       <date>1941;</date>
+       <date>1949.</date>
+      </imprint>
+      <note>TOC: Jane Addams; Louisa May Alcott; Marian Andersen; Susan B. Anthony; Clara Barton; Elizabeth Blackwell; Rosa Bonheur; Elizabeth Barrett Browning; 
+       Katherine Cornell; Marie Curie; Amelia Earhart; Julia Ward Howe; Helen Keller; Elizabeth Kenny; Jenny Lind; Mary Lyon; Florence Nightingale; Margaret Fuller Ossell;         
+       Frances Perkins; Eleanor Roosevelt; Madame de Stael; Harriet Beecher Stowe. </note>
+     </bibl>
+     
+     <bibl id="p020">
+      <idno>p020</idno>
       <author><name type="last">Boruff</name>, <name type="first">Mrs. Blanche Foster</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of Indiana: A Work for Newspaper and Library Reference.</hi>
@@ -27267,9 +27330,49 @@
       </imprint>
       <note> </note>
      </bibl>
+     
+     <bibl id="p021">
+      <idno>p021</idno>
+      <author><name type="last">Bradford</name>, <name type="first">Gamaliel</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Daughters of Eve.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Boston:</pubPlace>
+       <publisher>Houghton Mifflin Co.,</publisher>
+       <date>1930.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Chicago:</pubPlace>
+       <publisher>Houghton Mifflin Co.,</publisher>
+       <date>1930.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Lincoln Historical Society,</publisher>
+       <date>1930.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Book League of America,</publisher>
+       <date>1930.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>New Home Library,</publisher>
+       <date>1930;</date>
+       <date>1942.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Port Washington, NY:</pubPlace>
+       <publisher>Kennikat Press,</publisher>
+      <date>1969?</date>
+      </imprint>
+      <note>TOC: Ninon de Lenclos; Madame de Maintenon; Madame Guyon; Mademoiselle de Lespinasse; Catharine the Great; George Sand; Sarah Bernhardt.</note>
+     </bibl>
 
-     <bibl id="p020">
-      <idno>p020</idno>
+     <bibl id="p022">
+      <idno>p022</idno>
       <author><name type="last">Brink</name>, <name type="first">J. R.</name></author>
       <title type="ref">
        <hi rend="italics">Female Scholars: a tradition of learned women before 1800.</hi>
