@@ -27385,36 +27385,73 @@
       <note> TOC:Christine de Pisan; Caterina Corner; Queen of Cyprus; Marguerite de Navarre and her circle; Maria de Zayas y Sotomayor; 
        Anna Maria van Schurman; Bathsua Makin; Madame de Sevigne; Sor Juana Ines de la Cruz; Elizabeth Elstob; Mercy Otis Warren. </note>
      </bibl>
+     
+     <bibl id="p023">
+      <idno>p023</idno>
+      <author><name type="last">Buchanan</name>, <name type="first">Isabella Reed</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women of the Bible.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Minneapolis, MN:</pubPlace>
+       <publisher>Colwell Press,</publisher>
+       <date>1925.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Appleton,</publisher>
+       <date>1924;</date>
+       <date>1925;</date>
+       <date>1927;</date>
+       <date>1931;</date>
+       <date>1934;</date>
+       <date>1938;</date>
+       <date>1940.</date>
+      </imprint>
+      <imprint>
+     <pubPlace>London:</pubPlace>
+       <publisher>Appleton,</publisher>
+       <date>1924;</date>
+       <date>1925;</date>
+       <date>1927;</date>
+       <date>1931;</date>
+       <date>1934;</date>
+       <date>1938;</date>
+       <date>1940.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
 
-     <bibl id="p021">
-      <idno>p021</idno>
-      <author><name type="last">Buckmaster</name>, <name type="first">Henrietta (pseudonym)</name>.</author>
+     <bibl id="p024">
+      <idno>p024</idno>
+      <author><name type="last">Buckmaster</name>, <name type="first">Henrietta </name>(pseudonym).</author>
       <title type="ref">
        <hi rend="italics">Women Who Shaped History.</hi>
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Collier,</publisher>
-       <date>1966.</date>
+       <date>1966;</date>
+       <date>1974.</date>
       </imprint>
-      <note> </note>
+      <note>TOC: Dorothea Dix; Prudence Crandall; Elizabeth Cady Stanton; Elizabeth Blackwell; Harriet Tubman; Mary Baker Eddy. </note>
      </bibl>
 
-     <bibl id="p022">
-      <idno>p022</idno>
+     <bibl id="p025">
+      <idno>p025</idno>
       <title type="ref">
        <hi rend="italics">Career Women of America.</hi>
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Cultural Research Publishers,</publisher>
-       <date>[1941].</date>
+       <date>1941.</date>
       </imprint>
       <note> </note>
      </bibl>
 
-     <bibl id="p023">
-      <idno>p023</idno>
+     <bibl id="p026">
+      <idno>p026</idno>
       <author><name type="last">Carpenter</name>, <name type="first">Minnie Lindsay Rowell</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of the Flag.</hi>
@@ -27422,108 +27459,115 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Salvationist Pub. and Supplies,</publisher>
-       <date>[1945].</date>
+       <date>1945.</date>
       </imprint>
-      <note> </note>
+      <note> TOC: Catherine Booth's influence on the Salvation army; Emma Booth-Tucker; Hedwig von Haartman; Yuddha Bai (Catherine Bannister);
+       Alice Barker;- Bertha Gugelmann; Annie Elizabeth Harris; Kiye Yamamuro; Martha Chippendale; Caroline Ehrhardt; Elizabeth Swift Brengle; 
+       Anna von Wattenwyl; Elizabeth Sapsworth.</note>
      </bibl>
 
-     <bibl id="p024">
-      <idno>p024</idno>
-      <author><name type="last">Castillo-Speed</name>, <name type="first">Lillian</name>.</author>
-      <title type="ref">
-       <hi rend="italics">Latina: Women’s Voices from the Borderlands.</hi>
-      </title>
-      <imprint>
-       <pubPlace>New York:</pubPlace>
-       <publisher>Touchstone/Simon &amp; Schuster,</publisher>
-       <date>1995.</date>
-      </imprint>
-      <note> </note>
-     </bibl>
-
-     <bibl id="p025">
-      <idno>p025</idno>
-      <author><name type="last">Caws,</name>
-       <name type="first">Mary Ann</name>.</author>
+     <bibl id="p027">
+      <idno>p027</idno>
+      <author><name type="last">Caws</name>, <name type="first">Mary Ann</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of Bloomsbury: Virginia, Vanessa, and Carrington.</hi>
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Routledge,</publisher>
-       <date>1990.</date>
+       <date>1990;</date>
+       <date>1991.</date>
       </imprint>
-      <note> </note>
-     </bibl>
-
-     <bibl id="p026">
-      <idno>p026</idno>
-      <author><name type="last">Chadwick,</name>
-       <name type="first">Whitney,</name> and <name type="first">Isabelle</name>
-       <name type="last">de Courtivron</name>, eds.</author>
-      <title type="ref">
-       <hi rend="italics">Significant Others: Creativity and Intimate Partnership.</hi>
-      </title>
-      <imprint>
-       <pubPlace>London:</pubPlace>
-       <publisher>Thames &amp; Hudson,</publisher>
-       <date>1993.</date>
-      </imprint>
-      <note> </note>
-     </bibl>
-
-     <bibl id="p027">
-      <idno>p027</idno>
-      <author>
-       <name type="last">Chicago,</name>
-       <name type="first">Judy.</name>
-      </author>
-      <title type="ref">
-       <hi rend="italics">The Dinner Party: A Symbol of Our Heritage. </hi>
-      </title>
-      <imprint>
-       <pubPlace>Garden City, NY:</pubPlace>
-       <publisher>Anchor/Doubleday,</publisher>
-       <date>1979.</date>
-      </imprint>
-      <note> </note>
+      <note> TOC: Dora Carrington, Virginia Woolf, Vanessa Bell.</note>
      </bibl>
 
      <bibl id="p028">
       <idno>p028</idno>
-      <author>
-       <name type="last">Churchill,</name>
-       <name type="first">Caryl.</name>
-      </author>
+      <author><name type="last">Chappell</name>,
+       <name type="first">Clovis Gillham</name>.</author>
       <title type="ref">
-       <hi rend="italics">Top Girls.</hi>
+       <hi rend="italics">Feminine Faces.</hi>
       </title>
       <imprint>
-       <pubPlace>London:</pubPlace>
-       <publisher>Methuen,</publisher>
-       <date>1982.</date>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Abingdon-Cokesbury Press,</publisher>
+       <date>1942.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Nashville:</pubPlace>
+       <publisher>Abingdon-Cokesbury Press,</publisher>
+       <date>1942.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Grand Rapids, MI:</pubPlace>
+       <publisher>Baker Book House,</publisher>
+      <date>1942;</date>
+       <date>1970;</date>
+       <date>1974.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Abingdon,</publisher>
+       <date>1954-1972?</date>
       </imprint>
       <note> </note>
      </bibl>
 
-
      <bibl id="p029">
       <idno>p029</idno>
-      <author><name type="last">Coxhead</name>, <name type="first">Elizabeth.</name></author>
+      <author><name type="last">Cole</name>,
+       <name type="first">Margaret</name>.</author>
       <title type="ref">
-       <hi rend="italics">Daughters of Erin: five women of the Irish renascence. </hi>
+       <hi rend="italics">Women of To-Day.</hi>
       </title>
       <imprint>
-       <pubPlace>London:</pubPlace>
-       <publisher>Secker &amp; Warburg/New English Library,</publisher>
-       <date>1965.</date>
+       <pubPlace>Freeport, NY:</pubPlace>
+       <publisher>Books for Libraries Press,</publisher>
+       <date>1938;</date>
+       <date>1968.</date>
       </imprint>
-      <note> </note>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Nelson,</publisher>
+       <date>1938;</date>
+       <date>1946.</date>
+      </imprint>
+      <note>TOC: Ethel Smyth; Lady Henry Somerset; Edith Cavell; Mary Macarthur; Elizabeth Garrett Anderson; Laura Knight; 
+       Annie Besant; Clare Sheridan; Beatrice Webb; Rosita Forbes. </note>
      </bibl>
 
      <bibl id="p030">
       <idno>p030</idno>
-      <author><name type="last">Crane</name>, <name type="first">Louise.</name></author>
+      <author>
+       <name type="last">Coxhead</name>,
+       <name type="first">Elizabeth</name>.
+      </author>
+      <title type="ref">
+       <hi rend="italics">Daughters of Erin: Five Women of the Irish Renascence. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Secker &amp; Walburg/ New English Library,</publisher>
+       <date>1965.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Gerards Cross:</pubPlace>
+       <publisher>C. Smyth,</publisher>
+      <date>1965;</date>
+       <date>1979.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>New English Library,</publisher>
+       <date>1965;</date>
+       <date>1968.</date>
+      </imprint>
+      <note>TOC: Maud Gonne; Constance Markievicz; Sarah Purser; Sara Allgood; Maire O'Neill. </note>
+     </bibl>
+
+       <bibl id="p031">
+      <idno>p031</idno>
+      <author><name type="last">Crane</name>, <name type="first">Louise</name>.</author>
       <title type="ref">
        <hi rend="italics">Ms. Africa: Profiles of Modern African Women. </hi>
       </title>
@@ -27532,12 +27576,140 @@
        <publisher>Lippincott,</publisher>
        <date>1973.</date>
       </imprint>
+      <note>TOC: Angie Brooks, Margaret Kenyatta, Miriam Makeba, and ten more. </note>
+          </bibl>
+     
+     <bibl id="p032">
+      <idno>p032</idno>
+      <author><name type="last">Dannett</name>, <name type="first">Sylvia G.L.</name></author>
+      <title type="ref">
+       <hi rend="italics">Profiles of Negro Womanhood. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>M.W. Ladds,</publisher>
+       <date>1964.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Yonkers, NY:</pubPlace>
+       <publisher>Educational Heritage,</publisher>
+       <date>1964-1966.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p033">
+      <idno>p033</idno>
+      <author><name type="last">Devi</name>, <name type="first">Sarada</name>, et al.</author>
+      <title type="ref">
+       <hi rend="italics">Women Saints of East and West. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Ramakrishna Vendanta Centre,</publisher>
+       <date>1955;</date>
+       <date>1956;</date>
+       <date>1972.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Hollywood, CA:</pubPlace>
+       <publisher>Vendanta Press,</publisher>
+       <date>1955;</date>
+       <date>1979.</date>
+      </imprint>
       <note> </note>
      </bibl>
 
+     <bibl id="p034">
+      <idno>p034</idno>
+      <author><name type="last">D'Humy</name>, <name type="first">Fernard Emile</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women Who Influenced the World. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Library Publishers,</publisher>
+       <date>1955.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p035">
+      <idno>p035</idno>
+      <author><name type="last">Douglas</name>, <name type="first">Emily</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Remember the Ladies: The Story of Great Women Who Helped America. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Putnam,</publisher>
+       <date>1966.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p036">
+      <idno>p036</idno>
+      <author><name type="last">Drago</name>, <name type="first">Harry Sinclair</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Notorious Ladies of the Frontier. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Dodd, Mead,</publisher>
+       <date>1969.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+     <publisher>Ballantine,</publisher>
+       <date>1972;</date>
+       <date>1979.</date>
+      </imprint>
+      <note>TOC:  China Polly, the poker bride; That Taylor woman; Pearl Star; The Myers avenue girls; Baby Doe; 
+       Calamity Jane; Ella Watson and mythical Cattle Kate; Pegleg Annie Morrow; Diamond Lil.</note>
+     </bibl>
+     
+     <bibl id="p037">
+      <idno>p037</idno>
+      <author><name type="last">Elliott</name>, <name type="first">Sophy L.</name></author>
+      <title type="ref">
+       <hi rend="italics">The Women Pioneers of North America. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Gardenvale, Quebec:</pubPlace>
+       <publisher>Garden City Press,</publisher>
+       <date>1941.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
 
-
-
+     <bibl id="p038">
+      <idno>p038</idno>
+      <author><name type="last">Evans</name>, <name type="first">Gwynneth</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women in Federal Politics: A Bio-Bibliography. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Ottawa:</pubPlace>
+       <publisher>National Library of Canada,</publisher>
+       <date>1975.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p039">
+      <idno>p039</idno>
+      <author><name type="last">Ewart</name>, <name type="first">Andrew</name>.</author>
+      <title type="ref">
+       <hi rend="italics">The World's Most Wicked Women: Intriguing Studies of Eve and  Evil Through the Ages. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Odhams Press,</publisher>
+       <date>1964.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
 
     </div2>
    </div1>
