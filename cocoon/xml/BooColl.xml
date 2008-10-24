@@ -26919,7 +26919,7 @@
     <div2>
      <bibl id="p001">
       <idno>p001</idno>
-      <author><name type="last">Adams</name>, <name type="first">Jean,</name>
+      <author><name type="last">Adams</name>, <name type="first">Jean</name>,
        <name type="first">Margaret</name>
        <name type="last">Kimball,</name>, and <name type="first">Jeanette</name><name type="last"
         >Eaton</name>. </author>
@@ -26933,7 +26933,7 @@
       </imprint>
       <imprint>
        <pubPlace>Freeport, NY:</pubPlace>
-       <publisher>Books For Libraries Press,</publisher>
+       <publisher>Books For Libraries,</publisher>
        <date>1970.</date>
       </imprint>
       <note>TOC: From the Apocrypha: Judith; The Mother of the Seven Martyrs; The Graeco-Roman
@@ -27008,7 +27008,7 @@
        <date> 1996.</date>
       </imprint>
       <imprint>
-       <publisher>Noon Day Press,</publisher>
+       <publisher>Noon Day,</publisher>
        <date>1996;</date>
        <date>1998.</date>
       </imprint>
@@ -27034,7 +27034,7 @@
       </title>
       <imprint>
        <pubPlace>New York: </pubPlace>
-       <publisher>Frederick-Williams Press, </publisher>
+       <publisher>Frederick-Williams, </publisher>
        <date>1947.</date>
       </imprint>
      </bibl>
@@ -27115,18 +27115,18 @@
       </imprint>
       <imprint>
        <pubPlace>Boston:</pubPlace>
-       <publisher>Beacon Press,</publisher>
+       <publisher>Beacon,</publisher>
        <date>1973;</date>
        <date>1975.</date>
       </imprint>
       <imprint>
        <pubPlace>Lima, OH:</pubPlace>
-       <publisher>Academic Renewal Press,</publisher>
+       <publisher>Academic Renewal,</publisher>
        <date>1973;</date>
        <date>2001.</date>
       </imprint>
-      <note>TOC: Marguerite of Navarre ; Jeanne d'Albret; Minor sketches : Catherine de Bourbon, Éléanore de Roye, Idelette de Bure ; Charlotte de Bourbon ; Louis de Coligny; 
-       Catherine of Aragon ; Anne Boleyn ; Minor sketches : the negligible wives of Henry VIII ; Catherine Parr ; Lady Jane Grey ; Mary I ; John Foxe and the women martyrs ; Elizabeth I ; 
+      <note>TOC: Marguerite of Navarre; Jeanne d'Albret; Minor sketches: Catherine de Bourbon, Éléanore de Roye, Idelette de Bure; Charlotte de Bourbon; Louis de Coligny; 
+       Catherine of Aragon; Anne Boleyn ; Minor sketches: the negligible wives of Henry VIII; Catherine Parr; Lady Jane Grey; Mary I; John Foxe and the women martyrs; Elizabeth I; 
        Catherine Willoughby, the Duchess of Suffolk.
       </note>
      </bibl>
@@ -27147,7 +27147,7 @@
       </imprint>
       <imprint>
        <pubPlace>Boston:</pubPlace>
-       <publisher>Beacon Press,</publisher>
+       <publisher>Beacon,</publisher>
        <date>1974;</date>
        <date>1975.</date>
       </imprint>
@@ -27185,7 +27185,7 @@
       </imprint>
       <imprint>
        <pubPlace>Belleville, ON:</pubPlace>
-       <publisher>Mika Pub.,</publisher>
+       <publisher>Mika,</publisher>
        <date>1977.</date>
       </imprint>
      </bibl>
@@ -27201,7 +27201,7 @@
       </title>
       <imprint>
        <pubPlace>London: </pubPlace>
-       <publisher>Quality Press, </publisher>
+       <publisher>Quality, </publisher>
        <date>1941;.</date>
        <date>1942;</date>
        <date>1943.</date>
@@ -27286,7 +27286,7 @@
       </title>
       <imprint>
        <pubPlace>Jacksonville, FL:</pubPlace>
-       <publisher>Southern Historical Pub. Assoc.,</publisher>
+       <publisher>Southern Historical,</publisher>
        <date>1940.</date>
       </imprint>
       <note> </note>
@@ -27325,7 +27325,7 @@
       </title>
       <imprint>
        <pubPlace>Indianapolis:</pubPlace>
-       <publisher>Indiana Women's Biography Association, M. Farson,</publisher>
+       <publisher>Indiana Women's Biography Assoc., M. Farson,</publisher>
        <date>1941.</date>
       </imprint>
       <note> </note>
@@ -27339,12 +27339,12 @@
       </title>
       <imprint>
        <pubPlace>Boston:</pubPlace>
-       <publisher>Houghton Mifflin Co.,</publisher>
+       <publisher>Houghton Mifflin,</publisher>
        <date>1930.</date>
       </imprint>
       <imprint>
        <pubPlace>Chicago:</pubPlace>
-       <publisher>Houghton Mifflin Co.,</publisher>
+       <publisher>Houghton Mifflin,</publisher>
        <date>1930.</date>
       </imprint>
       <imprint>
@@ -27365,7 +27365,7 @@
       </imprint>
       <imprint>
        <pubPlace>Port Washington, NY:</pubPlace>
-       <publisher>Kennikat Press,</publisher>
+       <publisher>Kennikat,</publisher>
       <date>1969?</date>
       </imprint>
       <note>TOC: Ninon de Lenclos; Madame de Maintenon; Madame Guyon; Mademoiselle de Lespinasse; Catharine the Great; George Sand; Sarah Bernhardt.</note>
@@ -27394,7 +27394,7 @@
       </title>
       <imprint>
        <pubPlace>Minneapolis, MN:</pubPlace>
-       <publisher>Colwell Press,</publisher>
+       <publisher>Colwell,</publisher>
        <date>1925.</date>
       </imprint>
       <imprint>
@@ -27444,7 +27444,7 @@
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
-       <publisher>Cultural Research Publishers,</publisher>
+       <publisher>Cultural Research,</publisher>
        <date>1941.</date>
       </imprint>
       <note> </note>
@@ -27490,12 +27490,12 @@
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
-       <publisher>Abingdon-Cokesbury Press,</publisher>
+       <publisher>Abingdon-Cokesbury,</publisher>
        <date>1942.</date>
       </imprint>
       <imprint>
        <pubPlace>Nashville:</pubPlace>
-       <publisher>Abingdon-Cokesbury Press,</publisher>
+       <publisher>Abingdon-Cokesbury,</publisher>
        <date>1942.</date>
       </imprint>
       <imprint>
@@ -27522,7 +27522,7 @@
       </title>
       <imprint>
        <pubPlace>Freeport, NY:</pubPlace>
-       <publisher>Books for Libraries Press,</publisher>
+       <publisher>Books for Libraries,</publisher>
        <date>1938;</date>
        <date>1968.</date>
       </imprint>
@@ -27613,7 +27613,7 @@
       </imprint>
       <imprint>
        <pubPlace>Hollywood, CA:</pubPlace>
-       <publisher>Vendanta Press,</publisher>
+       <publisher>Vendanta,</publisher>
        <date>1955;</date>
        <date>1979.</date>
       </imprint>
@@ -27677,7 +27677,7 @@
       </title>
       <imprint>
        <pubPlace>Gardenvale, Quebec:</pubPlace>
-       <publisher>Garden City Press,</publisher>
+       <publisher>Garden City,</publisher>
        <date>1941.</date>
       </imprint>
       <note> </note>
@@ -27705,7 +27705,7 @@
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
-       <publisher>Odhams Press,</publisher>
+       <publisher>Odhams,</publisher>
        <date>1964.</date>
       </imprint>
       <note> </note>
