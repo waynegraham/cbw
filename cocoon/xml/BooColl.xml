@@ -11286,7 +11286,7 @@
      <bibl id="a304A">
       <ref>304A.</ref>
       <idno>a304A</idno>
-      <author><name type="last">Frichet</name>, <name type="first">Henry</name>,</author> and <author><name type="first">A.F.</name><name type="last">Niemoeller</name>.</author>
+      <author><name type="last">Frichet</name>, <name type="first">Henry</name>, and<name type="first">A.F.</name><name type="last">Niemoeller</name>.</author>
       <title type="ref">
        <hi rend="italics">Fleshpots of Antiquity: The Lives and Loves of Ancient Courtesans.</hi>
       </title>
@@ -26994,7 +26994,7 @@
       <idno>p001</idno>
       <author><name type="last">Adams</name>, <name type="first">Jean</name>,
        <name type="first">Margaret</name>
-       <name type="last">Kimball,</name>, and <name type="first">Jeanette</name><name type="last"
+       <name type="last">Kimball</name>, and <name type="first">Jeanette</name><name type="last"
         >Eaton</name>. </author>
       <title type="ref">
        <hi rend="italics">Heroines of the Sky.</hi>
@@ -27916,7 +27916,194 @@
       </imprint>
       <note> </note>
      </bibl>
-
+     
+     <bibl id="p045">
+      <idno>p045</idno>
+      <author><name type="last">Heaps</name>, <name type="first">Isabel Warrington</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Five Mary's. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York and</pubPlace>
+       <pubPlace>Nashville:</pubPlace>
+       <publisher>Abingdon-Cokesbury,</publisher>
+       <date>1942;</date>
+       <date>1980.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p046">
+      <idno>p046</idno>
+      <author><name type="last">Henderson</name>, <name type="first">James D.</name>, and<name type="first">Linda Roddy</name><name type="last">Henderson</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Ten Notable Women of Latin America. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Chicago:</pubPlace>
+       <publisher>Nelson Hall,</publisher>
+       <date>1978.</date>
+      </imprint>
+      <note>TOC: Malinche; Inés de Suarez; The Nun Ensign; Sor Juana Inés de la Cruz; La Pola; Leopoldina; Mariana Grajales; Gabriela Mistral; Eva Perón; Tania. </note>
+     </bibl>
+     
+     
+     <bibl id="p047">
+      <idno>p047</idno>
+      <author><name type="last">Hogrefe</name>,<name type="first">Pearl</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women of Action in Tudor England: Nine Biographical Sketches. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Ames:</pubPlace>
+       <publisher>Iowa State University Press,</publisher>
+       <date>1977.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p048">
+      <idno>p048</idno>
+      <author><name type="last">Hollander</name>,<name type="first">Phyllis</name>.</author>
+      <title type="ref">
+       <hi rend="italics">100 Greatest Women in Sports. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Grosset &amp; Dunlap,</publisher>
+       <date>1976.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p049">
+      <idno>p049</idno>
+      <author><name type="last">Hosier</name>,<name type="first">Helen Kooiman</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Silhouettes: Women Behind Great Men. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Waco, TX:</pubPlace>
+       <publisher>Word Books,</publisher>
+       <date>1972.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p050">
+      <idno>p050</idno>
+      <author><name type="last">Hunt</name>,<name type="first">Rockwell Dennis</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Great Women of California. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Los Angeles, CA:</pubPlace>
+       <date>1949.</date>
+      </imprint>
+      <note> A reprint from the Historical Society of California Quarterly.</note>
+     </bibl>
+     
+     <bibl id="p051">
+      <idno>p051</idno>
+      <author><name type="last">Igus</name>,<name type="first">Toyomi</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Book of Black Heroes, Vol 2: Great Women in the Struggle: An Introduction for Young Readers. </hi>
+      </title>
+      <imprint>
+       <pubPlace>East Ornage, N.J:</pubPlace>
+       <publisher>Just Us Books,</publisher>
+       <date>1991;</date>
+       <date>1992;</date>
+       <date>1997.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Scholastic,</publisher>
+       <date>1991;</date>
+       <date>1993.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p052">
+      <idno>p052</idno>
+      <author><name type="last">Innis</name>,<name type="first">Mary Quayle</name>, ed.</author>
+      <title type="ref">
+       <hi rend="italics">The Clear Spirit: Twenty Canadian Women and Their Times. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Toronto:</pubPlace>
+       <publisher>University of Toronto Press,</publisher>
+       <date>1966;</date>
+       <date>1973.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Buffalo:</pubPlace>
+       <publisher>University of Toronto Press,</publisher>
+       <date>1996;</date>
+       <date>1981.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p053">
+      <idno>p053</idno>
+      <author><name type="last">Jackson</name>,<name type="first">George F.</name></author>
+      <title type="ref">
+       <hi rend="italics">Black Women, Makers of History: A Portrait. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Oakland, CA:</pubPlace>
+       <publisher>GRT Book Printing,</publisher>
+       <date>1975;</date>
+       <date>1985.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Sacramento, CA:</pubPlace>
+       <publisher>Dome,</publisher>
+       <date>1975.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Sacramento, CA:</pubPlace>
+       <publisher>Fong &amp; Fong,</publisher>
+       <date>1977.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Santa Rosa, CA:</pubPlace>
+       <publisher>Distributed by the Women's National History Project,</publisher>
+       <date>1975.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p054">
+      <idno>p054</idno>
+      <author><name type="last">Jacobs</name>,<name type="first">Helen Hull</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Famous American Women Athletes. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Dodd, Mead,</publisher>
+       <date>1964.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p055">
+      <idno>p055</idno>
+      <author><name type="last">Jacobs</name>,<name type="first">Helen Hull</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Famous Modern American Women Athletes. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Dodd, Mead,</publisher>
+       <date>1975.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
     </div2>
    </div1>
   </body>
