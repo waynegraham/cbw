@@ -16695,6 +16695,27 @@
       </imprint>]. <note> Cover title: A list of women Maraños who died in autos-da-fé or were
        imprisoned. </note>
      </bibl>
+     
+     <bibl id="a493A"><ref>493A.</ref>
+      <idno>a493A</idno>
+      <author><name type="last">Kuyper</name>, <name type="first">Abraham</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women of the Old Testament.</hi>
+      </title> 
+      <edition>Translated by</edition>
+      <editor role="translator"><name type="first">Henry</name><name type="last">Zylstra</name>.</editor>
+      <imprint>
+       <pubPlace>Grand Rapids, MI:</pubPlace>
+       <publisher>Zondervan,</publisher>
+       <date>1933;</date>
+       <date>1934;</date>
+       <date>1936;</date>
+       <date>1941;</date>
+       <date>1961;</date>
+       <date>1972.</date>
+      </imprint>]. 
+      <note> </note>
+     </bibl>
     </div2>
 
     <div2 type="letter" n="L">
@@ -27482,7 +27503,7 @@
       <title type="ref">
        <hi rend="italics">Ms. Africa: Profiles of Modern African Women. </hi>
       </title>
-      <imprint>
+        <imprint>
        <pubPlace>Philadelphia:</pubPlace>
        <publisher>Lippincott,</publisher>
        <date>1973.</date>
@@ -27496,6 +27517,7 @@
       <title type="ref">
        <hi rend="italics">Profiles of Negro Womanhood. </hi>
       </title>
+      <extent rend="vols">2 vols.,</extent>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>M.W. Ladds,</publisher>
@@ -28133,6 +28155,382 @@
        <date>2004.</date>
       </imprint>
       <note> </note>
+     </bibl>
+     
+     <bibl id="p058">
+      <idno>p058</idno>
+      <author><name type="last">Jenkins</name>,<name type="first">Elizabeth</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Ten Fascinating Women. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Odhams,</publisher>
+       <date>1955.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Macdonald,</publisher>
+       <date>1968.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Coward-McCann,</publisher>
+       <date>1968.</date>
+      </imprint>
+      <note> TOC: Martha Ray; Elizabeth Tudor; Sarah Churchill, Duchess of Marlborough; Fair Rosamond; Elizabeth Inchbald; Becky Wells; 
+       Harriette Wilson; Lady Blessington; The Duchess of Lauderdale; Mary Fitton.</note>
+     </bibl>
+     
+     <bibl id="p059">
+      <idno>p059</idno>
+      <author><name type="last">Johnson</name>,<name type="first">Diane</name>.</author>
+      <title type="ref">
+       <hi rend="italics">The True History of the First Mrs. Meredith and Other Lesser Lives. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Knopf,</publisher>
+       <date>1972.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Heinemann,</publisher>
+       <date>1972;</date>
+       <date>1973.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p060">
+      <idno>p060</idno>
+      <author><name type="last">Kaplan</name>,<name type="first">Cora</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Salt and Bitter and Good: Three Centuries of English and American Women Poets. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York and</pubPlace>
+       <pubPlace>London:</pubPlace>
+       <publisher>Paddington,</publisher>
+       <date>1975.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Two Continents,</publisher>
+       <date>1975.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p061">
+      <idno>p061</idno>
+      <author><name type="last">Kay</name>,<name type="first">Ernest</name>.</author>
+      <title type="ref">
+       <hi rend="italics">The World Who's Who of Women in Education. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Cambridge, England and</pubPlace>
+       <pubPlace>New York:</pubPlace>
+       <publisher>International Biographical Center,</publisher>
+       <date>1978.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p062">
+      <idno>p062</idno>
+      <author><name type="last">Kerr</name>,<name type="first">Frances Willard</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women in Radio: A View of Important Jobs Held in Radio by Women, Illustrated by Biographical Sketches. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Washington:</pubPlace>
+       <publisher>Women's Bureau, U.S. Dept. of Labor,</publisher>
+       <date>1947.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Washington:</pubPlace>
+       <publisher>U.S. G.P.O,</publisher>
+       <date>1947.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p063">
+      <idno>p063</idno>
+      <author><name type="last">Kohler</name>,<name type="first">Ruth Miriam De Young</name>.</author>
+      <title type="ref">
+       <hi rend="italics">The Story of Wisconsin Women. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Kohler, WI:</pubPlace>
+       <publisher>Committee on Wisconsin Women for the 1948 Wisconsin Centennial,</publisher>
+       <date>1948.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p064">
+      <idno>p064</idno>
+      <author><name type="last">Kulkin</name>,<name type="first">Mary Ellen</name>, and <name type="first">Tim</name><name type="last">Basaldua</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Her Way: Biographies of Women for Young People. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Chicago:</pubPlace>
+       <publisher>American Library Assoc.,</publisher>
+       <date>1976.</date>
+      </imprint>
+      <note>"A collection of 260 short profiles and bibliographies of notable women throughout history and an additional bibliography of over 300 collective biographies of women." </note>
+     </bibl>
+     
+     <bibl id="p065">
+      <idno>p065</idno>
+      <author><name type="last">Laffin</name>,<name type="first">John</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women in Battle. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London and</pubPlace>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Abelard-Schuman,</publisher>
+       <date>1967;</date>
+       <date>1968.</date>
+      </imprint>
+      <note>TOC: Women Soldiers in General: Assault on a Male Bastion; 1429-1761: Gallic, Spanish, Dutch and British courage; 1776-1815: American and French Revolutionaries; 
+       The Maid of Saragossa, Officer's Sweetheart; 1827-1900: The Siamese Guards; Warriors of Dahomey; Girls of the Civil War; World War I: Gallantry at Pervyse; The Battalion of Death; 
+       The Countess of Dublin; World War II: A Variety of Valour; World War II and After: The Russians; Milica, Yugoslav Partisan; Bracha Fuld, Jewish Partisan; The Tiger Lady and Vietnam; 
+       Pt.2 Kit Welsh (Mother Ross); Hannah Snell; Mary Hays (Molly Pitcher); Mary Anne Talbot; Lucy Brewer; Loreta Velasquez; Dr. James Barry; Dorothy Lawrence; Flora Sandes; 
+       Liza Ivanovna Chaikina and Vera Krylova; Nancy Wake. </note>
+     </bibl>
+     
+     <bibl id="p066">
+      <idno>p066</idno>
+      <author><name type="last">Lagemann</name>,<name type="first">Ellen Condliffe</name>.</author>
+      <title type="ref">
+       <hi rend="italics">A Generation of Women: Education in the Lives of Progressive Reformers. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Cambridge, MA:</pubPlace>
+       <publisher>Harvard Univeristy Press,</publisher>
+       <date>1979.</date>
+      </imprint>
+      <note>TOC: Grace Hoadley Dodge; Maud Nathan; Lillian D. Wald; Leonora O'Reilly; Rose Schneiderman. </note>
+     </bibl>
+     
+     <bibl id="p067">
+      <idno>p067</idno>
+      <author><name type="last">Lauwick</name>,<name type="first">Herve</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Heroines of the Sky. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>F. Muller,</publisher>
+       <date>1960.</date>
+      </imprint>
+      <note>TOC: Adrienne Cochran; Jacqueline Cochran; Hanna Reitsch; Amelia Earhart;  
+       Maryse Hilsz; Maryse Bastie; Madeleine Charnaux; Ann Lindbergh; Helene Boucher; Amy Mollison; Jean Batten; Jacqueline Auriol.
+      </note>
+     </bibl>
+     
+     <bibl id="p068">
+      <idno>p068</idno>
+      <author><name type="last">Le Page</name>,<name type="first">June Weiner</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women Composers, Conductors, and Musicians of the 20th Century: Selected Biographies. </hi>
+      </title>
+      <extent rend="vols">2 vols.,</extent>
+      <imprint>
+       <pubPlace>Metuchen, N.J:</pubPlace>
+       <publisher>Scarecrow,</publisher>
+       <date>1980;</date>
+       <date>1983.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p069">
+      <idno>p069</idno>
+      <author><name type="last">Lee</name>,<name type="first">F.H.</name></author>
+      <title type="ref">
+       <hi rend="italics">The Children's Book of Heroines. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>George G. Harrap,</publisher>
+       <date>1940;</date>
+       <date>1948.</date>
+      </imprint>
+      <note>TOC: Grace Darling; Elizabeth Gurney; Edith Cavell; Joan of Arc; Florence Nightingale; Marie Curie; and others. </note>
+     </bibl>
+     
+     <bibl id="p070">
+      <idno>p070</idno>
+      <author><name type="last">Legget</name>,<name type="first">Jane</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Local Heroines: A Woman's History Gazeteer of England, Scotland, and Wales. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London and</pubPlace>
+       <pubPlace>Boston:</pubPlace>
+       <publisher>Pandora,</publisher>
+       <date>1988;</date>
+       <date>1989.</date>
+      </imprint>
+      Rev. and updated as <title><hi rend="italics">Local Heroines: A Travel Guidebook to Women's History in Great Britain.</hi></title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Harper Collins,</publisher>
+       <date>1994.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p071">
+     <idno>p071</idno>
+     <author><name type="last">Leon</name>,<name type="first">Vicki</name>.</author>
+     <title type="ref">
+      <hi rend="italics">Uppity Women of Medieval Times. </hi>
+     </title>
+     <imprint>
+      <pubPlace>Berkeley, CA:</pubPlace>
+      <publisher>Conari,</publisher>
+      <date>1997.</date>
+     </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>MJF Books,</publisher>
+       <date>1997.</date>
+      </imprint>
+     <note> </note>
+     </bibl>
+     
+     <bibl id="p072">
+      <idno>p072</idno>
+      <author><name type="last">Leonardi</name>,<name type="first">Susan J.</name></author>
+      <title type="ref">
+       <hi rend="italics">Dangerous by Degrees: Women at Oxford and the Somerville College Novelists. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New Brunswick, N.J.:</pubPlace>
+       <publisher>Rutgers University Press,</publisher>
+       <date>1989.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p073">
+      <idno>p073</idno>
+      <author><name type="last">Liston</name>,<name type="first">Robert A.</name></author>
+      <title type="ref">
+       <hi rend="italics">Women Who Ruled: Cleopatra to Elizabeth II. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York.:</pubPlace>
+       <publisher>J. Messner,</publisher>
+       <date>1978.</date>
+      </imprint>
+      <note> Biographies of 17 women rulers, including Cleopatra, Elizabeth I of England, and Golda Meir, focus on how they came to power, their accomplishments, methods of ruling, and impact on history.</note>
+     </bibl>
+     
+     <bibl id="p074">
+      <idno>p074</idno>
+      <author><name type="last">Lofts</name>,<name type="first">Norah</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women in the Old Testament: Twenty Psychological Portraits. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Macmillan,</publisher>
+       <date>1949;</date>
+       <date>1950.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>S. Low,</publisher>
+       <date>1949.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Religious Book Club,</publisher>
+       <date>1950.</date>
+      </imprint>
+      <note> TOC: The general background; Sarah and Hagar; Rebekah; Leah and Rachel; Potiphar's wife; Rahab; Jephthah's daughter; Deborah and Jael;
+       Delilah; Ruth – Michal; Bathsheba; The woman of En-dor; A nameless woman; The Queen of Sheba; Jezebel; Naaman's wife's little maid; Esther.</note>
+     </bibl>
+     
+     <bibl id="p075">
+      <idno>p075</idno>
+      <author><name type="last">Longford</name>,<name type="first">Elizabeth</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Eminent Victorian Women. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Weidenfeld &amp; Nicolson,</publisher>
+       <date>1981.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Papermac,</publisher>
+       <date>1981;</date>
+       <date>1982.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Stroud:</pubPlace>
+       <publisher>Sutton,</publisher>
+       <date>2008.</date>
+      </imprint>
+      <note>TOC: The Brontës; George Eliot; Florence Nightingale; Josephine Butler; Annie Besant; Ellen Terry; Harriet Beecher Stowe; Mary Kingsley; James Barry. </note>
+     </bibl>
+     
+     <bibl id="p076">
+      <idno>p076</idno>
+      <author><name type="last">Lord</name>,<name type="first">Daniel A.</name></author>
+      <title type="ref">
+       <hi rend="italics">Heroines of God. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Wm. J. Hirten,</publisher>
+       <date>1946;</date>
+       <date>1955;</date>
+       <date>1962.</date>
+      </imprint>
+      <note>Brief biographical sketches of 23 women saints. </note>
+     </bibl>
+     
+     <bibl id="p077">
+      <idno>p077</idno>
+      <author><name type="last">Lord</name>,<name type="first">F. Townley</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Great Women in Christian History. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Cassell,</publisher>
+       <date>1940.</date>
+      </imprint>
+      <note>TOC: Perpetua, a martyr for Christ; Monica, the mother of a saint; Hilda, abbess of Whitby; St. Bridget of Kildare; St. Elizabeth of Hungary; 
+       St. Cahehrine of Siena; Joan of Arc; Catherine von Bora; Margaret, queen of Navarre; St. Teresa; Lucy Hutchinson; Madame Guyon; Margaret Fell; 
+       Susannah Wesley; The countess of Huntingdon; Catherine Booth; Bibliography.  </note>
+     </bibl>
+     
+     <bibl id="p078">
+      <idno>p078</idno>
+      <author><name type="last">Lotz</name>,<name type="first">Philip Henry</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women Leaders. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Association,</publisher>
+       <date>1940;</date>
+       <date>1946.</date>
+      </imprint>
+      <note>TOC: Jane Addams; Evangeline Booth; Edith Cavell; Marie Curie; Amelia Earhart; Helen Keller; Muriel Lester; Jenny Lind, the Swedish nightingale; 
+       Florence Nightingale; Alice Freeman Palmer; Maude Royden; Harriet Beecher Stowe; Susanna Wesley; Mary E. Woolley. </note>
      </bibl>
      
     </div2>
