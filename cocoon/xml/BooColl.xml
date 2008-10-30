@@ -5139,6 +5139,21 @@
        Women; Miscellaneous. </note>
       <note> Also catalogued under Casey. </note>
      </bibl>
+     
+     <bibl id="a083A">
+      <ref>83A.</ref>
+      <idno>a083A</idno>
+      <author><name type="last">Blackman</name>, <name type="first">Lucy Worthington</name>.</author>
+      <title type="ref">
+       <hi rend="italics">The Women of Florida.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Jacksonville, FL:</pubPlace>
+       <publisher>Southern Historical,</publisher>
+       <date>1940.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
 
      <bibl id="a084"><ref>84.</ref>
       <idno>a084</idno>
@@ -5441,7 +5456,7 @@
      <bibl id="a096">
       <ref>96.</ref>
       <idno>a096</idno>
-      <author><name type="last">Bolton</name>, <name type="first">Sarah Knowles</name>
+      <author><name type="last">Bolton</name>, <name type="first">Sarah Knowles</name>.
       </author>
       <title type="ref">
        <hi rend="italics">Famous Leaders Among Women.</hi>
@@ -11286,7 +11301,7 @@
      <bibl id="a304A">
       <ref>304A.</ref>
       <idno>a304A</idno>
-      <author><name type="last">Frichet</name>, <name type="first">Henry</name>, and<name type="first">A.F.</name><name type="last">Niemoeller</name>.</author>
+      <author><name type="last">Frichet</name>, <name type="first">Henry</name>, and <name type="first">A.F.</name> <name type="last">Niemoeller</name>.</author>
       <title type="ref">
        <hi rend="italics">Fleshpots of Antiquity: The Lives and Loves of Ancient Courtesans.</hi>
       </title>
@@ -16703,7 +16718,7 @@
        <hi rend="italics">Women of the Old Testament.</hi>
       </title> 
       <edition>Translated by</edition>
-      <editor role="translator"><name type="first">Henry</name><name type="last">Zylstra</name>.</editor>
+      <editor role="translator"><name type="first">Henry</name> <name type="last">Zylstra</name>.</editor>
       <imprint>
        <pubPlace>Grand Rapids, MI:</pubPlace>
        <publisher>Zondervan,</publisher>
@@ -17027,6 +17042,22 @@
        Campbell-Bannerman. </note>
       <note> UVA's catalogue's publication date, <date>1906</date>, is speculative and not supported
        by WorldCat listings. </note>
+     </bibl>
+     
+     <bibl id="a507A">
+      <ref>507A</ref>
+      <idno>a507A</idno>
+      <author><name type="last">Lee</name>, <name type="first">F.H.</name></author>
+      <title type="ref">
+       <hi rend="italics">The Children's Book of Heroines. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>George G. Harrap,</publisher>
+       <date>1940;</date>
+       <date>1948.</date>
+      </imprint>
+      <note>TOC: Grace Darling; Elizabeth Gurney; Edith Cavell; Joan of Arc; Florence Nightingale; Marie Curie; and others. </note>
      </bibl>
 
      <bibl id="a508">
@@ -27015,7 +27046,7 @@
       <idno>p001</idno>
       <author><name type="last">Adams</name>, <name type="first">Jean</name>,
        <name type="first">Margaret</name>
-       <name type="last">Kimball</name>, and <name type="first">Jeanette</name><name type="last"
+       <name type="last">Kimball</name>, and <name type="first">Jeanette</name> <name type="last"
         >Eaton</name>. </author>
       <title type="ref">
        <hi rend="italics">Heroines of the Sky.</hi>
@@ -27097,7 +27128,7 @@
      
      <bibl id="p005">
       <idno>p005</idno>
-      <author><name type="last">Anisoara</name>,<name type="first">Stan</name>.</author>
+      <author><name type="last">Anisoara</name>, <name type="first">Stan</name>.</author>
       <title type="ref">
        <hi>They Crossed Mountains and Oceans.</hi>
       </title>
@@ -27110,7 +27141,7 @@
 
      <bibl id="p006">
       <idno>p006</idno>
-      <author><name type="last">Armour</name>,<name type="first">Richard Willard</name>.</author>
+      <author><name type="last">Armour</name>, <name type="first">Richard Willard</name>.</author>
       <title type="ref">
        <hi>It All Started with Eve.</hi>
       </title>
@@ -27140,9 +27171,9 @@
 
      <bibl id="p007">
       <idno>p007</idno>
-      <author><name type="last">Ashby</name>,<name type="first">Ruth</name> and <name type="first"
+      <author><name type="last">Ashby</name>, <name type="first">Ruth</name>, and <name type="first"
         >Deborah</name>
-       <name type="last">Gore Ohrn</name>,eds.</author>
+       <name type="last">Gore Ohrn</name>, eds.</author>
       <title type="ref">
        <hi>Herstory.</hi>
       </title> Introduction by Gloria Steinem. <imprint>
@@ -27306,7 +27337,7 @@
 
      <bibl id="p014">
       <idno>p014</idno>
-      <author><name type="last">Bernikow</name>,<name type="first">Louise </name>, with the
+      <author><name type="last">Bernikow</name>, <name type="first">Louise </name>, with the
         <name>National Women's History Project</name>.</author>
       <title type="ref">
        <hi>The American Women’s Almanac: An Inspiring and Irreverent Women’s History. </hi>
@@ -27320,7 +27351,7 @@
 
      <bibl id="p015">
       <idno>p015</idno>
-      <author><name type="last">Biddle</name>,<name type="first">Gertrude </name> and <name
+      <author><name type="last">Biddle</name>, <name type="first">Gertrude </name>, and <name
         type="first">Sarah Dickson</name>
        <name type="last">Lowrie</name>.</author>
       <title type="ref">
@@ -27349,20 +27380,6 @@
      
      <bibl id="p017">
       <idno>p017</idno>
-      <author><name type="last">Blackman</name>, <name type="first">Lucy Worthington</name>.</author>
-      <title type="ref">
-       <hi rend="italics">The Women of Florida.</hi>
-      </title>
-      <imprint>
-       <pubPlace>Jacksonville, FL:</pubPlace>
-       <publisher>Southern Historical,</publisher>
-       <date>1940.</date>
-      </imprint>
-      <note> </note>
-     </bibl>
-     
-     <bibl id="p018">
-      <idno>p018</idno>
       <author><name type="last">Boruff</name>, <name type="first">Mrs. Blanche Foster</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of Indiana: A Work for Newspaper and Library Reference.</hi>
@@ -27375,9 +27392,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p019">
-      <idno>p019</idno>
-      <author><name type="last">Brink</name>, <name type="first">J. R.</name>,ed.</author>
+     <bibl id="p018">
+      <idno>p018</idno>
+      <author><name type="last">Brink</name>, <name type="first">J. R.</name>, ed.</author>
       <title type="ref">
        <hi rend="italics">Female Scholars: a tradition of learned women before 1800.</hi>
       </title>
@@ -27390,8 +27407,8 @@
        Anna Maria van Schurman; Bathsua Makin; Madame de Sevigne; Sor Juana Ines de la Cruz; Elizabeth Elstob; Mercy Otis Warren. </note>
      </bibl>
 
-     <bibl id="p020">
-      <idno>p020</idno>
+     <bibl id="p019">
+      <idno>p019</idno>
       <author><name type="last">Buckmaster</name>, <name type="first">Henrietta </name>(pseudonym).</author>
       <title type="ref">
        <hi rend="italics">Women Who Shaped History.</hi>
@@ -27405,8 +27422,8 @@
       <note>TOC: Dorothea Dix; Prudence Crandall; Elizabeth Cady Stanton; Elizabeth Blackwell; Harriet Tubman; Mary Baker Eddy. </note>
      </bibl>
 
-     <bibl id="p021">
-      <idno>p021</idno>
+     <bibl id="p020">
+      <idno>p020</idno>
       <title type="ref">
        <hi rend="italics">Career Women of America.</hi>
       </title>
@@ -27418,8 +27435,8 @@
       <note> </note>
      </bibl>
 
-     <bibl id="p022">
-      <idno>p022</idno>
+     <bibl id="p021">
+      <idno>p021</idno>
       <author><name type="last">Carpenter</name>, <name type="first">Minnie Lindsay Rowell</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of the Flag.</hi>
@@ -27434,8 +27451,8 @@
        Anna von Wattenwyl; Elizabeth Sapsworth.</note>
      </bibl>
 
-     <bibl id="p023">
-      <idno>p023</idno>
+     <bibl id="p022">
+      <idno>p022</idno>
       <author><name type="last">Caws</name>, <name type="first">Mary Ann</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of Bloomsbury: Virginia, Vanessa, and Carrington.</hi>
@@ -27449,8 +27466,8 @@
       <note> TOC: Dora Carrington, Virginia Woolf, Vanessa Bell.</note>
      </bibl>
 
-     <bibl id="p024">
-      <idno>p024</idno>
+     <bibl id="p023">
+      <idno>p023</idno>
       <author><name type="last">Chappell</name>,
        <name type="first">Clovis Gillham</name>.</author>
       <title type="ref">
@@ -27473,8 +27490,8 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p025">
-      <idno>p025</idno>
+     <bibl id="p024">
+      <idno>p024</idno>
       <author>
        <name type="last">Coxhead</name>,
        <name type="first">Elizabeth</name>.
@@ -27497,8 +27514,8 @@
       <note>TOC: Maud Gonne; Constance Markievicz; Sarah Purser; Sara Allgood; Maire O'Neill. </note>
      </bibl>
 
-       <bibl id="p026">
-      <idno>p026</idno>
+       <bibl id="p025">
+      <idno>p025</idno>
       <author><name type="last">Crane</name>, <name type="first">Louise</name>.</author>
       <title type="ref">
        <hi rend="italics">Ms. Africa: Profiles of Modern African Women. </hi>
@@ -27511,8 +27528,8 @@
       <note>TOC: Angie Brooks, Margaret Kenyatta, Miriam Makeba, and ten more. </note>
           </bibl>
      
-     <bibl id="p027">
-      <idno>p027</idno>
+     <bibl id="p026">
+      <idno>p026</idno>
       <author><name type="last">Dannett</name>, <name type="first">Sylvia G.L.</name></author>
       <title type="ref">
        <hi rend="italics">Profiles of Negro Womanhood. </hi>
@@ -27531,8 +27548,8 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p028">
-      <idno>p028</idno>
+     <bibl id="p027">
+      <idno>p027</idno>
       <author><name type="last">Devi</name>, <name type="first">Sarada</name>, et al.</author>
       <title type="ref">
        <hi rend="italics">Women Saints of East and West. </hi>
@@ -27553,8 +27570,8 @@
       <note> </note>
      </bibl>
 
-     <bibl id="p029">
-      <idno>p029</idno>
+     <bibl id="p028">
+      <idno>p028</idno>
       <author><name type="last">D'Humy</name>, <name type="first">Fernard Emile</name>.</author>
       <title type="ref">
        <hi rend="italics">Women Who Influenced the World. </hi>
@@ -27567,8 +27584,8 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p030">
-      <idno>p030</idno>
+     <bibl id="p029">
+      <idno>p029</idno>
       <author><name type="last">Douglas</name>, <name type="first">Emily</name>.</author>
       <title type="ref">
        <hi rend="italics">Remember the Ladies: The Story of Great Women Who Helped America. </hi>
@@ -27581,8 +27598,8 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p031">
-      <idno>p031</idno>
+     <bibl id="p030">
+      <idno>p030</idno>
       <author><name type="last">Drago</name>, <name type="first">Harry Sinclair</name>.</author>
       <title type="ref">
        <hi rend="italics">Notorious Ladies of the Frontier. </hi>
@@ -27602,8 +27619,8 @@
        Calamity Jane; Ella Watson and mythical Cattle Kate; Pegleg Annie Morrow; Diamond Lil.</note>
      </bibl>
      
-     <bibl id="p032">
-      <idno>p032</idno>
+     <bibl id="p031">
+      <idno>p031</idno>
       <author><name type="last">Elliott</name>, <name type="first">Sophy L.</name></author>
       <title type="ref">
        <hi rend="italics">The Women Pioneers of North America. </hi>
@@ -27616,8 +27633,8 @@
       <note> </note>
      </bibl>
 
-     <bibl id="p033">
-      <idno>p033</idno>
+     <bibl id="p032">
+      <idno>p032</idno>
       <author><name type="last">Evans</name>, <name type="first">Gwynneth</name>.</author>
       <title type="ref">
        <hi rend="italics">Women in Federal Politics: A Bio-Bibliography. </hi>
@@ -27630,8 +27647,8 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p034">
-      <idno>p034</idno>
+     <bibl id="p033">
+      <idno>p033</idno>
       <author><name type="last">Ewart</name>, <name type="first">Andrew</name>.</author>
       <title type="ref">
        <hi rend="italics">The World's Most Wicked Women: Intriguing Studies of Eve and  Evil Through the Ages. </hi>
@@ -27644,8 +27661,8 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p035">
-      <idno>p035</idno>
+     <bibl id="p034">
+      <idno>p034</idno>
       <author><name type="last">Felder</name>, <name type="first">Deborah G.</name></author>
       <title type="ref">
        <hi rend="italics">The 100 Greatest Women of All Time. </hi>
@@ -27687,8 +27704,8 @@
        Billie Jean King; Edith Head; Elise de Wolfe; Lucille Ball.</note>
      </bibl>
      
-     <bibl id="p036">
-      <idno>p036</idno>
+     <bibl id="p035">
+      <idno>p035</idno>
       <author><name type="last">Fink</name>, <name type="first">Greta</name>.</author>
       <title type="ref">
        <hi rend="italics">Great Jewish Women: Profiles of Courageous Women from the Maccabean Period to the Present. </hi>
@@ -27701,8 +27718,8 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p037">
-      <idno>p037</idno>
+     <bibl id="p036">
+      <idno>p036</idno>
       <author><name type="last">Forster</name>, <name type="first">Margaret</name>.</author>
       <title type="ref">
        <hi rend="italics">Significant Sisters: The Grassroots of Active Feminism: 1839-1939. </hi>
@@ -27745,8 +27762,8 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p038">
-      <idno>p038</idno>
+     <bibl id="p037">
+      <idno>p037</idno>
       <author><name type="last">Fraser</name>, <name type="first">Antonia</name>.</author>
       <title type="ref">
        <hi rend="italics">The Warrior Queens: Boadicea's Chariot. </hi>
@@ -27822,8 +27839,8 @@
       </note>
      </bibl>
      
-     <bibl id="p039">
-      <idno>p039</idno>
+     <bibl id="p038">
+      <idno>p038</idno>
       <author><name type="last">Gridley</name>, <name type="first">Marion Eleanor</name>.</author>
       <title type="ref">
        <hi rend="italics">American Indian Women. </hi>
@@ -27839,8 +27856,8 @@
        Elaine Abraham Ramos. </note>
      </bibl>
      
-     <bibl id="p040">
-      <idno>p040</idno>
+     <bibl id="p039">
+      <idno>p039</idno>
       <author><name type="last">Guy</name>, <name type="first">H.A.</name></author>
       <title type="ref">
        <hi rend="italics">Women in the Caribbean. </hi>
@@ -27859,8 +27876,8 @@
       <note> </note>
      </bibl>
     
-     <bibl id="p041">
-      <idno>p041</idno>
+     <bibl id="p040">
+      <idno>p040</idno>
       <author><name type="last">Haber</name>, <name type="first">Louis</name>.</author>
       <title type="ref">
        <hi rend="italics">Women Pioneers of Science. </hi>
@@ -27873,8 +27890,8 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p042">
-      <idno>p042</idno>
+     <bibl id="p041">
+      <idno>p041</idno>
       <author><name type="last">Hacker</name>, <name type="first">Carlotta</name>.</author>
       <title type="ref">
        <hi rend="italics">The Indomitable Lady Doctors. </hi>
@@ -27897,8 +27914,8 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p043">
-      <idno>p043</idno>
+     <bibl id="p042">
+      <idno>p042</idno>
       <author><name type="last">Hartman</name>, <name type="first">Mary S.</name></author>
       <title type="ref">
        <hi rend="italics">Victorian Murderesses: A True History of Thirteen Respectable French and English Women Accused of Unspeakable Crimes. </hi>
@@ -27925,8 +27942,8 @@
        Florence Bravo; Henriette Francey; Gabrielle Fenayrou; Adelaide Bartlett; Florence Maybrick; Claire Reymond. </note>
      </bibl>
      
-     <bibl id="p044">
-      <idno>p044</idno>
+     <bibl id="p043">
+      <idno>p043</idno>
       <author><name type="last">Hasan</name>, <name type="first">Masudul</name>.</author>
       <title type="ref">
        <hi rend="italics">Daughters of Islam: Short Biographical Sketches of 82 Famous Muslim Women. </hi>
@@ -27939,8 +27956,8 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p045">
-      <idno>p045</idno>
+     <bibl id="p044">
+      <idno>p044</idno>
       <author><name type="last">Heaps</name>, <name type="first">Isabel Warrington</name>.</author>
       <title type="ref">
        <hi rend="italics">Five Mary's. </hi>
@@ -27955,9 +27972,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p046">
-      <idno>p046</idno>
-      <author><name type="last">Henderson</name>, <name type="first">James D.</name>, and<name type="first">Linda Roddy</name><name type="last">Henderson</name>.</author>
+     <bibl id="p045">
+      <idno>p045</idno>
+      <author><name type="last">Henderson</name>, <name type="first">James D.</name>, and <name type="first">Linda Roddy</name> <name type="last">Henderson</name>.</author>
       <title type="ref">
        <hi rend="italics">Ten Notable Women of Latin America. </hi>
       </title>
@@ -27970,9 +27987,9 @@
      </bibl>
      
      
-     <bibl id="p047">
-      <idno>p047</idno>
-      <author><name type="last">Hogrefe</name>,<name type="first">Pearl</name>.</author>
+     <bibl id="p046">
+      <idno>p046</idno>
+      <author><name type="last">Hogrefe</name>, <name type="first">Pearl</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of Action in Tudor England: Nine Biographical Sketches. </hi>
       </title>
@@ -27984,9 +28001,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p048">
-      <idno>p048</idno>
-      <author><name type="last">Hollander</name>,<name type="first">Phyllis</name>.</author>
+     <bibl id="p047">
+      <idno>p047</idno>
+      <author><name type="last">Hollander</name>, <name type="first">Phyllis</name>.</author>
       <title type="ref">
        <hi rend="italics">100 Greatest Women in Sports. </hi>
       </title>
@@ -27998,9 +28015,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p049">
-      <idno>p049</idno>
-      <author><name type="last">Hosier</name>,<name type="first">Helen Kooiman</name>.</author>
+     <bibl id="p048">
+      <idno>p048</idno>
+      <author><name type="last">Hosier</name>, <name type="first">Helen Kooiman</name>.</author>
       <title type="ref">
        <hi rend="italics">Silhouettes: Women Behind Great Men. </hi>
       </title>
@@ -28012,9 +28029,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p050">
-      <idno>p050</idno>
-      <author><name type="last">Hunt</name>,<name type="first">Rockwell Dennis</name>.</author>
+     <bibl id="p049">
+      <idno>p049</idno>
+      <author><name type="last">Hunt</name>, <name type="first">Rockwell Dennis</name>.</author>
       <title type="ref">
        <hi rend="italics">Great Women of California. </hi>
       </title>
@@ -28025,9 +28042,9 @@
       <note> A reprint from the Historical Society of California Quarterly.</note>
      </bibl>
      
-     <bibl id="p051">
-      <idno>p051</idno>
-      <author><name type="last">Igus</name>,<name type="first">Toyomi</name>.</author>
+     <bibl id="p050">
+      <idno>p050</idno>
+      <author><name type="last">Igus</name>, <name type="first">Toyomi</name>.</author>
       <title type="ref">
        <hi rend="italics">Book of Black Heroes, Vol 2: Great Women in the Struggle: An Introduction for Young Readers. </hi>
       </title>
@@ -28047,9 +28064,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p052">
-      <idno>p052</idno>
-      <author><name type="last">Innis</name>,<name type="first">Mary Quayle</name>, ed.</author>
+     <bibl id="p051">
+      <idno>p051</idno>
+      <author><name type="last">Innis</name>, <name type="first">Mary Quayle</name>, ed.</author>
       <title type="ref">
        <hi rend="italics">The Clear Spirit: Twenty Canadian Women and Their Times. </hi>
       </title>
@@ -28068,9 +28085,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p053">
-      <idno>p053</idno>
-      <author><name type="last">Jackson</name>,<name type="first">George F.</name></author>
+     <bibl id="p052">
+      <idno>p052</idno>
+      <author><name type="last">Jackson</name>, <name type="first">George F.</name></author>
       <title type="ref">
        <hi rend="italics">Black Women, Makers of History: A Portrait. </hi>
       </title>
@@ -28098,9 +28115,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p054">
-      <idno>p054</idno>
-      <author><name type="last">Jacobs</name>,<name type="first">Helen Hull</name>.</author>
+     <bibl id="p053">
+      <idno>p053</idno>
+      <author><name type="last">Jacobs</name>, <name type="first">Helen Hull</name>.</author>
       <title type="ref">
        <hi rend="italics">Famous American Women Athletes. </hi>
       </title>
@@ -28112,9 +28129,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p055">
-      <idno>p055</idno>
-      <author><name type="last">Jacobs</name>,<name type="first">Helen Hull</name>.</author>
+     <bibl id="p054">
+      <idno>p054</idno>
+      <author><name type="last">Jacobs</name>, <name type="first">Helen Hull</name>.</author>
       <title type="ref">
        <hi rend="italics">Famous Modern American Women Athletes. </hi>
       </title>
@@ -28126,9 +28143,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p056">
-      <idno>p056</idno>
-      <author><name type="last">Jacoway</name>,<name type="first">Peggy</name>.</author>
+     <bibl id="p055">
+      <idno>p055</idno>
+      <author><name type="last">Jacoway</name>, <name type="first">Peggy</name>.</author>
       <title type="ref">
        <hi rend="italics">First Ladies of Arkansas. </hi>
       </title>
@@ -28140,9 +28157,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p057">
-      <idno>p057</idno>
-      <author><name type="last">James</name>,<name type="first">Edward T.</name>, ed.</author>
+     <bibl id="p056">
+      <idno>p056</idno>
+      <author><name type="last">James</name>, <name type="first">Edward T.</name>, ed.</author>
       <title type="ref">
        <hi rend="italics">Notable American Women, 1607-1950: Vols. 1-3. </hi>
       </title>
@@ -28157,9 +28174,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p058">
-      <idno>p058</idno>
-      <author><name type="last">Jenkins</name>,<name type="first">Elizabeth</name>.</author>
+     <bibl id="p057">
+      <idno>p057</idno>
+      <author><name type="last">Jenkins</name>, <name type="first">Elizabeth</name>.</author>
       <title type="ref">
        <hi rend="italics">Ten Fascinating Women. </hi>
       </title>
@@ -28182,9 +28199,9 @@
        Harriette Wilson; Lady Blessington; The Duchess of Lauderdale; Mary Fitton.</note>
      </bibl>
      
-     <bibl id="p059">
-      <idno>p059</idno>
-      <author><name type="last">Johnson</name>,<name type="first">Diane</name>.</author>
+     <bibl id="p058">
+      <idno>p058</idno>
+      <author><name type="last">Johnson</name>, <name type="first">Diane</name>.</author>
       <title type="ref">
        <hi rend="italics">The True History of the First Mrs. Meredith and Other Lesser Lives. </hi>
       </title>
@@ -28202,9 +28219,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p060">
-      <idno>p060</idno>
-      <author><name type="last">Kaplan</name>,<name type="first">Cora</name>.</author>
+     <bibl id="p059">
+      <idno>p059</idno>
+      <author><name type="last">Kaplan</name>, <name type="first">Cora</name>.</author>
       <title type="ref">
        <hi rend="italics">Salt and Bitter and Good: Three Centuries of English and American Women Poets. </hi>
       </title>
@@ -28222,9 +28239,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p061">
-      <idno>p061</idno>
-      <author><name type="last">Kay</name>,<name type="first">Ernest</name>.</author>
+     <bibl id="p060">
+      <idno>p060</idno>
+      <author><name type="last">Kay</name>, <name type="first">Ernest</name>.</author>
       <title type="ref">
        <hi rend="italics">The World Who's Who of Women in Education. </hi>
       </title>
@@ -28237,9 +28254,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p062">
-      <idno>p062</idno>
-      <author><name type="last">Kerr</name>,<name type="first">Frances Willard</name>.</author>
+     <bibl id="p061">
+      <idno>p061</idno>
+      <author><name type="last">Kerr</name>, <name type="first">Frances Willard</name>.</author>
       <title type="ref">
        <hi rend="italics">Women in Radio: A View of Important Jobs Held in Radio by Women, Illustrated by Biographical Sketches. </hi>
       </title>
@@ -28256,9 +28273,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p063">
-      <idno>p063</idno>
-      <author><name type="last">Kohler</name>,<name type="first">Ruth Miriam De Young</name>.</author>
+     <bibl id="p062">
+      <idno>p062</idno>
+      <author><name type="last">Kohler</name>, <name type="first">Ruth Miriam De Young</name>.</author>
       <title type="ref">
        <hi rend="italics">The Story of Wisconsin Women. </hi>
       </title>
@@ -28270,9 +28287,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p064">
-      <idno>p064</idno>
-      <author><name type="last">Kulkin</name>,<name type="first">Mary Ellen</name>, and <name type="first">Tim</name><name type="last">Basaldua</name>.</author>
+     <bibl id="p063">
+      <idno>p063</idno>
+      <author><name type="last">Kulkin</name>, <name type="first">Mary Ellen</name>, and <name type="first">Tim</name> <name type="last">Basaldua</name>.</author>
       <title type="ref">
        <hi rend="italics">Her Way: Biographies of Women for Young People. </hi>
       </title>
@@ -28284,9 +28301,9 @@
       <note>"A collection of 260 short profiles and bibliographies of notable women throughout history and an additional bibliography of over 300 collective biographies of women." </note>
      </bibl>
      
-     <bibl id="p065">
-      <idno>p065</idno>
-      <author><name type="last">Laffin</name>,<name type="first">John</name>.</author>
+     <bibl id="p064">
+      <idno>p064</idno>
+      <author><name type="last">Laffin</name>, <name type="first">John</name>.</author>
       <title type="ref">
        <hi rend="italics">Women in Battle. </hi>
       </title>
@@ -28304,9 +28321,9 @@
        Liza Ivanovna Chaikina and Vera Krylova; Nancy Wake. </note>
      </bibl>
      
-     <bibl id="p066">
-      <idno>p066</idno>
-      <author><name type="last">Lagemann</name>,<name type="first">Ellen Condliffe</name>.</author>
+     <bibl id="p065">
+      <idno>p065</idno>
+      <author><name type="last">Lagemann</name>, <name type="first">Ellen Condliffe</name>.</author>
       <title type="ref">
        <hi rend="italics">A Generation of Women: Education in the Lives of Progressive Reformers. </hi>
       </title>
@@ -28318,9 +28335,9 @@
       <note>TOC: Grace Hoadley Dodge; Maud Nathan; Lillian D. Wald; Leonora O'Reilly; Rose Schneiderman. </note>
      </bibl>
      
-     <bibl id="p067">
-      <idno>p067</idno>
-      <author><name type="last">Lauwick</name>,<name type="first">Herve</name>.</author>
+     <bibl id="p066">
+      <idno>p066</idno>
+      <author><name type="last">Lauwick</name>, <name type="first">Herve</name>.</author>
       <title type="ref">
        <hi rend="italics">Heroines of the Sky. </hi>
       </title>
@@ -28334,9 +28351,9 @@
       </note>
      </bibl>
      
-     <bibl id="p068">
-      <idno>p068</idno>
-      <author><name type="last">Le Page</name>,<name type="first">June Weiner</name>.</author>
+     <bibl id="p067">
+      <idno>p067</idno>
+      <author><name type="last">Le Page</name>, <name type="first">June Weiner</name>.</author>
       <title type="ref">
        <hi rend="italics">Women Composers, Conductors, and Musicians of the 20th Century: Selected Biographies. </hi>
       </title>
@@ -28350,24 +28367,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p069">
-      <idno>p069</idno>
-      <author><name type="last">Lee</name>,<name type="first">F.H.</name></author>
-      <title type="ref">
-       <hi rend="italics">The Children's Book of Heroines. </hi>
-      </title>
-      <imprint>
-       <pubPlace>London:</pubPlace>
-       <publisher>George G. Harrap,</publisher>
-       <date>1940;</date>
-       <date>1948.</date>
-      </imprint>
-      <note>TOC: Grace Darling; Elizabeth Gurney; Edith Cavell; Joan of Arc; Florence Nightingale; Marie Curie; and others. </note>
-     </bibl>
-     
-     <bibl id="p070">
-      <idno>p070</idno>
-      <author><name type="last">Legget</name>,<name type="first">Jane</name>.</author>
+     <bibl id="p068">
+      <idno>p068</idno>
+      <author><name type="last">Legget</name>, <name type="first">Jane</name>.</author>
       <title type="ref">
        <hi rend="italics">Local Heroines: A Woman's History Gazeteer of England, Scotland, and Wales. </hi>
       </title>
@@ -28387,9 +28389,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p071">
-     <idno>p071</idno>
-     <author><name type="last">Leon</name>,<name type="first">Vicki</name>.</author>
+     <bibl id="p069">
+     <idno>p069</idno>
+     <author><name type="last">Leon</name>, <name type="first">Vicki</name>.</author>
      <title type="ref">
       <hi rend="italics">Uppity Women of Medieval Times. </hi>
      </title>
@@ -28406,9 +28408,9 @@
      <note> </note>
      </bibl>
      
-     <bibl id="p072">
-      <idno>p072</idno>
-      <author><name type="last">Leonardi</name>,<name type="first">Susan J.</name></author>
+     <bibl id="p070">
+      <idno>p070</idno>
+      <author><name type="last">Leonardi</name>, <name type="first">Susan J.</name></author>
       <title type="ref">
        <hi rend="italics">Dangerous by Degrees: Women at Oxford and the Somerville College Novelists. </hi>
       </title>
@@ -28420,9 +28422,9 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p073">
-      <idno>p073</idno>
-      <author><name type="last">Liston</name>,<name type="first">Robert A.</name></author>
+     <bibl id="p071">
+      <idno>p071</idno>
+      <author><name type="last">Liston</name>, <name type="first">Robert A.</name></author>
       <title type="ref">
        <hi rend="italics">Women Who Ruled: Cleopatra to Elizabeth II. </hi>
       </title>
@@ -28434,9 +28436,9 @@
       <note> Biographies of 17 women rulers, including Cleopatra, Elizabeth I of England, and Golda Meir, focus on how they came to power, their accomplishments, methods of ruling, and impact on history.</note>
      </bibl>
      
-     <bibl id="p074">
-      <idno>p074</idno>
-      <author><name type="last">Lofts</name>,<name type="first">Norah</name>.</author>
+     <bibl id="p072">
+      <idno>p072</idno>
+      <author><name type="last">Lofts</name>, <name type="first">Norah</name>.</author>
       <title type="ref">
        <hi rend="italics">Women in the Old Testament: Twenty Psychological Portraits. </hi>
       </title>
@@ -28460,9 +28462,9 @@
        Delilah; Ruth – Michal; Bathsheba; The woman of En-dor; A nameless woman; The Queen of Sheba; Jezebel; Naaman's wife's little maid; Esther.</note>
      </bibl>
      
-     <bibl id="p075">
-      <idno>p075</idno>
-      <author><name type="last">Longford</name>,<name type="first">Elizabeth</name>.</author>
+     <bibl id="p073">
+      <idno>p073</idno>
+      <author><name type="last">Longford</name>, <name type="first">Elizabeth</name>.</author>
       <title type="ref">
        <hi rend="italics">Eminent Victorian Women. </hi>
       </title>
@@ -28485,9 +28487,9 @@
       <note>TOC: The Brontës; George Eliot; Florence Nightingale; Josephine Butler; Annie Besant; Ellen Terry; Harriet Beecher Stowe; Mary Kingsley; James Barry. </note>
      </bibl>
      
-     <bibl id="p076">
-      <idno>p076</idno>
-      <author><name type="last">Lord</name>,<name type="first">Daniel A.</name></author>
+     <bibl id="p074">
+      <idno>p074</idno>
+      <author><name type="last">Lord</name>, <name type="first">Daniel A.</name></author>
       <title type="ref">
        <hi rend="italics">Heroines of God. </hi>
       </title>
@@ -28503,7 +28505,7 @@
      
      <bibl id="p077">
       <idno>p077</idno>
-      <author><name type="last">Lord</name>,<name type="first">F. Townley</name>.</author>
+      <author><name type="last">Lord</name>, <name type="first">F. Townley</name>.</author>
       <title type="ref">
        <hi rend="italics">Great Women in Christian History. </hi>
       </title>
@@ -28519,7 +28521,7 @@
      
      <bibl id="p078">
       <idno>p078</idno>
-      <author><name type="last">Lotz</name>,<name type="first">Philip Henry</name>.</author>
+      <author><name type="last">Lotz</name>, <name type="first">Philip Henry</name>.</author>
       <title type="ref">
        <hi rend="italics">Women Leaders. </hi>
       </title>
@@ -28535,7 +28537,7 @@
      
      <bibl id="p079">
       <idno>p079</idno>
-      <author><name type="last">Love</name>,<name type="first">Barbara J.</name>, ed.</author>
+      <author><name type="last">Love</name>, <name type="first">Barbara J.</name>, ed.</author>
       <title type="ref">
        <hi rend="italics">Foremost Women in Communications: A Biographical Reference Work on Accomplished Women in Broadcasting, Publishing, Advertising, Public Relations, and Allied Professions. </hi>
       </title>
@@ -28549,7 +28551,7 @@
      
      <bibl id="p080">
       <idno>p080</idno>
-      <author><name type="last">Lovejoy</name>,<name type="first">Esther Pohl</name>.</author>
+      <author><name type="last">Lovejoy</name>, <name type="first">Esther Pohl</name>.</author>
       <title type="ref">
        <hi rend="italics">Women Doctors of the World. </hi>
       </title>
@@ -28563,7 +28565,7 @@
      
      <bibl id="p081">
       <idno>p081</idno>
-      <author><name type="last">Macartney</name>,<name type="first">Clarence Edward Noble</name>.</author>
+      <author><name type="last">Macartney</name>, <name type="first">Clarence Edward Noble</name>.</author>
       <title type="ref">
        <hi rend="italics">Great Women of the Bible. </hi>
       </title>
@@ -28593,7 +28595,7 @@
      
      <bibl id="p082">
       <idno>p082</idno>
-      <author><name type="last">Maine</name>,<name type="first">Charles Eric</name>.</author>
+      <author><name type="last">Maine</name>, <name type="first">Charles Eric</name>.</author>
       <title type="ref">
        <hi rend="italics">World- Famous Mistresses. </hi>
       </title>
@@ -28607,7 +28609,7 @@
      
      <bibl id="p083">
       <idno>p083</idno>
-      <author><name type="last">Manley</name>,<name type="first">Shawn</name>, and<name type="first">Susan</name><name type="last">Belcher</name>.</author>
+      <author><name type="last">Manley</name>, <name type="first">Shawn</name>, and <name type="first">Susan</name> <name type="last">Belcher</name>.</author>
       <title type="ref">
        <hi rend="italics">O, These Extraordinary Women! or The Joys of Literary Lib. </hi>
       </title>
@@ -28617,6 +28619,21 @@
        <date>1972.</date>
       </imprint>
       <note>TOC:  Mary Wollstonecraft; Mary Shelley; the Brontës; Margaret Fuller and the Peabody girls; Louisa May Alcott; Harriet Beecher Stowe; Cathleen Ni Houlihan. </note>
+     </bibl>
+     
+     <bibl id="p084">
+      <idno>p084</idno>
+      <author><name type="last">Markus</name>, <name type="first">Julia</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Across an Untried Sea: Discovering Lives Hidden in the Shadow of Convention and Time. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Knopf,</publisher>
+       <date>2000.</date>
+      </imprint>
+      <note>Retrieves the lives of Victorian women--writers, actresses, poets, journalists, sculptors, and social reformers--celebrated in their day but forgotten in ours. 
+       Focuses in particular on Charlotte Cushman and Jane Welsh Carlyle. </note>
      </bibl>
      
     </div2>
