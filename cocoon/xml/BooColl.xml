@@ -17343,7 +17343,8 @@
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Association Press,</publisher>
-       <date>1940.</date>
+       <date>1940;</date>
+       <date>1946.</date>
       </imprint> Vol. 2 of His Creative Personalities Series. <note> TOC: Jane Addams, Pioneer in
        Social Justice and Peace, by Edna M. Baxter; Evangeline Booth, General of the Salvation Army,
        by L.B. Hazzard; Edith Cavell, Martyr Nurse, by J.W. Prince; Marie Curie. Eminent Scientist,
@@ -18823,16 +18824,25 @@
        <pubPlace>London:</pubPlace>
        <publisher>Methuen,</publisher>
        <date>1940;</date>
-       <date>1941.</date>
+       <date>1941;</date>
+       <date>1943;</date>
+       <date>1949.</date>
       </imprint>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Dodd, Mead,</publisher>
+      <date>1940;</date>
        <date>1941;</date>
+       <date>1945;</date>
        <date>1946;</date>
        <date>1952;</date>
        <date>1956;</date>
        <date>1963.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Heinemann,</publisher>
+       <date>1941.</date>
       </imprint>
      </bibl>
 
@@ -19065,8 +19075,12 @@
       <imprint>
        <pubPlace>[Springfield, IL]:</pubPlace>
        <publisher>Clarke,</publisher>
+      <date>1900;</date>
        <date>1940.</date>
       </imprint>
+      <note>Named People:  Florence Allen; Johanna Maria Heckewelder; Caroline Scott Harrison; 
+       Lucy Webb Hayes; Charles Phelps Taft; Julia Bundy Foraker; Chauncy L. Newcomer; Katherine Kennedy Brown; 
+       Martha Wheaton Bowers Taft; Mary Belle Grossman. </note>
      </bibl>
 
      <bibl id="a597">
@@ -28049,7 +28063,7 @@
        <hi rend="italics">Book of Black Heroes, Vol 2: Great Women in the Struggle: An Introduction for Young Readers. </hi>
       </title>
       <imprint>
-       <pubPlace>East Ornage, N.J:</pubPlace>
+       <pubPlace>East Ornage, NJ:</pubPlace>
        <publisher>Just Us Books,</publisher>
        <date>1991;</date>
        <date>1992;</date>
@@ -28359,7 +28373,7 @@
       </title>
       <extent rend="vols">2 vols.,</extent>
       <imprint>
-       <pubPlace>Metuchen, N.J:</pubPlace>
+       <pubPlace>Metuchen, NJ:</pubPlace>
        <publisher>Scarecrow,</publisher>
        <date>1980;</date>
        <date>1983.</date>
@@ -28415,7 +28429,7 @@
        <hi rend="italics">Dangerous by Degrees: Women at Oxford and the Somerville College Novelists. </hi>
       </title>
       <imprint>
-       <pubPlace>New Brunswick, N.J.:</pubPlace>
+       <pubPlace>New Brunswick, NJ:</pubPlace>
        <publisher>Rutgers University Press,</publisher>
        <date>1989.</date>
       </imprint>
@@ -28503,40 +28517,8 @@
       <note>Brief biographical sketches of 23 women saints. </note>
      </bibl>
      
-     <bibl id="p077">
-      <idno>p077</idno>
-      <author><name type="last">Lord</name>, <name type="first">F. Townley</name>.</author>
-      <title type="ref">
-       <hi rend="italics">Great Women in Christian History. </hi>
-      </title>
-      <imprint>
-       <pubPlace>London:</pubPlace>
-       <publisher>Cassell,</publisher>
-       <date>1940.</date>
-      </imprint>
-      <note>TOC: Perpetua, a martyr for Christ; Monica, the mother of a saint; Hilda, abbess of Whitby; St. Bridget of Kildare; St. Elizabeth of Hungary; 
-       St. Cahehrine of Siena; Joan of Arc; Catherine von Bora; Margaret, queen of Navarre; St. Teresa; Lucy Hutchinson; Madame Guyon; Margaret Fell; 
-       Susannah Wesley; The countess of Huntingdon; Catherine Booth; Bibliography.  </note>
-     </bibl>
-     
-     <bibl id="p078">
-      <idno>p078</idno>
-      <author><name type="last">Lotz</name>, <name type="first">Philip Henry</name>.</author>
-      <title type="ref">
-       <hi rend="italics">Women Leaders. </hi>
-      </title>
-      <imprint>
-       <pubPlace>New York:</pubPlace>
-       <publisher>Association,</publisher>
-       <date>1940;</date>
-       <date>1946.</date>
-      </imprint>
-      <note>TOC: Jane Addams; Evangeline Booth; Edith Cavell; Marie Curie; Amelia Earhart; Helen Keller; Muriel Lester; Jenny Lind, the Swedish nightingale; 
-       Florence Nightingale; Alice Freeman Palmer; Maude Royden; Harriet Beecher Stowe; Susanna Wesley; Mary E. Woolley. </note>
-     </bibl>
-     
-     <bibl id="p079">
-      <idno>p079</idno>
+     <bibl id="p075">
+      <idno>p075</idno>
       <author><name type="last">Love</name>, <name type="first">Barbara J.</name>, ed.</author>
       <title type="ref">
        <hi rend="italics">Foremost Women in Communications: A Biographical Reference Work on Accomplished Women in Broadcasting, Publishing, Advertising, Public Relations, and Allied Professions. </hi>
@@ -28549,8 +28531,8 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p080">
-      <idno>p080</idno>
+     <bibl id="p076">
+      <idno>p076</idno>
       <author><name type="last">Lovejoy</name>, <name type="first">Esther Pohl</name>.</author>
       <title type="ref">
        <hi rend="italics">Women Doctors of the World. </hi>
@@ -28563,8 +28545,8 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p081">
-      <idno>p081</idno>
+     <bibl id="p077">
+      <idno>p077</idno>
       <author><name type="last">Macartney</name>, <name type="first">Clarence Edward Noble</name>.</author>
       <title type="ref">
        <hi rend="italics">Great Women of the Bible. </hi>
@@ -28593,8 +28575,8 @@
        The woman who lost and found life's greatest treasure (2 Kings 4:16,20,36); The woman who touched Him (Luke 8:45); The ideal woman (Proverbs 31:29. </note>
      </bibl>
      
-     <bibl id="p082">
-      <idno>p082</idno>
+     <bibl id="p078">
+      <idno>p078</idno>
       <author><name type="last">Maine</name>, <name type="first">Charles Eric</name>.</author>
       <title type="ref">
        <hi rend="italics">World- Famous Mistresses. </hi>
@@ -28607,8 +28589,8 @@
       <note> </note>
      </bibl>
      
-     <bibl id="p083">
-      <idno>p083</idno>
+     <bibl id="p079">
+      <idno>p079</idno>
       <author><name type="last">Manley</name>, <name type="first">Shawn</name>, and <name type="first">Susan</name> <name type="last">Belcher</name>.</author>
       <title type="ref">
        <hi rend="italics">O, These Extraordinary Women! or The Joys of Literary Lib. </hi>
@@ -28621,8 +28603,8 @@
       <note>TOC:  Mary Wollstonecraft; Mary Shelley; the Brontës; Margaret Fuller and the Peabody girls; Louisa May Alcott; Harriet Beecher Stowe; Cathleen Ni Houlihan. </note>
      </bibl>
      
-     <bibl id="p084">
-      <idno>p084</idno>
+     <bibl id="p080">
+      <idno>p080</idno>
       <author><name type="last">Markus</name>, <name type="first">Julia</name>.</author>
       <title type="ref">
        <hi rend="italics">Across an Untried Sea: Discovering Lives Hidden in the Shadow of Convention and Time. </hi>
@@ -28636,6 +28618,235 @@
        Focuses in particular on Charlotte Cushman and Jane Welsh Carlyle. </note>
      </bibl>
      
+     <bibl id="p081">
+      <idno>p081</idno>
+      <author><name type="last">Marsh</name>, <name type="first">Jan</name>.</author>
+      <title type="ref">
+       <hi rend="italics">The Pre-Raphaelite Sisterhood. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>St. Martin's,</publisher>
+       <date>1985.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Quartet Books,</publisher>
+       <date>1985;</date>
+       <date>1992;</date>
+       <date>1998.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p082">
+      <idno>p082</idno>
+      <author><name type="last">Mathews</name>, <name type="first">Winifred</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Dauntless Women: Stories of Pioneer Wives. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Friendship,</publisher>
+       <date>1947.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Edinburgh House,</publisher>
+       <date>1947;</date>
+       <date>1949.</date>
+      </imprint> 
+      <imprint>
+       <pubPlace>Freeport, NY:</pubPlace>
+       <publisher>Books for Libraries,</publisher>
+       <date>1970.</date>
+      </imprint>
+      <note>TOC: Ann Judson; Mary Moffat; Mary Livingstone; Christina Coillard; Mary Williams; 
+       Agnes Watt; Lillias Underwood.</note>
+     </bibl>
+     
+     <bibl id="p083">
+      <idno>p083</idno>
+      <author><name type="last">Migel</name>, <name type="first">Parmenia</name>.</author>
+      <title type="ref">
+       <hi rend="italics">The Ballerinas: From the Court of Louis XIV to Pavlova. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London? and</pubPlace>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Macmillan,</publisher>
+       <date>1972.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>De Capo,</publisher>
+       <date>1972;</date>
+       <date>1980.</date>
+      </imprint> 
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p084">
+      <idno>p084</idno>
+      <author><name type="last">Miller</name>, <name type="first">Basil</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Ten Girls Who Became Famous. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Grand Rapids, MI:</pubPlace>
+       <publisher>Zondervan,</publisher>
+       <date>1946.</date>
+      </imprint>
+      <note>TOC: Susanna Wesley; Ann Judson; Mary Slessor; Florence Nightingale; Pandita Ramabai; 
+       Madame Chiang Kai-shek; Betty Stam; Frances Willard; Fanny Crosby; Frances Ridley Havergal. </note>
+     </bibl>
+     
+     <bibl id="p085">
+      <idno>p085</idno>
+      <author><name type="last">Miller</name>, <name type="first">Basil</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Ten Famous Girls of the Bible. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Grand Rapids, MI:</pubPlace>
+       <publisher>Zondervan,</publisher>
+       <date>1948.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p086">
+      <idno>p086</idno>
+      <author><name type="last">Miller</name>, <name type="first">Basil</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Ten Girls of the Bible Who Became Famous. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Grand Rapids, MI:</pubPlace>
+       <publisher>Zondervan,</publisher>
+       <date>1960.</date>
+      </imprint>
+      <note>TOC: Sarah; Rebekah; Rachel; Miriam; Ruth; Esther; Mary and Martha; Deborah; Hannah; Rhoda. </note>
+     </bibl>
+     
+     <bibl id="p087">
+      <idno>p087</idno>
+      <author><name type="last">Moers</name>, <name type="first">Ellen</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Literary Women: The Great Writers. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Oxford University Press,</publisher>
+       <date>1976;</date>
+       <date>1985.</date>
+      </imprint>
+    <imprint>
+     <pubPlace>Garden City, NY:</pubPlace>
+     <publisher>Doubleday,</publisher>
+     <date>1976.</date>
+    </imprint>
+      <imprint>
+       <pubPlace>Garden City, NY:</pubPlace>
+       <publisher>Anchor,</publisher>
+       <date>1977.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>W.H. Allen,</publisher>
+       <date>1977.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Women's Press,</publisher>
+       <date>1978;</date>
+       <date>1980;</date>
+       <date>1986.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>W.K. Ellen,</publisher>
+       <date>1977.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p088">
+      <idno>p088</idno>
+      <author><name type="last">Morrow</name>, <name type="first">Thomas M.</name></author>
+      <title type="ref">
+       <hi rend="italics">Early Methodist Women. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Epworth,</publisher>
+       <date>1967.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p089">
+      <idno>p089</idno>
+      <author><name type="last">Northcroft</name>, <name type="first">Dora</name>.</author>
+      <title type="ref">
+       <hi rend="italics">More Yarns on Women Pioneers. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Wallington, Surrey?:</pubPlace>
+       <publisher>Religious Education,</publisher>
+       <date>1962.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p090">
+      <idno>p090</idno>
+      <author><name type="last">Northcroft</name>, <name type="first">Dora</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Yarns on Women Pioneers. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Wallington, Surrey:</pubPlace>
+       <publisher>Religious Education,</publisher>
+       <date>1944;</date>
+       <date>1949;</date>
+       <date>1959.</date>
+      </imprint>
+      <note>TOC: Sarah Martin; Dorothea Dix; Harriet Beecher Stowe; Louisa Twining; Clara Barton; 
+       Octavia Hill; Adelaide Anderson; Agnes Weston; Frances Willard; Millicent Fawcett; Karen Jeppe; 
+       Daisy Bates; Elizabeth Kenny. </note>
+     </bibl>
+     
+     <bibl id="p091">
+      <idno>p091</idno>
+      <author><name type="last">Northcroft</name>, <name type="first">Dorothea Mary</name>.</author>
+      <title type="ref">
+       <hi rend="italics">American Girls of Adventure. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>F. Muller,</publisher>
+       <date>1947.</date>
+      </imprint>
+      <note>TOC: Mary Lyon; Anna Howard Shaw; Jane Addams; Frances Willard; Louisa Alcott; 
+       Clara Barton; Carrie Chapman Catt; Amelia Earhart; Florence Harriman; Eleanor Roosevelt.</note>
+     </bibl>
+     
+     <bibl id="p092">
+      <idno>p092</idno>
+      <author><name type="last">Olivier</name>, <name type="first">Edith</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Four Victorian Ladies of Wiltshire, with an Essay on those Leisured Ladies. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Faber &amp; Faber,</publisher>
+       <date>1945;</date>
+       <date>1946.</date>
+      </imprint>
+      <note>TOC: Miss Annie Moberly; Mrs. Alfred Morrison; Miss Barbara Townsend; Mrs. Percy Wyndham.</note>
+     </bibl>
+    
     </div2>
    </div1>
   </body>
