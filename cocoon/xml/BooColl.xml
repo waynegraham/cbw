@@ -20098,7 +20098,7 @@
       <idno>a636</idno>
       <editor><name type="last">Pennock</name>, <name type="first">Meta Rutter</name>,</editor> ed.
        <title type="ref">
-       <hi rend="italics">Makers of Nursing History.</hi>
+       <hi rend="italics">Makers of Nursing History: Portraits and Pen Sketches of a Hundred and Nine Prominent Women.</hi>
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
@@ -20481,6 +20481,45 @@
        Beauclerc; Bella the Fortuneteller; Boadicea, Queen of the Iceni Britons.</note>
      </bibl>
 
+     <bibl id="a654A">
+      <ref>654A.</ref>
+      <idno>a654A</idno>
+      <title type="ref">
+       <hi rend="italics">Principal Women of the Empire.</hi>
+      </title>
+     <extent rend="vols">2 vols.?,</extent>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Mitre,</publisher>
+       <date>1940.</date>
+      </imprint>
+      <note>Volume 1: Australia and New Zealand.  Volume 2?: South Africa. </note>
+     </bibl>
+     
+     <bibl id="a654B">
+      <ref>654B.</ref>
+      <idno>a654B</idno>
+      <author><name type="last">Prindiville</name>, <name type="first">Kathleen</name>.</author>
+      <title type="ref">
+       <hi rend="italics">First Ladies.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Macmillan,</publisher>
+       <date>1932;</date>
+       <date>1938;</date>
+       <date>1941;</date>
+       <date>1945;</date>
+       <date>1951;</date>
+       <date>1954;</date>
+       <date>1960;</date>
+       <date>1962;</date>
+       <date>1964;</date>
+       <date>1965.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
      <bibl id="a655">
       <ref>655.</ref>
       <idno>a655</idno>
@@ -21021,6 +21060,21 @@
       <note> TOC: Anne Bracegirdle; Anne Oldfield; Margaret Wofflington; Frances Abington; Sarah
        Siddons; Dora Jordan; "Perdita" Robinson; Frances Ann Kemble; Rache; Charlotte Cushman;
        Adelaide Neilson; Ristori. </note>
+     </bibl>
+     
+     <bibl id="a680A">
+      <ref>680A.</ref>
+      <idno>a680A</idno>
+      <author><name type="last">Rockwell</name>, <name type="first">Donald Shumway</name>, and <name type="first">G. Maillard</name> <name type="last">Kesslere</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women of Achievement: Biographies and Portraits of Outstanding American Women.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>House of Field,</publisher>
+       <date>1940.</date>
+      </imprint>
+      <note> </note>
      </bibl>
 
      <bibl id="a681"><ref>681.</ref>
@@ -28845,6 +28899,401 @@
        <date>1946.</date>
       </imprint>
       <note>TOC: Miss Annie Moberly; Mrs. Alfred Morrison; Miss Barbara Townsend; Mrs. Percy Wyndham.</note>
+     </bibl>
+     
+     <bibl id="p093">
+      <idno>p093</idno>
+      <author><name type="last">Opfell</name>, <name type="first">Olga S.</name></author>
+      <title type="ref">
+       <hi rend="italics">The Lady Laureates: Women who have Won the Nobel Prize. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Metuchen, NJ:</pubPlace>
+       <publisher>Scarecrow,</publisher>
+       <date>1978;</date>
+       <date>1986.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p094">
+      <idno>p094</idno>
+      <author><name type="last">Osen</name>, <name type="first">Lynne M.</name></author>
+      <title type="ref">
+       <hi rend="italics">Women in Mathematics. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Boston and</pubPlace>
+       <pubPlace>Cambridge, MA?:</pubPlace>
+       <publisher>MIT Press,</publisher>
+       <date>1974;</date>
+       <date>1975;</date>
+       <date>1977;</date>
+       <date>1979;</date>
+       <date>1982;</date>
+       <date>1984;</date>
+       <date>1988;</date>
+       <date>1990;</date>
+       <date>1995;</date>
+       <date>1999.</date>
+      </imprint>
+      <note>Hypatia; The "Witch" of Agnesi; Emilie de Breteuil, Marquise du Châtelet; Caroline Herschel; Sophie Germain; 
+       Mary Fairfax Somerville; Sonya Corvin; Krukovsky Kovalevsky; Emmy (Amalie) Noether. </note>
+     </bibl>
+     
+     <bibl id="p095">
+      <idno>p095</idno>
+      <author><name type="last">Pease</name>, <name type="first">Alice Campbell</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Significant Women of the Bible. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Grand Rapids, MI:</pubPlace>
+       <publisher>Zondervan,</publisher>
+       <date>1941.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p096">
+      <idno>p096</idno>
+      <author><name type="last">Perl</name>, <name type="first">Teri</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Math Equals: Biographies of Women Mathematicians + Related Activities.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Menlo Park, CA:</pubPlace>
+       <publisher>Addison-Wesley,</publisher>
+       <date>1978.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p097">
+      <idno>p097</idno>
+      <author><name type="last">Perl</name>, <name type="first">Teri</name>, <name type="first">Joan M.</name> <name type="last">Manning</name>, and <name type="first">Patsy</name> <name type="last">Christner</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women, Numbers, and Dreams: Biographical Sketches and Math Activities.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Santa Rosa, CA:</pubPlace>
+       <publisher>National Women's History Project,</publisher>
+       <date>1982.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p098">
+      <idno>p098</idno>
+      <author><name type="last">Peterson</name>, <name type="first">Karen</name>, and <name type="first">J.J.</name> <name type="last">Wilson</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women Artists: Recognition and Reappraisal from the Early Middle Ages to the Twentieth Century.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Harper &amp; Row,</publisher>
+       <date>1976;</date>
+       <date>1980.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>NYU Press,</publisher>
+       <date>1976.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Women's Press,</publisher>
+       <date>1976;</date>
+       <date>1978;</date>
+       <date>1985.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p099">
+      <idno>p099</idno>
+      <author><name type="last">Phillips</name>, <name type="first">Emma</name>.</author>
+      <title type="ref">
+       <hi rend="italics">33 Women of the Restoration.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Independance, Mo:</pubPlace>
+       <publisher>Herald House,</publisher>
+       <date>1960.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p100">
+      <idno>p100</idno>
+      <author><name type="last">Plante</name>, <name type="first">David</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Difficult Women: A Memoir of Three.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Atheneum,</publisher>
+       <date>1983.</date>
+      </imprint>
+   <imprint>
+    <pubPlace>London:</pubPlace>
+    <publisher>V. Galancz, </publisher>
+    <date>1979;</date>
+    <date>1983.</date>
+   </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Dutton,</publisher>
+       <date>1983;</date>
+       <date>1984.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+      <publisher>Futura,</publisher>
+       <date>1983;</date>
+       <date>1984.</date>
+      </imprint>
+      <note>TOC: Jean Rhys; Sonia Orwell; Germaine Greer. </note>
+     </bibl>
+     
+     <bibl id="p101">
+      <idno>p101</idno>
+      <author><name type="last">Prather-Moses</name>, <name type="first">Alice Irma</name>.</author>
+      <title type="ref">
+       <hi rend="italics">The International Dictionary of Women Workers in the Visual Arts: A Historical Survey from the Distant Past to the Early Decades of the Twentieth Century.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Metuchen, NJ:</pubPlace>
+       <publisher>Scarecrow,</publisher>
+       <date>1981.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
+     <bibl id="p102">
+      <idno>p102</idno>
+      <author><name type="last">Prose</name>, <name type="first">Francine</name>.</author>
+      <title type="ref">
+       <hi rend="italics">The Lives of the Muses: Nine Women and the Artists They Inspired.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Harper Collins,</publisher>
+       <date>2002.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Toronto:</pubPlace>
+       <publisher>HarperFlamingoCanada,</publisher>
+       <date>2002.</date>
+      </imprint>
+        <imprint>
+       <pubPlace>Toronto:</pubPlace>
+       <publisher>Harper Perennial,</publisher>
+      <date>2002;</date>
+       <date>2005.</date>
+      </imprint> 
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Perennial,</publisher>
+       <date>2003.</date>
+      </imprint>
+      <imprint>
+      <pubPlace>Toronto:</pubPlace>
+      <publisher>HarperPerennialCanada,</publisher>
+      <date>2003.</date>
+     </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Aurum,</publisher>
+       <date>2003;</date>
+       <date>2004.</date>
+      </imprint>
+      <note>TOC: Hester Thrale; Alice Liddell; Elizabeth Siddal; Lou Andreas Salomé; Gala Dalí; Lee Miller; Charis Weston; Suzanne Farrell; Yoko Ono.</note>
+     </bibl>
+     
+     <bibl id="p103">
+      <idno>p103</idno>
+      <author><name type="last">Pusat</name>, <name type="first">Badan Pembina Pahlawan</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Sri Kandi bangsaku: Heroines of Indonesian History.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Jakarta:</pubPlace>
+       <publisher>Badan Pembina Pablawan Pusat, Dept. of Social Affairs,</publisher>
+       <date>1970.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Jakarta:</pubPlace>
+       <publisher>Central Board for National Heroes Affairs,</publisher>
+     <date>1974.</date>
+      </imprint>
+      <note> TOC: Marta Christina Tijahahu; Tjut Nja Dien; Tjut Nja Meutia; Raden Adjeng Kartini; Maria Walanda Maramis; Raden Dewi Sartika.</note>
+     </bibl>
+     
+     <bibl id="p104">
+      <idno>p104</idno>
+      <author><name type="last">Raphael</name>, <name type="first">Lois Alward Childs</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Heroines of Modern Greece.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Priv. pub. for the benefit of the Greek War Relief Assoc.,</publisher>
+       <date>1941.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+    
+     <bibl id="p105">
+      <idno>p105</idno>
+      <author><name type="last">Richey</name>, <name type="first">Eleanor</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Eminent Women of the West.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Berkeley, CA:</pubPlace>
+       <publisher>Howell-North Books.,</publisher>
+       <date>1975.</date>
+      </imprint>
+      <note>TOC: Imogen Cunningham; Florence Sabin; Abigail Scott Duniway; Gertrude Atherton; Sarah Winnemucca; Gertrude Stein; Jeannette Rankin; Isadora Duncan; Julia Morgan. </note>
+     </bibl>
+     
+     <bibl id="p106">
+      <idno>p106</idno>
+      <author><name type="last">Roberts</name>, <name type="first">Cokie</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Founding Mothers: The Women Who Raised Our Nation.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>William Morrow,</publisher>
+       <date>2004.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Perennial,</publisher>
+       <date>2004;</date>
+       <date>2005.</date>
+      </imprint>
+      <note>TOC: Abigail Adams; Mercy Otis Warren; Deborah Read Franklin; Eliza Pinckney; Catherine Littlefield Green; Esther DeBerdt Reed; and Martha Washington; and others. </note>
+     </bibl> 
+     
+     <bibl id="p107">
+      <idno>p107</idno>
+      <author><name type="last">Roberts</name>, <name type="first">Cokie</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Ladies of Liberty: The Women Who Shaped Our Nation.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>William Morrow,</publisher>
+       <date>2007;</date>
+       <date>2008.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York?:</pubPlace>
+       <publisher>Harper Collins,</publisher>
+       <date>2007.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York?:</pubPlace>
+       <publisher>Perennial,</publisher>
+       <date>2009.</date>
+      </imprint>
+      <note>TOC: Abigail Adams; Margaret Bayard Smith; Martha Jefferson; Dolly Madison; Elizabeth Monroe; Louisa Catherine Adams; Eliza Hamilton; 
+       Theodosia Burr; Rebecca Gratz; Louisa Livingston; Rosalie Calvert; Sacajawea; and others. </note>
+     </bibl>   
+     
+     <bibl id="p108">
+      <idno>p108</idno>
+      <author><name type="last">Robinson</name>, <name type="first">Jane</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Unsuitable for Ladies. An Anthology of Women Travellers.</hi>
+      </title>
+      <imprint>
+      <pubPlace>Oxford and</pubPlace>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Oxford University Press,</publisher>
+       <date>1994;</date>
+       <date>1995;</date>
+       <date>2001.</date>
+      </imprint>
+      <note> </note>
+     </bibl>   
+     
+     <bibl id="p109">
+      <idno>p109</idno>
+      <author><name type="last">Rolka</name>, <name type="first">Gail Meyer</name>.</author>
+      <title type="ref">
+       <hi rend="italics">100 Women Who Shaped World History.</hi>
+      </title>
+      <imprint>
+       <pubPlace>San Francisco, CA:</pubPlace>
+       <publisher>Bluewood,</publisher>
+       <date>1994.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Singapore:</pubPlace>
+       <publisher>Topan,</publisher>
+       <date>1996.</date>
+      </imprint>
+      <note>TOC:  Queen Makare Hatshepsut; Deborah; Sappho (Psappho); Aspasia; Cleopatra VII; Mary, the mother of Jesus Christ; Boadicea (Boudicca); St. Helena; 
+       Zenobia (Septimia Bat Zabbai); Hypatia; Theodora; Eleanor of Aquitaine; Queen Tamara (Thamar); Queen Margaret; Joan of Arc; Isabella I; Catherine of Aragon; Catherine de Medici; 
+       Elizabeth I; Queen Jinga (Jinga Mbandi); Pocahontas (Matoaka); Mary Wortley Montagu; Emilie du Chatelet; Catherine the Great; Caroline Herschel; Catherine Littlefield Greene; Marie Lavoisier; 
+       Mary Wollstonecraft; Sophie Germain; Elizabeth Fry; Mary Fairfax Somerville; Sacajawea ("Bird Woman"); La Saragossa (Maria Agustin); Lucretia Coffin Mott; Catherine Beecher; Dorothea Dix; 
+       Harriet Beecher Stowe; Ada Lovelace; Charlotte Brontë and Emily Brontë; Elizabeth Cady Stanton; Lucy Stone; Mary Ann Evans (George Eliot); Queen Victoria -- Susan Brownell Anthony -- Florence Nightingale; 
+       Harriet Tubman; Clara Barton; Elizabeth Blackwell; Mary Baker Eddy; Lakshmi Bai, Rani of Jhansi; Mary Harris Jones (Mother Jones); Lousia May Alcott; Sophia Jex-Blake; Annie Besant; Emma Lazarus; 
+       Emmeline Pankhurst and Christabel Pankhurst; Carrie Chapman Catt; Jane Addams; Mary Kingsley; Marie Curie; Sarah Breedlove Walker; Gertrude Bell; Alice Hamilton; Rosa Luxemburg; Maria Montessori; 
+       Julia Morgan; Mary McLeod Bethune; Helen Keller; Frances Perkins; Emmy Noether; Margaret Higgins Sanger; Eleanor Roosevelt; Karen Horney; Sister Elizabeth Kenny; Louise Boyd; Lucila Godey Alcaya (Gabriela Mistral); 
+       Agatha Christie; Martha Graham; Anna Freud; Amelia Earhart; Golda Meir; Margaret Mead; Marian Anderson; Margaret Bourke- White; Rachel Carson; Mother Teresa; Rosa Parks; Mildred "Babe" Didrikson Zaharias; 
+       Indira Gandhi; Betty Friedan; Shirley Chisholm; Margaret Thatcher; Anne Frank; Toni Morrison; Corazon Aquino; Valentina Tereshkova; Marian Wright Edelman; Rigoberta Menchu. </note>
+     </bibl>    
+     
+     <bibl id="p110">
+      <idno>p110</idno>
+      <author><name type="last">Rose</name>, <name type="first">Phyllis</name>, ed.</author>
+      <title type="ref">
+       <hi rend="italics">The Norton Book of Women's Lives.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>W.W. Norton,</publisher>
+       <date>1993;</date>
+       <date>1995.</date>
+      </imprint>
+      As: <title><hi rend="italics">The Penguin Book of Women's Lives.</hi></title>
+     <imprint>
+      <pubPlace>London:</pubPlace>
+      <publisher>Viking,</publisher>
+      <date>1993;</date>
+      <date>1994;</date>
+      <date>1995.</date>
+     </imprint>
+      <note>TOC: Maya Angelou; Simone de Beauvoir; Nina Berberova; Vera Brittain; Émilie Carles; Nien Cheng; Judith Ortiz Cofer; Colette; Jill Ker Conway; 
+       Eleanor Coppola; Bernadette Devlin; Joan Didion; Annie Dillard; Isak Dinesen; Marguerite Duras; M.F.K. Fisher; Janet Frame; Anne Frank; 
+       Eugenia Semyonova Ginzburg; Natalia Ginzburg; Vivian Gornick; Emily Hahn; Le Ly Hayslip; Lillian Hellman; Eva Hoffman; Billie Holiday; Zora Neale Hurston; 
+       Carolina Maria de Jesus; Joyce Johnson; Helen Keller; Maxine Hong Kingston; Tetsuko Kuroyanagi; Anne Morrow Lindbergh; Onnie Lee Logan; Audre Lorde; Beryl Markham; 
+       Emma Mashinini; Mary McCarthy; Margaret Mead; Kate Millett; Jessica Mitford ; From Coming of age in Mississippi; Anne Moody; Eleanor Munro; Anaïs Nin; Ning Lao T'ai-T'ai; 
+       Cynthia Ozick; Sylvia Plath; Santha Rama Rau; Marjorie Kinnan Rawlings; V. Sackville-West; Florida Scott-Maxwell; Kate Simon; Carolyn Kay Steedman; Gertrude Stein; Sara Suleri; 
+       Caitlin Thomas; Sophia Tolstoy; Anne Truitt; Marie Vassiltchikov; Virginia Woolf.  </note>
+     </bibl>
+     
+     <bibl id="p111">
+      <idno>p110</idno>
+      <title type="ref">
+       <hi rend="italics">Saints for Girls.</hi>
+      </title> By a Servite Nun.
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Sands,</publisher>
+       <date>1943.</date>
+      </imprint>
+    <imprint>
+     <pubPlace>St. Louis, MO:</pubPlace>
+     <publisher>Herder,</publisher>
+     <date>1944.</date>
+    </imprint>
+      <note> </note>
      </bibl>
     
     </div2>
