@@ -11201,8 +11201,8 @@
      <bibl id="a302A">
       <ref>302A.</ref>
       <idno>a302a</idno>
-      <author><name type="last">Foster</name>, <name type="first">Warren Dunham</name>
-      </author>
+      <editor><name type="last">Foster</name>, <name type="first">Warren Dunham</name>, ed.
+      </editor>
       <title type="ref">
        <hi rend="italics">Heroines of Modern Religion.</hi>
       </title>
@@ -11211,7 +11211,6 @@
        <publisher>Sturgis &amp; Walton; Macmillan,</publisher>
        <date>1913;</date>
       </imprint>
-
       <note> TOC: Anne Hutchinson, by A.E. Jenkins; Susannah Wesley, by W.H. Foster; Elizabeth Ann
        Seton, by R.V. Trevel; Lucretia Mott, by A.E. Jenkins; Fanny Crosby, by W. Bradbury; Sister
        Dora, by G.L. Mumford; Hannah Whitall Smith, by W.H. Foster; Frances Ridley Havergal, by W.
@@ -27311,9 +27310,9 @@
 
      <bibl id="p007">
       <idno>p007</idno>
-      <author><name type="last">Ashby</name>, <name type="first">Ruth</name>, and <name type="first"
+      <editor><name type="last">Ashby</name>, <name type="first">Ruth</name>, and <name type="first"
         >Deborah</name>
-       <name type="last">Gore Ohrn</name>, eds.</author>
+       <name type="last">Gore Ohrn</name>, eds.</editor>
       <title type="ref">
        <hi>Herstory.</hi>
       </title> Introduction by Gloria Steinem. <imprint>
@@ -27477,8 +27476,8 @@
 
      <bibl id="p014">
       <idno>p014</idno>
-      <author><name type="last">Bernikow</name>, <name type="first">Louise </name>, with the
-        <name>National Women's History Project</name>.</author>
+      <editor><name type="last">Bernikow</name>, <name type="first">Louise </name>, with the
+        <name>National Women's History Project</name>, ed.</editor>
       <title type="ref">
        <hi>The American Women’s Almanac: An Inspiring and Irreverent Women’s History. </hi>
       </title>
@@ -27534,7 +27533,7 @@
      
      <bibl id="p018">
       <idno>p018</idno>
-      <author><name type="last">Brink</name>, <name type="first">J. R.</name>, ed.</author>
+      <editor><name type="last">Brink</name>, <name type="first">J. R.</name>, ed.</editor>
       <title type="ref">
        <hi rend="italics">Female Scholars: a tradition of learned women before 1800.</hi>
       </title>
@@ -28206,7 +28205,7 @@
      
      <bibl id="p051">
       <idno>p051</idno>
-      <author><name type="last">Innis</name>, <name type="first">Mary Quayle</name>, ed.</author>
+      <editor><name type="last">Innis</name>, <name type="first">Mary Quayle</name>, ed.</editor>
       <title type="ref">
        <hi rend="italics">The Clear Spirit: Twenty Canadian Women and Their Times. </hi>
       </title>
@@ -28299,7 +28298,7 @@
      
      <bibl id="p056">
       <idno>p056</idno>
-      <author><name type="last">James</name>, <name type="first">Edward T.</name>, ed.</author>
+      <editor><name type="last">James</name>, <name type="first">Edward T.</name>, ed.</editor>
       <title type="ref">
        <hi rend="italics">Notable American Women, 1607-1950: Vols. 1-3. </hi>
       </title>
@@ -28645,7 +28644,7 @@
      
      <bibl id="p075">
       <idno>p075</idno>
-      <author><name type="last">Love</name>, <name type="first">Barbara J.</name>, ed.</author>
+      <editor><name type="last">Love</name>, <name type="first">Barbara J.</name>, ed.</editor>
       <title type="ref">
        <hi rend="italics">Foremost Women in Communications: A Biographical Reference Work on Accomplished Women in Broadcasting, Publishing, Advertising, Public Relations, and Allied Professions. </hi>
       </title>
@@ -29323,7 +29322,7 @@
      
      <bibl id="p110">
       <idno>p110</idno>
-      <author><name type="last">Rose</name>, <name type="first">Phyllis</name>, ed.</author>
+      <editor><name type="last">Rose</name>, <name type="first">Phyllis</name>, ed.</editor>
       <title type="ref">
        <hi rend="italics">The Norton Book of Women's Lives.</hi>
       </title>
@@ -29693,7 +29692,7 @@
      
      <bibl id="p129">
       <idno>p129</idno>
-      <author><name type="last">Stoddard</name>, <name type="first">Anne</name>, ed.</author>
+      <editor><name type="last">Stoddard</name>, <name type="first">Anne</name>, ed.</editor>
       <title type="ref">
        <hi rend="italics">Topflight: Famous American Women.</hi>
       </title> 
@@ -29788,7 +29787,7 @@
      
      <bibl id="p135">
       <idno>p135</idno>
-      <author><name type="last">Telgen</name>, <name type="first">Diane</name>, and <name type="first">Jim</name> <name type="last">Kamps</name>, eds.</author>
+      <editor><name type="last">Telgen</name>, <name type="first">Diane</name>, and <name type="first">Jim</name> <name type="last">Kamps</name>, eds.</editor>
       <title type="ref">
        <hi rend="italics">!Latinas! Women of Achievement.</hi>
       </title> 
