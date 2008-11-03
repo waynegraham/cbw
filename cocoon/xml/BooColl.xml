@@ -23865,6 +23865,22 @@
        <publisher>International Fiction Library,</publisher>
        <date>1916.</date>
       </imprint>
+      As: <title><hi rend="italics">Famous Hussies of History.</hi></title>
+      <imprint>
+       <pubPlace>Cleveland:</pubPlace>
+       <publisher>World,</publisher>
+       <date>1943.</date>
+      </imprint>
+      <imprint>
+       <publisher>Gardners Books,</publisher>
+       <date>2007.</date>
+      </imprint>
+      As: <title><hi rend="italics">Famous Hussies of History: Stories of the Superwomen.</hi></title>
+  <imprint>
+   <pubPlace>Fargo, ND:</pubPlace>
+   <publisher>Ephemera Bound,</publisher>
+   <date>2005.</date>
+  </imprint>
       <note> TOC: Lola Montez; Ninon de L'Enclos; Peg Woffington; Helen of Troy; Mme Jumel; Adrienne
        Lecouvreur; Cleopatra; George Sand; Mme du Barry; Lady Blessington; Mme Recamier; Lady
        Hamilton. <hi rend="bold">*Pop Chart</hi>
@@ -24898,6 +24914,27 @@
     <div2 type="letter" n="V">
      <head>V Entries</head>
 
+     <bibl id="a826A">
+      <ref>826A.</ref>
+      <idno>a826A</idno>
+      <author><name type="last">Vance</name>, <name type="first">Randolph</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Wildcats in Petticoats: A Garland of Desperadoes-- Lizzie Merton, Zoe Wilkins, Flora Quick Mundis, Bonny Parker, Katie Bender, and Belle Star.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Girard, KS:</pubPlace>
+       <publisher>Little Blue Books,</publisher>
+       <date>1930;</date>
+       <date>1941.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Girard, KS:</pubPlace>
+       <publisher>Haldeman-Julius,</publisher>
+       <date>1945.</date>
+      </imprint>
+      <note>TOC: Lizzie Merton; Doctor Zoe Wilkins; Flora Quick Mundis; Bonnie Parker; Kate Bender; Belle Starr. </note>
+     </bibl>
+     
      <bibl id="a827">
       <ref>827.</ref>
       <idno>a827</idno>
@@ -26650,6 +26687,12 @@
        <pubPlace>Auckland:</pubPlace>
        <publisher>Witcombe &amp; Tombs,</publisher>
        <date>1940.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Hamilton, NZ:</pubPlace>
+       <publisher>Silver Fern,</publisher>
+       <date>1940;</date>
+       <date>1988.</date>
       </imprint>
      </bibl>
 
@@ -29694,6 +29737,301 @@
        <pubPlace>Mitchell, SD:</pubPlace>
        <publisher>The Educator Supply Co.,</publisher>
        <date>1942.</date>
+      </imprint>
+      <note> </note>
+     </bibl> 
+     
+     <bibl id="p132">
+      <idno>p132</idno>
+      <author><name type="last">Tappen</name>, <name type="first">Kathleen</name>, and <name type="first">Bernice T.</name> <name type="last">Morris</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Prominent Women in Latin America.</hi>
+      </title> 
+      <imprint>
+       <pubPlace>Washington:</pubPlace>
+       <publisher>Research Division, Social and Geographic Section,</publisher>
+       <date>1944.</date>
+      </imprint>
+      <note> </note>
+     </bibl> 
+    
+     <bibl id="p133">
+      <idno>p133</idno>
+      <author><name type="last">Taves</name>, <name type="first">Isabella</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Successful Women and How They Attained Success.</hi>
+      </title> 
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>E.P. Dutton,</publisher>
+       <date>1943;</date>
+       <date>1945?</date>
+      </imprint>
+      <note>TOC: Mary Margaret McBride; Margaret Bourke-White; Helen Hayes; Katharine Cornell; Cornelia Otis Skinner; Mary Roberts Rinehart; Kathleen Norris; Margaret Mitchell; 
+       Mary Ellen Chase; Anne Hummert; Jane Crusinberry; Valentina; Sally Milgrim; Sally Victor; Dorothy Shaver; Sara Pennover; Gladys Swarthout; Ruby Ross Wood; Louise Taylor Davis; 
+       Katherine Grimm; Judge Dorothy Kenyon; Connie Guion; Major Julia Stimson; Louise Zabriskie; Helen Hokinson; Susanne Suba; Edith Barber; Mary Barber; Susan Palmer; Ella Barbour; Aline Rhonie. </note>
+     </bibl> 
+     
+     <bibl id="p134">
+      <idno>p134</idno>
+      <author><name type="last">Taylor</name>, <name type="first">Kathryn</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Generations of Denial: 75 Short Biographies of Women in History.</hi>
+      </title> 
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>New York Times/ Change,</publisher>
+       <date>1971.</date>
+      </imprint>
+      <note> </note>
+     </bibl> 
+     
+     <bibl id="p135">
+      <idno>p135</idno>
+      <author><name type="last">Telgen</name>, <name type="first">Diane</name>, and <name type="first">Jim</name> <name type="last">Kamps</name>, eds.</author>
+      <title type="ref">
+       <hi rend="italics">!Latinas! Women of Achievement.</hi>
+      </title> 
+      <imprint>
+       <pubPlace>Detroit, MI:</pubPlace>
+       <publisher>Visible Ink,</publisher>
+       <date>1996.</date>
+      </imprint>
+      <note>TOC: Isabel Allende; Maria Conchita Alonso; Linda Alvarado; Julia Alvarez; Judith F. Baca ; Maxine Baca Zinn; Joan Baez; Lourdes G. Baird; Mariah Carey; 
+       Rosemary Casals; Ana Castillo; Lorna Dee Cervantes ; Denise Chávez; Linda Chavez; Sandra Cisneros; Judith Ortiz Cofer; Miriam Colón; Gracíela Daniele; 
+       Dolores Del Rio; Gloria Estefan; Clarissa Pinkola Estés; Sandra María Esteves; Anita Perez Ferguson; Gigi Fernández; Giselle Fernandez; Mary Joe Fernández; 
+       María Irene Fornés ; Daisy Fuentes; Nely Galán; Cristina Garcia; Carmen Lomas Garza; Rita Hayworth; Antonia Hernández; Carolina Herrera ; Maria Hinojosa; 
+       Dolores Huerta; Mari-Luci Jaramillo; Tania León; Nancy Lopez; Mónica Cecilia Lozano; Wendy Lucero-Schayes; Sonia Manzano; Marisol; Elizabeth Martinez; 
+       Vilma Martinez; Nicholasa Mohr; Pat Mora; Rita Moreno; Evelyn Nieves; Antonia Novello; Ellen Ochoa; Graciela Olivárez; Katherine D. Ortega; Elizabeth Peña; 
+       Rosie Perez; Dolores Prida; Tey Diana Rebolledo; Chita Rivera; Linda Ronstadt; Ileana Ros-Lehtinen; Lucille Roybal-Allard; Vicki Ruiz; Cristina Saralegui; Selena; 
+       Lupe Serrano; Madeleine Stowe; Isabel Toledo; Christy Turlington; Nydia Margarita Velázquez; Carmen Zapata. </note>
+     </bibl> 
+    
+     <bibl id="p136">
+      <idno>p136</idno>
+      <author><name type="last">Thomas</name>, <name type="first">Henry</name>, and <name type="first">Dana Lee</name> <name type="last">Thomas</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Living Biographies of Famous Women.</hi>
+      </title> 
+      <imprint>
+       <pubPlace>Garden City, NY:</pubPlace>
+       <publisher>Garden City,</publisher>
+       <date>1942;</date>
+       <date>1959.</date>
+      </imprint>
+      <imprint>
+   <pubPlace>Garden City, NY:</pubPlace>
+       <publisher>Blue Ribbon Books,</publisher>
+       <date>1942;</date>
+       <date>1946.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Garden City, NY:</pubPlace>
+       <publisher>Halcyon House,</publisher>
+       <date>1942;</date>
+       <date>1947.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Garden City, NY:</pubPlace>
+       <publisher>Perma Giants,</publisher>
+       <date>1942;.</date>
+       <date>1950.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Book League of America,</publisher>
+      <date>1942.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Allen,</publisher>
+       <date>1959.</date>
+      </imprint>
+      <note> </note>
+     </bibl> 
+     
+     <bibl id="p137">
+      <idno>p137</idno>
+      <author><name type="last">Thomas</name>, <name type="first">Dorothy</name>, pseud.</author>
+      <title type="ref">
+       <hi rend="italics">Women Lawyers in the United States.</hi>
+      </title>
+      <edition>1st ed.</edition>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Scarecrow,</publisher>
+       <date>1957.</date>
+      </imprint>
+      <note> </note>
+     </bibl> 
+     
+     <bibl id="p138">
+      <idno>p138</idno>
+      <author><name type="last">Thorp</name>, <name type="first">Margaret Farrand</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Female Persuasion: Six Strong-Minded Women.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Hamden, CT:</pubPlace>
+       <publisher>Archon Books,</publisher>
+       <date>1949;</date>
+       <date>1971.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New Haven:</pubPlace>
+       <publisher>Yale University Press,</publisher>
+       <date>1949;</date>
+       <date>1950.</date>
+      </imprint>
+      <note>TOC: Strong-minded women; Catharine E. Beecher; Jane G. Swisshelm; Amelia Bloomer; "Grace Greenwood" (Sara J. C. Lippincott); Louisa S. McCord; L. Maria Child. </note>
+     </bibl> 
+    
+     <bibl id="p139">
+      <idno>p139</idno>
+      <author><name type="last">Thornton</name>, <name type="first">Ella May</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Georgia Women, 1840-1940: A Record of Achievement.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Atlanta:</pubPlace>
+       <date>1941.</date>
+      </imprint>
+      <note> </note>
+     </bibl> 
+     
+     <bibl id="p140">
+      <idno>p140</idno>
+      <author><name type="last">Todd</name>, <name type="first">Janet</name>.</author>
+      <title type="ref">
+       <hi rend="italics">A Dictionary of British and American Women Writers, 1660-1800.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Totowa, NJ:</pubPlace>
+       <publisher>Rowman &amp; Allanheld,</publisher>
+       <date>1984;</date>
+       <date>1985.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Totowa, NJ:</pubPlace>
+       <publisher>Rowman and Littlefield,</publisher>
+       <date>1987.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Methuen,</publisher>
+       <date>1984;</date>
+       <date>1987.</date>
+      </imprint>
+      <note> </note>
+     </bibl> 
+     
+     <bibl id="p141">
+      <idno>p141</idno>
+      <author><name type="last">Tufts</name>, <name type="first">Eleanor</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Our Hidden Heritage: Five Centuries of Women Artists.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York and</pubPlace>
+       <pubPlace>London:</pubPlace>
+       <publisher>Paddington,</publisher>
+       <date>1973;</date>
+       <date>1974;</date>
+       <date>1975.</date>
+      </imprint>
+      <note> </note>
+     </bibl> 
+     
+     <bibl id="p142">
+      <idno>p142</idno>
+      <author><name type="last">Votaw</name>, <name type="first">Carmen Delgado</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Puerto Rican Women: Some Biographical Profiles.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Washington:</pubPlace>
+       <publisher>National Conference of Puerto Rican Women,</publisher>
+       <date>1978;</date>
+       <date>1995.</date>
+      </imprint>
+      <note> </note>
+     </bibl> 
+     
+     <bibl id="p143">
+      <idno>p143</idno>
+      <author><name type="last">Wall</name>, <name type="first">Cheryl</name>.</author>
+      <title type="ref">Women of the Harlem Renaissance.
+       <hi rend="italics"></hi>
+      </title>
+      <imprint>
+       <pubPlace>Bloomington, IN:</pubPlace>
+       <publisher>Indiana University Press,</publisher>
+       <date>1995;</date>
+       <date>1996.</date>
+      </imprint>
+      <note>TOC: Foreword / by Sandra M. Gilbert and Susan Gubar; Prologue: a note on the journey; On being young, a woman, and colored: when Harlem was in vogue; 
+       Jessie Redmon Fauset: traveling in place; Nella Larsen: passing for what?;  Zora Neale Hurston's traveling blues; Epilogue: destinations deferred; Selected bibliography of writings by women of the Harlem Renaissance. </note>
+     </bibl> 
+     
+     <bibl id="p144">
+      <idno>p144</idno>
+      <author><name type="last">Wehlitz</name>, <name type="first">Lou Rogers</name>.</author>
+      <title type="ref">Tar Heel Women.<hi rend="italics"></hi>
+      </title>
+      <imprint>
+       <pubPlace>Raleigh, NC:</pubPlace>
+       <publisher>Warren,</publisher>
+       <date>1949.</date>
+      </imprint>
+      <note>  </note>
+     </bibl> 
+     
+     <bibl id="p145">
+      <idno>p145</idno>
+      <author><name type="last">Yost</name>, <name type="first">Edna</name>.</author>
+      <title type="ref">American Women of Nursing.<hi rend="italics"></hi>
+      </title>
+      <imprint>
+       <pubPlace>Philadelphia:</pubPlace>
+       <publisher>Lippincott,</publisher>
+       <date>1947;</date>
+       <date>1955;</date>
+       <date>1965.</date>
+      </imprint>
+      <note>TOC: M. Adelaide Nutting; Lillian Wald; Annie W. Goodrich; Isabel M. Stewart; Sister M. Olivia Gowan; Estelle Massey Osborne; Florence G. Blake; Anne Prochazka; Theodora A. Floyd; Lucile Petry Leone.
+      </note>
+     </bibl> 
+   
+     <bibl id="p146">
+      <idno>p146</idno>
+      <author><name type="last">Yost</name>, <name type="first">Edna</name>.</author>
+      <title type="ref">American Women of Science.<hi rend="italics"></hi>
+      </title>
+      <imprint>
+       <pubPlace>Philadelphia:</pubPlace>
+       <publisher>J.P. Lippincott,</publisher>
+       <date>1943;</date>
+       <date>1955.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Frederick A. Stokes,</publisher>
+       <date>1943.</date>
+      </imprint>
+      <note>TOC: Hazel K. Stiebeling; Lillian M. Gilbreth; Katharine B. Blodgett; Wanda K. Farr; Alice Hamilton; Annie Jump Cannon; Mary E. Pennington; 
+       Libbie H. Hyman; Margaret Mead; Florence Rena Sabin; Florence B. Seibert; Ellen H. Richards. </note>
+     </bibl> 
+     
+     <bibl id="p147">
+      <idno>p147</idno>
+      <author><name type="last">Yost</name>, <name type="first">Edna</name>.</author>
+      <title type="ref">Famous American Pioneering Women.<hi rend="italics"></hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Dodd, Mead,</publisher>
+       <date>1961;</date>
+       <date>1964.</date>
       </imprint>
       <note> </note>
      </bibl> 
