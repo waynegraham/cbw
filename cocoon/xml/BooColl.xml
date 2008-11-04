@@ -27350,8 +27350,7 @@
       <idno>p008</idno>
       <author>
        <name type="last">Bainton</name>,
-       <name type="first">Roland Herbert </name>.
-      </author>
+       <name type="first">Roland Herbert </name>.</author>
       <title type="ref">
        <hi>Women of the Reformation in France and England.</hi>
       </title>
@@ -27382,8 +27381,7 @@
       <idno>p009</idno>
       <author>
        <name type="last">Bainton</name>,
-       <name type="first">Roland Herbert </name>.
-      </author>
+       <name type="first">Roland Herbert </name>.</author>
       <title type="ref">
        <hi>Women of the Reformation in Germany and Italy.</hi>
       </title>
@@ -27404,9 +27402,8 @@
       <idno>p010</idno>
       <author>
        <name type="last">Bainton</name>,
-       <name type="first">Roland Herbert </name>.
-      </author>
-      <title type="ref">
+       <name type="first">Roland Herbert </name>.</author>
+     <title type="ref">
        <hi>Women of the Reformation : From Spain to Scandinavia.</hi>
       </title>
       <imprint>
@@ -27420,8 +27417,7 @@
       <idno>p011</idno>
       <author>
        <name type="last">Bannerman</name>,
-       <name type="first">Jean MacKay </name>.
-      </author>
+       <name type="first">Jean MacKay </name>.</author>
       <title type="ref">
        <hi>Leading Ladies, Canada 1639-1967.</hi>
       </title>
@@ -27459,8 +27455,7 @@
       <idno>p013</idno>
       <author>
        <name type="last">Benstock</name>,
-       <name type="first">Shari </name>.
-      </author>
+       <name type="first">Shari </name>.</author>
       <title type="ref">
        <hi>Women of the Left Bank: Paris, 1900-1940. </hi>
       </title>
@@ -27484,7 +27479,7 @@
 
      <bibl id="p014">
       <idno>p014</idno>
-      <editor><name type="last">Bernikow</name>, <name type="first">Louise </name>, with the
+      <editor><name type="last">Bernikow</name>, <name type="first">Louise</name>, with the
         <name>National Women's History Project</name>, ed.</editor>
       <title type="ref">
        <hi>The American Women’s Almanac: An Inspiring and Irreverent Women’s History. </hi>
@@ -27498,7 +27493,7 @@
 
      <bibl id="p015">
       <idno>p015</idno>
-      <author><name type="last">Biddle</name>, <name type="first">Gertrude </name>, and <name
+      <author><name type="last">Biddle</name>, <name type="first">Gertrude</name>, and <name
         type="first">Sarah Dickson</name>
        <name type="last">Lowrie</name>.</author>
       <title type="ref">
@@ -27550,7 +27545,7 @@
        <publisher>Eden Press Women's Publications,</publisher>
        <date>1980.</date>
       </imprint>
-      <note> TOC:Christine de Pisan; Caterina Corner; Queen of Cyprus; Marguerite de Navarre and her circle; Maria de Zayas y Sotomayor; 
+      <note> TOC: Christine de Pisan; Caterina Corner; Queen of Cyprus; Marguerite de Navarre and her circle; Maria de Zayas y Sotomayor; 
        Anna Maria van Schurman; Bathsua Makin; Madame de Sevigne; Sor Juana Ines de la Cruz; Elizabeth Elstob; Mercy Otis Warren. </note>
      </bibl>
 
@@ -27610,7 +27605,7 @@
        <date>1990;</date>
        <date>1991.</date>
       </imprint>
-      <note> TOC: Dora Carrington, Virginia Woolf, Vanessa Bell.</note>
+      <note> TOC: Dora Carrington; Virginia Woolf; Vanessa Bell.</note>
      </bibl>
 
      <bibl id="p023">
@@ -28196,7 +28191,7 @@
        <hi rend="italics">Book of Black Heroes, Vol 2: Great Women in the Struggle: An Introduction for Young Readers. </hi>
       </title>
       <imprint>
-       <pubPlace>East Ornage, NJ:</pubPlace>
+       <pubPlace>East Orange, NJ:</pubPlace>
        <publisher>Just Us Books,</publisher>
        <date>1991;</date>
        <date>1992;</date>
@@ -29254,7 +29249,7 @@
        <date>2004;</date>
        <date>2005.</date>
       </imprint>
-      <note>TOC: Abigail Adams; Mercy Otis Warren; Deborah Read Franklin; Eliza Pinckney; Catherine Littlefield Green; Esther DeBerdt Reed; and Martha Washington; and others. </note>
+      <note>TOC: Abigail Adams; Mercy Otis Warren; Deborah Read Franklin; Eliza Pinckney; Catherine Littlefield Green; Esther DeBerdt Reed; Martha Washington; and others. </note>
      </bibl> 
      
      <bibl id="p107">
@@ -29287,7 +29282,7 @@
       <idno>p108</idno>
       <author><name type="last">Robinson</name>, <name type="first">Jane</name>.</author>
       <title type="ref">
-       <hi rend="italics">Unsuitable for Ladies. An Anthology of Women Travellers.</hi>
+       <hi rend="italics">Unsuitable for Ladies: An Anthology of Women Travellers.</hi>
       </title>
       <imprint>
       <pubPlace>Oxford and</pubPlace>
@@ -29967,8 +29962,8 @@
      <bibl id="p143">
       <idno>p143</idno>
       <author><name type="last">Wall</name>, <name type="first">Cheryl</name>.</author>
-      <title type="ref">Women of the Harlem Renaissance.
-       <hi rend="italics"></hi>
+      <title type="ref">
+       <hi rend="italics">Women of the Harlem Renaissance.</hi>
       </title>
       <imprint>
        <pubPlace>Bloomington, IN:</pubPlace>
@@ -29983,7 +29978,7 @@
      <bibl id="p144">
       <idno>p144</idno>
       <author><name type="last">Wehlitz</name>, <name type="first">Lou Rogers</name>.</author>
-      <title type="ref">Tar Heel Women.<hi rend="italics"></hi>
+      <title type="ref"><hi rend="italics">Tar Heel Women.</hi>
       </title>
       <imprint>
        <pubPlace>Raleigh, NC:</pubPlace>
@@ -29996,7 +29991,7 @@
      <bibl id="p145">
       <idno>p145</idno>
       <author><name type="last">Yost</name>, <name type="first">Edna</name>.</author>
-      <title type="ref">American Women of Nursing.<hi rend="italics"></hi>
+      <title type="ref"><hi rend="italics">American Women of Nursing.</hi>
       </title>
       <imprint>
        <pubPlace>Philadelphia:</pubPlace>
@@ -30012,7 +30007,7 @@
      <bibl id="p146">
       <idno>p146</idno>
       <author><name type="last">Yost</name>, <name type="first">Edna</name>.</author>
-      <title type="ref">American Women of Science.<hi rend="italics"></hi>
+      <title type="ref"><hi rend="italics">American Women of Science.</hi>
       </title>
       <imprint>
        <pubPlace>Philadelphia:</pubPlace>
@@ -30032,7 +30027,7 @@
      <bibl id="p147">
       <idno>p147</idno>
       <author><name type="last">Yost</name>, <name type="first">Edna</name>.</author>
-      <title type="ref">Famous American Pioneering Women.<hi rend="italics"></hi>
+      <title type="ref"><hi rend="italics">Famous American Pioneering Women.</hi>
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
