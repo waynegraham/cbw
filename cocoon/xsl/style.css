@@ -343,6 +343,10 @@ background: #F7F7F7;
 font-size: 18pt;
 }
 
+#image-wrap img {
+  max-width: 900px;
+}
+
 div.illus {
 float: left;
 padding: 15px 5px;

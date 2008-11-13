@@ -22,6 +22,7 @@
 			<head>
 				<link type="text/css" href="style.css" rel="stylesheet"/>
 				<script type="text/javascript" language="javascript" src="javascript/searchhi.js"/>
+				<script type="text/javascript" src="javascript/overlib.js"><!-- overLIB (c) Erik Bosrup --></script>
 				<title>The Collective Biographies of Women: Bibliography</title>
 				<script type="text/javascript" language="javascript" src="javascript/illus.js"/>
 				<!--	jQuery library	-->
@@ -57,6 +58,7 @@
 				</script>
 			</head>
 			<body onLoad="JavaScript:SearchHighlight(); document.getElementById('browse-link').className='selected';">
+				<div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
 				<table id="wrap">
 					<tr>
 						<td class="headfoot">
@@ -67,7 +69,7 @@
 						<td>
 							<div id="subNav">
 								<a href="browse?section=2" id="anno-link">Annotated Bibliography, 1830-1940</a>
-								<a href="browse?section=1" id="select-link">Selective Examples</a>
+								<a href="browse?section=1" id="select-link">Earlier and Later Examples</a>
 							</div>
 						</td>
 					</tr>
@@ -75,32 +77,32 @@
 					<tr>
 						<td>
 							<div id="page-nav">
-								<a href="browse?section=2" id="2">A</a>
-								<a href="browse?section=3" id="3">B</a>
-								<a href="browse?section=4" id="4">C</a>
-								<a href="browse?section=5" id="5">D</a>
-								<a href="browse?section=6" id="6">E</a>
-								<a href="browse?section=7" id="7">F</a>
-								<a href="browse?section=8" id="8">G</a>
-								<a href="browse?section=9" id="9">H</a>
-								<a href="browse?section=10" id="10">I</a>
-								<a href="browse?section=11" id="11">J</a>
-								<a href="browse?section=12" id="12">K</a>
-								<a href="browse?section=13" id="13">L</a>
-								<a href="browse?section=14" id="14">M</a>
-								<a href="browse?section=15" id="15">N</a>
-								<a href="browse?section=16" id="16">O</a>
-								<a href="browse?section=17" id="17">P</a>
+								<a href="browse?section=2" id="2" onmouseover="return overlib('Entries {//div1/div2[@n='A']/bibl[1]/@id} to {//div1/div2[@n='A']/bibl[last()]/@id}');" onmouseout="return nd();">A</a>
+								<a href="browse?section=3" id="3" onmouseover="return overlib('Entries {//div1/div2[@n='B']/bibl[1]/@id} to {//div1/div2[@n='B']/bibl[last()]/@id}');" onmouseout="return nd();">B</a>
+								<a href="browse?section=4" id="4" onmouseover="return overlib('Entries {//div1/div2[@n='C']/bibl[1]/@id} to {//div1/div2[@n='C']/bibl[last()]/@id}');" onmouseout="return nd();">C</a>
+								<a href="browse?section=5" id="5" onmouseover="return overlib('Entries {//div1/div2[@n='D']/bibl[1]/@id} to {//div1/div2[@n='D']/bibl[last()]/@id}');" onmouseout="return nd();">D</a>
+								<a href="browse?section=6" id="6" onmouseover="return overlib('Entries {//div1/div2[@n='E']/bibl[1]/@id} to {//div1/div2[@n='E']/bibl[last()]/@id}');" onmouseout="return nd();">E</a>
+								<a href="browse?section=7" id="7" onmouseover="return overlib('Entries {//div1/div2[@n='F']/bibl[1]/@id} to {//div1/div2[@n='F']/bibl[last()]/@id}');" onmouseout="return nd();">F</a>
+								<a href="browse?section=8" id="8" onmouseover="return overlib('Entries {//div1/div2[@n='G']/bibl[1]/@id} to {//div1/div2[@n='G']/bibl[last()]/@id}');" onmouseout="return nd();">G</a>
+								<a href="browse?section=9" id="9" onmouseover="return overlib('Entries {//div1/div2[@n='H']/bibl[1]/@id} to {//div1/div2[@n='H']/bibl[last()]/@id}');" onmouseout="return nd();">H</a>
+								<a href="browse?section=10" id="10" onmouseover="return overlib('Entries {//div1/div2[@n='I']/bibl[1]/@id} to {//div1/div2[@n='I']/bibl[last()]/@id}');" onmouseout="return nd();">I</a>
+								<a href="browse?section=11" id="11" onmouseover="return overlib('Entries {//div1/div2[@n='J']/bibl[1]/@id} to {//div1/div2[@n='J']/bibl[last()]/@id}');" onmouseout="return nd();">J</a>
+								<a href="browse?section=12" id="12" onmouseover="return overlib('Entries {//div1/div2[@n='K']/bibl[1]/@id} to {//div1/div2[@n='K']/bibl[last()]/@id}');" onmouseout="return nd();">K</a>
+								<a href="browse?section=13" id="13" onmouseover="return overlib('Entries {//div1/div2[@n='L']/bibl[1]/@id} to {//div1/div2[@n='L']/bibl[last()]/@id}');" onmouseout="return nd();">L</a>
+								<a href="browse?section=14" id="14" onmouseover="return overlib('Entries {//div1/div2[@n='M']/bibl[1]/@id} to {//div1/div2[@n='M']/bibl[last()]/@id}');" onmouseout="return nd();">M</a>
+								<a href="browse?section=15" id="15" onmouseover="return overlib('Entries {//div1/div2[@n='N']/bibl[1]/@id} to {//div1/div2[@n='N']/bibl[last()]/@id}');" onmouseout="return nd();">N</a>
+								<a href="browse?section=16" id="16" onmouseover="return overlib('Entries {//div1/div2[@n='O']/bibl[1]/@id} to {//div1/div2[@n='O']/bibl[last()]/@id}');" onmouseout="return nd();">O</a>
+								<a href="browse?section=17" id="17" onmouseover="return overlib('Entries {//div1/div2[@n='P']/bibl[1]/@id} to {//div1/div2[@n='P']/bibl[last()]/@id}');" onmouseout="return nd();">P</a>
 								<a><span class='no-entries'>Q</span></a>
-								<a href="browse?section=18" id="18">R</a>
-								<a href="browse?section=19" id="19">S</a>
-								<a href="browse?section=20" id="20">T</a>
-								<a href="browse?section=21" id="21">U</a>
-								<a href="browse?section=22" id="22">V</a>
-								<a href="browse?section=23" id="23">W</a>
+								<a href="browse?section=18" id="18" onmouseover="return overlib('Entries {//div1/div2[@n='R']/bibl[1]/@id} to {//div1/div2[@n='R']/bibl[last()]/@id}');" onmouseout="return nd();">R</a>
+								<a href="browse?section=19" id="19" onmouseover="return overlib('Entries {//div1/div2[@n='S']/bibl[1]/@id} to {//div1/div2[@n='S']/bibl[last()]/@id}');" onmouseout="return nd();">S</a>
+								<a href="browse?section=20" id="20" onmouseover="return overlib('Entries {//div1/div2[@n='T']/bibl[1]/@id} to {//div1/div2[@n='T']/bibl[last()]/@id}');" onmouseout="return nd();">T</a>
+								<a href="browse?section=21" id="21" onmouseover="return overlib('Entries {//div1/div2[@n='U']/bibl[1]/@id} to {//div1/div2[@n='U']/bibl[last()]/@id}');" onmouseout="return nd();">U</a>
+								<a href="browse?section=22" id="22" onmouseover="return overlib('Entries {//div1/div2[@n='V']/bibl[1]/@id} to {//div1/div2[@n='V']/bibl[last()]/@id}');" onmouseout="return nd();">V</a>
+								<a href="browse?section=23" id="23" onmouseover="return overlib('Entries {//div1/div2[@n='W']/bibl[1]/@id} to {//div1/div2[@n='W']/bibl[last()]/@id}');" onmouseout="return nd();">W</a>
 								<a><span class='no-entries'>X</span></a>
-								<a href="browse?section=24" id="24">Y</a>
-								<a href="browse?section=25" id="25">Z</a>
+								<a href="browse?section=24" id="24" onmouseover="return overlib('Entries {//div1/div2[@n='Y']/bibl[1]/@id} to {//div1/div2[@n='Y']/bibl[last()]/@id}');" onmouseout="return nd();">Y</a>
+								<a href="browse?section=25" id="25" onmouseover="return overlib('Entries {//div1/div2[@n='Z']/bibl[1]/@id} to {//div1/div2[@n='Z']/bibl[last()]/@id}');" onmouseout="return nd();">Z</a>
 							</div>
 						</td>
 					</tr>
@@ -109,8 +111,8 @@
 						<tr>
 							<td>
 								<div id="page-nav">
-									<a href="browse?section=1" id="1">Examples before 1830</a>
-									<a href="browse?section=26" id="26">Examples after 1940</a>
+									<a href="browse?section=1" id="1">Collections before 1830</a>
+									<a href="browse?section=26" id="26">Collections after 1940</a>
 								</div>
 							</td>
 						</tr>						
