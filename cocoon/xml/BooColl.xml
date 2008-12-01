@@ -27214,7 +27214,7 @@
        <publisher>Books For Libraries,</publisher>
        <date>1970.</date>
       </imprint>
-      <note></note>
+      <note>Note identical title by Lauwick, p066.</note>
      </bibl>
 
 
@@ -27914,57 +27914,43 @@
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
-       <publisher>Knopf,</publisher>
-       <date>1988;</date>
-       <date>1989.</date>
-      </imprint>
-      <imprint>
-      <pubPlace>New York:</pubPlace>
-      <publisher>Vintage Books,</publisher>
-      <date>1988;</date>
-      <date>1989;</date>
-      <date>1990;</date>
-      <date>1994.</date>
-      </imprint>
-      <imprint>
+       <publisher>Knopf;</publisher>
+       <publisher>Vintage Books;</publisher>
        <pubPlace>London:</pubPlace>
-       <publisher>Weidenfield &amp; Nicolson,</publisher>
-       <date>1988;</date>
-       <date>1994.</date>
-      </imprint>
-      <imprint>
-       <pubPlace>London:</pubPlace>
-       <publisher>Phoenix,</publisher>
-       <date>1994;</date>
-       <date>2002.</date>
-      </imprint>
-      <imprint>
-       <pubPlace>Markham, ON:</pubPlace>
-       <publisher>Viking,</publisher>
-       <date>1988;</date>
-       <date>1989.</date>
+       <publisher>Weidenfield &amp; Nicolson;</publisher>
+       <publisher>Mandarin,</publisher>
+       <date>1988.</date>      
       </imprint>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Mandarin:</publisher>
-       <date>1988;</date>
-       <date>1989;</date>
+          <date>1989;</date>
        <date>1993.</date>
       </imprint>
       <imprint>
+       <pubPlace>Markham, ON:</pubPlace>
+       <publisher>Viking;</publisher>
+       <publisher>Penguin Books Canada,</publisher>
+       <date>1988;</date>
+       <date>1989.</date>
+              <date>1990.</date>
+      </imprint>
+      <imprint>
+      <pubPlace>New York:</pubPlace>
+       <publisher>Knopf;</publisher>
+      <publisher>Vintage Books,</publisher>
+       <date>1989;</date>
+      <date>1990;</date>
+      <date>1994.</date>
+      </imprint>
+       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Arrow,</publisher>
        <date>1988;</date>
        <date>1993;</date>
        <date>1999.</date>
       </imprint>
-      <imprint>
-       <pubPlace>Markham, ON:</pubPlace>
-       <publisher>Penguin Books Canada,</publisher>
-       <date>1989;</date>
-       <date>1990.</date>
-      </imprint>
-      <imprint>
+           <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Anchor Books,</publisher>
        <date>1988;</date>
@@ -27977,6 +27963,17 @@
        <date>1990;</date>
       <date>1995.</date>
       </imprint>
+      <imprint>
+      <pubPlace>London:</pubPlace>
+      <publisher>Weidenfield &amp; Nicolson;</publisher>
+      <publisher>Phoenix,</publisher>
+      <date>1994.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Phoenix,</publisher>
+       <date>2002.</date>
+      </imprint>  
       <note>TOC: Boadicea; Cleopatra; Tamara of Georgia; Isabella of Spain, 
        Elizabeth I; Catherine the Great; Jinga Mbandi of Angola; the Rani of 
        Jhansi; Margaret Thatcher; Golda Meir; and Indira Gandhi; among others.
@@ -28028,10 +28025,10 @@
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
-       <publisher>Harcourt Brace Janovitch,</publisher>
+       <publisher>Harcourt Brace Jovanovitch,</publisher>
        <date>1979.</date>
       </imprint>
-      <note> </note>
+      <note>"Biographies of 12 women pioneers and leaders in a variety of scientific fields." </note>
      </bibl>
      
      <bibl id="p041">
@@ -28048,11 +28045,10 @@
       <imprint>
        <pubPlace>Halifax. N.S.:</pubPlace>
      <publisher>Goodread Biographies,</publisher>
-       <date>1984.</date>
+       <date>1984;</date>
       </imprint>
       <imprint>
-       <pubPlace>Halifax, N.S.:</pubPlace>
-       <publisher>Formac,</publisher>
+        <publisher>Formac,</publisher>
        <date>2001.</date>
       </imprint>
       <note> </note>
@@ -28104,7 +28100,7 @@
       <idno>p044</idno>
       <author><name type="last">Heaps</name>, <name type="first">Isabel Warrington</name>.</author>
       <title type="ref">
-       <hi rend="italics">Five Mary's. </hi>
+       <hi rend="italics">Five Marys. </hi>
       </title>
       <imprint>
        <pubPlace>New York and</pubPlace>
@@ -28113,7 +28109,7 @@
        <date>1942;</date>
        <date>1980.</date>
       </imprint>
-      <note> </note>
+      <note>Women in the Bible. </note>
      </bibl>
      
      <bibl id="p045">
@@ -28216,17 +28212,16 @@
       </title>
       <imprint>
        <pubPlace>Toronto:</pubPlace>
-       <publisher>University of Toronto Press,</publisher>
-       <date>1966;</date>
+       <publisher>University of Toronto Press/</publisher>
+       <publisher>Canadian Federation of University Women</publisher>
        <date>1973.</date>
       </imprint>
       <imprint>
        <pubPlace>Buffalo:</pubPlace>
        <publisher>University of Toronto Press,</publisher>
-       <date>1996;</date>
-       <date>1981.</date>
+        <date>1981.</date>
       </imprint>
-      <note> </note>
+      <note>Copyright <date>1966.</date> </note>
      </bibl>
      
      <bibl id="p052">
@@ -28243,20 +28238,17 @@
       </imprint>
       <imprint>
        <pubPlace>Sacramento, CA:</pubPlace>
-       <publisher>Dome,</publisher>
-       <date>1975.</date>
-      </imprint>
-      <imprint>
-       <pubPlace>Sacramento, CA:</pubPlace>
-       <publisher>Fong &amp; Fong,</publisher>
-       <date>1977.</date>
-      </imprint>
-      <imprint>
+       <publisher>Dome;</publisher>
        <pubPlace>Santa Rosa, CA:</pubPlace>
        <publisher>Distributed by the Women's National History Project,</publisher>
        <date>1975.</date>
       </imprint>
-      <note> </note>
+       <imprint>
+       <pubPlace>Sacramento, CA:</pubPlace>
+       <publisher>Fong &amp; Fong,</publisher>
+       <date>1977.</date>
+      </imprint>
+            <note> </note>
      </bibl>
      
      <bibl id="p053">
@@ -28270,7 +28262,7 @@
        <publisher>Dodd, Mead,</publisher>
        <date>1964.</date>
       </imprint>
-      <note> </note>
+      <note>"Famous Biographies for Young People" series. </note>
      </bibl>
      
      <bibl id="p054">
@@ -28284,7 +28276,7 @@
        <publisher>Dodd, Mead,</publisher>
        <date>1975.</date>
       </imprint>
-      <note> </note>
+      <note>"Famous Biographies for Young People" series. </note>
      </bibl>
      
      <bibl id="p055">
@@ -28360,7 +28352,9 @@
        <date>1972;</date>
        <date>1973.</date>
       </imprint>
-      <note> </note>
+      <note>Group biography of Thomas Love Peacock, his daughter Mary Ellen Peacock and her second husband George Meredith and her lover
+      (his former friend) Henry Wallis, with correspondence, recipes, and "brief lives" (i.e. a glossary of the large group of artists, writers, and others 
+      involved with the protagonists.</note>
      </bibl>
      
      <bibl id="p059">
@@ -28380,7 +28374,7 @@
        <publisher>Two Continents,</publisher>
        <date>1975.</date>
       </imprint>
-      <note> </note>
+      <note>A pathbreaking reference work. </note>
      </bibl>
      
      <bibl id="p060">
@@ -28442,7 +28436,8 @@
        <publisher>American Library Assoc.,</publisher>
        <date>1976.</date>
       </imprint>
-      <note>"A collection of 260 short profiles and bibliographies of notable women throughout history and an additional bibliography of over 300 collective biographies of women." </note>
+      <note>See Siegel, p120, reprinted in 1984 and 1986.  "A collection of 260 short profiles and bibliographies of notable women throughout history and an additional bibliography of over 300 collective biographies of women." 
+      See <hi rend="italics">How to Make It as a Woman</hi>, 52, 87.</note>
      </bibl>
      
      <bibl id="p064">
@@ -28458,11 +28453,13 @@
        <date>1967;</date>
        <date>1968.</date>
       </imprint>
-      <note>TOC: Women Soldiers in General: Assault on a Male Bastion; 1429-1761: Gallic, Spanish, Dutch and British courage; 1776-1815: American and French Revolutionaries; 
-       The Maid of Saragossa, Officer's Sweetheart; 1827-1900: The Siamese Guards; Warriors of Dahomey; Girls of the Civil War; World War I: Gallantry at Pervyse; The Battalion of Death; 
+      <note>TOC: Pt 1: Women Soldiers in General; Assault on a Male Bastion; 1429-1761: Gallic, Spanish, Dutch and British courage; 1776-1815: American and French Revolutionaries; 
+       The Maid of Saragossa; Officer's Sweetheart ; 1827-1900: The Siamese Guards; Warriors of Dahomey; Girls of the Civil War; World War I: Gallantry at Pervyse; The Battalion of Death; 
        The Countess of Dublin; World War II: A Variety of Valour; World War II and After: The Russians; Milica, Yugoslav Partisan; Bracha Fuld, Jewish Partisan; The Tiger Lady and Vietnam; 
-       Pt.2 Kit Welsh (Mother Ross); Hannah Snell; Mary Hays (Molly Pitcher); Mary Anne Talbot; Lucy Brewer; Loreta Velasquez; Dr. James Barry; Dorothy Lawrence; Flora Sandes; 
-       Liza Ivanovna Chaikina and Vera Krylova; Nancy Wake. </note>
+       Pt.2:  Women Soldiers in Particular: Kit Welsh (Mother Ross) 1667-1739, The Pretty and Deadly Dragoon; Hannah Snell 1723-92, Heroic Marine of Pondicherry; Mary Hays (Molly Pitcher) 1744-1832, 
+       Girl at the Gun; Mary Anne Talbot 1778-1808, Most Tragic of Women Warriors; Lucy Brewer 1793-?, United States Marine; Loreta Velasquez 1842-?,
+       Irrepressible and Irresponsible; Dr. James Barry 1795-1865, Forty-six Years in the Army; Dorothy Lawrence, Sapper in the Front Line; Flora Sandes 
+       1876-1955, Idol of the Serbian Army; Liza Ivanovna Chaikina and Vera Krylova; Nancy Wake 1912- , Feminine Fury. </note>
      </bibl>
      
      <bibl id="p065">
@@ -28490,7 +28487,8 @@
        <publisher>F. Muller,</publisher>
        <date>1960.</date>
       </imprint>
-      <note>TOC: Adrienne Cochran; Jacqueline Cochran; Hanna Reitsch; Amelia Earhart;  
+      <note>Note identical title by Adams, Kimball, and Eaton, p001.  
+       TOC: Adrienne Cochran; Jacqueline Cochran; Hanna Reitsch; Amelia Earhart;  
        Maryse Hilsz; Maryse Bastie; Madeleine Charnaux; Ann Lindbergh; Helene Boucher; Amy Mollison; Jean Batten; Jacqueline Auriol.
       </note>
      </bibl>
@@ -28577,7 +28575,7 @@
        <publisher>J. Messner,</publisher>
        <date>1978.</date>
       </imprint>
-      <note> Biographies of 17 women rulers, including Cleopatra, Elizabeth I of England, and Golda Meir, focus on how they came to power, their accomplishments, methods of ruling, and impact on history.</note>
+      <note> "Biographies of 17 women rulers, including Cleopatra, Elizabeth I of England, and Golda Meir, focus on how they came to power, their accomplishments, methods of ruling, and impact on history."</note>
      </bibl>
      
      <bibl id="p072">
@@ -28699,9 +28697,12 @@
        <date>1974;</date>
        <date>1985.</date>
       </imprint>
-      <note>TOC: The woman who got her man (Ruth 1:16); The woman whose beauty saved a race (Esther 4:16; The woman who was better than her job (Joshua 2:21); 
-       The woman to remember (Genesis 19:26); Two women of Bethany (Luke 10:39; John 12:2) -- The woman who sheared him (Judges 16:19); The woman who married the wrong man (1 Sam. 25:3); 
-       The woman who deceived her husband (Genesis 27:15); The woman who married the right man (Genesis 29:20); The woman who had five husbands; and one who was not (John 4:18); 
+      <note>TOC: The woman who got her man (Ruth 1:16); The woman whose beauty saved a race (Esther 4:16); 
+       The woman who was better than her job (Joshua 2:21); 
+       The woman to remember (Genesis 19:26); Two women of Bethany (Luke 10:39; John 12:2) -- The woman who sheared him (Judges 16:19); 
+       The woman who married the wrong man (1 Sam. 25:3); 
+       The woman who deceived her husband (Genesis 27:15); The woman who married the right man (Genesis 29:20); 
+       The woman who had five husbands; and one who was not (John 4:18); 
        The woman who lost and found life's greatest treasure (2 Kings 4:16,20,36); The woman who touched Him (Luke 8:45); The ideal woman (Proverbs 31:29. </note>
      </bibl>
      
@@ -28709,7 +28710,7 @@
       <idno>p078</idno>
       <author><name type="last">Maine</name>, <name type="first">Charles Eric</name>.</author>
       <title type="ref">
-       <hi rend="italics">World- Famous Mistresses. </hi>
+       <hi rend="italics">World-Famous Mistresses. </hi>
       </title>
       <imprint>
        <pubPlace>Feltham, Middlesex:</pubPlace>
@@ -28791,7 +28792,8 @@
        <publisher>Books for Libraries,</publisher>
        <date>1970.</date>
       </imprint>
-      <note>TOC: Ann Judson; Mary Moffat; Mary Livingstone; Christina Coillard; Mary Williams; 
+      <note>Includes African and Asian missionaries, such as the Scottish Baptist Christina Mackintosh who married French Evangelical Fracois Coillard in Cape Town, South Africa in 1861. 
+       TOC: Ann Judson; Mary Moffat; Mary Livingstone; Christina Coillard; Mary Williams; 
        Agnes Watt; Lillias Underwood.</note>
      </bibl>
      
@@ -28827,7 +28829,7 @@
        <publisher>Zondervan,</publisher>
        <date>1946.</date>
       </imprint>
-      <note>TOC: Susanna Wesley; Ann Judson; Mary Slessor; Florence Nightingale; Pandita Ramabai; 
+      <note>Although the title resembles Bolton, a098, and others, its contents differs from the "famous girls" lists before 1940 as well as Basil Miller's of 1948 and 1960 (p085 and p086); this is international and pious.TOC: Susanna Wesley; Ann Judson; Mary Slessor; Florence Nightingale; Pandita Ramabai; 
        Madame Chiang Kai-shek; Betty Stam; Frances Willard; Fanny Crosby; Frances Ridley Havergal. </note>
      </bibl>
      
@@ -28883,7 +28885,8 @@
       </imprint>
       <imprint>
        <pubPlace>London:</pubPlace>
-       <publisher>W.H. Allen,</publisher>
+       <publisher>W.H. Allen;</publisher>
+       <publisher>W.K. Ellen,</publisher>
        <date>1977.</date>
       </imprint>
       <imprint>
@@ -28892,11 +28895,6 @@
        <date>1978;</date>
        <date>1980;</date>
        <date>1986.</date>
-      </imprint>
-      <imprint>
-       <pubPlace>London:</pubPlace>
-       <publisher>W.K. Ellen,</publisher>
-       <date>1977.</date>
       </imprint>
       <note> </note>
      </bibl>
@@ -28942,7 +28940,7 @@
        <date>1949;</date>
        <date>1959.</date>
       </imprint>
-      <note>TOC: Sarah Martin; Dorothea Dix; Harriet Beecher Stowe; Louisa Twining; Clara Barton; 
+      <note>An international set of reformers, leaders, innovators, not frontier women.  TOC: Sarah Martin; Dorothea Dix; Harriet Beecher Stowe; Louisa Twining; Clara Barton; 
        Octavia Hill; Adelaide Anderson; Agnes Weston; Frances Willard; Millicent Fawcett; Karen Jeppe; 
        Daisy Bates; Elizabeth Kenny. </note>
      </bibl>
@@ -28981,7 +28979,7 @@
       <idno>p093</idno>
       <author><name type="last">Opfell</name>, <name type="first">Olga S.</name></author>
       <title type="ref">
-       <hi rend="italics">The Lady Laureates: Women who have Won the Nobel Prize. </hi>
+       <hi rend="italics">The Lady Laureates: Women Who Have Won the Nobel Prize. </hi>
       </title>
       <imprint>
        <pubPlace>Metuchen, NJ:</pubPlace>
@@ -29114,8 +29112,7 @@
    <imprint>
     <pubPlace>London:</pubPlace>
     <publisher>V. Galancz, </publisher>
-    <date>1979;</date>
-    <date>1983.</date>
+        <date>1983.</date>
    </imprint>
       <imprint>
        <pubPlace>New York:</pubPlace>
@@ -29267,12 +29264,12 @@
        <date>2008.</date>
       </imprint>
       <imprint>
-       <pubPlace>New York?:</pubPlace>
+       <pubPlace>New York:</pubPlace>
        <publisher>Harper Collins,</publisher>
        <date>2007.</date>
       </imprint>
       <imprint>
-       <pubPlace>New York?:</pubPlace>
+       <pubPlace>New York:</pubPlace>
        <publisher>Perennial,</publisher>
        <date>2009.</date>
       </imprint>
@@ -29321,7 +29318,7 @@
        Harriet Tubman; Clara Barton; Elizabeth Blackwell; Mary Baker Eddy; Lakshmi Bai, Rani of Jhansi; Mary Harris Jones (Mother Jones); Lousia May Alcott; Sophia Jex-Blake; Annie Besant; Emma Lazarus; 
        Emmeline Pankhurst and Christabel Pankhurst; Carrie Chapman Catt; Jane Addams; Mary Kingsley; Marie Curie; Sarah Breedlove Walker; Gertrude Bell; Alice Hamilton; Rosa Luxemburg; Maria Montessori; 
        Julia Morgan; Mary McLeod Bethune; Helen Keller; Frances Perkins; Emmy Noether; Margaret Higgins Sanger; Eleanor Roosevelt; Karen Horney; Sister Elizabeth Kenny; Louise Boyd; Lucila Godey Alcaya (Gabriela Mistral); 
-       Agatha Christie; Martha Graham; Anna Freud; Amelia Earhart; Golda Meir; Margaret Mead; Marian Anderson; Margaret Bourke- White; Rachel Carson; Mother Teresa; Rosa Parks; Mildred "Babe" Didrikson Zaharias; 
+       Agatha Christie; Martha Graham; Anna Freud; Amelia Earhart; Golda Meir; Margaret Mead; Marian Anderson; Margaret Bourke-White; Rachel Carson; Mother Teresa; Rosa Parks; Mildred "Babe" Didrikson Zaharias; 
        Indira Gandhi; Betty Friedan; Shirley Chisholm; Margaret Thatcher; Anne Frank; Toni Morrison; Corazon Aquino; Valentina Tereshkova; Marian Wright Edelman; Rigoberta Menchu. </note>
      </bibl>    
      
@@ -29345,11 +29342,11 @@
       <date>1994;</date>
       <date>1995.</date>
      </imprint>
-      <note>TOC: Maya Angelou; Simone de Beauvoir; Nina Berberova; Vera Brittain; Émilie Carles; Nien Cheng; Judith Ortiz Cofer; Colette; Jill Ker Conway; 
+      <note>An anthology of life writing.  TOC: Maya Angelou; Simone de Beauvoir; Nina Berberova; Vera Brittain; Émilie Carles; Nien Cheng; Judith Ortiz Cofer; Colette; Jill Ker Conway; 
        Eleanor Coppola; Bernadette Devlin; Joan Didion; Annie Dillard; Isak Dinesen; Marguerite Duras; M.F.K. Fisher; Janet Frame; Anne Frank; 
        Eugenia Semyonova Ginzburg; Natalia Ginzburg; Vivian Gornick; Emily Hahn; Le Ly Hayslip; Lillian Hellman; Eva Hoffman; Billie Holiday; Zora Neale Hurston; 
        Carolina Maria de Jesus; Joyce Johnson; Helen Keller; Maxine Hong Kingston; Tetsuko Kuroyanagi; Anne Morrow Lindbergh; Onnie Lee Logan; Audre Lorde; Beryl Markham; 
-       Emma Mashinini; Mary McCarthy; Margaret Mead; Kate Millett; Jessica Mitford ; From Coming of age in Mississippi; Anne Moody; Eleanor Munro; Anaïs Nin; Ning Lao T'ai-T'ai; 
+       Emma Mashinini; Mary McCarthy; Margaret Mead; Kate Millett; Jessica Mitford ; From Coming of Age in Mississippi; Anne Moody; Eleanor Munro; Anaïs Nin; Ning Lao T'ai-T'ai; 
        Cynthia Ozick; Sylvia Plath; Santha Rama Rau; Marjorie Kinnan Rawlings; V. Sackville-West; Florida Scott-Maxwell; Kate Simon; Carolyn Kay Steedman; Gertrude Stein; Sara Suleri; 
        Caitlin Thomas; Sophia Tolstoy; Anne Truitt; Marie Vassiltchikov; Virginia Woolf.  </note>
      </bibl>
@@ -29480,7 +29477,7 @@
        <date>1980;</date>
        <date>1993.</date>
       </imprint>
-      <note> </note>
+      <note>Volumes 1-3 on earlier periods? </note>
      </bibl> 
      
      <bibl id="p119">
@@ -29521,7 +29518,7 @@
        <date>1984;</date>
        <date>1986.</date>
       </imprint>
-      <note>A collection of 260 short profiles and bibliographies of notable women throughout history and an additional bibliography of over 300 collective biographies of women. </note>
+      <note>Reprint of Kulkin, p063.  A collection of 260 short profiles and bibliographies of notable women throughout history and an additional bibliography of over 300 collective biographies of women. </note>
      </bibl> 
      
      <bibl id="p121">
