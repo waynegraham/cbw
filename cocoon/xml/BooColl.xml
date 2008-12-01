@@ -27182,6 +27182,12 @@
        <publisher>Jewish Publication Society of America,</publisher>
        <date>1892.</date>
       </imprint>
+      <note>TOC: From the Apocrypha: Judith; The Mother of the Seven Martyrs. The Graeco-Roman
+       Period: Queen Salome Alexandra; Mariamne, the Hasmonean; Helena, Queen and Proselyte;
+       Berenice. The Talmudic Age: Martha, Daughter of Boethus; Ima Shalom; Rachel, Rabbi Akiba’s
+       Wife; Beruria; Rabbi Meir’s Pupil; Rabbi Ishmael’s Mother; Rabbi Judah’s Maid-Servant; The
+       Married Couple of Sidon; A Group of Xanthippes; Jalta; Abaji’s Foster-Mother; The Two Chomas;
+       Weasel as well as Witnesses. </note>
      </bibl>
 
     </div2>
@@ -27208,12 +27214,7 @@
        <publisher>Books For Libraries,</publisher>
        <date>1970.</date>
       </imprint>
-      <note>TOC: From the Apocrypha: Judith; The Mother of the Seven Martyrs; The Graeco-Roman
-       Period: Queen Salome Alexandra; Mariamne, the Hasmonean; Helena, Queen and Proselyte;
-       Bereuice; The Talmudic Age: Martha, Daughter of Boethus; Ima Shalom; Rachel, Rabbi Akiba’s
-       Wife; Beruria; Rabbie Meir’s Pupil; Rabbi Ishmael’s Mother; Rabbi Judah’s Maid-Servant; The
-       Married Couple of Sidon; A Group of Xanthippes; Jalta; Abaji’s Foster-Mother; The Two Chomas;
-       Weasel and Well as Witnesses. </note>
+      <note></note>
      </bibl>
 
 
@@ -27259,6 +27260,7 @@
        <date>1996;</date>
        <date>1998.</date>
       </imprint>
+      <note>A collective memoir.</note>
      </bibl>
 
      <bibl id="p004">
@@ -27284,6 +27286,7 @@
        <publisher>Frederick-Williams, </publisher>
        <date>1947.</date>
       </imprint>
+      <note>By the author of <hi rend="italics">A Romanian Cook Book</hi> (New York: Citadel, 1951).  About Romanian women artists.</note>
      </bibl>
 
      <bibl id="p006">
@@ -27314,6 +27317,8 @@
        <publisher>G. K. Hall, </publisher>
        <date>1976.</date>
       </imprint>
+      <note>Subtitle suggests it is one of the modern typological works (i.e. not biblical): "being a brief account of certain famous women, each of them richly endowed with some quality that drives men mad, omitting no impertinent and
+       unbelievable fact and based upon a stupendous amount of first-hand and second-hand research, some of it in books."</note>
      </bibl>
 
      <bibl id="p007">
@@ -27362,18 +27367,17 @@
       <imprint>
        <pubPlace>Boston:</pubPlace>
        <publisher>Beacon,</publisher>
-       <date>1973;</date>
        <date>1975.</date>
       </imprint>
       <imprint>
        <pubPlace>Lima, OH:</pubPlace>
-       <publisher>Academic Renewal,</publisher>
-       <date>1973;</date>
+       <publisher>Academic Renewal,</publisher>       
        <date>2001.</date>
       </imprint>
-      <note>TOC: Marguerite of Navarre; Jeanne d'Albret; Minor sketches: Catherine de Bourbon, Éléanore de Roye, Idelette de Bure; Charlotte de Bourbon; Louis de Coligny; 
+      <note>TOC: Marguerite of Navarre; Jeanne d'Albret; Minor sketches: Catherine de Bourbon, Éléanore de Roye, Idelette de Bure; Charlotte de Bourbon; Louise de Coligny; 
        Catherine of Aragon; Anne Boleyn ; Minor sketches: the negligible wives of Henry VIII; Catherine Parr; Lady Jane Grey; Mary I; John Foxe and the women martyrs; Elizabeth I; 
        Catherine Willoughby, the Duchess of Suffolk.
+       Author of biographies of Martin Luther, Erasmus, the Church fathers, and Christianity.  
       </note>
      </bibl>
 
@@ -27589,7 +27593,7 @@
        <date>1945.</date>
       </imprint>
       <note> TOC: Catherine Booth's influence on the Salvation army; Emma Booth-Tucker; Hedwig von Haartman; Yuddha Bai (Catherine Bannister);
-       Alice Barker;- Bertha Gugelmann; Annie Elizabeth Harris; Kiye Yamamuro; Martha Chippendale; Caroline Ehrhardt; Elizabeth Swift Brengle; 
+       Alice Barker; Bertha Gugelmann; Annie Elizabeth Harris; Kiye Yamamuro; Martha Chippendale; Caroline Ehrhardt; Elizabeth Swift Brengle; 
        Anna von Wattenwyl; Elizabeth Sapsworth.</note>
      </bibl>
 
@@ -27620,8 +27624,7 @@
          <pubPlace>Nashville:</pubPlace>
        <publisher>Abingdon-Cokesbury,</publisher>
        <date>1942;</date>
-        <date>1954-1972?</date>
-      </imprint>
+              </imprint>
       <imprint>
        <pubPlace>Grand Rapids, MI:</pubPlace>
        <publisher>Baker Book House,</publisher>
@@ -27629,7 +27632,7 @@
        <date>1970;</date>
        <date>1974.</date>
       </imprint>
-      <note> </note>
+      <note>Women in the Bible.  Author of Christian books, including Methodist sermons, self-help; listed under Pocket Pulpit and Minister's Paperback library.   </note>
      </bibl>
      
      <bibl id="p024">
@@ -27650,10 +27653,9 @@
       <imprint>
        <pubPlace>Gerards Cross:</pubPlace>
        <publisher>C. Smyth,</publisher>
-      <date>1965;</date>
        <date>1979.</date>
       </imprint>
-      <note>TOC: Maud Gonne; Constance Markievicz; Sarah Purser; Sara Allgood; Maire O'Neill. </note>
+      <note>TOC: Maud Gonne; Constance Markievicz; Sarah Purser; Sara Allgood; Maire O'Neill [stage name of Molly Allgood]. </note>
      </bibl>
 
        <bibl id="p025">
@@ -27714,7 +27716,7 @@
 
      <bibl id="p028">
       <idno>p028</idno>
-      <author><name type="last">D'Humy</name>, <name type="first">Fernard Emile</name>.</author>
+      <author><name type="last">D'Humy</name>, <name type="first">Fernand Emile</name>.</author>
       <title type="ref">
        <hi rend="italics">Women Who Influenced the World. </hi>
       </title>
@@ -27840,10 +27842,10 @@
        Rosa Luxemburg; Mary McLeod Bethune; Charlotte Bronte; Emily Bronte; Catherine the Great; Ida Tarbell; Jane Goodall; Emma Goldman; Coco Chanel; 
        Dorothy Thompson; Grace Murray Hopper; Barbara McClintock; Elizabeth Kubler-Ross; Joan of Arc; Indira Ghandi; Louise Nevelson; Emmeline Pankhurst; 
        Dorothea Lange; Agnes de Mille; Sappho; Nadia Boulanger; Gwendolyn Brooks; Maria Montessori; Marian Anderson; Anne Frank; Babe Didrikson Zaharias; 
-       Margaret Thatcher; Mary Cassatt; Sarah Bernhardt; Barbara Tuchman; Amelia Earhart; Murasaki Shikibu; Jesse Redmon Faust; Hillary Rodham Clinton; Leni Riefenstahl; 
+       Margaret Thatcher; Mary Cassatt; Sarah Bernhardt; Barbara Tuchman; Amelia Earhart; Murasaki Shikibu; Jesse Redmon Fauset; Hillary Rodham Clinton; Leni Riefenstahl; 
        Margaret Bourke-White; Frida Kahlo; Gabriela Mistral; Flannery O'Connor; Katherine Graham ; Bessie Smith; Joan Ganz Cooney; Cleopatra; Madame C.J. Walker (Sarah Breedlove); 
        Sandra Day O'Connor; Ruth Bader Ginsburg; Diane Arbus; Wu Chao; Billie Holiday; Helen Gurley Brown; Julia Morgan; Rosa Bonheur; Mary Pickford; Maria Callas; Katherine Hepburn; 
-       Billie Jean King; Edith Head; Elise de Wolfe; Lucille Ball.</note>
+       Billie Jean King; Edith Head; Elsie de Wolfe; Lucille Ball.</note>
      </bibl>
      
      <bibl id="p035">
@@ -27868,20 +27870,16 @@
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
-       <publisher>Knopf,</publisher>
-       <date>1984;</date>
-       <date>1985.</date>
-      </imprint>
-      <imprint>
-       <pubPlace>London:</pubPlace>
-       <publisher>Secker &amp; Warburg,</publisher>
+       <publisher>Knopf;</publisher>
+       <publisher>Oxford University Press;</publisher>
+       <publisher>Viking Penguin,</publisher>
        <date>1984.</date>
       </imprint>
       <imprint>
-       <pubPlace>New York:</pubPlace>
-       <publisher>Oxford University Press,</publisher>
-       <date>1984;</date>
-       <date>1986.</date>
+       <pubPlace>London:</pubPlace>
+       <publisher>Secker &amp; Warburg;</publisher>
+       <publisher>Vintage,</publisher>
+       <date>1984.</date>
       </imprint>
       <imprint>
        <pubPlace>Harmondsworth, Middlesex:</pubPlace>
@@ -27891,15 +27889,19 @@
       </imprint>
       <imprint>
        <pubPlace>New York:</pubPlace>
-      <publisher>Viking Penguin,</publisher>
-       <date>1984;</date>
-       <date>1986.</date>
+       <publisher>Knopf;</publisher>
+        <date>1985.</date>
       </imprint>
-      <imprint>
+       <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Oxford University Press;</publisher>
+        <publisher>Viking Penguin,</publisher>        
+             <date>1986.</date>
+      </imprint>
+             <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Vintage,</publisher>
-       <date>1984;</date>
-       <date>2004.</date>
+              <date>2004.</date>
       </imprint>
       <note> </note>
      </bibl>
