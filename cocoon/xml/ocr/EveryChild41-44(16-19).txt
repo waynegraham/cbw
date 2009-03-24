@@ -26,7 +26,7 @@ Alcestis
   "If thou so thinkest, lead her in thyself." 
   "Nay, but I would give her into thy hands." 
   "I touch her not, but my house she may enter." 
-  "'Tis only to thy hand I entrust her."
+  "'T is only to thy hand I entrust her."
   "O King, thou compellest me to this against my will." 
   "Stretch forth thy hand and touch her." 
   "I touch her as I would touch the Gorgon's head." 
@@ -46,7 +46,7 @@ It befell in times past that the gods, being angry with the inhabitants of Thebe
    And still more feebly o'er the plain 
    Walketh with three feet than with twain?"
 And Oedipus made reply:
-   "'Tis man, who in life's early day 
+   "'T is man, who in life's early day 
    Four-footed crawleth on his way; 
 18
 
