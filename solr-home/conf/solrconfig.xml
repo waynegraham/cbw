@@ -29,7 +29,7 @@
   <!-- Used to specify an alternate directory to hold all index data
        other than the default ./data under the Solr home.
        If replication is in use, this should match the replication configuration. -->
-  <dataDir>/usr/local/projects/abonline/current/solr-home/data</dataDir>
+  <dataDir>/usr/local/projects/womensbios/current/solr-home/data</dataDir>
 
   <indexDefaults>
    <!-- Values here affect all index writers and act as a default unless overridden. -->
