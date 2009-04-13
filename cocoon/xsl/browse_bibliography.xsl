@@ -149,12 +149,38 @@
 											</xsl:if>
 											<br clear="all"/>
 											<br/>
+											<xsl:variable name="searchTitle">
+												<xsl:choose>
+													<xsl:when test="contains(title/hi, ':')">
+														<xsl:value-of select="substring-before(normalize-space(title/hi), ':')"/>
+													</xsl:when>
+													<xsl:otherwise>
+														<xsl:value-of select="normalize-space(title/hi)"/>
+													</xsl:otherwise>
+												</xsl:choose>																							
+											</xsl:variable>
+											<xsl:variable name="searchAuthor">
+												<xsl:choose>
+													<xsl:when test="author/name[@type='last']">
+														<xsl:value-of select="author/name[@type='last']"/>
+													</xsl:when>
+													<xsl:when test="author/abbr/@expan">
+														<xsl:value-of select="substring-before(author/abbr/@expan, ',')"/>
+													</xsl:when>
+													<xsl:when test="editor/name[@type='last']">
+														<xsl:value-of select="editor/name[@type='last']"/>
+													</xsl:when>
+													<xsl:otherwise>
+														<xsl:value-of select="''"/>
+													</xsl:otherwise>
+												</xsl:choose>																							
+											</xsl:variable>
 											<a
-												href="http://www.worldcat.org/search?q=%22{title/hi}%22+au%3A{author/name[@type='last']}"
+												href="http://www.worldcat.org/search?q=%22{$searchTitle}%22+au%3A{$searchAuthor}"
 												>Search OCLC WorldCat for this title.</a>
 											<br/>
 											<a
-												href="http://books.google.com/books?as_q=%22{title/hi}%22&amp;as_auth={author/name[@type='last']}"
+												href="http://books.google.com/books?as_q=%22{$searchTitle}%22&amp;as_auth={$searchAuthor}"
 												>Search Google Books for this title.</a>
 										</div>
 									</xsl:for-each>
@@ -177,12 +203,38 @@
 									</xsl:if>
 										<br clear="all"/>
 										<br/>
+										<xsl:variable name="searchTitle">
+											<xsl:choose>
+												<xsl:when test="contains(//bibl[@id=$bibl_id]/title/hi, ':')">
+													<xsl:value-of select="substring-before(normalize-space(//bibl[@id=$bibl_id]/title/hi), ':')"/>
+												</xsl:when>
+												<xsl:otherwise>
+													<xsl:value-of select="normalize-space(//bibl[@id=$bibl_id]/title/hi)"/>
+												</xsl:otherwise>
+											</xsl:choose>																							
+										</xsl:variable>
+										<xsl:variable name="searchAuthor">
+											<xsl:choose>
+												<xsl:when test="//bibl[@id=$bibl_id]/author/name[@type='last']">
+													<xsl:value-of select="//bibl[@id=$bibl_id]/author/name[@type='last']"/>
+												</xsl:when>
+												<xsl:when test="//bibl[@id=$bibl_id]/author/abbr/@expan">
+													<xsl:value-of select="substring-before(//bibl[@id=$bibl_id]/author/abbr/@expan, ',')"/>
+												</xsl:when>
+												<xsl:when test="//bibl[@id=$bibl_id]/editor/name[@type='last']">
+													<xsl:value-of select="//bibl[@id=$bibl_id]/editor/name[@type='last']"/>
+												</xsl:when>
+												<xsl:otherwise>
+													<xsl:value-of select="''"/>
+												</xsl:otherwise>
+											</xsl:choose>																							
+										</xsl:variable>
 										<a
-											href="http://www.worldcat.org/search?q=%22{//bibl[@id=$bibl_id]/title/hi}%22+au%3A{//bibl[@id=$bibl_id]/author/name[@type='last']}"
+											href="http://www.worldcat.org/search?q=%22{$searchTitle}%22+au%3A{$searchAuthor}"
 											>Search OCLC WorldCat for this title.</a>
 										<br/>
 										<a
-											href="http://books.google.com/books?as_q=%22{//bibl[@id=$bibl_id]/title/hi}%22&amp;as_auth={//bibl[@id=$bibl_id]/author/name[@type='last']}"
+											href="http://books.google.com/books?as_q=%22{$searchTitle}%22&amp;as_auth={$searchAuthor}"
 											>Search Google Books for this title.</a>
 									</div>
 								</xsl:otherwise>
