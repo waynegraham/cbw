@@ -122,6 +122,7 @@
         -->
         <interpGrp>
             <interp value="Continent"/>
+            <interp value="Kingdom"/>
             <interp value="Country"/>
             <interp value="Region"/>
             <interp value="State"/>
@@ -1314,7 +1315,7 @@
                             >America</rs> reflects this strong sense of English pride
                             (<name>Pope-Hennessy</name>, 16). Her reputation and persona, cultivated
                         in Domestic Manners, superseded her, and many who met her were surprised to
-                        find her a “most elegant and agreeable woman.”
+                        find her a “most elegant and agreeable woman”
                         (<name>Neville-Sington</name>, <name corresp="FRANCES_TROLLOPE">Fanny
                             Trollope</name>, 342). Domestic Manners presents a somewhat different
                         picure of her journey than the reality. <name corresp="FRANCES_TROLLOPE"
@@ -1332,12 +1333,12 @@
                             >Fanny’s</name> tenure in <rs type="place" key="Country">America</rs>,
                         close family friend <name>Hervieu</name> assisted her in her personal
                         mission to save her family from not only from their financial troubles but
-                        more importantly from themselves. Regardless of what some regarded as her
+                        more importantly from themselves. Despite what some regarded as her
                         questionable morality, her book became an instant success and even spawned
                         the verb “to trollopise,” meaning to sermonize on experiences
                             (<name>Pope-Hennessy</name>, 16). Many <rs type="place" key="Country"
                             >Americans</rs> and <rs type="place" key="Continent">Europeans</rs>
-                        alike attacked <name corresp="FRANCES_TROLLOPE">Fanny</name>, professing:
+                        alike attacked <name corresp="FRANCES_TROLLOPE">Fanny</name> because:
                         “Although <name corresp="FRANCES_TROLLOPE">Mrs. Trollope</name> maintained
                         that the standard of moral character in the <rs type="place" key="Country"
                             >United States</rs> was greatly lower than that of <rs type="place"
@@ -1347,7 +1348,7 @@
                     <p>From the age of fifty until her death thirty years later, <name
                             corresp="FRANCES_TROLLOPE">Fanny</name> published thirty-five novels and
                         six travel books, enabling her to support her family through her writing
-                            (<name>Neville-Sington</name>, Oxford Dictionary). Travel writing had
+                            (<name>Neville-Sington</name>, <rs type="place" key="City">Oxford</rs> Dictionary). Travel writing had
                         proved a popular and profitable form of writing; Captain <name>Basil
                             Hall’s</name> Travels In <rs type="place" key="Continent">North
                             America</rs> had created a feeling of ill-feeling towards <rs
@@ -1367,12 +1368,12 @@
                             (<name>Neville-Sington</name>, <name corresp="FRANCES_TROLLOPE">Fanny
                             Trollope</name>, 253). <name corresp="FRANCES_TROLLOPE">Fanny</name>
                         often worked on multiple books at once, and continued to write while
-                        suffering from the deaths of her son <name>Henry</name>, her husband, and
+                        suffering from the deaths of her son <name>Henry</name>, her husband, and her
                         daughter <name>Emily</name> between <dateRange from="1834-01-01"
                             to="1834-12-31">1834</dateRange> and <dateRange from="1836-01-01"
                             to="1836-12-31">1836</dateRange>. Even in the midst of such heartbreak,
                         her literary works “never bore the shadow of her circumstances. They were as
-                        bright at the first as when, later, circumstances brightened” (Glasgow
+                        bright at the first as when, later, circumstances brightened” (<rs type="place" key="City">Glasgow</rs>
                         Herald).</p>
                     <p><name corresp="FRANCES_TROLLOPE">Fanny's</name> self-discipline was such that
                         she always managed to maintain her writing schedule. As she continued to
@@ -1388,7 +1389,7 @@
                         visiting <rs type="place" key="Country">Italy</rs> and moved to <rs
                             type="place" key="City">Florence</rs> permanently. In <rs type="place"
                             key="City">Florence</rs> she continued her role of hosting dinner
-                        parties and attracted such literary elite as <name>Elizabeth Barrett</name>
+                        parties and attracted such literary elites as <name>Elizabeth Barrett</name>
                         and <name>Robert Browning</name>. In <dateRange from="1844-01-01"
                             to="1844-12-31">1844</dateRange>, <name>Charles Dickens</name> arrived
                         for his first tour of <rs type="place" key="Country">Italy</rs>.
@@ -1406,10 +1407,10 @@
                         son <name>Anthony</name> and his wife from <dateRange from="1850-01-01"
                             to="1850-12-31">1850</dateRange> on. Her health steadily deteriorated
                         and she died peacefully in bed on <date>October 6, 1863</date>
-                            (<name>Neville-Sington</name>, Oxford Dictionary).</p>
+                            (<name>Neville-Sington</name>, <rs type="place" key="City">Oxford</rs> Dictionary).</p>
                     <p>Works Cited:</p>
                     <note><name>Farewell, Jeanne.</name> "<name corresp="FRANCES_TROLLOPE">Mrs.
-                            Trollope’s</name> Vituperative View of Americans.” The Victorian Web.
+                            Trollope’s</name> Vituperative View of <rs type="place" key="Country">Americans</rs>.” The Victorian Web.
                             <date>1 April 2008</date>. <date>15 November 2008</date>.
                         http://www.victorianweb.org/authors/francestrollope/farewell1.html.</note>
                     <note>“<name corresp="FRANCES_TROLLOPE">Frances Trollope</name> Image.” <date>15
@@ -1431,7 +1432,7 @@
                             to="2008-05-31">May 2008</dateRange>. <date>14 Nov. 2008</date>
                         http://www.oxforddnb.com/view/article/27751</note>
                     <note><name>Pope-Hennessy, Una</name>. Three <rs type="place" key="Country"
-                            >English</rs> Women In <rs type="place" key="Continent">America</rs>.
+                            >English</rs> Women in <rs type="place" key="Continent">America</rs>.
                             <rs type="place" key="City">London</rs>: E. Benn Limited, <dateRange
                             from="1929-01-01" to="1929-12-31">1929</dateRange>.</note>
                     <note><name>Trollope, Frances Eleanor</name>. <name corresp="FRANCES_TROLLOPE"
@@ -1445,11 +1446,11 @@
             </div1>
             <div1 id="FRANCES_COBBE">
                 <div2 n="1" id="LOV_FRANCES_COBBE_BIO">
-                    <docAuthor/>
+                    <docAuthor></docAuthor>
                     <docDate>November 17, 2008</docDate>
                     <head>
-                        <title>Frances Power Cobbe</title>
-                        <bibl/>
+                        <title><name>Frances Power Cobbe</name></title>
+                        <bibl>From 'Lives of the Victorians' blog at Wordpress.com.</bibl>
                     </head>
 
                     <p>“Ours is the old, old story of every uprising race or class or order. The
@@ -1494,14 +1495,14 @@
                         interest in reform movements. In her autobiography Life of <name
                             corresp="FRANCES_COBBE"/>Frances Power Cobbe, <name
                             corresp="FRANCES_COBBE">Cobbe</name> suggests such a sense of duty in
-                        relation to the campaign against domestic violence: “…in <dateRange
+                        relation to the campaign against domestic violence: “in <dateRange
                             from="1878-01-01" to="1878-12-31">1878</dateRange> I was by chance
                         reading a newspaper in which a series of frightful cases of this kind were
                         recorded…I got up out of my armchair, half dazed, and said to myself: ‘I
                         will never rest till I have tried what I can do to stop this” (Life, 535).
                         By <dateRange from="1881-01-01" to="1881-12-31">1881</dateRange>, <name
                             corresp="FRANCES_COBBE">Cobbe</name> had articulated this driving sense
-                        of duty in a new way. She explains in Duties of Women that “….it is quite
+                        of duty in a new way. She explains in Duties of Women that “it is quite
                         possible to erect a general scheme of duty on the sole ground of the
                         inherent necessary rightfulness of one class of actions and sentiments, and
                         wrongfulness of another…” (Duties, 29).</p>
@@ -1515,7 +1516,7 @@
                             >1847</dateRange>, when <name corresp="FRANCES_COBBE">Cobbe</name> was
                         twenty-five, the task of running the household was left to her, and she
                         became her father’s caretaker and companion until his death in <dateRange
-                            from="1857-01-01" to="1857-12-31">1857</dateRange>. While <name
+                            from="1857-01-01" to="1857-12-31">1857</dateRange>. <name
                             corresp="FRANCES_COBBE">Cobbe</name> was aware of the gender
                         implications of her sense of domestic duty to her father; she asserts in her
                             <dateRange from="1865-01-01" to="1865-12-31">1865</dateRange> work “The
@@ -1529,7 +1530,7 @@
                         Religion. <name>Parker’s</name> book “supported her belief in a rational God
                         whose moral law was revealed through human intuition” (Women, 98).
                             <name>Parker</name> also articulated that “in God, the parent of Good,
-                        we have both parents in one” (<name corresp="FRANCES_TROLLOPE">Frances Power
+                        we have both parents in one” (<name corresp="FRANCES_COBBE">Frances Power
                             Cobbe</name>, 64); that is, God is both father and mother.
                             <name>Parker’s</name> beliefs contrasted sharply with the deeply
                         patriarchal structures of both Victorian England and <name>Cobbe’s</name>
@@ -1583,7 +1584,7 @@
                             East</rs>. To prepare for her journey, <name corresp="FRANCES_COBBE"
                             >Cobbe</name> cut off all her hair so that she would not need to bring a
                         lady’s maid with her. During this trip, she made the acquaintance of a group
-                        of feminists in Rome, including <name>Mary Somerville</name> and
+                        of feminists in <rs type="place" key="City">Rome</rs>, including <name>Mary Somerville</name> and
                             <name>Harriet Hosmer</name>. </p>
                     <p>Upon her return to <rs type="place" key="Country">England</rs> in <dateRange
                             from="1858-01-01" to="1858-12-31">1858</dateRange>, <name
@@ -1630,7 +1631,7 @@
                         contradiction today, and even at the time of <name corresp="FRANCES_COBBE"
                             >Cobbe’s</name> death her breed of feminism was somewhat old-fashioned.
                         Even though her writing extols conventionally feminine characteristics,
-                        Cobbe herself, as an obstinate and zealous reformer, was known to be
+                        <name corresp="FRANCES_COBBE">Cobbe</name> herself, as an obstinate and zealous reformer, was known to be
                         anything but docile and ladylike. She was a free-thinker, an individual, and
                         a rebel in many ways. She stuck to her convictions and persistently pursued
                         her goals. Her obituary, published in The <rs type="place" key="City"
@@ -1651,8 +1652,7 @@
                             to="1876-12-31">1876</dateRange>, the Cruelty to Animals Act was passed.
                             <name type="FRANCES_COBBE">Cobbe</name> was outraged, as she felt the
                         Act actually facilitated the practice of vivisection. She would campaign for
-                        the repeal of this act until her retirement in <dateRange from="1884-01-01"
-                            to="1884-12-31"/>.</p>
+                        the repeal of this act until her retirement in <dateRange from="1884-01-01" to="1884-12-31">1884</dateRange>.</p>
                     <p>In <dateRange from="1878-01-01" to="1878-12-31">1878</dateRange>, <name
                             corresp="FRANCES_COBBE">Cobbe</name> wrote the revolutionary and
                         influential “Wife Torture in <rs type="place" key="Country">England</rs>.”
@@ -1691,7 +1691,7 @@
                             >1896</dateRange>, leaving <name corresp="FRANCES_COBBE">Cobbe</name>
                         alone and distraught. By her death on <date>April 5, 1904</date>, <name
                             corresp="FRANCES_COBBE">Cobbe’s</name> life had spanned the entire
-                        Victorian era. The <name>Reverend Frederic Rowland Marvin</name> wrote in
+                        Victorian era. The Reverend <name>Frederic Rowland Marvin</name> wrote in
                         the <rs type="place" key="City">New York</rs> Times, “literature has lost an
                         ornament and the world a true friend” (<name>Marvin</name>). <name
                             corresp="FRANCES_COBBE">Cobbe</name> was terrified of being buried
@@ -1706,7 +1706,7 @@
                         obtains a certain modicum of freedom”– The Duties of Women, 21</p>
                     <p>Works Cited</p>
                     <note><name>Caine, Barbara</name>. “<name corresp="FRANCES_COBBE">Cobbe, Frances
-                            Power</name> (<dateRange from="1822-01-01" to="1822-12-31"
+                            Power</name>, (<dateRange from="1822-01-01" to="1822-12-31"
                             >1822</dateRange>-<dateRange from="1904-01-01" to="1904-12-31"
                             >1904</dateRange>).” <rs type="place" key="City">Oxford</rs> Dictionary
                         of National Biography. <dateRange from="2006-05-01" to="2006-05-31">May
@@ -1716,7 +1716,7 @@
                     <note><name corresp="FRANCES_COBBE">Cobbe, Frances P</name>. “From Life of <name
                             corresp="FRANCES_COBBE">Frances Power Cobbe</name> As Told by Herself.”
                         Ed. <name>David Damrosch</name> and <name>Kevin J. Dettmar</name>. The
-                        Longman Anthology of British Literature. 3rd ed. Vol. 2b. Pearson Education,
+                        Longman Anthology of <rs type="place" key="Kingdom">British</rs> Literature. 3rd ed. Vol. 2b. Pearson Education,
                         Inc., <dateRange from="2006-01-01" to="2006-12-31">2006</dateRange>.
                         628-632. </note>
                     <note>“<name corresp="FRANCES_COBBE">Cobbe’s</name> Fear of Being Buried Alive.”
@@ -1733,7 +1733,7 @@
                             Cobbe</name> and Victorian Feminism. <rs type="place" key="City">New
                             York</rs>: Palgrave Macmillan, <dateRange from="2006-01-01"
                             to="2006-12-31">2006</dateRange>. </note>
-                    <note><name>Marvin, Frederic R</name>. “The <name>Rev. Frederic Rowland
+                    <note><name>Marvin, Frederic R.</name> “The Rev. <name>Frederic Rowland
                             Marvin’s</name> Tribute to <name corresp="FRANCES_COBBE">Frances Power
                             Cobbe</name>.” <rs type="place" key="City">New York</rs> Times <date>16
                             Apr. 1904</date>: BR266. </note>
@@ -1742,7 +1742,7 @@
                         23. </note>
                     <note>“<name corresp="FRANCES_COBBE">Miss Frances Power Cobbe</name>.” The <rs
                             type="place" key="City">London</rs> Times <date>7 Apr. 1904</date>: 8. </note>
-                    <note><name>Mitchell, Sally</name>. <name>Frances Power Cobbe</name>: Victorian
+                    <note><name>Mitchell, Sally</name>. <name corresp="FRANCES_COBBE">Frances Power Cobbe</name>: Victorian
                         feminist, journalist, reformer. <rs type="place" key="City"
                             >Charlottesville</rs>: University of <rs type="place" key="State"
                             >Virginia</rs> Press, <dateRange from="2004-01-01" to="2004-12-31"
@@ -1752,9 +1752,46 @@
                         Ed. <name>Cullen</name>, <name>Mary</name>, and <name>Maria Lundy</name>.
                             <rs type="place" key="City">Dublin</rs>: Attic Press, <dateRange
                             from="1995-01-01" to="1995-12-31">1995</dateRange>. 89-117.</note>
-                </div2>
+                </div2> 
             </div1>
-
+            <div1 id="MARY_SOMERVILLE">
+                <div2 n="1" id="LOV_MARY_SOMERVILLE_BIO">
+                    <docAuthor></docAuthor>
+                    <docDate>November 17, 2008</docDate>
+                    <head>
+                        <title>Sincerity in Science: The Life of <name corresp="MARY_SOMERVILLE">Mary Somerville</name>.</title>
+                        <bibl>From 'Lives of the Victorians' blog at Wordpress.com.</bibl>
+                    </head>
+ <p><name corresp="MARY_SOMERVILLE">Mary Somerville</name> was an outstanding mathematician and scientist of the Victorian period. Her scientific contributions were doubly significant because not only was she a woman working within a predominantly male domain, but modern science itself was a fledgling field struggling to claim a place in Victorian culture. <name corresp="MARY_SOMERVILLE">Mary Somerville’s</name> enlightened work helped to establish science as a distinct area of study in <rs type="place" key="Kingdom">Britain</rs>, and by the time of her death she was well-known throughout <rs type="place" key="Continent">Europe</rs> for both her prodigious mathematical talents and her modest, polite, zealously self-motivated personality. Curiously, <name corresp="MARY_SOMERVILLE">Mary</name> was not a proficient reader until her early teens, and encountered her first algebraic problem only by chance. Despite the many objections from those attempting to deter her, and entirely through her own machinations and determination, she became an extraordinary scientific leviathan. </p>
+<p><name corresp="MARY_SOMERVILLE">Mary Fairfax</name> was born on <date>December 26, 1780</date>, not in her own home, but in that of her mother’s sister. Her father was a vice-admiral in the <rs type="place" key="Kingdom">British</rs> Navy, sent to sea as a midshipman at scarcely ten years of age. As he was so often absent, <name corresp="MARY_SOMERVILLE">Mary’s</name> mother had decided to accompany him to his port of departure in London. In the throes of her confinement, Mary’s mother arrived at her sister’s house in Jedburgh, Scotland just in time to give birth to Mary. As Mary’s mother was ill following her delivery, she was nursed by her Aunt Martha, who also happened to be the mother of her future husband (Neeley 23).</p>
+<p>Mary grew up in Fife, Scotland, in the “quiet, quaint little seaport village” (Osen 96) of Burntisland. The Fairfax house and garden were close to the seashore, and Mary spent much of her youth roaming the hillsides and coast near her home, practically ignorant of the existence of mathematics. She wrote in her autobiography that “I never cared for dolls, and had no one to play with me,” (Somerville 18), and her solitary wanderings cultivated within her a profound fascination with nature. Mary’s lifelong love of nature was fueled by her devout faith in God, as her mother, according to Mary’s own account, “taught me to read the Bible, and to say my prayers morning and evening; otherwise she allowed me to grow up a wild creature” (Somerville 17). Her father, upon returning home from one of his long voyages, was dismayed to find her such a “savage,” hardly able to read nor write at ten years of age, and he immediately sent her to a fashionable boarding school in Musselburgh (Osen 97), though Mary was “utterly wretched” there (Somerville 21) and only remained for one year.</p>
+<p>After her brief sojourn in formal education, Mary returned home to Burntisland and assumed control over her own education. She studied Latin, arithmetic, and writing, with the aid of only her own resourcefulness. In her mid-teens, the disapproval of her traditionally-minded family supplanted Mary’s ever-increasing appetite for education, and she was forced to spend more of her time learning domestic arts. She became quite proficient in playing piano, drawing, and needlework, and had an active social life. It was at a tea party that she encountered her very first algebra problem. Mary and a friend were flipping through a fashion magazine when she spotted some algebraic symbols that kindled her interest, and she resolved to investigate the subject further (Osen 99 – 100). Although unassertive by nature, Mary eventually managed to obtain and study a copy of Euclid’s Elements of Geometry, despite familial reproach. Indeed, “her mother was appalled and shamed by such aberrant behavior, and the servants were instructed to confiscate Mary’s supply of candles so that she could not study at night” (Osen 102).</p>
+<p>In 1804, Mary Somerville married her cousin Samuel Greig, a captain in the Russian Navy. Though he had already served with distinction, Mary’s parents would not hear of her moving to Russia, so Samuel left active service and became the Russian consol for Britain in London (Patterson 3). Finally removed from the intellectual confines of her conservative family’s criticism, Mary was less inhibited in her mathematical studies, though not by much. In the words of her daughter Martha, “nothing can be more erroneous than the statement… that Mr. Greig (her first husband) aided her in her mathematical and other pursuits. Nearly the contrary was the case. Mr. Greig took no interest in science or literature, and possessed in full the prejudice against learned women which was common at that time” (Somerville 3). Of the two children she had with Samuel, one died in infancy and the other, Woronzow Greig, grew up to be a barrister-at-law. After just three years of marriage, Samuel died in 1807, leaving Mary grief-stricken and unhealthy for several years.</p>
+<p>Not having found London particularly agreeable, Mary returned to Burntisland after the death of her first husband. Financially independent for the first time in her life, Mary was at liberty to pursue her study of mathematics in earnest. Her interest in nature emboldened her and she also began to study astronomy and natural science. She continued to advance her scientific knowledge, slowly acquiring a small library as well as professional advice. In 1812 she married another cousin, a surgeon named William Somerville, with whom she had three children, though only two survived infancy. Contrary to the behavior of her first husband, Dr. William Somerville was entirely supportive of Mary’s efforts (Osen 105). In the early days of their marriage the couple divided their time between Scotland and London, and as their London residence was near the Royal Institution of Great Britain, Mary was able to use its vast resources to further educate herself. Dr. Somerville’s connections with the British government incorporated the Somervilles into an animatedly intellectual social circle, and Mary met and became friends with many leading mathematicians and astronomers. Though she spent much of her day in private study, her daughter Martha wrote that Mary found “gay and cheerful company… a pleasant relaxation after a hard day’s work. My mother never introduced scientific or learned subjects into general conversation. When they were brought forward by others, she talked simply and naturally about them, without the slightest pretension to superior knowledge” (Somerville 5).</p>
+<p>This same humility with which her daughter accredited her was reflected in her scientific work. Mary was soon to become well-known for her comprehensible writing style, despite the complexity of subject matter, and for her desire to “make the laws by which the material world is governed, more familiar” (Osen 113). Mary’s first and greatest published work was her translation of Pierre-Simon Laplace’s Mecanique Céleste in 1827. Mary met with the great French mathematician and astronomer in Paris, and in conversation, he told her that “I write books that no one can read. There have been only three women who have understood me—yourself, Caroline Herschel, and a Mrs. Greig, of whom I have never been able to learn anything” (Chamber 186). Of course, Mary was the first and third of these individuals. Despite others’ confidence in her ability, Mary was hesitant and undertook the translation in secrecy in order to assure that her work could be destroyed if it were a failure (Osen 107). In her own modest words, she stated that “I simply translated Laplace’s work from algebra into common language.” The book was immediately proclaimed “a book for posterity” by the English scientist Sir John Herschel because of Mary’s ability to clearly communicate concepts through simple explications entirely lacking condescension (Mary 570). It became, upon publication, an extremely popular mathematical read and quickly became a textbook for Cambridge University mathematics students.</p>
+<p>Mary Somerville left England in 1833 due to the health of her husband William. They lived in various locations throughout the continent, mostly Italy, but Mary was at a great disadvantage, no longer in the thick of the thriving, cutting-edge scientific community of London. She continued her research, however, and wrote a second book, On the Connexion of the Physical Sciences. It was first published in 1834 and continually reprinted in several British and American editions. This second book was a detailed account of physical phenomena and the many connections among the fields of physical science (Grinstein and Campbell 212). In its first four decades, some fifteen thousand copies of her book were sold, and the tenth edition appeared in 1877, five years after her death (Patterson 193). The widespread acclaim garnered by her book did not go unrecognized, and Mary, along with Caroline Herschel, earned scientific distinction in 1835 as the first women elected into the Royal Astronomical Society (Patterson 164).</p>
+<p>Mary’s humility, kindness, and work ethic did not diminish with time, regardless of her well-established reputation. Sir Francis Chantrey, a sculptor commissioned by the Royal Astronomical Society to sculpt Mary’s portrait bust, recalled a dinner party at which a friend begged Chantrey to introduce her to Mrs. Somerville. Chantrey seated the ladies side by side and perceived, from the ease of their conversation, that they were delighted with each other. He was later bewildered when his friend believed herself to be the victim of a joke, indignantly challenging him, “How could you do so? You knew that I did not want to know that Mrs. Somerville; I wanted to know the astronomer: that lady talked of the theatre, the opera, and common things” (Mary 569 – 70).</p>
+<p>In 1848, at the age of sixty-eight, Mary published yet another book, Physical Geography. The pioneering work proved to be yet another success, and Mary anticipated “a regional approach to geography rather than one made solely along national or political lines” (Patterson 194). It was used extensively in schools and universities for the next fifty years (Grinstein and Campbell 214), and five more editions appeared in her lifetime for a total of approximately sixteen thousand copies sold (Patterson 194).</p>
+<p>In her eighty-fifth year, Mary showed no signs of slowing down and she began her fourth work entitled On Molecular and Microscopic Science. It was published four years later in two volumes, the first delving into “small bodies of inanimate matter (molecules)” and the second dealing with “small bodies of animate matter (microscopic organisms)” (Patterson 194). By the time of its publication, however, much of its subject matter was already obsolete, and the reviewers paid more attention to her age and distinction rather than the contents. At the seasoned age of eighty-nine, Mary’s mind was just as robust as ever and she pursued her last work, an autobiography in collaboration with her daughter Martha. Personal Recollections, published posthumously by her daughter, decidedly omitted distinctly scientific portions of the manuscript in addition to specific references to people and events deemed uninteresting or inappropriate in context (Grinstein and Campbell 214).</p>
+<p>After the death of her second husband William in 1860, Mary Somerville spent the remainder of her days in Italy, with only a few brief visits to England and around Europe. Her old age was rather a forlorn time for her, not only due to the death of her beloved husband, but also because of the earth-shattering blow that came with the death of her middle-aged son Woronzow in 1865 (Patterson 194). In 1871, after the death of her close friend, Sir John Herschel, she wrote that “few of my early friends now remain—I am nearly left alone” (Somerville 361). She became deaf and weak in her final years, though she nonetheless continued in her perpetual dedication to self-improvement. Her mind remained intact and she would “read books on the higher algebra for four or five hours in the morning, even to solve problems” (Perl 92). She died peacefully at the age of ninety-two, and up until the day she died she worked on math problems to amuse herself (Patterson 195). Mary Somerville’s dedication to knowledge and her everlasting love of nature is pervasive in all of her remaining works. In the words of her daughter Martha, “everything in nature spoke to her of that great God who created all things, the grand and sublimely beautiful as well as the exquisite loveliness of minute objects. Above all, in the laws which science unveils, step by step, she found ever renewed motives for the love and adoration of their Author and Sustainer” (Somerville 5).</p>
+<p>Works Cited</p>
+<note>Chambers, Robert, and Patrick, David, eds. Chamber’s Cyclopædia of English Literature. Philadelphia, J.B. Lippincott Co., 1904.</note>
+<note>Grinstein, Louise S., and Paul J. Campbell, eds. Women of Mathematics : A Bibliographic Sourcebook. New York: Greenwood P, 1987.</note>            </note>
+<note>Mary Somerville, Atlantic Monthly (May 1860), 568-571. From the Electronic Text Center, University of Virginia Library </note>
+<note> Neeley, Kathryn A. Mary Somerville: Science, Illumination, and the Female Mind. Cambridge: Cambridge University Press, 2001.</note>
+<note> Osen, Lynn M. Women in Mathematics. Cambridge, MA: The MIT Press, 1974.</note>
+<note>Patterson, Elizabeth C. Mary Somerville and the Cultivation of Science, 1815-1840. New York: Springer, 1983.</note>
+<note>Perl, Teri. Math Equals: Biographies of Women Mathematicians + Related Activities. Menlo Park: Addison-Wesley Publishing Company, 1978.</note>
+<note>Somerville, Martha. Personal Recollections, From Early Life to Old Age, of Mary Somerville. Boston: Roberts Brothers, 1874.</note>
+<p>Picture Credits</p>
+ <note>Picture 1: Somerville, Mary. http://www.lib.utexas.edu/exhibits/portraits/index.php?img=354</note>
+ <note>Picture 2: http://www.abc.net.au/science/slab/wertheim/story.htm</note>
+  <note>Picture 3: http://www.brand-dd.com/graphics/oldsomerville.jpg</note>
+ <note>Picture 4: http://www.electricscotland.com/history/goodwords/somerville_mary.jpg</note>
+ <note>Picture 5: http://piazzaledonatello.blogspot.com/2008/05/appelloappeal.html</note> 
+ </div2>                 
+            </div1>        
+                                
         </body>
     </text>
 
