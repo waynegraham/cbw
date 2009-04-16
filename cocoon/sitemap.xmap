@@ -86,6 +86,11 @@
 	<!-- =========================== Pipelines ================================= -->
 
 	<map:pipelines>
+		<map:component-configurations>
+			<global-variables>
+				<solr-url>http://127.0.0.1:8080/solr/womensbios/</solr-url>
+			</global-variables>
+		</map:component-configurations>		
 		<map:pipeline>
 			<map:match pattern="*.css">
 				<map:read src="xsl/{1}.css" mime-type="text/css"/>
@@ -180,10 +185,7 @@
 
 			<!-- search pipeline-->
 			<map:match pattern="search_results">
-				<map:generate
-					
-src="http://localhost:8080/womensbios-solr/select?q=id:[*+TO+*]{url-encode:{request-param:q}}&amp;rows={url-encode:{request-param:rows}}&amp;start={url-encode:{request-param:start}}"
-					label="record"/>			
+				<map:generate src="{global:solr-url}select?q=id:[*+TO+*]{url-encode:{request-param:q}}&amp;rows={url-encode:{request-param:rows}}&amp;start={url-encode:{request-param:start}}" label="record"/>			
 				<map:transform type="xslt" src="search/search_results.xsl" label="basiccontent">
 					<map:parameter name="use-request-parameters" value="true"/>
 				</map:transform>

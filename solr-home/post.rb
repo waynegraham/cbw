@@ -6,5 +6,5 @@ require '/sds/shared/deployer-lib/ruby/solr_update'
 HOST = 'http://localhost:8080'
 
 mdate = ARGV[0].nil? ? nil : ARGV[0].to_sym
-update = SolrUpdate.new(HOST + '/womensbios-solr')
+update = SolrUpdate.new(HOST + '/solr/womensbios')
 update.index( File.join(File.dirname(__FILE__), 'add_docs', 'add_*.xml'), mdate)
