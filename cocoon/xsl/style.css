@@ -481,10 +481,10 @@ filter:alpha(opacity=70);
 }
 
 .yui-skin-sam .yui-dt table {
-  font-family: "Palatino Linotype",Times,serif;
+  font-family: "Palatino Linotype",Times,serif !important;
 }
 
-.yui-dt-col-0 {
+.yui-dt0-col-name {
 width: 300px !important;
 }
 

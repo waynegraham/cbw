@@ -14,14 +14,22 @@
                     }
                 </style>
                 
-                <link rel="stylesheet" type="text/css" href="javascript/yui/build/datatable/assets/skins/sam/datatable.css" />
-                <script type="text/javascript" src="javascript/yui/build/yahoo-dom-event/yahoo-dom-event.js"></script>
-                <script type="text/javascript" src="javascript/yui/build/element/element-beta-min.js"></script>
-                
-                <script type="text/javascript" src="javascript/yui/build/datasource/datasource-beta-min.js"></script>
-                <script type="text/javascript" src="javascript/yui/build/datatable/datatable-beta-min.js"></script>
+                <!-- Dependencies -->
+                <!-- Sam Skin CSS for TabView -->
+                <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/tabview/assets/skins/sam/tabview.css"/>
+                    
+                    <!-- JavaScript Dependencies for Tabview: -->
+                    <script type="text/javascript" src="http://yui.yahooapis.com/2.7.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+                    <script type="text/javascript" src="http://yui.yahooapis.com/2.7.0/build/element/element-min.js"></script>
+                    
+                    <!-- OPTIONAL: Connection (required for dynamic loading of data) -->
+                    <script type="text/javascript" src="http://yui.yahooapis.com/2.7.0/build/connection/connection-min.js"></script>
+                    
+                    <!-- Source file for TabView -->
+                    <script type="text/javascript" src="http://yui.yahooapis.com/2.7.0/build/tabview/tabview-min.js"></script>
+                    
                 <script src="http://static.simile.mit.edu/timeplot/api/1.0/timeplot-api.js"  type="text/javascript"></script>
-                <link type="text/css" href="style.css" rel="stylesheet"/>
+                <link type="text/css" href="../style.css" rel="stylesheet"/>
                 <title>The Collective Biographies of Women: Pop Chart</title>
                 <style type="text/css">
                     body {

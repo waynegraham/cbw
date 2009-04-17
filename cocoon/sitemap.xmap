@@ -104,11 +104,11 @@
 				<map:read src="images/{1}.gif" mime-type="image/gif"/>
 			</map:match>
 			
-			<map:match pattern="*.html">
+			<map:match pattern="timeplot/*.html">
 				<map:read src="timeplot/{1}.html" mime-type="text/html"/>
 			</map:match>
 			
-			<map:match pattern="*.txt">
+			<map:match pattern="timeplot/*.txt">
 				<map:read src="timeplot/{1}.txt" mime-type="text/plain"/>
 			</map:match>
 			
@@ -160,10 +160,17 @@
 			</map:match>
 
 			<!-- displays timeplot only -->
-			<map:match pattern="timeplot">
+			<map:match pattern="timeplot/">
 				<map:generate src="xml/BooColl.xml" label="record"/>
 				<map:transform src="xsl/timeplot.xsl" label="basiccontent"/>
 				<map:serialize type="html"/>
+			</map:match>
+			
+			<!-- displays timeplot data only -->
+			<map:match pattern="timeplot/timedata">
+				<map:generate src="xml/BooColl.xml" label="record"/>
+				<map:transform src="xsl/timedata.xsl" label="basiccontent"/>
+				<map:serialize type="text"/>
 			</map:match>
 			
 			<!-- displays acknowledgments only -->

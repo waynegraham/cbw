@@ -14,11 +14,10 @@
                     }
                 </style>
                 
-                <link rel="stylesheet" type="text/css" href="javascript/yui/build/fonts/fonts-min.css" />
+                <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/fonts/fonts-min.css" />
                 <link rel="stylesheet" type="text/css" href="javascript/yui/build/datatable/assets/skins/sam/datatable.css" />
-                <script type="text/javascript" src="javascript/yui/build/yahoo-dom-event/yahoo-dom-event.js"></script>
-                <script type="text/javascript" src="javascript/yui/build/element/element-beta-min.js"></script>
-                
+                <script type="text/javascript" src="http://yui.yahooapis.com/2.7.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+                <script type="text/javascript" src="http://yui.yahooapis.com/2.7.0/build/element/element-min.js"></script>
                 <script type="text/javascript" src="javascript/yui/build/datasource/datasource-beta-min.js"></script>
                 <script type="text/javascript" src="javascript/yui/build/datatable/datatable-beta-min.js"></script>
                 <link type="text/css" href="style.css" rel="stylesheet"/>
