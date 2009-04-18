@@ -54,7 +54,7 @@
                     var plotInfo = [
                     Timeplot.createPlotInfo({
                     id: "plot1",
-                    dataSource: new Timeplot.Processor(new Timeplot.ColumnSource(eventSource,1), Timeplot.Operator.average, { size: 5 }),
+                    dataSource: new Timeplot.ColumnSource(eventSource,1),
                     showValues: true,
                     valueGeometry: new Timeplot.DefaultValueGeometry({
                     gridColor: "#000000",
@@ -142,7 +142,7 @@
                     }
                 </script>
             </head>
-            <body class=" yui-skin-sam">
+            <body class=" yui-skin-sam" style="margin: 8px !important;padding: 20px !important;">
                 <table id="wrap">
                     <tr>
                         <td class="headfoot">
