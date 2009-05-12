@@ -7206,11 +7206,7 @@
          <hi rend="italics">Noble Work by Noble Women.</hi>
         </title>
        </ref></note>
-      <note>TOC: Eve; Mary; Mary Magdalene; Lois and Eunice; Lydia; Aquila and Priscilla; Blandina;
-       Perpetua and Felicitas; Monica, Mother of St. Augstine; The Abbess Hilda; Joan of Arc;
-       Prascovia Lopouloff; Lady Rachel Russell; Madame Elizabeth of France; The Mother of the
-       Wesleys; Catherine Tait, Wife of the Archbishop of Canterbury; Mademoiselle Legras; Hannah
-       More; Sarah Martin; Mrs. Fry.</note>
+      <note>TOC: Frances Willard, Agnes Weston, Sister Dora, Catherine Booth, Baroness Burdett-Coutts, Lady Henry Somerset, Sarah Robinson, Mrs. Fawcett, Mrs. Gladstone.</note>
       <image n="no298">
        <imgName>Frances Willard</imgName>
        <imgDesc>Frances Willard, Photo by Russell &amp; Sons</imgDesc>
@@ -7232,8 +7228,8 @@
        <imgDesc>An Interested Audience.  (Boys and Ship's Company listening to an Address by Miss Weston.) (From "The Quiver")</imgDesc>
       </image>
       <image n="no358">
-       <imgName>Devanport</imgName>
-       <imgDesc>The Devanport Sailors' Rest</imgDesc>
+       <imgName>Devonport</imgName>
+       <imgDesc>The Devonport Sailors' Rest</imgDesc>
       </image>
       <image n="no359">
        <imgName>Refreshment Bar</imgName>
@@ -7334,7 +7330,25 @@
        <hi rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
-
+     
+     <bibl id="a163A"><ref>163A.</ref>
+      <idno>a163A</idno>
+      <author>
+       <abbr expan="Chappell, Jennie">---.</abbr>
+      </author>
+      <title type="ref">
+       <hi rend="italics">Women of Worth: Sketches of the Lives of Carmen Silva, Frances Power Cobbe, Isabella Bird Bishop, and 
+        Mrs. Bramwell Booth.</hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Partridge,</publisher>
+       <date>1908.</date>
+      </imprint>
+          <note>
+       
+      </note>
+     </bibl>
      <bibl id="a164">
       <ref>164.</ref>
       <idno>a164</idno>
@@ -7366,12 +7380,12 @@
        <date>[1900?].</date>
       </imprint>
       <note> TOC: Eve; Mary; Mary Magdalene; Lois; Eunice; Lydia; Aquila; Priscilla; Blandina;
-       Perpetua; Felicitas; Monica; Hilda, the Abbess; Joan of Arc; Prascovia Lopouloff; Lady Rachel
+       Perpetua; Felicitas; Monica, Mother of St. Augustine; Hilda, the Abbess; Joan of Arc; Prascovia Lopouloff; Lady Rachel
        Russell; Madame Elizabeth of France; Susannah Wesley; Catherine Tait, wife of archbishop of
        Canterbury; Mlle Legras; Hannah More; Sarah Martin; Elizabeth Fry. <hi rend="bold">*Pop
        Chart</hi>
       </note>
-      <note> Author of at least 12 vols. for Nelson, advertized in Thayer, <date>1897</date>.
+      <note> Author of at least 12 vols. for Nelson, advertised in Thayer, <date>1897</date>.
       </note>
      </bibl>
 
