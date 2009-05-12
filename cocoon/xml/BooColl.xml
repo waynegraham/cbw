@@ -377,11 +377,12 @@
      University of Virginia Libraries. The design and construction of the site are indebted to Cindy
      Filer Speer--now Cindy Maisannes--and Ethan Gruber of the Electronic Text Center; Aimee Geoghan
      and Mara Bandy assisted with the annotations, and Kiera Allison helped with the beginning of
-     the Sister Dora project. Jessica Swope has had a hand in creating many new features of the
-     site; she and Joe Gilbert have been wonderful collaborators in 2007-2008. Bethany Nowviskie,
-     Director of Digital Research and Scholarship, along with Bess Sandler and Joe Gilbert of
-     Digital Scholarship Services and the Scholar's Lab, have brought fresh inspiration, expert
-     guidance and insight, as well as generous hours of consultation and hands-on production.</p>
+     the Sister Dora project. Jessica Swope had a hand in creating many new features of the
+     site in 2007-2008. Bethany Nowviskie,
+     Director of Digital Research and Scholarship and Joe Gilbert, Head of the Scholars' Lab, along with Bess Sandler, have brought fresh inspiration, expert
+     guidance and insight, as well as generous hours of consultation and hands-on production.  In 2008-2009, Bella Cooper, Lindsay Halle, Claudia Bendick, Ben Lee, 
+     and Julia Fuller continue the dedicated effort to develop the Sister Dora texts and new dimensions of biographical studies in digital form. In 2009-2010, Worthy Martin, Daniel Pitti, Sarah Wells, and others in the 
+     Institute for Advanced Studies in the Humanities have helped me move to the next stage.</p>
 
     <p>The bibliography in the book was compiled with the assistance of Christopher Jackson, Karen
      Dietz, Erin O'Connor, Sarah Whitney, Christine Bayles-Korstch, Margaret Cooke, and Regan
@@ -390,6 +391,9 @@
 
 
    <div1 type="popchart">
+    <interpGrp>
+     <interp value="Philanthropy and Reform efforts" id="PHILREF"/>
+    </interpGrp>
     <head>Pop Chart</head>
     <note>
      <table>
@@ -412,7 +416,7 @@
       </row>
       <row role="body">
        <cell role="name">Elizabeth Fry</cell>
-       <cell role="data">Philanthropy/Reform</cell>
+       <cell role="data" corresp="PHILREF">Philanthropy/Reform</cell>
        <cell role="datahi">14</cell>
        <cell role="datahi">14</cell>
        <cell role="data">8</cell>
