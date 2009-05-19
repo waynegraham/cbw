@@ -179,6 +179,15 @@
 				<map:transform src="xsl/acknowledgments.xsl" label="basiccontent"/>
 				<map:serialize type="html"/>
 			</map:match>
+			
+			<!-- displays individual person's page -->
+			<map:match pattern="people/*">
+				<map:generate src="xml/bios.xml" label="record"/>
+				<map:transform src="xsl/person.xsl" label="basiccontent">
+					<map:parameter name="use-request-parameters" value="true"/>
+				</map:transform>
+				<map:serialize type="html"/>
+			</map:match>
 
 			<!-- produces the search form; needs to be generated as xml and serialized as xhtml -->
 			<map:match pattern="search">

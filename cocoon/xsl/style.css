@@ -494,3 +494,48 @@ width: 200px !important;
 .yui-skin-sam .yui-dt-liner {
 padding: 4px 6px;
 }
+
+div.person {
+    margin: 10px 20px;
+    }
+
+.person #hd {
+    width: 700px;
+    font-size: 14px;
+    font-weight: normal;
+    margin: inherit;
+    }
+
+.person #bd {
+    margin: inherit;
+    }
+    
+#intro {
+        width: 98%;
+        height: 340px;
+        background: #FFF7F7;
+        padding: 15px 5px;
+    }
+#pic {
+    float: left;
+    margin-right: 20px;
+    }
+#pic .carousel {
+    margin: 10px 20px;
+    }
+#milestones, #links, #texts {
+    float: right;
+    margin-left: 20px;
+}
+
+    #pic .full img {
+        width: 220px;
+    }
+#bio, #essay {
+    display: block;
+    margin: 20px 0;
+    }
+    
+    .clearfix {
+        clear: both;
+        }
