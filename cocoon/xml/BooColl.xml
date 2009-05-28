@@ -29637,6 +29637,23 @@
       <note> </note>
      </bibl>
 
+     <bibl id="p113A">
+      <idno>p113A</idno>
+      <author><name type="last">Schiff</name>, <name type="first">Karenna Gore</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Lighting the Way: Nine Women Who Changed Modern America. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Miramax Books/Hyperion,</publisher>
+       <date>2005.</date>
+      </imprint>
+      <note>TOC: Ida B. Wells-Barnett; Mother Jones; Alice Hamilton; Frances Perkins; Virginia
+       Durr; Septima Poinsette Clark; Dolores Huerta; Helen Rodriguez-Trias; Gretchen
+       Buchenholz. </note>
+     </bibl>
+
+
      <bibl id="p114">
       <idno>p114</idno>
       <author><name type="last">Scott</name>, <name type="first">Walter Sidney</name>.</author>
@@ -30216,13 +30233,12 @@
        <publisher>Morrow,</publisher>
        <date>1976.</date>
       </imprint>
-      <note>TOC: Nightmare at Liberty Hall: Susan Livingston; First lady under fire: Dolly
-       Madison; Ordeal in the Owyhee country: Sarah Winnemucca; Connecticut learns a less: 
-       Prudence Crandall; Woman who killed Judge Lynch: Ida Wells-Barnett; Mother Jones goes
-       to war: Mary Harris Jones; Trust a woman as a doctor--never!: Elizabeth Blackwell; 
-       United States vs. Susan B. Anthony; Voice of a race: Marian Anderson; Good angel of
-       Oklahoma: Kate Bernard; "I speak as a woman": Margaret Chase Smith; Doctor who said no:
-       Frances Kelsey. </note>
+      <note>TOC: Nightmare at Liberty Hall: Susan Livingston; First lady under fire: Dolly Madison;
+       Ordeal in the Owyhee country: Sarah Winnemucca; Connecticut learns a less: Prudence Crandall;
+       Woman who killed Judge Lynch: Ida Wells-Barnett; Mother Jones goes to war: Mary Harris Jones;
+       Trust a woman as a doctor--never!: Elizabeth Blackwell; United States vs. Susan B. Anthony;
+       Voice of a race: Marian Anderson; Good angel of Oklahoma: Kate Bernard; "I speak as a woman":
+       Margaret Chase Smith; Doctor who said no: Frances Kelsey. </note>
      </bibl>
 
 
