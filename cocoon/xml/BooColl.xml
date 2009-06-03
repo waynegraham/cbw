@@ -27570,6 +27570,24 @@
       </imprint>
      </bibl>
 
+     <bibl id="p010A">
+      <idno>p010A</idno>
+      <author><name type="last">Baker</name>, <name type="first">Jean H.</name></author>
+      <title type="ref">
+       <hi rend="italics">Sisters: The Lives of America's Suffragists.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Hill &amp; Wang,</publisher>
+       <date>2005.</date>
+      </imprint>
+      <note>TOC: Lucy Stone; Susan B. Anthony; Elizabeth Cady Stanton; Frances Willard; Alice Paul. </note>
+      <note>Chapter Titles: The martyr and the missionary: Lucy Stone and Henry Blackwell; In the
+       blessed company of faithful women: Susan B. Anthony and the sisters; Elizabeth Cady Stanton
+       and the solitude of self; Mothering America: the feminist ambitions of Frances Willard;
+       Endgame: Alice Paul and Woodrow Wilson.</note>
+     </bibl>
+
      <bibl id="p011">
       <idno>p011</idno>
       <author>
@@ -27723,6 +27741,31 @@
       <note> </note>
      </bibl>
 
+     <bibl id="p017A">
+      <idno>p017A</idno>
+      <author><name type="last">Breton</name>, <name type="first">Mary Joy</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women Pioneers for the Environment. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Boston:</pubPlace>
+       <publisher>Northeaster University Press,</publisher>
+       <date>1998.</date>
+      </imprint>
+      <note>Chapter Titles: Tree huggers and tree planters: Amrita Devi, Wangari Maathai, Colleen
+       McCrory, Judi Bari, Harriet Bullitt, Kathryn Fuller; First lady of environmental science:
+       Ellen Swallow; Early municipal housekeepers: Caroline Bartlett, Mary Eliza McDowell;
+       Whistle-blowers under fire: Rachel Carson, Theo Colborn, Mary Sinclair, Dai Qing; The tide of
+       women's rage: Emma Must, JoAnn Tall, Joan Martin-Brown; 'Those know-nothing housewives': Lois
+       Gibbs, Cathy Hinds, Michiko Ishimuri; Combatting death by ecocide: Tatyana Artyomkina, Maria
+       Cherkasova, Maria Guminska; Perseverance and patience pay off: Carol Browner, Janet Gibson,
+       Polly Dyer, Pat Waak; Casting new models: Gro Harlem Brundtland, Hazel Henderson, Helena
+       Norberg-Hodge, Vandana Shiva, Florence Wambugu, Petra Kelly, Hazel Wolf; Thinking like a
+       river: Marjory Stoneman Douglas, Marjorie Carr, Christine Jean; Women and wildlife: Harriet
+       Hemenway, Margaret Murie, Sarah James, Sylvia Earle, Katharine Ordway; Women and
+       international forums: Bella Abzug. </note>
+     </bibl>
+
      <bibl id="p018">
       <idno>p018</idno>
       <editor><name type="last">Brink</name>, <name type="first">J. R.</name>, ed.</editor>
@@ -27800,6 +27843,20 @@
        <date>1991.</date>
       </imprint>
       <note> TOC: Dora Carrington; Virginia Woolf; Vanessa Bell.</note>
+     </bibl>
+
+     <bibl id="p022A">
+      <idno>p022A</idno>
+      <author><name type="last">Chamberlin</name>, <name type="first">Hope</name>.</author>
+      <title type="ref">
+       <hi rend="italics">A Minority of Members: Women in the U.S. Congress. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Praeger Publishers,</publisher>
+       <date>1973.</date>
+      </imprint>
+      <note> </note>
      </bibl>
 
      <bibl id="p023">
@@ -27908,6 +27965,30 @@
        <date>1955.</date>
       </imprint>
       <note> </note>
+     </bibl>
+
+     <bibl id="p026B">
+      <idno>p026B</idno>
+      <author><name type="last">Deen</name>, <name type="first">Edith</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Great Women of the Christian Faith. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Harper,</publisher>
+       <date>1959.</date>
+      </imprint>
+      <note>Chapter Titles: Sect. I: Ch. 1: Vibia Perpetua; Helena; Macrina; Nonna; Marcella;
+       Monica; Anthusa; Paula; Hilda; Ch. 2: Clare; Elizabeth of Hungary; Catherine of Siena; Joan
+       of Arc; Isabella of Castile; Vittoria Colonna; Margaret of Navarre; Jeanne d'Albret;
+       Katherine Von Bora; Teresa of Avila; Ch. 3: Anne Hutchinson; Margaret Fell Fox; Mary Fisher;
+       Mme Jeanne Guyon; Susanna Wesley; Lady Huntingdon; Sect. II: Ch. 4: "Mother Ann" Lee;
+       Elizabeth Fry; Ann Judson; Emily H. Tubman; Mary Smith Moffat; Mary Moffat Livingstone; Emma
+       Hale Smith; Narcissa Whitman; Florence Nightingale; Ch. 5: Mary Baker Eddy; Ellen G. White;
+       Catherine Booth; Lucy Webb Hayes; Nettie Fowler McCormick; Amanda Smith; Lottie Moon; Mary
+       Slessor; Ch. 6: Rose Hawthorne Lathrop; Pandita Ramabai; Helen Barrett Montgomery; Mrs.
+       Charles Jones Soong; Teresa of Lisieux; Women hymn writers; Sect. III: Vignettes of [67]
+       other Christian women through nineteen centuries. </note>
      </bibl>
 
      <bibl id="p027">
@@ -28224,6 +28305,22 @@
 
      <bibl id="p037A">
       <idno>p037A</idno>
+      <author><name type="last">Gabor</name>, <name type="first">Andrea</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Einstein's Wife: Work and Marriage in the Lives of Five Great Twentieth
+        Century Women. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Viking Press,</publisher>
+       <date>1995.</date>
+      </imprint>
+      <note>TOC: Mileva Maric Einstein; Lee Krasner; Maria Goeppert Mayer; Denise Scott Brown;
+       Sandra Day O'Connor. </note>
+     </bibl>
+
+     <bibl id="p037B">
+      <idno>p037B</idno>
       <author><name type="last">Gies</name>, <name type="first">Frances</name>, and <name
         type="first">Joseph</name>
        <name type="last">Gies</name>.</author>
@@ -28241,15 +28338,15 @@
        fifteenth-century gentlewoman. </note>
      </bibl>
 
-     <bibl id="p037B">
-      <idno>p037B</idno>
+     <bibl id="p037C">
+      <idno>p037C</idno>
       <author><name type="last">Goldstone</name>, <name type="first">Nancy Bazelon</name>.</author>
       <title type="ref">
        <hi rend="italics">Four Queens: The Provencal Sisters Who Ruled Europe. </hi>
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
-       <publisher>Viking,</publisher>
+       <publisher>Viking Press,</publisher>
        <date>2007.</date>
       </imprint>
       <note>TOC: Queen Marguerite, consort of Louis IX, King of France, 1221-1295; Queen Eleanor,
@@ -28263,8 +28360,8 @@
        medieval money. </note>
      </bibl>
 
-     <bibl id="p037C">
-      <idno>p037C</idno>
+     <bibl id="p037D">
+      <idno>p037D</idno>
       <author><name type="last">Grafton</name>, <name type="first">David</name>.</author>
       <title type="ref">
        <hi rend="italics">The Sisters: Babe Mortimer Paley, Betsey Roosevelt Whitney, Minnie Astor
@@ -28493,7 +28590,7 @@
      </bibl>
 
      <bibl id="p048B">
-      <idno>p026A</idno>
+      <idno>p048B</idno>
       <author><name type="last">Hull</name>, <name type="first">Gloria T.</name></author>
       <title type="ref">
        <hi rend="italics">Color, Sex &amp; Poetry: Three Women Writers of the Harlem
@@ -28519,6 +28616,20 @@
        <date>1949.</date>
       </imprint>
       <note> A reprint from the Historical Society of California Quarterly.</note>
+     </bibl>
+
+     <bibl id="p049A">
+      <idno>p049A</idno>
+      <author>
+       <name type="last">Hunter</name>, <name type="first">Jane</name>.</author>
+      <title type="ref">
+       <hi>The Gospel of Gentility: American Women Missionaries in Turn-of-the-Century China.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New Haven, CT: </pubPlace>
+       <publisher>Yale University Press, </publisher>
+       <date>1984.</date>
+      </imprint>
      </bibl>
 
      <bibl id="p050">
@@ -28563,6 +28674,20 @@
       </imprint>
       <note>Copyright <date>1966.</date>
       </note>
+     </bibl>
+
+     <bibl id="p051A">
+      <idno>p051A</idno>
+      <author><name type="last">Ione</name>, <name type="first">Carole</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Pride of Family: Four Generations of American Women of Color. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Summit Books,</publisher>
+       <date>1991.</date>
+      </imprint>
+      <note> </note>
      </bibl>
 
      <bibl id="p052">
@@ -28721,6 +28846,25 @@
       <note>A pathbreaking reference work. </note>
      </bibl>
 
+     <bibl id="p059A">
+      <idno>p059A</idno>
+      <author><name type="last">Kaptur</name>, <name type="first">Marcy</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women of Congress: A Twentieth Century Odyssey. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Washington, DC:</pubPlace>
+       <publisher>Congressional Quarterly,</publisher>
+       <date>1996.</date>
+      </imprint>
+      <note>Chapter Titles: I. Early women in Congress: 1917 to World War II: Jeannette Rankin; Mary
+       Teresa Norton; Edith Nourse Rogers; II. The greening years: World War II through the 1960s:
+       Frances Payne Bolton; Margaret Chase Smith; Edna Flannery Kelly; Leonor Kretzer Sullivan;
+       Edith Starrett Green; Martha Wright Griffiths; Margaret M. Heckler; III. The modern era:
+       toward the twenty-first century: Shirley Anita Chisholm; Corinne Claiborne "Lindy" Boggs;
+       Patricia S. Schroeder; Cardiss Collins; Nancy Landon Kassebaum. </note>
+     </bibl>
+
      <bibl id="p060">
       <idno>p060</idno>
       <author><name type="last">Kay</name>, <name type="first">Ernest</name>.</author>
@@ -28806,6 +28950,20 @@
        bibliographies of notable women throughout history and an additional bibliography of over 300
        collective biographies of women." See <hi rend="italics">How to Make It as a Woman</hi>, 52,
        87.</note>
+     </bibl>
+
+     <bibl id="p063A">
+      <idno>p063A</idno>
+      <author><name type="last">LaBastille</name>, <name type="first">Anne</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women and Wilderness. </hi>
+      </title>
+      <imprint>
+       <pubPlace>San Francisco:</pubPlace>
+       <publisher>Sierra Club Books,</publisher>
+       <date>1980.</date>
+      </imprint>
+      <note>Biographies of women naturalists and conservationists. </note>
      </bibl>
 
      <bibl id="p064">
@@ -28959,6 +29117,28 @@
       <note> "Biographies of 17 women rulers, including Cleopatra, Elizabeth I of England, and Golda
        Meir, focus on how they came to power, their accomplishments, methods of ruling, and impact
        on history."</note>
+     </bibl>
+
+     <bibl id="p071A">
+      <idno>p071A</idno>
+      <editor><name type="last">Loewenberg</name>, <name type="first">Bert James</name>, and <name
+        type="first">Bogin</name>
+       <name type="last">Ruth</name>.</editor>
+      <title type="ref">
+       <hi rend="italics">Black Women in Nineteenth Century American Life: Their Words, Their
+        Thoughts, Their Feelings.</hi>
+      </title>
+      <imprint>
+       <pubPlace>University Park, PA:</pubPlace>
+       <publisher>Pennsylvania State University Press,</publisher>
+       <date>1976;</date>
+       <date>1978.</date>
+      </imprint>
+      <note>TOC: Silvia Dubois; Cornelia; Louisa Picquet; Elizabeth Keckley; Elleanor Eldridge;
+       Susie King Taylor; Annie Louise Burton; Ellen Craft; Jarena Lee; Amanda Berry Smith; Ann
+       Plato; Maria Stewart; Nancy Prince; Harriet Tubman; Sarah Parker Remond; Sojourner Truth;
+       Frances Ellen Watkins Harper; Ida Wells-Barnett; Fannie Barrier Williams; Charlotte Forten
+       Grimké; Lucy Craft Laney; Frances Jackson Coppin; Anna Julia Cooper. </note>
      </bibl>
 
      <bibl id="p072">
@@ -29226,6 +29406,28 @@
 
      <bibl id="p082A">
       <idno>p082A</idno>
+      <editor><name type="last">Mayo</name>, <name type="first">Edith</name>.</editor>
+      <title type="ref">
+       <hi rend="italics">The Smithsonian Book of the First Ladies: Their Lives, Times, and Issues.
+       </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>H. Holt,</publisher>
+       <date>1996.</date>
+      </imprint>
+      <note>TOC: Martha Washington; Abigail Adams; Martha Jefferson; Dolley Madison; Elizabeth
+       Monroe; Louisa Adams; Rachel Jackson; Hannah Van Buren; Anna Harrison; Letitia Tyler; Julia
+       Tyler; Sarah Polk; Margaret Taylor; Abigail Fillmore; Jane Pierce; Harriet Lane; Mary
+       Lincoln; Eliza Johnson; Julia Grant; Lucy Hayes; Lucretia Garfield; Ellen Arthur; Frances
+       Cleveland; Caroline Harrison; Ida McKinley; Edith Roosevelt; Helen Taft; Ellen Wilson; Edith
+       Wilson; Florence Harding; Grace Coolidge; Lou Hoover; Eleanor Roosevelt; Bess Truman; Mamie
+       Eisenhower; Jacqueline Kennedy; Lady Bird Johnson; Pat Nixon; Betty Ford; Rosalynn Carter;
+       Nancy Reagan; Barbara Bush; Hillary Rodham Clinton.</note>
+     </bibl>
+
+     <bibl id="p082B">
+      <idno>p082B</idno>
       <author><name type="last">McGrayne</name>, <name type="first">Sharon Bertsch</name>.</author>
       <title type="ref">
        <hi rend="italics">Nobel Prize Women in Science: Their Lives, Struggles, and Momentous
@@ -29242,8 +29444,8 @@
        Franklin; Rosalyn Sussman Yalow; Jocelyn Bell Burnell. </note>
      </bibl>
 
-     <bibl id="p082B">
-      <idno>p082B</idno>
+     <bibl id="p082C">
+      <idno>p082C</idno>
       <author><name type="last">Meltzer</name>, <name type="first">Milton</name>.</author>
       <title type="ref">
        <hi rend="italics">Ten Queens: Portraits of Women of Power. </hi>
@@ -29276,6 +29478,22 @@
        <date>1980.</date>
       </imprint>
       <note> </note>
+     </bibl>
+
+     <bibl id="p083A">
+      <idno>p083A</idno>
+      <author><name type="last">Mikulski</name>, <name type="first">Barbara</name>, and<name
+        type="first">Catherine</name>,<name type="last">Whitney</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Nine and Counting: The Women of the Senate. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>William Morrow,</publisher>
+       <date>2000.</date>
+      </imprint>
+      <note>TOC: Kay Bailey Hutchison; Dianne Feinstein; Barbara Boxer; Patty Murray; Olympia Jean
+       Snowe; Susan Collins; Mary Landrieu; Blanche Lambert-Lincoln. </note>
      </bibl>
 
      <bibl id="p084">
@@ -29410,6 +29628,21 @@
       <note> </note>
      </bibl>
 
+     <bibl id="p088B">
+      <idno>p088B</idno>
+      <author><name type="last">Nies</name>, <name type="first">Judith</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Seven Women: Portraits from the American Radical Tradition. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Viking Press,</publisher>
+       <date>1977.</date>
+      </imprint>
+      <note>TOC: Sarah Moore Grimké; Harriet Tubman; Elizabeth Cady Stanton; Mother Jones; Anna
+       Louise Strong; Charlotte Perkins Gilman; Dorothy Day. </note>
+     </bibl>
+
      <bibl id="p089">
       <idno>p089</idno>
       <author><name type="last">Northcroft</name>, <name type="first">Dora</name>.</author>
@@ -29529,6 +29762,22 @@
       <note>TOC: Hypatia; The "Witch" of Agnesi; Emilie de Breteuil, Marquise du Châtelet; Caroline
        Herschel; Sophie Germain; Mary Fairfax Somerville; Sonya Corvin; Krukovsky Kovalevsky; Emmy
        (Amalie) Noether. </note>
+     </bibl>
+
+     <bibl id="p094A">
+      <idno>p094A</idno>
+      <author><name type="last">Paston</name>, <name type="first">Amy</name>.</author>
+      <author>Smithsonian Institution</author>
+      <title type="ref">
+       <hi rend="italics">First Ladies. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London;</pubPlace>
+       <pubPlace>New York:</pubPlace>
+       <publisher>DK,</publisher>
+       <date>2001.</date>
+      </imprint>
+      <note> </note>
      </bibl>
 
      <bibl id="p095">
@@ -30025,8 +30274,32 @@
       <note/>
      </bibl>
 
-     <bibl id="p113A">
-      <idno>p113A</idno>
+     <bibl id="p113B">
+      <idno>p113B</idno>
+      <author><name type="last">Scarborough</name>, <name type="first">Elizabeth</name>, and <name
+        type="first">Laurel</name>
+       <name type="last">Furumoto</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Untold Lives: The First Generation of American Women Pyschologists. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Columbia University Press,</publisher>
+       <date>1987.</date>
+      </imprint>
+      <note>TOC: Pt. 1. The difference being a woman made: The quest for graduate education: Mary
+       Calkins' contest with Harvard University; The family claim: Ties that bound Milicent Shinn;
+       The "intolerable choice": Ethel Puffer's struggle with the marriage versus career dilemma;
+       Meritocracy in science: Margaret Floy Washburn's use of the myth; "A little hard on ladies":
+       Christine Ladd-Franklin's challenge to collegial exclusion; Pt. 2. Collective portrait of the
+       first generation: Origins, education, and life-styles; Careers and contributions; To the
+       present; Appendix A. Cameo portraits of selected women: Kate Gordon Moore; Lillien Jane
+       Martin; Naomi Norsworthy; Frances Hall Rousmaniere Dewing; Theodate Louise Smith; Helen
+       Bradford Thompson Wooley. </note>
+     </bibl>
+
+     <bibl id="p113C">
+      <idno>p113C</idno>
       <author><name type="last">Schiff</name>, <name type="first">Karenna Gore</name>.</author>
       <title type="ref">
        <hi rend="italics">Lighting the Way: Nine Women Who Changed Modern America. </hi>
@@ -30701,6 +30974,26 @@
        <date>1991.</date>
       </imprint>
       <note/>
+     </bibl>
+
+     <bibl id="p141B">
+      <idno>p141B</idno>
+      <author><name type="last">Vare</name>, <name type="first">Ethlie Ann</name>, and <name
+        type="first">Greg</name>
+       <name type="last">Ptacek</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women Inventors &amp; Their Discoveries.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Minneapolis:</pubPlace>
+       <publisher>Oliver Press,</publisher>
+       <date>1993.</date>
+      </imprint>
+      <note>TOC: Elizabeth Lucas Pinckley (indigo plant dye); Martha Coston (signal flares); Fannie
+       Merritt Farmer (standardized recipes); Madam C.J. Walker (hair-care products); S. Josephine
+       Baker (child hygiene); Barbara McClintock (genetics); Bette Nesmith Graham (Liquid Paper);
+       Grace Hopper (computer-programming language); Ruth Handler (the Barbie doll); Stephanie
+       Kwolek (Kevlar). </note>
      </bibl>
 
      <bibl id="p142">
