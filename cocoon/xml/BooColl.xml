@@ -27416,7 +27416,7 @@
        <publisher>Morrow,</publisher>
        <date>2000.</date>
       </imprint>
-      <note></note>
+      <note/>
      </bibl>
 
      <bibl id="p005">
@@ -27587,6 +27587,22 @@
        <publisher>Mika,</publisher>
        <date>1977.</date>
       </imprint>
+     </bibl>
+
+     <bibl id="p011A">
+      <idno>p011A</idno>
+      <author><name type="last">Bataille</name>, <name type="first">Gretchen M.</name>, and <name
+        type="first">Kathleen M.</name>
+       <name type="last">Sands</name>.</author>
+      <title type="ref">
+       <hi rend="italics">American Indian Women: Telling Their Lives.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Lincoln:</pubPlace>
+       <publisher>University of Nebraska Press,</publisher>
+       <date>1984.</date>
+      </imprint>
+      <note> </note>
      </bibl>
 
      <bibl id="p012">
@@ -27846,6 +27862,20 @@
       <note> </note>
      </bibl>
 
+     <bibl id="p026A">
+      <idno>p026A</idno>
+      <author><name type="last">Deen</name>, <name type="first">Edith</name>.</author>
+      <title type="ref">
+       <hi rend="italics">All of the Women of the Bible.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Harper,</publisher>
+       <date>1955.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+     
      <bibl id="p027">
       <idno>p027</idno>
       <author><name type="last">Devi</name>, <name type="first">Sarada</name>, et al.</author>
@@ -27920,7 +27950,7 @@
 
      <bibl id="p031">
       <idno>p031</idno>
-      <author><name type="last">Elliott</name>, <name type="first">Sophy L.</name></author>
+      <author><name type="last">Elliott</name>, <name type="first">Sophy L.</name>.</author>
       <title type="ref">
        <hi rend="italics">The Women Pioneers of North America. </hi>
       </title>
@@ -27928,6 +27958,20 @@
        <pubPlace>Gardenvale, Quebec:</pubPlace>
        <publisher>Garden City,</publisher>
        <date>1941.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+
+     <bibl id="p031A">
+      <idno>p031A</idno>
+      <author><name type="last">Evans</name>, <name type="first">Elizabeth</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Weathering the Storm: Women of the American Revolution. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Scribner,</publisher>
+       <date>1975.</date>
       </imprint>
       <note> </note>
      </bibl>
@@ -28358,6 +28402,23 @@
        <date>1972.</date>
       </imprint>
       <note> </note>
+     </bibl>
+
+     <bibl id="p048A">
+      <idno>p048A</idno>
+      <author><name type="last">Hughes</name>, <name type="first">Susan</name>.</author>
+      <title type="ref">
+       <hi rend="italics">No Girls Allowed: Tales of Daring Women Dressed as Men for Love, Freedom
+        and Adventure.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Toronto, Ont.;</pubPlace>
+       <pubPlace>Tonawanda, NY:</pubPlace>
+       <publisher>Kids Can Press,</publisher>
+       <date>2008.</date>
+      </imprint>
+      <note>Seven biographies of cross-dressing women from ancient Egypt to the nineteenth century;
+       juvenile. </note>
      </bibl>
 
      <bibl id="p049">
@@ -28913,6 +28974,22 @@
       <note> </note>
      </bibl>
 
+     <bibl id="p076A">
+      <idno>p076A</idno>
+      <author><name type="last">Luchetti</name>, <name type="first">Cathy</name>, and <name
+        type="first">Carol</name>
+       <name type="last">Olwell</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women of the West.</hi>
+      </title>
+      <imprint>
+       <pubPlace>St. George, UT:</pubPlace>
+       <publisher>Antelope Island Press,</publisher>
+       <date>1982.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+
      <bibl id="p077">
       <idno>p077</idno>
       <author><name type="last">Macartney</name>, <name type="first">Clarence Edward
@@ -29201,6 +29278,20 @@
 
      <bibl id="p087A">
       <idno>p087A</idno>
+      <author><name type="last">Munro</name>, <name type="first">Eleanor C.</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Originals: American Women Artists.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Simon &amp; Schuster,</publisher>
+       <date>1979.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+
+     <bibl id="p087B">
+      <idno>p087B</idno>
       <author><name type="last">Montgomery</name>, <name type="first">Sy</name>.</author>
       <title type="ref">
        <hi rend="italics">Walking with the Great Apes: Jane Goodall, Dian Fossey, Birute Galdikas.
@@ -29723,6 +29814,51 @@
        Sophia Tolstoy; Anne Truitt; Marie Vassiltchikov; Virginia Woolf. </note>
      </bibl>
 
+     <bibl id="p110A">
+      <idno>p110A</idno>
+      <author><name type="last">Rosenblum</name>, <name type="first">Naomi</name>.</author>
+      <title type="ref">
+       <hi rend="italics">A History of Women Photographers.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Paris;</pubPlace>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Abbeville Press,</publisher>
+       <date>1994.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+
+     <bibl id="p110B">
+      <idno>p110B</idno>
+      <author><name type="last">Rossiter</name>, <name type="first">Margaret W.</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women Scientists in America: Struggles and Strategies to 1940.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Baltimore:</pubPlace>
+       <publisher>Johns Hopkins University Press,</publisher>
+       <date>1982.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+
+     <bibl id="p110C">
+      <idno>p110C</idno>
+      <author><name type="last">Rubinstein</name>, <name type="first">Charlotte Streifer</name>.</author>
+      <title type="ref">
+       <hi rend="italics">American Women Artists: From Early Indian Times to the Present.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Avon,</publisher>
+       <pubPlace>Boston:</pubPlace>
+       <publisher>G.K. Hall,</publisher>
+       <date>1982.</date>
+      </imprint>
+      <note></note>
+     </bibl>
+
      <bibl id="p111">
       <idno>p110</idno>
       <title type="ref">
@@ -29933,7 +30069,7 @@
        <publisher>A. Whitman,</publisher>
        <date>1989.</date>
       </imprint>
-      <note></note>
+      <note/>
      </bibl>
 
 
@@ -30195,9 +30331,8 @@
        <pubPlace>New York:</pubPlace>
        <publisher>Warner Books,</publisher>
        <date>2000.</date>
-     </imprint>
-      <note>TOC: Jacqueline Kennedy Onassis; Ethel Kennedy; Joan Bennett Kennedy.
-      </note>
+      </imprint>
+      <note>TOC: Jacqueline Kennedy Onassis; Ethel Kennedy; Joan Bennett Kennedy. </note>
      </bibl>
 
      <bibl id="p133">
@@ -30424,7 +30559,8 @@
 
      <bibl id="p141A">
       <idno>p141A</idno>
-      <author>United States, Congress, House: Commission on the Bicentenary of the U.S. House; Office of the Historian.</author>
+      <author>United States, Congress, House: Commission on the Bicentenary of the U.S. House;
+       Office of the Historian.</author>
       <title type="ref">
        <hi rend="italics">Women in Congress: 1917-1990. </hi>
       </title>
@@ -30433,7 +30569,7 @@
        <publisher>U.S. G.P.O,</publisher>
        <date>1991.</date>
       </imprint>
-      <note></note>
+      <note/>
      </bibl>
 
      <bibl id="p142">
