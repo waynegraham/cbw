@@ -27621,10 +27621,29 @@
       </imprint>
      </bibl>
 
+     <bibl id="p012A">
+      <idno>p012A</idno>
+      <author><name type="last">Beilin</name>, <name type="first">Elaine V.</name></author>
+      <title type="ref">
+       <hi rend="italics">Redeeming Eve: Women Writers of the English Renaissance. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Princeton, NJ:</pubPlace>
+       <publisher>Princeton University Press,</publisher>
+       <date>1987.</date>
+      </imprint>
+      <note>TOC: Learning and virtue: Margaret More Roper; A challenge to authority: Anne Askew;
+       Building the city: women writers of the Reformation; Piety and poetry :Isabella Whitney, Anne
+       Dowriche, Elizabeth Colville, Rachel Speght; The divine poet: Mary Sidney, Countess of
+       Pembroke; The making of a female hero: Joanna Lumley and Elizabeth Cary; The feminization of
+       praise: Aemilia Lanyer; Heroic virtue: Mary Wroth's Urania and Pamphilia to amphilanthus;
+       Redeeming Eve: defenses of women and mother's advice books.</note>
+     </bibl>
+
      <bibl id="p013">
       <idno>p013</idno>
       <author>
-       <name type="last">Benstock</name>, <name type="first">Shari </name>.</author>
+       <name type="last">Benstock</name>, <name type="first">Shari</name>.</author>
       <title type="ref">
        <hi>Women of the Left Bank: Paris, 1900-1940. </hi>
       </title>
@@ -27864,6 +27883,21 @@
 
      <bibl id="p026A">
       <idno>p026A</idno>
+      <author><name type="last">Davis</name>, <name type="first">Natalie Zemon</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women on the Margins: Three Seventeenth Century Lives. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Cambridge, MA:</pubPlace>
+       <publisher>Harvard University Press,</publisher>
+       <date>1995.</date>
+      </imprint>
+      <note> TOC: Arguing with God: Glikl Bas Judah Leib; New worlds: Marie de l'Incarnation;
+       Metamorphoses: Maria Sibylla Merian. </note>
+     </bibl>
+
+     <bibl id="p026A">
+      <idno>p026A</idno>
       <author><name type="last">Deen</name>, <name type="first">Edith</name>.</author>
       <title type="ref">
        <hi rend="italics">All of the Women of the Bible.</hi>
@@ -27875,7 +27909,7 @@
       </imprint>
       <note> </note>
      </bibl>
-     
+
      <bibl id="p027">
       <idno>p027</idno>
       <author><name type="last">Devi</name>, <name type="first">Sarada</name>, et al.</author>
@@ -27950,7 +27984,7 @@
 
      <bibl id="p031">
       <idno>p031</idno>
-      <author><name type="last">Elliott</name>, <name type="first">Sophy L.</name>.</author>
+      <author><name type="last">Elliott</name>, <name type="first">Sophy L.</name></author>
       <title type="ref">
        <hi rend="italics">The Women Pioneers of North America. </hi>
       </title>
@@ -28207,6 +28241,28 @@
        fifteenth-century gentlewoman. </note>
      </bibl>
 
+     <bibl id="p037B">
+      <idno>p037B</idno>
+      <author><name type="last">Goldstone</name>, <name type="first">Nancy Bazelon</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Four Queens: The Provencal Sisters Who Ruled Europe. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Viking,</publisher>
+       <date>2007.</date>
+      </imprint>
+      <note>TOC: Queen Marguerite, consort of Louis IX, King of France, 1221-1295; Queen Eleanor,
+       consort of Henry III, King of England, 1223 or 4-1291; Queen Beatrice, consort of Charles I,
+       King of Naples, 1234-1267; Queen Sancha, consort of Richard, King of the Romans, 1225-1261. </note>
+      <note>Chapter Titles: The land of song; The white queen; A royal wedding; Royal rivals;
+       Queen Eleanor; Family affairs; Ambition and obedience; A war and a wedding; An unlikely
+       inheritance; A vow; The crusade of Louis IX; The queen's gamble; Queenscraft; A royal
+       windfall; The return of the queen; A royal reception; Queen of the Romans; Royal sibling
+       rivalry; Prelude to war; A queen in crisis; Four queens; The last crusade; Endgame; A
+       note on medieval money. </note>
+     </bibl>
+
      <bibl id="p038">
       <idno>p038</idno>
       <author><name type="last">Gridley</name>, <name type="first">Marion Eleanor</name>.</author>
@@ -28419,6 +28475,22 @@
       </imprint>
       <note>Seven biographies of cross-dressing women from ancient Egypt to the nineteenth century;
        juvenile. </note>
+     </bibl>
+
+     <bibl id="p048B">
+      <idno>p026A</idno>
+      <author><name type="last">Hull</name>, <name type="first">Gloria T.</name></author>
+      <title type="ref">
+       <hi rend="italics">Color, Sex &amp; Poetry: Three Women Writers of the Harlem
+        Renaissance. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Bloomington, IN:</pubPlace>
+       <publisher>Indiana University Press,</publisher>
+       <date>1987.</date>
+      </imprint>
+      <note> TOC: Georgia Douglas Camp Johnson; Alice Moore Dunbar-Nelson; Angelina Weld Grimké.
+      </note>
      </bibl>
 
      <bibl id="p049">
@@ -29278,20 +29350,6 @@
 
      <bibl id="p087A">
       <idno>p087A</idno>
-      <author><name type="last">Munro</name>, <name type="first">Eleanor C.</name>.</author>
-      <title type="ref">
-       <hi rend="italics">Originals: American Women Artists.</hi>
-      </title>
-      <imprint>
-       <pubPlace>New York:</pubPlace>
-       <publisher>Simon &amp; Schuster,</publisher>
-       <date>1979.</date>
-      </imprint>
-      <note> </note>
-     </bibl>
-
-     <bibl id="p087B">
-      <idno>p087B</idno>
       <author><name type="last">Montgomery</name>, <name type="first">Sy</name>.</author>
       <title type="ref">
        <hi rend="italics">Walking with the Great Apes: Jane Goodall, Dian Fossey, Birute Galdikas.
@@ -29319,6 +29377,20 @@
        <pubPlace>London:</pubPlace>
        <publisher>Epworth,</publisher>
        <date>1967.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+
+     <bibl id="p088A">
+      <idno>p088A</idno>
+      <author><name type="last">Munro</name>, <name type="first">Eleanor C.</name></author>
+      <title type="ref">
+       <hi rend="italics">Originals: American Women Artists.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Simon &amp; Schuster,</publisher>
+       <date>1979.</date>
       </imprint>
       <note> </note>
      </bibl>
@@ -29371,12 +29443,27 @@
        Barton; Carrie Chapman Catt; Amelia Earhart; Florence Harriman; Eleanor Roosevelt.</note>
      </bibl>
 
+     <bibl id="p091A">
+      <idno>p091A</idno>
+      <author><name type="last">Olds</name>, <name type="first">Elizabeth Fagg</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women of the Four Winds. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Boston:</pubPlace>
+       <publisher>Houghton Mifflin,</publisher>
+       <date>1985.</date>
+      </imprint>
+      <note>TOC: Annie Smith Peck; Delia J. Akeley; Marguerite Harrison; Louise Arner Boyd.</note>
+      <note>Biographies of women explorers.</note>
+     </bibl>
+
      <bibl id="p092">
       <idno>p092</idno>
       <author><name type="last">Olivier</name>, <name type="first">Edith</name>.</author>
       <title type="ref">
        <hi rend="italics">Four Victorian Ladies of Wiltshire, with an Essay on those Leisured
-        Ladies. </hi>
+        Ladies.</hi>
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
@@ -29831,7 +29918,7 @@
 
      <bibl id="p110B">
       <idno>p110B</idno>
-      <author><name type="last">Rossiter</name>, <name type="first">Margaret W.</name>.</author>
+      <author><name type="last">Rossiter</name>, <name type="first">Margaret W.</name></author>
       <title type="ref">
        <hi rend="italics">Women Scientists in America: Struggles and Strategies to 1940.</hi>
       </title>
@@ -29845,7 +29932,8 @@
 
      <bibl id="p110C">
       <idno>p110C</idno>
-      <author><name type="last">Rubinstein</name>, <name type="first">Charlotte Streifer</name>.</author>
+      <author><name type="last">Rubinstein</name>, <name type="first">Charlotte
+       Streifer</name>.</author>
       <title type="ref">
        <hi rend="italics">American Women Artists: From Early Indian Times to the Present.</hi>
       </title>
@@ -29856,7 +29944,7 @@
        <publisher>G.K. Hall,</publisher>
        <date>1982.</date>
       </imprint>
-      <note></note>
+      <note/>
      </bibl>
 
      <bibl id="p111">
@@ -29905,6 +29993,21 @@
        <date>1979.</date>
       </imprint>
       <note> </note>
+     </bibl>
+
+     <bibl id="p113A">
+      <idno>p113A</idno>
+      <author><name type="last">Sayers</name>, <name type="first">Janet</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Mothers of Psychoanalysis: Helene Deutsch, Karen Horney, Anna Freud,
+        Melanie Klein. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>W.W. Norton,</publisher>
+       <date>1991.</date>
+      </imprint>
+      <note/>
      </bibl>
 
      <bibl id="p113A">
@@ -30072,6 +30175,19 @@
       <note/>
      </bibl>
 
+     <bibl id="p120B">
+      <idno>p120B</idno>
+      <author><name type="last">Sills</name>, <name type="first">Leslie</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Visions: Stories About Women Artists. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Morton Grove, IL:</pubPlace>
+       <publisher>A. Whitman,</publisher>
+       <date>1993.</date>
+      </imprint>
+      <note>TOC: Mary Cassatt; Leonora Carrington; Betye Saar; Mary Frank. </note>
+     </bibl>
 
      <bibl id="p121">
       <idno>p121</idno>
@@ -30587,6 +30703,21 @@
       <note> </note>
      </bibl>
 
+     <bibl id="p142A">
+      <idno>p142A</idno>
+      <author><name type="last">Wagner</name>, <name type="first">Anne Middleton</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Three Artists (Three Women): Modernism and the Art of Hesse, Krasner, and
+        O'Keeffe. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Berkley:</pubPlace>
+       <publisher>University of California Press,</publisher>
+       <date>1996.</date>
+      </imprint>
+      <note>TOC: Georgia O'Keeffe; Lee Krasner; Eva Hesse. </note>
+     </bibl>
+
      <bibl id="p143">
       <idno>p143</idno>
       <author><name type="last">Wall</name>, <name type="first">Cheryl</name>.</author>
@@ -30643,6 +30774,26 @@
        Ch. 14: Joni: 1972-1984; Ch. 14: Joni: 1972-1982; Ch. 15: Carly: late 1973-late 1987; Pt. 6:
        "In the river I know I will find the key"; Coda: The middle '80s to the present: three women,
        three endings, one journey. </note>
+     </bibl>
+
+     <bibl id="p144B">
+      <idno>p144B</idno>
+      <author><name type="last">White</name>, <name type="first">Barbara Anne</name>.</author>
+      <title type="ref">
+       <hi rend="italics">The Beecher Sisters. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New Haven:</pubPlace>
+       <publisher>Yale Univeristy Press,</publisher>
+       <date>2003.</date>
+      </imprint>
+      <note>TOC: Catharine Esther Beecher; Harriet Beecher Stowe; Isabella Beecher Hooker; Mary
+       Beecher Perkins.</note>
+      <note>Chapter Titles: Calvinist childhoods, 1800-1837; Marriage and motherhood, 1837-1852; In
+       the wake of Uncle Tom's Cabin; Water cure and Civil War, 1860-1865; The gilded age,
+       1865-1868; Suffrage arguments, 1868-1869; "Foes in your own household," 1870-1871; Free love
+       and "Mrs. Satan," 1871-1872; The Beecher-Tilton scandal, 1872-1875; Spiritualism, 1875-1878;
+       Losses, 1878-1887; The board of lady managers, 1888-1893.</note>
      </bibl>
 
      <bibl id="p145">
