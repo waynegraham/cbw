@@ -27405,6 +27405,20 @@
       </imprint>
      </bibl>
 
+     <bibl id="p004A">
+      <idno>p004A</idno>
+      <author><name type="last">Angelo</name>, <name type="first">Bonnie</name>.</author>
+      <title type="ref">
+       <hi rend="italics">First Mothers: The Women Who Shaped the Presidents. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Morrow,</publisher>
+       <date>2000.</date>
+      </imprint>
+      <note></note>
+     </bibl>
+
      <bibl id="p005">
       <idno>p005</idno>
       <author><name type="last">Anisoara</name>, <name type="first">Stan</name>.</author>
@@ -28143,11 +28157,10 @@
        <publisher>Crowell,</publisher>
        <date>1978.</date>
       </imprint>
-      <note>TOC: Background: Women in history; Women in the early middle ages; Women and feudalism;
-       Eve and Mary; Women: Abbess, Hildegarde of Bingen; Reigning Queen, Blanche of Castile; Great
-       lady, Eleanor de Montfort; Piers Plowman's wife; City working woman, Agnes li Patiniere of
-       Douai; Women and the guilds; Margherita Datini, An Italian merchant's wife; Margaret Paston,
-       A fifteenth-century gentlewoman; Middle ages and after. </note>
+      <note>TOC: Abbess, Hildegarde of Bingen; Reigning Queen, Blanche of Castile; Great lady,
+       Eleanor de Montfort; Piers Plowman's wife; City working woman, Agnes li Patiniere of Douai;
+       Women and the guilds; Margherita Datini, An Italian merchant's wife; Margaret Paston, A
+       fifteenth-century gentlewoman. </note>
      </bibl>
 
      <bibl id="p038">
@@ -29004,6 +29017,21 @@
       <note> </note>
      </bibl>
 
+     <bibl id="p081A">
+      <idno>p081A</idno>
+      <author><name type="last">Marshall</name>, <name type="first">Megan</name>.</author>
+      <title type="ref">
+       <hi rend="italics">The Peabody Sisters: Three Women Who Ignited American Romanticism.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Boston:</pubPlace>
+       <publisher>Houghton Mifflin,</publisher>
+       <date>2005.</date>
+      </imprint>
+      <note>TOC: Elizabeth Palmer Peabody; Mary Tyler Peabody Mann; Sophia Peabody Hawthorne.
+      </note>
+     </bibl>
+
      <bibl id="p082">
       <idno>p082</idno>
       <author><name type="last">Mathews</name>, <name type="first">Winifred</name>.</author>
@@ -29169,6 +29197,25 @@
        <date>1986.</date>
       </imprint>
       <note> </note>
+     </bibl>
+
+     <bibl id="p087A">
+      <idno>p087A</idno>
+      <author><name type="last">Montgomery</name>, <name type="first">Sy</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Walking with the Great Apes: Jane Goodall, Dian Fossey, Birute Galdikas.
+       </hi>
+      </title>
+      <imprint>
+       <pubPlace>Boston:</pubPlace>
+       <publisher>Houghton Mifflin Co.,</publisher>
+       <date>1991.</date>
+      </imprint>
+      <note> Chapter Titles: Nurturers: Birute Galdikas and Supinah; Jane Goodall and Flo; Dian
+       Fossey and Digit; Scientists: Prodigal Faith of Louis Leakey; "Science with a capital S";
+       Sacrifice of Nyiramachabelli; Study in patience; Warriors: Crusader: Moral dilemma of Jane
+       Goodall; Sorceress: Madness of Dian Fossey; Diplomat: Politics of Birute Galdikas; Epilogue:
+       Shamans. </note>
      </bibl>
 
      <bibl id="p088">
@@ -29874,6 +29921,22 @@
        biographies of women. </note>
      </bibl>
 
+     <bibl id="p120A">
+      <idno>p120A</idno>
+      <author><name type="last">Sills</name>, <name type="first">Leslie</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Inspirations: Stories About Women Artists: Georgia O'Keeffe, Frida Kahlo,
+        Alice Neel, Faith Ringgold.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Niles, IL:</pubPlace>
+       <publisher>A. Whitman,</publisher>
+       <date>1989.</date>
+      </imprint>
+      <note></note>
+     </bibl>
+
+
      <bibl id="p121">
       <idno>p121</idno>
       <author><name type="last">Sitwell</name>, <name type="first">Edith</name>.</author>
@@ -30122,6 +30185,21 @@
       <note> </note>
      </bibl>
 
+     <bibl id="p132A">
+      <idno>p132A</idno>
+      <author><name type="last">Taraborrelli</name>, <name type="first">J. Randy</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Jackie, Ethel, Joan: Women of Camelot.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Warner Books,</publisher>
+       <date>2000.</date>
+     </imprint>
+      <note>TOC: Jacqueline Kennedy Onassis; Ethel Kennedy; Joan Bennett Kennedy.
+      </note>
+     </bibl>
+
      <bibl id="p133">
       <idno>p133</idno>
       <author><name type="last">Taves</name>, <name type="first">Isabella</name>.</author>
@@ -30344,6 +30422,20 @@
       <note> </note>
      </bibl>
 
+     <bibl id="p141A">
+      <idno>p141A</idno>
+      <author>United States, Congress, House: Commission on the Bicentenary of the U.S. House; Office of the Historian.</author>
+      <title type="ref">
+       <hi rend="italics">Women in Congress: 1917-1990. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Washington, DC:</pubPlace>
+       <publisher>U.S. G.P.O,</publisher>
+       <date>1991.</date>
+      </imprint>
+      <note></note>
+     </bibl>
+
      <bibl id="p142">
       <idno>p142</idno>
       <author><name type="last">Votaw</name>, <name type="first">Carmen Delgado</name>.</author>
@@ -30404,10 +30496,10 @@
        <publisher>Atria Books,</publisher>
        <date>2008.</date>
       </imprint>
-      <note>TOC: Pt. 1: "We can only look behind from where we came"; Overture: Three women, three
-       moments, one journey; Pt. 2: "I'm home again, in my old narrow bed"; Ch. 1: Carole; Ch. 2:
-       Joni; Ch. 3: Carly; Pt. 3: "And the sun poured in like butterscotch"; Ch. 4: Carole:
-       1961-1964; Ch. 5: Joni: 1961-early 1965; Ch. 6: Carly: 1961-late 1965; Ch. 7: Carole:
+      <note>Chapter Titles: Pt. 1: "We can only look behind from where we came"; Overture: Three
+       women, three moments, one journey; Pt. 2: "I'm home again, in my old narrow bed"; Ch. 1:
+       Carole; Ch. 2: Joni; Ch. 3: Carly; Pt. 3: "And the sun poured in like butterscotch"; Ch. 4:
+       Carole: 1961-1964; Ch. 5: Joni: 1961-early 1965; Ch. 6: Carly: 1961-late 1965; Ch. 7: Carole:
        1964-early 1969; Ch. 8: Joni: March 1965-December 1967; Ch. 9: Carly: 1965-1969; Pt. 4: "I
        feel the earth move under my feet"; Ch. 10: Joni: late 1967-mid-1970; Ch. 11: Carole:
        1969-1970, Joni: 1970, Carole and Joni: early 1971-1972; Ch. 12: Carly: mid-1970-early 1973;
