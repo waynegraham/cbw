@@ -27327,6 +27327,35 @@
     <div2>
      <bibl id="p001">
       <idno>p001</idno>
+      <editor><name type="last">Abir-Am</name>, <name type="first">Pnina G.</name>, and <name
+        type="first">Dorinda</name>
+       <name type="last">Outram</name>.</editor>
+      <title type="ref">
+       <hi rend="italics">Uneasy Careers and Intimate Lives: Women in Science, 1789-1979.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New Brunswick, NJ:</pubPlace>
+       <publisher>Rutgers University Press,</publisher>
+       <date>1987.</date>
+      </imprint>
+      <note>Chapter Titles: Before objectivity: wives, patronage, and cultural reproduction in early
+       nineteenth-century French science; Dorinda Outram: Botany in the breakfast room: women and
+       early nineteenth-century British plant study; Ann B. Shteir: Many faces of intimacy:
+       professional options and personal choices among nineteenth- and twentieth-century women
+       physicians; Regina M. Morantz-Sanchez: Field work and family: North American women
+       ornithologists, 1900-1950; Marianne Gosztonyi Ainley: Nineteenth-century American women
+       botanists: wives, widows, and work; Nancy G. Slack: Marital collaboration: an approach to
+       science; Marilyn Bailey Ogilvie: Maria Mitchell and the advancement of women in science;
+       Sally Gregory Kohlstedt: "Strangers to each other": male and female relationships in the life
+       and work of Clémence Royer; Joy Harvey: Career and home life in the 1880s: choices of
+       mathematician Sofia Kovalevskaia; Ann Hibner Koblitz: Marie Curie's "anti-natural path": time
+       only for science and family; Helena M. Pycior: Cecilia Payne-Gaposchkin: astronomy in the
+       family; Peggy A. Kidwell: Synergy or clash: disciplinary and marital strategies in the career
+       of mathematical biologist Dorothy Wrinch; Pnina G. Abir-Am. </note>
+     </bibl>
+
+     <bibl id="p001A">
+      <idno>p001A</idno>
       <author><name type="last">Adams</name>, <name type="first">Jean</name>, <name type="first"
         >Margaret</name>
        <name type="last">Kimball</name>, and <name type="first">Jeanette</name>
@@ -27880,6 +27909,34 @@
       </imprint>
       <note>Women in the Bible. Author of Christian books, including Methodist sermons, self-help;
        listed under Pocket Pulpit and Minister's Paperback library. </note>
+     </bibl>
+
+     <bibl id="p023A">
+      <idno>p023A</idno>
+      <author><name type="last">Clyne</name>, <name type="first">Patricia Edwards</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Patriots in Petticoats. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Dodd, Mead,</publisher>
+       <date>1976.</date>
+      </imprint>
+      <note>Twenty brief biographies of women of the American Revolution; juvenile. </note>
+     </bibl>
+
+     <bibl id="p023B">
+      <idno>p023B</idno>
+      <author><name type="last">Cohen</name>, <name type="first">Marcia</name>.</author>
+      <title type="ref">
+       <hi rend="italics">The Sisterhood: The True Story of the Women Who Changed the World.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Simon &amp; Schuster,</publisher>
+       <date>1988.</date>
+      </imprint>
+      <note>Biographies of American feminists. </note>
      </bibl>
 
      <bibl id="p024">
@@ -28451,6 +28508,47 @@
       <note> </note>
      </bibl>
 
+     <bibl id="p041A">
+      <idno>p041A</idno>
+      <author><name type="last">Hahn</name>, <name type="first">Emily</name>.</author>
+      <title type="ref">
+       <hi rend="italics">The Soong Sisters.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Doubleday, Doran &amp; Co.,</publisher>
+       <date>1941;</date>
+       <date>1943;</date>
+       <date>1944.></date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>R. Hale,</publisher>
+       <date>1942.></date>
+      </imprint>
+      <imprint>
+       <pubPlace>Garden City, NY:</pubPlace>
+       <publisher>Garden City Publishing Co.,</publisher>
+       <date>1945.></date>
+      </imprint>
+      <imprint>
+       <pubPlace>Westport, CT:</pubPlace>
+       <publisher>Greenwood Press,</publisher>
+       <date>1970.></date>
+      </imprint>
+      <imprint>
+       <pubPlace>Bath:</pubPlace>
+       <publisher>Chivers Press,</publisher>
+       <date>1974.></date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>E-reads,</publisher>
+       <date>2003.></date>
+      </imprint>
+      <note>TOC: Ai-ling Soong; Ching-ling Soong; May-ling Soong Chiang.</note>
+     </bibl>
+
      <bibl id="p042">
       <idno>p042</idno>
       <author><name type="last">Hartman</name>, <name type="first">Mary S.</name></author>
@@ -28878,6 +28976,22 @@
        <date>1978.</date>
       </imprint>
       <note> </note>
+     </bibl>
+
+     <bibl id="p060A">
+      <idno>p060A</idno>
+      <author><name type="last">Kennedy</name>, <name type="first">Claudia J.</name>, and <name
+        type="first">Malcolm</name>
+       <name type="last">McConnell</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Generally Speaking.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Warner Books,</publisher>
+       <date>2001.</date>
+      </imprint>
+      <note>Women who have served as U.S. generals. </note>
      </bibl>
 
      <bibl id="p061">
@@ -29428,6 +29542,24 @@
 
      <bibl id="p082B">
       <idno>p082B</idno>
+      <author><name type="last">McEuen</name>, <name type="first">Melissa A.</name></author>
+      <title type="ref">
+       <hi rend="italics">Seeing America: Women Photographers Between the Wars.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Lexington, KY:</pubPlace>
+       <publisher>University Press of Kentucky,</publisher>
+       <date>2000.</date>
+      </imprint>
+      <note> Chapter Titles: Documentarian with props: Doris Ulmann's vision of an ideal America;
+       Portraitist as documentarian: Dorothea Lange's depiction of American individualism; A radical
+       vision on film: Marion Post's portrayal of collective strength; Of machines and people:
+       Margaret Bourke-White's isolation of primary components; Modernism ascendant: Berenice
+       Abbott's perception of the evolving cityscape.</note>
+     </bibl>
+
+     <bibl id="p082C">
+      <idno>p082C</idno>
       <author><name type="last">McGrayne</name>, <name type="first">Sharon Bertsch</name>.</author>
       <title type="ref">
        <hi rend="italics">Nobel Prize Women in Science: Their Lives, Struggles, and Momentous
@@ -29444,8 +29576,8 @@
        Franklin; Rosalyn Sussman Yalow; Jocelyn Bell Burnell. </note>
      </bibl>
 
-     <bibl id="p082C">
-      <idno>p082C</idno>
+     <bibl id="p082D">
+      <idno>p082D</idno>
       <author><name type="last">Meltzer</name>, <name type="first">Milton</name>.</author>
       <title type="ref">
        <hi rend="italics">Ten Queens: Portraits of Women of Power. </hi>
@@ -29541,6 +29673,20 @@
       </imprint>
       <note>TOC: Sarah; Rebekah; Rachel; Miriam; Ruth; Esther; Mary and Martha; Deborah; Hannah;
        Rhoda. </note>
+     </bibl>
+
+     <bibl id="p086A">
+      <idno>p086A</idno>
+      <author><name type="last">Miller</name>, <name type="first">Brandon Marie</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Buffalo Gals: Women of the Old West. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Minneapolis:</pubPlace>
+       <publisher>Lerner Publications,</publisher>
+       <date>1995.</date>
+      </imprint>
+      <note> </note>
      </bibl>
 
      <bibl id="p087">
@@ -29693,6 +29839,20 @@
 
      <bibl id="p091A">
       <idno>p091A</idno>
+      <author><name type="last">O'Dair</name>, <name type="first">Barbara</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Trouble Girls: The Rolling Stone Book of Women in Rock.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Random House,</publisher>
+       <date>1997.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+
+     <bibl id="p091B">
+      <idno>p091B</idno>
       <author><name type="last">Olds</name>, <name type="first">Elizabeth Fagg</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of the Four Winds. </hi>
@@ -30026,6 +30186,20 @@
        Winnemucca; Gertrude Stein; Jeannette Rankin; Isadora Duncan; Julia Morgan. </note>
      </bibl>
 
+     <bibl id="p105A">
+      <idno>p105A</idno>
+      <author><name type="last">Riegel</name>, <name type="first">Robert Edgar</name>.</author>
+      <title type="ref">
+       <hi rend="italics">American Feminists. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Lawrence, KS:</pubPlace>
+       <publisher>University of Kansas Press,</publisher>
+       <date>1963.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+
      <bibl id="p106">
       <idno>p106</idno>
       <author><name type="last">Roberts</name>, <name type="first">Cokie</name>.</author>
@@ -30211,6 +30385,22 @@
       <note/>
      </bibl>
 
+     <bibl id="p110D">
+      <idno>p110D</idno>
+      <author><name type="last">Rubinstein</name>, <name type="first">Charlotte
+       Streifer</name>.</author>
+      <title type="ref">
+       <hi rend="italics">American Women Sculptors: A History of Women Working in Three
+        Dimensions.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Boston:</pubPlace>
+       <publisher>G.K. Hall,</publisher>
+       <date>1990.</date>
+      </imprint>
+      <note/>
+     </bibl>
+
      <bibl id="p111">
       <idno>p110</idno>
       <title type="ref">
@@ -30356,6 +30546,41 @@
        <date>1944.</date>
       </imprint>
       <note> </note>
+     </bibl>
+
+     <bibl id="p116A">
+      <idno>p116A</idno>
+      <editor><name type="last">Sherman</name>, <name type="first">Claire Richter</name>, and <name
+        type="first">Adele M.</name>
+       <name type="last">Holcomb</name>.</editor>
+      <title type="ref">
+       <hi rend="italics">Women as Interpreters of the Visual Arts, 1820-1979.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Westport, CT:</pubPlace>
+       <publisher>Greenwood Press,</publisher>
+       <date>1981.</date>
+      </imprint>
+      <note>Chapter Titles: Women as interpreters of the visual arts. Precursors and pioneers
+       (1820-1890); Claire Richter Sherman with the assistance of Adele M. Holcomb: Widening
+       horizons (1890-1930), The tradition continues (1930-1979); Claire Richter Sherman:
+       Nineteenth-century writers on the arts. Anna Jameson (1794-1860): sacred art and social
+       vision; Adele M. Holcomb: Margaret Fuller (1810-1850): her work as an art critic; Corlette R.
+       Walker, Adele M. Holcomb: Lady Dilke (1840-1904): the six lives of an art historian; Colin
+       Eisler: Mariana Griswold Van Rensselaer (1851-1934): America's first professional woman art
+       critic; Cynthia D. Kinnard: Art historians and archaeologists of the late-nineteenth and
+       early-twentieth centuries. Georgiana Goddard King (1871-1939): educator and pioneer in
+       medieval Spanish art; Susanna Terrell Saunders: Margarete Bieber (1879-1978): an
+       archaeologist in two worlds; Larissa Bonfante: Gisela Marie Augusta Richter (1882-1972):
+       scholar of classical art and museum archaeologist; Ingrid E.M. Edlund, Anna Marguerite
+       McCann, Claire Richter Sherman: Erica Tietze-Conrat (1883-1958): productive scholar in
+       Renaissance and Baroque art; Madlyn Millner Kahr: Scholars active from the early-twentieth
+       century to 1979. Sirarpie Der Nersessian (b. 1896): educator and scholar in Byzantine and
+       Armenian art; Jelisaveta Stanojevich Allen: Dorothy Burr Thompson (b. 1900): classical
+       archaeologist; Christine Mitchell Havelock: Dorothy Eugenia Miner (1904-1973): the varied
+       career of a Medievalist: scholar and keeper of manuscripts, librarian and editor at the
+       Walters Art Gallery; Claire Richter Sherman: Agnes Mongan (b. 1905): connoisseur of Old
+       Master drawings; Diane Deglaze Bolin. </note>
      </bibl>
 
      <bibl id="p117">
@@ -31102,6 +31327,33 @@
        1865-1868; Suffrage arguments, 1868-1869; "Foes in your own household," 1870-1871; Free love
        and "Mrs. Satan," 1871-1872; The Beecher-Tilton scandal, 1872-1875; Spiritualism, 1875-1878;
        Losses, 1878-1887; The board of lady managers, 1888-1893.</note>
+     </bibl>
+
+     <bibl id="p144C">
+      <idno>p144C</idno>
+      <author><name type="last">Woolum</name>, <name type="first">Janet</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Outstanding Women Athletes: Who They Are and How They Influenced Sports in
+        America.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Phoenix, AZ:</pubPlace>
+       <publisher>Oryx Press,</publisher>
+       <date>1992.</date>
+      </imprint>
+      <note>TOC: Tenley Albright; Constance M.K. Applebee; Evelyn Ashford; Senda Berenson; Patty
+       Berg; Fanny Blankers-Koen; Susan Butcher; Connie Carpenter-Phinney; Florence Chadwick;
+       Nadia Comaneci; Maureen Connolly; Donna de Varona; Amelia Earhart; Gertrude Ederle;
+       Chris Evert; Peggy Fleming; Althea Gibson; Diana Golden; Steffi Graf; Janet Guthrie;
+       Dorothy Hamill; Carol Heiss-Jenkins; Sonja Henie; Flo Hyman; Joan Joyce; Florence
+       Griffith Joyner; Jackie Joyner-Kersee; Billie Jean King; Micki King; Olga Korbut; Julie
+       Krone; Marion Ladewig; Andrea Mead Lawrence; Nancy Liebermann-Cline; Nancy Lopez; Alice
+       Marble; Patricia McCormick; Floretta Doty McCutcheon; Ann Meyers; Cheryl Miller; Helen
+       Wills Moody; Shirley Muldowney; Martina Navratilova; Cindy Nelson; Mary Lou Retton;
+       Cathy Rigby; Wilma Rudloph; Joan Benoit Samuelson; Eleanora Sears; Mary Decker Slaney;
+       Patricia Head Summitt; Wyomia Tyus; Glenna Collett Vare; Grete Andersen Waitz; Kathy
+       Whitworth; Hazel Hotchkiss Wightman; Lynette Woodard; Mickey Wright; Sheila Yount;
+       Mildred "Babe" Didrickson Zaharias. </note>
      </bibl>
 
      <bibl id="p145">
