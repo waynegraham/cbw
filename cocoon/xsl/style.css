@@ -39,7 +39,7 @@ width: 90%;
 /*style for entire page */
 #wrap{
 background-image: url('fore_xs.jpg');
-border: 7px solid #FFF7F7;
+border: 7px solid #FFFBFB;
 background-color: #E7E3D8; /*table background color */
 width:960px;
 padding-bottom: 35px;
@@ -123,7 +123,7 @@ padding-top:10px;
 padding-bottom:10px;
 padding-left:5px;
 padding-right:5px;
-background-color:#FFF7F7;
+background-color:#FFFBFB;
 }
 
 
@@ -228,7 +228,7 @@ font-size: 14px;
 }
 
 #navbar a.selected{
-background: #FFF7F7;
+background: #FFFBFB;
 -moz-border-radius-topleft:10px;
 -moz-border-radius-topright:10px;
 }
@@ -236,7 +236,7 @@ background: #FFF7F7;
 .divider {
 width: 400px;
 height: 3px;
-background: #FFF7F7;
+background: #FFFBFB;
 margin: 0px 270px 10px;
 }
 
@@ -245,7 +245,7 @@ margin: 0px 270px 10px;
   text-align: center;
   padding: 6px 0px 3px;
   margin: 10px 0px;
-  border-bottom: 3px solid #FFF7F7;
+  border-bottom: 3px solid #FFFBFB;
   overflow: hidden;
 }
 
@@ -258,7 +258,7 @@ margin: 0px 270px 10px;
 }
 
 #subNav a.selected {
-background: #FFF7F7;
+background: #FFFBFB;
 -moz-border-radius-topleft:10px;
 -moz-border-radius-topright:10px;
 }
@@ -376,7 +376,7 @@ width: 75px;
 margin: 0px;
 padding: 0px;
 border: none;
-border: 1px solid #FFF7F7;
+border: 1px solid #FFFBFB;
 }
 
 #popMarkup {
@@ -399,7 +399,7 @@ overflow: hidden;
 text-align: center;
 margin: 10px 0px;
 padding: 5px 0px 2px;
-border-bottom: 3px solid #FFF7F7;
+border-bottom: 3px solid #FFFBFB;
 overflow: hidden;
 }
 
@@ -413,7 +413,7 @@ vertical-align:bottom;
 }
 
 #page-nav .selected {
-background: #FFF7F7;
+background: #FFFBFB;
 -moz-border-radius-topleft:5px;
 -moz-border-radius-topright:5px;
 }
@@ -424,12 +424,12 @@ font-weight: normal;
 }
 
 #page-nav .page-link {
-background-color:#FFF7F7;
+background-color:#FFFBFB;
 border:1px solid #CBCBCB;
 }
 
 #page-nav .current {
-background-color:#FFF7F7;
+background-color:#FFFBFB;
 border:1px solid #FFFFFF;
 padding:2px 6px;
 text-decoration:none;
@@ -512,25 +512,41 @@ div.person {
     
 #intro {
         width: 98%;
-        height: 340px;
-        background: #FFF7F7;
+        height: 440px;
+        background: #FFFBFB;
         padding: 15px 5px;
     }
 #pic {
     float: left;
     margin-right: 20px;
+    width: 39%;
     }
 #pic .carousel {
     margin: 10px 20px;
     }
-#milestones, #links, #texts {
+#milestones, #links {
     float: right;
     margin-left: 20px;
+    width: 26%;
 }
 
-    #pic .full img {
-        width: 220px;
-    }
+#texts {
+    clear: right;
+    float: left;
+    width: 26%;
+    margin: 300px 0 0 20px;
+}
+#pic .full {
+    width: 326px;
+    max-height: 314px;
+    overflow: hidden;
+    margin: 0 15px;
+}
+
+#pic .full img {
+    min-width: 326px;
+}
+
 #bio, #essay {
     display: block;
     margin: 20px 0;
