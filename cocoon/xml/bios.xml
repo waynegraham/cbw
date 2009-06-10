@@ -139,6 +139,30 @@
         </interpGrp>
         <body>
             <div1 id="SISTER_DORA">
+                <head>
+                    <name type="full">Sister Dora (Dorothy Wyndlow Pattison)</name>
+                    <name type="search">Sister Dora</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Sister Dora</label>
+                            <figure n="no26"/>
+                        </item>
+                        <item>
+                            <label>Sister Dora</label>
+                            <figure n="no27"/>
+                        </item>
+                        <item>
+                            <label>Sister Dora</label>
+                            <figure n="no28"/>
+                        </item>
+                        <item>
+                            <label>Sister Dora</label>
+                            <figure n="no29"/>
+                        </item>
+                    </list>
+                </div2>
                 <div2 type="links">
                     <list>
                         <item>
@@ -150,6 +174,22 @@
                             <label>Biography Two</label>
                             <p>A short description</p>
                             <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>1813</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>1840</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>1860</date>
                         </item>
                     </list>
                 </div2>
@@ -847,7 +887,7 @@
                         full of the Glad Tidings, and you will tell others. You cannot give what you
                         have not got" </p>
                 </div2>
-                <div2 n="2" id="WIKIPEDIA_BIO">
+                <div2 id="WIKIPEDIA_BIO" type="essay">
                     <docAuthor>Student One</docAuthor>
                     <docDate>Nov. 9, 2008</docDate>
                     <head>
