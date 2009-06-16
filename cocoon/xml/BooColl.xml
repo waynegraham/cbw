@@ -10899,6 +10899,7 @@
        Malthy; Brenda Putnam; Alice Foote MacDougail; Mary Kingsbury Simkhovitch; Maria Jeritza;
        You. <hi rend="bold">*Pop Chart</hi>
       </note>
+      <note><xref>Inez Haynes Irwin</xref> is the author of <ref target="a443"></ref><hi rend="italics">Angels and Amazons</hi> (1933).</note>
      </bibl>
 
      <bibl id="a287">
@@ -20194,12 +20195,14 @@
        Hughes-Hallett); Kate Chase (Mrs. William Spague); Mattie Ould (Mrs. Oliver Schoolcraft);
        Jennie Jerome (Lady Randolph Churchill); Nellie Hazeltine (Mrs. Frederick W. Paramore); Mary
        Victoria Leiter (Baroness Curzon of Keldeston); New York as a Social Centre. </note>
-      <note> Nineteen <date>19th-c.</date> women “of so pre-eminent a beauty, so dazzling a wit, so
+      <note> Illustrated chapters on nineteen <date>19th-c.</date> women “of so pre-eminent a beauty, so dazzling a wit, so
        powerful a magnetism, that their names belong no less to the history of their country than
        those of the men whose genius has raised it to the rank it holds to-day among the nations of
-       the earth.” The aim is to “recognize the power of a queenly personality”; the hope is that
+       the earth.” Peacock believes the "highest type" of "political and...social genius" stamp an impression "of thei remarkable personalities upon their time."  Her examples
+       demonstrate that in America it was possible to rise to eminence, even in the <date>19th c.</date> with limited travel and poor communication (before the telegraph). 
+       Her examples are chosen for fame "beyond question" and because they "represent their period and locality."  The aim is to “recognize the power of a queenly personality”; the hope is that
        the <date>20th c.</date> will “‘perpetuate the empire which beauty first established.’”
-       Preface dated Paris <date>June 22, 1900</date>. </note>
+       Preface dated Paris <date>June 22, 1900</date>. Final chapter: "New York as Social Centre."</note>
      </bibl>
 
      <bibl id="a636"><ref>636.</ref>
@@ -23636,7 +23639,7 @@
       <idno>a772</idno>
       <author><name type="last">Sweetser</name>, <name type="first">Kate Dickinson</name>.</author>
       <title type="ref">
-       <hi rend="italics">Ten American Girls >From History.</hi>
+       <hi rend="italics">Ten American Girls From History.</hi>
       </title> Illustrated by <editor role="illustrator">George Alfred Williams.</editor>
       <imprint>
        <pubPlace>New York:</pubPlace>
@@ -27810,7 +27813,7 @@
 
      <bibl id="p018">
       <idno>p018</idno>
-      <editor><name type="last">Brink</name>, <name type="first">J. R.</name>, ed.</editor>
+      <editor><name type="last">Brink</name>, <name type="first">J. R., ed.</name></editor>
       <title type="ref">
        <hi rend="italics">Female Scholars: a tradition of learned women before 1800.</hi>
       </title>
@@ -27823,7 +27826,23 @@
        her circle; Maria de Zayas y Sotomayor; Anna Maria van Schurman; Bathsua Makin; Madame de
        Sevigne; Sor Juana Ines de la Cruz; Elizabeth Elstob; Mercy Otis Warren. </note>
      </bibl>
-
+     <bibl id="p018A">
+      <idno>p018A</idno>
+      <author><name type="last">Broussard</name>, <name type="first">Jinx C.</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Giving a Voice to the Voiceless :
+        Four Pioneering Black Women Journalists.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Routledge,</publisher>
+       <date>2004.</date>
+      </imprint>
+      <note>TOC: Ida B. Wells-Barnett: militant muckraker; Mary Church Terrell: captivating crusader; Alice Dunbar-Nelson:
+       writing during the jim Crow era; Amy Jacques Garvey: mouthpiece for a movement; Synthesis.  Studies in African American History and
+       Culture series.       
+       </note>
+     </bibl>
      <bibl id="p019">
       <idno>p019</idno>
       <author><name type="last">Buckmaster</name>, <name type="first">Henrietta
@@ -28272,7 +28291,19 @@
       </imprint>
       <note> </note>
      </bibl>
-
+     <bibl id="p035A">
+      <idno>p035A</idno>
+      <author><name type="last">Forde</name>, <name type="first">Frank</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Four Women. </hi>
+      </title>
+      <imprint>
+       <pubPlace>[London/s.l.:</pubPlace>
+       <publisher>Bookplace,</publisher>
+       <date>1987.</date>
+      </imprint>
+      <note>Black Makers of History Series.  "Readers for new literates."  Also catalogued as by Ray Uter with "Black Makers of History" as subtitle, [London]: Bookplace, 1980-1989?.  48 pp. with illustrations.</note>
+     </bibl>
      <bibl id="p036">
       <idno>p036</idno>
       <author><name type="last">Forster</name>, <name type="first">Margaret</name>.</author>
@@ -30883,7 +30914,22 @@
       </imprint>
       <note> </note>
      </bibl>
-
+     <bibl id="p123a">
+      <idno>p123a</idno>
+      <author><name type="last">Steffof</name>, <name type="first">Rebecca</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women of the World: Women Travellers and Explorers.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York, NY:</pubPlace>
+       <publisher>Oxford University Press,</publisher>
+       <date>1992.</date>
+      </imprint>
+      <note>Nine European or American middle-class travellers of the eighteenth-twentieth centuries, including: Ida Pfeiffer; Isabella Bird Bishop; Fanny Bullock Workman; Mary Kingsley; Freya Stark.
+      A coffee-table or school-library book, in large format with an illustration for every 1-2 pages (drawing, map, photograph).  Ch. 2: "Although for the most part women were 
+      still expected to tend the hearth at home, the idea of a  woman traveling no longer seemed quite as outlandish as it had during Ida Pfeiffer's youth.  A number of intrepid, adventurous women
+      roamed the world during the Victorian period....But no traveler was bolder, more free-spirited or more renowned than Isabella Bird...."</note>
+     </bibl>
      <bibl id="p124">
       <idno>p124</idno>
       <author><name type="last">Stephens</name>, <name type="first">Autumn</name>.</author>
@@ -31472,9 +31518,24 @@
        and "Mrs. Satan," 1871-1872; The Beecher-Tilton scandal, 1872-1875; Spiritualism, 1875-1878;
        Losses, 1878-1887; The board of lady managers, 1888-1893.</note>
      </bibl>
-
      <bibl id="p144C">
       <idno>p144C</idno>
+      <author><name type="last">Williams</name>, <name type="first">Samey B.</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Spirited Black Women:
+        four decades of portraits of Afro-American
+        women. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Brooklyn, New York:</pubPlace>
+       <publisher>SBW Associates,</publisher>
+       <date>1994.</date>
+      </imprint>
+      <note></note>
+     </bibl>
+
+     <bibl id="p144D">
+      <idno>p144D</idno>
       <author><name type="last">Woolum</name>, <name type="first">Janet</name>.</author>
       <title type="ref">
        <hi rend="italics">Outstanding Women Athletes: Who They Are and How They Influenced Sports in
