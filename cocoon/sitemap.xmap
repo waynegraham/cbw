@@ -181,11 +181,9 @@
 			</map:match>
 			
 			<!-- displays individual person's page -->
-			<map:match pattern="people/*">
+			<map:match pattern="people">
 				<map:generate src="xml/bios.xml" label="record"/>
-				<map:transform src="xsl/person.xsl" label="basiccontent">
-					<map:parameter name="use-request-parameters" value="true"/>
-				</map:transform>
+				<map:transform src="xsl/person.xsl" label="basiccontent"/>
 				<map:serialize type="html"/>
 			</map:match>
 
