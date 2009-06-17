@@ -102,7 +102,8 @@
                     <term>nonfiction </term>
                     <term>prose </term>
                     <term>feminine </term>
-                    <term>Women Writers </term>
+                    <term>biography</term>
+                    <term>women</term>
                 </keywords>
                 <keywords scheme="LCSH">
                     <term type="Field650">LCSH </term>
@@ -111,6 +112,19 @@
         </profileDesc>
     </teiHeader>
     <text>
+        <interpGrp>
+            <interp value="birth"/>
+            <interp value="family"/>
+            <interp value="childhood"/>
+            <interp value="education"/>
+            <interp value="marriage"/>
+            <interp value="appearance"/>
+            <interp value="vocation"/>
+            <interp value="conversion"/>
+            <interp value="ordeal"/>
+            <interp value="recognition"/>
+            <interp value="death"/>
+        </interpGrp>
         <!--<interpGrp>
             <interp id="INTRO" value="Introduction"/>
             <interp id="CONFLICT" value="Conflict"/>
@@ -136,6 +150,13 @@
             <interp value="Neighborhood"/>
             <interp value="Street"/>
             <interp value="Estate"/>
+        </interpGrp>
+        <interpGrp>
+            <interp value="ruler"/>
+            <interp value="international war"/>
+            <interp value="civil war"/>
+            <interp value="religion"/>
+            <interp value="campaign"/>
         </interpGrp>
         <body>
             <div1 id="SISTER_DORA">
@@ -932,7 +953,7 @@
                         the historical figure <name corresp="JOAN_OF_ARC">Joan of Arc</name>.
                         Because the biographical accounts written at the time reflect the various
                         ideologies of the age, one doesn’t know what to expect of her portrayal. Was
-                        she illsutrated as a divinely inspired prophetess or simply an
+                        she illustrated as a divinely inspired prophetess or simply an
                         imaginative heroine? Universally, they regale her with flowery prose,
                         depicting her as an archetypal tragic heroine who is wronged by her
                         contemporaries; however, it seems that Victorian authors are unable to agree
@@ -941,14 +962,14 @@
                         the case is reversed. Also, some authors comment on her adopting male
                         conduct, wearing men’s attire, and leading the men of the French military.
                         Many authors state outright what they feel to be appropriate behavior of a
-                        member of the “fairer sex”, while others neglect the issue entirely. These
+                        member of the “fairer sex,” while others neglect the issue entirely. These
                         discordant viewpoints concerning <name corresp="JOAN_OF_ARC">Joan of
                             Arc’s</name> divinity and adherence to gender roles are reflective of
                         the controversial social issues prominent during the Victorian era.</p>
                     <p><name corresp="JOAN_OF_ARC">Joan of Arc</name> was born in the <rs
                             type="place" key="Country">French</rs> village <rs type="place"
-                            key="Village">Domrémy</rs> to <name>Jacques d’Arc</name> and
-                            <name>Isabelle Romée</name> in <dateRange from="1412-01-01"
+                            key="Village">Domrémy</rs> to <name type="father">Jacques d’Arc</name> and
+                            <name type="mother">Isabelle Romée</name> in <dateRange from="1412-01-01"
                             to="1412-12-31">1412</dateRange>. Although sources generally portray her
                         childhood as a happy one, the context of <name corresp="JOAN_OF_ARC"
                             >Joan’s</name> upbringing was both chaotic and violent. The <rs
@@ -964,11 +985,11 @@
                             type="place" key="Country">English</rs> entered a war that would
                         last for over a century. <name>Charles VI</name>, during one of his bouts of
                         insanity, had signed the Treaty of <rs type="place" key="City">Troyes</rs>
-                        which ensured <rs type="place">English</rs> ascension to the <rs
+                        which ensured <rs type="place">English</rs> claim to the <rs
                             type="place" key="Country">French</rs> throne. <name>Charles VII</name>,
                         the Dauphin, came to be seen as an illegitimate heir, while the infant <name>Henry
                             VI</name> became the King of <rs type="place" key="Country">France</rs>
-                        in <dateRange from="1422-01-01" to="1421-12-31">1422</dateRange>. Those
+                        in <dateRange from="1422-01-01" to="1422-12-31">1422</dateRange>. Those
                         still loyal to <name>Charles VII</name>, however, would continue their
                         hostile resistance against <rs type="place" key="Country">English</rs>
                         occupation.</p>
@@ -1019,7 +1040,7 @@
                             type="place" key="City">Saint Augustins</rs> on
                         <date>May 6</date>, and on <date>May 7</date> the <rs type="place"
                             key="City">Orleans</rs> stronghold les Tourelles (an achievement that
-                        left her with a wounded neck). She had another successive string of
+                        left her with a wounded neck). She had another string of
                         victories in the month following, reclaiming <rs type="place" key="City"
                             >Jargeau</rs> on <date>June 12</date>, <rs type="place" key="City"
                             >Meung-sur-Loire</rs> on <date>June 15</date>, and <rs type="place"
@@ -1041,19 +1062,18 @@
                             key="City">Rheims</rs>, one particular author remarks: "as the grand
                         object of her mission was now, by the will of Heaven, accomplished, she
                         entreated his permission to return home, and resume those occupations and
-                        that course of life which became her sex,” (<name>James</name>, 34-35). Like
+                        that course of life which became her sex” (<name>James</name>, 34-35). Like
                         other biographers, although he issues abundant praise for <name
-                            corresp="JOAN_OF_ARC">Joan’s</name> service to her country, , Victorian
-                        ideology concerning the distinction between gender roles still seems to
-                        surface. Another example is <name>Gower’s</name> reconstruction of <name
+                            corresp="JOAN_OF_ARC">Joan’s</name> service to her country, he still adheres to Victorian
+                        ideology concerning the distinction between gender roles. Another example is <name>Gower’s</name> reconstruction of <name
                             corresp="JOAN_OF_ARC">Joan’s</name> character during her trial,
                         reaffirming the Victorian perception of women as members of the fairer and
                         weaker sex: “Even <name corresp="JOAN_OF_ARC">Joan of Arc’s</name> courage
-                        failed at that sight, and all the woman in her nature asserted itself,”
+                        failed at that sight, and all the woman in her nature asserted itself”
                             (<name>Gower</name>, 232). <name>Gower</name> also notes that she “had
                         not the defect of so many excellent but tedious women, who love talk for the
-                        mere sake of talking,” (6). Other biographical accounts convey the opposite,
-                        neglecting expectations of women and depicting her solely as a beacon of
+                        mere sake of talking” (6). Other biographical accounts convey the opposite,
+                        disregarding expectations of women and depicting her solely as a beacon of
                         unconquerable strength (<name>Adams</name>, 253).</p>
                     <p><name corresp="JOAN_OF_ARC">Joan</name> was one of the last to leave the
                         battlefield of <rs type="place" key="City">Compiègne</rs>, resulting in her
@@ -1071,7 +1091,7 @@
                     <p>‘My children and dear friends, I bid you to mark that I have been sold and
                         betrayed and that I shall be shortly put to death. So I beseech you all to
                         pray to God for me, for never more shall I be able to be of service to the
-                        King or to the Kingdom of <rs type="place" key="Country">France</rs>.’
+                        King or to the Kingdom of <rs type="place" key="Country">France</rs>’
                             (<name>Gower</name>, 126).</p>
                     <p>This appears to be another confirmation of her divinely inspired nature, as
                         portrayed by select Victorian biographers. <name>Gower</name> also makes a
@@ -1079,12 +1099,12 @@
                         of the biographical subject: “This story, whether authentic or not, is
                         surely a touching one, is full of the spirit of the heroine,”
                             (<name>Gower</name>, 126). Authenticity is not as important a factor as
-                        “the spirit of the heroine”, quite clearly. Any detail, as long as it eulogizes
+                        “the spirit of the heroine,” quite clearly. Any detail, as long as it eulogizes
                         the subject in some way, is worthy of documentation.</p>
                     <p>The trial, which took place in <rs type="place" key="City">Rouen</rs> from
                             <date>March 26</date> to <date>May 24, 1431</date>, was conducted by
                             <name>Pierre Cauchon</name>, Bishop of <rs type="place" key="City"
-                            >Beauvais</rs> and was preceded by an interrogation lasting over 15
+                            >Beauvais</rs> and was preceded by an interrogation lasting over fifteen
                         sessions. During interrogation, <name corresp="JOAN_OF_ARC">Joan</name> was
                         rigorously questioned about her birth, her religious upbringing, her visions,
                         her manly garb, her military actions and even her virginity. Throughout the trial,
@@ -1106,7 +1126,7 @@
                         as dastardly and devoid of morals: “No doubt can be entertained that she was
                         a sacrifice to jealousy, in the first place, leaving hypocrisy and cruelty
                         to do their part in the course of her trial--that mockery of justice and
-                        everlasting disgrace to all who bore a part in it,” (<name>James</name>,
+                        everlasting disgrace to all who bore a part in it” (<name>James</name>,
                         43). This line illustrates the sharp polarization of good and evil in these
                         Victorian accounts. The sweeping descriptions “sacrifice to jealousy” and
                         “everlasting shame and infamy” have a sense of permanence that coincides
@@ -1137,7 +1157,7 @@
                         particular focuses on her personal bravery and attitude rather than her
                         divinity. Also, the author takes the opportunity to opine on the superiority
                         of his own enlightened era, and does not refer to any form of spirituality.
-                        The biographies’ dissonant portrayals of <name>Joan</name> as either a heroic
+                        The biographies’ dissonant portrayals of <name corresp="JOAN_OF_ARC">Joan</name> as either a heroic
                         or divine figure (and in some instances a blend of the two) echo the
                         conflict between faith and secularism prominent in Victorian society.</p>
                     <p>From the differing depictions and viewpoints of these biographies, one can
@@ -1239,7 +1259,7 @@
                             corresp="FRANCES_TROLLOPE">Frances Trollope</name>. Living at first on
                             <rs type="place" key="Street">Keppel Street</rs>, the same street where
                         she had shared a house with her siblings a few years prior, the
-                            <name>Trollopes</name> immediately began their family, beginning with
+                            <name>Trollopes</name> immediately began their family, first with
                             <name corresp="FRANCES_TROLLOPE">Fanny’s</name> beloved son <name>Thomas
                             Adolphus (Tom)</name> in <dateRange from="1810-01-01" to="1810-12-31"
                             >1810</dateRange>. Over the next eight years <name
@@ -1251,23 +1271,23 @@
                             key="Village">Harrow-on-the-Hill</rs>, the leased farm at which
                             <name>Mr. Trollope</name> built a house. The family moved there in
                             <dateRange from="1817-01-01" to="1817-12-31">1817</dateRange>
-                            (<name>Trollope</name>, 42). Farming apparently did not agree with
-                            <name>Mr. Trollope</name>, unfortunately; <name>Thomas's</name> complete lack of agricultural
+                            (<name>Trollope</name>, 42). Unfortunately, farming did not agree with
+                            <name>Mr. Trollope</name>; <name>Thomas's</name> complete lack of agricultural
                         expertise, along with the unexpected denial of his uncle’s inheritance and
                         the strain of sending five sons to <rs type="place" key="City"
                             >Winchester</rs> for schooling, slowing crippled the family’s finances
                             (<name>Neville-Sington</name>, <rs type="place" key="City">Oxford</rs> Dictionary).</p>
-                    <p><name corresp="FRANCES_TROLLOPE">Fanny</name> maintained her stoic Victorian
-                        mindset in her lack of outward reaction to their dire circumstances. In her
+                    <p><name corresp="FRANCES_TROLLOPE">Fanny</name> maintained her Victorian stoicism
+                        in her lack of outward reaction to their dire circumstances. In her
                         vast collection of correspondence, she makes only one reference to
-                            <name>Anthony’s</name> temper and virtually no mention of the
-                            <name>Trollope’s</name> financial problems. 
+                            <name>Thomas's</name> temper and virtually no mention of the
+                            <name>Trollopes'</name> financial problems. 
                             <name corresp="FRANCES_TROLLOPE">Fanny</name> only revealed her feelings and
                         family life in her later novels, in which she devised stories of strained
                         husband-wife and husband-son relationships with the knowledge of someone who
-                        had personally experienced such tension and sorrow. Her novel One Fault
+                        had personally experienced such tension and sorrow. Her novel <hi rend="italics">One Fault</hi>
                         traces the breakdown of a marriage, while spousal verbal abuse is prevalent
-                        in Romance of <rs type="place" key="City">Vienna</rs>. In Fashionable Life,
+                        in <hi rend="italics">Romance of Vienna</hi>. In <hi rend="italics">Fashionable Life</hi>,
                             <name corresp="FRANCES_TROLLOPE">Fanny</name> writes, “We are often told
                         that the first falling in love is an important epoch in existence… Perhaps
                         the first time of falling into anger, may also be an important epoch, and
@@ -1291,19 +1311,19 @@
                         visit <rs type="place" key="Estate">La Grange</rs>, <name>Lafayette’s</name>
                         estate in <rs type="place" key="Country">France</rs>. The subsequent visits
                         of the family to <rs type="place" key="Country">France</rs> over the next
-                        three years ultimately sparked the idea of an <rs type="place" key="Country"
-                            >American</rs> excursion in <name corresp="FRANCES_TROLLOPE"
-                            >Fanny</name>. <name>Wright</name> and her sister had plans to travel to
+                        three years ultimately sparked in <name corresp="FRANCES_TROLLOPE"
+                            >Fanny</name> the idea of an <rs type="place" key="Country"
+                            >American</rs> excursion. <name>Wright</name> and her sister had plans to travel to
                         their property in <rs type="place" key="State">Tennessee</rs> to begin to
-                        reform the education of black children. When <name>Henry</name> dropped out
+                        reform the education of Afican American children. When <name>Henry</name> dropped out
                         of <rs type="place" key="City">Winchester</rs> in <dateRange
                             from="1826-01-01" to="1826-12-31">1826</dateRange>, the
-                            <name>Trollopes</name> struggled to discover an application for the
+                            <name>Trollopes</name> struggled to discover an occupation for the
                         young man; the family’s financial state would not allow for an indolent son
                         and neither would <name>Mr. Trollope</name>. With the help of <name>General
                             Lafayette</name> the <name>Trollopes</name> secured a position for
                             <name>Henry</name> in a <rs type="place" key="City">Parisian</rs>
-                        office. However, the city proved to much for <name>Henry</name> alone, and a
+                        office. However, the city proved too much for <name>Henry</name> alone, and a
                         new solution was required (<name>Trollope</name>, 77-85).</p>
                     <p><name>Fanny</name> came to view <rs type="place" key="Country">America</rs>
                         as an opportunity to mend multiple issues: in <rs type="place" key="Country"
@@ -1311,7 +1331,7 @@
                         her two young daughters) at the <name>Wrights’</name> school while also
                         solving the family’s monetary woes. <name corresp="FRANCES_TROLLOPE"
                             >Fanny</name> believed <rs type="place" key="Country">America</rs> to be
-                        an easy money making venture, and she and <name>Mr. Trollope</name> devised
+                        an easy money-making venture, and she and <name>Mr. Trollope</name> devised
                         plans to establish a bazaar or emporium for imported fancy goods in <rs
                             type="place" key="City">Cincinnati</rs> (<name>Trollope</name>, 99).
                             <name>Wright</name> wrote and encouraged <name
@@ -1322,7 +1342,7 @@
                             >America</rs> (<name>Neville-Sington</name>, <name
                             corresp="FRANCES_TROLLOPE">Fanny Trollope</name>, 109). <name
                             corresp="FRANCES_TROLLOPE">Fanny’s</name> devotion to <name>Henry</name>
-                        was very closely linked to the death of her son <name>Arthur</name>, who
+                        was very closely linked to the loss of her son <name>Arthur</name>, who
                         died of consumption at age twelve (<name>Neville-Sington</name>, <name
                             corresp="FRANCES_TROLLOPE">Fanny Trollope</name>, 105). <name
                             corresp="FRANCES_TROLLOPE">Fanny</name> poured much of herself into
@@ -1336,18 +1356,20 @@
                             <name>Tom</name> were to follow before long. Father and son ultimately
                         did come for a time to <rs type="place" key="Country">America</rs>, but in
                             <dateRange from="1831-01-01" to="1831-12-31">1831</dateRange>, the
-                        entire family returned to <rs type="place" key="Country">England</rs>
+                        entire family returned to <rs type="place" key="Country">England</rs>,
                         further in debt and with little hope.</p>
                     <p><rs type="place" key="Country">America</rs> drastically changed <name
-                            corresp="FRANCES_TROLLOPE">Fanny</name>. Monetarily, the family emerged
+                            corresp="FRANCES_TROLLOPE">Fanny Trollope</name>. Some have read a marital rift in the period of separation between husband and wife and the
+                        intimacy between Fanny Trollope and Auguste Hervieu, collaborator in the speculative scheme of the bazaar.  Monetarily, the family emerged
                         in worse debt, mostly due to the failed bazaar. <name
                             corresp="FRANCES_TROLLOPE">Fanny</name> herself came to <rs type="place"
-                            key="Country">America</rs> a liberal and determined woman but returned
+                            key="Country">America</rs> a liberal and determined woman, but her disappointing experience with Fanny Wright's utopian scheme and the dreary cultural climate Trollope perceived in Cincinnati
+                        and elsewhere transformed her views; she returned
                         to <rs type="place" key="Country">England</rs> fiercely opposed to democracy
                         and to its resulting “universal degradation”
                      (<name>Pope-Hennessy</name>, 107). Such vehemence is readily
-                        apparent in Domestic Manners. While her political views changed, <name
-                            corresp="FRANCES_TROLLOPE">Fanny’s</name> optimism and industriousness
+                        apparent in <hi rend="italics">Domestic Manners</hi>. While her political views changed, <name
+                            corresp="FRANCES_TROLLOPE">Trollope’s</name> optimism and industriousness
                         did not diminish, and she published the memoir of her travels in <dateRange
                             from="1833-01-01" to="1833-12-31">1833</dateRange>.</p>
                     <p>"No <rs type="place" key="Country">English</rs> persons of that day were ever
@@ -1356,12 +1378,12 @@
                             Trollope’s</name> criticism of <rs type="place" key="Country"
                             >America</rs> perpetuated this strong sense of English pride
                             (<name>Pope-Hennessy</name>, 16). Her reputation and persona, created
-                        in Domestic Manners, superseded her, and many who met her were surprised to
+                        in <hi rend="italics">Domestic Manners</hi>, superseded her, and many who met her were surprised to
                         find her a “most elegant and agreeable woman”
                         (<name>Neville-Sington</name>, <name corresp="FRANCES_TROLLOPE">Fanny
-                            Trollope</name>, 342). If taken alone, Domestic Manners presents a somewhat different
+                        Trollope</name>, 342). If taken alone, <hi rend="italics">Domestic Manners</hi> presents a somewhat different
                         understanding of her journey than the reality. <name corresp="FRANCES_TROLLOPE"
-                            >Fanny</name> excludes all details that do not reflect solely on the <rs
+                            >Trollope</name> excludes all details that do not reflect solely on the <rs
                             type="place" key="Country">Americans</rs>; she offers no mention of the
                         bazaar, <name>Hervieu</name>, finances, or Nashoba, the
                             <name>Wrights’</name>
@@ -1372,15 +1394,15 @@
                         about making judgments of its people before returning back to <rs
                             type="place" key="Country">England</rs> a few years after. The truth is
                         altogether different. Throughout <name corresp="FRANCES_TROLLOPE"
-                            >Fanny’s</name> tenure in <rs type="place" key="Country">America</rs>,
-                        close family friend <name>Hervieu</name> assisted her in her personal
-                        mission to save her family from not only from their financial troubles but
+                            >Trollope's</name> sojourn in <rs type="place" key="Country">America</rs>,
+                        <name>Hervieu</name> assisted her in her personal
+                        mission to save her family not only from their financial troubles but
                         more importantly from themselves. Regardless of what some saw as her
                         questionable morality, her book became an instant success and even spawned
                         the verb “to trollopise,” meaning to sermonize on experiences
                             (<name>Pope-Hennessy</name>, 16). Many <rs type="place" key="Country"
                             >Americans</rs> and <rs type="place" key="Continent">Europeans</rs>
-                        alike attacked <name corresp="FRANCES_TROLLOPE">Fanny</name>, professing:
+                        alike attacked <name corresp="FRANCES_TROLLOPE">Mrs. Trollope</name>, professing:
                         “Although <name corresp="FRANCES_TROLLOPE">Mrs. Trollope</name> maintained
                         that the standard of moral character in the <rs type="place" key="Country"
                             >United States</rs> was greatly lower than that of <rs type="place"
@@ -1388,27 +1410,27 @@
                         profligate woman” (<name>Farewell</name>). Her book received both praise and
                         abuse, but above all it saved her family and made her famous.</p>
                     <p>From the age of fifty until her death thirty years later, <name
-                            corresp="FRANCES_TROLLOPE">Fanny</name> published thirty-five novels and
+                            corresp="FRANCES_TROLLOPE">Trollope</name> published thirty-five novels and
                         six travel books, enabling her to support her family through her writing
                             (<name>Neville-Sington</name>, <rs type="place" key="City">Oxford</rs> Dictionary). Travel writing had
-                        proved a popular and profitable form of writing; Captain <name>Basil
-                            Hall’s</name> Travels In <rs type="place" key="Continent">North
-                            America</rs> had created a feeling of ill-feeling towards <rs
+                        proved a popular and profitable form; Captain <name>Basil
+                            Hall’s</name> <hi rend="italics">Travels In North
+                                America</hi> had created a feeling of ill-feeling towards <rs
                             type="place" key="Country">America</rs>, fostering a hungry market
                         anticipating the next anti-<rs type="place" key="Country">American</rs>
                         literature (<name>Farewell</name>). Unfortunately, debt quickly swallowed
-                        the vast majority of <name corresp="FRANCES_TROLLOPE">Fanny’s</name>
-                        earnings. In the decade following the publication of Domestic Manners, the
+                        the vast majority of <name corresp="FRANCES_TROLLOPE">Trollope’s</name>
+                        earnings. In the decade following the publication of <hi rend="italics">Domestic Manners</hi>, the
                             <name>Trollopes</name> moved from place to place in an effort to escape
                         the debt that continued to plague the family. Although under the threat of
-                        debtor’s prison, <name corresp="FRANCES_TROLLOPE">Fanny</name> maintained
+                        debtor’s prison, <name corresp="FRANCES_TROLLOPE">Trollope</name> maintained
                         her amicability and pursued her love of hosting parties and having polite
                         but intellectually stimulating conversations. Her guest list grew to include
                             <name>Joseph Henry Green</name> (<name>Samuel Taylor Coleridge’s</name>
                         literary executor), as well as Reverend <name>R.W. Thackeray</name>
                             (<name>William Thackeray’s</name> relative) and his family
                             (<name>Neville-Sington</name>, <name corresp="FRANCES_TROLLOPE">Fanny
-                            Trollope</name>, 253). <name corresp="FRANCES_TROLLOPE">Fanny</name>
+                            Trollope</name>, 253). <name corresp="FRANCES_TROLLOPE">Trollope</name>
                         often worked on multiple books at once, and continued to write through
                         the deaths of her son <name>Henry</name>, her husband, and her
                         daughter <name>Emily</name> between <dateRange from="1834-01-01"
@@ -1421,13 +1443,13 @@
                         she managed to maintain her writing schedule. As she continued to
                         travel, she wrote of her experiences on the <rs type="place" key="Continent"
                             >European</rs> continent and of the affluent people she met.
-                            <name>Anthony</name> commented in An Autobiography that “she was at her
+                        Her son the successful novelist <name>Anthony</name> commented in <hi rend="italics">An Autobiography</hi> that “she was at her
                         table at four in the morning, and had finished her work before the world had
                         begun to be aroused.” She lived close to her daughter <name>Cecilia</name> until
                             <name>Cecilia</name> married in <dateRange from="1841-01-01"
                             to="1841-12-31">1841</dateRange>, and in <dateRange from="1843-01-01"
                             to="1843-12-31">1843</dateRange>
-                        <name corresp="FRANCES_TROLLOPE">Fanny</name> fulfilled her dream of
+                        <name corresp="FRANCES_TROLLOPE">Trollope</name> fulfilled her dream of
                         visiting <rs type="place" key="Country">Italy</rs> and moved to <rs
                             type="place" key="City">Florence</rs> permanently. In <rs type="place"
                             key="City">Florence</rs> she continued her role of hosting dinner
@@ -1438,7 +1460,7 @@
                             <name>Tom</name> became friends with the thirty-three-year-old
                             <name>Dickens</name>, to whom <name corresp="FRANCES_TROLLOPE"
                             >Fanny</name> also appeared partial. <name corresp="FRANCES_TROLLOPE"
-                            >Fanny</name> was fond of including allusions to <name>Dickens’s</name>
+                            >Trollope</name> was fond of including allusions to <name>Dickens’s</name>
                         works within her own novels, showing admiration and respect for her
                         fellow author (<name>Neville-Sington</name>, <name
                             corresp="FRANCES_TROLLOPE">Fanny Trollope</name>, 315). During this time, in <dateRange
