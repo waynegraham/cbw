@@ -7721,6 +7721,27 @@
       </image>
      </bibl>
 
+     <bibl id="a173A">
+      <ref>173A.</ref>
+      <idno>a173A</idno>
+      <author><name type="last">Clarke</name>, <name type="first">Isabel Constance</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Six Portraits.</hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Hutchinson &amp; Co.,</publisher>
+       <date>1935.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Freeport, NY:</pubPlace>
+       <publisher>Books for Libraries Press,</publisher>
+       <date>1967.</date>
+      </imprint>
+      <note> TOC: Madame de Staël; Jane Austen; George Eliot; Mrs. Oliphant; John Oliver Hobbes
+       (Mrs. Craigie); Katherine Mansfield. </note>
+     </bibl>
+
      <bibl id="a174">
       <ref>174.</ref>
       <idno>a174</idno>
@@ -10898,7 +10919,8 @@
        Malthy; Brenda Putnam; Alice Foote MacDougail; Mary Kingsbury Simkhovitch; Maria Jeritza;
        You. <hi rend="bold">*Pop Chart</hi>
       </note>
-      <note><xref>Inez Haynes Irwin</xref> is the author of <ref target="a443"></ref><hi rend="italics">Angels and Amazons</hi> (1933).</note>
+      <note><xref>Inez Haynes Irwin</xref> is the author of <ref target="a443"/><hi rend="italics"
+        >Angels and Amazons</hi> (1933).</note>
      </bibl>
 
      <bibl id="a287">
@@ -13942,6 +13964,36 @@
        under <ref target="a454">Jameson</ref>. <hi rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
+
+     <bibl id="a403A">
+      <ref>403A.</ref>
+      <idno>a403A</idno>
+      <author><name type="last">Hibbert</name>, <name type="first">Eloise Talcott</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Embroidered Gauze: Portraits of Famous Chinese Ladies.</hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>John Lane,</publisher>
+       <date>1938;</date>
+      </imprint>
+      <imprint>
+       <publisher>Unwin Brothers Ltd.,</publisher>
+       <date>1938.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Dutton,</publisher>
+       <date>1938;</date>
+       <date>1941.</date>
+      </imprint>
+      <note> TOC: Wives, concubines and courtesans; The most beautiful of Chinese women: Hsi Shih; A
+       despotic empress: Lu Hou; A feminist of long ago: Pan Chao; Princesses in exile; Wu Hou:
+       empress of the Tang dynasty; The beloved of an emperor: Yang Kuei-fei; A Taoist nun: Yu
+       Hsuan-chi; Precious Pearl: empress of the Ming dynasty; The perfumed princess: Hsiang Fei;
+       The last great ruler of China: Tz'u Hsi.</note>
+     </bibl>
+
 
      <bibl id="a404">
       <ref>404.</ref>
@@ -20194,14 +20246,18 @@
        Hughes-Hallett); Kate Chase (Mrs. William Spague); Mattie Ould (Mrs. Oliver Schoolcraft);
        Jennie Jerome (Lady Randolph Churchill); Nellie Hazeltine (Mrs. Frederick W. Paramore); Mary
        Victoria Leiter (Baroness Curzon of Keldeston); New York as a Social Centre. </note>
-      <note> Illustrated chapters on nineteen <date>19th-c.</date> women “of so pre-eminent a beauty, so dazzling a wit, so
-       powerful a magnetism, that their names belong no less to the history of their country than
-       those of the men whose genius has raised it to the rank it holds to-day among the nations of
-       the earth.” Peacock believes the "highest type" of "political and...social genius" stamp an impression "of thei remarkable personalities upon their time."  Her examples
-       demonstrate that in America it was possible to rise to eminence, even in the <date>19th c.</date> with limited travel and poor communication (before the telegraph). 
-       Her examples are chosen for fame "beyond question" and because they "represent their period and locality."  The aim is to “recognize the power of a queenly personality”; the hope is that
-       the <date>20th c.</date> will “‘perpetuate the empire which beauty first established.’”
-       Preface dated Paris <date>June 22, 1900</date>. Final chapter: "New York as Social Centre."</note>
+      <note> Illustrated chapters on nineteen <date>19th-c.</date> women “of so pre-eminent a
+       beauty, so dazzling a wit, so powerful a magnetism, that their names belong no less to the
+       history of their country than those of the men whose genius has raised it to the rank it
+       holds to-day among the nations of the earth.” Peacock believes the "highest type" of
+       "political and...social genius" stamp an impression "of thei remarkable personalities upon
+       their time." Her examples demonstrate that in America it was possible to rise to eminence,
+       even in the <date>19th c.</date> with limited travel and poor communication (before the
+       telegraph). Her examples are chosen for fame "beyond question" and because they "represent
+       their period and locality." The aim is to “recognize the power of a queenly personality”; the
+       hope is that the <date>20th c.</date> will “‘perpetuate the empire which beauty first
+       established.’” Preface dated Paris <date>June 22, 1900</date>. Final chapter: "New York as
+       Social Centre."</note>
      </bibl>
 
      <bibl id="a636"><ref>636.</ref>
@@ -21856,6 +21912,22 @@
        <publisher>Semple,</publisher>
        <date>1911;</date>
        <date>1914.</date>
+      </imprint>
+     </bibl>
+
+     <bibl id="a708A">
+      <ref>708A.</ref>
+      <idno>a708A</idno>
+      <author><name type="last">Senior</name>, <name type="first">Elizabeth</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Henry VIII and His Wives.</hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Collins,</publisher>
+       <date>1930-39?;</date>
+       <date>1940;</date>
+       <date>1942.</date>
       </imprint>
      </bibl>
 
@@ -27669,6 +27741,20 @@
       <note> </note>
      </bibl>
 
+     <bibl id="p011B">
+      <idno>p011B</idno>
+      <author>
+       <name type="last">Baumgartner</name>, <name type="first">Josephine</name>. </author>
+      <title type="ref">
+       <hi>Activity Blue Book of Iowa Women: Who's Who in Iowa Women's Activities. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Des Moines: </pubPlace>
+       <date>1949;</date>
+       <date>1950.</date>
+      </imprint>
+     </bibl>
+
      <bibl id="p012">
       <idno>p012</idno>
       <author>
@@ -27679,7 +27765,7 @@
       <imprint>
        <pubPlace>London: </pubPlace>
        <publisher>Quality, </publisher>
-       <date>1941;.</date>
+       <date>1941;</date>
        <date>1942;</date>
        <date>1943.</date>
       </imprint>
@@ -27833,18 +27919,18 @@
       <idno>p018A</idno>
       <author><name type="last">Broussard</name>, <name type="first">Jinx C.</name>.</author>
       <title type="ref">
-       <hi rend="italics">Giving a Voice to the Voiceless :
-        Four Pioneering Black Women Journalists.</hi>
+       <hi rend="italics">Giving a Voice to the Voiceless : Four Pioneering Black Women
+        Journalists.</hi>
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Routledge,</publisher>
        <date>2004.</date>
       </imprint>
-      <note>TOC: Ida B. Wells-Barnett: militant muckraker; Mary Church Terrell: captivating crusader; Alice Dunbar-Nelson:
-       writing during the jim Crow era; Amy Jacques Garvey: mouthpiece for a movement; Synthesis.  Studies in African American History and
-       Culture series.       
-       </note>
+      <note>TOC: Ida B. Wells-Barnett: militant muckraker; Mary Church Terrell: captivating
+       crusader; Alice Dunbar-Nelson: writing during the jim Crow era; Amy Jacques Garvey:
+       mouthpiece for a movement; Synthesis. Studies in African American History and Culture series.
+      </note>
      </bibl>
      <bibl id="p019">
       <idno>p019</idno>
@@ -28331,7 +28417,9 @@
        <publisher>Bookplace,</publisher>
        <date>1987.</date>
       </imprint>
-      <note>Black Makers of History Series.  "Readers for new literates."  Also catalogued as by Ray Uter with "Black Makers of History" as subtitle, [London]: Bookplace, 1980-1989?.  48 pp. with illustrations.</note>
+      <note>Black Makers of History Series. "Readers for new literates." Also catalogued as by Ray
+       Uter with "Black Makers of History" as subtitle, [London]: Bookplace, 1980-1989?. 48 pp. with
+       illustrations.</note>
      </bibl>
      <bibl id="p036">
       <idno>p036</idno>
@@ -28672,6 +28760,22 @@
       <note>TOC: Ai-ling Soong; Ching-ling Soong; May-ling Soong Chiang.</note>
      </bibl>
 
+     <bibl id="p041B">
+      <idno>p041B</idno>
+      <author><name type="last">Harrison</name>, <name type="first">Helen Dortch</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Noted North Carolina Women. </hi>
+      </title>
+      <imprint>
+       <date>1950.</date>
+      </imprint>
+      <note>Dissertation manuscript.</note>
+      <note>TOC: Susie Sharpe; Mrs. Gertrude Dills McKee; Mrs.Gladys Avery Tillett; Mrs.
+       Estelle Lawson Page; Mrs. Jane Simpson McKimmon; Mrs. Elizabeth Hutchinson Jackson;
+       Susan Dimock; Cornelia Phillips Spencer; Christian Reid; Mrs. Lucy H. Robertson;
+       Harriet Elliot.</note>
+     </bibl>
+
      <bibl id="p042">
       <idno>p042</idno>
       <author><name type="last">Hartman</name>, <name type="first">Mary S.</name></author>
@@ -28717,6 +28821,20 @@
       <note> </note>
      </bibl>
 
+     <bibl id="p043A">
+      <idno>p043A</idno>
+      <author><name type="last">Hatley</name>, <name type="first">Martha Francine</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Outstanding Women in Occupations Connected With the Musical World .
+       </hi>
+      </title>
+      <imprint>
+       <publisher>Texas State College for Women,</publisher>
+       <date>1947.</date>
+      </imprint>
+      <note>Thesis manuscript.</note>
+     </bibl>
+
      <bibl id="p044">
       <idno>p044</idno>
       <author><name type="last">Heaps</name>, <name type="first">Isabel Warrington</name>.</author>
@@ -28750,7 +28868,6 @@
        Leopoldina; Mariana Grajales; Gabriela Mistral; Eva Perón; Tania. </note>
      </bibl>
 
-
      <bibl id="p046">
       <idno>p046</idno>
       <author><name type="last">Hogrefe</name>, <name type="first">Pearl</name>.</author>
@@ -28775,6 +28892,21 @@
        <pubPlace>New York:</pubPlace>
        <publisher>Grosset &amp; Dunlap,</publisher>
        <date>1976.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+
+     <bibl id="p047A">
+      <idno>p047A</idno>
+      <author><name type="last">Horneman</name>, <name type="first">Mary Ann</name>.</author>
+      <title type="ref">
+       <hi rend="italics">The First Ladies of the White House (in miniature). </hi>
+      </title>
+      <imprint>
+       <pubPlace>Beloit, KS:</pubPlace>
+       <publisher>Call Press,</publisher>
+       <date>1941;</date>
+       <date>1944.</date>
       </imprint>
       <note> </note>
      </bibl>
@@ -28909,7 +29041,7 @@
        <date>1983;</date>
        <date>1991;</date>
        <date>1993.</date>
-      </imprint> 
+      </imprint>
       <imprint>
        <publisher>Summit Books,</publisher>
        <date>1991.</date>
@@ -29381,6 +29513,21 @@
 
      <bibl id="p071A">
       <idno>p071A</idno>
+      <author><name type="last">Little</name>, <name type="first">Mrs. Anthony
+       George</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Noted Daughters of Arkansas. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Blytheville, AK:</pubPlace>
+       <publisher>Charlevoix Chapter, D.A.R.,</publisher>
+       <date>1947.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+
+     <bibl id="p071B">
+      <idno>p071B</idno>
       <editor><name type="last">Loewenberg</name>, <name type="first">Bert James</name>, and <name
         type="first">Bogin</name>
        <name type="last">Ruth</name>.</editor>
@@ -29875,6 +30022,21 @@
       <note> </note>
      </bibl>
 
+     <bibl id="p086B">
+      <idno>p086B</idno>
+      <author><name type="last">Mills</name>, <name type="first">Gwen M.</name></author>
+      <title type="ref">
+       <hi rend="italics">First Ladies of the Cape. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Cape Town:</pubPlace>
+       <publisher>Maskew Miller,</publisher>
+       <date>1950;</date>
+       <date>1952.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+
      <bibl id="p087">
       <idno>p087</idno>
       <author><name type="last">Moers</name>, <name type="first">Ellen</name>.</author>
@@ -30037,6 +30199,26 @@
 
      <bibl id="p091A">
       <idno>p091A</idno>
+      <author><name type="last">Northcroft</name>, <name type="first">Dorothea Mary</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Girls of Adventure. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>F. Muller,</publisher>
+       <date>1944.</date>
+      </imprint>
+      <note>TOC: A pioneer in politics: Margaret Bondfield; A woman composer: Ethel Smyth; A
+       practical inventor: Hertha Ayrton; A great artist: Laura Knight; A social reformer: Octavia
+       Hill; A heroine of the battlefield: Elsie Inglis; A great leader: Evangeline Booth; A
+       fearless explorer: Mary Kingsley; A theatrical genius: Lilian Baylis; A gallant air woman:
+       Amy Johnson.</note>
+     </bibl>
+
+
+
+     <bibl id="p091B">
+      <idno>p091B</idno>
       <author><name type="last">O'Dair</name>, <name type="first">Barbara</name>.</author>
       <title type="ref">
        <hi rend="italics">Trouble Girls: The Rolling Stone Book of Women in Rock.</hi>
@@ -30049,8 +30231,8 @@
       <note> </note>
      </bibl>
 
-     <bibl id="p091B">
-      <idno>p091B</idno>
+     <bibl id="p091C">
+      <idno>p091C</idno>
       <author><name type="last">Olds</name>, <name type="first">Elizabeth Fagg</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of the Four Winds. </hi>
@@ -30689,7 +30871,7 @@
        <date>1991.</date>
       </imprint>
       <imprint>
-       <pubPlace></pubPlace>
+       <pubPlace/>
        <publisher>Penguin,</publisher>
        <date>1991;</date>
        <date>1992.</date>
@@ -30994,6 +31176,27 @@
       <note> </note>
      </bibl>
 
+     <bibl id="p122A">
+      <idno>p122A</idno>
+      <author><name type="last">Steffof</name>, <name type="first">Rebecca</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women of the World: Women Travellers and Explorers.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York, NY:</pubPlace>
+       <publisher>Oxford University Press,</publisher>
+       <date>1992.</date>
+      </imprint>
+      <note>Nine European or American middle-class travellers of the eighteenth-twentieth centuries,
+       including: Ida Pfeiffer; Isabella Bird Bishop; Fanny Bullock Workman; Mary Kingsley; Freya
+       Stark. A coffee-table or school-library book, in large format with an illustration for every
+       1-2 pages (drawing, map, photograph). Ch. 2: "Although for the most part women were still
+       expected to tend the hearth at home, the idea of a woman traveling no longer seemed quite as
+       outlandish as it had during Ida Pfeiffer's youth. A number of intrepid, adventurous women
+       roamed the world during the Victorian period....But no traveler was bolder, more
+       free-spirited or more renowned than Isabella Bird...."</note>
+     </bibl>
+
      <bibl id="p123">
       <idno>p123</idno>
       <author><name type="last">Stephens</name>, <name type="first">Autumn</name>.</author>
@@ -31012,22 +31215,7 @@
       </imprint>
       <note> </note>
      </bibl>
-     <bibl id="p123a">
-      <idno>p123a</idno>
-      <author><name type="last">Steffof</name>, <name type="first">Rebecca</name>.</author>
-      <title type="ref">
-       <hi rend="italics">Women of the World: Women Travellers and Explorers.</hi>
-      </title>
-      <imprint>
-       <pubPlace>New York, NY:</pubPlace>
-       <publisher>Oxford University Press,</publisher>
-       <date>1992.</date>
-      </imprint>
-      <note>Nine European or American middle-class travellers of the eighteenth-twentieth centuries, including: Ida Pfeiffer; Isabella Bird Bishop; Fanny Bullock Workman; Mary Kingsley; Freya Stark.
-      A coffee-table or school-library book, in large format with an illustration for every 1-2 pages (drawing, map, photograph).  Ch. 2: "Although for the most part women were 
-      still expected to tend the hearth at home, the idea of a  woman traveling no longer seemed quite as outlandish as it had during Ida Pfeiffer's youth.  A number of intrepid, adventurous women
-      roamed the world during the Victorian period....But no traveler was bolder, more free-spirited or more renowned than Isabella Bird...."</note>
-     </bibl>
+
      <bibl id="p124">
       <idno>p124</idno>
       <author><name type="last">Stephens</name>, <name type="first">Autumn</name>.</author>
@@ -31137,6 +31325,26 @@
        <date>1978.</date>
       </imprint>
       <note> </note>
+     </bibl>
+
+     <bibl id="p128A">
+      <idno>p128A</idno>
+      <author><name type="last">Stevens</name>, <name type="first">William Oliver</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Famous women of America.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York</pubPlace>
+       <publisher>Dodd, Mead,</publisher>
+       <date>1950;</date>
+       <date>1956.</date>
+      </imprint>
+      <note>TOC: Pocahontas; Mad Ann Bailey; Margaret Lewis; Betsy Ross; Molly Pitcher; Sally
+       Townsend; Martha Dandridge Washington; Dolly Madison; Sácajawea; Harriet Lane; Clara H.
+       Barton; Four crusaders: Lucretia Collin Mott, Harriet Beecher Stowe, Susan B. Anthony, Dr.
+       Mary Walker; Maria Mitchell; Louisa May Alcott; Two actresses: Charlotte Cushman, Clara
+       Morris; Mary Cassatt; Carrie Jacobs Bond; Anne Sullivan Macy; Mary Mapes Dodge; Jane Addams.
+      </note>
      </bibl>
 
      <bibl id="p129">
@@ -31622,16 +31830,15 @@
       <idno>p144C</idno>
       <author><name type="last">Williams</name>, <name type="first">Samey B.</name>.</author>
       <title type="ref">
-       <hi rend="italics">Spirited Black Women:
-        four decades of portraits of Afro-American
-        women. </hi>
+       <hi rend="italics">Spirited Black Women: four decades of portraits of Afro-American women.
+       </hi>
       </title>
       <imprint>
        <pubPlace>Brooklyn, New York:</pubPlace>
        <publisher>SBW Associates,</publisher>
        <date>1994.</date>
       </imprint>
-      <note></note>
+      <note/>
      </bibl>
 
      <bibl id="p144D">
@@ -31648,18 +31855,17 @@
        <date>1998.</date>
       </imprint>
       <note>TOC: Tenley Albright; Constance M.K. Applebee; Evelyn Ashford; Senda Berenson; Patty
-       Berg; Fanny Blankers-Koen; Susan Butcher; Connie Carpenter-Phinney; Florence Chadwick;
-       Nadia Comaneci; Maureen Connolly; Donna de Varona; Amelia Earhart; Gertrude Ederle;
-       Chris Evert; Peggy Fleming; Althea Gibson; Diana Golden; Steffi Graf; Janet Guthrie;
-       Dorothy Hamill; Carol Heiss-Jenkins; Sonja Henie; Flo Hyman; Joan Joyce; Florence
-       Griffith Joyner; Jackie Joyner-Kersee; Billie Jean King; Micki King; Olga Korbut; Julie
-       Krone; Marion Ladewig; Andrea Mead Lawrence; Nancy Liebermann-Cline; Nancy Lopez; Alice
-       Marble; Patricia McCormick; Floretta Doty McCutcheon; Ann Meyers; Cheryl Miller; Helen
-       Wills Moody; Shirley Muldowney; Martina Navratilova; Cindy Nelson; Mary Lou Retton;
-       Cathy Rigby; Wilma Rudloph; Joan Benoit Samuelson; Eleanora Sears; Mary Decker Slaney;
-       Patricia Head Summitt; Wyomia Tyus; Glenna Collett Vare; Grete Andersen Waitz; Kathy
-       Whitworth; Hazel Hotchkiss Wightman; Lynette Woodard; Mickey Wright; Sheila Yount;
-       Mildred "Babe" Didrickson Zaharias. </note>
+       Berg; Fanny Blankers-Koen; Susan Butcher; Connie Carpenter-Phinney; Florence Chadwick; Nadia
+       Comaneci; Maureen Connolly; Donna de Varona; Amelia Earhart; Gertrude Ederle; Chris Evert;
+       Peggy Fleming; Althea Gibson; Diana Golden; Steffi Graf; Janet Guthrie; Dorothy Hamill; Carol
+       Heiss-Jenkins; Sonja Henie; Flo Hyman; Joan Joyce; Florence Griffith Joyner; Jackie
+       Joyner-Kersee; Billie Jean King; Micki King; Olga Korbut; Julie Krone; Marion Ladewig; Andrea
+       Mead Lawrence; Nancy Liebermann-Cline; Nancy Lopez; Alice Marble; Patricia McCormick;
+       Floretta Doty McCutcheon; Ann Meyers; Cheryl Miller; Helen Wills Moody; Shirley Muldowney;
+       Martina Navratilova; Cindy Nelson; Mary Lou Retton; Cathy Rigby; Wilma Rudloph; Joan Benoit
+       Samuelson; Eleanora Sears; Mary Decker Slaney; Patricia Head Summitt; Wyomia Tyus; Glenna
+       Collett Vare; Grete Andersen Waitz; Kathy Whitworth; Hazel Hotchkiss Wightman; Lynette
+       Woodard; Mickey Wright; Sheila Yount; Mildred "Babe" Didrickson Zaharias. </note>
      </bibl>
 
      <bibl id="p145">
