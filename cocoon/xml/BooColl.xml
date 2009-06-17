@@ -4183,7 +4183,6 @@
        <date>1855;</date>
       </imprint>
       <imprint>
-       <pubPlace>New York:</pubPlace>
        <publisher>Tilton,</publisher>
        <date>1859;</date>
        <date>1865;</date>
@@ -27339,7 +27338,8 @@
       <imprint>
        <pubPlace>New Brunswick, NJ:</pubPlace>
        <publisher>Rutgers University Press,</publisher>
-       <date>1987.</date>
+       <date>1987;</date>
+       <date>1989.</date>
       </imprint>
       <note>Chapter Titles: Before objectivity: wives, patronage, and cultural reproduction in early
        nineteenth-century French science; Dorinda Outram: Botany in the breakfast room: women and
@@ -27621,7 +27621,8 @@
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Hill &amp; Wang,</publisher>
-       <date>2005.</date>
+       <date>2005;</date>
+       <date>2006.</date>
       </imprint>
       <note>TOC: Lucy Stone; Susan B. Anthony; Elizabeth Cady Stanton; Frances Willard; Alice Paul. </note>
       <note>Chapter Titles: The martyr and the missionary: Lucy Stone and Henry Blackwell; In the
@@ -27693,7 +27694,8 @@
       <imprint>
        <pubPlace>Princeton, NJ:</pubPlace>
        <publisher>Princeton University Press,</publisher>
-       <date>1987.</date>
+       <date>1987;</date>
+       <date>1990.</date>
       </imprint>
       <note>TOC: Learning and virtue: Margaret More Roper; A challenge to authority: Anne Askew;
        Building the city: women writers of the Reformation; Piety and poetry :Isabella Whitney, Anne
@@ -27795,7 +27797,8 @@
       <imprint>
        <pubPlace>Boston:</pubPlace>
        <publisher>Northeaster University Press,</publisher>
-       <date>1998.</date>
+       <date>1998;</date>
+       <date>2000.</date>
       </imprint>
       <note>Chapter Titles: Tree huggers and tree planters: Amrita Devi, Wangari Maathai, Colleen
        McCrory, Judi Bari, Harriet Bullitt, Kathryn Fuller; First lady of environmental science:
@@ -27966,7 +27969,16 @@
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Simon &amp; Schuster,</publisher>
-       <date>1988.</date>
+       <date>1988;</date>
+      </imprint>
+      <imprint>
+       <publisher>Ballantine,</publisher>
+       <date>1988;</date>
+      </imprint>
+      <imprint>
+       <publisher>Fawcett Columbine,</publisher>
+       <date>1988;</date>
+       <date>1989.</date>
       </imprint>
       <note>Biographies of American feminists. </note>
      </bibl>
@@ -28036,7 +28048,8 @@
       <imprint>
        <pubPlace>Cambridge, MA:</pubPlace>
        <publisher>Harvard University Press,</publisher>
-       <date>1995.</date>
+       <date>1995;</date>
+       <date>1997.</date>
       </imprint>
       <note> TOC: Arguing with God: Glikl Bas Judah Leib; New worlds: Marie de l'Incarnation;
        Metamorphoses: Maria Sibylla Merian. </note>
@@ -28077,6 +28090,22 @@
        <pubPlace>New York:</pubPlace>
        <publisher>Harper,</publisher>
        <date>1959.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Chappaqua, NY:</pubPlace>
+       <publisher>Christian Herald Books,</publisher>
+       <date>1959.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Westwood, NJ:</pubPlace>
+       <publisher>Barbour,</publisher>
+       <date>1959.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Independent Press,</publisher>
+       <date>1959;</date>
+       <date>1960.</date>
       </imprint>
       <note>Chapter Titles: Sect. I: Ch. 1: Vibia Perpetua; Helena; Macrina; Nonna; Marcella;
        Monica; Anthusa; Paula; Hilda; Ch. 2: Clare; Elizabeth of Hungary; Catherine of Siena; Joan
@@ -28431,7 +28460,12 @@
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Viking Press,</publisher>
-       <date>1995.</date>
+       <date>1995;</date>
+      </imprint>
+      <imprint>
+       <publisher>Penguin,</publisher>
+       <date>1995;</date>
+       <date>1996.</date>
       </imprint>
       <note>TOC: Mileva Maric Einstein; Lee Krasner; Maria Goeppert Mayer; Denise Scott Brown;
        Sandra Day O'Connor. </note>
@@ -28484,6 +28518,16 @@
        <pubPlace>New York:</pubPlace>
        <publisher>Viking Press,</publisher>
        <date>2007.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Penguin,</publisher>
+       <date>2008.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Phoenix,</publisher>
+       <date>2009.</date>
       </imprint>
       <note>TOC: Queen Marguerite, consort of Louis IX, King of France, 1221-1295; Queen Eleanor,
        consort of Henry III, King of England, 1223 or 4-1291; Queen Beatrice, consort of Charles I,
@@ -28861,8 +28905,19 @@
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
+       <publisher>Avon,</publisher>
+       <date>1983;</date>
+       <date>1991;</date>
+       <date>1993.</date>
+      </imprint> 
+      <imprint>
        <publisher>Summit Books,</publisher>
        <date>1991.</date>
+      </imprint>
+      <imprint>
+       <publisher>Harlem Moon,</publisher>
+       <date>1991;</date>
+       <date>2004.</date>
       </imprint>
       <note> </note>
      </bibl>
@@ -29068,7 +29123,13 @@
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Warner Books,</publisher>
-       <date>2001.</date>
+       <date>2001;</date>
+       <date>2002.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Godalming:</pubPlace>
+       <publisher>Melia,</publisher>
+       <date>2002.</date>
       </imprint>
       <note>Women who have served as U.S. generals. </note>
      </bibl>
@@ -29159,7 +29220,8 @@
       <imprint>
        <pubPlace>San Francisco:</pubPlace>
        <publisher>Sierra Club Books,</publisher>
-       <date>1980.</date>
+       <date>1980;</date>
+       <date>1984.</date>
       </imprint>
       <note>Biographies of women naturalists and conservationists. </note>
      </bibl>
@@ -29330,7 +29392,8 @@
        <pubPlace>University Park, PA:</pubPlace>
        <publisher>Pennsylvania State University Press,</publisher>
        <date>1976;</date>
-       <date>1978.</date>
+       <date>1978;</date>
+       <date>1996.</date>
       </imprint>
       <note>TOC: Silvia Dubois; Cornelia; Louisa Picquet; Elizabeth Keckley; Elleanor Eldridge;
        Susie King Taylor; Annie Louise Burton; Ellen Craft; Jarena Lee; Amanda Berry Smith; Ann
@@ -29634,6 +29697,7 @@
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>H. Holt,</publisher>
+       <date>1994;</date>
        <date>1996.</date>
       </imprint>
       <note>TOC: Martha Washington; Abigail Adams; Martha Jefferson; Dolley Madison; Elizabeth
@@ -29655,7 +29719,8 @@
       <imprint>
        <pubPlace>Lexington, KY:</pubPlace>
        <publisher>University Press of Kentucky,</publisher>
-       <date>2000.</date>
+       <date>2000;</date>
+       <date>2004.</date>
       </imprint>
       <note> Chapter Titles: Documentarian with props: Doris Ulmann's vision of an ideal America;
        Portraitist as documentarian: Dorothea Lange's depiction of American individualism; A radical
@@ -29739,6 +29804,10 @@
        <publisher>William Morrow,</publisher>
        <date>2000.</date>
       </imprint>
+      <imprint>
+       <publisher>Perennial,</publisher>
+       <date>2001.</date>
+      </imprint>
       <note>TOC: Kay Bailey Hutchison; Dianne Feinstein; Barbara Boxer; Patty Murray; Olympia Jean
        Snowe; Susan Collins; Mary Landrieu; Blanche Lambert-Lincoln. </note>
      </bibl>
@@ -29799,7 +29868,9 @@
       <imprint>
        <pubPlace>Minneapolis:</pubPlace>
        <publisher>Lerner Publications,</publisher>
-       <date>1995.</date>
+       <date>1995;</date>
+       <date>1997;</date>
+       <date>1998.</date>
       </imprint>
       <note> </note>
      </bibl>
@@ -29906,6 +29977,12 @@
        <publisher>Viking Press,</publisher>
        <date>1977.</date>
       </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Penguin,</publisher>
+       <date>1977;</date>
+       <date>1992.</date>
+      </imprint>
       <note>TOC: Sarah Moore Grimké; Harriet Tubman; Elizabeth Cady Stanton; Mother Jones; Anna
        Louise Strong; Charlotte Perkins Gilman; Dorothy Day. </note>
      </bibl>
@@ -29981,7 +30058,8 @@
       <imprint>
        <pubPlace>Boston:</pubPlace>
        <publisher>Houghton Mifflin,</publisher>
-       <date>1985.</date>
+       <date>1985;</date>
+       <date>1999.</date>
       </imprint>
       <note>TOC: Annie Smith Peck; Delia J. Akeley; Marguerite Harrison; Louise Arner Boyd.</note>
       <note>Biographies of women explorers.</note>
@@ -30056,7 +30134,8 @@
        <pubPlace>London;</pubPlace>
        <pubPlace>New York:</pubPlace>
        <publisher>DK,</publisher>
-       <date>2001.</date>
+       <date>2001;</date>
+       <date>2009.</date>
       </imprint>
       <note> </note>
      </bibl>
@@ -30321,7 +30400,13 @@
       <imprint>
        <pubPlace>Lawrence, KS:</pubPlace>
        <publisher>University of Kansas Press,</publisher>
-       <date>1963.</date>
+       <date>1963;</date>
+       <date>1968.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Westport, CT:</pubPlace>
+       <publisher>Greenwood Press,</publisher>
+       <date>1980.</date>
       </imprint>
       <note> </note>
      </bibl>
@@ -30598,6 +30683,17 @@
        <publisher>W.W. Norton,</publisher>
        <date>1991.</date>
       </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Hamish Hamilton,</publisher>
+       <date>1991.</date>
+      </imprint>
+      <imprint>
+       <pubPlace></pubPlace>
+       <publisher>Penguin,</publisher>
+       <date>1991;</date>
+       <date>1992.</date>
+      </imprint>
       <note/>
      </bibl>
 
@@ -30612,7 +30708,8 @@
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Columbia University Press,</publisher>
-       <date>1987.</date>
+       <date>1987;</date>
+       <date>1989.</date>
       </imprint>
       <note>TOC: Pt. 1. The difference being a woman made: The quest for graduate education: Mary
        Calkins' contest with Harvard University; The family claim: Ties that bound Milicent Shinn;
@@ -30702,6 +30799,7 @@
       <imprint>
        <pubPlace>Westport, CT:</pubPlace>
        <publisher>Greenwood Press,</publisher>
+       <date>1980;</date>
        <date>1981.</date>
       </imprint>
       <note>Chapter Titles: Women as interpreters of the visual arts. Precursors and pioneers
@@ -31425,7 +31523,8 @@
       <imprint>
        <pubPlace>Berkley:</pubPlace>
        <publisher>University of California Press,</publisher>
-       <date>1996.</date>
+       <date>1996;</date>
+       <date>1998.</date>
       </imprint>
       <note>TOC: Georgia O'Keeffe; Lee Krasner; Eva Hesse. </note>
      </bibl>
@@ -31506,7 +31605,8 @@
        <hi rend="italics">The Beecher Sisters. </hi>
       </title>
       <imprint>
-       <pubPlace>New Haven:</pubPlace>
+       <pubPlace>New Haven;</pubPlace>
+       <pubPlace>London:</pubPlace>
        <publisher>Yale Univeristy Press,</publisher>
        <date>2003.</date>
       </imprint>
@@ -31544,7 +31644,8 @@
       <imprint>
        <pubPlace>Phoenix, AZ:</pubPlace>
        <publisher>Oryx Press,</publisher>
-       <date>1992.</date>
+       <date>1992;</date>
+       <date>1998.</date>
       </imprint>
       <note>TOC: Tenley Albright; Constance M.K. Applebee; Evelyn Ashford; Senda Berenson; Patty
        Berg; Fanny Blankers-Koen; Susan Butcher; Connie Carpenter-Phinney; Florence Chadwick;
