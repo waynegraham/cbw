@@ -5699,7 +5699,8 @@
       </imprint>
       <imprint>
        <publisher>New Home Library,</publisher>
-       <date>1930.</date>
+       <date>1930;</date>
+       <date>1942.</date>
       </imprint>
       <imprint>
        <pubPlace>New York:</pubPlace>
@@ -10763,7 +10764,8 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Pickering &amp; Inglis,</publisher>
-       <date>1936.</date>
+       <date>1936;</date>
+       <date>1948.</date>
       </imprint>
       <note> TOC: Florence Nightingale; Frances Ridley Havergal; Agnes Weston, the sailors' friend;
        Fanny Jane Crosby; Mrs. Judson of Burma; Pandita Ramabai; Mrs. Walter Searle; Harriet Beecher
@@ -10954,10 +10956,12 @@
        <pubPlace>New York:</pubPlace>
        <publisher>Macmillan/Junior Literary Guild,</publisher>
        <date>1930;</date>
-       <date>1931.</date>
+       <date>1931;</date>
+       <date>1938;</date>
+       <date>1943.</date>
       </imprint>
-      <note> TOC: Helen Josephine Ferris; Ernestine Schumann Heink; Janet Scudder; Marie Curie; Jane
-       Addams; Etsu Inagaki Sugimoto. <hi rend="bold">*Pop Chart</hi>
+      <note> TOC: Ernestine Schumann Heink; Janet Scudder; Marie Curie; Jane Addams; Etsu Inagaki
+       Sugimoto. <hi rend="bold">*Pop Chart</hi>
       </note>
       <note> Note comparable collection with different contents. </note>
      </bibl>
@@ -21848,6 +21852,36 @@
       </imprint>
      </bibl>
 
+     <bibl id="a704A">
+      <ref>704A.</ref>
+      <idno>a704A</idno>
+      <author><name type="last">Scott</name>, <name type="first">George Ryley</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Ten Ladies of Joy.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Greenberg,</publisher>
+       <date>1929;</date>
+       <date>1933.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Harleian Press,</publisher>
+       <date>1929;</date>
+      </imprint>
+      <imprint>
+       <publisher>Houghton &amp; Scott-Snell,</publisher>
+       <date>1935;</date>
+      </imprint>
+      <imprint>
+       <publisher>Torchstream Books,</publisher>
+       <date>1950.</date>
+      </imprint>
+      <note>TOC: Queen Elizabeth; La Reine Margot; Ninon de Lenclos; Nell Gwyn; Catherine the Great;
+       Madame du Barry; Lady Halton; Madame de Staël; George Sand; Lady Blessington.</note>
+     </bibl>
+
      <bibl id="a705">
       <ref>705.</ref>
       <idno>a705</idno>
@@ -27859,6 +27893,24 @@
       <note> </note>
      </bibl>
 
+     <bibl id="p016A">
+      <idno>p016A</idno>
+      <author><name type="last">Boccaccio</name>, <name type="first">Giovanni</name>,<name
+        type="first">Lord Henry Parker</name><name type="last">Morley</name>, and <name type="first"
+        >Herbert G.</name><name type="last">Wright, ed.</name></author>
+      <title type="ref">
+       <hi rend="italics">Forty-Six Lives.</hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Oxford University Press,</publisher>
+       <publisher>Early English Text Society</publisher>
+       <date>1943.</date>
+      </imprint>
+      <note> Translated from Giovanni Boccaccio's (1313-1375) <hi rend="italics">De Claris
+        Mulieribus</hi> by Lord Henry Parker Morley. </note>
+     </bibl>
+
      <bibl id="p017">
       <idno>p017</idno>
       <author><name type="last">Boruff</name>, <name type="first">Mrs. Blanche
@@ -28105,6 +28157,19 @@
       <note>TOC: Angie Brooks, Margaret Kenyatta, Miriam Makeba, and ten more. </note>
      </bibl>
 
+     <bibl id="p025A">
+      <idno>p025A</idno>
+      <author><name type="last">D.</name>, <name type="first">M.R.</name></author>
+      <title type="ref">
+       <hi rend="italics">Women Leaders in Holyoke's 100 Years. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Holyoke, MA:</pubPlace>
+       <date>1949.</date>
+      </imprint>
+      <note>Dissertation manuscript. </note>
+     </bibl>
+
      <bibl id="p026">
       <idno>p026</idno>
       <author><name type="last">Dannett</name>, <name type="first">Sylvia G.L.</name></author>
@@ -28127,6 +28192,19 @@
 
      <bibl id="p026A">
       <idno>p026A</idno>
+      <author>Daughters of the American Revolution, John Paul Chapter.</author>
+      <title type="ref">
+       <hi rend="italics">Pioneer Women of Jefferson County, Indiana. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Madison, IN:</pubPlace>
+       <date>1945.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+
+     <bibl id="p026B">
+      <idno>p026B</idno>
       <author><name type="last">Davis</name>, <name type="first">Natalie Zemon</name>.</author>
       <title type="ref">
        <hi rend="italics">Women on the Margins: Three Seventeenth Century Lives. </hi>
@@ -28141,8 +28219,8 @@
        Metamorphoses: Maria Sibylla Merian. </note>
      </bibl>
 
-     <bibl id="p026B">
-      <idno>p026B</idno>
+     <bibl id="p026C">
+      <idno>p026C</idno>
       <author><name type="last">Deen</name>, <name type="first">Edith</name>.</author>
       <title type="ref">
        <hi rend="italics">All of the Women of the Bible.</hi>
@@ -28166,8 +28244,8 @@
       <note> </note>
      </bibl>
 
-     <bibl id="p026C">
-      <idno>p026C</idno>
+     <bibl id="p026D">
+      <idno>p026D</idno>
       <author><name type="last">Deen</name>, <name type="first">Edith</name>.</author>
       <title type="ref">
        <hi rend="italics">Great Women of the Christian Faith. </hi>
@@ -28770,10 +28848,9 @@
        <date>1950.</date>
       </imprint>
       <note>Dissertation manuscript.</note>
-      <note>TOC: Susie Sharpe; Mrs. Gertrude Dills McKee; Mrs.Gladys Avery Tillett; Mrs.
-       Estelle Lawson Page; Mrs. Jane Simpson McKimmon; Mrs. Elizabeth Hutchinson Jackson;
-       Susan Dimock; Cornelia Phillips Spencer; Christian Reid; Mrs. Lucy H. Robertson;
-       Harriet Elliot.</note>
+      <note>TOC: Susie Sharpe; Mrs. Gertrude Dills McKee; Mrs.Gladys Avery Tillett; Mrs. Estelle
+       Lawson Page; Mrs. Jane Simpson McKimmon; Mrs. Elizabeth Hutchinson Jackson; Susan Dimock;
+       Cornelia Phillips Spencer; Christian Reid; Mrs. Lucy H. Robertson; Harriet Elliot.</note>
      </bibl>
 
      <bibl id="p042">
@@ -28823,10 +28900,31 @@
 
      <bibl id="p043A">
       <idno>p043A</idno>
+      <author><name type="last">Hasted</name>, <name type="first">Jane Eliza</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Unsuccessful Ladies: An Intimate Account of the Aunts (Official and
+        Unofficial) of the Late Queen Victoria. </hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>R. Hale,</publisher>
+       <date>1950.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Freeport, NY:</pubPlace>
+       <publisher>Books for Libraries Press,</publisher>
+       <date>1971.</date>
+      </imprint>
+      <note>TOC: Maria Fitzherbert; The Duchess of York; Mary Anne Clarke; Mrs. Jordan; Queen
+       Adelaide; Madame De St. Laurent; The Duchess of Cumberland; Lady Augusta Murray; The Duchess
+       of Inverness; The Duchess of Cambridge.</note>
+     </bibl>
+
+     <bibl id="p043B">
+      <idno>p043B</idno>
       <author><name type="last">Hatley</name>, <name type="first">Martha Francine</name>.</author>
       <title type="ref">
-       <hi rend="italics">Outstanding Women in Occupations Connected With the Musical World .
-       </hi>
+       <hi rend="italics">Outstanding Women in Occupations Connected With the Musical World. </hi>
       </title>
       <imprint>
        <publisher>Texas State College for Women,</publisher>
@@ -29164,6 +29262,20 @@
       <note> TOC: Martha Ray; Elizabeth Tudor; Sarah Churchill, Duchess of Marlborough; Fair
        Rosamond; Elizabeth Inchbald; Becky Wells; Harriette Wilson; Lady Blessington; The Duchess of
        Lauderdale; Mary Fitton.</note>
+     </bibl>
+
+     <bibl id="p057A">
+      <idno>p057A</idno>
+      <author><name type="last">Johnson</name>, <name type="first">Davis B.</name></author>
+      <title type="ref">
+       <hi rend="italics">Pioneer Women of Ohio. </hi>
+      </title>
+      <imprint>
+       <pubPlace>S.l.:</pubPlace>
+       <publisher>s.n.,</publisher>
+       <date>1943.</date>
+      </imprint>
+      <note>Selected from <hi rend="italics">Histories of Ohio</hi> by Davis B. Johnson.</note>
      </bibl>
 
      <bibl id="p058">
@@ -29942,7 +30054,7 @@
      <bibl id="p083A">
       <idno>p083A</idno>
       <author><name type="last">Mikulski</name>, <name type="first">Barbara</name>, and<name
-        type="first">Catherine</name>,<name type="last">Whitney</name>.</author>
+        type="first">Catherine</name><name type="last">Whitney</name>.</author>
       <title type="ref">
        <hi rend="italics">Nine and Counting: The Women of the Senate. </hi>
       </title>
@@ -30476,6 +30588,21 @@
        <pubPlace>Metuchen, NJ:</pubPlace>
        <publisher>Scarecrow,</publisher>
        <date>1981.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+
+     <bibl id="p101A">
+      <idno>p101A</idno>
+      <author/>
+      <title type="ref">
+       <hi rend="italics">Prominent Women of New York: Individual Biographic Studies with Character
+        Portraits.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Historical Records, Inc.,</publisher>
+       <date>1941.</date>
       </imprint>
       <note> </note>
      </bibl>
@@ -31756,6 +31883,22 @@
        Renaissance. </note>
      </bibl>
 
+     <bibl id="p143A">
+      <idno>p143A</idno>
+      <editor><name type="last">Wanamaker</name>, <name type="first">Pearl A.</name></editor>
+      <title type="ref">
+       <hi rend="italics">Short Stories of Famous Women.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Noble &amp; Noble,</publisher>
+       <date>1949;</date>
+       <date>1965.</date>
+      </imprint>
+      <note>Children's literature. </note>
+     </bibl>
+
+
      <bibl id="p144">
       <idno>p144</idno>
       <author><name type="last">Wehlitz</name>, <name type="first">Lou Rogers</name>.</author>
@@ -31826,8 +31969,26 @@
        and "Mrs. Satan," 1871-1872; The Beecher-Tilton scandal, 1872-1875; Spiritualism, 1875-1878;
        Losses, 1878-1887; The board of lady managers, 1888-1893.</note>
      </bibl>
+
      <bibl id="p144C">
       <idno>p144C</idno>
+      <author/>
+      <title type="ref">
+       <hi rend="italics">Who's Who Among Ohio Pioneer Women.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Columbus, OH:</pubPlace>
+       <publisher>Kinney Cooper Ohioana Library,</publisher>
+       <date>1941.</date>
+      </imprint>
+      <note>TOC: Vol. 1: Prize-winning essays; Vol. 2-4: Essays listed alphabetically by person who
+       is the subject of the biography. </note>
+      <note>Essays about the life of an Ohio pioneer woman who lived in the author's own
+       county.</note>
+     </bibl>
+
+     <bibl id="p144D">
+      <idno>p144D</idno>
       <author><name type="last">Williams</name>, <name type="first">Samey B.</name>.</author>
       <title type="ref">
        <hi rend="italics">Spirited Black Women: four decades of portraits of Afro-American women.
@@ -31841,8 +32002,8 @@
       <note/>
      </bibl>
 
-     <bibl id="p144D">
-      <idno>p144D</idno>
+     <bibl id="p144E">
+      <idno>p144E</idno>
       <author><name type="last">Woolum</name>, <name type="first">Janet</name>.</author>
       <title type="ref">
        <hi rend="italics">Outstanding Women Athletes: Who They Are and How They Influenced Sports in
@@ -31919,6 +32080,22 @@
        <publisher>Dodd, Mead,</publisher>
        <date>1961;</date>
        <date>1964.</date>
+      </imprint>
+      <note> </note>
+     </bibl>
+
+     <bibl id="p147A">
+      <idno>p147A</idno>
+      <author><name type="last">Zetridou</name>, <name type="first">Pipitsa Ch.</name>, and <name
+        type="first">Helene P.</name>
+       <name type="last">Psemenou</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women of Greece.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Athens:</pubPlace>
+       <publisher>Aetos,</publisher>
+       <date>1950.</date>
       </imprint>
       <note> </note>
      </bibl>
