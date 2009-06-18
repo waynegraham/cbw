@@ -10912,7 +10912,7 @@
       <ref>281.</ref>
       <idno>a281</idno>
       <author><name type="last">Fawcett</name>, <name type="first">Millicent Garrett</name>, <name
-        type="title">Dame</name>.</author>
+       type="title">Dame.</name></author>
       <title type="ref">
        <hi rend="italics">Five Famous French Women.</hi>
       </title>
@@ -10931,8 +10931,9 @@
      <bibl id="a282">
       <ref>282.</ref>
       <idno>a282</idno>
-      <author>
-       <abbr expan="Fawcett, Millicent Garrett, Dame">---.</abbr>
+      <author><name type="last">Fawcett</name>, <name type="first">Millicent Garrett</name>, <name
+       type="title">Dame.</name>[<name
+        type="aka">Mrs. Henry</name> —]
       </author>
       <title type="ref">
        <hi rend="italics">Some Eminent Women of Our Times: Short Biographical Sketches.</hi>
@@ -10955,6 +10956,16 @@
         <hi rend="bold">*Pop Chart</hi>
       </note>
       <note> British Library. </note>
+      <note>Preface dated London 1889: "written for <hi rend="italics">The Mothers' Companion</hi>" in monthly installments 1887-1888; reprinted with permission of Messrs. Partridge, in
+      chronological order of first publication (v-vi).  "The sketches were intended chiefly for working women and young people; it was hoped it would be an encouragement to them to be 
+      reminded how much good work had been done in various ways by women."  Fawcett notes "that nearly all the best contributions of women to literature have been made during 
+      the last hundred years...there has been an equally remarkable activity in the spheres of work held to be peculiarly feminine.  So far, therefore, from greater freedom
+      and better education encouraging women to neglect womanly work, it has caused them to apply themselves to it more systematically and more successfully.  The names of 
+      Elizabeth Fry, Mary Carpenter, Sarah Martin, Agnes Jones, Florence Nightingale, and Sister Dora are a proof of this.  I believe that we owe their achievements to the same 
+      impulse which in another kind of excellence has given us Jane Austen, Charlotte Bronte, and Elizabeth Browning" (v).</note>
+      <xref>See <title>
+       <hi rend="italics">How To Make It as a Woman,</hi>
+      </title> 142.</xref>
      </bibl>
 
      <bibl id="a283">
