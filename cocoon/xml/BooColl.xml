@@ -4513,7 +4513,31 @@
       </note>
       <note> British Library. The pamphlets above rebound in single volume? </note>
      </bibl>
-
+     <bibl id="a052A">
+      <ref>52A.</ref>
+      <idno>a052A</idno>
+      <author>Baring-Gould, S[abine].       
+      </author>
+      <title type="ref">
+       <hi rend="italics">Virgin Saints and Martyrs.</hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Hutchinson,</publisher>
+       <date>1900.</date>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Crowell,</publisher>
+       <date>1901.</date>
+      </imprint>
+      <note>TOC: Blandina the slave; S. Caecilia; S. Agnes; Febronia of Sibapte; The daughter of Constantine; The sister of S. Basil; Geneviève of Paris;The sister
+       of S. Benedict; S. Bridget; The daughters of Bridget; S. Itha; S. Hilda; S. Elfleda; S. Werburga; A prophetess; S. Clara; S. Theresa; Sister Dora.
+      </note>
+      <note>Title page: S. Baring-Gould, "Author of "<hi rend="italics">The Lives of the Saints</hi>." "With sixteen full-page illustrations by F. Anger."  <hi rend="italics">New York Times</hi> 
+      obituary notes Rev. S. Baring-Gould's death on 5 June 1906 on shipboard at Port Elizabeth (dateline Cape Town, Cape Colony, June 4).  An English clergyman (M.A. Oxford 1860)
+      who traveled to and wrote about Iceland, he wrote many books on myth, church history, and medieval and regional histories.  His version of Sister Dora 
+      is largely reprinted in <xref><ref target="a527">Mabie and Stephens,</ref>, <hi rend="italics">Heroines Every Child Should Know</hi>.  Viewing Sister Dora as a "double" of Saint Theresa with more practical achievement, Baring-Gould weighs the evidence for Sister Dora's sanctity in various accounts, including Lonsdale's biography.</xref></note>
+     </bibl>
+     
      <bibl id="a053">
       <ref>53.</ref>
       <idno>a053</idno>
