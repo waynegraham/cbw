@@ -3660,9 +3660,10 @@
        <publisher>Holt,</publisher>
        <date>1927.</date>
       </imprint>
-      <note>TOC: Calamity Jane; The Woman Has to Suffer: Cattle Kate; Belle Starr, The Extinction of
-       a Comet: Pearl Heart; Mme Moustache and Some Gaming Ladies; The Claw of Respectability: Mrs.
-       William Arthur, Miss Pellet; Note on Carrie Nation; Bridget Grant. </note>
+      <note>TOC: Calamity Jane; The Woman Has to Suffer: Cattle Kate; Belle Starr; The Extinction of
+       a Comet: Lola Montez; The last Lady Road Agent: Pearl Heart; Mme. Moustache and Some Gaming Ladies; 
+       And Other Wildcats: Minnie, Poker Alice, Kitty the Schemer;The Claw of Respectability: Mrs.
+       William Arthur, Miss Pellet; A Note on Carrie Nation; Bridget Grant. </note>
      </bibl>
 
      <bibl id="a021">
@@ -4535,7 +4536,8 @@
       <note>Title page: S. Baring-Gould, "Author of "<hi rend="italics">The Lives of the Saints</hi>." "With sixteen full-page illustrations by F. Anger."  <hi rend="italics">New York Times</hi> 
       obituary notes Rev. S. Baring-Gould's death on 5 June 1906 on shipboard at Port Elizabeth (dateline Cape Town, Cape Colony, June 4).  An English clergyman (M.A. Oxford 1860)
       who traveled to and wrote about Iceland, he wrote many books on myth, church history, and medieval and regional histories.  His version of Sister Dora 
-      is largely reprinted in <xref><ref target="a527">Mabie and Stephens,</ref>, <hi rend="italics">Heroines Every Child Should Know</hi>.  Viewing Sister Dora as a "double" of Saint Theresa with more practical achievement, Baring-Gould weighs the evidence for Sister Dora's sanctity in various accounts, including Lonsdale's biography.</xref></note>
+      is largely reprinted in <xref><ref target="a527">Mabie and Stephens,</ref>, <hi rend="italics">Heroines Every Child Should Know</hi>.  Viewing Sister Dora as a "double" of Saint Theresa with more practical achievement, 
+       Baring-Gould weighs the evidence for Sister Dora's sanctity in various accounts, including Lonsdale's biography.</xref></note>
      </bibl>
      
      <bibl id="a053">
@@ -5357,7 +5359,8 @@
        <publisher>Appleton,</publisher>
        <date>1848;</date>
        <date>1849.</date>
-      </imprint> As <title>Heath's Book of Beauty (an annual),</title>
+      </imprint> As <title><hi
+       rend="italics">Heath's Book of Beauty</hi> (an annual),</title>
       <imprint>
        <pubPlace>London and New York:</pubPlace>
        <publisher> Longman [etc.],</publisher>
@@ -22977,7 +22980,7 @@
 
      <bibl id="a748"><ref>748.</ref>
       <idno>a748</idno> ---. <title type="ref">
-       <hi rend="italics">The Dogaresses of Venice.</hi>
+       <hi rend="italics">The Dogaressas of Venice.</hi>
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
