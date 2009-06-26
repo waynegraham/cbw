@@ -178,14 +178,31 @@
                 <div2 type="links">
                     <list>
                         <item>
-                            <label>External Biography One</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://this.com</addrLine></address>
+                            <label>Lonsdale, Margaret. "Sister Dora: A Biography." 6th ed. Boston:
+                                Roberts Brothers, 1880.</label>
+                            <p>Margaret Lonsdale's seminal biography about the life and work of
+                                Sister Dora. This digitized, full text edition of the biography also
+                                includes the prefaces from the first and fourth editions. Links
+                                through Google Books and Internet Archive.</p>
+                            <address><addrLine>http://books.google.com/books?id=cDcMAAAAYAAJ</addrLine></address>
+                            <address><addrLine>http://www.archive.org/stream/sisterdoraabiog01lonsgoog/sisterdoraabiog01lonsgoog_djvu.txt</addrLine></address>
                         </item>
                         <item>
-                            <label>Biography Two</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://that.com</addrLine></address>
+                            <label>Westmacott, John. "Sister Dora of Walsall."</label>
+                            <p>John Westmacott's concise biographical article about Sister Dora. A
+                                note indicates that the article is printed by permission of 'Our
+                                Inheritance Ministries', Polegate, East Sussex. Text linked through
+                                the website of the Ebenezer Baptist Church in England.</p>
+                            <address><addrLine>http://www.ebenezeroldhill.org.uk/articles/sisterdora.pdf</addrLine></address>
+                        </item>
+                        <item>
+                            <label>McGann, Susan. "Pattison, Dorothy Wyndlow [Sister Dora]
+                                (1832–1878)." Oxford Dictionary of National Biography. Ed. H. C. G.
+                                Matthew and Brian Harrison. Oxford: OUP, 2004.</label>
+                            <p>Oxford Dictionary of National Biography entry on Sister Dora written
+                                by Susan McGann. Includes a list of other sources and archive
+                                materials related to Sister Dora.</p>
+                            <address><addrLine>http://www.oxforddnb.com/view/article/21583</addrLine></address>
                         </item>
                     </list>
                 </div2>
@@ -193,7 +210,7 @@
                     <list>
                         <item>
                             <label>Birth</label>
-                            <date>1813</date>
+                            <date>1832</date>
                         </item>
                         <item>
                             <label>Event 1</label>
@@ -201,7 +218,7 @@
                         </item>
                         <item>
                             <label>Death</label>
-                            <date>1860</date>
+                            <date>1878</date>
                         </item>
                     </list>
                 </div2>
@@ -922,18 +939,145 @@
                 </div2>
             </div1>
             <div1 id="QUEEN_VICTORIA">
-                <div2 n="1" id="STUDENT_ONE_QUEEN_VICTORIA">
+                <head>
+                    <name type="full">Queen Victoria</name>
+                    <name type="search">Queen Victoria</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Queen Victoria</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>Strachey, Lytton. "Queen Victoria." New York: Harcourt, Brace
+                                &amp; Co., 1921.</label>
+                            <p>Lytton Strachey's (author of "Eminent Victorians") biography about
+                                the life and reign of Queen Victoria. This digitized, full text
+                                version of the biography includes multiple illustrations of Victoria
+                                and other prominent figures associated with her life. Text linked
+                                through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=pqEfAAAAIAAJ</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Homans, Margaret and Adrienne Munich, ed. "Remaking Queen
+                                Victoria." Cambridge: Cambridge U P, 1997.</label>
+                            <p>An authoritative collection of critical articles about Queen Victoria
+                                written by various contributors and edited by Margaret Homans and
+                                Adrienne Munich. Linked through Google Books to a preview of the
+                                text which includes a portion of the content from the articles as
+                                well as some of the illustrations which appear in the book. </p>
+                            <address><addrLine>http://books.google.com/books?id=yC4n0FfjVB0C</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Cody, David. "Queen Victoria." The Victorian Web.</label>
+                            <p>A consice biographical entry on Queen Victoria written by David Cody,
+                                Associate Professor of English at Hartwick College. Cody's short
+                                biography is linked through the database The Victorian Web. The
+                                webpage entry includes keyword links providing more information on
+                                milestones and central figures related to Victoria's reign, as well
+                                as access to an extensive portrait gallery.</p>
+                            <address><addrLine>http://www.victorianweb.org/vn/victor6.html</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Rappaport, Helen. "Queen Victoria: A Biographical Companion."
+                                ABC-CLIO, 2002.</label>
+                            <p>Helen Rappaport's alphabetized reference book on subjects related to
+                                Queen Victoria. Includes people, events, interests and places amoung
+                                the many subjects that are biographically tied to Victoria. Linked
+                                through Google Books to a preview of the text which includes a large
+                                portion of the content.</p>
+                            <address><addrLine>http://books.google.com/books?id=NLGhimIiFPoC</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Matthew, H. C. G. and K. D. Reynolds. “Victoria (1819–1901).”
+                                Oxford Dictionary of National Biography. Ed. H. C. G. Matthew and
+                                Brian Harrison. Oxford: OUP, 2004. Online ed. Ed. Lawrence Goldman.
+                                May 2009.</label>
+                            <p>Oxford Dictionary of National Biography entry on Queen Victoria
+                                written by H. C. G. Matthew and K. D. Reynolds. Includes an
+                                extensive biography as well as a list of other sources and archive
+                                materials related to Queen Victoria. Provides a link to the National
+                                Archive and images of Victoria contained in the National Portrait
+                                Gallery.</p>
+                            <address><addrLine>http://www.oxforddnb.com/view/article/36652</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>1819</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>1901</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="STUDENT_ONE_QUEEN_VICTORIA" type="bio">
                     <docAuthor>Student-One</docAuthor>
-                    <docDate>Nov. 9, 2008</docDate>
+                    <docDate>date</docDate>
                     <head>
-                        <title>Sister Dora</title>
-                        <bibl>( Originally Published 1908 )</bibl>
+                        <title>Queen Victoria</title>
+                        <bibl>Short bibliographic/origin statement</bibl>
                     </head>
                     <p>A very short biography.</p>
                 </div2>
             </div1>
             <div1 id="JOAN_OF_ARC">
-                <div2 n="1" id="LOV_JOAN_BIO">
+                <head>
+                    <name type="full">Joan of Arc</name>
+                    <name type="search">Joan of Arc</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Joan of Arc</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_JOAN_BIO" type="bio">
                     <docAuthor>Sharon Wong and Jasmine Bailey</docAuthor>
                     <docDate>Nov. 18, 2008</docDate>
                     <head>
@@ -1189,7 +1333,49 @@
                 </div2>
             </div1>
             <div1 id="FRANCES_TROLLOPE">
-                <div2 n="1" id="LOV_FRANCES_TROLLOPE_BIO">
+                <head>
+                    <name type="full">Frances Trollope</name>
+                    <name type="search">Frances Trollope</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Frances Trollope</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_FRANCES_TROLLOPE_BIO" type="bio">
                     <docAuthor>Susie Ranny and Ashley Overbay</docAuthor>
                     <docDate>Nov. 17, 2008</docDate>
                     <head>
@@ -1517,11 +1703,52 @@
                             York</rs>: AMS Press, <dateRange>1975</dateRange>. Orig. printed <rs
                             type="place" key="city">London</rs>: Bentley and Son, <dateRange
                             from="1895-01-01" to="1895-12-31">1895</dateRange>.</note>
-
                 </div2>
             </div1>
             <div1 id="FRANCES_COBBE">
-                <div2 n="1" id="LOV_FRANCES_COBBE_BIO">
+                <head>
+                    <name type="full">Frances Cobbe</name>
+                    <name type="search">Frances Cobbe</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Frances Cobbe</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_FRANCES_COBBE_BIO" type="bio">
                     <docAuthor/>
                     <docDate>November 17, 2008</docDate>
                     <head>
@@ -1840,7 +2067,49 @@
                 </div2>
             </div1>
             <div1 id="MARY_SOMERVILLE">
-                <div2 n="1" id="LOV_MARY_SOMERVILLE_BIO">
+                <head>
+                    <name type="full">Mary Somerville</name>
+                    <name type="search">Mary Somerville</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Mary Somerville</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_MARY_SOMERVILLE_BIO" type="bio">
                     <docAuthor>Erika Johnsen and Jennifer Kim</docAuthor>
                     <docDate>November 17, 2008</docDate>
                     <head>
@@ -2143,7 +2412,49 @@
                 </div2>
             </div1>
             <div1 id="ADELAIDE_PROCTER">
-                <div2 n="1" id="LOV_ADELAIDE_PROCTER_BIO">
+                <head>
+                    <name type="full">Adelaide Procter</name>
+                    <name type="search">Adelaide Procter</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Adelaide Procter</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_ADELAIDE_PROCTER_BIO" type="bio">
                     <docAuthor>Rachel Browning and Erika Todd</docAuthor>
                     <docDate>November 17, 2008</docDate>
                     <head>
@@ -2424,12 +2735,52 @@
                     <note>“<name>Matilda Hays</name>.” <name corresp="ADELAIDE_PROCTER">Adelaide
                             Anne Procter</name>. <date>16 November 2008</date>.
                         http://gerald-massey.org.uk/procter/index.htm.</note>
-
-
                 </div2>
             </div1>
             <div1 id="GRACE_DARLING">
-                <div2 n="1" id="LOV_GRACE_DARLING_BIO">
+                <head>
+                    <name type="full">Grace Darling</name>
+                    <name type="search">Grace Darling</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Grace Darling</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_GRACE_DARLING_BIO" type="bio">
                     <docAuthor>Katie Barber and Liz Rose</docAuthor>
                     <docDate>November 17, 2008</docDate>
                     <head>
@@ -2745,6 +3096,698 @@
                             >English</rs> Women. <rs type="place" key="city">London</rs>: Prion,
                             <dateRange from="1942-01-01" to="1942-12-31">1942</dateRange>.
                         pp.59-63.</note>
+                </div2>
+            </div1>
+            <div1 id="ELIZABETH_FRY">
+                <head>
+                    <name type="full">Elizabeth Fry</name>
+                    <name type="search">Elizabeth Fry</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Elizabeth Fry</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_ELIZABETH_FRY_BIO" type="bio">
+                    <docAuthor>Author's name</docAuthor>
+                    <docDate>date</docDate>
+                    <head>
+                        <title>Title of article</title>
+                        <bibl>Short bibliographic/origin statement</bibl>
+                    </head>
+                    <p>Bio paragraphs.</p>
+                </div2>
+            </div1>
+            <div1 id="FLORENCE_NIGHTINGALE">
+                <head>
+                    <name type="full">Florence Nightingale</name>
+                    <name type="search">Florence Nightingale</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Florence Nightingale</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>Baly, Monica E. and H. C. G. Matthew. “Nightingale, Florence
+                                (1820–1910).” Oxford Dictionary of National Biography. Ed. H. C. G.
+                                Matthew and Brian Harrison. Oxford: OUP, 2004. Online ed. Ed.
+                                Lawrence Goldman. May 2009.</label>
+                            <p>Oxford Dictionary of National Biography entry on Florence Nightingale
+                                written by Monica E. Baly and H. C. G. Matthew. Includes an
+                                extensive biography as well as a list of other sources and archive
+                                materials related to Florence Nightingale. Provides a link to the
+                                National Archive and images contained in the National Portrait
+                                Gallery.</p>
+                            <address><addrLine>http://www.oxforddnb.com/view/article/35241</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_FLORENCE_NIGHTINGALE_BIO" type="bio">
+                    <docAuthor>Author's name</docAuthor>
+                    <docDate>date</docDate>
+                    <head>
+                        <title>Title of article</title>
+                        <bibl>Short bibliographic/origin statement</bibl>
+                    </head>
+                    <p>Bio paragraphs.</p>
+                </div2>
+            </div1>
+            <div1 id="CHARLOTTE_BRONTE">
+                <head>
+                    <name type="full">Charlotte Bronte</name>
+                    <name type="search">Charlotte Bronte</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Charlotte Bronte</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_CHARLOTTE_BRONTE_BIO" type="bio">
+                    <docAuthor>Author's name</docAuthor>
+                    <docDate>date</docDate>
+                    <head>
+                        <title>Title of article</title>
+                        <bibl>Short bibliographic/origin statement</bibl>
+                    </head>
+                    <p>Bio paragraphs.</p>
+                </div2>
+            </div1>
+            <div1 id="LADY_JANE_GREY">
+                <head>
+                    <name type="full">Lady Jane Grey</name>
+                    <name type="search">Lady Jane Grey</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Lady Jane Grey</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_LADY_JANE_GREY_BIO" type="bio">
+                    <docAuthor>Author's name</docAuthor>
+                    <docDate>date</docDate>
+                    <head>
+                        <title>Title of article</title>
+                        <bibl>Short bibliographic/origin statement</bibl>
+                    </head>
+                    <p>Bio paragraphs.</p>
+                </div2>
+            </div1>
+            <div1 id="HANNAH_MORE">
+                <head>
+                    <name type="full">Hannah More</name>
+                    <name type="search">Hannah More</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Hannah More</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_HANNAH_MORE_BIO" type="bio">
+                    <docAuthor>Author's name</docAuthor>
+                    <docDate>date</docDate>
+                    <head>
+                        <title>Title of article</title>
+                        <bibl>Short bibliographic/origin statement</bibl>
+                    </head>
+                    <p>Bio paragraphs.</p>
+                </div2>
+            </div1>
+            <div1 id="LADY_RACHEL_RUSSELL">
+                <head>
+                    <name type="full">Lady Rachel Russell</name>
+                    <name type="search">Lady Rachel Russell</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Lady Rachel Russell</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_LADY_RACHEL_RUSSELL_BIO" type="bio">
+                    <docAuthor>Author's name</docAuthor>
+                    <docDate>date</docDate>
+                    <head>
+                        <title>Title of article</title>
+                        <bibl>Short bibliographic/origin statement</bibl>
+                    </head>
+                    <p>Bio paragraphs.</p>
+                </div2>
+            </div1>
+            <div1 id="MADAME_DE_STAEL">
+                <head>
+                    <name type="full">Madame de Stael</name>
+                    <name type="search">Madame de Stael</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Madame de Stael</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_MADAME_DE_STAEL_BIO" type="bio">
+                    <docAuthor>Author's name</docAuthor>
+                    <docDate>date</docDate>
+                    <head>
+                        <title>Title of article</title>
+                        <bibl>Short bibliographic/origin statement</bibl>
+                    </head>
+                    <p>Bio paragraphs.</p>
+                </div2>
+            </div1>
+            <div1 id="QUEEN_ELIZABETH_I">
+                <head>
+                    <name type="full">Queen Elizabeth I</name>
+                    <name type="search">Queen Elizabeth I</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Queen Elizabeth I</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_QUEEN_ELIZABETH_I_BIO" type="bio">
+                    <docAuthor>Author's name</docAuthor>
+                    <docDate>date</docDate>
+                    <head>
+                        <title>Title of article</title>
+                        <bibl>Short bibliographic/origin statement</bibl>
+                    </head>
+                    <p>Bio paragraphs.</p>
+                </div2>
+            </div1>
+            <div1 id="MADAME_ROLAND">
+                <head>
+                    <name type="full">Madame Roland</name>
+                    <name type="search">Madame Roland</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Madame Roland</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_MADAME_ROLAND_BIO" type="bio">
+                    <docAuthor>Author's name</docAuthor>
+                    <docDate>date</docDate>
+                    <head>
+                        <title>Title of article</title>
+                        <bibl>Short bibliographic/origin statement</bibl>
+                    </head>
+                    <p>Bio paragraphs.</p>
+                </div2>
+            </div1>
+            <div1 id="POCAHONTAS">
+                <head>
+                    <name type="full">Pocahontas</name>
+                    <name type="search">Pocahontas</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Pocahontas</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_POCAHONTAS_BIO" type="bio">
+                    <docAuthor>Author's name</docAuthor>
+                    <docDate>date</docDate>
+                    <head>
+                        <title>Title of article</title>
+                        <bibl>Short bibliographic/origin statement</bibl>
+                    </head>
+                    <p>Bio paragraphs.</p>
+                </div2>
+            </div1>
+            <div1 id="CAROLINE_HERSCHEL">
+                <head>
+                    <name type="full">Caroline Herschel</name>
+                    <name type="search">Caroline Herschel</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Caroline Herschel</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_CAROLINE_HERSCHEL_BIO" type="bio">
+                    <docAuthor>Author's name</docAuthor>
+                    <docDate>date</docDate>
+                    <head>
+                        <title>Title of article</title>
+                        <bibl>Short bibliographic/origin statement</bibl>
+                    </head>
+                    <p>Bio paragraphs.</p>
+                </div2>
+            </div1>
+            <div1 id="ANNE_HASSELTINE_JUDSON">
+                <head>
+                    <name type="full">Anne Hasseltine Judson</name>
+                    <name type="search">Anne Hasseltine Judson</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Anne Hasseltine Judson</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_ANNE_HASSELTINE_JUDSON_BIO" type="bio">
+                    <docAuthor>Author's name</docAuthor>
+                    <docDate>date</docDate>
+                    <head>
+                        <title>Title of article</title>
+                        <bibl>Short bibliographic/origin statement</bibl>
+                    </head>
+                    <p>Bio paragraphs.</p>
+                </div2>
+            </div1>
+            <div1 id="JENNY_LIND">
+                <head>
+                    <name type="full">Jenny Lind</name>
+                    <name type="search">Jenny Lind</name>
+                </head>
+                <div2 type="images">
+                    <list>
+                        <item>
+                            <label>Jenny Lind</label>
+                            <figure n="no00"/>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="links">
+                    <list>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Biography Two</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://that.com</addrLine></address>
+                        </item>
+                    </list>
+                </div2>
+                <div2 type="milestones">
+                    <list>
+                        <item>
+                            <label>Birth</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Event 1</label>
+                            <date>0000</date>
+                        </item>
+                        <item>
+                            <label>Death</label>
+                            <date>0000</date>
+                        </item>
+                    </list>
+                </div2>
+                <div2 n="1" id="LOV_JENNY_LIND_BIO" type="bio">
+                    <docAuthor>Author's name</docAuthor>
+                    <docDate>date</docDate>
+                    <head>
+                        <title>Title of article</title>
+                        <bibl>Short bibliographic/origin statement</bibl>
+                    </head>
+                    <p>Bio paragraphs.</p>
                 </div2>
             </div1>
         </body>
