@@ -1364,9 +1364,18 @@
                         it abundantly clear that her nature and deeds were to be venerated by
                         all.</p>
                     <p>Works Cited</p>
-                    <note><name>Gower, Ronald</name>. <name corresp="JOAN_OF_ARC">Joan of
-                        Arc</name>. <rs type="place" key="city">London</rs>: J. C. Nimmo, <dateRange
-                            from="1893-01-01" to="1893-12-31">1893</dateRange></note>
+                    <note>
+                        <bibl>
+                            <author>Gower, Ronald</author>
+                            <title>Joan of Arc</title>
+                            <imprint>
+                                <pubPlace>London</pubPlace>
+                                <publisher>J. C. Nimmo</publisher>                                
+                                <date>1893</date>
+                            </imprint>
+                            <address><addrLine>http://books.google.com/books?id=Emk1YW9hQKYC</addrLine></address>
+                        </bibl>
+                    </note>
                     <note><name>Adams, William Henry Davenport</name>. Child-Life and Girlhood of
                         Remarkable Women: A Series of Chapters from Female Biography. 2d ed., <rs
                             type="place" key="city">London</rs>: Sonnenschein, <dateRange
