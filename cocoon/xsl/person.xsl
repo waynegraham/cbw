@@ -63,11 +63,11 @@
                                 <div id="milestones">
                                     <xsl:apply-templates select="//div1[@id=$id]/div2[@type='milestones']"/>
                                 </div>
-                                <div id="links">
-                                    <xsl:apply-templates select="//div1[@id=$id]/div2[@type='links']"/>
-                                </div>
                                 <div id="texts">
                                     <div id="cbw_search"><a href="search?rows=20&amp;start=0&amp;fulltext={$person/head/name[@type='search']}&amp;action=Submit">Search for <xsl:value-of select="$person/head/name[@type='search']"/> in CBW.</a></div>
+                                </div>
+                                <div id="texts">
+                                    <div id="pop_link"><a href="popchart">Find <xsl:value-of select="$person/head/name[@type='search']"/> on the Pop Chart.</a></div>
                                 </div>
                             </div>
                             <div class="clearfix"/>
@@ -76,6 +76,9 @@
                             </div>
                             <div id="essay">
                                  <xsl:apply-templates select="//div1[@id=$id]/div2[@type='essay']"/>
+                            </div>
+                            <div id="links">
+                                <xsl:apply-templates select="//div1[@id=$id]/div2[@type='links']"/>
                             </div>
                         </div>
                     <table>
@@ -117,7 +120,7 @@
         <h3>Links</h3>
         <ul class="links">
             <xsl:for-each select="list/item">
-                <li class="item"><em><a href="{address/addrLine}"><xsl:value-of select="label"/></a></em><br/><xsl:value-of select="p"/></li>    
+                <li class="item"><b><a href="{address/addrLine}"><xsl:value-of select="label"/></a></b><br/><xsl:value-of select="p"/></li>    
             </xsl:for-each>
         </ul>
     </xsl:template>
