@@ -3175,8 +3175,8 @@
                         <item>
                             <label>Fry, Elizabeth Gurney, Katharine Fry, and Rachel Elizabeth
                                 Cresswell. "Memoir of the Life of Elizabeth Fry: With Extracts from
-                                Her Letters and Journal." Vol. I and II. Philadelphia: J.W. Moore,
-                                1847, 1848.</label>
+                                Her Letters and Journal." Vol. I &amp; II. Philadelphia: J.W.
+                                Moore, 1847, 1848.</label>
                             <p>Elizabeth Fry's memoir, written by herself and edited by her
                                 daughters. Text published in two volumes. Links to Vol. I and II
                                 accessed through Google Books.</p>
@@ -3194,22 +3194,13 @@
                             <address><addrLine>http://books.google.com/books?id=AdIAAAAAYAAJ</addrLine></address>
                         </item>
                         <item>
-                            <label>Fry, Elizabeth Gurney Observations on the Visiting,
-                                Superintendence, and Government of Female Prisoners. London: J. and
-                                A. Arch, 1827.</label>
-                            <p>Elizabeth Fry's records on women's prisons in England and the
-                                activities of the "British Ladies Society for visiting prisons" to
-                                reform the morals and conditions of female inmates. Full-text
-                                edition linked through Google Books.</p>
-                            <address><addrLine>http://books.google.com/books?id=ossXAAAAYAAJ</addrLine></address>
-                        </item>
-                        <item>
                             <label>Pitman, E.R. "Elizabeth Fry." Boston, Mass.: Roberts Brothers,
                                 1886.</label>
                             <p>Mrs. Emma R. Pitman's (author of "Lady Missionaries in Foreign
                                 Lands") biography about Elizabeth Fry. This text is a volume in the
                                 Famous Women Series of biographies. Full-text version of the
-                                biography linked through Internet Archive.</p>
+                                biography linked through Google Books and Internet Archive.</p>
+                            <address><addrLine>http://books.google.com/books?id=nIVnAAAAMAAJ</addrLine></address>
                             <address><addrLine>http://www.archive.org/stream/elizabethfry00pitm/elizabethfry00pitm_djvu.txt</addrLine></address>
                         </item>
                         <item>
@@ -3590,7 +3581,8 @@
                     <list>
                         <item>
                             <label>Roberts, William. "Memoirs of the Life and Correspondence of Mrs.
-                                Hannah More." New York: Harper &amp; Brothers, 1835.</label>
+                                Hannah More." Vol. I &amp; II. New York: Harper &amp;
+                                Brothers, 1835.</label>
                             <p>Willam Roberts' biography about Hannah More, compiled from
                                 information found in her letters. Memoir follows a chronology based
                                 upon Hannah More's correspondence. Text published in two volumes and
@@ -3738,7 +3730,7 @@
                         </item>
                         <item>
                             <label>Death</label>
-                            <date>0000</date>
+                            <date>1723</date>
                         </item>
                     </list>
                 </div2>
@@ -3754,13 +3746,13 @@
             </div1>
             <div1 id="MADAME_DE_STAEL">
                 <head>
-                    <name type="full">Madame de Stael</name>
-                    <name type="search">Madame de Stael</name>
+                    <name type="full">Madame de Staël</name>
+                    <name type="search">Madame de Staël</name>
                 </head>
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Madame de Stael</label>
+                            <label>Madame de Staël</label>
                             <figure n="no00"/>
                         </item>
                     </list>
@@ -3768,14 +3760,80 @@
                 <div2 type="links">
                     <list>
                         <item>
-                            <label>External Biography One</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://this.com</addrLine></address>
+                            <label>Staël, Anne-Louise-Germaine, Madame de. "Ten Years' Exile: Or,
+                                Memoirs of That Interesting Period of the Life of the Baroness de
+                                Staël-Holstein." London: Treuttel and Würtz, 1821.</label>
+                            <p>The memoir of Madame de Staël, written by herself between the years
+                                1810 to 1813 and edited by her son, Augustus, Baron de
+                                Staël-Holstein. Full-text edition includes the editor's preface.
+                                Text linked through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=wbQEAAAAYAAJ</addrLine></address>
                         </item>
                         <item>
-                            <label>Biography Two</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://that.com</addrLine></address>
+                            <label>Blennerhassett, Charlotte Julia von Leyden. "Madame de Staël: Her
+                                Friends and Her Influence in Politics and Literature." Vol. I, II
+                                &amp; III. Trans. Jane Eliza Gordon-Cumming. London: Chapman and
+                                Hall, 1889.</label>
+                            <p>Lady Charlotte Blennerhassett's detailed biography about Madame de
+                                Staël. Text published in three volumes. Volume I includes the
+                                author's preface. Links to Vol. I, II and III accessed through
+                                Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=jAsbAAAAYAAJ</addrLine></address>
+                            <address><addrLine>http://books.google.com/books?id=1bcfAAAAMAAJ</addrLine></address>
+                            <address><addrLine>http://books.google.com/books?id=DrgfAAAAMAAJ</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Stevens, Abel. "Madame de Staël: A Study of Her Life and Times."
+                                Vol. I &amp; II. London: J. Murray, 1881.</label>
+                            <p>Abel Stevens' comprehensive biography about Madame de Staël and the
+                                political climate in Europe during the time of her life. Text
+                                published in two volumes. Volume I includes the author's preface.
+                                Links to Vol. I and II accessed through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=DmAT1WB5JHYC</addrLine></address>
+                            <address><addrLine>http://books.google.com/books?id=_hUbAAAAYAAJ</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Duffy, Bella. "Madame de Staël." Boston: Roberts Brothers, 1887. </label>
+                            <p>Bella Duffy's biography about Madame de Staël, including a lengthy
+                                discussion of her literary works. This text is a volume in the
+                                Famous Women Series of biographies. Full-text edition includes the
+                                author's preface. Text linked through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=IxYbAAAAYAAJ</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Child, Lydia Maria Francis. "Memoirs of Madame de Staël: and of
+                                Madame Roland." New York: C. S. Francis and Company, 1854.</label>
+                            <p>Lydia M. Child's biography about Madame de Staël. The volume also
+                                includes a memoir of Madame Roland. Full-text edition linked through
+                                Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=OJIQAAAAYAAJ</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Staël, Madame de. "Selected Correspondence." Ed. Georges
+                                Solovieff and Kathleen Jameson-Cemper. Trans. K. Jameson-Cemper.
+                                Dordrecht, The Netherlands: Kluwer Academic Publishers, 2000. </label>
+                            <p>Originally compiled by Georges Solovieff and translated from French
+                                by editor Kathleen Jameson-Cemper, this text is the most extensive
+                                collection of the correspondence of Madame de Staël. The selection
+                                of letters are arranged in a chronology that reflects the political
+                                environment during the time in which they were written. This preview
+                                of the text also includes several illustrations. Linked through
+                                Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=5HtyUQYbFrkC</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Staël, Madame de, and Benjamin Constant. "Madame de Staël and
+                                Benjamin Constant: Unpublished Letters, Together with Other Mementos
+                                from the Papers Left by Mme. Charlotte de Constant." Ed. Baroness
+                                Elisabeth de Nolde. Trans. Charlotte Harwood. New York: G. P.
+                                Putnam's Sons, 1907. </label>
+                            <p>The Baroness Elizabeth de Nolde edited this previously unpublished
+                                collection of the private letters written by Madame de Staël to her
+                                long-time lover, Benjamin Constant. This digitized, full-text
+                                edition includes a foreward by the editor, several illustrations, as
+                                well as a facsimile of one of Mme. de Staël's letters. Text linked
+                                through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=CFyQrJ54LCsC</addrLine></address>
                         </item>
                     </list>
                 </div2>
@@ -3783,7 +3841,7 @@
                     <list>
                         <item>
                             <label>Birth</label>
-                            <date>0000</date>
+                            <date>1766</date>
                         </item>
                         <item>
                             <label>Event 1</label>
@@ -3791,7 +3849,7 @@
                         </item>
                         <item>
                             <label>Death</label>
-                            <date>0000</date>
+                            <date>1817</date>
                         </item>
                     </list>
                 </div2>
@@ -3874,9 +3932,50 @@
                 <div2 type="links">
                     <list>
                         <item>
-                            <label>External Biography One</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://this.com</addrLine></address>
+                            <label>Roland, Marie-Jeanne. "The private memoirs of Madame Roland." Ed.
+                                Edward Gilpin Johnson. Chicago: A.C. McClurg &amp; Co.,
+                                1901.</label>
+                            <p>The memoir of Madame Roland, written by herself. Full-text edition
+                                includes an Introduction by the editor, Edward G. Johnson as well as
+                                several illustrations. Text linked through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=YyVLAAAAMAAJ</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Child, Lydia Maria Francis. "Memoirs of Madame de Staël: and of
+                                Madame Roland." New York: C. S. Francis and Company, 1854.</label>
+                            <p>Lydia M. Child's biography about Madame Roland. The volume also
+                                includes a memoir of Madame de Staël. Full-text edition linked
+                                through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=OJIQAAAAYAAJ</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Blind, Mathilde. "Madame Roland." Boston: Roberts Brothers,
+                                1886.</label>
+                            <p>Mathilde Blind's biography about Madame Roland. This text is a volume
+                                in the Famous Women Series of biographies. Blind includes a list of
+                                further authoritative sources about Madame Roland. Full-text edition
+                                linked through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=KKwMAAAAYAAJ</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Abbott, John S. C. "History of Madame Roland, with Engravings."
+                                New York: Harper &amp; Brothers, 1850.</label>
+                            <p>This biography about Madame Roland, written by John Abbott, frames
+                                her history against a backdrop of the events of the French
+                                Revolution. The text includes Abbott's preface as well as several
+                                detailed engravings. Full-text edition linked through Google
+                                Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=CLAEAAAAYAAJ</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Taylor, Ida Ashworth. "Life of Madame Roland." London: Hutchinson
+                                &amp; Co., 1911.</label>
+                            <p>Ida A. Taylor's (author of "Lady Jane Grey and Her Times") biography
+                                about Madame Roland, which includes several illustrations as well as
+                                a list of further authoritative sources about Madame Roland.
+                                Full-text, digital facsimile of the book linked through Internet
+                                Archive.</p>
+                            <address><addrLine>http://www.archive.org/stream/lifeofmadamerola00tayluoft#page/n9/mode/2up</addrLine></address>
                         </item>
                         <item>
                             <label>Biography Two</label>
