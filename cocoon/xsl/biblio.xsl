@@ -43,10 +43,11 @@
 	<xsl:template match="note[@type='toc']">
 		<p class="notepara">
 			<xsl:text>TOC: </xsl:text>
-			<xsl:for-each select=".//item">
+			<xsl:for-each select=".//item[position() &lt; last()]">
 				<xsl:value-of select="."/>
-				<xsl:text>. </xsl:text>
+				<xsl:text>; </xsl:text>
 			</xsl:for-each>
+			<xsl:text>.</xsl:text>
 		</p>
 	</xsl:template>
 
