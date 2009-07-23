@@ -47,6 +47,7 @@
 				<xsl:value-of select="."/>
 				<xsl:text>; </xsl:text>
 			</xsl:for-each>
+			<xsl:value-of select=".//item[position() = last()]"/>
 			<xsl:text>.</xsl:text>
 		</p>
 	</xsl:template>
