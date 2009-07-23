@@ -45,9 +45,8 @@
 			<xsl:text>TOC: </xsl:text>
 			<xsl:for-each select=".//item">
 				<xsl:value-of select="."/>
-				<xsl:text>; </xsl:text>
+				<xsl:text>. </xsl:text>
 			</xsl:for-each>
-			<xsl:text>.</xsl:text>
 		</p>
 	</xsl:template>
 
