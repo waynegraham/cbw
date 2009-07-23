@@ -35,9 +35,20 @@
 	</xsl:template>
 
 	<xsl:template match="note">
-		<P class="notepara">
+		<p class="notepara">
 			<xsl:apply-templates/>
-		</P>
+		</p>
+	</xsl:template>
+	
+	<xsl:template match="note[@type='toc']">
+		<p class="notepara">
+			<xsl:text>TOC: </xsl:text>
+			<xsl:for-each select="//item">
+				<xsl:value-of select="."/>
+				<xsl:text>; </xsl:text>
+			</xsl:for-each>
+			<xsl:text>.</xsl:text>
+		</p>
 	</xsl:template>
 
 	<xsl:template match="p">
@@ -77,9 +88,9 @@
 				</u>
 			</xsl:when>
 			<xsl:when test="@rend='smallcaps'">
-				<SPAN class="smallcaps">
+				<span class="smallcaps">
 					<xsl:apply-templates/>
-				</SPAN>
+				</span>
 			</xsl:when>
 			<xsl:otherwise>
 				<i>
