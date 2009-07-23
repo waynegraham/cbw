@@ -487,6 +487,7 @@ td.mosaic img {
 	display: block;
 	margin: 20px 0;
 	border-bottom:1px dotted gray;
+	padding-bottom:10px;
 }
 .endnote {
 	margin-bottom:20px;
@@ -496,6 +497,11 @@ ul.links {
 	list-style-type:none;
 	margin-left:25px;
 	margin-bottom:25px;
+}
+.toggle_link {
+	cursor:pointer;
+	margin-left:25px;
+	padding-top:10px;
 }
 .links .item {
 	margin-bottom:10px;
