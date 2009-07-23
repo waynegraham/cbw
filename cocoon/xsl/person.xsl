@@ -2,135 +2,202 @@
 
 <!-- Person profile stylesheet for CBW.
     
-    Created May 2009 by Joseph Gilbert -->
+    Created May 2009 by Joseph Gilbert
+	Edited July 2009 by Ethan Gruber-->
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
-    <xsl:include href="header.xsl"/>
-    <xsl:include href="footer.xsl"/>
+	<xsl:include href="header.xsl"/>
+	<xsl:include href="footer.xsl"/>
 
 	<xsl:param name="id"/>
-    <xsl:variable name="person" select="//div1[@id=$id]"/>
-    
-    <xsl:template match="/">
-        <html>
-            <head>
-                <link type="text/css" href="style.css" rel="stylesheet"></link>
-                <title>The Collective Biographies of Women: Biographies</title>
-                <script src="javascript/illus.js" language="javascript" type="text/javascript"></script>
-                <script src="javascript/jcarousel/lib/jquery-1.2.3.pack.js" type="text/javascript"></script>
-                <script src="javascript/jcarousel/lib/jquery.jcarousel.pack.js" type="text/javascript"></script>
-                <script src="javascript/jcarousel/lib/thickbox/thickbox.js" type="text/javascript"></script>
-                <link href="javascript/jcarousel/lib/jquery.jcarousel.css" type="text/css" rel="stylesheet"></link>
-                <link href="thickbox.css" type="text/css" rel="stylesheet"></link>
-                <link href="javascript/jcarousel/skins/tango/skin.css" type="text/css" rel="stylesheet"></link>
-                            <script type="text/javascript">
-                                // Set thickbox loading image
-                                tb_pathToImage = "loading-thickbox.gif";
-                                
-                                jQuery(document).ready(function() {
-                                // Initialise the first and second carousel by class selector.
-                                // Note that they use both the same configuration options (none in this case).
-                                jQuery('.image-carousel').jcarousel();
-                                var loc = document.location.href;
-                                var section = loc.split('section=')[1];
-                                document.getElementById(section).className='selected';
-                                if(section == 1 || section > 25) {
-                                document.getElementById('select-link').className='selected';
-                                } else if(section > 1 &amp;&amp; section &lt; 26) {
-                                document.getElementById('anno-link').className='selected';
-                                }
-                                });
-                            </script>
-                            
-            </head>
-            <body onload="document.getElementById('home-link').className='selected';">
-                <div id="wrap" class="person">
-                    <table>
-                    <tr>
-                        <td class="headfoot">
-                            <xsl:call-template name="header"/>
-                        </td>
-                    </tr>
-                    </table>
-                        <div id="hd">
-                            <h1><xsl:value-of select="$person/head/name[@type='full']"/></h1>
-                        </div>
-                        <div id="bd">
-                            <div id="intro">
-                                <div id="pic">
-                                    <xsl:apply-templates select="//div1[@id=$id]/div2[@type='images']"/>
-                                </div>
-                                <div id="milestones">
-                                    <xsl:apply-templates select="//div1[@id=$id]/div2[@type='milestones']"/>
-                                </div>
-                                <div id="texts">
-                                    <div id="cbw_search"><a href="search?rows=20&amp;start=0&amp;fulltext={$person/head/name[@type='search']}&amp;action=Submit">Search for <xsl:value-of select="$person/head/name[@type='search']"/> in CBW.</a></div>
-                                </div>
-                                <div id="texts">
-                                    <div id="pop_link"><a href="popchart">Find <xsl:value-of select="$person/head/name[@type='search']"/> on the Pop Chart.</a></div>
-                                </div>
-                            </div>
-                            <div class="clearfix"/>
-                            <div id="bio">
-                                <xsl:apply-templates select="//div1[@id=$id]/div2[@n=1]"/> 
-                            </div>
-                            <div id="essay">
-                                 <xsl:apply-templates select="//div1[@id=$id]/div2[@type='essay']"/>
-                            </div>
-                            <div id="links">
-                                <xsl:apply-templates select="//div1[@id=$id]/div2[@type='links']"/>
-                            </div>
-                        </div>
-                    <table>
-                    <tr>
-                        <td class="headfoot">
-                            <xsl:call-template name="footer"/>
-                        </td>
-                    </tr>
-                    </table>
-                </div>
-            </body>
-        </html>
-    </xsl:template>
-    
-    <xsl:template match="div2[@type='images']">
-        <div class="full">
-            <img src="banner_img2.jpg" alt="Queen Elizabeth" class="full_img"/>
-        </div>
-        <div class="carousel">
-            <ul class="image-carousel jcarousel-skin-tango">
-                <xsl:for-each select="list/item">
-                <li>
-                    <a onclick="displayIllus('{figure/@n}', '')" title="{label}"><img alt="{label}" src="thumbs/{figure/@n}.jpg"/><div class="illus"><xsl:value-of select="label"/></div></a>                                                
-                </li>
-                </xsl:for-each>
-            </ul>
-        </div>
-    </xsl:template>
-    
-    <xsl:template match="div2[@n or @type='essay']">
-        <h3 class="text_title"><xsl:value-of select="head/title"/></h3>
-        <h4 class="text_author"><xsl:value-of select="docAuthor"/></h4>
-        <xsl:copy-of select="p[1]"></xsl:copy-of>
-        <div class="attr"><em><xsl:value-of select="head/bibl"/></em></div>
-        <a href="#">Read more...</a>
-    </xsl:template>
-    
-    <xsl:template match="div2[@type='links']">
-        <h3>Links</h3>
-        <ul class="links">
-            <xsl:for-each select="list/item">
-                <li class="item"><b><a href="{address/addrLine}"><xsl:value-of select="label"/></a></b><br/><xsl:value-of select="p"/></li>    
-            </xsl:for-each>
-        </ul>
-    </xsl:template>
-    
-    <xsl:template match="div2[@type='milestones']">
-        <h3>Milestones</h3>
-        <ul class="milestones">
-            <xsl:for-each select="list/item">
-                <li class="item"><em><xsl:value-of select="date"/></em> - <xsl:value-of select="label"/></li>
-            </xsl:for-each>
-        </ul> 
-    </xsl:template>
+
+	<xsl:template match="/">
+		<html>
+			<head>
+				<link type="text/css" href="style.css" rel="stylesheet"/>
+				<title>The Collective Biographies of Women: Biographies</title>
+				<script src="javascript/illus.js" language="javascript" type="text/javascript"/>
+				<script src="javascript/jcarousel/lib/jquery-1.2.3.pack.js" type="text/javascript"/>
+				<script src="javascript/jcarousel/lib/jquery.jcarousel.pack.js" type="text/javascript"/>
+				<script src="javascript/jcarousel/lib/thickbox/thickbox.js" type="text/javascript"/>
+				<link href="javascript/jcarousel/lib/jquery.jcarousel.css" type="text/css"
+					rel="stylesheet"/>
+				<link href="thickbox.css" type="text/css" rel="stylesheet"/>
+				<link href="javascript/jcarousel/skins/tango/skin.css" type="text/css"
+					rel="stylesheet"/>
+				<script type="text/javascript" src="javascript/toggle_essays.js"/>
+				<script type="text/javascript" src="javascript/initialize.js"/>
+			</head>
+			<body onload="document.getElementById('home-link').className='selected';">
+				<div id="wrap">
+					<table>
+						<tr>
+							<td class="headfoot">
+								<xsl:call-template name="header"/>
+							</td>
+						</tr>
+					</table>
+					<div class="content">
+						<xsl:apply-templates select="descendant::div1[@id = $id]"/>
+					</div>
+					<table>
+						<tr>
+							<td class="headfoot">
+								<xsl:call-template name="footer"/>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</body>
+		</html>
+	</xsl:template>
+
+	<xsl:template match="div1">
+		<div id="bd">
+			<div id="intro">
+				<div class="pic">
+					<xsl:apply-templates select="div2[@type='images']"/>
+				</div>
+				<div class="data">
+					<h1>
+						<xsl:value-of select="head/name[@type='full']"/>
+					</h1>
+					<div id="milestones">
+						<xsl:apply-templates select="div2[@type='milestones']"/>
+					</div>
+					<div id="cbw_search">
+						<a
+							href="search?rows=20&amp;start=0&amp;fulltext={head/name[@type='search']}&amp;action=Submit"
+							>Search for <xsl:value-of select="head/name[@type='search']"/> in
+							CBW.</a>
+					</div>
+					<div id="pop_link">
+						<a href="popchart#{head/name[@type='search']}">Find <xsl:value-of
+								select="head/name[@type='search']"/> on the Pop Chart.</a>
+					</div>
+				</div>
+			</div>
+
+			<xsl:apply-templates select="div2[@type='bio']"/>
+			<xsl:apply-templates select="div2[@type='essay']"/>
+			<xsl:apply-templates select="div2[@type='links']"/>
+
+		</div>
+	</xsl:template>
+
+	<xsl:template match="div2[@type='images']">
+		<div class="full">
+			<img src="banner_img2.jpg" alt="Queen Elizabeth" class="full_img"/>
+		</div>
+		<div class="carousel">
+			<ul class="image-carousel jcarousel-skin-tango">
+				<xsl:for-each select="list/item">
+					<li>
+						<a onclick="displayIllus('{figure/@n}', '')" title="{label}">
+							<img alt="{label}" src="thumbs/{figure/@n}.jpg"/>
+							<div class="illus">
+								<xsl:value-of select="label"/>
+							</div>
+						</a>
+					</li>
+				</xsl:for-each>
+			</ul>
+		</div>
+	</xsl:template>
+
+	<xsl:template match="div2[@type='essay'] | div2[@type='bio']">
+		<div class="{@type}">
+			<h3 class="text_title">
+				<xsl:value-of select="head/title"/>
+			</h3>
+			<xsl:if test="string(docAuthor)">
+				<h4 class="text_author">
+					<xsl:value-of select="docAuthor"/>
+				</h4>
+			</xsl:if>
+			<xsl:apply-templates select="p[1]"/>
+			<div id="{generate-id(.)}_div" style="display:none;" class="hidden">
+				<xsl:apply-templates select="p | note"/>
+			</div>
+			<div class="attr">
+				<em>
+					<xsl:value-of select="head/bibl"/>
+				</em>
+			</div>
+			<xsl:if test="p[2]">
+				<a id="toggle_{generate-id(.)}" class="toggle_link">Read more...</a>
+			</xsl:if>
+		</div>
+	</xsl:template>
+
+	<xsl:template match="div2[@type='links']">
+		<div id="links">
+			<h3>Links</h3>
+			<ul class="links">
+				<xsl:for-each select="list/item">
+					<li class="item">
+						<b>
+							<a href="{address/addrLine}">
+								<xsl:value-of select="label"/>
+							</a>
+						</b>
+						<br/>
+						<xsl:value-of select="p"/>
+					</li>
+				</xsl:for-each>
+			</ul>
+		</div>
+	</xsl:template>
+
+	<xsl:template match="div2[@type='milestones']">
+		<h3>Milestones</h3>
+		<dl class="milestones">
+			<xsl:for-each select="list/item">
+				<div>
+					<dt>
+						<xsl:value-of select="date"/>
+					</dt>
+					<dd>
+						<xsl:value-of select="label"/>
+					</dd>
+				</div>
+			</xsl:for-each>
+		</dl>
+	</xsl:template>
+
+	<xsl:template match="div2[@type='bio']/p | div2[@type='essay']/p">
+		<xsl:choose>
+			<xsl:when test="position() = 1">
+				<p id="{generate-id(parent::node())}_p">
+					<xsl:apply-templates/>
+				</p>
+			</xsl:when>
+			<xsl:otherwise>
+				<p>
+					<xsl:apply-templates/>
+				</p>
+			</xsl:otherwise>
+		</xsl:choose>
+
+	</xsl:template>
+
+	<xsl:template match="name">
+		<xsl:choose>
+			<xsl:when test="@corresp = $id or not(string(@corresp))">
+				<xsl:value-of select="."/>
+			</xsl:when>
+			<xsl:otherwise>
+				<a href="?id={@corresp}">
+					<xsl:value-of select="."/>
+				</a>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>
+
+	<xsl:template match="note">
+		<div class="endnote">
+			<xsl:apply-templates/>
+		</div>
+	</xsl:template>
+
 </xsl:stylesheet>

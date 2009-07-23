@@ -183,7 +183,9 @@
 			<!-- displays individual person's page -->
 			<map:match pattern="people">
 				<map:generate src="xml/bios.xml" label="record"/>
-				<map:transform src="xsl/person.xsl" label="basiccontent"/>
+				<map:transform src="xsl/person.xsl" label="basiccontent">
+					<map:parameter name="use-request-parameters" value="true"/>
+				</map:transform>
 				<map:serialize type="html"/>
 			</map:match>
 
