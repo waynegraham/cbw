@@ -1407,14 +1407,58 @@
                 <div2 type="links">
                     <list>
                         <item>
-                            <label>External Biography One</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://this.com</addrLine></address>
+                            <label>Trollope, Frances Eleanor. "Frances Trollope: Her Life and
+                                Literary Work from George III. to Victoria." Vol. I &amp; II.
+                                London: R. Bently and Son, 1895. </label>
+                            <p>The authoritative biography about Frances Trollope written by her
+                                daughter-in-law, Frances Eleanor Trollope. The memoir includes
+                                correspondence, anecdotes, and elegies dedicated to France Trollope.
+                                Text published in two volumes. Volume I contains the author's
+                                preface. Links to Vol. I and II accessed through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=B51LAAAAMAAJ</addrLine></address>
+                            <address><addrLine>http://books.google.com/books?id=rpxLAAAAMAAJ</addrLine></address>
                         </item>
                         <item>
-                            <label>Biography Two</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://that.com</addrLine></address>
+                            <label>Farewell, Jeanne. "Mrs. Trollope's Vituperative View of
+                                Americans." The Victorian Web. 1 Apr 2008.</label>
+                            <p>Jeanne Farewell dicusses Frances Trollope's perceptions of her
+                                travels in America and the experiences that led her to write
+                                "Domestic Manners of the Americans" (1832) and "The Barnabys in
+                                America" (1843). Article linked through the website The Victorian
+                                Web.</p>
+                            <address><addrLine>http://www.victorianweb.org/authors/francestrollope/farewell1.html</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Ayres, Brenda, ed. "Frances Trollope and the Novel of Social
+                                Change." Westport, CT: Greenwood Publishing Group, 2002.</label>
+                            <p>An authoritative collection of critical articles about the work of
+                                Frances Trollope, written by various contributors and edited by
+                                Brenda Ayres. Linked through Google Books to a preview of the text
+                                which includes the editor's preface, a portion of the content from
+                                the articles, as well as facsimiles of illustrations from Frances
+                                Trollope's fiction that appear in Ayres' collection.</p>
+                            <address><addrLine>http://books.google.com/books?id=2dLXSbfLCMAC</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Sadleir, Michael. "Trollope." Read Books, 2006. </label>
+                            <p>Michael Sadleir's book about Anthony Trollope includes a lenghty
+                                biographical section on his mother, Frances Trollope. Sadleir
+                                discusses the domestic life, political opinions, literary work, and
+                                travels of Frances Trollope. Linked through Google Books to a
+                                preview of the text.</p>
+                            <address><addrLine>http://books.google.com/books?id=7BIELUjQLpIC</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Neville-Sington, Pamela. "Trollope, Frances (1779–1863)." Oxford
+                                Dictionary of National Biography. Ed. H. C. G. Matthew and Brian
+                                Harrison. Oxford: OUP, 2004. Online ed. Ed. Lawrence Goldman. May
+                                2008. </label>
+                            <p>Oxford Dictionary of National Biography entry on Frances Trollope
+                                written by Pamela Neville-Sington (author of "Fanny Trollope: The
+                                Life and Adventures of a Clever Woman," 1997). This comprehensive
+                                biographical record includes a list of other sources and archive
+                                materials related to Frances Trollope.</p>
+                            <address><addrLine>http://www.oxforddnb.com/view/article/27751</addrLine></address>
                         </item>
                     </list>
                 </div2>
@@ -1422,7 +1466,7 @@
                     <list>
                         <item>
                             <label>Birth</label>
-                            <date>0000</date>
+                            <date>1779</date>
                         </item>
                         <item>
                             <label>Event 1</label>
@@ -1430,7 +1474,7 @@
                         </item>
                         <item>
                             <label>Death</label>
-                            <date>0000</date>
+                            <date>1863</date>
                         </item>
                     </list>
                 </div2>
@@ -4108,6 +4152,15 @@
                             <address><addrLine>http://books.google.com/books?id=mdxHAAAAIAAJ</addrLine></address>
                         </item>
                         <item>
+                            <label>Mitchell, Maria. "Maria Mitchell's Reminiscences of the
+                                Herschels" The Century. Vol. 38, 1889.</label>
+                            <p>Maria Mitchell, America's first professional female astronomer,
+                                writes about her relationship with the Herschel family and reflects
+                                upon Caroline's character and her work in science. Article linked
+                                through the About.com: Women's History website.</p>
+                            <address><addrLine>http://womenshistory.about.com/library/etext/bl_mitchell_herschel.htm</addrLine></address>
+                        </item>
+                        <item>
                             <label>Hoskin, Michael. "Herschel, Caroline Lucretia (1750–1848)."
                                 Oxford Dictionary of National Biography. Ed. H. C. G. Matthew and
                                 Brian Harrison. Oxford: OUP, 2004. Online ed. Ed. Lawrence Goldman.
@@ -4125,9 +4178,13 @@
                             <address><addrLine>http://www.bath-preservation-trust.org.uk/index.php?id=8</addrLine></address>
                         </item>
                         <item>
-                            <label>External Biography One</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://this.com</addrLine></address>
+                            <label>Bryant, Greg. "The Comets of Caroline Herschel." Universe. May
+                                1997.</label>
+                            <p>Astronomer Greg Bryant catalogs the comets found by Caroline Herschel
+                                as well as dates and discusses the circumstances of their discovery.
+                                From Bryant's article in Universe magazine, linked through his
+                                website.</p>
+                            <address><addrLine>http://gchbryant.tripod.com/Articles/Caroline0597.htm</addrLine></address>
                         </item>
                     </list>
                 </div2>
@@ -4173,14 +4230,80 @@
                 <div2 type="links">
                     <list>
                         <item>
-                            <label>External Biography One</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://this.com</addrLine></address>
+                            <label>Knowles, James Davis. "Memoir of Ann H. Judson: Late Missionary
+                                to Burmah; Including a History of the American Baptist Mission in
+                                the Burman Empire." Boston: Gould, Kendall, and Lincoln, 1844
+                                (1829). </label>
+                            <p>Pastor James D. Knowles' detailed biography about Ann H. Judson,
+                                which includes extracts from her journal and letters. Written at the
+                                request of the Baptist Board of Missions, the "Memoir of Ann H.
+                                Judson" was published in several editions. This edition provides "a
+                                continuation of the history of the mission to the present year," as
+                                well as the author's preface from the first edition. Full-text link
+                                through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=fK9FAAAAIAAJ</addrLine></address>
                         </item>
                         <item>
-                            <label>Biography Two</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://that.com</addrLine></address>
+                            <label>Knowles, James Davis. "Life of Mrs. Ann H. Judson: Late
+                                Missionary to Burmah." Philadelphia: American Sunday School Union,
+                                1830. </label>
+                            <p>James D. Knowles wrote this condensed version of his "Memoir of Ann
+                                H. Judson" at the request of the American Sunday School Union. This
+                                text also includes several detailed illustrations of Burmah that are
+                                not in the "Memoir." Full-text edition provides the author's
+                                preface. Linked through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=Dz4XAAAAYAAJ</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Wyeth, Walter Newton. "Ann H. Judson: A Memorial." Cincinnati,
+                                OH: Published by the author, 1888.</label>
+                            <p>Walter N. Wyeth's biography memorializing the life and missionary
+                                work of Ann H. Judson. Wyeth's preface is included, in which he
+                                discusses the importance of producing such biographies as will
+                                encourage young people to commit themselves to Christian missionary
+                                work. Full-text edition linked through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=E9kPAAAAYAAJ</addrLine></address>
+                        </item>
+                        <item>
+                            <label>"Christian Biography: Lives of William Cowper, Mrs. Ann H.
+                                Judson, Anna Jane Linnard, Matthew Henry." Vol. VI. London:
+                                Religious Tract Society, 1799. </label>
+                            <p>From the Religious Tract Society's Christian Biography series, this
+                                volume devotes a section to Ann H. Judson, providing a biography
+                                based upon her journal entries and letters. Full-text edition of the
+                                volume linked through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=tKoXAAAAYAAJ</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Hervey, George Winfred. "The Story of Baptist Missions in Foreign
+                                Lands: From the Time of Carey to the Present Date." St. Louis:
+                                Chancy R. Barnes, 1884. </label>
+                            <p>Outlining the history of British and American Baptist Missions,
+                                George W. Hervey's text contains a chapter on Ann H. Judson which
+                                focuses specifically on the "excellences" of her character.
+                                Full-text edition linked through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=Wq8PAAAAIAAJ</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Bubbard, Ethel Daniels. "Ann of Ava." New York: Missionary
+                                Education Movement of the United States and Canada, 1913. </label>
+                            <p>Ethel D. Bubbard's biography for young people about Ann H. Judson is
+                                distingished by its readable, narrative tone. Excerpts from Ann's
+                                journal are dispersed throughout the text. This edition also
+                                contains several illustrations. Full-text link accessed through
+                                Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=VLYWAAAAIAAJ</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Robert, Dana L., "Judson, Ann ('Nancy') (Hasseltine)."
+                                Biographical Dictionary of Christian Missions. Ed. Gerald H.
+                                Anderson. New York: Macmillan Reference USA, 1998. 346.</label>
+                            <p>Dana L. Robert's brief entry on Ann H. Judson from the "Biographical
+                                Dictionary of Christian Missions." Webpage also provides a
+                                bibliography as well as links to other biographical sources about
+                                Ann H. Judson. Linked through the Boston University, School of
+                                Theology's History of Missiology website.</p>
+                            <address><addrLine>http://digilib.bu.edu/mission/component/content/article/18-j2l/25-judson-ann-hasseltine-1789-1826.html</addrLine></address>
                         </item>
                     </list>
                 </div2>
@@ -4188,7 +4311,7 @@
                     <list>
                         <item>
                             <label>Birth</label>
-                            <date>0000</date>
+                            <date>1789</date>
                         </item>
                         <item>
                             <label>Event 1</label>
@@ -4196,7 +4319,7 @@
                         </item>
                         <item>
                             <label>Death</label>
-                            <date>0000</date>
+                            <date>1826</date>
                         </item>
                     </list>
                 </div2>
@@ -4226,14 +4349,65 @@
                 <div2 type="links">
                     <list>
                         <item>
-                            <label>External Biography One</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://this.com</addrLine></address>
+                            <label>Holland, Henry Scott, and William Smyth Rockstro. "Memoir of
+                                Madame Jenny Lind-Goldschmidt: Her Early Art-Life and Dramatic
+                                Career, 1820-1851." Vol. I &amp; II. London: J. Murray, 1891. </label>
+                            <p>Henry S. Holland and William S. Rockstro's comprehensive biography
+                                about Jenny Lind, based on her letters, journal entries and other
+                                documents collected by her husband, Otto Goldschmidt. The memoir is
+                                published in two volumes and contains the authors' preface as well
+                                as several illustrations. Full-text links to Vol. I and II accessed
+                                through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=2aQNAAAAIAAJ</addrLine></address>
+                            <address><addrLine>http://books.google.com/books?id=w6UNAAAAIAAJ</addrLine></address>
                         </item>
                         <item>
-                            <label>Biography Two</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://that.com</addrLine></address>
+                            <label>Rosenberg, Charles G. "Jenny Lind: Her Life, Her Struggles, and
+                                Her Triumphs." New York: Stringer &amp; Townsend, 1850.</label>
+                            <p>Charles G. Rosenberg's biography about the life and career of Jenny
+                                Lind. Full-text edition linked through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=EvEPAAAAYAAJ</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Rockstro, William Smyth, and Otto Goldschmidt. "Jenny Lind: A
+                                Record and Analysis of the 'Method' of the Late Madame Jenny
+                                Lind-Goldschmidt." London: Novello, 1894. </label>
+                            <p>William S. Rockstro discusses the vocal method employed by Jenny
+                                Lind. The second part of the volume, edited by her husband Otto
+                                Goldschmidt, contains facsimiles of musical scores showing the notes
+                                as sung by Jenny Lind and descriptions of her onstage performances
+                                of these songs. Full-text edition linked through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=_fAPAAAAYAAJ</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Willis, Nathaniel Parker. "Memoranda of the Life of Jenny Lind."
+                                Philadelphia: Robert E. Peterson, 1851.</label>
+                            <p>Written while she was still performing onstage, Nathaniel P. Willis'
+                                biography about Jenny Lind celebrates her musical accomplishments.
+                                Willis provides letters and ancedotes about Jenny Lind to better
+                                aquaint her adoring audience with the story of her life. Full-text
+                                edition linked through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=U_EPAAAAYAAJ</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Rosen, Carole. "Lind , Jenny (1820–1887)." Oxford Dictionary of
+                                National Biography. Ed. H. C. G. Matthew and Brian Harrison. Oxford:
+                                OUP, 2004.</label>
+                            <p>Oxford Dictionary of National Biography entry on Jenny Lind written
+                                by Carole Rosen. This comprehensive biographical record includes a
+                                list of other sources and archive materials related to Jenny
+                                Lind.</p>
+                            <address><addrLine>http://www.oxforddnb.com/view/article/16671</addrLine></address>
+                        </item>
+                        <item>
+                            <label>"The Jenny Lind Archive." Center for History and New Media: The
+                                Lost Museum Archive.</label>
+                            <p>From the Jenny Lind exhibit on The Lost Museum website, this archive
+                                of materials contains newspaper articles, concert advertizements,
+                                portraits, cartoons, and memorabilia related to the singer. The
+                                Jenny Lind Archive is linked through George Mason University's
+                                Center for History and New Media webpage.</p>
+                            <address><addrLine>http://chnm.gmu.edu/lostmuseum/nightingale/</addrLine></address>
                         </item>
                     </list>
                 </div2>
@@ -4241,7 +4415,7 @@
                     <list>
                         <item>
                             <label>Birth</label>
-                            <date>0000</date>
+                            <date>1820</date>
                         </item>
                         <item>
                             <label>Event 1</label>
@@ -4249,7 +4423,7 @@
                         </item>
                         <item>
                             <label>Death</label>
-                            <date>0000</date>
+                            <date>1887</date>
                         </item>
                     </list>
                 </div2>
