@@ -58,13 +58,20 @@
 				<div class="pic">
 					<xsl:apply-templates select="div2[@type='images']"/>
 				</div>
-				<div class="data">
+				<div class="data" id="data_top">
 					<h1>
-						<xsl:value-of select="head/name[@type='full']"/>
+						<xsl:value-of select="head/name[@type='full']/text()"/>
 					</h1>
+					<xsl:if test="head/name[@type='full']/seg[@type='alt_name']">					
+						<h2>
+							<xsl:value-of select="head/name[@type='full']/seg[@type='alt_name']"/>
+						</h2>
+					</xsl:if>
 					<div id="milestones">
 						<xsl:apply-templates select="div2[@type='milestones']"/>
 					</div>
+				</div>
+				<div class="data" id="data_bottom">
 					<div id="cbw_search">
 						<a
 							href="search?rows=20&amp;start=0&amp;fulltext={head/name[@type='search']}&amp;action=Submit"

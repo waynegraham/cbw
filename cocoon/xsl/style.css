@@ -464,24 +464,31 @@ td.mosaic img {
 .pic {
 	float: left;
 	margin-right: 20px;
-	width: 50%;
+	width: 35%;
 }
 .pic .carousel {
 	margin: 10px 20px;
 }
 .pic .full {
-	width: 326px;
-	max-height: 314px;
+	width: 240px;
+	max-height: 240px;
 	overflow: hidden;
 	margin: 0 15px;
 }
 .pic .full img {
-	min-width: 326px;
+	min-width: 240px;
 }
 .data {
 	float:right;
-	width:40%;
 	margin-right:20px;
+}
+#data_top {
+    height: 300px;
+    width: 60%;
+}
+#data_bottom {
+    height: 50px;
+    width: 30%;
 }
 .bio, .essay {
 	display: block;
@@ -507,7 +514,7 @@ ul.links {
 	margin-bottom:10px;
 }
 #cbw_search, #pop_link {
-	margin-bottom:25px;
+	margin-bottom:10px;
 }
 dl {
 	margin:0 0 25px 25px;
@@ -523,4 +530,10 @@ dt {
 }
 dd {
 	margin-left:75px;
+}
+#intro .jcarousel-skin-tango .jcarousel-container-horizontal, #intro .jcarousel-skin-tango .jcarousel-clip-horizontal{
+    width: 360px;
+}
+#milestones h3{
+    margin: 10px 0 0 25px;
 }
