@@ -152,7 +152,7 @@
         <body>
             <div1 id="SISTER_DORA">
                 <head>
-                    <name type="full">Sister Dora (Dorothy Wyndlow Pattison)</name>
+                    <name type="full">Sister Dora<seg type="alt_name">Dorothy Wyndlow Pattison</seg></name>
                     <name type="search">Sister Dora</name>
                 </head>
                 <div2 type="images">
@@ -163,15 +163,15 @@
                         </item>
                         <item>
                             <label>Sister Dora</label>
-                            <figure n="no27"/>
+                            <figure n="no261"/>
                         </item>
                         <item>
                             <label>Sister Dora</label>
-                            <figure n="no28"/>
+                            <figure n="no262"/>
                         </item>
                         <item>
                             <label>Sister Dora</label>
-                            <figure n="no29"/>
+                            <figure n="no263"/>
                         </item>
                     </list>
                 </div2>
