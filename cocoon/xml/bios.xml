@@ -152,7 +152,8 @@
         <body>
             <div1 id="SISTER_DORA">
                 <head>
-                    <name type="full">Sister Dora<seg type="alt_name">Dorothy Wyndlow Pattison</seg></name>
+                    <name type="full">Sister Dora<seg type="alt_name">Dorothy Wyndlow
+                        Pattison</seg></name>
                     <name type="search">Sister Dora</name>
                 </head>
                 <div2 type="images">
@@ -2282,8 +2283,15 @@
                         </item>
                         <item>
                             <label>Mary Somerville Library</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://this.com</addrLine></address>
+                            <label>Morse, Theodore W. "Mound City had The State's Oldest Library."
+                                Mound City Republic, 1941.</label>
+                            <p>Theodore W. Morse's article commemorating the 65th anniversary of the
+                                Mary Somerville Library, founded by a women's literary group (the
+                                Mary Somerville Library Society) in 1876. The article provides a
+                                background of the historical library located in Mound City, KS,
+                                including the significance of its name. Linked through the Mound
+                                City.org website.</p>
+                            <address><addrLine>http://www.moundcity.org/index.php?option=com_content&amp;view=article&amp;id=61&amp;Itemid=58</addrLine></address>
                         </item>
                     </list>
                 </div2>
@@ -2621,14 +2629,70 @@
                 <div2 type="links">
                     <list>
                         <item>
-                            <label>External Biography One</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://this.com</addrLine></address>
+                            <label>Procter, Adelaide Anne; Dickens, Charles. "The Poems of Adelaide
+                                A. Procter." Boston: Houghton, Mifflin &amp; Co., 1881.</label>
+                            <p>This complete collection of Adelaide Procter's poetry contains a
+                                memorial biography written by Charles Dickens in 1866 at the request
+                                of her family. Dickens' Introduction discusses Procter's domestic
+                                experiences and literary work as well as relates family anecdotes
+                                which illustrate her personal character. Full-text edition linked
+                                through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=2g8VAAAAYAAJ&amp;printsec=frontcover&amp;dq=adelaide+procter</addrLine></address>
                         </item>
                         <item>
-                            <label>Biography Two</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://that.com</addrLine></address>
+                            <label>Belloc, Bessie Rayner. "In a Walled Garden." New York: Macmillan
+                                &amp; Co., 1895.</label>
+                            <p>Bessie Belloc's book includes a chapter entitled, "Montagus and
+                                Procters," with a section on "The Parents of Adelaide Procter."
+                                Belloc provides a biography of Adalaide's short life based on her
+                                personal connection with the Procter family and writes of her
+                                recollections from the night of Adelaide's death. Full-text link to
+                                the book accessed through Google Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=H8C5NwmWVCwC&amp;printsec=titlepage&amp;source=gbs_navlinks_s#v=onepage&amp;q=&amp;f=false</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Taylor, Emily. "Memories of Some Contemporary Poets, With
+                                Selections from Their Writings." London: Longman, Green &amp;
+                                Co., 1868.</label>
+                            <p>Emily Taylor's collection of short biographies about poets includes a
+                                tribute to Adelaide Procter. Full-text edition contains the author's
+                                preface and several of Procter's poems. Linked through Google
+                                Books.</p>
+                            <address><addrLine>http://books.google.com/books?id=mlwCAAAAQAAJ&amp;printsec=titlepage&amp;source=gbs_navlinks_s</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Lennox, Patrick. "Adelaide Anne Procter." The Catholic
+                                Encyclopedia. Vol. 12. New York: Robert Appleton Company,
+                                1911.</label>
+                            <p>Published in The Catholic Encyclopedia, Patrick Lennox's biographical
+                                entry about Adelaide Procter, a Catholic convert. Lennox focuses on
+                                her charitable nature and discusses her devotional poetry. The
+                                article includes a list of sources for further reading. Transcribed
+                                by John Paul Bradford for New Advent and accessed through the
+                                periodical's website.</p>
+                            <address><addrLine>http://www.newadvent.org/cathen/12450b.htm</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Gregory, Gill. "Procter, Adelaide Anne (1825–1864)." Oxford
+                                Dictionary of National Biography. Ed. H. C. G. Matthew and Brian
+                                Harrison. Oxford: OUP, 2004. Online ed. Ed. Lawrence Goldman. May
+                                2007. </label>
+                            <p>Oxford Dictionary of National Biography entry on poet Adelaide
+                                Procter written by Gill Gregory. Includes a concise biography as
+                                well as a list of other sources and archive materials related to
+                                Adelaide Procter.</p>
+                            <address><addrLine>http://www.oxforddnb.com/view/article/22834</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Petticrew, Ian. "Adelaide Anne Procter: Social Reformer and a
+                                Compelling and Remarkable Woman."</label>
+                            <p>This website dedicated to Victorian author and social reformer Gerald
+                                Massey and his contemporaries contains a comprehensive biographical
+                                section about Adelaide Procter. The entry on Adelaide Procter also
+                                provides the full-text of other biographies about her and newspaper
+                                reviews of her work, as well as several poems and hymns written by
+                                Procter.</p>
+                            <address><addrLine>http://gerald-massey.org.uk/procter/index.htm</addrLine></address>
                         </item>
                     </list>
                 </div2>
@@ -2636,7 +2700,7 @@
                     <list>
                         <item>
                             <label>Birth</label>
-                            <date>0000</date>
+                            <date>1825</date>
                         </item>
                         <item>
                             <label>Event 1</label>
@@ -2644,7 +2708,7 @@
                         </item>
                         <item>
                             <label>Death</label>
-                            <date>0000</date>
+                            <date>1864</date>
                         </item>
                     </list>
                 </div2>
@@ -2952,9 +3016,38 @@
                             <address><addrLine>http://this.com</addrLine></address>
                         </item>
                         <item>
-                            <label>Biography Two</label>
+                            <label>External Biography One</label>
                             <p>A short description</p>
-                            <address><addrLine>http://that.com</addrLine></address>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Matthew, H. C. G. "Darling, Grace Horsley (1815–1842)." Oxford
+                                Dictionary of National Biography. Ed. H. C. G. Matthew and Brian
+                                Harrison. Oxford: OUP, 2004. </label>
+                            <p>H. C. G. Matthew's Oxford Dictionary of National Biography entry on
+                                heroine Grace Darling, famed for her part in the rescue of
+                                passengers from the wrecked steamship, "Forfarshire." This concise
+                                biographical record includes a list of other sources and archive
+                                materials related to Grace Darling.</p>
+                            <address><addrLine>http://www.oxforddnb.com/view/article/7155</addrLine></address>
+                        </item>
+                        <item>
+                            <label>Grace Darling Museum</label>
+                            <p>The website of the Grace Darling Museum, part of the Royal National
+                                Lifeboat Institution Heritage Trust in Great Britian. The webpage
+                                includes "The Grace Darling Story" and other details about the
+                                museum dedicated to this heroine.</p>
+                            <address><addrLine>http://www.rnli.org.uk/who_we_are/the_heritage_trust/grace-darling-museum</addrLine></address>
+                        </item>
+                        <item>
+                            <label>External Biography One</label>
+                            <p>A short description</p>
+                            <address><addrLine>http://this.com</addrLine></address>
                         </item>
                     </list>
                 </div2>
@@ -2962,7 +3055,7 @@
                     <list>
                         <item>
                             <label>Birth</label>
-                            <date>0000</date>
+                            <date>1815</date>
                         </item>
                         <item>
                             <label>Event 1</label>
@@ -2970,7 +3063,7 @@
                         </item>
                         <item>
                             <label>Death</label>
-                            <date>0000</date>
+                            <date>1842</date>
                         </item>
                     </list>
                 </div2>
