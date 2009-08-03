@@ -4155,9 +4155,16 @@
                             <address><addrLine>http://books.google.com/books?id=TTMLAAAAYAAJ&amp;printsec=titlepage&amp;source=gbs_navlinks_s</addrLine></address>
                         </item>
                         <item>
-                            <label>External Biography One</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://this.com</addrLine></address>
+                            <label>Starkey, David. "Elizabeth: The Struggle for the Throne." New
+                                York: HarperCollins, 2001.</label>
+                            <p>David Starkey's biography about Queen Elizabeth provides a detailed
+                                treatment of her early domestic life, from birth and infancy into
+                                young adulthood. Starkey also discusses the politics of her
+                                ascendancy to the throne and the legacy of her reign. This Google
+                                Books preview of the text includes the author's Introduction,
+                                geneological tables recording Tudor succession, and several
+                                full-color illustrations.</p>
+                            <address><addrLine>http://books.google.com/books?id=7ZGr8tqO-mcC&amp;printsec=frontcover&amp;source=gbs_navlinks_s</addrLine></address>
                         </item>
                         <item>
                             <label>Collinson, Patrick. "Elizabeth I (1533–1603)." Oxford Dictionary
@@ -4172,14 +4179,17 @@
                             <address><addrLine>http://www.oxforddnb.com/view/article/8636</addrLine></address>
                         </item>
                         <item>
-                            <label>External Biography One</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://this.com</addrLine></address>
-                        </item>
-                        <item>
-                            <label>External Biography One</label>
-                            <p>A short description</p>
-                            <address><addrLine>http://this.com</addrLine></address>
+                            <label>Thomas, Heather. "Elizabeth R." 1998-2009.</label>
+                            <p>Heather Thomas (M. Phil in Elizabethan History, University of Wales)
+                                published this comprehensive website about Queen Elizabeth I. The
+                                site includes a detailed biography, several portraits, original
+                                critical articles, links to other online biographies, an extensive
+                                bibliography, as well as historical, political and cultural
+                                information about Elizabethan England. Thomas also provides
+                                transcriptions from Elizabeth's speeches, a chronology of milestone
+                                events related to her reign, and profiles of other relevant Tudor
+                                figures.</p>
+                            <address><addrLine>http://www.elizabethi.org/us/</addrLine></address>
                         </item>
                     </list>
                 </div2>
@@ -4187,7 +4197,7 @@
                     <list>
                         <item>
                             <label>Birth</label>
-                            <date>0000</date>
+                            <date>1533</date>
                         </item>
                         <item>
                             <label>Event 1</label>
@@ -4195,7 +4205,7 @@
                         </item>
                         <item>
                             <label>Death</label>
-                            <date>0000</date>
+                            <date>1603</date>
                         </item>
                     </list>
                 </div2>
