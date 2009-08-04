@@ -10537,7 +10537,7 @@
       <note type="toc">
        <list>
         <item>Victoria</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Mary Somerville</item>
         <item>Sarah Robinson, the Soldiers’ Friend</item>
         <item>Rosa Bonheur</item>
@@ -11308,7 +11308,7 @@
         <item>Elizabeth Fry</item>
         <item>Mary Somerville</item>
         <item>Julia Selina Inglis</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Isabella Bird (Mrs. Bishop)</item>
         <item>Sister Dora</item>
         <item>Queen Victoria. *Pop Chart</item>
@@ -11787,7 +11787,7 @@
         <item>Madame de Pompadour</item>
         <item>Mme Mère</item>
         <item>Mme de Staël</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Catherine Booth</item>
        </list>
       </note>
@@ -13661,7 +13661,7 @@
         <item>Martha Dandridge Custis</item>
         <item>Marie Antoinette</item>
         <item>Queen Victoria</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Clara Barton</item>
         <item>Rosa Bonheur</item>
         <item>Harriet Beecher Stowe</item>
