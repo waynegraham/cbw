@@ -1103,7 +1103,7 @@
                 </head>
                 <div2 type="images">
                     <list>
-                        <item> 
+                        <item>
                             <label>Jeanne in Church.</label>
                             <figure n="no324"/>
                         </item>
@@ -1906,7 +1906,7 @@
                     <list>
                         <item>
                             <label>Frances Cobbe</label>
-                            <figure n="no00"/>
+                            <figure n="no301"/>
                         </item>
                     </list>
                 </div2>
@@ -2304,8 +2304,12 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Mary Somerville</label>
-                            <figure n="no00"/>
+                            <label>Mary Somerville. Photo: Emery Walker.</label>
+                            <figure n="no319"/>
+                        </item>
+                        <item>
+                            <label>Somerville College, Oxford.</label>
+                            <figure n="no373"/>
                         </item>
                     </list>
                 </div2>
@@ -2709,8 +2713,9 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Adelaide Procter</label>
-                            <figure n="no00"/>
+                            <label>Adelaide Anne Procter. From a photograph in the possession of
+                                Madame Belloc.</label>
+                            <figure n="no236"/>
                         </item>
                     </list>
                 </div2>
@@ -3092,7 +3097,7 @@
                     <list>
                         <item>
                             <label>Grace Darling</label>
-                            <figure n="no00"/>
+                            <figure n="no145"/>
                         </item>
                     </list>
                 </div2>
@@ -3497,8 +3502,37 @@
                 <div2 type="images">
                     <list>
                         <item>
+                            <label>Elizabeth Fry. After a painting by C. R. Leslie, R. A.</label>
+                            <figure n="no251"/>
+                        </item>
+                        <item>
                             <label>Elizabeth Fry</label>
-                            <figure n="no00"/>
+                            <figure n="no42"/>
+                        </item>
+                        <item>
+                            <label>Elizabeth Fry</label>
+                            <figure n="no290"/>
+                        </item>
+                        <item>
+                            <label>Elizabeth Fry</label>
+                            <figure n="no302"/>
+                        </item>
+                        <item>
+                            <label>"A passage was read from the Bible."</label>
+                            <figure n="no340"/>
+                        </item>
+                        <item>
+                            <label>"She raised her hands in prayer."</label>
+                            <figure n="no341"/>
+                        </item>
+                        <item>
+                            <label>Elizabeth Fry. Photo: Emery Walker.</label>
+                            <figure n="no312"/>
+                        </item>
+                        <item>
+                            <label>Mrs. Fry Reading to the Prisoners in Newgate, 1816. (After the
+                                Picture by Jerrry Barrett.)</label>
+                            <figure n="no348"/>
                         </item>
                     </list>
                 </div2>
@@ -3615,16 +3649,37 @@
                             <figure n="no45"/>
                         </item>
                         <item>
-                            <label>Florence Nightingale</label>
-                            <figure n="no45"/>
+                            <label>Florence Nightinagle. From a photograph by the London Stereoscopic Co.</label>
+                            <figure n="no291"/>
                         </item>
                         <item>
                             <label>Florence Nightingale</label>
-                            <figure n="no45"/>
+                            <figure n="no303"/>
+                        </item>
+                        <item>
+                            <label>"We could kiss her shadow as it fell."</label>
+                            <figure n="no339"/>
+                        </item>
+                        <item>
+                            <label>Florence Nightingale. Photo: London Stereoscopic Co.</label>
+                            <figure n="no316"/>
+                        </item>
+                        <item>
+                            <label>Florence Nightingale at Scutari, a Mission of Mercy. (After the Picture by Jerry
+                                Barrett.)</label>
+                            <figure n="no349"/>
+                        </item>
+                        <item>
+                            <label>Florence Nightingale in One of the Wards of the Hospital at Scutari</label>
+                            <figure n="no350"/>
                         </item>
                         <item>
                             <label>Florence Nightingale</label>
-                            <figure n="no45"/>
+                            <figure n="no143"/>
+                        </item>
+                        <item>
+                            <label>Florence Nightingale</label>
+                            <figure n="no235"/>
                         </item>
                     </list>
                 </div2>
