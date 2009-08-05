@@ -455,7 +455,7 @@ td.mosaic img {
 #intro {
 	background-color: #FFFAF0;
 	border: 4px double #DCDCDC;
-	display:table;
+	display:inline-block;
 	width:90%;
 	padding:20px 0;
 	margin-left:auto;
