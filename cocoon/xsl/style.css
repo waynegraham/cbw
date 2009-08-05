@@ -478,6 +478,10 @@ td.mosaic img {
 .pic .full img {
 	min-width: 240px;
 }
+.carousel .jcarousel-skin-tango .jcarousel-container {
+	background: none;
+	border: none;
+}
 .data {
 	float:right;
 	margin-right:20px;
@@ -488,7 +492,7 @@ td.mosaic img {
 }
 #data_bottom {
     height: 50px;
-    width: 30%;
+    width: 35%;
 }
 .bio, .essay {
 	display: block;
