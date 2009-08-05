@@ -3802,8 +3802,8 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Charlotte Bronte</label>
-                            <figure n="no00"/>
+                            <label>Charlotte Bronte. From a drawing in chalks by George Richmond, R.A., 1850.</label>
+                            <figure n="no248"/>
                         </item>
                     </list>
                 </div2>
@@ -3930,7 +3930,7 @@
                     <list>
                         <item>
                             <label>Lady Jane Grey</label>
-                            <figure n="no00"/>
+                            <figure n="no161"/>
                         </item>
                     </list>
                 </div2>
@@ -4067,8 +4067,16 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Hannah More</label>
-                            <figure n="no00"/>
+                            <label>Hannah More. From a miniature in the Bristol Museum.</label>
+                            <figure n="no240"/>
+                        </item>
+                        <item>
+                            <label>Hannah More. From an engraving by A. Halbert after the picture by Opie in 1786.</label>
+                            <figure n="no253"/>
+                        </item>
+                        <item>
+                            <label>Miss More and Dr. Johnson</label>
+                            <figure n="no211"/>
                         </item>
                     </list>
                 </div2>
@@ -4366,8 +4374,12 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Queen Elizabeth I</label>
-                            <figure n="no00"/>
+                            <label>Queen Elizabeth by Edward Corbould, engraved by William Holl.</label>
+                            <figure n="no01"/>
+                        </item>
+                        <item>
+                            <label>Elizabeth, Queen of England</label>
+                            <figure n="no152"/>
                         </item>
                     </list>
                 </div2>
@@ -4478,7 +4490,11 @@
                     <list>
                         <item>
                             <label>Madame Roland</label>
-                            <figure n="no00"/>
+                            <figure n="no155"/>
+                        </item>
+                        <item>
+                            <label>Madame Roland. From the painting by Heinsius at Versailles.</label>
+                            <figure n="no256"/>
                         </item>
                     </list>
                 </div2>
@@ -4692,8 +4708,9 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Caroline Herschel</label>
-                            <figure n="no00"/>
+                            <label>Caroline Herschel. From an original oil painting, by M. G. Titlemann, now in the possession of Sir
+                                William Herschel, Bart.</label>
+                            <figure n="no238"/>
                         </item>
                     </list>
                 </div2>
@@ -4793,8 +4810,16 @@
                 <div2 type="images">
                     <list>
                         <item>
+                            <label>Ann H. Judson</label>
+                            <figure n="no61"/>
+                        </item>
+                        <item>
+                            <label>Ann Hasseltine Judson by J. B. Wandesforde, engraved by F. Halpin.</label>
+                            <figure n="no23"/>
+                        </item>
+                        <item>
                             <label>Ann Hasseltine Judson</label>
-                            <figure n="no00"/>
+                            <figure n="no92"/>
                         </item>
                     </list>
                 </div2>
@@ -4913,7 +4938,7 @@
                     <list>
                         <item>
                             <label>Jenny Lind</label>
-                            <figure n="no00"/>
+                            <figure n="no60"/>
                         </item>
                     </list>
                 </div2>
