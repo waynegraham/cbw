@@ -213,10 +213,10 @@
     </div2>
     <div2 org="uniform" sample="complete" part="N">
      <head>The CBW Project</head>
-     <p>With the support of Digital Scholarly Services, Special Collections, the Department of
-      English and the editorial board of NINES, we are working on the design, functionality, and
+     <p>With the support of the Scholars' Lab, Digital Scholarly Services, Special Collections, the Department of
+      English, the Institute for Advanced Technology in the Humanities, and the editorial board of NINES, we are working on the design, functionality, and
       substance of this site. We have added links to search OCLC WorldCat and Google Books for
-      library holdings or available digital versions of these texts. In 2008 a focus of the project
+      library holdings or available digital versions of these texts. In 2008-2009, a focus of the project
       is to develop an image gallery of collections that include a life of the nursing reformer
       Sister Dora, which will form the basis of a model of archives on individual subjects. <ref
        type="acknowledgments" targOrder="U">Read more…</ref></p>
@@ -307,7 +307,7 @@
     <p>Before and after the main bibliography are selective lists: first, a <hi rend="bold"
       >chronological selection of female prosopographies in earlier centuries</hi>, and second, an
       <hi rend="bold">alphabetical selection of books collecting women's lives published since
-      1940</hi>. These separate selective bibliographies may be brought up from the "Earlier and
+       1940</hi>, growing as we strive for exhaustive listings through 1950 and beyond. These separate selective bibliographies may be brought up from the "Earlier and
      Later Examples" tab on the Browse page and are integrated in any searches.</p>
     <p>In the main bibliography, the <hi rend="bold">publication data</hi> includes the date of
      every edition or reprint through 1940 that I have traced, though I have not attempted complete
@@ -330,10 +330,10 @@
     <p><hi rend="bold">The Number of Collective Biographies per Year</hi> (in preparation) charts
      the varying rates of publication based on the known years in which the works in the
      bibliography were published.</p>
-    <p><hi rend="bold">Corrections</hi> or additions to the publication data provided in the
-     bibliographic entries printed in the book will be marked. Other changes in annotation, cross
-     referencing, etc. have been made silently in the entries themselves. Where a new item is
-     inserted in the chronological or alphabetical order, it is marked by a capital letter (e.g.
+    <p><hi rend="bold">Additions</hi>: New publication data, annotations, cross
+     referencing, and other improvements continue to alter the bibliography from its version in the published
+     book; subversion allows us to keep a record of this work.  Where a new publication is
+     inserted in the chronological or alphabetical lists, it is marked by a capital letter (e.g.
      762A), so as to avoid changing or confusing item numbers discussed in <hi rend="italics">How to
       Make It as a Woman</hi>. </p>
    </div1>
@@ -367,10 +367,10 @@
      2007-2008. Bethany Nowviskie, Director of Digital Research and Scholarship and Joe Gilbert,
      Head of the Scholars' Lab, along with Bess Sandler, have brought fresh inspiration, expert
      guidance and insight, as well as generous hours of consultation and hands-on production. In
-     2008-2009, Bella Cooper, Lindsay Halle, Claudia Bendick, Ben Lee, and Julia Fuller continue the
+     2008-2009, Bella Cooper, Lindsay Halle, Claudia Bendick, Ben Lee, and Julie Fuller continue the
      dedicated effort to develop the Sister Dora texts and new dimensions of biographical studies in
-     digital form. In 2009-2010, Worthy Martin, Daniel Pitti, Sarah Wells, and others in the
-     Institute for Advanced Studies in the Humanities have helped me move to the next stage.</p>
+     digital form; Julie has discovered several collective biographies of women. In 2009-2010, Worthy Martin, Daniel Pitti, Sarah Wells, and others in the
+     Institute for Advanced Technology in the Humanities have helped me move to the next stage.</p>
     <p>The bibliography in the book was compiled with the assistance of Christopher Jackson, Karen
      Dietz, Erin O'Connor, Sarah Whitney, Christine Bayles-Korstch, Margaret Cooke, and Regan
      Boxwell.</p>
@@ -3783,7 +3783,7 @@
         <item>Elizabeth Cady Stanton</item>
         <item>Lucy Stone</item>
         <item>Julia Ward Howe</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Clara Barton</item>
         <item>Frances E. Willard</item>
         <item>Anne Hutchinson</item>
@@ -3948,7 +3948,7 @@
         <item>Mary Lyon</item>
         <item>Elizabeth Cady Stanton</item>
         <item>Harriet Beecher Stowe</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Clara Barton</item>
         <item>Julia Ward Howe</item>
         <item>Francis W. Willard</item>
@@ -4655,7 +4655,7 @@
         <item>Mary, Queen of Scots</item>
         <item>Maria Mitchell</item>
         <item>Lucretia Mott</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Ouida</item>
         <item>Elizabeth Stuart Phelps</item>
         <item>Molly Pitcher</item>
@@ -5238,8 +5238,8 @@
        <imgDesc>From a photograph by F. Brown, in the possession of Mr Kirby. </imgDesc>
       </image>
       <image n="no248">
-       <imgName>Charlotte Bronte</imgName>
-       <imgDesc> </imgDesc>
+       <imgName>Charlotte Brontë</imgName>
+       <imgDesc>From a drawing in chalks by George Richmond, R.A., 1850.</imgDesc>
       </image>
      </bibl>
      <bibl id="a035" default="NO">
@@ -5279,6 +5279,46 @@
        <publisher>Morning Star,</publisher>
        <date>1880s?].</date>
       </imprint>
+     </bibl>
+     <bibl id="a036A" default="NO"><ref targOrder="U">36A.</ref>
+      <idno>a036A</idno>
+      <author><name type="last">Ashton</name>, <name type="first">Helen</name>,</author> and <author>
+       <name type="first">Katharine N.</name> <name type="last">Davies.</name></author>
+      <title type="ref">
+       <hi rend="italics">I Had a Sister; a study of Mary Lamb, Dorothy Wordsworth, Caroline Herschel [and] Cassandra Austen.</hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>L. Dickson,</publisher>
+       <date>1937.</date>
+      </imprint>
+      
+      
+      <imprint>
+       <pubPlace>Folcroft, PA:</pubPlace>
+       <publisher>Folcroft Library Editions,</publisher>
+       <date>1975.</date>
+      </imprint>
+      
+      <imprint>
+       <pubPlace>Norwood, PA:</pubPlace>
+       <publisher>Norwood Editions</publisher>
+       <date>1976</date>
+      </imprint>
+      
+      <imprint>
+       <pubPlace>Philadelphia:</pubPlace>
+       <publisher>R. West,</publisher>
+       <date>1977.</date>
+      </imprint>
+      <note type="toc">
+       <list>
+                <item>Mary Lamb</item>
+        <item>Dorothy Wordsworth</item>
+        <item>Caroline Herschel</item>
+        <item>Cassandra Austen</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a037" default="NO">
       <ref targOrder="U">37.</ref>
@@ -7121,7 +7161,7 @@
         <item>"George Eliot"</item>
         <item>Elizabeth Fry</item>
         <item>Elizabeth Thompson Butler</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Lady Brassey</item>
         <item>Baroness Burdett-Coutts</item>
         <item>Jean Ingelow</item>
@@ -7131,7 +7171,7 @@
        <list>
         <item>TOC 1925(?): Elizabeth Barrett Browning</item>
         <item>George Eliot</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Jean Ingelow</item>
         <item>Jenny Lind</item>
         <item>Madame de Staêl</item>
@@ -7161,7 +7201,7 @@
        <list>
         <item>TOC 1941 : Elizabeth Barrett Browning</item>
         <item>George Eliot</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Jean Ingelow</item>
         <item>Jenny Lind</item>
         <item>Madame de Staêl</item>
@@ -7208,7 +7248,7 @@
         <item>Elizabeth Kenny</item>
         <item>Jenny Lind</item>
         <item>Mary Lyon</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Margaret Fuller Ossoli</item>
         <item>Frances Perkins</item>
         <item>Eleanor Roosevelt</item>
@@ -8601,7 +8641,7 @@
        <list>
         <item>Introduction</item>
         <item>Her Majesty the Queen</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Elizabeth Fry</item>
         <item>The Baroness Burdett-Coutts</item>
         <item>The Princess of Wales</item>
@@ -9826,7 +9866,7 @@
         <item>La Vallière</item>
         <item>Maria Theresa</item>
         <item>Catherine II</item>
-        <item>Florence Nightingale. *Pop Chart</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale. *Pop Chart</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> British Library stamps 24 JU 58 on all the
@@ -10069,7 +10109,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Florence Nightingale, the Soldier's Friend</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale, the Soldier's Friend</item>
         <item>Elizabeth Fry, the Earnest Philanthropist</item>
         <item>Hannah More, the Worker in Christ's Vineyard</item>
         <item>Margaret Godolphin, the True Maid of Honour</item>
@@ -10350,9 +10390,15 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>SPCK,</publisher>
+       <date>1851;</date>
        <date>1853.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> British Library. Consists as much of whole
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Pott,</publisher>
+       <date>[1883?]</date>
+      </imprint>
+      <note place="unspecified" anchored="yes"> British Library. Additional imprint data found in Cambridge University Library. Consists as much of whole
        life-narrative as of dying scene. Recalls <title>
         <hi rend="italics">The Last Hours of Eminent Christians, from the commencement of the
          Christian æra to the death of George III</hi>
@@ -10449,7 +10495,7 @@
         <item>Agnes Weston</item>
         <item>Angela Georgina</item>
         <item>Baroness Burdett-Coutts</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Elizabeth Fry</item>
         <item>Mrs. Isabel Reaney</item>
         <item>Mary Ann Rogers</item>
@@ -10509,7 +10555,7 @@
        <imgDesc>"A passage was read from the Bible."</imgDesc>
       </image>
       <image n="no341">
-       <imgName>Elizabeth Fry</imgName>
+       <imgName>Mary Ann Rogers</imgName>
        <imgDesc>"She raised her hands in prayer."</imgDesc>
       </image>
       <image n="no301">
@@ -13840,7 +13886,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Frances Ridley Havergal</item>
         <item>Agnes Weston, the sailors' friend</item>
         <item>Fanny Jane Crosby</item>
@@ -13919,7 +13965,7 @@
         <item>Mary Somerville</item>
         <item>Queen Victoria</item>
         <item>Harriet Martineau</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Mary Lamb</item>
         <item>Agnes Elizabeth Jones</item>
         <item>Charlotte and Emily Brontë</item>
@@ -14008,39 +14054,57 @@
        <date>1930.</date>
       </imprint>
      </bibl>
-     <bibl id="a285" default="NO">
-      <ref targOrder="U">285.</ref>
-      <idno>a285</idno>
-      <author><name type="last">Ferrero</name>, <name type="first">Guglielmo</name>.</author>
+     
+     <bibl id="a285A" default="NO">
+      <ref targOrder="U">285A.</ref>
+      <idno>a285A</idno>
+      <author><name type="last">Ferris</name>, <name type="first">George</name>.</author>
       <title type="ref">
-       <hi rend="italics">The Women of the Caesars.</hi>
+       <hi rend="italics">Great Singers.</hi> Series I &amp; II.
       </title>
       <imprint>
-       <pubPlace>London:</pubPlace>
-       <publisher>Century/Fisher Unwin/Putnam;</publisher>
        <pubPlace>New York:</pubPlace>
-       <publisher>Loring/Century/Putnam; Chatauqua, NY: Chatauqua; n.p.: Corner House,</publisher>
-       <date>1911.</date>
+       <publisher>Appleton,</publisher>
+   
+       <date>1879;</date>
+       <date>1880-1881;</date>
+       <date>1882;</date>
+       <date>1888;</date>
+       <date>1892;</date>
+       <date>1894;</date>
+       <date>1895;</date>
+       <date>1897;</date>
+       <date>1907.</date>
       </imprint>
       <imprint>
-       <pubPlace>New York:</pubPlace>
-       <publisher>Putnam; Chatauqua, NY: Chatauqua,</publisher>
-       <date>1925.</date>
+       <pubPlace>Freeport, New York:</pubPlace>
+       <publisher>Books for Libraries,</publisher>
+       <date>1972.</date>
       </imprint>
-      <imprint>
-       <pubPlace>New York:</pubPlace>
-       <publisher>Loring &amp; Mussey,</publisher>
-       <date>1935.</date>
-      </imprint>
-      <note type="toc">
+      
+      <note type="toc"> TOC: First Series:
        <list>
-        <item>Woman and Marriage in Ancient Rome</item>
-        <item>Livia and Julia</item>
-        <item>The Daughters of Agrippa</item>
-        <item>Tiberius and Agrippina</item>
-        <item>The Sisters of Caligula and the Marriage of Messalina</item>
-        <item>Agrippina, the Mother of Nero</item>
+        <item>Faustina Bordoni</item>
+        <item>Catarina Gabrielli</item>
+        <item>Sophie Arnould</item>
+        <item>Elizabeth Billington and her contemporaries</item>
+        <item>Angelica Catalani</item>
+        <item>Giuditta Pasta</item>
+        <item>Henrietta Sontag</item>
        </list>
+       Second Series:
+       <list>
+        <item>Maria Felicia Malibran</item>
+        <item>Wilhelmina Schröder-Devrient</item>
+        <item>Giulia Grisi</item>
+        <item>Pauline Viardot</item>
+        <item>Fanny Persiani</item>
+        <item>Marietta Alboni</item>
+        <item>Jenny Lind</item>
+        <item>Sophie Cruvelli</item>
+        <item>Theresa Titiens</item>
+       </list>
+       
       </note>
      </bibl>
      <bibl id="a286" default="NO"><ref targOrder="U">286.</ref>
@@ -15446,7 +15510,7 @@
        <imgName>Lady Mary Wortley Montagu</imgName>
       </image>
       <image n="no92">
-       <imgName>Ann Hasseltine Judson</imgName>
+       <imgName>Anne Hasseltine Judson</imgName>
       </image>
       <image n="no93">
        <imgName>Eugenie</imgName>
@@ -17038,7 +17102,7 @@
         <item>Christian Davies</item>
         <item>Hannah Snell</item>
         <item>Mary Ann Talbot</item>
-        <item>Florence Nightingale. *Pop Chart</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale. *Pop Chart</item>
        </list>
       </note>
      </bibl>
@@ -18234,7 +18298,7 @@
         <item>Louisa of Prussia</item>
         <item>Charlotte Brontë</item>
         <item>Victoria</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Jenny Lind</item>
         <item>Rosa Bonheur</item>
         <item>Louisa May Alcott. *Pop Chart</item>
@@ -18659,7 +18723,7 @@
         <item>Lucy Stone</item>
         <item>Julia Ward Howe</item>
         <item>Queen Victoria</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Susan B. Anthony</item>
         <item>Mary A. Livermore</item>
         <item>Clara Barton</item>
@@ -18931,7 +18995,8 @@
         <item>Mary W. Shelley. *Pop Chart</item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes"> In <date>1894-97</date> series, vol. 1: <title>
+      <note place="unspecified" anchored="yes"> Cambridge University Library owns Roycrofters edition of <hi rend="italics">Famous Women</hi> dated 1888 (in error?). 
+       In <date>1894-97</date> series, vol. 1: <title>
         <hi rend="italics">Little Journeys to the Homes of Good Men and Great</hi>
        </title>; 2: <title>
         <hi rend="italics">To the Homes of American Authors</hi>
@@ -19332,7 +19397,7 @@
        <imgName>Elisabeth of France</imgName>
       </image>
       <image n="no99">
-       <imgName>Jeanne d'Albert</imgName>
+       <imgName>Jeanne d'Albret</imgName>
       </image>
       <note type="toc">
        <list>
@@ -19342,7 +19407,7 @@
         <item>Mary Stuart</item>
         <item>Catherine de Medici Regent</item>
         <item>Elisabeth of France</item>
-        <item>Jeanne d’Albert</item>
+        <item>Jeanne d’Albret</item>
         <item>Marguerite de Valois</item>
         <item>Elisabeth of Austria</item>
         <item>Louise de Vaudemont</item>
@@ -20630,7 +20695,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Mary L. Ware</item>
         <item>Miss Marsh</item>
         <item>Mrs. Sherman</item>
@@ -20731,7 +20796,7 @@
       <note type="toc">
        <list>
         <item>Ministering Women</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Mary Ware</item>
         <item>Margaret Fuller</item>
         <item>Elizabeth Blackwell</item>
@@ -21499,7 +21564,7 @@
        <list>
         <item>Princess Alice</item>
         <item>Margaret Roper</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Gertrude de la Garaye</item>
         <item>Elizabeth Gilbert. *Pop Chart</item>
        </list>
@@ -21740,7 +21805,7 @@
         <item>Elizabeth of Hungary</item>
         <item>Black Agnes of Dunbar</item>
         <item>Caroline Herschel</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Elsie Inglis. *Pop Chart</item>
        </list>
       </note>
@@ -22050,7 +22115,7 @@
         <item>Elizabeth Gurney</item>
         <item>Edith Cavell</item>
         <item>Joan of Arc</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Marie Curie</item>
         <item>and others</item>
        </list>
@@ -22384,7 +22449,7 @@
         <item>Helen Keller the Handicapped, by Lucile Desjardins</item>
         <item>Muriel Lester, Christian in Action and Creator of Good Will, by Edna M. Baxter</item>
         <item>Jenny Lind, the Swedish Nightingale, by S.P. Franklin</item>
-        <item>Florence Nightingale, Nurse-Philanthropist, by C.J. Lotz</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale, Nurse-Philanthropist, by C.J. Lotz</item>
         <item>Alice Freeman Palmer, Inspiring Teacher, by E.A. Leslie</item>
         <item>Maude Royden, World Famous Preacher, by Laura H. Wild</item>
         <item>Harriet Beecher Stowe, Well-Known Writer, by A.J.W. Myers</item>
@@ -22531,7 +22596,7 @@
         <item>Mme Roland</item>
         <item>Grace Darling</item>
         <item>Sister Dora</item>
-        <item>Florence Nightingale. *Pop Chart</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale. *Pop Chart</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Preface: “The Book of Heroes should never be
@@ -23738,6 +23803,29 @@
        </list>
       </note>
      </bibl>
+     <bibl id="a568A" default="NO">
+      <ref targOrder="U">568A.</ref>
+      <idno>a568A</idno>
+      <author><name type="last">Meyer</name>, <name type="first">Bertha</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Salon Sketches: biographical studies of Berlin salons of the 
+        emancipation.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Bloch,</publisher>
+       <date>1938.</date>
+      </imprint>
+       <note type="toc">
+       <list>
+        <item>Dorothea Mendelssohn</item>
+        <item>Rachel [Varnhagen] Lewin</item>
+        <item>Henriette Herz</item>
+       </list>
+       </note>
+      <note place="unspecified" anchored="yes">Cambridge University Library.</note>
+      
+     </bibl>
      <bibl id="a569" default="NO"><ref targOrder="U">569.</ref>
       <idno>a569</idno>
       <author><name type="last">Meyers</name>, <name type="first">Robert Cornelius
@@ -23785,7 +23873,7 @@
         <item>George Eliot</item>
         <item>Martha Washington</item>
         <item>Eugenie</item>
-        <item>Florence Nightingale. *Pop Chart</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale. *Pop Chart</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> See <ref target="a174" targOrder="U">Mary Cowden
@@ -23813,7 +23901,7 @@
         <item>Mrs. Frank Grimwood (British Resident of Manipur)</item>
         <item>Mrs. Granger (Scottish Resistance)</item>
         <item>Emily Lacy (Survived Shipwreck 20 Hrs in Sea)</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Elizabeth Mouatt (60-yr-old Adrift Alone in Ship)</item>
         <item>Mrs. M'Dougal (Ontario, Dealing with Indians)</item>
         <item>Mrs. John (Norah) Halinstrom (Saved Husband on Rope)</item>
@@ -24027,7 +24115,7 @@
       <note type="toc">
        <list>
         <item>Joan of Arc</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Mary Slessor</item>
         <item>Laura Secord</item>
         <item>Catharine Parr Traill</item>
@@ -24989,7 +25077,7 @@
         <item>Prasca Loupouloff</item>
         <item>Sarah Martin</item>
         <item>Grace Darling</item>
-        <item>Florence Nightingale. *Pop Chart</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale. *Pop Chart</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> British Library. Riches. Oldfield. </note>
@@ -25778,7 +25866,7 @@
         <item>Lydia, A Christian Business Woman</item>
         <item>Woman’s Place in Industry</item>
         <item>Corinna Shattuck, Missionary Heroine of Oorfa</item>
-        <item>Florence Nightingale, Pioneer in a Profession</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale, Pioneer in a Profession</item>
         <item>Woman as an Interpreter of the Faith</item>
        </list>
       </note>
@@ -26002,7 +26090,7 @@
        <hi rend="italics">Heroines of the Missionary Field.</hi>
       </title>
       <imprint>
-       <pubPlace>[London] and</pubPlace>
+       <pubPlace>London and</pubPlace>
        <pubPlace>New York:</pubPlace>
        <publisher>Cassell,</publisher>
        <date>1880.</date>
@@ -26216,7 +26304,7 @@
         <item>Elizabeth Blackwell</item>
         <item>Dr. Garrett Anderson</item>
         <item>Dr. Sophia Jex-Blake</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Mrs. Wardroper</item>
         <item>Mrs. W. Rathbone</item>
         <item>Florence Lees (Mrs. Dacre Craven)</item>
@@ -26685,7 +26773,7 @@
         <item>Elizabeth Browning</item>
         <item>Charlotte Cushman</item>
         <item>Lucretia Mott</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Sister Dora</item>
         <item>Jenny Lind</item>
         <item>Louisa Alcott</item>
@@ -26938,7 +27026,7 @@
         <item>Mary Somerville</item>
         <item>Mrs. Phebe Palmer</item>
         <item>Victoria</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Charlotte Bronte</item>
         <item>Agnes E. Jones</item>
         <item>Harriet Beecher Stowe</item>
@@ -28770,7 +28858,7 @@
       <note type="toc">
        <list>
         <item>Princess Alice, Grand Duchess of Hesse</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Frances Ridley Havegal</item>
         <item>Harriet Beecher Stowe</item>
         <item>Sister Dora</item>
@@ -30200,7 +30288,7 @@
        <list>
         <item>vol. or series I: Elizabeth Fry</item>
         <item>Elizabeth Blackwell</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Mary Slessor of Calabar. *Pop Chart</item>
        </list>
       </note>
@@ -30599,7 +30687,7 @@
       <note type="toc">
        <list>
         <item>Harriet Beecher Stowe</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Dorothea Lynde Dix</item>
         <item>Margaret Fuller Ossoli</item>
         <item>Frances Power Cobbe</item>
@@ -31872,7 +31960,7 @@
        <publisher>Blackwood,</publisher>
        <date>1888.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> Author of <title>
+      <note place="unspecified" anchored="yes"> Cambridge University Library.  Author of <title>
         <hi rend="italics">Recollections of a Scottish Novelist</hi>
        </title> (<date>1910</date>). </note>
      </bibl>
@@ -34564,7 +34652,7 @@
         <item>Clara Schumann</item>
         <item>Queen Victoria</item>
         <item>Susan B. Anthony</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Elizabeth Blackwell</item>
         <item>Clara Barton</item>
         <item>Marie Antoinette</item>
@@ -35166,7 +35254,25 @@
       </imprint>
       <note place="unspecified" anchored="yes">Biographies of American feminists. </note>
      </bibl>
+
+     <bibl id="p023C">
+      <idno>p023C</idno>
+      <author><name type="last">Collett</name>, <name type="first">Barry</name>.</author>
+      <editor><name type="first">Betty S.</name><name type="last">Travitsky</name> and <name type="first">Anne Lake</name><name type="last">Prescott</name>, general editors.</editor>
+      <title type="ref">
+       <hi rend="italics">Late Medieval Englishwomen: Julian of Norwich, Marjorie Kemp and Juliana Berners.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Aldershot, England;</pubPlace><pubPlace>Burlington, VT:</pubPlace>
+       <publisher>Ashgate,</publisher>
+       <date>2007.</date>
+            </imprint>
+      <note>TOC: Julian of Norwich; Marjorie Kemp; Juliana Berners.  Selected and introduced by Collett.</note>
+     </bibl>
+    
+
      <bibl id="p024" default="NO">
+
       <idno>p024</idno>
       <author>
        <name type="last">Coxhead</name>, <name type="first">Elizabeth</name>. </author>
@@ -35526,7 +35632,7 @@
         <item>Anne Sullivan</item>
         <item>Sojourner Truth</item>
         <item>Queen Isabella</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Melanie Klein</item>
         <item>Angelina Grimke</item>
         <item>Sarah Moore Grimke</item>
@@ -36160,6 +36266,35 @@
        <date>1980.</date>
       </imprint>
       <note place="unspecified" anchored="yes">Women in the Bible. </note>
+     </bibl>
+     <bibl id="p044A" default="NO">
+      <idno>p044A</idno>
+      <author><name type="last">Heineman</name>, <name type="first">Helen.</name></author>
+      <title type="ref">
+       <hi rend="italics">Restless Angels: the friendship of six Victorian women: Frances Wright, Camilla Wright, 
+        Harriet Garnett, Frances Garnett, Julia Garnett Pertz, Frances Trollope. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Athens, OH:</pubPlace>
+       <publisher>Ohio University Press,</publisher>
+       <date>1983.</date>
+      </imprint>
+      <note type="toc">
+       
+       <list>
+        <item>A circle of women: the first Utopia, 1798-1824 </item> 
+        <item>Frances Wright and the second Utopia, 1825-1827</item>
+       <item>The Transition</item>
+        <item>Camilla Wright</item>
+        <item>Harriet and Fanny Garnett</item>
+        <item>Julia Garnett Pertz</item>
+        <item>Frances Trollope</item>
+        <item>Conclusion: Widening the circle.</item>
+        
+        
+        
+       </list>
+      </note>
      </bibl>
      <bibl id="p045" default="NO">
       <idno>p045</idno>
@@ -37019,7 +37154,7 @@
        <list>
         <item>The Brontës</item>
         <item>George Eliot</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Josephine Butler</item>
         <item>Annie Besant</item>
         <item>Ellen Terry</item>
@@ -37498,7 +37633,7 @@
         <item>this is international and pious.TOC: Susanna Wesley</item>
         <item>Ann Judson</item>
         <item>Mary Slessor</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Pandita Ramabai</item>
         <item>Madame Chiang Kai-shek</item>
         <item>Betty Stam</item>
