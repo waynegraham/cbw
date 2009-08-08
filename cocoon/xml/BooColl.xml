@@ -2346,7 +2346,7 @@
         <item>Andreini, Isabela, A Celebrated Comedian</item>
         <item>Anne, Daughter of Charles I of England</item>
         <item>Anne, Princess of Orange</item>
-        <item>Joan of Arc, The French Heroine</item>
+        <item n="JOAN_OF_ARC">Joan of Arc, The French Heroine</item>
         <item>Arete, A Teacher of Philosophy</item>
         <item>Arria, a Roman Lady</item>
         <item>Artemisia, Queen of Caria</item>
@@ -2595,7 +2595,7 @@
         <item>Gaming: Mira</item>
         <item>Dorinda</item>
         <item>Happiness: Monima</item>
-        <item>Industry: Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Industry: Lady Jane Grey</item>
         <item>Princess Elizabeth</item>
        </list>
       </note>
@@ -2735,7 +2735,7 @@
        </title>: <hi rend="italics">Catalogue 48</hi> (<date>4 Dec 2000</date>), 8.</note>
       <note type="toc">
        <list>
-        <item>Vol. 1: Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Vol. 1: Lady Jane Grey</item>
         <item>Queen Catharine Parr</item>
         <item>Jane, Queen of Navarre</item>
         <item>Lady Mary Vere</item>
@@ -2752,7 +2752,7 @@
         <item>The Right Hon. Lady Cutts</item>
         <item>The Right Hon. Lady Elizabeth Hastings</item>
         <item>Mrs. Jane Ratcliffe</item>
-        <item>Lady Rachel Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
         <item>Mrs. Elizabeth Burnet</item>
         <item>Mrs. Elizabeth Bury</item>
         <item>Mrs. Elizabeth Rowe</item>
@@ -2883,7 +2883,7 @@
        Ferocious Character/ of/ Revolutionary Frenchmen./ Legitimate Sovereigns,/ and/ Loyal
        Subjects,/ Her/ Murder/ Is Still Unrevenged!!!" Vol. I: Josephine Buonaparte, Josephine
        Dessalines the revolutionary Empress of Hayti, Madame Recamier, The Countess de Villeneuve de
-       la Foret, Madame de Stael, Marianne des Hayes, Madame de Genlis, Maria Farbe, Annette La
+       la Foret, <item n="MADAME_DE_STAEL">Madame de Stael,</item> Marianne des Hayes, Madame de Genlis, Maria Farbe, Annette La
        Vigne, Martha Glar, with other topical chapters. Portraits of A. C. Renaud and the Queen of
        Prussia, published in 1807 by Oddy, have been added at the end of vol. I without any apparent
        relevance to the contents. </note>
@@ -2945,7 +2945,7 @@
        </title> 52-53.</xref>
       <note type="toc">
        <list>
-        <item>vol. I (22 subjects): Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">vol. I (22 subjects): Lady Jane Grey</item>
         <item>Catharine Parr</item>
         <item>Jane, Queen of Navarre</item>
         <item>Queen Mary</item>
@@ -2963,7 +2963,7 @@
         <item>the Right Hon. the Lady Elizabeth Hastings</item>
         <item>Mrs. Jane Ratcliffe</item>
         <item>Mrs. Catherine Breterg</item>
-        <item>Lady Rachel Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
         <item>Mrs. Elizabeth Burnet</item>
         <item>Mrs. Elizabeth Bury</item>
         <item>Mrs. Elizabeth Rowe. vol. II (26 subjects): Mrs. Joan Drake</item>
@@ -3222,7 +3222,7 @@
         <item>Mrs. Elizabeth Carter</item>
         <item>Lady Catharine Courtin</item>
         <item>Lady Catharine Cutts</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Mrs. Graham</item>
         <item>Miss Elizabeth Hamilton</item>
         <item>Lady Elizabeth Hastings</item>
@@ -3232,7 +3232,7 @@
         <item>Mary, Queen of William III</item>
         <item>Princess Charlotte of Wales</item>
         <item>Mrs. Elizabeth Rose</item>
-        <item>Lady Rachel Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
         <item>Susannah Countess of Suffolkl Miss Caroline Symonds</item>
         <item>Miss Elizabeth Smith</item>
         <item>Miss Catharine Talbot</item>
@@ -3296,7 +3296,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Queen of Navarre</item>
         <item>Lady Vere</item>
         <item>Lady Langham</item>
@@ -3305,7 +3305,7 @@
         <item>Lady Brooke</item>
         <item>Mrs. Schurman</item>
         <item>Princess Elizabeth of the Rhine</item>
-        <item>Lady R. Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady R. Russell</item>
         <item>Mrs. J. Ratcliffe</item>
         <item>Mrs. Ann Baynard</item>
         <item>Queen Mary, consort of William III</item>
@@ -3340,7 +3340,7 @@
         <item>The Hon. Mary Monk</item>
         <item>Anne, Countess of Winchelsea</item>
         <item>Esther Vanhomrigh</item>
-        <item>Lady Rachel Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
         <item>Susanna Centlivre</item>
         <item>De la Riviere Manly</item>
         <item>Elizabeth Thomas</item>
@@ -3382,7 +3382,7 @@
         <item>Eleanor Anne Franklin</item>
         <item>Lady Anne Barnard</item>
         <item>Jane Elliott</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Helen Maria Williams</item>
         <item>Joanna Baillie</item>
         <item>Amelia Opie</item>
@@ -3514,7 +3514,7 @@
         <item>Magdalen Angelica Poisson Gomez</item>
         <item>Isabella Graham</item>
         <item>Mrs. Grant</item>
-        <item>Jane Grey</item>
+        <item n="LADY_JANE_GREY">Jane Grey</item>
         <item>Elizabeth Griffith</item>
         <item>Sophia Grouchy</item>
         <item>Jean Marie Bouviere de Guyon</item>
@@ -3527,7 +3527,7 @@
         <item>Catharine Macauley</item>
         <item>Mary Wortley Montagu</item>
         <item>Elizabeth Montagu</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Lady Morgan</item>
         <item>Harriet Newell</item>
         <item>Mrs. Opie</item>
@@ -3552,7 +3552,7 @@
         <item>Anna Seward</item>
         <item>Frances Sheridan</item>
         <item>Charlotte Smith</item>
-        <item>Anne Louise Germain de Stael</item>
+        <item n="MADAME_DE_STAEL">Anne Louise Germain de Stael</item>
         <item>Catherine Talbot</item>
         <item>Mary Tighe</item>
         <item>Sarah Trimmer</item>
@@ -3595,7 +3595,7 @@
         <item>The Indian City</item>
         <item>The Peasant Girl of the Rhone</item>
         <item>Indian Woman’s Death-Song</item>
-        <item>Joan of Arc in Rheims</item>
+        <item n="JOAN_OF_ARC">Joan of Arc in Rheims</item>
         <item>Pauline</item>
         <item>Juana</item>
         <item>The American Forest Girl</item>
@@ -3752,7 +3752,7 @@
         <item>Anne Boelyn</item>
         <item>Mary Tudor</item>
         <item>Mary Queen of Scots</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Queen Anne</item>
         <item>Queen Elizabeth</item>
         <item>Catherine II of Russia</item>
@@ -3766,7 +3766,7 @@
         <item>Louise, Queen of Prussia</item>
         <item>Catherine de Medici</item>
         <item>Mme Roland</item>
-        <item>Queen Victoria</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
         <item>Countess du Barry,</item>
         <item>Countess of Blessington</item>
         <item>Barbara, Duchess of Cleveland</item>
@@ -3775,7 +3775,7 @@
         <item>Mme Recamier</item>
         <item>Marquise de Pompadour</item>
         <item>Mme de Maintenon</item>
-        <item>Mme de Stael</item>
+        <item n="MADAME_DE_STAEL">Mme de Stael</item>
         <item>Sarah Jennings, Duchess of Marlborough</item>
         <item>Mlle De la Valliere</item>
         <item>Theodosia Burr</item>
@@ -3804,17 +3804,17 @@
         <item>Elizabeth Barrett Browning</item>
         <item>Mary Ann Evans</item>
         <item>Margaret Fuller</item>
-        <item>Charlotte Bronte</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
         <item>Harriet Beecher Stowe</item>
         <item>George Sand</item>
         <item>Mme Dudevant</item>
         <item>Mme de la Ouida Ramee</item>
         <item>Helen Hunt Jackson</item>
         <item>Mary Lamb</item>
-        <item>Frances Trollope</item>
+        <item n="FRANCES_TROLLOPE">Frances Trollope</item>
         <item>Martha Washington</item>
         <item>Dolly Madison</item>
-        <item>Joan of Arc. *Pop Chart</item>
+        <item n="JOAN_OF_ARC">Joan of Arc. *Pop Chart</item>
        </list>
       </note>
      </bibl>
@@ -3944,7 +3944,7 @@
        </title> 136, 147-149.</xref>
       <note type="toc">
        <list>
-        <item>Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Mary Lyon</item>
         <item>Elizabeth Cady Stanton</item>
         <item>Harriet Beecher Stowe</item>
@@ -4041,14 +4041,14 @@
        </title> 249, 263, 266-68.</xref>
       <note type="toc">
        <list>
-        <item>Victoria</item>
+        <item n="QUEEN_VICTORIA">Victoria</item>
         <item>Harriet Martineau</item>
-        <item>Charlotte Bronte</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
         <item>Mary Russell Mitford</item>
-        <item>Mary Somerville</item>
+        <item n="MARY_SOMERVILLE">Mary Somerville</item>
         <item>Sara Coleridge</item>
         <item>Mary Carpenter</item>
-        <item>Anne Adelaide Procter</item>
+        <item n="ADELAIDE_PROCTER">Adelaide Anne Procter</item>
         <item>Marian George Eliot Evans</item>
         <item>Jane Welsh Carlyle. *Pop Chart</item>
        </list>
@@ -4105,7 +4105,7 @@
         <item>Lady Hester Stanhope</item>
         <item>Lady Brassey</item>
         <item>Lady Morgan</item>
-        <item>Mrs. Trollope</item>
+        <item n="FRANCES_TROLLOPE">Mrs. Trollope</item>
         <item>Miss Harriet Martineau</item>
         <item>Miss Isabella Bird</item>
         <item>Lady Florence Dixie</item>
@@ -4147,12 +4147,12 @@
         <item>Harriet Martineau</item>
         <item>Fanny Burney</item>
         <item>Elizabeth Inchbald</item>
-        <item>Charlotte Bronte</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
         <item>Sara Coleridge</item>
-        <item>Mrs. Somerville</item>
+        <item n="MARY_SOMERVILLE">Mrs. Somerville</item>
         <item>Mary Russell Mitford</item>
         <item>Lady Morgan</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Mrs. Hutchinson</item>
         <item>Mary Sidney Countess of Pembroke</item>
         <item>Margaret More Roper</item>
@@ -4163,12 +4163,12 @@
         <item>Laetitia Pilkington</item>
         <item>Elizabeth Rowe</item>
         <item>Catherine of Siena</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Mme de Miramion</item>
         <item>Elizabeth Carter</item>
         <item>Caroline Herschel</item>
         <item>Mme Pape-Carpantier</item>
-        <item>Mrs.Fry</item>
+        <item n="ELIZABETH_FRY">Mrs.Fry</item>
         <item>Lady Fanshawe</item>
         <item>Mrs. Godolphin</item>
         <item>Mme Roland</item>
@@ -4231,7 +4231,7 @@
         <item>Madame de Maintenon</item>
         <item>Gabrielle d'Estrée, Duchess de Beaufort. vol II : Mrs. Radcliffe</item>
         <item>The Duchess de la Vallière</item>
-        <item>Madame de Staël</item>
+        <item n="MADAME_DE_STAEL">Madame de Staël</item>
         <item>Sarah, Duchess of Marlborough</item>
         <item>Agnes Sorel</item>
         <item>Madame Récamier. *Pop Chart</item>
@@ -4257,7 +4257,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>pt. 1. Woman as Patriot: Joan of Arc (Jeanne Darc)</item>
+        <item n="JOAN_OF_ARC">pt. 1. Woman as Patriot: Joan of Arc (Jeanne Darc)</item>
         <item>Mme Roland</item>
         <item>pt. 2. Woman as the Religious Enthusiast: Margaret, Queen of Scotland</item>
         <item>St. Elizabeth, Queen of Hungary</item>
@@ -4299,11 +4299,11 @@
         <item>Elizabeth Gaunt</item>
         <item>Elizabeth Inchbald</item>
         <item>Lady Arabella Stuart</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Mary Countess of Pembroke</item>
         <item>Queen Jeanne d'Albret</item>
         <item>Mme Roland</item>
-        <item>Charlotte Bronte. Bodleian. Same contents as Adams, The Sunshine, with the addition of
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronte. Bodleian. Same contents as Adams, The Sunshine, with the addition of
          Charlotte Brontë</item>
        </list>
       </note>
@@ -4342,7 +4342,7 @@
         <item>Elizabeth Gaunt</item>
         <item>Elizabeth Inchbald</item>
         <item>Lady Arabella Stuart</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Mary Countess of Pembroke</item>
         <item>Queen Jeanne d'Albret</item>
         <item>Mme Roland. *Pop Chart</item>
@@ -4625,14 +4625,14 @@
         <item>Sara Bernhardt</item>
         <item>Josephine Bonaparte</item>
         <item>Rosa Bonheur</item>
-        <item>Charlotte Bronte</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
         <item>Elizabeth B. Browning</item>
         <item>Alice Cary</item>
         <item>Phoebe Cary</item>
         <item>Cleopatra</item>
         <item>Fanny Crosby -- Charlotte Cushman</item>
         <item>Virginia Dare</item>
-        <item>Madam De Stael</item>
+        <item n="MADAME_DE_STAEL">Madam De Stael</item>
         <item>Mary Baker Eddy</item>
         <item>George Eliot</item>
         <item>Esther</item>
@@ -4646,7 +4646,7 @@
         <item>Jean Ingelow</item>
         <item>Queen Isabella</item>
         <item>Helen Hunt Jackson</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Helen Keller</item>
         <item>Lucy Larcom</item>
         <item>Jenny Lind</item>
@@ -4659,8 +4659,8 @@
         <item>Ouida</item>
         <item>Elizabeth Stuart Phelps</item>
         <item>Molly Pitcher</item>
-        <item>Pocahontas</item>
-        <item>Adelaide Proctor</item>
+        <item n="POCAHONTAS">Pocahontas</item>
+        <item n="ADELAIDE_PROCTER">Adelaide Proctor</item>
         <item>Betsy Ross</item>
         <item>Ruth</item>
         <item>Sacajawea</item>
@@ -4669,7 +4669,7 @@
         <item>Elizabeth Cady Stanton</item>
         <item>Harriet Beecher Stowe</item>
         <item>Celia Thaxter</item>
-        <item>Queen Victoria</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
         <item>Martha Washington</item>
         <item>Emma Willard</item>
         <item>Frances E. Willard</item>
@@ -5045,7 +5045,7 @@
         <item>Anne Boleyn</item>
         <item>Anne Askew</item>
         <item>Katharine Parr</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Katharine Willoughby</item>
         <item>Anne de Tserclas</item>
         <item>Katharine Vermilla</item>
@@ -5103,11 +5103,11 @@
        <list>
         <item>Susanna Wesley</item>
         <item>Eliza Hessel</item>
-        <item>Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Amelia Wilhelmina Sieveking</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Anne Grant</item>
-        <item>Anne Louisa Stael</item>
+        <item n="MADAME_DE_STAEL">Anne Louisa Stael</item>
         <item>Carolina, Baroness Naire</item>
         <item>Felicia Dorothea Hemans</item>
         <item>Elizabeth Barrett Browning</item>
@@ -5167,12 +5167,12 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Mary Carpenter</item>
         <item>Caroline Lucretia Herschel</item>
-        <item>Sister Dora [Dorothy Wyndlow Pattison]</item>
+        <item n="SISTER_DORA">Sister Dora [Dorothy Wyndlow Pattison]</item>
         <item>Mary Kingsley</item>
-        <item>Adelaide Anne Procter</item>
+        <item n="ADELAIDE_PROCTER">Adelaide Anne Procter</item>
         <item>Marianne North</item>
         <item>Jean Ingelow</item>
         <item>Louisa Alcott</item>
@@ -5335,10 +5335,10 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>“Women of Worth,” TOC: Charlotte Bronté [sic]</item>
+        <item n="CHARLOTTE_BRONTE">“Women of Worth,” TOC: Charlotte Bronté [sic]</item>
         <item>Sarah Martin</item>
         <item>Sarah Boardman Judson</item>
-        <item>Lady Rachel Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
         <item>Isabel the Catholic</item>
         <item>Mrs. Elizabeth Rowe</item>
         <item>Maria Theresa</item>
@@ -5478,7 +5478,7 @@
        <ref target="c040" targOrder="U">Burder,</ref> and others <date>1777-1836.</date></note>
       <note type="toc">
        <list>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Queen Catharine Parr</item>
         <item>Countess of Warwick</item>
         <item>Lady Elizabeth Brooke</item>
@@ -5488,7 +5488,7 @@
         <item>Mrs. Lucy Hutchinson</item>
         <item>Mrs. Catharine Clark</item>
         <item>Countess of Carbery</item>
-        <item>Lady Rachel Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
         <item>Mrs. Elizabeth Bury</item>
         <item>Queen Mary II</item>
         <item>Mrs. Elizabeth Burnet</item>
@@ -5572,7 +5572,7 @@
        <list>
         <item>Jane Austen</item>
         <item>Anne Bronte</item>
-        <item>Charlotte Bronte</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
         <item>Emily Bronte</item>
         <item>Mrs. E. C. Gaskell</item>
        </list>
@@ -5753,7 +5753,7 @@
       <note place="unspecified" anchored="yes"> Bodleian British Library. </note>
       <note type="toc">
        <list>
-        <item>Mrs. Mary Somerville</item>
+        <item n="MARY_SOMERVILLE">Mrs. Mary Somerville</item>
         <item>Charlotte Elliott</item>
         <item>Caroline Hershel</item>
         <item>Elizabeth Smith</item>
@@ -5794,7 +5794,7 @@
        <list>
         <item>TOC of 1854 ed: Introductory</item>
         <item>Mrs. Trimmer</item>
-        <item>Mrs. Hannah More and her Sisters</item>
+        <item n="HANNAH_MORE">Mrs. Hannah More and her Sisters</item>
         <item>Mrs. Barbauld</item>
         <item>Elizabeth Smith</item>
         <item>Charlotte Elizabeth</item>
@@ -5803,7 +5803,7 @@
         <item>Sarah Martin</item>
         <item>Mrs. Ann H. Judson</item>
         <item>1868 edition adds: Hannah Kilham</item>
-        <item>Charlotte Brontë. *Pop Chart</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë. *Pop Chart</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> British Library. The pamphlets above rebound in
@@ -5843,7 +5843,7 @@
         <item>A prophetess</item>
         <item>S. Clara</item>
         <item>S. Theresa</item>
-        <item>Sister Dora</item>
+        <item n="SISTER_DORA" >Sister Dora</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes">Title page: S. Baring-Gould, "Author of "<hi
@@ -6842,7 +6842,7 @@
        </title> from <date>1841</date>. L.E.L. also listed as editor. </note>
       <note type="toc">
        <list>
-        <item>Queen Victoria</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
         <item>Isabella of Angouleme</item>
         <item>Marguerite of France</item>
         <item>Isabella of France</item>
@@ -7047,7 +7047,7 @@
         <item>Lucy Stone</item>
         <item>Lady Henry Somerset</item>
         <item>Julia Ward Howe</item>
-        <item>Queen Victoria. *Pop Chart</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria. *Pop Chart</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Of 16 collections by Bolton listed in Riches, 4 are
@@ -7159,7 +7159,7 @@
         <item>Rosa Bonheur</item>
         <item>Elizabeth Barrett Browning</item>
         <item>"George Eliot"</item>
-        <item>Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Elizabeth Thompson Butler</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Lady Brassey</item>
@@ -7907,7 +7907,7 @@
         <item>Mademoiselle de Lespinasse</item>
         <item>Madame Roland</item>
         <item>Madame Le Brun</item>
-        <item>Madame de Staël</item>
+        <item n="MADAME_DE_STAEL">Madame de Staël</item>
         <item>Madame Récamier</item>
         <item>Madame Valmore</item>
         <item>Madame de Rémusat</item>
@@ -8108,12 +8108,12 @@
        <list>
         <item>Anne Askew</item>
         <item>Lady Elizabeth Fitzgerald</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Lady Banks</item>
         <item>Lady Derby</item>
         <item>Lady Fanshawe</item>
         <item>Lucy Hutchinson</item>
-        <item>Lady Rachel Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
         <item>Lady Lisle</item>
         <item>Grizel Cochrane</item>
         <item>Lady Grizell Baillie</item>
@@ -8121,7 +8121,7 @@
         <item>Flora Macdonald</item>
         <item>Lady Harriet Acland</item>
         <item>Mrs. Delany</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Mary Bosanquet</item>
         <item>Helen Walker</item>
         <item>Fanny Burney</item>
@@ -8132,13 +8132,13 @@
         <item>Miss Berry</item>
         <item>Mary Russell Mitford</item>
         <item>Sarah Martin</item>
-        <item>Grace Darling</item>
-        <item>Charlotte Bronte</item>
+        <item n="GRACE_DARLING">Grace Darling</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
         <item>Elizabeth Barrett Browning</item>
-        <item>Adelaide Anne Procter</item>
+        <item n="ADELAIDE_PROCTER">Adelaide Anne Procter</item>
         <item>Lady Duff Gordon</item>
         <item>Frances Brown, the Blind Poetess</item>
-        <item>Mary Somerville</item>
+        <item n="MARY_SOMERVILLE">Mary Somerville</item>
         <item>Janet Hamilton</item>
         <item>Sarah Siddons</item>
         <item>Felicia Hemans</item>
@@ -8554,7 +8554,7 @@
         <item>Catherine of Siena</item>
         <item>Vittoria Colonna</item>
         <item>Jeanne d'Albret, Queen of Navarre</item>
-        <item>Lady Rachel Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
         <item>Lady Grisell Baillie</item>
         <item>Louisa, Queen of Prussia</item>
         <item>Sarah Siddons</item>
@@ -8642,13 +8642,13 @@
         <item>Introduction</item>
         <item>Her Majesty the Queen</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
-        <item>Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>The Baroness Burdett-Coutts</item>
         <item>The Princess of Wales</item>
         <item>The Duchess of Teck</item>
-        <item>Sister Dora</item>
+        <item n="SISTER_DORA">Sister Dora</item>
         <item>Agnes Weston</item>
-        <item>Grace Darling</item>
+        <item n="GRACE_DARLING">Grace Darling</item>
         <item>The Princess Alice</item>
         <item>Lady Henry Somerset</item>
         <item>Frances Ridley Havergal. *Pop Chart</item>
@@ -8909,10 +8909,10 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Elizabeth Stuart and the Palatinate/ The Heroine of Siberia</item>
         <item>Poems of the Domestic Affections</item>
-        <item>Grace Darling</item>
+        <item n="GRACE_DARLING">Grace Darling</item>
         <item>Grizel Cochrane</item>
         <item>Select Poems on Love for Flowers</item>
         <item>Flora MacDonald</item>
@@ -9226,8 +9226,15 @@
        </ref></note>
       <note type="toc">
        <list>
-        <item>Frances Willard, Agnes Weston, Sister Dora, Catherine Booth, Baroness Burdett-Coutts,
-         Lady Henry Somerset, Sarah Robinson, Mrs. Fawcett, Mrs. Gladstone</item>
+        <item>Frances Willard</item> 
+        <item>Agnes Weston</item> 
+        <item n="SISTER_DORA">Sister Dora</item> 
+        <item>Catherine Booth</item> 
+        <item>Baroness Burdett-Coutts</item>
+        <item>Lady Henry Somerset</item>
+        <item>Sarah Robinson</item> 
+        <item>Mrs. Fawcett</item> 
+        <item>Mrs. Gladstone</item>
        </list>
       </note>
       <image n="no298">
@@ -9423,16 +9430,16 @@
         <item>Felicitas</item>
         <item>Monica, Mother of St. Augustine</item>
         <item>Hilda, the Abbess</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Prascovia Lopouloff</item>
-        <item>Lady Rachel Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
         <item>Madame Elizabeth of France</item>
         <item>Susannah Wesley</item>
         <item>Catherine Tait, wife of archbishop of Canterbury</item>
         <item>Mlle Legras</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Sarah Martin</item>
-        <item>Elizabeth Fry. *Pop Chart</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry. *Pop Chart</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Author of at least 12 vols. for Nelson, advertised
@@ -9536,7 +9543,7 @@
       <note place="unspecified" anchored="yes">NOT:=fewer than three subjects.</note>
       <note type="toc">
        <list>
-        <item>Madame de Stael</item>
+        <item n="MADAME_DE_STAEL">Madame de Stael</item>
         <item>Madame Roland</item>
        </list>
       </note>
@@ -9556,7 +9563,7 @@
       <note place="unspecified" anchored="yes">NOT:=fewer than three subjects.</note>
       <note type="toc">
        <list>
-        <item>Lady Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Russell</item>
         <item>Madame Guyon</item>
        </list>
       </note>
@@ -9753,18 +9760,18 @@
        <list>
         <item>The Mother of Reformers—Susannah Wesley</item>
         <item>The Wife of Luther—Catherine von Bora</item>
-        <item>Consecrated Talents—Hannah More</item>
+        <item n="HANNAH_MORE">Consecrated Talents—Hannah More</item>
         <item>The Missionary Heroine--Ann Hasseltine Judson</item>
         <item>The Model Queen--Isabella of Spain</item>
         <item>The Enigma of History--Mary, Queen of Scots</item>
-        <item>The Female Howard—Elizabeth Fry</item>
-        <item>An Angel of Mercy—Florence Nightingale</item>
+        <item n="ELIZABETH_FRY">The Female Howard—Elizabeth Fry</item>
+        <item n="FLORENCE_NIGHTINGALE">An Angel of Mercy—Florence Nightingale</item>
         <item>Africa's Benefactress—Mrs. Ann Wilkins</item>
         <item>Foundress of a School for the Prophets—Mrs. Eliza Garrett</item>
         <item>The Greek Matron—Penelope</item>
         <item>The Roman Matron—Cornelia</item>
         <item>Wife of the Father of His Country—Martha Washington</item>
-        <item>The Indian Maiden--Pocahontas</item>
+        <item n="POCAHONTAS">The Indian Maiden--Pocahontas</item>
         <item>The Poetess of the Affections—Frances Sargent Osgood</item>
         <item>The Songstress of Liberty—Elizabeth Barrett Browning</item>
         <item>The Martyr Queen--Marie Antoinette</item>
@@ -9818,7 +9825,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Madame de Staël</item>
+        <item n="MADAME_DE_STAEL">Madame de Staël</item>
         <item>Jane Austen</item>
         <item>George Eliot</item>
         <item>Mrs. Oliphant</item>
@@ -9858,11 +9865,11 @@
         <item>Héloise</item>
         <item>Laura</item>
         <item>Valentine de Milan</item>
-        <item>Joan d'Arc</item>
+        <item n="JOAN_OF_ARC">Joan d'Arc</item>
         <item>Margaret of Anjou</item>
         <item>Isabella of Castile</item>
-        <item>Lady Jane Grey</item>
-        <item>Pocahontas</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
+        <item n="POCAHONTAS">Pocahontas</item>
         <item>La Vallière</item>
         <item>Maria Theresa</item>
         <item>Catherine II</item>
@@ -9893,14 +9900,14 @@
         <item>Lady Franklin</item>
         <item>Margaret Baxter</item>
         <item>Elizabeth Burnet</item>
-        <item>Charlotte Brontë</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë</item>
         <item>Susannah Wesley</item>
         <item>Amelia Opie</item>
         <item>Elizabeth Smith</item>
         <item>Charlotte Elizabeth</item>
         <item>Mary Russell Mitford</item>
         <item>Sarah Trimmer</item>
-        <item>Lady Rachel Russell. *Pop Chart</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell. *Pop Chart</item>
        </list>
       </note>
      </bibl>
@@ -10110,8 +10117,8 @@
       <note type="toc">
        <list>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale, the Soldier's Friend</item>
-        <item>Elizabeth Fry, the Earnest Philanthropist</item>
-        <item>Hannah More, the Worker in Christ's Vineyard</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry, the Earnest Philanthropist</item>
+        <item n="HANNAH_MORE">Hannah More, the Worker in Christ's Vineyard</item>
         <item>Margaret Godolphin, the True Maid of Honour</item>
         <item>Margaret Roper, the Devoted Daughter</item>
         <item>Lucy Hutchinson, the Perfect Wife</item>
@@ -10406,7 +10413,7 @@
         (300)</ref>. </note>
       <note type="toc">
        <list>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Catharine Parr</item>
         <item>Mrs. Jane Ratcliff</item>
         <item>Mrs. Elizabeth Dering</item>
@@ -10452,7 +10459,7 @@
        <list>
         <item>Maria Letizia Bonaparte</item>
         <item>Zingha, Queen of Matamba and Angola</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Doña Catalina de Erauso</item>
         <item>Beatrice Cenci</item>
         <item>Catherine Alexiewna</item>
@@ -10488,18 +10495,18 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Victoria</item>
-        <item>Sister Dora</item>
+        <item n="QUEEN_VICTORIA">Victoria</item>
+        <item n="SISTER_DORA">Sister Dora</item>
         <item>Mary Carpenter</item>
         <item>Sarah Robinson</item>
         <item>Agnes Weston</item>
         <item>Angela Georgina</item>
         <item>Baroness Burdett-Coutts</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
-        <item>Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Mrs. Isabel Reaney</item>
         <item>Mary Ann Rogers</item>
-        <item>Frances Power Cobbe. *Pop Chart</item>
+        <item n="FRANCES_COBBE">Frances Power Cobbe. *Pop Chart</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Refers to Victoria's funeral, the anniversary of
@@ -10582,30 +10589,30 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Victoria</item>
+        <item n="QUEEN_VICTORIA">Victoria</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
-        <item>Mary Somerville</item>
+        <item n="MARY_SOMERVILLE">Mary Somerville</item>
         <item>Sarah Robinson, the Soldiers’ Friend</item>
         <item>Rosa Bonheur</item>
         <item>Octavia Hill</item>
         <item>Mrs. Fletcher</item>
-        <item>Elizabeth Fry</item>
-        <item>Hannah More</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Lady Grisell Baillie</item>
         <item>Sarah Martin</item>
         <item>Madame D'Arblay</item>
         <item>Mrs Hutchinson</item>
-        <item>Lady Rachel Russell</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Mrs. Hemans</item>
-        <item>Charlotte Brontë</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë</item>
         <item>Harriet Beecher Stowe</item>
         <item>“A Group of Notable Women” [briefer lives in one chapter]: Elizabeth Barrett
          Browning</item>
         <item>Jenny Lind, the Swedish Nightingale</item>
         <item>Mrs Craik</item>
         <item>Louisa May Alcott</item>
-        <item>Dorothy Pattison</item>
+        <item n="SISTER_DORA">Dorothy Pattison</item>
         <item>Jean Ingelow</item>
         <item>Mary Carpenter. *Pop Chart</item>
        </list>
@@ -10868,7 +10875,7 @@
        <list>
         <item>British Library. No. 6: Eminent Women . TOC: Caroline Herschel</item>
         <item>The Princess de Lamballe</item>
-        <item>Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Elizabeth Barrett Browning</item>
         <item>Rosa Bonheur</item>
         <item>Agnes Weston. price 8d net. The only female subjects in other volumes in the series
@@ -10986,7 +10993,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>vol. I. Hannah More</item>
+        <item n="HANNAH_MORE">vol. I. Hannah More</item>
         <item>Frances Burney (Mme D'Arblay)</item>
         <item>Mary Wollstonecraft (Godwin)</item>
         <item>Mary W. Godwin (Shelley)</item>
@@ -11000,7 +11007,7 @@
         <item>Aurore Dudevant (George Sand)</item>
         <item>Elizabeth Barrett Browning</item>
         <item>Margaret Fuller (Ossoli)</item>
-        <item>Charlotte Brontë</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë</item>
         <item>Emily Brontë</item>
         <item>Marian Evans Cross (George Eliot)</item>
        </list>
@@ -11089,15 +11096,20 @@
         <item>Catherine Grey</item>
         <item>Mary Sidney, Countess of Pembroke</item>
         <item>Magdalen Herbert</item>
-        <item>Frances Howard, Duchess of Richmond. Vol. 2: Elizabeth Stuart, Queen of Bohemia</item>
+        <item>Frances Howard, Duchess of Richmond.</item>
+        <item>Vol. 2: Elizabeth Stuart, Queen of Bohemia</item>
         <item>Lucy Harrington, Countess of Bedford</item>
         <item>Frances Howard, Countess of Somerset</item>
         <item>Margaret Elizabeth, Countess of Essex</item>
         <item>Christian, Countess of Devonshire</item>
         <item>Anne Clifford, Countess of Dorset</item>
         <item>Mary Evelyn</item>
-        <item>Lady Fanshawe. Vol. 3: 21 subjects. incl. Mrs. Lucy Hutchinson, Lady Rachel Russell,
-         Jane Lane, Susannah Centlivre. Vol. 4: Lengthy biographies of Sarah, Duchess of Marlborough
+        <item>Lady Fanshawe.</item>
+        <item>Vol. 3: 21 subjects. incl. Mrs. Lucy Hutchinson,</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell,</item>
+         <item>Jane Lane,</item> 
+         <item>Susannah Centlivre.</item> 
+         <item>Vol. 4: Lengthy biographies of Sarah, Duchess of Marlborough
          and Lady Mary Wortley Montagu</item>
        </list>
       </note>
@@ -11348,16 +11360,16 @@
        <list>
         <item>Saint Hilda</item>
         <item>Joan Countess of Kent, Wife of Black Prince (Son of Edward III of England)</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Margaret Beaufort</item>
-        <item>Rachel, Lady Russell</item>
-        <item>Elizabeth Fry</item>
-        <item>Mary Somerville</item>
+        <item n="LADY_RACHEL_RUSSELL">Rachel, Lady Russell</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
+        <item n="MARY_SOMERVILLE">Mary Somerville</item>
         <item>Julia Selina Inglis</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Isabella Bird (Mrs. Bishop)</item>
-        <item>Sister Dora</item>
-        <item>Queen Victoria. *Pop Chart</item>
+        <item n="SISTER_DORA">Sister Dora</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria. *Pop Chart</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Author of children's histories of England and
@@ -11608,7 +11620,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Rachel Wriothesley, Lady Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Rachel Wriothesley, Lady Russell</item>
         <item>Madame D'Arblay and Mrs. Piozzi</item>
         <item>Mary L. Ware</item>
         <item>Mrs. Hutchinson and Lady Fanshawe</item>
@@ -11825,14 +11837,14 @@
        <list>
         <item>Cleopatra</item>
         <item>Philippa of Hainault</item>
-        <item>St. Joan of Arc</item>
+        <item n="JOAN_OF_ARC">St. Joan of Arc</item>
         <item>St. Teresa</item>
         <item>Queen Elizabeth</item>
         <item>Mme de Maintenon</item>
         <item>Nell Gwynne</item>
         <item>Madame de Pompadour</item>
         <item>Mme Mère</item>
-        <item>Mme de Staël</item>
+        <item n="MADAME_DE_STAEL">Mme de Staël</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Catherine Booth</item>
        </list>
@@ -11879,8 +11891,8 @@
         <item>Harriet Beecher Stowe</item>
         <item>Elizabeth Le Brun</item>
         <item>Mme de Guyon</item>
-        <item>Mme de Stael</item>
-        <item>Victoria</item>
+        <item n="MADAME_DE_STAEL">Mme de Stael</item>
+        <item n="QUEEN_VICTORIA">Victoria</item>
         <item>Princess Charlotte</item>
         <item>Frederika Bremer</item>
         <item>Margaret, Duchess of Newcastle</item>
@@ -11936,7 +11948,7 @@
         <item>Mrs. Reed</item>
         <item>Catherine Tait</item>
         <item>Frances Ridley Havergal</item>
-        <item>Sister Dora</item>
+        <item n="SISTER_DORA">Sister Dora</item>
         <item>Mrs. Fisher</item>
         <item>Mrs. Wakefield</item>
         <item>Christine R. Alsop</item>
@@ -12314,12 +12326,12 @@
        <list>
         <item>Mary Washington</item>
         <item>Martha Washington</item>
-        <item>Charlotte Brontë</item>
-        <item>Elizabeth Fry</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Sarah Martin</item>
         <item>Margaret Mercer</item>
         <item>Sarah Boardman Judson</item>
-        <item>Lady Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Russell</item>
         <item>Lucy Hutchinson</item>
         <item>Isabel the Catholic</item>
         <item>Mrs. Elizabeth Rowe</item>
@@ -12329,7 +12341,7 @@
         <item>Rebecca Motte</item>
         <item>Madame Necker</item>
         <item>Caroline L. Herschel</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Ann Flaxman</item>
         <item>Mrs. Wordsworth</item>
         <item>Harriet Newell</item>
@@ -12809,7 +12821,7 @@
         <item>Fanny Jane Crosby [blind hymnwriter]</item>
         <item>Maria Mitchell [American astronomer]</item>
         <item>Lucretia Mott</item>
-        <item>Victoria [“The Little Princess Who Became a Great Queen”]</item>
+        <item n="QUEEN_VICTORIA">Victoria [“The Little Princess Who Became a Great Queen”]</item>
         <item>Jenny Lind</item>
         <item>Frances Willard</item>
         <item>Elizabeth Barrett</item>
@@ -12817,7 +12829,7 @@
         <item>Clara Barton [“The Girl Who Forgot to Be Afraid”]</item>
         <item>Marie Sklodowska Curie</item>
         <item>Susan B. Anthony</item>
-        <item>Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Louisa May Alcott</item>
         <item>Harriet Hosmer</item>
         <item>Elizabeth Blackwell. *Pop Chart</item>
@@ -13348,7 +13360,7 @@
         <item>Mrs. Trimmer</item>
         <item>Mrs. Barbauld</item>
         <item>Miss Seward</item>
-        <item>Mrs. Hannah More</item>
+        <item n="HANNAH_MORE">Mrs. Hannah More</item>
         <item>Mrs. Charlotte Smith</item>
         <item>Mrs. Inchbald. vol II: Mrs. Piozzi</item>
         <item>Madame D' Arblay</item>
@@ -13416,7 +13428,7 @@
        </title> by Julia Ward Howe), including Mathilde Blind's <title>
         <hi rend="italics">George Eliot</hi>
        </title>, Millicent Garrett Fawcett's <title>
-        <hi rend="italics">Life of Her Majesty Queen Victoria</hi>
+        <hi rend="italics" n="QUEEN_VICTORIA">Life of Her Majesty Queen Victoria</hi>
        </title>, Ingram's <title>
         <hi rend="italics">Elizabeth Barrett Browning</hi>
        </title>, Florence Fenwick Miller's <title>
@@ -13424,11 +13436,11 @@
        </title>, Elizabeth Robins Pennell's <title>
         <hi rend="italics">Mary Wollstonecraft Godwin</hi>
        </title>, Emma Raymond Pitman's <title>
-        <hi rend="italics">Elizabeth Fry</hi>
+        <hi rend="italics" n="ELIZABETH_FRY">Elizabeth Fry</hi>
        </title>, Lucy Madox Rossetti's <title>
         <hi rend="italics">Mrs. Shelley</hi>
        </title>, and Charlotte Mary Yonge's <title>
-        <hi rend="italics">Hannah More</hi>
+        <hi rend="italics" n="HANNAH_MORE">Hannah More</hi>
        </title>. </note>
      </bibl>
      <bibl id="a267" default="NO">
@@ -13504,11 +13516,11 @@
       <note type="toc">
        <list>
         <item>Introduction by Henry C. Ewart</item>
-        <item>Queen Victoria by Donald MacLeod</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria by Donald MacLeod</item>
         <item>Princess Alice by M.C. Taylor and Thos. Stephenson</item>
-        <item>Mrs. Fry by Mrs. Francis G. Faithfull</item>
+        <item n="ELIZABETH_FRY">Mrs. Fry by Mrs. Francis G. Faithfull</item>
         <item>Sarah Martin by Henry C. Ewart</item>
-        <item>Sister Dora by Mrs. Charles Garnett</item>
+        <item n="SISTER_DORA">Sister Dora by Mrs. Charles Garnett</item>
         <item>Mary Carpenter by Rosamond Davenport Hill</item>
         <item>Mrs. Chisholm by Thos. Stephenson</item>
         <item>Mary Moffat by Alex H. Japp</item>
@@ -13539,11 +13551,11 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Elizabeth Fry / by James Macaulay</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry / by James Macaulay</item>
         <item>Selina, Countess of Huntington / by R. Lovett</item>
-        <item>Rachel, Lady Russell / by James Macaulay</item>
+        <item n="LADY_RACHEL_RUSSELL">Rachel, Lady Russell / by James Macaulay</item>
         <item>Frances Ridley Havergal / by J.P. Hobson</item>
-        <item>Hannah More / by Henry Johnson</item>
+        <item n="HANNAH_MORE">Hannah More / by Henry Johnson</item>
         <item>Susanna Wesley / J. Cunningham</item>
         <item>Mrs. Hemans / by S.F. Harris</item>
         <item>Madame Guyon / by William Nichols</item>
@@ -13639,7 +13651,7 @@
        </title>. Narrated by father. </note>
       <note type="toc">
        <list>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Lady Anna Halket</item>
         <item>Lady Arundel</item>
         <item>Jane de Mountfort</item>
@@ -13656,7 +13668,7 @@
         <item>Helena Lucretia Cornaro</item>
         <item>Inez de la Cruz</item>
         <item>Countess of Leicester</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Madame de Mouchy</item>
         <item>Mademoiselles de Bussy and de Brion</item>
        </list>
@@ -13706,7 +13718,7 @@
        <list>
         <item>Martha Dandridge Custis</item>
         <item>Marie Antoinette</item>
-        <item>Queen Victoria</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Clara Barton</item>
         <item>Rosa Bonheur</item>
@@ -13766,7 +13778,7 @@
         <item>Queen Maria Antoinette</item>
         <item>The Empress Josephine</item>
         <item>The Empress Eugenie</item>
-        <item>Queen Victoria</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
        </list>
       </note>
      </bibl>
@@ -13895,9 +13907,9 @@
         <item>Mrs. Walter Searle</item>
         <item>Harriet Beecher Stowe</item>
         <item>Mary Slessor</item>
-        <item>Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Charlotte Maria Tucker</item>
-        <item>Grace Darling</item>
+        <item n="GRACE_DARLING">Grace Darling</item>
        </list>
       </note>
      </bibl>
@@ -13932,7 +13944,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Louise of Savoy and Her Daughter, Margaret of Angoulême, Dutchess of Alençon and Queen
          of Navarre</item>
         <item>Jeanne D'Albret, Queen of Navarre</item>
@@ -13958,17 +13970,17 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Mary Carpenter</item>
         <item>Caroline Herschel</item>
         <item>Sarah Martin</item>
-        <item>Mary Somerville</item>
-        <item>Queen Victoria</item>
+        <item n="MARY_SOMERVILLE">Mary Somerville</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
         <item>Harriet Martineau</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Mary Lamb</item>
         <item>Agnes Elizabeth Jones</item>
-        <item>Charlotte and Emily Brontë</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte</item> <item>and Emily Brontë</item>
         <item>Elizabeth Barrett Browning</item>
         <item>Lady Sale and Her Fellow-Hostages in Afghanistan</item>
         <item>Elizabeth Gilbert</item>
@@ -13976,10 +13988,10 @@
         <item>Maria Edgeworth</item>
         <item>Queen Louisa of Prussia</item>
         <item>Dorothy Wordsworth</item>
-        <item>Sister Dora</item>
+        <item n="SISTER_DORA">Sister Dora</item>
         <item>Mrs. Barbauld</item>
         <item>Joanna Baillie</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>The American Abolitionists: Prudence Crandall and Lucretia Mott. *Pop Chart</item>
        </list>
       </note>
@@ -14321,12 +14333,12 @@
       <note type="toc">
        <list>
         <item>Madame de Lavalette</item>
-        <item>Lady Rachel Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
         <item>the Empress Josephine</item>
         <item>Margaret of Anjou</item>
         <item>Esther Johnson [Stella]</item>
         <item>Margaret Roper</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>the Empress Maude</item>
         <item>Charlotte Corday</item>
         <item>Anne Askew</item>
@@ -14335,11 +14347,11 @@
         <item>Sarah, Duchess of Marlborough</item>
         <item>Lucy Hutchinson</item>
         <item>Madame Roland</item>
-        <item>Grace Darling</item>
+        <item n="GRACE_DARLING">Grace Darling</item>
         <item>Madame D'Arblay [Burney]</item>
-        <item>Madame de Stael</item>
+        <item n="MADAME_DE_STAEL">Madame de Stael</item>
         <item>Mrs. Chisholm</item>
-        <item>Poccahontas [sic]</item>
+        <item n="POCAHONTAS">Poccahontas [sic]</item>
         <item>Madame de Maintenon</item>
         <item>Ida Pfeiffer</item>
         <item>Mary Queen of Scots</item>
@@ -14351,14 +14363,14 @@
         <item>Lady Norton</item>
         <item>Elizabeth Burnet</item>
         <item>Mary II [Queen of William III]</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Isabella of Castille</item>
         <item>Marie Antoinette</item>
-        <item>Charlotte Bronte</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
         <item>Marie de Medicis</item>
         <item>Henrietta Maria</item>
         <item>Joan of Navarre</item>
-        <item>Mrs. Fry</item>
+        <item n="ELIZABETH_FRY">Mrs. Fry</item>
         <item>Mrs. Hemans</item>
         <item>Mrs. Unwin</item>
         <item>Frederika Bremer</item>
@@ -14676,7 +14688,7 @@
         <item>Elizabeth Ann Seton, by R.V. Trevel</item>
         <item>Lucretia Mott, by A.E. Jenkins</item>
         <item>Fanny Crosby, by W. Bradbury</item>
-        <item>Sister Dora, by G.L. Mumford</item>
+        <item n="SISTER_DORA">Sister Dora, by G.L. Mumford</item>
         <item>Hannah Whitall Smith, by W.H. Foster</item>
         <item>Frances Ridley Havergal, by W. Bradbury</item>
         <item>Ramabai Dongre Medhavi, by J.C. Minot</item>
@@ -15056,7 +15068,7 @@
        <list>
         <item>Mrs. Susan Huntingdon</item>
         <item>Mrs. Ann H. Judson</item>
-        <item>Mrs. Hannah More</item>
+        <item n="HANNAH_MORE">Mrs. Hannah More</item>
         <item>Mrs. Isabella Graham</item>
         <item>Mrs. Mary M. Ellis</item>
         <item>Miss Caroline Elizabeth Smelt</item>
@@ -15447,19 +15459,19 @@
         <item>Cornelia</item>
         <item>Zenobia</item>
         <item>Beatrice</item>
-        <item>Joan D'arc</item>
+        <item n="JOAN_OF_ARC">Joan D'arc</item>
         <item>Isabella</item>
         <item>Diana de Poitiers</item>
         <item>Anne Boleyn</item>
         <item>Mary, Queen of Scots</item>
-        <item>Pocahontas</item>
+        <item n="POCAHONTAS">Pocahontas</item>
         <item>Nell Gwynn</item>
         <item>Lady Mary Wortley Montagu</item>
         <item>Marie Antoinette</item>
         <item>The Maid of Saragossa</item>
         <item>Anne Hasseltine Judson</item>
-        <item>Charlotte Bronte</item>
-        <item>Victoria</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
+        <item n="QUEEN_VICTORIA">Victoria</item>
         <item>Eugenie. *Pop Chart Nineteen illustrations. and subjects</item>
        </list>
       </note>
@@ -15580,9 +15592,9 @@
         <item>Lucretia and Margaret Davidson</item>
         <item>Mrs. Adams</item>
         <item>Mrs. (Martha) Washington</item>
-        <item>Mme de Stael</item>
+        <item n="MADAME_DE_STAEL">Mme de Stael</item>
         <item>Lady Hester Stanhope</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Mrs. Barbauld</item>
         <item>Mme de Genlis</item>
         <item>Josephine</item>
@@ -15592,7 +15604,7 @@
         <item>Mary, Queen of Scots</item>
         <item>Elizabeth, Queen of England</item>
         <item>Isabella of Spain</item>
-        <item>Joan of Arc. *Pop Chart</item>
+        <item n="JOAN_OF_ARC">Joan of Arc. *Pop Chart</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> See <ref target="a184" targOrder="U">Louise
@@ -15814,7 +15826,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Mary Somerville</item>
+        <item n="MARY_SOMERVILLE">Mary Somerville</item>
         <item>Lady Duff Gordon</item>
         <item>Sarah Martin</item>
         <item>Ann Taylor</item>
@@ -15852,7 +15864,7 @@
        <list>
         <item>American Womanhood in the Making</item>
         <item>The Women of Pioneer Days</item>
-        <item>Pocahontas: Virginia</item>
+        <item n="POCAHONTAS">Pocahontas: Virginia</item>
         <item>Priscilla Mullins of Plymouth</item>
         <item>Annetje Jans: New York</item>
         <item>Ann Hutchinson</item>
@@ -16564,21 +16576,21 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Anne Boleyn</item>
         <item>Queen Elizabeth</item>
-        <item>Pocahontas</item>
+        <item n="POCAHONTAS">Pocahontas</item>
         <item>Lucy Hutchinson</item>
         <item>Christina Montagu</item>
         <item>Lady Mary Wortley</item>
         <item>Mrs. Barbauld</item>
-        <item>Hannah More</item>
-        <item>Mme de Stael</item>
+        <item n="HANNAH_MORE">Hannah More</item>
+        <item n="MADAME_DE_STAEL">Mme de Stael</item>
         <item>Miss Edgeworth</item>
         <item>Charlotte Corday</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Sarah Martin</item>
-        <item>Grace Darling. *Pop Chart</item>
+        <item n="GRACE_DARLING">Grace Darling. *Pop Chart</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Verbatim excerpts from <title>
@@ -17018,9 +17030,9 @@
        <list>
         <item>1st ser. Frances Burney (Madame d'Arblay)</item>
         <item>Mrs. Inchbald</item>
-        <item>Madame de Staël</item>
+        <item n="MADAME_DE_STAEL">Madame de Staël</item>
         <item>Mrs. Barbauld</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Lady Anne Barnard</item>
         <item>Joanna Baillie</item>
         <item>Lady Nairn</item>
@@ -17039,9 +17051,9 @@
         <item>Honourable Mrs. Norton (Lady Stirling-Maxwell)</item>
         <item>Elizabeth Barrett Browning</item>
         <item>Mrs. Gaskell</item>
-        <item>Charlotte Brontë</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë</item>
         <item>George Eliot (Mary Anne Cross)</item>
-        <item>Adelaide Anne Procter</item>
+        <item n="ADELAIDE_PROCTER">Adelaide Anne Procter</item>
         <item>Louisa May Alcott</item>
        </list>
       </note>
@@ -17062,8 +17074,8 @@
        <list>
         <item>Hypatia</item>
         <item>St. Teresa</item>
-        <item>Lady Jane Grey</item>
-        <item>Madame de Stael</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
+        <item n="MADAME_DE_STAEL">Madame de Stael</item>
         <item>Madame Roland</item>
         <item>Madame de Scudery</item>
         <item>Jane Austen</item>
@@ -17078,14 +17090,14 @@
         <item>Margaret van Eyck</item>
         <item>Nance Oldfield</item>
         <item>St. Hilda</item>
-        <item>Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Elizabeth of Hungary</item>
         <item>Catherine of Siena</item>
         <item>Charlotte Corday</item>
         <item>Flora Macdonald</item>
         <item>Kate Barlass</item>
-        <item>Grace Darling</item>
-        <item>Victoria</item>
+        <item n="GRACE_DARLING">Grace Darling</item>
+        <item n="QUEEN_VICTORIA">Victoria</item>
         <item>Elizabeth</item>
         <item>Zenobia</item>
         <item>Philippa</item>
@@ -17093,7 +17105,7 @@
         <item>Isabella</item>
         <item>Catherine the Great</item>
         <item>Tsze-Hsi-An</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Boadicea</item>
         <item>Agnes of Dunbar</item>
         <item>Emilie Plater</item>
@@ -17962,7 +17974,7 @@
         <item>Boadicea</item>
         <item>Berengaria</item>
         <item>Laura</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Isabella of Castile</item>
         <item>Beatrice Cenci</item>
         <item>Ann Boleyn</item>
@@ -18283,12 +18295,12 @@
       <note type="toc">
        <list>
         <item>vol. I: Saint Catherine</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Vittoria Colonna</item>
         <item>Catherine de' Medici</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Mary, Queen of Scots</item>
-        <item>Pocahontas</item>
+        <item n="POCAHONTAS">Pocahontas</item>
         <item>Priscilla Alden</item>
         <item>Catherine the Great</item>
         <item>Fanny Burney. vol. II: Sarah Siddons</item>
@@ -18296,8 +18308,8 @@
         <item>Josephine</item>
         <item>Dolly Madison</item>
         <item>Louisa of Prussia</item>
-        <item>Charlotte Brontë</item>
-        <item>Victoria</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë</item>
+        <item n="QUEEN_VICTORIA">Victoria</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Jenny Lind</item>
         <item>Rosa Bonheur</item>
@@ -18472,11 +18484,11 @@
         <item>Mother and wife of Shakspeare</item>
         <item>Mother of Beethoven</item>
         <item>Mother of Sheridan</item>
-        <item>Frances Trollope</item>
+        <item n="FRANCES_TROLLOPE">Frances Trollope</item>
         <item>Lady Beaconsfield</item>
         <item>Mother of Garfield</item>
         <item>Mother of Alexander von Humboldt</item>
-        <item>Wife of Lord William Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Wife of Lord William Russell</item>
         <item>Mother of Lamartine</item>
         <item>Milton's Wives</item>
         <item>Mother of Carlyle</item>
@@ -18583,10 +18595,10 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Mary Somerville [“The Queen of Science”]</item>
+        <item n="MARY_SOMERVILLE">Mary Somerville [“The Queen of Science”]</item>
         <item>Harriet Martineau [ “the Political Economist and Friend of the People”]</item>
         <item>Elizabeth Barrett Browning [ “The English Sappho”]</item>
-        <item>Charlotte Bronte [ “The Moorland Romancist”]</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronte [ “The Moorland Romancist”]</item>
         <item>George Eliot [ “The Greatest Novelist of the Reign of Our Queen”]</item>
         <item>Felicia Hemans [ “The Poet of Womanhood”]</item>
        </list>
@@ -18711,9 +18723,9 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Dorothy Payne Madison</item>
-        <item>Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Lucretia Mott</item>
         <item>Mary Lyon</item>
         <item>Dorothea Dix</item>
@@ -18722,7 +18734,7 @@
         <item>Maria Mitchell</item>
         <item>Lucy Stone</item>
         <item>Julia Ward Howe</item>
-        <item>Queen Victoria</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Susan B. Anthony</item>
         <item>Mary A. Livermore</item>
@@ -18984,11 +18996,11 @@
         <item>Elizabeth Barrett Browning</item>
         <item>Madame Guyon</item>
         <item>Harriet Martineau</item>
-        <item>Charlotte Brontë</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë</item>
         <item>Christina Rossetti</item>
         <item>Rosa Bonheur</item>
-        <item>Madame de Staël</item>
-        <item>Elizabeth Fry</item>
+        <item n="MADAME_DE_STAEL">Madame de Staël</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Mary Lamb</item>
         <item>Jane Austen</item>
         <item>Empress Josephine</item>
@@ -19164,7 +19176,7 @@
         <item>The First Stars and Stripes: Betsy Ross</item>
         <item>The Third Lady of the Land: Elizabeth Schuyler Hamilton</item>
         <item>A Race for Powder: Betty Zane</item>
-        <item>The Angel of the Prisons: Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">The Angel of the Prisons: Elizabeth Fry</item>
         <item>A Poet and the Wife of a Poet: Elizabeth Barrett Browning</item>
         <item>In a Quaint Old Cranford: Elizabeth Gaskell</item>
         <item>Rub-a-Dub-Dub! Elizabeth Cady Stanton</item>
@@ -19214,7 +19226,7 @@
         <item>Frances Dana Gage</item>
         <item>Mrs. A. H. Hoge</item>
         <item>Isabella I</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Maria Anna Angelina Kaufman</item>
         <item>Mary Lyon</item>
         <item>Mary Russell Mitford</item>
@@ -19224,7 +19236,7 @@
         <item>Anna Maria Ross</item>
         <item>Hannah Whital Smith</item>
         <item>Mrs. E. J. Thompson</item>
-        <item>Victoria</item>
+        <item n="QUEEN_VICTORIA">Victoria</item>
         <item>Frances E. Willard</item>
         <item>Letitia Youmans. *Pop Chart</item>
        </list>
@@ -19583,7 +19595,7 @@
         <item>Mrs. Giles and Her Circle</item>
         <item>Mrs. Macpherson</item>
         <item>Georgiana McCrae</item>
-        <item>“Grace Darling”. of Western Australia</item>
+        <item n="GRACE_DARLING">“Grace Darling”. of Western Australia</item>
         <item>Mrs. Frances</item>
         <item>Lucy Osburn</item>
         <item>Lady Murray</item>
@@ -19691,9 +19703,9 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Margaret of Anjou</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Anna Comnena</item>
         <item>Madame de Maintenon</item>
         <item>Frances d'Aubigne, Marchioness de</item>
@@ -20189,7 +20201,7 @@
         <item>Boadicea</item>
         <item>Berengaria</item>
         <item>Laura</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Isabella of Castile</item>
         <item>Beatrice Cenci</item>
         <item>Ann Boleyn</item>
@@ -20581,7 +20593,7 @@
        <list>
         <item>Cleopatra</item>
         <item>Isabella of Castile</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Maria Theresa</item>
         <item>Josephine</item>
         <item>Elizabeth of England</item>
@@ -20699,12 +20711,12 @@
         <item>Mary L. Ware</item>
         <item>Miss Marsh</item>
         <item>Mrs. Sherman</item>
-        <item>Charlotte Brontë</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë</item>
         <item>Margaret Fuller</item>
-        <item>Mrs. Fry</item>
+        <item n="ELIZABETH_FRY">Mrs. Fry</item>
         <item>Mrs. Sherwood</item>
-        <item>Mrs. Hannah More</item>
-        <item>Pocahontas</item>
+        <item n="HANNAH_MORE">Mrs. Hannah More</item>
+        <item n="POCAHONTAS">Pocahontas</item>
         <item>Lydia Sellon</item>
         <item>Elizabeth Blackwell. *Pop Chart</item>
        </list>
@@ -20801,10 +20813,10 @@
         <item>Margaret Fuller</item>
         <item>Elizabeth Blackwell</item>
         <item>Rosa Bonheur</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Mrs. (Mary Martha) Sherwood</item>
         <item>Jenny Lind</item>
-        <item>Charlotte Brontë. *Pop Chart</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë. *Pop Chart</item>
        </list>
       </note>
      </bibl>
@@ -20842,7 +20854,7 @@
         <item>Miss Carpenter</item>
         <item>Mrs. Bowen Thompson</item>
         <item>Miss Macpherson</item>
-        <item>Sister Dora</item>
+        <item n="SISTER_DORA">Sister Dora</item>
         <item>Miss Brennan</item>
         <item>Frances Ridley Havergal</item>
         <item>Catharine Tait</item>
@@ -20938,7 +20950,7 @@
         <item>A “Most Accomplished Coquette”: Jane Austen’s “Lady Susan”</item>
         <item>Parallel Passages: Jane Austen and Fanny Burney</item>
         <item>“Persuasion” to “Jane Eyre”: Writers from 1818-1847</item>
-        <item>A Lonely Soul: Charlotte Bronte</item>
+        <item n="CHARLOTTE_BRONTE">A Lonely Soul: Charlotte Bronte</item>
         <item>“Jane Eyre” to “Scenes of Clerical Life”: Writers from 1847-1858</item>
         <item>A Professional Woman: George Eliot</item>
         <item>The Great Four: Burney, Austen, Bronte, George Eliot</item>
@@ -20962,7 +20974,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Lady Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Russell</item>
         <item>Lady Warwick</item>
         <item>Lady Maynard</item>
         <item>Mrs. Hutchinson</item>
@@ -21095,7 +21107,7 @@
         <item>Madame de Charrière</item>
         <item>Madame de Krüdener</item>
         <item>Madame Cottin</item>
-        <item>Madame de Staël</item>
+        <item n="MADAME_DE_STAEL">Madame de Staël</item>
        </list>
       </note>
      </bibl>
@@ -21264,7 +21276,7 @@
         <item>Margaret Beaufort</item>
         <item>Margaret Roper</item>
         <item>Anne Askew</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Lady Mildred Burleigh</item>
         <item>Margaret of Lorraine</item>
         <item>Margaret Paleologue</item>
@@ -21321,7 +21333,7 @@
         <item>Lady Rachel Russel</item>
         <item>Mrs Elizabeth Rowe</item>
         <item>Lady Elizabeth Hastings</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Countess of Huntingdon</item>
         <item>Rosa Govona</item>
         <item>Maria Agnesi</item>
@@ -21338,7 +21350,7 @@
         <item>Elizabeth Christina</item>
         <item>Mary Federovna</item>
         <item>The Montyon Prizes</item>
-        <item>Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Sarah Martin</item>
        </list>
       </note>
@@ -21451,7 +21463,7 @@
        <list>
         <item>Princess Charlotte of Wales</item>
         <item>Mrs. James Fordyce</item>
-        <item>Mrs. Hannah More</item>
+        <item n="HANNAH_MORE">Mrs. Hannah More</item>
         <item>Miss Elizabeth Smith</item>
         <item>Mrs. Rowe</item>
         <item>Mrs. Elizabeth Carter</item>
@@ -21486,7 +21498,7 @@
         <item>Jane Austen</item>
         <item>Mary Lyon</item>
         <item>Elizabeth Browning</item>
-        <item>Charlotte Brontë</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë</item>
         <item>Clara Schumann</item>
         <item>George Eliot</item>
         <item>Jenny Lind</item>
@@ -22013,7 +22025,7 @@
         <item>Magdalen Angelica Poisson</item>
         <item>Isabella Graham</item>
         <item>Mrs. Grant</item>
-        <item>Jane Grey</item>
+        <item n="LADY_JANE_GREY">Jane Grey</item>
         <item>Elizabeth Griffith</item>
         <item>Sophia Grouchy</item>
         <item>Jean Marie Bouviere de la Mothe</item>
@@ -22026,7 +22038,7 @@
         <item>Catharine Macauley</item>
         <item>Mary Wortley Montagu</item>
         <item>Elizabeth Montagu</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Lady Morgan</item>
         <item>Harriet Newell</item>
         <item>Mrs. Opie</item>
@@ -22111,10 +22123,10 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Grace Darling</item>
+        <item n="GRACE_DARLING">Grace Darling</item>
         <item>Elizabeth Gurney</item>
         <item>Edith Cavell</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Marie Curie</item>
         <item>and others</item>
@@ -22230,7 +22242,7 @@
         <date>1845</date>, and by <ref target="a184" targOrder="U">Louise Cochelet</ref>, “Mme.
        Parquin,” <date>1833</date>. This work is a series in Allison's Select Library that is often
        catalogued under each author's name or work. The three “lives” are Jules Michelet, <title>
-        <hi rend="italics">Joan of Arc</hi>
+        <hi rend="italics" n="JOAN_OF_ARC">Joan of Arc</hi>
        </title>; A. de Lamartine, <title>
         <hi rend="italics">Mary Queen of Scots</hi>
        </title>; T. A. Trollope, <title>
@@ -22383,7 +22395,7 @@
         <item>St. Bridget of Kildare</item>
         <item>St. Elizabeth of Hungary</item>
         <item>St. Catherine of Siena</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Catherine von Bora</item>
         <item>Margaret, Queen of Navarre</item>
         <item>St. Teresa</item>
@@ -22417,13 +22429,13 @@
       </title> Vol. 4 of Beacon Lights of History. London: Waverly, 1921. <note type="toc">
        <list>
         <item>Heloise</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Saint Theresa</item>
         <item>Mme de Maintenon</item>
         <item>Sarah, Duchess of Marlborough</item>
         <item>Mme Recamier</item>
-        <item>Mme de Stael</item>
-        <item>Hannah More</item>
+        <item n="MADAME_DE_STAEL">Mme de Stael</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>George Eliot. *Pop Chart</item>
        </list>
       </note>
@@ -22588,14 +22600,14 @@
         <item>Antigone</item>
         <item>Iphigenia</item>
         <item>Paula</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Catherine Douglas</item>
-        <item>Lady Jane Grey</item>
-        <item>Pocahontas</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
+        <item n="POCAHONTAS">Pocahontas</item>
         <item>Flora Macdonald</item>
         <item>Mme Roland</item>
-        <item>Grace Darling</item>
-        <item>Sister Dora</item>
+        <item n="GRACE_DARLING">Grace Darling</item>
+        <item n="SISTER_DORA">Sister Dora</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale. *Pop Chart</item>
        </list>
       </note>
@@ -23132,7 +23144,7 @@
         <item>Maria Edgeworth</item>
         <item>Susan Ferrier</item>
         <item>Emily Eden</item>
-        <item>Charlotte Brontë</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë</item>
         <item>Emily Brontë</item>
         <item>Anne Brontë</item>
         <item>Elizabeth Gaskell</item>
@@ -23167,7 +23179,7 @@
         <item>Madame Geòffrin</item>
         <item>Madame d'épinay</item>
         <item>Madame Necker</item>
-        <item>Madame de Staël</item>
+        <item n="MADAME_DE_STAEL">Madame de Staël</item>
         <item>Madame Récamier</item>
         <item>Tronchin: a Great Doctor</item>
         <item>The Mother of Napoléon</item>
@@ -23851,25 +23863,25 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Victoria</item>
+        <item n="QUEEN_VICTORIA">Victoria</item>
         <item>Semiramis</item>
         <item>Penelope</item>
         <item>Cornelia</item>
         <item>Cleopatra</item>
         <item>Zenobia</item>
         <item>Beatrice</item>
-        <item>Joan D'Arc</item>
+        <item n="JOAN_OF_ARC">Joan D'Arc</item>
         <item>Isabella</item>
         <item>Diana de Poitiers</item>
         <item>Anne Boleyn</item>
         <item>Mary, Queen of Scots</item>
-        <item>Pocahontas</item>
+        <item n="POCAHONTAS">Pocahontas</item>
         <item>Nell Gwynn</item>
         <item>Lady Mary Wortley Montagu</item>
         <item>Marie Antoinette</item>
         <item>The Maid of Saragossa</item>
         <item>Anne Hasseltine Judson</item>
-        <item>Charlotte Brontë</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë</item>
         <item>George Eliot</item>
         <item>Martha Washington</item>
         <item>Eugenie</item>
@@ -23905,9 +23917,9 @@
         <item>Elizabeth Mouatt (60-yr-old Adrift Alone in Ship)</item>
         <item>Mrs. M'Dougal (Ontario, Dealing with Indians)</item>
         <item>Mrs. John (Norah) Halinstrom (Saved Husband on Rope)</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Miss Kingsley (African Traveler)</item>
-        <item>Grace Darling</item>
+        <item n="GRACE_DARLING">Grace Darling</item>
         <item>Catherine Vasseur (Rescued Men from Sewer in Noyen)</item>
         <item>Grace Bussell (Rescued the Shipwrecked Australia 1876)</item>
         <item>Mabel Howard (in Michigan Rescued Girls in Bush Fire)</item>
@@ -23970,8 +23982,8 @@
         <item>Mrs. Ann Taylor Gilbert</item>
         <item>Jane Taylor</item>
         <item>Mrs. Mary Martha Sherwood</item>
-        <item>Hannah More</item>
-        <item>Elizabeth Fry. *Pop Chart</item>
+        <item n="HANNAH_MORE">Hannah More</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry. *Pop Chart</item>
        </list>
       </note>
      </bibl>
@@ -24114,12 +24126,12 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Mary Slessor</item>
         <item>Laura Secord</item>
         <item>Catharine Parr Traill</item>
-        <item>Queen Victoria</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
         <item>Madeleine de Verchères</item>
         <item>Helen Keller</item>
         <item>Ada May Courtice</item>
@@ -24239,7 +24251,7 @@
         <item>George Sand</item>
         <item>Jane Austen</item>
         <item>Emily Brontë</item>
-        <item>Charlotte Brontë</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë</item>
         <item>Saint Teresa</item>
         <item>Emily Dickinson</item>
         <item>Alice Meynell</item>
@@ -24439,18 +24451,18 @@
        </title> 94-97, 103.</xref>
       <note type="toc">
        <list>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Octavia</item>
         <item>Zenobia</item>
         <item>Boadicea</item>
         <item>Flora Macdonald</item>
-        <item>Mrs. Elizabeth Fry</item>
-        <item>Grace Darling</item>
+        <item n="ELIZABETH_FRY">Mrs. Elizabeth Fry</item>
+        <item n="GRACE_DARLING">Grace Darling</item>
         <item>African Women</item>
         <item>Letitia Elizabeth Landon</item>
         <item>Mrs. Anne Damer</item>
         <item>Tarquinia Molza</item>
-        <item>Madame de Staël</item>
+        <item n="MADAME_DE_STAEL">Madame de Staël</item>
         <item>Jane, Duchess of Gordon</item>
         <item>The Duchess of Duras</item>
         <item>Mrs. Elizabeth Montague</item>
@@ -24458,7 +24470,7 @@
         <item>Mary, Countess of Pembroke</item>
         <item>Mrs. Hemans</item>
         <item>Madame de Sevigné</item>
-        <item>Lady Rachel Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
         <item>Elizabeth of Siberia</item>
         <item>Anne Askew</item>
         <item>Madame Guyon. *Pop Chart</item>
@@ -25064,19 +25076,19 @@
         <item>Margaret Roper</item>
         <item>Anne Askew</item>
         <item>Jeanne D'Albret</item>
-        <item>Pocahontas</item>
+        <item n="POCAHONTAS">Pocahontas</item>
         <item>Lucy Hutchinson</item>
-        <item>Lady Rachel Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
         <item>Grizel Cochrane</item>
         <item>Winifred, Countess of Nithsdale</item>
         <item>Helen Walker</item>
         <item>Flora MacDonald</item>
         <item>Louise Schepler</item>
         <item>Emilie de Lavalette</item>
-        <item>Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Prasca Loupouloff</item>
         <item>Sarah Martin</item>
-        <item>Grace Darling</item>
+        <item n="GRACE_DARLING">Grace Darling</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale. *Pop Chart</item>
        </list>
       </note>
@@ -25121,11 +25133,11 @@
         <item>Boadicea</item>
         <item>Zenobia. Modern Era: Jane de Montfort</item>
         <item>Philippa of Hainault</item>
-        <item>Joan d'Arc</item>
+        <item n="JOAN_OF_ARC">Joan d'Arc</item>
         <item>Margaret of Anjou</item>
         <item>Isabella of Castile</item>
         <item>Catherine de Medici</item>
-        <item>The Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">The Lady Jane Grey</item>
         <item>Mary, Queen of Scots</item>
         <item>Madame de Maintenon</item>
         <item>Marie Antoinette. *Pop Chart</item>
@@ -25152,7 +25164,7 @@
         <item>Margaret of Anjou</item>
         <item>Isabella of Castille</item>
         <item>Catherine de Medici</item>
-        <item>The Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">The Lady Jane Grey</item>
         <item>Mary, Queen of Scots</item>
         <item>Madame de Maintenon</item>
         <item>Marie Antoinette</item>
@@ -25369,7 +25381,7 @@
        <list>
         <item>Sally Bush</item>
         <item>The Brontë Sisters</item>
-        <item>Queen Victoria</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
         <item>Elizabeth Barrett Browning</item>
         <item>Mrs. Stowe and Uncle Tom's cabin</item>
         <item>Miss Alcott</item>
@@ -25381,18 +25393,18 @@
         <item>Girlhood of Queen Elizabeth</item>
         <item>The Wife of Thomas Carlyle</item>
         <item>The Wife of Benedict Arnold</item>
-        <item>Adelaide Procter</item>
+        <item n="ADELAIDE_PROCTER">Adelaide Procter</item>
         <item>Lady Bloomfield</item>
         <item>The Mother of Victor Hugo</item>
         <item>Laura Bridgeman</item>
         <item>The Wife of George Washington in her Workroom at Mount Vernon</item>
-        <item>Madame de Staël and Napoleon Bonaparte</item>
+        <item n="MADAME_DE_STAEL">Madame de Staël and Napoleon Bonaparte</item>
         <item>The Wife of Frederick the Great</item>
         <item>The Flight of Eugénie</item>
         <item>Caroline Herschel</item>
         <item>Charlotte Cushman</item>
         <item>Maria Mitchell</item>
-        <item>Mrs. Trollope</item>
+        <item n="FRANCES_TROLLOPE">Mrs. Trollope</item>
         <item>Adelaide Phillips</item>
         <item>Two Queens</item>
         <item>the Daughters of James II of England</item>
@@ -25404,7 +25416,7 @@
         <item>Madame de Miramion</item>
         <item>Peg O'Neal</item>
         <item>Mrs. L.M. Monmouth, and How She Lived on Forty Dollars a Year</item>
-        <item>Trial of Jeanne Darc, Commonly Called Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Trial of Jeanne Darc, Commonly Called Joan of Arc</item>
         <item>Harriet Martineau</item>
         <item>The Wife of Lafayette</item>
         <item>Betsy Patterson, Otherwise Madame Jerome Bonaparte of Baltimore</item>
@@ -25474,7 +25486,7 @@
        <list>
         <item>Sally Bush</item>
         <item>The Brontë Sisters</item>
-        <item>Queen Victoria</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
         <item>Elizabeth Barrett Browning</item>
         <item>Mrs. Stowe. and Uncle Tom's Cabin</item>
         <item>Miss Alcott</item>
@@ -25486,12 +25498,12 @@
         <item>Girlhood of Queen Elizabeth</item>
         <item>The Wife of Thomas Carlyle</item>
         <item>The Wife of Benedict Arnold</item>
-        <item>Adelaide Proctor</item>
+        <item n="ADELAIDE_PROCTER">Adelaide Proctor</item>
         <item>Lady Bloomfield</item>
         <item>The Mother of Victor Hugo</item>
         <item>Laura Bridgman</item>
         <item>The Wife of George Washington in Her Workroom at Mt. Vernon</item>
-        <item>Madame de Staël and Napoleon Bonaparte</item>
+        <item n="MADAME_DE_STAEL">Madame de Staël and Napoleon Bonaparte</item>
         <item>The Wife of Frederick the Great</item>
         <item>The Flight of Eugénie</item>
         <item>Caroline Herschel. *Pop Chart</item>
@@ -25535,7 +25547,7 @@
        <list>
         <item>Charlotte Cushman</item>
         <item>Maria Mitchell</item>
-        <item>Mrs. Trollope</item>
+        <item n="FRANCES_TROLLOPE">Mrs. Trollope</item>
         <item>Adelaide Phillips</item>
         <item>Two Queens, the Daughters of James II of England</item>
         <item>An Evening with Rachel</item>
@@ -25546,7 +25558,7 @@
         <item>Madame de Miramion</item>
         <item>Peg O'Neal</item>
         <item>Mrs. L.M. Monmouth, and How She Lived on Forty Dollars a Year</item>
-        <item>Trial of Jeanne Darc, Commonly Called Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Trial of Jeanne Darc, Commonly Called Joan of Arc</item>
         <item>Harriet Martineau</item>
         <item>The Wife of LaFayette</item>
         <item>Betsy Patterson, Otherwise Madame Jerome Bonaparte of Baltimore</item>
@@ -25616,29 +25628,29 @@
         <item>Celia Thaxter</item>
         <item>Jane Carlyle</item>
         <item>Mrs. Benedict Arnold</item>
-        <item>Adelaide Procter</item>
+        <item n="ADELAIDE_PROCTER">Adelaide Procter</item>
         <item>Lady Bloomfield</item>
         <item>Mother of Victor Hugo</item>
         <item>Laura Bridgman</item>
         <item>Martha Washington</item>
-        <item>Madame de Stael</item>
+        <item n="MADAME_DE_STAEL">Madame de Stael</item>
         <item>Elizabeth Christine, Wife of Frederick the Great</item>
         <item>Empress Eugenie</item>
         <item>Caroline Herschel</item>
         <item>Phoebe Yates Pember</item>
         <item>Maria Mitchell</item>
-        <item>Mrs. Trollope</item>
+        <item n="FRANCES_TROLLOPE">Mrs. Trollope</item>
         <item>Adelaide Phillips</item>
         <item>Queen Anne</item>
         <item>Queen Mary (as in William &amp;)</item>
-        <item>Mary Somerville</item>
+        <item n="MARY_SOMERVILLE">Mary Somerville</item>
         <item>Lady Morgan</item>
         <item>Maria Theresa</item>
         <item>Lady Franklin</item>
         <item>Mme. de Miramion</item>
         <item>Rachel</item>
         <item>Josephine</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Queen Elizabeth</item>
         <item>Mme. Lafayette</item>
         <item>Betty Patterson, or Mme Jerome Bonaparte</item>
@@ -25646,7 +25658,7 @@
         <item>Peg O'Neal</item>
         <item>Mrs. Eaton</item>
         <item>Harriet Martineau</item>
-        <item>Grace Darling. *Pop Chart</item>
+        <item n="GRACE_DARLING">Grace Darling. *Pop Chart</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Subjects not in <ref target="a624" targOrder="U">
@@ -25736,7 +25748,7 @@
        <list>
         <item>Sally Bush</item>
         <item>Charlotte, Emily, and Anne Bronte</item>
-        <item>Victoria</item>
+        <item n="QUEEN_VICTORIA">Victoria</item>
         <item>Elizabeth Barrett Browning</item>
         <item>Harriet Beecher Stowe</item>
         <item>Miss Alcott</item>
@@ -25748,12 +25760,12 @@
         <item>Queen Elizabeth</item>
         <item>Jane Carlyle</item>
         <item>Mrs. Benedict Arnold</item>
-        <item>Adelaide Procter</item>
+        <item n="ADELAIDE_PROCTER">Adelaide Procter</item>
         <item>Lady Bloomfield</item>
         <item>Mother of Victor Hugo</item>
         <item>Laura Bridgman</item>
         <item>Martha Washington</item>
-        <item>Mme de Stael</item>
+        <item n="MADAME_DE_STAEL">Mme de Stael</item>
         <item>Wife of Frederick the Great</item>
         <item>Eugenie</item>
         <item>Caroline Herschel. *Pop Chart</item>
@@ -25803,7 +25815,7 @@
         <item>The Wife of Thomas Jefferson</item>
         <item>The Wife of James Madison</item>
         <item>The Wife of Daniel Webster</item>
-        <item>Jeanne Darc</item>
+        <item n="JOAN_OF_ARC">Jeanne Darc</item>
         <item>The Wife of Andrew Jackson</item>
         <item>Mrs. Sigourney</item>
        </list>
@@ -26529,7 +26541,7 @@
         <item>The Eternal Feminine</item>
         <item>A Woman Critic of Women: Arvède Barine</item>
         <item>A Law Unto Herself: George Sand</item>
-        <item>The Great Salonière: Mme de Staël</item>
+        <item n="MADAME_DE_STAEL">The Great Salonière: Mme de Staël</item>
         <item>The Great Tradition: Madame de Sévigné</item>
         <item>The Riddle of the Sphinx: Mme de Lafayette</item>
         <item>Great Women's Daughters</item>
@@ -26774,10 +26786,10 @@
         <item>Charlotte Cushman</item>
         <item>Lucretia Mott</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
-        <item>Sister Dora</item>
+        <item n="SISTER_DORA">Sister Dora</item>
         <item>Jenny Lind</item>
         <item>Louisa Alcott</item>
-        <item>Queen Victoria. *Pop Chart</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria. *Pop Chart</item>
        </list>
       </note>
      </bibl>
@@ -26834,7 +26846,7 @@
         <item>Angelica Kauffmann</item>
         <item>Mary Baker</item>
         <item>Pope Joan</item>
-        <item>Joan of Arc. *Pop Chart</item>
+        <item n="JOAN_OF_ARC">Joan of Arc. *Pop Chart</item>
        </list>
       </note>
      </bibl>
@@ -26982,14 +26994,14 @@
         <item>Chelonis</item>
         <item>Mary, Mother of Jesus</item>
         <item>Salome, the Daughter of Herodias [second Salome]</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Catharine Adorna</item>
         <item>Queen Isabella</item>
         <item>Catherine de Medici</item>
         <item>Catharine von Bora</item>
         <item>Olympia Morata</item>
         <item>Catharine Parr</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Queen Mary of England</item>
         <item>Queen Elizabeth of England</item>
         <item>Queen Mary of Scotland</item>
@@ -26998,7 +27010,7 @@
         <item>Mme Guyon</item>
         <item>Christina, Queen of Sweden</item>
         <item>Susannah Wesley</item>
-        <item>Pocahontas</item>
+        <item n="POCAHONTAS">Pocahontas</item>
         <item>Queen Anne</item>
         <item>Selina, Countess of Huntingdon</item>
         <item>Mary Washington</item>
@@ -27008,7 +27020,7 @@
         <item>Martha Washington</item>
         <item>Barbara Heck</item>
         <item>Mary Fletcher</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Mme Roland</item>
         <item>Marie Antoinette</item>
         <item>Charlotte Corday</item>
@@ -27019,15 +27031,15 @@
         <item>Mrs. Thomas Jefferson</item>
         <item>Mrs. Madison</item>
         <item>Grace Webster</item>
-        <item>Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Mrs. Ann H. Judson</item>
         <item>Lydia Huntley Sigourney</item>
         <item>Mary Lyon</item>
-        <item>Mary Somerville</item>
+        <item n="MARY_SOMERVILLE">Mary Somerville</item>
         <item>Mrs. Phebe Palmer</item>
-        <item>Victoria</item>
+        <item n="QUEEN_VICTORIA">Victoria</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
-        <item>Charlotte Bronte</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
         <item>Agnes E. Jones</item>
         <item>Harriet Beecher Stowe</item>
         <item>Harriet Hosmer. *Pop Chart</item>
@@ -27168,7 +27180,7 @@
         <item>Joanna Baillie</item>
         <item>Mrs. Hemans</item>
         <item>L.E.L</item>
-        <item>Adelaide Proctor</item>
+        <item n="ADELAIDE_PROCTER">Adelaide Proctor</item>
         <item>Caroline Norton</item>
         <item>Lady Dufferin</item>
         <item>Mrs. Southey</item>
@@ -27301,7 +27313,7 @@
         <item>Mrs. Chapone (Hestor Mulso)</item>
         <item>Fanny Burney (Madame d'Arblay)</item>
         <item>Elizabeth Carter</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Novelist and poet. Some generic chapters. </note>
@@ -27504,7 +27516,7 @@
         <item>Mrs. Hannah Cowley</item>
         <item>Isabella Countess of Carlisle</item>
         <item>Mrs. Leicester</item>
-        <item>Mrs. Hannah More</item>
+        <item n="HANNAH_MORE">Mrs. Hannah More</item>
         <item>Miss Helen Maria Williams</item>
         <item>Mrs. Eleanor Anne Franklin</item>
         <item>Miss Susanna Blamire</item>
@@ -27649,7 +27661,7 @@
       <note type="toc">
        <list>
         <item>The Maid of Orleans</item>
-        <item>Mrs. Fry</item>
+        <item n="ELIZABETH_FRY">Mrs. Fry</item>
         <item>The Empress Josephine</item>
         <item>Madame Roland</item>
         <item>Christina, Queen of Sweden</item>
@@ -27659,12 +27671,12 @@
         <item>Madame de Sévigné</item>
         <item>Isabella of Castile</item>
         <item>Anne Boleyn</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Mary Queen of Scots</item>
         <item>Lady Mary Wortley Montague</item>
         <item>Marie-Antoinette [sic]</item>
         <item>Mrs. Siddons</item>
-        <item>Madame de Staël-Holstein</item>
+        <item n="MADAME_DE_STAEL">Madame de Staël-Holstein</item>
         <item>Charlotte Corday</item>
         <item>Madame Récamier</item>
         <item>Margaret Fuller</item>
@@ -27854,7 +27866,7 @@
         <item>Madame de La Fayette</item>
         <item>Madame de Souza</item>
         <item>Madame Roland</item>
-        <item>Madame de Staël</item>
+        <item n="MADAME_DE_STAEL">Madame de Staël</item>
         <item>Madame de Duras</item>
         <item>Madame de Remusat</item>
         <item>Madame de Krudener</item>
@@ -28054,7 +28066,7 @@
         <item>Catherine the Great</item>
         <item>Madame du Barry</item>
         <item>Lady Halton</item>
-        <item>Madame de Staël</item>
+        <item n="MADAME_DE_STAEL">Madame de Staël</item>
         <item>George Sand</item>
         <item>Lady Blessington</item>
        </list>
@@ -28415,7 +28427,7 @@
        <list>
         <item>Lady Selina Huntington</item>
         <item>Mrs. Jerusha Lathrop</item>
-        <item>Mrs. Hannah More</item>
+        <item n="HANNAH_MORE">Mrs. Hannah More</item>
         <item>Mrs. Martha Laurens Ramsay</item>
         <item>Miss Ann Maria Hyde</item>
         <item>Mrs. Felicia Hemans</item>
@@ -28466,7 +28478,7 @@
         <item>Monica</item>
         <item>Queen Catherine Parr</item>
         <item>Jane, Queen of Navarre</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Ann Eliot [Wife of Early New England John Eliot]</item>
         <item>The Countess of Suffolk</item>
         <item>The Countess of Warwick</item>
@@ -28474,7 +28486,7 @@
         <item>Mrs Ann Egede [Norwegian Missionary, Wife and Mother, in Greenland]</item>
         <item>The Good Queen [Bertha, Who Converted Ethelbert of Kent to Christianity in 597]</item>
         <item>Mrs Mary Washington</item>
-        <item>Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Anne Hasseltine Judson</item>
         <item>Margaret Mercer [1791-1846, Well-Connected American Christian Educator]</item>
         <item>Mrs Wilson [Educator of Women in India</item>
@@ -28546,7 +28558,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Charlotte Bronte</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
         <item>Anne Bronte</item>
         <item>Emily Bronte</item>
        </list>
@@ -28713,7 +28725,7 @@
         <item>Agnes Sorel</item>
         <item>Lady Blessington</item>
         <item>La Duchesse de Chevreuse</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Anne de Pisseleu</item>
         <item>Bianca Capello</item>
         <item>Madame de Pompadour</item>
@@ -28730,7 +28742,7 @@
         <item>Elizabeth Cromwell Claypole</item>
         <item>Isabella d’Este</item>
         <item>La Duchesse de Berri</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Henrietta Maria</item>
         <item>Diane de Poitiers</item>
         <item>Madame des Ursins</item>
@@ -28823,11 +28835,11 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Queen Catharine Parr</item>
         <item>Jane, Queen of Navarre</item>
         <item>Mary, Countess of Warwick</item>
-        <item>Lady Rachel Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
         <item>Mrs. Elizabeth Burnet</item>
         <item>Mrs. Elizabeth Rowe</item>
         <item>Lady Halket</item>
@@ -28861,9 +28873,9 @@
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Frances Ridley Havegal</item>
         <item>Harriet Beecher Stowe</item>
-        <item>Sister Dora</item>
+        <item n="SISTER_DORA">Sister Dora</item>
         <item>Louisa May Alcott</item>
-        <item>Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Felicia Dorothea Hemans. *Pop Chart</item>
        </list>
       </note>
@@ -28888,7 +28900,7 @@
         <item>Marguerite Countess of Blessington</item>
         <item>George Eliot</item>
         <item>Jenny Lind</item>
-        <item>Mary Somerville</item>
+        <item n="MARY_SOMERVILLE">Mary Somerville</item>
         <item>George Sand</item>
         <item>Mary Carpenter</item>
         <item>Sydney Lady Morgan</item>
@@ -29073,8 +29085,8 @@
       <note type="toc">
        <list>
         <item>Josephine Butler</item>
-        <item>Frances Power Cobbe</item>
-        <item>Sister Dora. *Pop Chart</item>
+        <item n="FRANCES_COBBE">Frances Power Cobbe</item>
+        <item n="SISTER_DORA">Sister Dora. *Pop Chart</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> British Library. 32-pp. pamphlet: “first of a
@@ -29989,7 +30001,7 @@
         <item>Anne, Queen-Consort of James I</item>
         <item>Henrietta Maria, Queen of Charles I</item>
         <item>Caroline, Queen of George II</item>
-        <item>Victoria, Queen Regnant</item>
+        <item n="QUEEN_VICTORIA">Victoria, Queen Regnant</item>
        </list>
       </note>
      </bibl>
@@ -30157,7 +30169,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Pocahontas: the Indian Girl of the Virginia Forest</item>
+        <item n="POCAHONTAS">Pocahontas: the Indian Girl of the Virginia Forest</item>
         <item>Dorothy Quincy: the Girl of Colonial Days Who Heard the First Gun Fired for
          Independence</item>
         <item>Molly Pitcher: the Brave Gunner of the Battle of Monmouth</item>
@@ -30203,13 +30215,13 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Joan of Arc</item>
-        <item>Victoria</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
+        <item n="QUEEN_VICTORIA">Victoria</item>
         <item>Sally Wister</item>
         <item>Cofachiqui</item>
         <item>Jenny Lind</item>
         <item>Eliza Lucas</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>“Gentle Anne”: A Daughter of the Regiment</item>
         <item>Madeleine De Vercheres</item>
         <item>Adrienne de Lafayette. *Pop Chart</item>
@@ -30286,7 +30298,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>vol. or series I: Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">vol. or series I: Elizabeth Fry</item>
         <item>Elizabeth Blackwell</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Mary Slessor of Calabar. *Pop Chart</item>
@@ -30315,7 +30327,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Mary Carpenter</item>
         <item>Octavia Hill</item>
         <item>Agnes Jones. *Pop Chart</item>
@@ -30367,7 +30379,7 @@
         <item>Caroline Herschel</item>
         <item>Sarah Siddons</item>
         <item>Maria Edgeworth</item>
-        <item>Mary Somerville. *Pop Chart</item>
+        <item n="MARY_SOMERVILLE">Mary Somerville. *Pop Chart</item>
        </list>
       </note>
      </bibl>
@@ -30690,17 +30702,17 @@
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Dorothea Lynde Dix</item>
         <item>Margaret Fuller Ossoli</item>
-        <item>Frances Power Cobbe</item>
+        <item n="FRANCES_COBBE">Frances Power Cobbe</item>
         <item>Mary Lyon</item>
         <item>Mary Ashton Livermore</item>
         <item>Jenny Lind</item>
         <item>Louisa May Alcott</item>
-        <item>Queen Victoria</item>
-        <item>Mary Somerville</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
+        <item n="MARY_SOMERVILLE">Mary Somerville</item>
         <item>Lucy Stone Blackwell</item>
         <item>Frances Elizabeth Willard</item>
         <item>Clara Harlowe Barton</item>
-        <item>Elizabeth Fry. *Pop Chart</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry. *Pop Chart</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Possible expansion or rev. ed. of previous book,
@@ -30825,7 +30837,7 @@
         <item>Jane, Duchess of Gordon</item>
         <item>Mme Récamier</item>
         <item>Lady Hervey</item>
-        <item>Mme de Staël</item>
+        <item n="MADAME_DE_STAEL">Mme de Staël</item>
         <item>Mrs. Thrale Piozzi</item>
         <item>Lady Caroline Lamb</item>
         <item>Anne Seymour Damer</item>
@@ -31044,15 +31056,15 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Queen Victoria</item>
-        <item>Mrs. Elizabeth Fry</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
+        <item n="ELIZABETH_FRY">Mrs. Elizabeth Fry</item>
         <item>Queen Elizabeth</item>
         <item>Joanna Baillie</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Frances Burney</item>
         <item>Anne Boleyn</item>
         <item>Duchess of Kent</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Queen Adelaide</item>
         <item>Mrs. S.C. Hall</item>
         <item>Mary, Queen of Scots</item>
@@ -31064,7 +31076,7 @@
         <item>Countess of Coventry</item>
         <item>Charlotte Smith</item>
         <item>Queen Caroline</item>
-        <item>Lady Rachael Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachael Russell</item>
         <item>Lady Georgina Russell</item>
         <item>Lady Huntingdon</item>
         <item>Mrs. Hemans</item>
@@ -31100,14 +31112,16 @@
         <item>Eleanora</item>
         <item>Anne, of Bohemia</item>
         <item>Catherine Parr</item>
-        <item>Jane Grey</item>
-        <item>Mary II. vol II: British Princesses: Princess Claudia, of Rome[title "Princess"
+        <item n="LADY_JANE_GREY">Jane Grey</item>
+        <item>Mary II.</item> 
+        <item>vol II: British Princesses: Princess Claudia, of Rome[title "Princess"
          repeated]</item>
         <item>Margaret</item>
         <item>Elizabeth of Bohemia</item>
         <item>Elizabeth, of the Rhine</item>
         <item>Amelia</item>
-        <item>Charlotte, of Wales. vol III: British Female Martyrs: Lady Joan Boughton</item>
+        <item>Charlotte, of Wales.</item> 
+        <item>vol III: British Female Martyrs: Lady Joan Boughton</item>
         <item>Helen Stark</item>
         <item>Lady Anne Askew</item>
         <item>Mrs. Warne</item>
@@ -31118,25 +31132,30 @@
         <item>Cicelly Ormes</item>
         <item>Elizabeth Prest</item>
         <item>Lady Lisle</item>
-        <item>Mrs. Gaunt. vol IV: British Learned Ladies: Mrs. Roper</item>
+        <item>Mrs. Gaunt.</item> 
+        <item>vol IV: British Learned Ladies: Mrs. Roper</item>
         <item>Lady Anna Bacon</item>
         <item>Lady Russel [sic]</item>
         <item>Mrs. Carter</item>
-        <item>Miss Smith. vol V: British Ladies' Instructors: Mrs. Hannah More</item>
+        <item>Miss Smith.</item>
+        <item n="HANNAH_MORE">vol V: British Ladies' Instructors: Mrs. Hannah More</item>
         <item>Mrs. Martha More</item>
         <item>Miss Neale</item>
         <item>Mrs. Graham</item>
-        <item>Miss Graham. vol VI: British Poetesses: Countess of Pembroke</item>
+        <item>Miss Graham.</item>
+        <item>vol VI: British Poetesses: Countess of Pembroke</item>
         <item>Mrs. Rowe</item>
         <item>Mrs. Steele</item>
         <item>Miss Jane Taylor</item>
-        <item>Mrs. Bulmer. vol VII: British Philanthropists: Anne, Countess of Pembroke</item>
+        <item>Mrs. Bulmer.</item>
+        <item>vol VII: British Philanthropists: Anne, Countess of Pembroke</item>
         <item>Lady Hewley</item>
         <item>Lady Glenorchy</item>
         <item>Selina, Countess of Huntingdon</item>
         <item>Miss Gray</item>
         <item>Mrs. Rupertia Hill</item>
-        <item>Mrs. Fry. vol VIII: British Minister's Wives: Mrs. Baxter</item>
+        <item n="ELIZABETH_FRY">Mrs. Fry.</item>
+        <item>vol VIII: British Minister's Wives: Mrs. Baxter</item>
         <item>Mrs. Bury</item>
         <item>Mrs. Wesley</item>
         <item>Mrs. Good</item>
@@ -31471,13 +31490,13 @@
         <item>Monica</item>
         <item>Catherine II</item>
         <item>Olympia Morata</item>
-        <item>Lady William Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady William Russell</item>
         <item>Lady Hester Stanhope</item>
         <item>Madame Guyon</item>
         <item>Manon Plipon , Madame Roland [sic]</item>
-        <item>Madame de Stael</item>
+        <item n="MADAME_DE_STAEL">Madame de Stael</item>
         <item>Annie MacDonald</item>
-        <item>Mrs. Fry</item>
+        <item n="ELIZABETH_FRY">Mrs. Fry</item>
         <item>Ann Hasseltine Judson</item>
         <item>Sarah Martin</item>
         <item>Mary Jane Graham</item>
@@ -31982,14 +32001,14 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Fanny Burney (Madame D’Arblay)</item>
         <item>Maria Edgeworth</item>
         <item>Harriet Martineau</item>
         <item>Jane Austen</item>
         <item>Felicia Hemans</item>
-        <item>Mary Somerville</item>
-        <item>Charlotte Bronte</item>
+        <item n="MARY_SOMERVILLE">Mary Somerville</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
         <item>Elizabeth Gaskell</item>
         <item>Elizabeth Barrett Browning</item>
         <item>George Eliot</item>
@@ -32246,7 +32265,7 @@
         <item>Philippa of Hainault</item>
         <item>The Sister of Duguesclin</item>
         <item>Jane, Countess of Monfort</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Joan Hachette</item>
         <item>Margeret of Anjou</item>
         <item>Queen of Navarre</item>
@@ -32666,7 +32685,7 @@
         <item>Charlotte Lennox</item>
         <item>Frances Sheridan</item>
         <item>Frances Burney</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Charlotte Smith</item>
         <item>Elizabeth Inchbald</item>
         <item>Clara Reeve</item>
@@ -32689,11 +32708,11 @@
         <item>Catherine Grace Frances Gore</item>
         <item>Anna Eliza Bray</item>
         <item>Julia Pardoe</item>
-        <item>Frances Trollope</item>
+        <item n="FRANCES_TROLLOPE">Frances Trollope</item>
         <item>Harriet Martineau</item>
         <item>Emily Bronte</item>
         <item>Anne Bronte</item>
-        <item>Charlotte Bronte</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
         <item>Elizabeth Cleghorn Gaskell</item>
        </list>
       </note>
@@ -33194,21 +33213,21 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Jeanne d'Arc, the Maid of France</item>
+        <item n="JOAN_OF_ARC">Jeanne d'Arc, the Maid of France</item>
         <item>Jeanne d'Albret, Queen of Navarre</item>
         <item>Mary Stuart, Queen of Scots</item>
         <item>Mère Angélique</item>
         <item>Marie Thérèse, Queen of Hungary</item>
         <item>Marie Antoinette, Queen of France</item>
         <item>Madame Roland</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Fanny Burney</item>
-        <item>Elizabeth Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Jane Austen</item>
         <item>Dorothy Wordsworth</item>
-        <item>Mary Somerville</item>
-        <item>Charlotte and Emily Brontë</item>
-        <item>Sister Dora</item>
+        <item n="MARY_SOMERVILLE">Mary Somerville</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte</item> <item>and Emily Brontë</item>
+        <item n="SISTER_DORA">Sister Dora</item>
         <item>Elizabeth Barrett Browning</item>
        </list>
       </note>
@@ -33417,7 +33436,7 @@
         <item>Bronte' sisters</item>
         <item>Hannah Adams</item>
         <item>Elizabeth Prentiss</item>
-        <item>Sister Dora</item>
+        <item n="SISTER_DORA">Sister Dora</item>
         <item>Mary Lamb</item>
         <item>Frances Ridley Havergal</item>
         <item>Felicia Hemans</item>
@@ -34193,7 +34212,7 @@
         <item>vol. I: Olympia Morata</item>
         <item>Lady Fanshawe</item>
         <item>Mrs. Hutchinson</item>
-        <item>Lady Russell</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Russell</item>
         <item>Lady Grisel Baillie</item>
         <item>Countess of Balcarres</item>
         <item>Mum Bett</item>
@@ -34203,7 +34222,7 @@
         <item>Caroline Perthes</item>
         <item>Princess Galitzin</item>
         <item>Madame Swetchine</item>
-        <item>Mrs. Fry</item>
+        <item n="ELIZABETH_FRY">Mrs. Fry</item>
         <item>Miss Anna Gurney</item>
         <item>Amalie Sieveking. vol. II: Vittoria Colonna</item>
         <item>Margaret More</item>
@@ -34213,7 +34232,7 @@
         <item>Madame de la Garaye</item>
         <item>Meta Klopstock</item>
         <item>Mrs. Trimmer</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Elizabeth of France</item>
         <item>The Five Sisters Noailles</item>
         <item>Mrs. Siddons</item>
@@ -34623,7 +34642,7 @@
         <item>Murasaki Shikibu</item>
         <item>Sultana Razia</item>
         <item>Christine de Pizan</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Queen Isabella I</item>
         <item>La Malinche</item>
         <item>Catherine de Médicis</item>
@@ -34647,10 +34666,10 @@
         <item>Harriet Beecher Stowe</item>
         <item>Harriet Tubman</item>
         <item>Elizabeth Cady Stanton</item>
-        <item>Charlotte Brontë and Emily Brontë</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë</item> <item>and Emily Brontë</item>
         <item>Maria Mitchell</item>
         <item>Clara Schumann</item>
-        <item>Queen Victoria</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
         <item>Susan B. Anthony</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Elizabeth Blackwell</item>
@@ -34768,7 +34787,7 @@
         <item>Anne Boleyn</item>
         <item>Minor sketches: the negligible wives of Henry VIII</item>
         <item>Catherine Parr</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Mary I</item>
         <item>John Foxe and the women martyrs</item>
         <item>Elizabeth I</item>
@@ -35648,13 +35667,13 @@
         <item>Emily Dickinson</item>
         <item>Golda Meir</item>
         <item>Virginia Woolf</item>
-        <item>Queen Victoria</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
         <item>Martha Graham</item>
         <item>Zora Neale Hurston</item>
         <item>Harriet Beecher Stowe</item>
         <item>Rosa Luxemburg</item>
         <item>Mary McLeod Bethune</item>
-        <item>Charlotte Bronte</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
         <item>Emily Bronte</item>
         <item>Catherine the Great</item>
         <item>Ida Tarbell</item>
@@ -35665,7 +35684,7 @@
         <item>Grace Murray Hopper</item>
         <item>Barbara McClintock</item>
         <item>Elizabeth Kubler-Ross</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Indira Ghandi</item>
         <item>Louise Nevelson</item>
         <item>Emmeline Pankhurst</item>
@@ -36005,7 +36024,7 @@
       <note type="toc">
        <list>
         <item>Wetamoo</item>
-        <item>Pocahontas</item>
+        <item n="POCAHONTAS">Pocahontas</item>
         <item>Mary Musgrove Matthews Bosomworth</item>
         <item>Nancy Ward</item>
         <item>Sacajawea</item>
@@ -36288,7 +36307,7 @@
         <item>Camilla Wright</item>
         <item>Harriet and Fanny Garnett</item>
         <item>Julia Garnett Pertz</item>
-        <item>Frances Trollope</item>
+        <item n="FRANCES_TROLLOPE">Frances Trollope</item>
         <item>Conclusion: Widening the circle.</item>
         
         
@@ -36788,13 +36807,13 @@
        <list>
         <item>Cleopatra</item>
         <item>Eleanor of Aquitaine</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Isabella I</item>
         <item>Elizabeth I</item>
         <item>Nzingha</item>
         <item>Catherine the Great</item>
         <item>Marie Antoinette</item>
-        <item>Victoria</item>
+        <item n="QUEEN_VICTORIA">Victoria</item>
         <item>Harriet Tubman</item>
         <item>Tz'u-hsi</item>
         <item>Gertrude Bell</item>
@@ -38023,7 +38042,7 @@
         <item>Emilie de Breteuil, Marquise du Châtelet</item>
         <item>Caroline Herschel</item>
         <item>Sophie Germain</item>
-        <item>Mary Fairfax Somerville</item>
+        <item n="MARY_SOMERVILLE">Mary Fairfax Somerville</item>
         <item>Sonya Corvin</item>
         <item>Krukovsky Kovalevsky</item>
         <item>Emmy (Amalie) Noether</item>
@@ -38483,13 +38502,13 @@
         <item>Eleanor of Aquitaine</item>
         <item>Queen Tamara (Thamar)</item>
         <item>Queen Margaret</item>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Isabella I</item>
         <item>Catherine of Aragon</item>
         <item>Catherine de Medici</item>
         <item>Elizabeth I</item>
         <item>Queen Jinga (Jinga Mbandi)</item>
-        <item>Pocahontas (Matoaka)</item>
+        <item n="POCAHONTAS">Pocahontas (Matoaka)</item>
         <item>Mary Wortley Montagu</item>
         <item>Emilie du Chatelet</item>
         <item>Catherine the Great</item>
@@ -38498,8 +38517,8 @@
         <item>Marie Lavoisier</item>
         <item>Mary Wollstonecraft</item>
         <item>Sophie Germain</item>
-        <item>Elizabeth Fry</item>
-        <item>Mary Fairfax Somerville</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
+        <item n="MARY_SOMERVILLE">Mary Fairfax Somerville</item>
         <item>Sacajawea ("Bird Woman")</item>
         <item>La Saragossa (Maria Agustin)</item>
         <item>Lucretia Coffin Mott</item>
@@ -38507,11 +38526,13 @@
         <item>Dorothea Dix</item>
         <item>Harriet Beecher Stowe</item>
         <item>Ada Lovelace</item>
-        <item>Charlotte Brontë and Emily Brontë</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë</item> <item>and Emily Brontë</item>
         <item>Elizabeth Cady Stanton</item>
         <item>Lucy Stone</item>
         <item>Mary Ann Evans (George Eliot)</item>
-        <item>Queen Victoria -- Susan Brownell Anthony -- Florence Nightingale</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
+        <item>Susan Brownell Anthony</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Harriet Tubman</item>
         <item>Clara Barton</item>
         <item>Elizabeth Blackwell</item>
@@ -39306,7 +39327,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Pocahontas</item>
+        <item n="POCAHONTAS">Pocahontas</item>
         <item>Mad Ann Bailey</item>
         <item>Margaret Lewis</item>
         <item>Betsy Ross</item>
@@ -39416,9 +39437,11 @@
         <item>Evelyn Underhill</item>
         <item>Mother Harriet Monsell</item>
         <item>Mother Cecile of Grahamstown</item>
-        <item>Sister Dora of Walsall</item>
+        <item n="SISTER_DORA">Sister Dora of Walsall</item>
         <item>Mary Slessor of Calabar</item>
-        <item>Three Queries : Elizabeth Fry, Florence Nightingale, Catherine Booth</item>
+        <item n="ELIZABETH_FRY">Three Queries : Elizabeth Fry</item> 
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
+        <item>Catherine Booth</item>
         <item>Some Other Worthies</item>
         <item>Reflections and Conclusions</item>
         <item>Appendix: The Church of England's Commemoration of Saints and Heroes of the Faith.
