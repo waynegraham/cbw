@@ -26,9 +26,17 @@
 				<link href="javascript/jcarousel/skins/tango/skin.css" type="text/css"
 					rel="stylesheet"/>
 				<script type="text/javascript" src="javascript/toggle_essays.js"/>
-				<script type="text/javascript" src="javascript/initialize.js"/>
+				<script type="text/javascript">
+					$(function() {
+						jQuery('.image-carousel').jcarousel();
+						$('#pop-link').attr('class','selected');
+						$('.carousel li').click(function () { 
+							$('.full img').attr('src','full/{figure/@n}.jpg'); 
+						});
+					});
+				</script>
 			</head>
-			<body onload="document.getElementById('home-link').className='selected';">
+			<body>
 				<div id="wrap">
 					<table>
 						<tr>
@@ -100,12 +108,7 @@
 			<ul class="image-carousel jcarousel-skin-tango">
 				<xsl:for-each select="list/item">
 					<li>
-						<a onclick="displayIllus('{figure/@n}', '')" title="{label}">
-							<img alt="{label}" src="thumbs/{figure/@n}.jpg"/>
-							<div class="illus">
-								<xsl:value-of select="label"/>
-							</div>
-						</a>
+						<img alt="{label}" src="thumbs/{figure/@n}.jpg"/>
 					</li>
 				</xsl:for-each>
 			</ul>

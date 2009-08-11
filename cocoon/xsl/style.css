@@ -541,3 +541,13 @@ dd {
 #milestones h3{
     margin: 10px 0 0 25px;
 }
+
+#intro .carousel img {
+    margin: 0;
+    min-width: 75px;
+    }
+
+#intro .carousel li {
+    margin-right: 5px;
+    overflow: hidden;
+}
