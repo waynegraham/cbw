@@ -461,6 +461,15 @@ td.mosaic img {
 	margin-left:auto;
 	margin-right:auto;
 }
+
+#intro h1 {
+    font-size: 24px;
+}
+
+#intro h2 {
+    font-size: 18px;
+}
+
 .pic {
 	float: left;
 	margin-right: 20px;
@@ -488,15 +497,14 @@ td.mosaic img {
 .data {
 	float:right;
 	margin-right:20px;
+	width: 50%;
 }
-#data_top {
+/* #data_top {
     height: 300px;
-    width: 60%;
 }
 #data_bottom {
     height: 50px;
-    width: 35%;
-}
+}*/
 .bio, .essay {
 	display: block;
 	margin: 20px 0;
@@ -536,13 +544,19 @@ dt {
 	width:50px;
 }
 dd {
-	margin-left:75px;
+	margin-left:50px;
 }
 #intro .jcarousel-skin-tango .jcarousel-container-horizontal, #intro .jcarousel-skin-tango .jcarousel-clip-horizontal{
-    width: 360px;
+    width: 300px;
 }
 #milestones h3{
     margin: 10px 0 0 25px;
+    font-size: 16px;
+}
+
+#milestones .ms-desc {
+    font-size: 12px;
+    display: block;
 }
 
 #intro .carousel img {

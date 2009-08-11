@@ -78,7 +78,8 @@
 				<div class="pic">
 					<xsl:apply-templates select="div2[@type='images']"/>
 				</div>
-				<div class="data" id="data_top">
+				<div id="data" class="data">
+				<div id="data_top">
 					<h1>
 						<xsl:value-of select="head/name[@type='full']/text()"/>
 					</h1>
@@ -91,7 +92,7 @@
 						<xsl:apply-templates select="div2[@type='milestones']"/>
 					</div>
 				</div>
-				<div class="data" id="data_bottom">
+				<div id="data_bottom">
 					<div id="cbw_search">
 						<a
 							href="search?rows=20&amp;start=0&amp;fulltext={head/name[@type='search']}&amp;action=Submit"
@@ -102,6 +103,7 @@
 						<a href="popchart#{head/name[@type='search']}">Find <xsl:value-of
 								select="head/name[@type='search']"/> on the Pop Chart.</a>
 					</div>
+				</div>
 				</div>
 			</div>
 
@@ -181,6 +183,7 @@
 					</dt>
 					<dd>
 						<xsl:value-of select="label"/>
+						<span class="ms-desc"><xsl:value-of select="./text()[2]"/></span>
 					</dd>
 				</div>
 			</xsl:for-each>
