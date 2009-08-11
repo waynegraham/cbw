@@ -31,7 +31,14 @@
 						jQuery('.image-carousel').jcarousel();
 						$('#pop-link').attr('class','selected');
 						$('.carousel li').click(function () { 
-							$('.full img').attr('src','full/{figure/@n}.jpg'); 
+							var thumb_src = $(this).find('img:first').attr('src');
+							var thumb_alt = $(this).find('img:first').attr('alt');
+							var thumb_title = $(this).find('img:first').attr('title');
+							var thumb_no = thumb_src.split('/');
+							$('.full img').attr({src: 'full/'+thumb_no[1],
+												 alt: thumb_alt,
+												 title: thumb_title
+												}); 
 						});
 					});
 				</script>
@@ -102,7 +109,7 @@
 
 	<xsl:template match="div2[@type='images']">
 		<div class="full">
-			<img src="banner_img2.jpg" alt="Queen Elizabeth" class="full_img"/>
+			<img src="full/{list/item/figure/@n}.jpg" alt="{list/item/label}" title="{list/item/label}" class="full_img"/>
 		</div>
 		<div class="carousel">
 			<ul class="image-carousel jcarousel-skin-tango">
