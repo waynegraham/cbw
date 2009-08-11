@@ -117,7 +117,7 @@
 			<ul class="image-carousel jcarousel-skin-tango">
 				<xsl:for-each select="list/item">
 					<li>
-						<img alt="{label}" src="thumbs/{figure/@n}.jpg"/>
+						<img alt="{label}" title="{label}" src="thumbs/{figure/@n}.jpg"/>
 					</li>
 				</xsl:for-each>
 			</ul>
