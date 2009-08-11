@@ -40,6 +40,9 @@
 												 title: thumb_title
 												}); 
 						});
+						$('.full img').click(function () { 
+							displayIllus($(this).attr('name'),$(this).attr('title'));
+						});
 					});
 				</script>
 			</head>
@@ -109,9 +112,7 @@
 
 	<xsl:template match="div2[@type='images']">
 		<div class="full">
-			<a title="{list/item/label}" onclick="displayIllus('{list/item/figure/@n}', '{list/item/label}')">
-				<img src="full/{list/item/figure/@n}.jpg" alt="{list/item/label}" title="{list/item/label}" class="full_img"/>
-			</a>
+			<img name="{list/item/figure/@n}" src="full/{list/item/figure/@n}.jpg" alt="{list/item/label}" title="{list/item/label}" class="full_img"/>
 		</div>
 		<div class="carousel">
 			<ul class="image-carousel jcarousel-skin-tango">
