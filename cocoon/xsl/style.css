@@ -476,7 +476,8 @@ td.mosaic img {
 	margin: 0 15px;
 }
 .pic .full img {
-	min-width: 240px;
+	width: 240px;
+	min-height: 240px;
 	position: relative;
 	right: 15px;
 }
