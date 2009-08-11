@@ -377,7 +377,7 @@
                        and planning the construction and move into a new hospital that was begun in 1877. Here, a passage in Baring-Gould and 
                        Mabie and Stephen offers
                        a portrait of the heroine's motives: 
-                           She could not endure pity. She, to whom everybody had learnt instinctively to
+                           <quote>She could not endure pity. She, to whom everybody had learnt instinctively to
                            turn for help and consolation, on whom others leant for support, must she
                            now come down to ask of them sympathy and comfort? The pride of life was
                            still surging up in her, that pride which had made her glory in her physical
@@ -388,7 +388,7 @@
                            extent which not even those who saw the most of her could appreciate. To all
                            the poor, ignorant beings whose souls she tried to reach by means of their
                            maimed bodies, she was, indeed, the personification of all that they could
-                           conceive as lovable, holy and merciful in the Saviour" (M+S 259).
+                           conceive as lovable, holy and merciful in the Saviour. (M+S 259)</quote>
                        After a brief holiday, she returned to Walsall in her final
                    illness, and died on 24 December, 1878.  Her last wish, they say, was to die alone.  And some said, and had to be
                    convinced otherwise, that she converted to Catholicism on her deathbed.</p>
@@ -403,7 +403,7 @@
                     </p>
                     <p>The Walsall writer of "A Review," quoted by Baring-Gould and Mabie and Stephens, concludes:</p>
 
-                    <p>She is no idol to us, but we worship her memory as the most saintly thing
+                    <quote>She is no idol to us, but we worship her memory as the most saintly thing
                         that was ever given us. Her name is immortalised, both by her own surpassing
                         goodness, and by the love of a whole people for her—a love that will survive
                         through generations, and give a magic and a music to those simple words,
@@ -413,31 +413,13 @@
                         in our helplessness we find a serene joy in the knowledge that to her, as
                         surely as to any human soul, will be spoken the divine words: "Inasmuch as
                         ye have done it unto the least of these my brethren, ye have done it unto
-                        Me."</p>
+                        Me."(M + S 264)</quote>
 
                     <p>Sister Dora's reputation as a modern saint was international for some decades.  She appeared in as many as twenty collective biographies
                         besides numerous biographical reference works and countless essays and articles.  And even Susan McGann's 2004 biography 
                         in ODNB ends with this same quotation from Matthew 25:40.</p>
                 </div2>
-                <div2 id="WIKIPEDIA_BIO" type="essay">
-                    <docAuthor>Student One</docAuthor>
-                    <docDate>Nov. 9, 2008</docDate>
-                    <head>
-                        <title>Sister Dora</title>
-                        <bibl>( Originally Published 1908 )</bibl>
-                    </head>
-                    <p>first paragraph here.</p>
-                    <p>second paragraph here.</p>
-                    <p><name corresp="SISTER_DORA">Sister Dora</name> admired <name
-                            corresp="QUEEN_VICTORIA">Queen Victoria</name>. She lived in <rs
-                            type="place" key="region">Walsall</rs> in the <dateRange
-                            from="1800-01-01" to="1899-12-31">19th century</dateRange>. She was born
-                        on <date value="1840-05-20">May 20, 1840</date>.</p>
-                    <lg>
-                        <l>Some verse</l>
-                        <l>goes here</l>
-                    </lg>
-                </div2>
+                
             </div1>
             <div1 id="QUEEN_VICTORIA">
                 <head>
@@ -555,9 +537,22 @@
                             <date>1819</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label>Accession</label>
+                            <date>1837</date>
                         </item>
+                        <item>
+                            <label>Marriage to Prince Albert</label>
+                            <date>1840</date>
+                        </item>
+                        <item>
+                            <label>Death of Prince Albert</label>
+                            <date>1861</date>
+                        </item>
+                        <item>
+                            <label>Golden Jubilee</label>
+                            <date>1887</date>
+                        </item>
+                        
                         <item>
                             <label>Death</label>
                             <date>1901</date>
@@ -1036,8 +1031,8 @@
                             <date>1779</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label>Journey to America</label>
+                            <date>1827</date>
                         </item>
                         <item>
                             <label>Death</label>
@@ -1057,7 +1052,7 @@
                         her. To her children no holiday was preferable to a tete-a-tete with her”
                             (<name>Trollope</name>, 47), <name>Frances Eleanor Trollope</name>
                         writes of her husband <name>Thomas Adolphus Trollope’s</name> mother, famed
-                        eighteenth century novelist and travel writer <name
+                        novelist and travel writer <name
                             corresp="FRANCES_TROLLOPE">Frances Milton Trollope</name>. Best known
                         for her unflattering portrayal of young <rs type="place" key="country"
                             >American</rs> democracy and “civilization” in Domestic Manners of the
@@ -1336,8 +1331,7 @@
                         son <name>Anthony</name> and his wife from <dateRange from="1850-01-01"
                             to="1850-12-31">1850</dateRange> on. Her health steadily deteriorated
                         and she died peacefully in bed on <date>October 6, 1863</date>
-                            (<name>Neville-Sington</name>, <rs type="place" key="city">Oxford</rs>
-                        Dictionary).</p>
+                        (<name>Neville-Sington</name>, <title><hi rend="italics">Oxford Dictionary</hi></title>).</p>
                     <p>Works Cited:</p>
                     <note><name>Farewell, Jeanne.</name> "<name corresp="FRANCES_TROLLOPE">Mrs.
                             Trollope’s</name> Vituperative View of <rs type="place" key="country"
@@ -1391,8 +1385,8 @@
                 <div2 type="links">
                     <list>
                         <item>
-                            <label>Cobbe, Frances Power, and Blanche Atkinson. "Life of Frances
-                                Power Cobbe as Told by Herself." London: S. Sonnenschein &amp;
+                            <label>Cobbe, Frances Power, and Blanche Atkinson. <title><hi rend="italics">Life of Frances
+                                Power Cobbe as Told by Herself</hi>.</title> London: S. Sonnenschein &amp;
                                 Co., 1904.</label>
                             <p>This reprinted posthumous edition of Frances Cobbe's memoir, written
                                 by herself in 1894, includes an Introduction by Blanche Atkinson.
@@ -1404,8 +1398,8 @@
                             <address><addrLine>http://books.google.com/books?id=Pus0AAAAMAAJ&amp;printsec=titlepage&amp;source=gbs_navlinks_s</addrLine></address>
                         </item>
                         <item>
-                            <label>Mitchell, Sally. "Frances Power Cobbe: Victorian Feminist,
-                                Journalist, Reformer." Charlottesville, VA and London: University of
+                            <label>Mitchell, Sally. <title><hi rend="italics">Frances Power Cobbe: Victorian Feminist,
+                                Journalist, Reformer</hi>.</title> Charlottesville, VA and London: University of
                                 Virginia Press, 2004.</label>
                             <p>Sally Mitchell's biography about Frances Cobbe, based on her
                                 previously unpublished correspondence as well as Cobbe family
@@ -1447,8 +1441,21 @@
                             <date>1822</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label>Death of Father</label>
+                            <date>1857</date>
+                        </item>
+                        <item>
+                            <label>Collaboration with Mary Carpenter</label>
+                            <date>1858</date>
+                        </item>
+                        <item>
+                            <label>Domestic partnership with Mary Lloyd</label>
+                            <dateRange from="1858-12-01"
+                                to="1896-12-31">1860-1896</dateRange>
+                        </item>
+                        <item>
+                            <label>Began anti-vivisection campaign</label>
+                            <date>1863</date>
                         </item>
                         <item>
                             <label>Death</label>
@@ -1473,29 +1480,30 @@
                             Power Cobbe</name> to avoid the epithet of 'strong-minded’; she was
                         obviously not concerned with men’s evaluation of her suitability as a
                         servant for them. She was far more concerned with their unsuitability as
-                        leaders and lawmakers…”– <name>Dale Spender</name>, <hi rend="italics">Women of Ideas and What
-                            Men Have Done to Them</hi>.</p>
+                        leaders and lawmakers…”– <name>Dale Spender</name>, <title><hi rend="italics">Women of Ideas and What
+                            Men Have Done to Them</hi></title>.</p>
                     <p><name corresp="FRANCES_COBBE">Frances Power Cobbe</name>, born in <rs
                             type="place" key="city">Dublin</rs> in <dateRange from="1822-12-01"
                             to="1822-12-31">December 1822</dateRange>, left behind a rich legacy as
-                        a journalist, women’s right activist, and social reformer when she passed
+                        a journalist, women’s rights activist, and social reformer when she passed
                         away in <dateRange from="1904-04-01" to="1904-04-30">April 1904</dateRange>.
                             <name corresp="FRANCES_COBBE">Frances Power Cobbe</name> was in many
                         ways a remarkable woman. Living in the Victorian age when women had limited
                         access to gainful employment and women writers were still something to be
                         scorned, <name corresp="FRANCES_COBBE">Cobbe</name> was a prolific author
                         and earned a living as a journalist for such reputable newspapers as 
-                        <hi rend="italics">The Economist</hi>, <hi rend="italics">The Spectator</hi>, <hi rend="italics">
+                        <title><hi rend="italics">The Economist</hi></title>, <title><hi rend="italics">The Spectator</hi></title>, 
+                        <title>                      
+                        <hi rend="italics">
                         The Contemporary Review     
-                        </hi>, and <hi rend="italics">Fraser’s Magazine</hi>.
-                        For a time, she was also the second leader writer for <hi rend="italics">The Echo</hi>. <name
-                            corresp="FRANCES_COBBE">Cobbe’s</name> role as a contributor to these
+                        </hi></title>, and <title><hi rend="italics">Fraser’s Magazine</hi></title>.
+                        For a time, she was also the second leader writer for <title><hi rend="italics">The Echo</hi></title>. <name                         corresp="FRANCES_COBBE">Cobbe’s</name> role as a contributor to these
                         newspapers afforded her a unique stage from which to campaign on behalf of
                         women’s suffrage, better educational opportunities for women and the poor,
                         and the anti-vivisection movement. </p>
                     <p><name corresp="FRANCES_COBBE">Frances Power Cobbe</name> began exercising her
-                        philanthropic spirit at an early age. The only daughter of <name>Frances
-                            Conway Cobbe</name> and <name>Charles Cobbe</name>, she was born into a
+                        philanthropic spirit at an early age. The only daughter of <name type="mother">Frances
+                            Conway Cobbe</name> and <name type="father">Charles Cobbe</name>, she was born into a
                         landowning Anglo-Irish family of some wealth and distinction. <name
                             corresp="FRANCES_COBBE">Cobbe</name> therefore had a comfortable
                         middle-class upbringing, and it provided her with opportunities to help
@@ -1875,8 +1883,16 @@
                             <date>1780</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label>Married second husband, William Somerville</label>
+                            <date>1812</date>
+                        </item>
+                        <item>
+                            <label>Published <hi rend="italics">The Mechanism of the Heavens</hi></label>
+                            <date>1831</date>
+                        </item>
+                        <item>
+                            <label>Elected Honorary Member, Royal Astronomical Society</label>
+                            <date>1835</date>
                         </item>
                         <item>
                             <label>Death</label>
@@ -1906,8 +1922,8 @@
                             >Mary</name> was not a proficient reader until her early teens, and
                         encountered her first algebraic problem only by chance. Despite the many
                         objections from those attempting to deter her, and entirely through her own
-                        machinations and determination, she became an extraordinary scientific
-                        leviathan. </p>
+                        efforts and determination, she became an internationally renowned authority on emerging
+                        sciences, including physics and geography. </p>
                     <p><name corresp="MARY_SOMERVILLE">Mary Fairfax</name> was born on
                             <date>December 26, 1780</date>, not in her own home, but in that of her
                         mother’s sister. Her father was a vice-admiral in the <rs type="place"
@@ -1930,9 +1946,8 @@
                             >Mary</name> spent much of her youth roaming the hillsides and coast
                         near her home, practically ignorant of the existence of mathematics. She
                         wrote in her autobiography: “I never cared for dolls, and had no one to play
-                        with me,” (<name>Somerville</name> 18), and her solitary wanderings
-                        cultivated within her a profound fascination with nature. <name
-                            corresp="MARY_SOMERVILLE">Mary’s</name> lifelong love of nature was
+                        with me” (<name>Somerville</name> 18), and her solitary wanderings
+                        cultivated her profound fascination with nature. This lifelong love of nature was
                         fueled by her devout faith in God, as her mother, according to <name
                             corresp="MARY_SOMERVILLE">Mary’s</name> own account, “taught me to read
                         the Bible, and to say my prayers morning and evening; otherwise she allowed
@@ -1981,7 +1996,7 @@
                         contrary was the case. <name>Mr. Greig</name> took no interest in science or
                         literature, and possessed in full the prejudice against learned women which
                         was common at that time” (<name>Somerville</name> 3). Of the two children
-                        she had with <name>Samuel</name>, one died in infancy and the other,
+                        she had with <name>Samuel</name>, one died at the age of seven and the other,
                             <name>Woronzow Greig</name>, grew up to be a barrister-at-law. After
                         just three years of marriage, <name>Samuel</name> died in <dateRange
                             from="1807-01-01" to="1807-12-31">1807</dateRange>, leaving <name
@@ -2024,13 +2039,13 @@
                         the subject matter, and for her desire to “make the laws by which the
                         material world is governed, more familiar” (<name>Osen</name> 113). <name
                             corresp="MARY_SOMERVILLE">Mary’s</name> first and greatest published
-                        work was her translation of <name>Pierre-Simon Laplace’s</name> Mecanique
-                        Céleste in <dateRange from="1827-01-01" to="1827-12-31">1827</dateRange>.
+                        work was her translation and introduction to <name>Pierre-Simon Laplace’s</name> Mecanique
+                        Céleste in <dateRange from="1831-01-01" to="1831-12-31">1831</dateRange>.
                             <name corresp="MARY_SOMERVILLE">Mary</name> met with the great <rs
                             type="place" key="country">French</rs> mathematician and astronomer in
                             <rs type="place" key="city">Paris</rs>, and in conversation, he told her
                         that “I write books that no one can read. There have been only three women
-                        who have understood me—yourself, <name>Caroline Herschel</name>, and a <name
+                        who have understood me—yourself, <name corresp="CAROLINE_HERSCHEL">Caroline Herschel</name>, and a <name
                             corresp="MARY_SOMERVILLE">Mrs. Greig</name>, of whom I have never been
                         able to learn anything” (<name>Chamber</name> 186). Of course, <name
                             corresp="MARY_SOMERVILLE">Mary</name> was the first and third of these
@@ -2044,7 +2059,7 @@
                         book for posterity” because of Mary’s ability to clearly communicate
                         concepts through simple explications entirely lacking condescension (<name
                             corresp="MARY_SOMERVILLE">Mary</name> 570). Upon publication, it became
-                        an extremely popular mathematical read, and quickly became a textbook for
+                        an extremely popular mathematical resource, and quickly became a textbook for
                             <rs type="place" key="city">Cambridge</rs> University mathematics
                         students.</p>
                     <p><name corresp="MARY_SOMERVILLE">Mary</name> left <rs type="place"
@@ -2067,9 +2082,9 @@
                             to="1877-12-31">1877</dateRange>, five years after her death
                             (<name>Patterson</name> 193). The widespread acclaim garnered by her
                         book did not go unrecognized, and <name corresp="MARY_SOMERVILLE"
-                            >Mary</name>, along with <name>Caroline Herschel</name>, earned
+                            >Mary</name>, along with <name corresp="CAROLINE_HERSCHEL">Caroline Herschel</name>, earned
                         scientific distinction in <dateRange from="1835-01-01" to="1835=12=31"
-                            >1835</dateRange> as the first women elected into the Royal Astronomical
+                            >1835</dateRange> as the first women elected as honorary members of the Royal Astronomical
                         Society (<name>Patterson</name> 164).</p>
                     <p><name corresp="MARY_SOMERVILLE">Mary’s</name> humility, kindness, and work
                         ethic did not diminish with time, regardless of her well-established
@@ -2138,7 +2153,7 @@
                         beautiful as well as the exquisite loveliness of minute objects. Above all,
                         in the laws which science unveils, step by step, she found ever renewed
                         motives for the love and adoration of their Author and Sustainer”
-                            (<name>Somerville</name>5).</p>
+                            (<name>Somerville</name> 5).</p>
                     <p>Works Cited</p>
                     <note><name>Chambers, Robert</name>, and <name>David Patrick</name>, eds.
                         Chamber’s Cyclopædia of <rs type="place" key="country">English</rs>
@@ -2148,7 +2163,7 @@
                         Women of Mathematics : A Bibliographic Sourcebook. <rs type="place"
                             key="city">New York</rs>: Greenwood P, <dateRange from="1987-01-01"
                             to="1987-12-31">1987</dateRange>.</note>
-                    <note><name corresp="MARY_SOMERVILLE">Mary Somerville</name>, Atlantic Monthly
+                    <note><name corresp="MARY_SOMERVILLE">"Mary Somerville</name>," Atlantic Monthly
                             (<dateRange from="1860-05-01" to="1860-05-31">May 1860</dateRange>),
                         568-571. From the Electronic Text Center, University of <rs type="place"
                             key="state">Virginia</rs> Library </note>
@@ -2277,8 +2292,12 @@
                             <date>1825</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label>Conversion to Catholicism</label>
+                            <date>1851</date>
+                        </item>
+                        <item>
+                            <label><hi rend="italics">Legends and Lyrics</hi>published</label>
+                            <date>1858</date>
                         </item>
                         <item>
                             <label>Death</label>
@@ -2315,13 +2334,12 @@
                         I could hardly crawl about the house… it is so long since I have danced.”
                             –<name>Dickens</name>, xvii-xix</p>
                     <p><name corresp="ADELAIDE_PROCTER">Adelaide Anne Procter’s</name> exuberance in
-                        this anecdote conflicts with popular assumptions that she had an intense
-                        character, reflected in her role as a poet, advocate for women’s rights, and
+                        this anecdote conflicts with the general impression of a severe or meditative character, reflected in her role as a poet, advocate for women’s rights, and
                         member of a prominent literary family. A friend of the family described the
                         young <name corresp="ADELAIDE_PROCTER">Procter</name> as possessing a
                         “doomed” look about her, manifested in a “marked brow over heavy blue eyes"
                         and a “mournful expression for a little child” (<name>Gregory</name>, Life
-                        and Work [LW], 5). However, <name>Dickens</name> provides us with a
+                        and Work [LW], 5). However, <name>Charles Dickens</name> provides us with a
                         contrasting view of <name corresp="ADELAIDE_PROCTER">Procter’s</name>
                         character as he writes that even on her deathbed “her old cheerfulness never
                         quitted her” (<name>Dickens</name>, xxiii). Though <name>Dickens</name>
@@ -2356,9 +2374,9 @@
                         publication. She even submitted her poetry to <name>Dickens’</name>
                         publication, Household Words, under the pseudonym “<name>Miss
                         Berwick</name>” (2). Her use of a female name (unlike authors such as
-                            <name>Marian Evans</name> and the <name>Bronte</name> sisters who used
+                            <name>Marian Evans</name> and the <name corresp="CHARLOTTE_BRONTE">Brontë</name> sisters who used
                         masculine pen names) can be seen as an early indication of her later
-                        campaigns for women’s rights, becausse she promoted women’s entrance into
+                        campaigns for women’s rights, becaue she promoted women’s entrance into
                         the male-dominated sphere of publication. <name>Dickens</name> himself was
                         unaware that <name>Miss Berwick</name>, whose poetry he frequently
                         published, was actually <name corresp="ADELAIDE_PROCTER">Adelaide Anne
@@ -2397,15 +2415,15 @@
                         Protestant, but she and her sisters converted to Catholicism in <dateRange
                             from="1851-01-01" to="1851-12-31">1851</dateRange>, possibly influenced
                         by an Italian aunt (<name>Hoeckley</name>, 2). This conversion is
-                        significant: because of the strong anti-Catholic sentiments throughout <rs
-                            type="place" key="country">England</rs> at this time, so her conversion
+                        significant: given the strong anti-Catholic sentiments throughout <rs
+                            type="place" key="country">England</rs> at this time, her conversion
                         shows strength of character. Some scholars speculate, however, that she had
                         already secretly adopted Catholicism two years earlier (<name>Drain</name>,
                         2), when she was twenty-four. <name corresp="ADELAIDE_PROCTER"
                             >Adelaide</name>may have waited to announce her decision until she had
                         her sisters’ support because her conversion complicated the initially strong
                         relationship between herself and her father (<name>Gregory</name>, LW, 10).
-                        But whether she feared cultural or familial disapproval, her delay muddles
+                        But whether she feared cultural or familial disapproval, her delay may detract from 
                         her iconic position as an independent woman. However, her Catholic faith led
                         her directly to passionate involvement with social work, arguably one of her
                         most progressive achievements.</p>
@@ -2431,13 +2449,13 @@
                         (3). She used her poetic skills to provide a voice for the Catholic widows
                         and orphans she was helping through the Providence Row Night Refuge. While
                         working to support the Society to Promote the Employment of Women (SPEW),
-                        she published <name corresp="QUEEN_VICTORIA">Victoria</name> Regia: a Volume
-                        of Original Contributions in Poetry and Prose (3-4). This publication
+                        she published <title><hi rend="italics">Victoria Regia: a Volume
+                            of Original Contributions in Poetry and Prose</hi></title> (3-4). This publication
                         supported the cause of female employment by using a printing company which
                         exclusively employed women (4). <name corresp="ADELAIDE_PROCTER"
                             >Procter’s</name> poetic success was not only a personal victory, but
                         also a way for her to advance her belief in social justice.</p>
-                    <p>Despite her widespread publication, critical reception of her poetry was and
+                    <p>Despite her prolific publication, critical reception of her poetry was and
                         remains highly ambivalent. Even <name>Dickens</name>, <name
                             corresp="ADELAIDE_PROCTER">Procter’s</name> most enthusiastic advocate,
                         was uneasy about the social aspects of her poetry. While declaring his
@@ -2447,8 +2465,8 @@
                         (197). Beyond her possibly controversial topics, a contemporary biographer
                         writes that her style of poetry was often “not only sentimental but also
                         formally simplistic” (<name>Hoeckley</name>, 5). <name>Procter</name>
-                        herself admitted that “Papa is a poet. I only write verses.”
-                            (<name>Drain</name>, 3) Despite its formal uninventiveness, her poetry
+                        herself admitted that “Papa is a poet. I only write verses”
+                            (<name>Drain</name>, 3). Despite its formal uninventiveness, her poetry
                         was popular because of its “invariably simple and direct language and
                         strongly affective rhetoric. This simplicity… masks a complexity of thought
                         and feeling” (<name>Gregory</name>, LW, 3-4). Critiques of her work,
@@ -2470,7 +2488,7 @@
                         Legends and Lyrics to ‘<name>Matilda M. Hays</name>’. On the <date>23
                             January 1858</date>
                         <name corresp="ADELAIDE_PROCTER">Procter</name> wrote a poem titled ‘To
-                        M.M.H’…It is a poem which expresses love for <name>Hayes</name>… who dressed
+                        M.M.H’…It is a poem which expresses love for <name>Hays</name>… who dressed
                         in men’s clothes and had lived with [a woman] in <rs type="place" key="city"
                             >Rome</rs>” (24-25). Other than the vaguely erotic nature of several of
                         her poems (254), there is little evidence about her romantic or sexual
@@ -2478,7 +2496,7 @@
                     <p>The intense activity and ceaseless work that made <name
                             corresp="ADELAIDE_PROCTER">Procter</name> remarkable contributed to her
                         early death at the age of thirty-eight. She was confined to her bed for the
-                        last fifteen months of her short life as she suffered from consumption. It
+                        last fifteen months of her short life as she suffered from tuberculosis. It
                         is highly possible that her work among the sick exposed her to the
                         tuberculosis that killed her, although her intense work ethic rendered her
                         physically ill-equipped to fight the disease (<name>Hoeckley</name>, 5). She
@@ -2519,14 +2537,18 @@
                             key="city">London</rs>: <rs type="place" key="neighborhood"
                             >Chiswick</rs> Press, <dateRange from="1905-01-01" to="1905-12-31"
                             >1905</dateRange>. Google Books.
-                        http://books.google.com/books?id=274RAAAAYAAJ&amp;dq=charles+dickens+adelaide+anne+Procter&amp;printsec=frontcover&amp;source=bl&amp;ots=nb4M_PKtq9&amp;sig=Xn-lFf6C6pGy5kZpPbeFFT4q9gs&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=3&amp;ct=result#PPP1,M1. </note>
+                        http://books.google.com/books?id=274RAAAAYAAJ&amp;dq=charles+dickens+adelaide+anne+Procter&amp;
+                        printsec=frontcover&amp;source=bl&amp;ots=nb4M_PKtq9&amp;sig=Xn-lFf6C6pGy5kZpPbeFFT4q9gs&amp;
+                        hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=3&amp;ct=result#PPP1,M1. </note>
                     <note><name>Drain, Susan</name>. From Dictionary of Literary Biography, Volume
                         32: Victorian Poets Before <dateRange from="1850-01-01" to="1850-12-31"
                             >1850</dateRange>. Mount Saint Vincent University, <dateRange
                             from="1984-01-01" to="1984-12-31">1984</dateRange>. “<name
                             corresp="ADELAIDE_PROCTER">Adelaide Anne Procter</name>.” Literature
                         Resource Center. UVA Libraries. <date>9 November 2008</date>. </note>
-                    <note>http://galenet.galegroup.com/servlet/LitRC?vrsn=3&amp;OP=contains&amp;locID=viva_uva&amp;srchtp=athr&amp;ca=1&amp;c=1&amp;ste=6&amp;tab=1&amp;tbst=arp&amp;ai=U13717035&amp;n=10&amp;docNum=H1200003496&amp;ST=Adelaide+Procter&amp;bConts=4202685.</note>
+                    <note>http://galenet.galegroup.com/servlet/LitRC?vrsn=3&amp;OP=contains&amp;
+                        locID=viva_uva&amp;srchtp=athr&amp;ca=1&amp;c=1&amp;ste=6&amp;tab=1&amp;tbst=arp&amp;ai=U13717035&amp;
+                        n=10&amp;docNum=H1200003496&amp;ST=Adelaide+Procter&amp;bConts=4202685.</note>
                     <note><name>Gregory, Gill</name>. The Life and Work of <name>Adelaide
                             Procter</name>. <rs type="place" key="kingdom">Great Britain</rs>,
                         Ashgate Publishing Limited, <dateRange from="1998-01-01" to="1998-12-31"
@@ -2543,7 +2565,10 @@
                             from="1999-01-01" to="1999-12-31">1999</dateRange>. “Adelaide Anne
                         Procter.” Literature Resource Center. UVA Libraries. <date>9 November
                             2008</date>. </note>
-                    <note>http://galenet.galegroup.com/servlet/LitRC?vrsn=3&amp;OP=contains&amp;locID=viva_uva&amp;srchtp=athr&amp;ca=1&amp;c=2&amp;ste=6&amp;tab=1&amp;tbst=arp&amp;ai=U13717035&amp;n=10&amp;docNum=H1200008287&amp;ST=Adelaide+Procter&amp;bConts=4202685.</note>
+                    <note>http://galenet.galegroup.com/servlet/LitRC?vrsn=3&amp;OP=contains&amp;
+                        locID=viva_uva&amp;srchtp=athr&amp;ca=1&amp;c=2&amp;ste=6&amp;tab=1&amp;
+                        tbst=arp&amp;ai=U13717035&amp;n=10&amp;docNum=H1200008287&amp;
+                        ST=Adelaide+Procter&amp;bConts=4202685.</note>
                     <note><name>Lee, Elizabeth</name>. “<name corresp="ADELAIDE_PROCTER">Procter,
                             Adelaide Anne</name>.” <rs type="place" key="city">Oxford</rs>
                         Dictionary of National Biography Archive. </note>
@@ -2648,8 +2673,8 @@
                             <date>1815</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label>Rescue of survivors of wreck of Forfarshire</label>
+                            <date>1838</date>
                         </item>
                         <item>
                             <label>Death</label>
@@ -2673,8 +2698,8 @@
                         shipwrecked passengers early on the morning of <date>September 7,
                             1838</date>, she was transformed into an exalted national hero. She was
                         both lauded and hounded by the public up until her early death, after which
-                        she, and her story, continued to entrance the public imagination.</p>
-                    <p><name corresp="GRACE_DARLING">Grace Darling</name> was born in <rs
+                        she, and her story, continued to entrance the public imagination in Britain and abroad.</p>
+                    <p><name corresp="GRACE_DARLING">Grace Horsley Darling</name> was born in <rs
                             type="place" key="village"/>Bamburgh, <rs type="place" key="county"
                             >Northumberland</rs> on <date>November 14, 1815</date>, and was the
                         seventh of <name>William</name> and <name>Thomasin Darling’s</name> nine
@@ -2690,8 +2715,8 @@
                         “Geography, History, Voyages and Travels, with Maps” (<name>Mitford</name>
                         89). Her father regarded novels and other forms of literature, as well as
                         pursuits such as card-playing, to be the works of the Devil, and raised his
-                        family within the confines of strict Puritanism (<name>Mitford</name> 89,
-                            <rs type="place" key="city">Oxford</rs>). </p>
+                        family within the confines of strict Puritanism (<name>Mitford</name> 89; ODNB
+                        ). </p>
                     <p>In their remote location, <name corresp="GRACE_DARLING">Grace</name> and her
                         family were isolated from society at large, making only occasional
                         excursions to the mainland, and otherwise occupying themselves with the
@@ -2700,8 +2725,7 @@
                         apparently) enjoyable upbringing, <name corresp="GRACE_DARLING">Grace</name>
                         was “remarkable for a retiring and somewhat reserved disposition”
                             (<name>Bruce</name> 376). She assisted her father in his work on the
-                        lighthouse and kept watch at times (<rs type="place" key="city"
-                        >Oxford</rs>), bearing witness to several wrecks and rescues over the course
+                        lighthouse and kept watch at times (ODNB), bearing witness to several wrecks and rescues over the course
                         of her lifetime but never participating in them, as her older brothers were
                         always present to help their father (<name>Bruce</name>). </p>
                     <p>In this manner, for the first twenty-two years of her life, the mild-tempered
@@ -2746,7 +2770,9 @@
                             <name>William Darling’s</name> account of the rescue. To a family of
                         lighthouse-keepers, dangerous rescues were fairly frequent occurrences, and
                         the efforts that <name corresp="GRACE_DARLING">Grace</name> and her father
-                        put forth were expected and unremarkable. The rest of the nation, however,
+                        put forth were expected and unremarkable. Indeed, William Darling is likely
+                        to have thought of the prospect of "sole salvage rights" to the goods in the wreck
+                        if he could reach the ship (ODNB).  The rest of the nation, however,
                         did not perceive the event in such a pragmatic manner. Instead, the public
                         exalted the romantic and heroic nature of the event in a manner directly
                         opposed to the down-to-earth humility of the <name>Darlings’</name>
@@ -2758,14 +2784,14 @@
                             corresp="GRACE_DARLING">Grace</name> and her father played equally
                         significant roles in the rescue of the survivors, it was <name
                             corresp="GRACE_DARLING">Grace</name> and the combination of her
-                        unconventional act and virtuous humility, emblematic of ideal Victorian
+                        unconventional physical feat and virtuous humility, emblematic of ideal Victorian
                         womanhood, that attracted the media and publicity. The number of visitors at
                         the Longstone Lighthouse increased exponentially as people from all over the
                         country flocked to meet the great heroine and see the location of her
                         selfless deed.</p>
                     <p>In addition to the masses that besieged the once reclusive world of Longstone
                         Lighthouse, numerous institutions celebrated the <name>Darling</name>
-                        family. The Royal Human Society acknowledged <name corresp="GRACE_DARLING"
+                        family. The Royal Humane Society acknowledged <name corresp="GRACE_DARLING"
                             >Grace</name> and <name>William Darling</name> in a special general
                         court held on <date>October 31, 1838</date> that highlighted the
                         “intrepidity, presence of mind, and humanity that nobly urged
@@ -2780,14 +2806,14 @@
                         four pounds of tea. It was through this act of largesse that the lifelong
                         friendship between the Duke and <name corresp="GRACE_DARLING">Grace</name>
                         began (<name>Thomasin Darling</name>).</p>
-                    <p>Following the Royal Human Society’s lead, many other national and local
+                    <p>Following the Royal Humane Society’s lead, many other national and local
                         institutions recognized <name corresp="GRACE_DARLING">Grace’s</name>
                         actions. She received medals from The Royal Institution for the Preservation
                         of Life from Shipwreck, The <rs type="place" key="city">Edinburgh</rs> and
                             <rs type="place" key="district">Leith</rs> Humane Society, The <rs
                             type="place" key="city">Glasgow</rs> Humane Society, and The Shipwreck
                         Society of <rs type="place" key="city">Newcastle</rs>. Some organizations,
-                        such as Llyods, an insurance market, and The Ladies of <rs type="place"
+                        such as Lloyds, the insurance company, and The Ladies of <rs type="place"
                             key="city">Edinburgh</rs>, chose to send money and stocks to <name
                             corresp="GRACE_DARLING">Grace</name> and her father. Just a year after
                         the shipwreck, <name corresp="GRACE_DARLING">Grace</name> had received about
@@ -2809,7 +2835,7 @@
                             type="place" key="kingdom">United Kingdom’s</rs> Treasury stating that
                         “Her Majesty [had] been called to the circumstances attending the Wreck of
                         the Forfarshire Steamer” and wished to acknowledge <name
-                            corresp="GRACE_DARLING">Grace</name> for her actions in saving the
+                            corresp="GRACE_DARLING">Grace Darling</name> for her actions in saving the
                         survivors (<name>Thomasin Darling</name> 30). Amongst all of these letters,
                         however, there is no evidence that <name corresp="GRACE_DARLING"
                             >Grace</name> ever received acknowledgement from the survivors of the
@@ -2857,7 +2883,7 @@
                         event. <name>William Wordsworth</name> commemorated <name
                             corresp="GRACE_DARLING">Grace</name> and her actions in verse considered
                         to be beautifully and poetically written, but also greatly romanticized and
-                        “embarrassing” (<rs type="place" key="city">Oxford</rs>). <name
+                        “embarrassing” (ODNB). <name
                             corresp="GRACE_DARLING">Grace</name> did not read or pay attention to
                         any of the novels, in keeping with her strict upbringing (<name>Thomasin
                             Darling</name>).</p>
@@ -2885,8 +2911,7 @@
                             corresp="GRACE_DARLING">Grace’s</name> parents sent her and her sister,
                             <name>Thomasin</name>, to visit a family friend, <name>George
                             Shield</name>, in <rs type="place" key="town">Wooler</rs>
-                            (<name>Thomasin Darling</name>, <rs type="place" key="kingdom"
-                            >Britain</rs> Unlimited). While there, <name corresp="GRACE_DARLING"
+                            (<name>Thomasin Darling</name>, Britain Unlimited). While there, <name corresp="GRACE_DARLING"
                             >Grace</name> wrote to her parents that she greatly enjoyed spending
                         time with her sister and was beginning to feel better.
                             <name>Thomasin’s</name> letters contradicted <name
@@ -2909,15 +2934,20 @@
                             corresp="GRACE_DARLING">Grace</name> died several days later on
                             <date>October 20th, 1842</date> at the age of twenty-seven, a victim of
                         what is believed to have been tuberculosis (<name>Thomasin Darling</name>,
-                            <rs type="place" key="kingdom">Britain</rs> Unlimited). She was buried
+                            Britain Unlimited). She was buried
                         in St. Aidan’s Churchyard, less than one hundred yards from where she had
-                        been born (<rs type="place" key="kingdom">Britain</rs> Unlimited). </p>
+                        been born (Britain Unlimited). </p>
                     <p>Though <name corresp="GRACE_DARLING">Grace</name> was dead, her fame lived on
                         in literature, art, popular culture, and, most significantly, the national
                         consciousness. As <name>Edith Sitwell</name> put it, “to the last day of her
                         life <name corresp="GRACE_DARLING">Grace Darling</name> could not see that
                         she had done anything extraordinary…but she became the pride of the nation”
-                            (<name>Sitwell</name> 62). To the Victorian Era, <name
+                            (<name>Sitwell</name> 62). Certain types of heroic legend coincided in her, as in the
+                        physical courage and prowess of <name corresp="JOAN_OF_ARC">Joan of Arc</name>, the wild, indigenous innocence and rescue of 
+                        <name corresp="POCAHONTAS">Pocahontas</name> or Walter Scott's heroines, and other romantic themes 
+                        apart from love and marriage.  In turn, she became a type recognized in other women's deeds around the world, even 
+                        for predecessors such as the "Grace Darling of Newfoundland," <name>Ann Harvey</name>, who helped to rescue 180 survivors
+                        of a shipwreck in <date>1828</date> (Ann Harvey). To the Victorian Era, <name
                             corresp="GRACE_DARLING">Grace</name> stood as an emblem of both <rs
                             type="place" key="kingdom">British</rs> courage and female virtue that
                         resonated deeply with that era's imperialism and idealism. She was a woman
@@ -2925,12 +2955,15 @@
                             (<name>Mitford</name>) who represented the absolute best of her society,
                         and gave its members hope and faith in a time of transition. </p>
                     <p>Works Cited</p>
+                    <note><title><hi rend="italics">Ann Harvey's Weblog</hi></title>, http://thedespatch.wordpress.com, <date>8 August 2009</date>. </note>
                     <note><name>Bruce, Charles</name>. The Book of <rs type="placw" key="country"
                             >English</rs> Noblewomen: Lives Made Illustrious by Heroism, Goodness,
                         and Great Attainments. W.P. Nimmo, <dateRange from="1875-01-01"
                             to="1875-12-31">1875</dateRange>, pp. 375-385. Google Books. 10 Nov
                         2008.
-                        http://books.google.com/books?id=HR8XAAAAYAAJ&amp;pg=PA375&amp;dq=Grace+Darling+date:1815-1899&amp;lr=&amp;as_brr=0#PPA378,M1 </note>
+                        http://books.google.com/books?id=HR8XAAAAYAAJ&amp;pg=PA375&amp;dq=Grace+
+                        Darling+date:1815-1899&amp;
+                        lr=&amp;as_brr=0#PPA378,M1 </note>
                     <note>Correspondent. “The Centenary of <name corresp="GRACE_DARLING">Grace
                             Darling</name>: A Nation’s Acclamation,” The Times <date>07 Sept
                             1938</date>. The Times Digital Archive, Infotrac, Gale Group. <date>3
@@ -2960,8 +2993,8 @@
                             Grace Horsley</name> (<dateRange from="1815-01-01" to="1815-12-31"
                             >1815</dateRange>–<dateRange from="1842-01-01" to="1842-12-31"
                             >1842</dateRange>).” <dateRange from="2004-01-01" to="2004-12-31"
-                            >2004</dateRange>. <rs type="place" key="city">Oxford</rs> Dictionary of
-                        National Biography, <rs type="place" key="city">Oxford</rs> University
+                            >2004</dateRange>. Oxford Dictionary of
+                        National Biography, Oxford University
                         Press. <date>1 Nov. 2008</date>.
                         http://www.oxforddnb.com/view/article/7155</note>
                     <note><name>Mitford, Jessica</name>. <name corresp="GRACE_DARLING">Grace</name>
@@ -3027,8 +3060,10 @@
                             <p>Elizabeth Fry's memoir, written by herself and edited by her
                                 daughters. Text published in two volumes. Links to Vol. I and II
                                 accessed through Google Books.</p>
-                            <address><addrLine>http://books.google.com/books?id=tAQLAAAAYAAJ&amp;printsec=titlepage&amp;source=gbs_navlinks_s</addrLine></address>
-                            <address><addrLine>http://books.google.com/books?id=r3gaAAAAYAAJ&amp;printsec=titlepage&amp;source=gbs_navlinks_s</addrLine></address>
+                            <address><addrLine>http://books.google.com/books?id=tAQLAAAAYAAJ&amp;
+                                printsec=titlepage&amp;source=gbs_navlinks_s</addrLine></address>
+                            <address><addrLine>http://books.google.com/books?id=r3gaAAAAYAAJ&amp;
+                                printsec=titlepage&amp;source=gbs_navlinks_s</addrLine></address>
                         </item>
                         <item>
                             <label>Corder, Susanna. "Life of Elizabeth Fry: Compiled from Her
@@ -3099,8 +3134,8 @@
                             <date>1780</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label>Begins organized work with women prisoners</label>
+                            <date>1817</date>
                         </item>
                         <item>
                             <label>Death</label>
