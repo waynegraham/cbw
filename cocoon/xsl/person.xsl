@@ -35,9 +35,11 @@
 							var thumb_alt = $(this).find('img:first').attr('alt');
 							var thumb_title = $(this).find('img:first').attr('title');
 							var thumb_no = thumb_src.split('/');
+							var thumb_name = thumb_no[1].split('.');
 							$('.full img').attr({src: 'full/'+thumb_no[1],
 												 alt: thumb_alt,
-												 title: thumb_title
+												 title: thumb_title,
+												 name: thumb_name[0]
 												}); 
 						});
 						$('.full img').click(function () { 
