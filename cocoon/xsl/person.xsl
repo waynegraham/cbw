@@ -109,7 +109,9 @@
 
 	<xsl:template match="div2[@type='images']">
 		<div class="full">
-			<img src="full/{list/item/figure/@n}.jpg" alt="{list/item/label}" title="{list/item/label}" class="full_img"/>
+			<a title="{list/item/label}" onclick="displayIllus('{list/item/figure/@n}', '{list/item/label}')">
+				<img src="full/{list/item/figure/@n}.jpg" alt="{list/item/label}" title="{list/item/label}" class="full_img"/>
+			</a>
 		</div>
 		<div class="carousel">
 			<ul class="image-carousel jcarousel-skin-tango">

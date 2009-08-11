@@ -477,6 +477,8 @@ td.mosaic img {
 }
 .pic .full img {
 	min-width: 240px;
+	position: relative;
+	right: 15px;
 }
 .carousel .jcarousel-skin-tango .jcarousel-container {
 	background: none;
