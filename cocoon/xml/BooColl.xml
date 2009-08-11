@@ -165,7 +165,7 @@
     <p>This is an exhaustive annotated bibliography of the more than 930 books published in English
      (in Britain, the United States, and elsewhere in the Anglophone world) between 1830 and 1940
      that collect three or more women's biographies. Two selective chronological bibliographies
-     feature all-female collective biographies published before 1830 and after 1940. These books,
+     feature all-female collective biographies published before 1830 and after 1940 (the list is exhaustive through 1950). These books,
      written by more men than women, feature a surprising range of historical, legendary, literary,
      or biblical subjects, of many ages and lands and many kinds of achievement. <lb/><lb/><ref
       type="dimensions" targOrder="U">More on the dimensions of the bibliography…</ref></p>
@@ -300,15 +300,16 @@
      chronological in part to serve those who are interested in the biographers, but primarily
      because of the extraordinary fluidity of these publications: the same collection often was
      reprinted many times, republished under different titles, or partly lifted into other
-     collections. <hi rend="bold">Anonymous publications</hi> are alphabetized by title unless
-     authorship is known; pseudonymous works are listed under the pseudonym. A <hi rend="bold"
-      >selected biobiliography of collections of women's lives published since 1940 (alphabetical by
-      author's name) </hi>follows the main list; entries are in progress.</p>
+     collections.</p> 
     <p>Before and after the main bibliography are selective lists: first, a <hi rend="bold"
       >chronological selection of female prosopographies in earlier centuries</hi>, and second, an
       <hi rend="bold">alphabetical selection of books collecting women's lives published since
-       1940</hi>, growing as we strive for exhaustive listings through 1950 and beyond. These separate selective bibliographies may be brought up from the "Earlier and
-     Later Examples" tab on the Browse page and are integrated in any searches.</p>
+       1940</hi>. The bibliography is intended to be exhaustive through 1950.  New items continue to be added.  These separate selective bibliographies may be brought up from the "Earlier and
+      Later Examples" tab on the Browse page and are integrated in any searches.  Various collections published after 
+      1940 first appeared before that date, and their entries appear in the main list.</p>
+     <p><hi rend="bold">Anonymous publications</hi> are alphabetized by title unless
+      authorship is known; pseudonymous works are listed under the pseudonym.</p>   
+    
     <p>In the main bibliography, the <hi rend="bold">publication data</hi> includes the date of
      every edition or reprint through 1940 that I have traced, though I have not attempted complete
      histories of each work. Where I have seen a specific edition in either the <hi rend="bold"
@@ -350,7 +351,7 @@
      collections; we plan to enhance the biographical sources on these presenters. We recommend
      searching for common words in titles. A comparison of works published in a certain location in
      a certain year would yield results that compare British and North American historical
-     contexts.. Some publishers invested in numerous versions of all-female biographical
+     contexts. Some publishers invested in numerous versions of all-female biographical
      collections. Some cross-referencing among related or similar works is already in place; we plan
      to add more and to mark up common keywords and subject types.</p>
    </div1>
@@ -8187,8 +8188,7 @@
         <item n="HANNAH_MORE">Hannah More</item>
         <item>Mary Bosanquet</item>
         <item>Helen Walker</item>
-        <item>Fanny Burney</item>
-        <item>Mme D'Arblay</item>
+        <item>Fanny Burney, Mme D'Arblay</item>
         <item>Mrs. Grant, of Laggan</item>
         <item>Cornelia Knight</item>
         <item>Jane Austen</item>
@@ -10569,10 +10569,10 @@
         <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Mrs. Isabel Reaney</item>
         <item>Mary Ann Rogers</item>
-        <item n="FRANCES_COBBE">Frances Power Cobbe. *Pop Chart</item>
+        <item n="FRANCES_COBBE">Frances Power Cobbe. </item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes"> Refers to Victoria's funeral, the anniversary of
+      <note place="unspecified" anchored="yes"> *Pop Chart.  Refers to Victoria's funeral, the anniversary of
        Scutari (Nightingale still living) in <date>1903</date>, and the death of Frances Power Cobbe
        in <date>1904</date>; thus, published <date>1904-1911</date>. </note>
       <image n="no377">
@@ -13975,6 +13975,7 @@
         <item n="GRACE_DARLING">Grace Darling</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes">Twelve persons series.</note>
      </bibl>
      <bibl id="a280" default="NO">
       <ref targOrder="U">280.</ref>
@@ -28106,21 +28107,28 @@
        <hi rend="italics">Ten Ladies of Joy.</hi>
       </title>
       <imprint>
-       <pubPlace>New York:</pubPlace>
-       <publisher>Greenberg,</publisher>
-       <date>1929;</date>
-       <date>1933.</date>
-      </imprint>
-      <imprint>
        <pubPlace>London:</pubPlace>
-       <publisher>Harleian Press,</publisher>
-       <date>1929;</date>
-      </imprint>
-      <imprint>
-       <publisher>Houghton &amp; Scott-Snell,</publisher>
+      <publisher>Harleian;</publisher>
+             <pubPlace>New York:</pubPlace>
+       <publisher>Greenberg,</publisher>
+       <date>1929.</date>
+       </imprint>
+       <imprint>
+        <pubPlace>New York</pubPlace>
+        <publisher>Greenberg,</publisher>
+       <date>1933.</date>
+       </imprint>
+       <imprint>
+       <pubPlace>London:</pubPlace>
+               <publisher>Houghton &amp; Scott-Snell,</publisher>
        <date>1935;</date>
       </imprint>
       <imprint>
+       <publisher>Torchstream Books,</publisher>
+       <date>1950.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
        <publisher>Torchstream Books,</publisher>
        <date>1950.</date>
       </imprint>
@@ -28217,6 +28225,7 @@
        <date>1940;</date>
        <date>1942.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">Not strictly a collective biography of women, as focused on the King.</note>
      </bibl>
      <bibl id="a709" default="NO">
       <ref targOrder="U">709.</ref>
@@ -36364,7 +36373,7 @@
        <publisher>Texas State College for Women,</publisher>
        <date>1947.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">Thesis manuscript.</note>
+      <note place="unspecified" anchored="yes">M.A. thesis Texas State College for Women.</note>
      </bibl>
      <bibl id="p044" default="NO">
       <idno>p044</idno>
@@ -36476,7 +36485,7 @@
        <date>1941;</date>
        <date>1944.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> </note>
+      <note place="unspecified" anchored="yes">Small book: 73 pages, illustrated, about 7 inches. </note>
      </bibl>
      <bibl id="p048" default="NO">
       <idno>p048</idno>
@@ -37823,7 +37832,7 @@
        <date>1950;</date>
        <date>1952.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> </note>
+      <note place="unspecified" anchored="yes">Wives of governors of South Africa (Cape Colony).</note>
      </bibl>
      <bibl id="p087" default="NO">
       <idno>p087</idno>
@@ -40033,7 +40042,7 @@
        <date>1949;</date>
        <date>1965.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">Children's literature. </note>
+      <note place="unspecified" anchored="yes">Children's literature; biographies. </note>
      </bibl>
      <bibl id="p144" default="NO">
       <idno>p144</idno>
@@ -40312,7 +40321,8 @@
        <publisher>Aetos,</publisher>
        <date>1950.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> </note>
+      <note place="unspecified" anchored="yes">At head of title: World War II, 1940-1944; subject line: 
+       underground movements. </note>
      </bibl>
     </div2>
    </div1>
