@@ -484,12 +484,13 @@ td.mosaic img {
 	overflow: hidden;
 	margin: 0 52px;
 	border: 1px solid #766;
+	position: relative;
 }
 .pic .full img {
 	width: 210px;
 	min-height: 210px;
 	position: relative;
-	right: 15px;
+	margin: 0;
 }
 .carousel .jcarousel-skin-tango .jcarousel-container {
 	background: none;
