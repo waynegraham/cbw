@@ -200,7 +200,7 @@
                 <div2 type="links">
                     <list>
                         <item>
-                            <label>Lonsdale, Margaret. "Sister Dora: A Biography." 6th ed. Boston:
+                            <label>Lonsdale, Margaret. <hi rend="italics">Sister Dora: A Biography.</hi> 6th ed. Boston:
                                 Roberts Brothers, 1880.</label>
                             <p>Margaret Lonsdale's seminal biography about the life and work of
                                 Sister Dora. This digitized, full-text edition of the biography also
@@ -576,6 +576,10 @@
                 </head>
                 <div2 type="images">
                     <list>
+                        <item>
+                            <label>Joan Darc</label>
+                            <figure n="no88"/>
+                        </item>
                         <item>
                             <label>Jeanne in Church.</label>
                             <figure n="no324"/>
@@ -1797,8 +1801,8 @@
                             <figure n="no319"/>
                         </item>
                         <item>
-                            <label>Somerville College, Oxford.</label>
-                            <figure n="no373"/>
+                            <label>Mary Somerville</label>
+                            <figure n="no259"/>
                         </item>
                     </list>
                 </div2>
@@ -3158,6 +3162,10 @@
                     <list>
                         <item>
                             <label>Florence Nightingale</label>
+                            <figure n="no05"/>
+                        </item>
+                        <item>
+                            <label>Florence Nightingale</label>
                             <figure n="no45"/>
                         </item>
                         <item>
@@ -3690,8 +3698,9 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Lady Rachel Russell</label>
-                            <figure n="no00"/>
+                            <label>Lord Russell Taking Leave of His Children Previous to His Execution, 1683. (After J.
+                                Bridges.)</label>
+                            <figure n="no372"/>
                         </item>
                     </list>
                 </div2>

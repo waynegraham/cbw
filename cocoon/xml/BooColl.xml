@@ -35558,17 +35558,59 @@
        <date>1959;</date>
        <date>1960.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">Chapter Titles: Sect. I: Ch. 1: Vibia Perpetua;
-       Helena; Macrina; Nonna; Marcella; Monica; Anthusa; Paula; Hilda; Ch. 2: Clare; Elizabeth of
-       Hungary; Catherine of Siena; <list><item n="JOAN_OF_ARC">Joan of Arc;</item></list> Isabella of Castile; Vittoria Colonna; Margaret of
-       Navarre; Jeanne d'Albret; Katherine Von Bora; Teresa of Avila; Ch. 3: Anne Hutchinson;
-       Margaret Fell Fox; Mary Fisher; Mme Jeanne Guyon; Susanna Wesley; Lady Huntingdon; Sect. II:
-       Ch. 4: "Mother Ann" Lee; <list><item n="ELIZABETH_FRY">Elizabeth Fry;</item></list> <list><item n="ANN_HASSELTINE_JUDSON">Ann Judson;</item></list> Emily H. Tubman; Mary Smith Moffat; Mary
-       Moffat Livingstone; Emma Hale Smith; Narcissa Whitman; <list><item n="FLORENCE_NIGHTINGALE">Florence Nightingale;</item></list> Ch. 5: Mary
-       Baker Eddy; Ellen G. White; Catherine Booth; Lucy Webb Hayes; Nettie Fowler McCormick; Amanda
-       Smith; Lottie Moon; Mary Slessor; Ch. 6: Rose Hawthorne Lathrop; Pandita Ramabai; Helen
-       Barrett Montgomery; Mrs. Charles Jones Soong; Teresa of Lisieux; Women hymn writers; Sect.
-       III: Vignettes of [67] other Christian women through nineteen centuries. </note>
+      <note place="unspecified" anchored="yes">
+       <list>
+        <item>Chapter Titles: Sect. I: Ch. 1: Vibia Perpetua</item>
+        <item>Helena</item> 
+        <item>Macrina</item> 
+        <item>Nonna</item>
+        <item>Marcella</item> 
+        <item>Monica</item> 
+        <item>Anthusa</item>
+        <item>Paula</item> 
+        <item>Hilda</item> 
+        <item>Ch. 2: Clare</item> 
+        <item>Elizabeth of Hungary</item> 
+        <item>Catherine of Siena</item> 
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
+        <item>Isabella of Castile</item> 
+        <item>Vittoria Colonna</item> 
+        <item>Margaret of Navarre</item> 
+        <item>Jeanne d'Albret</item> 
+        <item>Katherine Von Bora</item> 
+        <item>Teresa of Avila</item>
+        <item>Ch. 3: Anne Hutchinson</item>
+        <item>Margaret Fell Fox</item>
+        <item>Mary Fisher</item> 
+        <item>Mme Jeanne Guyon</item> 
+        <item>Susanna Wesley</item> 
+        <item>Lady Huntingdon</item> 
+        <item>Sect. II: Ch. 4: "Mother Ann" Lee</item> 
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item> 
+        <item n="ANN_HASSELTINE_JUDSON">Ann Judson</item> 
+        <item>Emily H. Tubman</item> 
+        <item>Mary Smith Moffat</item> 
+        <item>Mary Moffat Livingstone</item> 
+        <item>Emma Hale Smith</item> 
+        <item>Narcissa Whitman</item> 
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item> 
+        <item>Ch. 5: Mary Baker Eddy</item> 
+        <item>Ellen G. White</item> 
+        <item>Catherine Booth</item> 
+        <item>Lucy Webb Hayes</item>
+        <item>Nettie Fowler McCormick</item> 
+        <item>Amanda Smith</item> 
+        <item>Lottie Moon</item>
+        <item>Mary Slessor</item> 
+        <item>Ch. 6: Rose Hawthorne Lathrop</item>
+        <item>Pandita Ramabai</item>
+        <item>Helen Barrett Montgomery</item> 
+        <item>Mrs. Charles Jones Soong</item> 
+        <item>Teresa of Lisieux</item>
+        <item>Women hymn writers</item>
+        <item>Sect. III: Vignettes of [67] other Christian women through nineteen centuries.</item> 
+       </list>
+      </note>
      </bibl>
      <bibl id="p027" default="NO">
       <idno>p027</idno>
