@@ -162,11 +162,11 @@
 					<li class="item">
 						<b>
 							<a href="{address/addrLine}">
-								<xsl:value-of select="label"/>
+								<xsl:apply-templates select="label"/>
 							</a>
 						</b>
 						<br/>
-						<xsl:value-of select="p"/>
+						<xsl:apply-templates select="p"/>
 					</li>
 				</xsl:for-each>
 			</ul>
@@ -224,5 +224,36 @@
 			<xsl:apply-templates/>
 		</div>
 	</xsl:template>
-
+	
+	<!--this choose statement is for highlight typography-->
+	<xsl:template match="hi">
+		<xsl:choose>
+			<xsl:when test="@rend='sup'">
+				<sup>
+					<xsl:apply-templates/>
+				</sup>
+			</xsl:when>
+			<xsl:when test="@rend='bold'">
+				<b>
+					<xsl:apply-templates/>
+				</b>
+			</xsl:when>
+			<xsl:when test="@rend='underscore'">
+				<u>
+					<xsl:apply-templates/>
+				</u>
+			</xsl:when>
+			<xsl:when test="@rend='smallcaps'">
+				<span class="smallcaps">
+					<xsl:apply-templates/>
+				</span>
+			</xsl:when>
+			<xsl:otherwise>
+				<i>
+					<xsl:apply-templates/>
+				</i>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>
+	
 </xsl:stylesheet>
