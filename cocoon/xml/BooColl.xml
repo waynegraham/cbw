@@ -13491,7 +13491,7 @@
        </title> by Julia Ward Howe), including Mathilde Blind's <title>
         <hi rend="italics">George Eliot</hi>
        </title>, Millicent Garrett Fawcett's <title>
-        <hi rend="italics" n="QUEEN_VICTORIA">Life of Her Majesty Queen Victoria</hi>
+        <hi rend="italics"><list><item n="QUEEN_VICTORIA">Life of Her Majesty Queen Victoria</item></list></hi>
        </title>, Ingram's <title>
         <hi rend="italics">Elizabeth Barrett Browning</hi>
        </title>, Florence Fenwick Miller's <title>
@@ -13499,11 +13499,11 @@
        </title>, Elizabeth Robins Pennell's <title>
         <hi rend="italics">Mary Wollstonecraft Godwin</hi>
        </title>, Emma Raymond Pitman's <title>
-        <hi rend="italics" n="ELIZABETH_FRY">Elizabeth Fry</hi>
+        <hi rend="italics"><list><item n="ELIZABETH_FRY">Elizabeth Fry</item></list></hi>
        </title>, Lucy Madox Rossetti's <title>
         <hi rend="italics">Mrs. Shelley</hi>
        </title>, and Charlotte Mary Yonge's <title>
-        <hi rend="italics" n="HANNAH_MORE">Hannah More</hi>
+        <hi rend="italics"><list><item n="HANNAH_MORE">Hannah More</item></list></hi>
        </title>. </note>
      </bibl>
      <bibl id="a267" default="NO">
@@ -22307,7 +22307,7 @@
         <date>1845</date>, and by <ref target="a184" targOrder="U">Louise Cochelet</ref>, “Mme.
        Parquin,” <date>1833</date>. This work is a series in Allison's Select Library that is often
        catalogued under each author's name or work. The three “lives” are Jules Michelet, <title>
-        <hi rend="italics" n="JOAN_OF_ARC">Joan of Arc</hi>
+        <hi rend="italics"><list><item n="JOAN_OF_ARC">Joan of Arc</item></list></hi>
        </title>; A. de Lamartine, <title>
         <hi rend="italics">Mary Queen of Scots</hi>
        </title>; T. A. Trollope, <title>
@@ -37193,7 +37193,7 @@
        <date>1978.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> "Biographies of 17 women rulers, including
-       Cleopatra, Elizabeth I of England, and Golda Meir, focus on how they came to power, their
+       Cleopatra, <list><item n="QUEEN_ELIZABETH_I">Elizabeth I of England,</item></list> and Golda Meir, focus on how they came to power, their
        accomplishments, methods of ruling, and impact on history."</note>
      </bibl>
      <bibl id="p071A" default="NO">
