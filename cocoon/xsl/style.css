@@ -454,7 +454,7 @@ td.mosaic img {
 }
 #intro {
 	background-color: #FFFAF0;
-	border: 4px double #DCDCDC;
+	border: 8px solid #766;
 	display:block;
 	width:99%;
 	padding:20px 0;
@@ -484,7 +484,7 @@ td.mosaic img {
 	max-height: 210px;
 	overflow: hidden;
 	margin: 0 52px;
-	border: 1px solid #766;
+	border: 4px solid #766;
 	position: relative;
 }
 .pic .full img {
