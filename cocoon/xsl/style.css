@@ -455,11 +455,12 @@ td.mosaic img {
 #intro {
 	background-color: #FFFAF0;
 	border: 4px double #DCDCDC;
-	display:inline-block;
+	display:block;
 	width:99%;
 	padding:20px 0;
 	margin-left:auto;
 	margin-right:auto;
+	height: 320px;
 }
 
 #intro h1 {
