@@ -9,7 +9,6 @@
 	<xsl:include href="footer.xsl"/>
 	<xsl:include href="biblio.xsl"/>
 
-	<xsl:param name="bibl_id"/>
 	<xsl:param name="section"/>
 	
 	<xsl:variable name="entries" select="//text/body//div2"/>
@@ -151,6 +150,9 @@
 											<br/>
 											<xsl:variable name="searchTitle">
 												<xsl:choose>
+													<xsl:when test="title[@type='search']">
+														<xsl:value-of select="normalize-space(title[@type='search'])"/>
+													</xsl:when>
 													<xsl:when test="contains(title/hi, ':')">
 														<xsl:value-of select="substring-before(normalize-space(title/hi), ':')"/>
 													</xsl:when>
