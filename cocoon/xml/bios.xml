@@ -535,6 +535,10 @@
                             <label>Queen Victoria (classical bust) by J. Durham</label>
                             <figure n="no27"/>
                         </item>
+                        <item>
+                            <label>Queen Victoria</label>
+                            <figure n="no408"/>
+                        </item>
                     </list>
                 </div2>
                 <div2 type="links">
@@ -683,6 +687,14 @@
                         <item>
                             <label>Joan of Arc</label>
                             <figure n="no178"/>
+                        </item>
+                        <item>
+                            <label>Joan of Arc</label>
+                            <figure n="no391"/>
+                        </item>
+                        <item>
+                            <label>Joan of Arc</label>
+                            <figure n="no404"/>
                         </item>
                     </list>
                 </div2>
@@ -1909,6 +1921,10 @@
                             <label>Mary Somerville</label>
                             <figure n="no259"/>
                         </item>
+                        <item>
+                            <label>Mary Somerville</label>
+                            <figure n="no400"/>
+                        </item>
                     </list>
                 </div2>
                 <div2 type="links">
@@ -2333,6 +2349,14 @@
                                 Madame Belloc.</label>
                             <figure n="no236"/>
                         </item>
+                        <item>
+                            <label>Adelaide Procter</label>
+                            <figure n="no381"/>
+                        </item>
+                        <item>
+                            <label>Adelaide Procter</label>
+                            <figure n="no394"/>
+                        </item>
                     </list>
                 </div2>
                 <div2 type="links">
@@ -2734,6 +2758,10 @@
                         <item>
                             <label>Grace Darling</label>
                             <figure n="no145"/>
+                        </item>
+                        <item>
+                            <label>Grace Darling</label>
+                            <figure n="no402"/>
                         </item>
                     </list>
                 </div2>
@@ -3483,6 +3511,18 @@
                                 R.A., 1850.</label>
                             <figure n="no248"/>
                         </item>
+                        <item>
+                            <label>Charlotte Bronte</label>
+                            <figure n="no379"/>
+                        </item>
+                        <item>
+                            <label>Charlotte Bronte</label>
+                            <figure n="no407"/>
+                        </item>
+                        <item>
+                            <label>Charlotte Bronte</label>
+                            <figure n="no401"/>
+                        </item>
                     </list>
                 </div2>
                 <div2 type="links">
@@ -3618,6 +3658,10 @@
                         <item>
                             <label>Lady Jane Grey</label>
                             <figure n="no161"/>
+                        </item>
+                        <item>
+                            <label>Lady Jane Grey</label>
+                            <figure n="no405"/>
                         </item>
                     </list>
                 </div2>
@@ -3778,6 +3822,14 @@
                             <label>Miss More and Dr. Johnson</label>
                             <figure n="no211"/>
                         </item>
+                        <item>
+                            <label>Hannah More</label>
+                            <figure n="no393"/>
+                        </item>
+                        <item>
+                            <label>Hannah More</label>
+                            <figure n="no389"/>
+                        </item>
                     </list>
                 </div2>
                 <div2 type="links">
@@ -3888,6 +3940,10 @@
                                 Execution, 1683. (After J. Bridges.)</label>
                             <figure n="no372"/>
                         </item>
+                        <item>
+                            <label>Lady Rachel Russell</label>
+                            <figure n="no378"/>
+                        </item>
                     </list>
                 </div2>
                 <div2 type="links">
@@ -3970,7 +4026,15 @@
                     <list>
                         <item>
                             <label>Madame de Staël</label>
-                            <figure n="no00"/>
+                            <figure n="no382"/>
+                        </item>
+                        <item>
+                            <label>Madame de Stael</label>
+                            <figure n="no392"/>
+                        </item>
+                        <item>
+                            <label>Madame de Stael</label>
+                            <figure n="no396"/>
                         </item>
                     </list>
                 </div2>
@@ -4103,6 +4167,10 @@
                             <label>Elizabeth, Queen of England</label>
                             <figure n="no152"/>
                         </item>
+                        <item>
+                            <label>Queen Elizabeth I</label>
+                            <figure n="no390"/>
+                        </item>
                     </list>
                 </div2>
                 <div2 type="links">
@@ -4227,6 +4295,10 @@
                                 Versailles.</label>
                             <figure n="no256"/>
                         </item>
+                        <item>
+                            <label>Madame Roland</label>
+                            <figure n="no395"/>
+                        </item>
                     </list>
                 </div2>
                 <div2 type="links">
@@ -4328,7 +4400,7 @@
                     <list>
                         <item>
                             <label>Pocahontas</label>
-                            <figure n="no00"/>
+                            <figure n="no406"/>
                         </item>
                     </list>
                 </div2>
@@ -4456,6 +4528,14 @@
                                 Titlemann, now in the possession of Sir William Herschel,
                                 Bart.</label>
                             <figure n="no238"/>
+                        </item>
+                        <item>
+                            <label>Caroline Herschel</label>
+                            <figure n="no380"/>
+                        </item>
+                        <item>
+                            <label>Caroline Herschel</label>
+                            <figure n="no399"/>
                         </item>
                     </list>
                 </div2>
@@ -4704,6 +4784,10 @@
                         <item>
                             <label>Jenny Lind</label>
                             <figure n="no60"/>
+                        </item>
+                        <item>
+                            <label>Jenny Lind</label>
+                            <figure n="no409"/>
                         </item>
                     </list>
                 </div2>

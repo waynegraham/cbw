@@ -12413,6 +12413,14 @@
         <item>Lady Mackintosh. *Pop Chart</item>
        </list>
       </note>
+      <image n="no379">
+       <imgName>Charlotte Bronte</imgName>
+       <imgDesc>Charlotte Bronte</imgDesc>
+      </image>
+      <image n="no380">
+       <imgName>Caroline Herschel</imgName>
+       <imgDesc>Caroline Herschel</imgDesc>
+      </image>
      </bibl>
      <bibl id="a237" default="NO">
       <ref targOrder="U">237.</ref>
@@ -15671,6 +15679,18 @@
         <item n="JOAN_OF_ARC">Joan of Arc. *Pop Chart</item>
        </list>
       </note>
+      <image n="no391">
+       <imgName>Joan of Arc</imgName>
+       <imgDesc>Joan of Arc</imgDesc>
+      </image>
+      <image n="no389">
+       <imgName>Hannah More</imgName>
+       <imgDesc>Hannah More</imgDesc>
+      </image>
+      <image n="no390">
+       <imgName>Queen Elizabeth I</imgName>
+       <imgDesc>Queen Elizabeth I</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes"> See <ref target="a184" targOrder="U">Louise
         Cochelet, <title>
          <hi rend="italics">Celebrated Women</hi>
@@ -17122,6 +17142,18 @@
         <item>Louisa May Alcott</item>
        </list>
       </note>
+      <image n="no394">
+       <imgName>Adelaide Procter</imgName>
+       <imgDesc>Adelaide Procter</imgDesc>
+      </image>
+      <image n="no392">
+       <imgName>Madame de Stael</imgName>
+       <imgDesc>Madame de Stael</imgDesc>
+      </image>
+      <image n="no393">
+       <imgName>Hannah More</imgName>
+       <imgDesc>Hannah More</imgDesc>
+      </image>
      </bibl>
      <bibl id="a373" default="NO">
       <ref targOrder="U">373.</ref>
@@ -18384,6 +18416,30 @@
       <note place="unspecified" anchored="yes"> Frontispiece Joan of Arc. U. Virginia copy Part One,
        inscribed: “Dorothea David/ March, 1921/ From Daddy,” has pasted photographs on endpapers:
        “Joan of Arc's Home in Domremmy, France.” and “Joan of Arc—age of 18.” </note>
+      <image n="no407">
+       <imgName>Charlotte Bronte</imgName>
+       <imgDesc>Charlotte Bronte</imgDesc>
+      </image>
+      <image n="no406">
+       <imgName>Pocahontas</imgName>
+       <imgDesc>Pocahontas</imgDesc>
+      </image>
+      <image n="no408">
+       <imgName>Queen Victoria</imgName>
+       <imgDesc>Queen Victoria</imgDesc>
+      </image>
+      <image n="no409">
+       <imgName>Jenny Lind</imgName>
+       <imgDesc>Jenny Lind</imgDesc>
+      </image>
+      <image n="no405">
+       <imgName>Lady Jane Grey</imgName>
+       <imgDesc>Lady Jane Grey</imgDesc>
+      </image>
+      <image n="no404">
+       <imgName>Joan of Arc</imgName>
+       <imgDesc>Joan of Arc</imgDesc>
+      </image>
      </bibl>
      <bibl id="a410" default="NO">
       <ref targOrder="U">410.</ref>
@@ -18565,6 +18621,10 @@
         <item>Abigail Adams. *Pop Chart</item>
        </list>
       </note>
+      <image n="no378">
+       <imgName>Lady Rachel Russell</imgName>
+       <imgDesc>Lady Rachel Russell</imgDesc>
+      </image>
      </bibl>
      <bibl id="a412" default="NO">
       <ref targOrder="U">412.</ref>
@@ -23253,6 +23313,14 @@
         <item>Madame Vigée Le Brun</item>
        </list>
       </note>
+      <image n="no396">
+       <imgName>Madame de Stael</imgName>
+       <imgDesc>Madame de Stael</imgDesc>
+      </image>
+      <image n="no395">
+       <imgName>Madame Roland</imgName>
+       <imgDesc>Madame Roland</imgDesc>
+      </image>
      </bibl>
      <bibl id="a552" default="NO">
       <ref targOrder="U">552.</ref>
@@ -25495,6 +25563,14 @@
         <item>George Sand. *Pop Chart</item>
        </list>
       </note>
+      <image n="no381">
+       <imgName>Adelaide Procter</imgName>
+       <imgDesc>Adelaide Procter</imgDesc>
+      </image>
+      <image n="no382">
+       <imgName>Madame de Stael</imgName>
+       <imgDesc>Madame de Stael</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes"> A series of close editions begins with <ref
         target="a628" targOrder="U">
         <title>
@@ -25731,6 +25807,22 @@
         <item n="GRACE_DARLING">Grace Darling. *Pop Chart</item>
        </list>
       </note>
+      <image n="no399">
+       <imgName>Caroline Herschel</imgName>
+       <imgDesc>Caroline Herschel</imgDesc>
+      </image>
+      <image n="no401">
+       <imgName>Charlotte Bronte</imgName>
+       <imgDesc>Charlotte Bronte</imgDesc>
+      </image>
+      <image n="no400">
+       <imgName>Mary Somerville</imgName>
+       <imgDesc>Mary Somerville</imgDesc>
+      </image>
+      <image n="no402">
+       <imgName>Grace Darling</imgName>
+       <imgDesc>Grace Darling</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes"> Subjects not in <ref target="a624" targOrder="U">
         <title>
          <hi rend="italics">Daughters of Genius</hi>
