@@ -36114,8 +36114,8 @@
       </imprint>
       <note place="unspecified" anchored="yes"> </note>
      </bibl>
-     <bibl id="p037" default="NO">
-      <idno>p037</idno>
+     <bibl id="p036A" default="NO">
+      <idno>p037A</idno>
       <author><name type="last">Fraser</name>, <name type="first">Antonia</name>.</author>
       <title type="ref">
        <hi rend="italics">The Warrior Queens: Boadicea's Chariot. </hi>
@@ -36199,8 +36199,8 @@
        </list>
       </note>
      </bibl>
-     <bibl id="p037A" default="NO">
-      <idno>p037A</idno>
+     <bibl id="p037" default="NO">
+      <idno>p037</idno>
       <author><name type="last">Gabor</name>, <name type="first">Andrea</name>.</author>
       <title type="ref">
        <hi rend="italics">Einstein's Wife: Work and Marriage in the Lives of Five Great Twentieth
@@ -36226,6 +36226,18 @@
        </list>
       </note>
      </bibl>
+     <bibl id="p037A" default="NO">
+      <idno>p037A</idno>
+      <author><name type="last">Golden</name>, <name type="first">Kristen</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Remarkable Women of the Twentieth Century.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Metrobooks,</publisher>
+       <date>1998.</date>
+      </imprint>
+      </bibl>
      <bibl id="p037B" default="NO">
       <idno>p037B</idno>
       <author><name type="last">Gies</name>, <name type="first">Frances</name>, and <name
@@ -36322,6 +36334,20 @@
      </bibl>
      <bibl id="p038" default="NO">
       <idno>p038</idno>
+      <author><name type="last">Gray</name>, <name type="first">Dorothy</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women of the West. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Lincoln:</pubPlace>
+       <publisher>University of Nebraska Press,</publisher>
+       <date>1976,</date>
+       <date>1999.</date>
+      </imprint>
+      <note place="unspecified" anchored="yes">Originally published: Millbrae, CA: Les Femmes, 1976. </note>
+     </bibl>
+     <bibl id="p038A" default="NO">
+      <idno>p038A</idno>
       <author><name type="last">Gridley</name>, <name type="first">Marion Eleanor</name>.</author>
       <title type="ref">
        <hi rend="italics">American Indian Women. </hi>
@@ -39380,8 +39406,8 @@
       </imprint>
       <note place="unspecified" anchored="yes"> </note>
      </bibl>
-     <bibl id="p120" default="NO">
-      <idno>p120</idno>
+     <bibl id="p119A" default="NO">
+      <idno>p119A</idno>
       <author><name type="last">Siegel</name>, <name type="first">Mary Ellen</name>.</author>
       <title type="ref">
        <hi rend="italics">Her Way: Biographies of Women for Young People.</hi>
@@ -39402,6 +39428,19 @@
       <note place="unspecified" anchored="yes">Reprint of Kulkin, p063. A collection of 260 short
        profiles and bibliographies of notable women throughout history and an additional
        bibliography of over 300 collective biographies of women. </note>
+     </bibl>
+     <bibl id="p120" default="NO">
+      <idno>p120</idno>
+      <author><name type="last">Silcox-Jarrett</name>, <name type="first">Diane</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Heroines of the American Revolution: America's Founding Mothers.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Chapel Hill, NC:</pubPlace>
+       <publisher>Green Angel Press,</publisher>
+       <date>1998.</date>
+      </imprint>
+      <note place="unspecified" anchored="yes"/>
      </bibl>
      <bibl id="p120A" default="NO">
       <idno>p120A</idno>
@@ -40170,6 +40209,18 @@
      </bibl>
      <bibl id="p141B" default="NO">
       <idno>p141B</idno>
+      <author><name type="last">Van Hek</name>, <name type="first">Linn</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Difficult Women.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Carlton, Victoria:</pubPlace>
+       <publisher>[L. Van Hek &amp; J. Dolce,</publisher>
+       <date>1998.</date>
+      </imprint>
+      </bibl>
+     <bibl id="p141C" default="NO">
+      <idno>p141C</idno>
       <author><name type="last">Vare</name>, <name type="first">Ethlie Ann</name>, and <name
         type="first">Greg</name>
        <name type="last">Ptacek</name>.</author>
@@ -40377,7 +40428,7 @@
         </item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes">Essays about the life of an Ohio pioneer woman who
+      <note place="unspecified" anchored="yes">Essays about the lives of Ohio pioneer women who
        lived in the author's own county.</note>
      </bibl>
      <bibl id="p144E" default="NO">
@@ -40394,8 +40445,8 @@
       </imprint>
       <note place="unspecified" anchored="yes"/>
      </bibl>
-     <bibl id="p144E" default="NO">
-      <idno>p144E</idno>
+     <bibl id="p144F" default="NO">
+      <idno>p144F</idno>
       <author><name type="last">Woolum</name>, <name type="first">Janet</name>.</author>
       <title type="ref">
        <hi rend="italics">Outstanding Women Athletes: Who They Are and How They Influenced Sports in
@@ -40474,6 +40525,20 @@
      </bibl>
      <bibl id="p145" default="NO">
       <idno>p145</idno>
+      <author><name type="last"></name> <name type="first"></name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women of Courage
+       </hi>.
+      </title>
+      <imprint>
+       <pubPlace>Manila:</pubPlace>
+       <publisher>Gabriela,</publisher>
+       <date>1996.</date>
+      </imprint>
+      <note place="unspecified" anchored="yes"/>
+     </bibl>
+     <bibl id="p145A" default="NO">
+      <idno>p145A</idno>
       <author><name type="last">Yost</name>, <name type="first">Edna</name>.</author>
       <title type="ref">
        <hi rend="italics">American Women of Nursing.</hi>
