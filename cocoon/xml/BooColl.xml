@@ -165,10 +165,11 @@
     <p>This is an exhaustive annotated bibliography of the more than 930 books published in English
      (in Britain, the United States, and elsewhere in the Anglophone world) between 1830 and 1940
      that collect three or more women's biographies. Two selective chronological bibliographies
-     feature all-female collective biographies published before 1830 and after 1940 (the list is exhaustive through 1950). These books,
-     written by more men than women, feature a surprising range of historical, legendary, literary,
-     or biblical subjects, of many ages and lands and many kinds of achievement. <lb/><lb/><ref
-      type="dimensions" targOrder="U">More on the dimensions of the bibliography…</ref></p>
+     feature all-female collective biographies published before 1830 and after 1940 (the list is
+     exhaustive through 1950). These books, written by more men than women, feature a surprising
+     range of historical, legendary, literary, or biblical subjects, of many ages and lands and many
+     kinds of achievement. <lb/><lb/><ref type="dimensions" targOrder="U">More on the dimensions of
+      the bibliography…</ref></p>
     <div2 org="uniform" sample="complete" part="N">
      <head>Collective Biographies of Women</head>
      <p>Collective biography, or prosopography, has been a classic form of recognition of eminent
@@ -213,13 +214,14 @@
     </div2>
     <div2 org="uniform" sample="complete" part="N">
      <head>The CBW Project</head>
-     <p>With the support of the Scholars' Lab, Digital Scholarly Services, Special Collections, the Department of
-      English, the Institute for Advanced Technology in the Humanities, and the editorial board of NINES, we are working on the design, functionality, and
-      substance of this site. We have added links to search OCLC WorldCat and Google Books for
-      library holdings or available digital versions of these texts. In 2008-2009, a focus of the project
-      is to develop an image gallery of collections that include a life of the nursing reformer
-      Sister Dora, which will form the basis of a model of archives on individual subjects. <ref
-       type="acknowledgments" targOrder="U">Read more…</ref></p>
+     <p>With the support of the Scholars' Lab, Digital Scholarly Services, Special Collections, the
+      Department of English, the Institute for Advanced Technology in the Humanities, and the
+      editorial board of NINES, we are working on the design, functionality, and substance of this
+      site. We have added links to search OCLC WorldCat and Google Books for library holdings or
+      available digital versions of these texts. In 2008-2009, a focus of the project is to develop
+      an image gallery of collections that include a life of the nursing reformer Sister Dora, which
+      will form the basis of a model of archives on individual subjects. <ref type="acknowledgments"
+       targOrder="U">Read more…</ref></p>
     </div2>
     <div2 org="uniform" sample="complete" part="N">
      <head>Feedback</head>
@@ -300,16 +302,18 @@
      chronological in part to serve those who are interested in the biographers, but primarily
      because of the extraordinary fluidity of these publications: the same collection often was
      reprinted many times, republished under different titles, or partly lifted into other
-     collections.</p> 
+     collections.</p>
     <p>Before and after the main bibliography are selective lists: first, a <hi rend="bold"
       >chronological selection of female prosopographies in earlier centuries</hi>, and second, an
       <hi rend="bold">alphabetical selection of books collecting women's lives published since
-       1940</hi>. The bibliography is intended to be exhaustive through 1950.  New items continue to be added.  These separate selective bibliographies may be brought up from the "Earlier and
-      Later Examples" tab on the Browse page and are integrated in any searches.  Various collections published after 
-      1940 first appeared before that date, and their entries appear in the main list.</p>
-     <p><hi rend="bold">Anonymous publications</hi> are alphabetized by title unless
-      authorship is known; pseudonymous works are listed under the pseudonym.</p>   
-    
+      1940</hi>. The bibliography is intended to be exhaustive through 1950. New items continue to
+     be added. These separate selective bibliographies may be brought up from the "Earlier and Later
+     Examples" tab on the Browse page and are integrated in any searches. Various collections
+     published after 1940 first appeared before that date, and their entries appear in the main
+     list.</p>
+    <p><hi rend="bold">Anonymous publications</hi> are alphabetized by title unless authorship is
+     known; pseudonymous works are listed under the pseudonym.</p>
+
     <p>In the main bibliography, the <hi rend="bold">publication data</hi> includes the date of
      every edition or reprint through 1940 that I have traced, though I have not attempted complete
      histories of each work. Where I have seen a specific edition in either the <hi rend="bold"
@@ -331,12 +335,12 @@
     <p><hi rend="bold">The Number of Collective Biographies per Year</hi> (in preparation) charts
      the varying rates of publication based on the known years in which the works in the
      bibliography were published.</p>
-    <p><hi rend="bold">Additions</hi>: New publication data, annotations, cross
-     referencing, and other improvements continue to alter the bibliography from its version in the published
-     book; subversion allows us to keep a record of this work.  Where a new publication is
-     inserted in the chronological or alphabetical lists, it is marked by a capital letter (e.g.
-     762A), so as to avoid changing or confusing item numbers discussed in <hi rend="italics">How to
-      Make It as a Woman</hi>. </p>
+    <p><hi rend="bold">Additions</hi>: New publication data, annotations, cross referencing, and
+     other improvements continue to alter the bibliography from its version in the published book;
+     subversion allows us to keep a record of this work. Where a new publication is inserted in the
+     chronological or alphabetical lists, it is marked by a capital letter (e.g. 762A), so as to
+     avoid changing or confusing item numbers discussed in <hi rend="italics">How to Make It as a
+      Woman</hi>. </p>
    </div1>
    <div1 type="userguide" org="uniform" sample="complete" part="N">
     <head>User's Guide</head>
@@ -350,10 +354,10 @@
      may similarly be retrieved by date. Users may search for individuals who wrote or edited these
      collections; we plan to enhance the biographical sources on these presenters. We recommend
      searching for common words in titles. A comparison of works published in a certain location in
-     a certain year would yield results that compare British and North American historical
-     contexts. Some publishers invested in numerous versions of all-female biographical
-     collections. Some cross-referencing among related or similar works is already in place; we plan
-     to add more and to mark up common keywords and subject types.</p>
+     a certain year would yield results that compare British and North American historical contexts.
+     Some publishers invested in numerous versions of all-female biographical collections. Some
+     cross-referencing among related or similar works is already in place; we plan to add more and
+     to mark up common keywords and subject types.</p>
    </div1>
    <div1 type="acknowledgments" org="uniform" sample="complete" part="N">
     <head>Acknowledgments</head>
@@ -370,8 +374,9 @@
      guidance and insight, as well as generous hours of consultation and hands-on production. In
      2008-2009, Bella Cooper, Lindsay Halle, Claudia Bendick, Ben Lee, and Julie Fuller continue the
      dedicated effort to develop the Sister Dora texts and new dimensions of biographical studies in
-     digital form; Julie has discovered several collective biographies of women. In 2009-2010, Worthy Martin, Daniel Pitti, Sarah Wells, and others in the
-     Institute for Advanced Technology in the Humanities have helped me move to the next stage.</p>
+     digital form; Julie has discovered several collective biographies of women. In 2009-2010,
+     Worthy Martin, Daniel Pitti, Sarah Wells, and others in the Institute for Advanced Technology
+     in the Humanities have helped me move to the next stage.</p>
     <p>The bibliography in the book was compiled with the assistance of Christopher Jackson, Karen
      Dietz, Erin O'Connor, Sarah Whitney, Christine Bayles-Korstch, Margaret Cooke, and Regan
      Boxwell.</p>
@@ -2724,8 +2729,9 @@
       </imprint>
       <note place="unspecified" anchored="yes">British Library. <date>1803</date> edition: 96
        subjects, including Corday [shortened version of Hays], Astell, Behn, Centlivre, Roland, Mrs.
-       Wollstonecraft Godwin, <list><item n="JOAN_OF_ARC">Joan of Arc,</item></list> “Alice, an American slave who lived to be 116 (with
-       portrait)” (Stuart Bennett, <title>
+       Wollstonecraft Godwin, <list>
+        <item n="JOAN_OF_ARC">Joan of Arc,</item>
+       </list> “Alice, an American slave who lived to be 116 (with portrait)” (Stuart Bennett, <title>
         <hi rend="italics">An Eighth Mill Valley Miscellany, Catalogue XXXVIII,</hi>
        </title> item 197). Frontispiece of Joan; 7 other illus. “First published as part of <title>
         <hi rend="italics">Eccentric Biography; or, sketches of remarkable characters, ancient and
@@ -2884,10 +2890,12 @@
        Ferocious Character/ of/ Revolutionary Frenchmen./ Legitimate Sovereigns,/ and/ Loyal
        Subjects,/ Her/ Murder/ Is Still Unrevenged!!!" Vol. I: Josephine Buonaparte, Josephine
        Dessalines the revolutionary Empress of Hayti, Madame Recamier, The Countess de Villeneuve de
-       la Foret, <list><item n="MADAME_DE_STAEL">Madame de Stael,</item></list> Marianne des Hayes, Madame de Genlis, Maria Farbe, Annette La
-       Vigne, Martha Glar, with other topical chapters. Portraits of A. C. Renaud and the Queen of
-       Prussia, published in 1807 by Oddy, have been added at the end of vol. I without any apparent
-       relevance to the contents. </note>
+       la Foret, <list>
+        <item n="MADAME_DE_STAEL">Madame de Stael,</item>
+       </list> Marianne des Hayes, Madame de Genlis, Maria Farbe, Annette La Vigne, Martha Glar,
+       with other topical chapters. Portraits of A. C. Renaud and the Queen of Prussia, published in
+       1807 by Oddy, have been added at the end of vol. I without any apparent relevance to the
+       contents. </note>
       <image n="no38">
        <imgName>Josephine Bounaparte</imgName>
       </image>
@@ -4015,11 +4023,19 @@
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 206.</xref>
       <note place="unspecified" anchored="yes">Borrows from <ref target="a362" targOrder="U"
-        >Hale;</ref> British Library lists it under Hale. Frontispiece: vignettes of <list><item n="LADY_JANE_GREY">Lady Jane Grey,</item></list>
-       <list><item n="LADY_RACHEL_RUSSELL">"Lady W. Russell,"</item></list> <list><item n="HANNAH_MORE">Hannah More,</item></list> and Felicia Hemans cluster around a doubly crowned Victoria.
-       Includes many standard subjects; presenters such as Anna Jameson, Grace Aguilar, Sarah Hale,
-       Elizabeth Ellet, Agnes Strickland; and Fuller, Martineau, a lengthy biography of Sarah
-       Martin, <list><item n="ANN_HASSELTINE_JUDSON">Ann Judson,</item></list> the Maid of Saragossa, etc. </note>
+        >Hale;</ref> British Library lists it under Hale. Frontispiece: vignettes of <list>
+        <item n="LADY_JANE_GREY">Lady Jane Grey,</item>
+       </list>
+       <list>
+        <item n="LADY_RACHEL_RUSSELL">"Lady W. Russell,"</item>
+       </list>
+       <list>
+        <item n="HANNAH_MORE">Hannah More,</item>
+       </list> and Felicia Hemans cluster around a doubly crowned Victoria. Includes many standard
+       subjects; presenters such as Anna Jameson, Grace Aguilar, Sarah Hale, Elizabeth Ellet, Agnes
+       Strickland; and Fuller, Martineau, a lengthy biography of Sarah Martin, <list>
+        <item n="ANN_HASSELTINE_JUDSON">Ann Judson,</item>
+       </list> the Maid of Saragossa, etc. </note>
      </bibl>
      <bibl id="a006" default="NO">
       <ref targOrder="U">6.</ref>
@@ -4304,8 +4320,8 @@
         <item>Mary Countess of Pembroke</item>
         <item>Queen Jeanne d'Albret</item>
         <item n="MADAME_ROLAND">Mme Roland</item>
-        <item n="CHARLOTTE_BRONTE">Charlotte Bronte. Bodleian. Same contents as Adams, The Sunshine, with the addition of
-         Charlotte Brontë</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronte. Bodleian. Same contents as Adams, The Sunshine,
+         with the addition of Charlotte Brontë</item>
        </list>
       </note>
      </bibl>
@@ -4399,16 +4415,12 @@
        <publisher>Tinsley,</publisher>
        <date>1878.</date>
       </imprint>
-      <note type="toc">
-       Vol. I
-       <list>
+      <note type="toc"> Vol. I <list>
         <item>Lady Mary Wortley Montagu</item>
         <item>The Duchess of Marlborough</item>
         <item>Lady Morgan</item>
         <item>Miss Berry</item>
-       </list>
-       Vol. II
-       <list>
+       </list> Vol. II <list>
         <item>Madame d'Arblay [Fanny Burney]</item>
         <item>Mrs. Elizabeth Inchbald</item>
         <item>The Countess of Blessington</item>
@@ -4416,63 +4428,75 @@
         <item>Harriet Martineau</item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes"><p>Cambridge University Library stamp 23 Aug 78; labels of spines XXVIII 66 22 and 23. Blue cloth 8o; black scrollwork stamps 
-      on covers, gilt lettering on spine, black lettering on cover; brown floral endpapers.  Davenport is identified as Author of "The Artic
-      World, the Mediterranean Illustrated, the Bird-World, etc."  Dedicated "The the Right Hon. the Countess of Glasgow these volumes are by permission
-      respectfully and gratefully dedicated by the author."</p>  
-      <p>Adams's Preface submits to “'general reader’” reading that should be “pleasant and not unprofitable” for “leisure hour,”
-      concerning “the character of Woman as she appears in the world of Literature and Society” (capitalized in original).  The subjects were
-      “chosen because they are representative."  It is "needless to dwell on the strong moral and intellectual distinctions 
-      which separate a Harriet Martineau from a Lady Mary Wortley Montagu, or a Charlotte Brontë from a Countess of Blessington.”  umlaut
-      The “present volumes are confined to English Representative Women; but should they meet with a favourable reception from the 
-      reading public, the writer on another occasion may venture further afield.”  "January 1878"  (vii-viii)
-      </p>
-       <p>Throughout biographies, a horizontal line sets off the header of each page, Representative Women (verso), subject's
-        name (recto).  First page of each gives subject's name in large caps followed by a period and "A.D. 1753-1821" (Inchbald) 
-        or the appropriate birth and death dates.  The narratives are divided into chapters.</p>
-       <p>Lady Mary Wortley Montagu's biography consumes 149 pages, followed by a summary page in smaller type giving her name, dates of birth (1690) and death
-        (1762), quoting at length from “Dallaway,” who favorably compares Montagu's learning with other women's.  She “applied 
-        her learning to improve her knowledge of the world…"  She showed best in her "purity of style, 
-        rather than in the ambition of displaying her acquirements…"  She gave "grace of expression and novelty to maxims…” (150).  Other subjects do
-        not receive such a concluding page "blurb."  For comparison, Burney or “Frances D’Arblay” [sic] receives five chapters (124 pp.).
-       </p>
-       <p>The biography of Elizabeth Inchbald begins, “We have now to tell the story of a 
-        Woman who in some respects may fairly be considered Representative, though she made no very conspicuous 
-        figure in what is known as Society, and does not occupy a very high position in the republic of Letters.  
-        Her life was more remarkable than her works, and her character is a more interesting study than her life.  
-        Yet had she possessed less of marked individuality, and had her career permitted fewer noticeable incidents, 
-        she must still have been remembered as a dramatist of some ability, and a novelist of no mean order” (125)
-        
-       </p>
-       <p>“Marguerite, Countess of Blessington, once so famous in London Society, though now little 
-        more than the shadow of a name, was the third child…" begins Blessington's biography (176).  Chapter iv:“Lady Blessington’s literary career was not, 
-        as we have seen, a successful one” (253).  After a slash on p. 263, “A few words may be added respecting 
-        Count D’Orsay" (263-4), a unique supplement comparable to Dallaway's words on Montagu.      
-       </p>
-       <p>As to Adams's authority and objectivity, he gets some facts wrong and judges by strict gender and religious standards.  Charlotte
-        Brontë's dates are given 1817-1855 instead of 1816-1855.  The biography begins: "The Rev. Patrick Blundell, who afterwards assumed the name of Brontë, 
-        was a native of the county of Down in Ireland” (265).  The three sisters become subjects: Charlotte's "life was so mixed up 
-        with the lives of her sisters, that the threads cannot be wholly disentangled…." Perhaps with Gaskell in mind, Adams opines, "We
-        are great believers in the power of circumstances to shape and modify character; and we believe that the 
-        sights and sounds…in our childhood produce each a strong impression” (266-7).  “We feel the breath of the strong 
-        Yorkshire breezes in her style….Haworth was hardly the place in which a lyrist of the Thomas Moore stamp could have grown up 
-        and sung; 
-        hardly the place to have nourished a ‘Wild Irish Girl’ or an ‘Evelina.’  But it was no unfitting home for a ‘Jane Eyre’” (267).
-        The biography concludes with Harriet Martineau’s famous obituary assessment of Charlotte as having the “conscientiousness of a saint” (342).
-       </p>
-       <p>In her own biography, Adams grants:
-        “Harriet Martineau, as all will admit, was a remarkable woman; remarkble by virtue of her mental endowments; remarkable for 
-        force of character; remarkable in her long and active career; and remarkable in her ready acceptance of the crude 
-        speculations of an inferior mind; but remarkable, beyond everything, for her egotism” of "sublime proportions" (343). 
-        Adams quotes W. R. Greg, “Qu’elle avait le défauts de ses qualités”  (344), dwelling further on Martineau's denial of merit in
-        other people and her conviction that "the world...floated round her own individuality” (348).  “As a novelist she 
-        cannot be ranked with George Eliot, Charlotte Brontë, or even Mrs. Gaskell.  Her strength lay in logical force of 
-        statement and appositeness of illustration” (348).  After this extensive assessment of Martineau's standing, Adams 
-        states that his sketch of her life is based on the <title><hi>Autobiography</hi></title>, which he faults: it is
-        “amusing to perceive the evident belief that the reader will dwell as eagerly as she herself dwelt upon even the minutest 
-        particulars of her childhood” (349). “It would be uncharitable to criticize too severely the moribund 
-        utterances of a woman in Harriet Martineau’s physical condition” (393). Agnoticism is a “miserable creed” (393).
-       </p>
+      <note place="unspecified" anchored="yes">
+       <p>Cambridge University Library stamp 23 Aug 78; labels of spines XXVIII 66 22 and 23. Blue
+        cloth 8o; black scrollwork stamps on covers, gilt lettering on spine, black lettering on
+        cover; brown floral endpapers. Davenport is identified as Author of "The Artic World, the
+        Mediterranean Illustrated, the Bird-World, etc." Dedicated "The the Right Hon. the Countess
+        of Glasgow these volumes are by permission respectfully and gratefully dedicated by the
+        author."</p>
+       <p>Adams's Preface submits to “'general reader’” reading that should be “pleasant and not
+        unprofitable” for “leisure hour,” concerning “the character of Woman as she appears in the
+        world of Literature and Society” (capitalized in original). The subjects were “chosen
+        because they are representative." It is "needless to dwell on the strong moral and
+        intellectual distinctions which separate a Harriet Martineau from a Lady Mary Wortley
+        Montagu, or a Charlotte Brontë from a Countess of Blessington.” umlaut The “present volumes
+        are confined to English Representative Women; but should they meet with a favourable
+        reception from the reading public, the writer on another occasion may venture further
+        afield.” "January 1878" (vii-viii) </p>
+       <p>Throughout biographies, a horizontal line sets off the header of each page, Representative
+        Women (verso), subject's name (recto). First page of each gives subject's name in large caps
+        followed by a period and "A.D. 1753-1821" (Inchbald) or the appropriate birth and death
+        dates. The narratives are divided into chapters.</p>
+       <p>Lady Mary Wortley Montagu's biography consumes 149 pages, followed by a summary page in
+        smaller type giving her name, dates of birth (1690) and death (1762), quoting at length from
+        “Dallaway,” who favorably compares Montagu's learning with other women's. She “applied her
+        learning to improve her knowledge of the world…" She showed best in her "purity of style,
+        rather than in the ambition of displaying her acquirements…" She gave "grace of expression
+        and novelty to maxims…” (150). Other subjects do not receive such a concluding page "blurb."
+        For comparison, Burney or “Frances D’Arblay” [sic] receives five chapters (124 pp.). </p>
+       <p>The biography of Elizabeth Inchbald begins, “We have now to tell the story of a Woman who
+        in some respects may fairly be considered Representative, though she made no very
+        conspicuous figure in what is known as Society, and does not occupy a very high position in
+        the republic of Letters. Her life was more remarkable than her works, and her character is a
+        more interesting study than her life. Yet had she possessed less of marked individuality,
+        and had her career permitted fewer noticeable incidents, she must still have been remembered
+        as a dramatist of some ability, and a novelist of no mean order” (125) </p>
+       <p>“Marguerite, Countess of Blessington, once so famous in London Society, though now little
+        more than the shadow of a name, was the third child…" begins Blessington's biography (176).
+        Chapter iv:“Lady Blessington’s literary career was not, as we have seen, a successful one”
+        (253). After a slash on p. 263, “A few words may be added respecting Count D’Orsay" (263-4),
+        a unique supplement comparable to Dallaway's words on Montagu. </p>
+       <p>As to Adams's authority and objectivity, he gets some facts wrong and judges by strict
+        gender and religious standards. Charlotte Brontë's dates are given 1817-1855 instead of
+        1816-1855. The biography begins: "The Rev. Patrick Blundell, who afterwards assumed the name
+        of Brontë, was a native of the county of Down in Ireland” (265). The three sisters become
+        subjects: Charlotte's "life was so mixed up with the lives of her sisters, that the threads
+        cannot be wholly disentangled…." Perhaps with Gaskell in mind, Adams opines, "We are great
+        believers in the power of circumstances to shape and modify character; and we believe that
+        the sights and sounds…in our childhood produce each a strong impression” (266-7). “We feel
+        the breath of the strong Yorkshire breezes in her style….Haworth was hardly the place in
+        which a lyrist of the Thomas Moore stamp could have grown up and sung; hardly the place to
+        have nourished a ‘Wild Irish Girl’ or an ‘Evelina.’ But it was no unfitting home for a ‘Jane
+        Eyre’” (267). The biography concludes with Harriet Martineau’s famous obituary assessment of
+        Charlotte as having the “conscientiousness of a saint” (342). </p>
+       <p>In her own biography, Adams grants: “Harriet Martineau, as all will admit, was a
+        remarkable woman; remarkble by virtue of her mental endowments; remarkable for force of
+        character; remarkable in her long and active career; and remarkable in her ready acceptance
+        of the crude speculations of an inferior mind; but remarkable, beyond everything, for her
+        egotism” of "sublime proportions" (343). Adams quotes W. R. Greg, “Qu’elle avait le défauts
+        de ses qualités” (344), dwelling further on Martineau's denial of merit in other people and
+        her conviction that "the world...floated round her own individuality” (348). “As a novelist
+        she cannot be ranked with George Eliot, Charlotte Brontë, or even Mrs. Gaskell. Her strength
+        lay in logical force of statement and appositeness of illustration” (348). After this
+        extensive assessment of Martineau's standing, Adams states that his sketch of her life is
+        based on the <title>
+         <hi>Autobiography</hi>
+        </title>, which he faults: it is “amusing to perceive the evident belief that the reader
+        will dwell as eagerly as she herself dwelt upon even the minutest particulars of her
+        childhood” (349). “It would be uncharitable to criticize too severely the moribund
+        utterances of a woman in Harriet Martineau’s physical condition” (393). Agnoticism is a
+        “miserable creed” (393). </p>
       </note>
      </bibl>
      <bibl id="a016" default="NO">
@@ -5347,29 +5371,28 @@
      <bibl id="a036A" default="NO"><ref targOrder="U">36A.</ref>
       <idno>a036A</idno>
       <author><name type="last">Ashton</name>, <name type="first">Helen</name>,</author> and <author>
-       <name type="first">Katharine N.</name> <name type="last">Davies.</name></author>
+       <name type="first">Katharine N.</name>
+       <name type="last">Davies.</name>
+      </author>
       <title type="ref">
-       <hi rend="italics">I Had a Sister; a study of Mary Lamb, Dorothy Wordsworth, Caroline Herschel [and] Cassandra Austen.</hi>
+       <hi rend="italics">I Had a Sister; a study of Mary Lamb, Dorothy Wordsworth, Caroline
+        Herschel [and] Cassandra Austen.</hi>
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>L. Dickson,</publisher>
        <date>1937.</date>
       </imprint>
-      
-      
       <imprint>
        <pubPlace>Folcroft, PA:</pubPlace>
        <publisher>Folcroft Library Editions,</publisher>
        <date>1975.</date>
       </imprint>
-      
       <imprint>
        <pubPlace>Norwood, PA:</pubPlace>
        <publisher>Norwood Editions</publisher>
        <date>1976</date>
       </imprint>
-      
       <imprint>
        <pubPlace>Philadelphia:</pubPlace>
        <publisher>R. West,</publisher>
@@ -5377,7 +5400,7 @@
       </imprint>
       <note type="toc">
        <list>
-                <item>Mary Lamb</item>
+        <item>Mary Lamb</item>
         <item>Dorothy Wordsworth</item>
         <item n="CAROLINE_HERSCHEL">Caroline Herschel</item>
         <item>Cassandra Austen</item>
@@ -5907,7 +5930,7 @@
         <item>A prophetess</item>
         <item>S. Clara</item>
         <item>S. Theresa</item>
-        <item n="SISTER_DORA" >Sister Dora</item>
+        <item n="SISTER_DORA">Sister Dora</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes">Title page: S. Baring-Gould, "Author of "<hi
@@ -6626,7 +6649,7 @@
         <item>Aphra Behn</item>
         <item>Sarah Jennings Churchill, Duchess of Marlborough. Contributors: V. S-W, Bonamy Dobree,
          Beatrice Curtis Brown, Martin Armstrong, Irene Cooper Willis, “Geoffrey West.” *Pop Chart
-</item>
+        </item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Also listed as Sackville-West, Vita, et al. </note>
@@ -7571,9 +7594,11 @@
        <date>1915.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> Biographer of William Penn and the Wesley family.
-       NOT:=religious history. Includes 1 p. on <list><item n="ELIZABETH_FRY">Elizabeth Fry</item></list> (322-3); Hannah Kilham, the Quaker
-       missionary to the Sierra Leon freed slave colony with Anne Thompson (333-4); Elizabeth
-       Hooton; Margaret Fell; Mary Fisher; Barbara Blaugdone. Catalogue. </note>
+       NOT:=religious history. Includes 1 p. on <list>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
+       </list> (322-3); Hannah Kilham, the Quaker missionary to the Sierra Leon freed slave colony
+       with Anne Thompson (333-4); Elizabeth Hooton; Margaret Fell; Mary Fisher; Barbara Blaugdone.
+       Catalogue. </note>
      </bibl>
      <bibl id="a106" default="NO">
       <ref targOrder="U">106.</ref>
@@ -9289,14 +9314,14 @@
        </ref></note>
       <note type="toc">
        <list>
-        <item>Frances Willard</item> 
-        <item>Agnes Weston</item> 
-        <item n="SISTER_DORA">Sister Dora</item> 
-        <item>Catherine Booth</item> 
+        <item>Frances Willard</item>
+        <item>Agnes Weston</item>
+        <item n="SISTER_DORA">Sister Dora</item>
+        <item>Catherine Booth</item>
         <item>Baroness Burdett-Coutts</item>
         <item>Lady Henry Somerset</item>
-        <item>Sarah Robinson</item> 
-        <item>Mrs. Fawcett</item> 
+        <item>Sarah Robinson</item>
+        <item>Mrs. Fawcett</item>
         <item>Mrs. Gladstone</item>
        </list>
       </note>
@@ -10188,7 +10213,7 @@
         <item>Elizabeth Bunyan, the Faithful Helpmate</item>
         <item>Selina, Countess of Huntingdon, the Servant of God</item>
         <item>Anne Clifford, Countess of Dorset and Pembroke, the Dispenser of Charity. *Pop Chart
-</item>
+        </item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Bodleian British Library. </note>
@@ -10468,8 +10493,9 @@
        <publisher>Pott,</publisher>
        <date>[1883?]</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> British Library. Additional imprint data found in Cambridge University Library. Consists as much of whole
-       life-narrative as of dying scene. Recalls <title>
+      <note place="unspecified" anchored="yes"> British Library. Additional imprint data found in
+       Cambridge University Library. Consists as much of whole life-narrative as of dying scene.
+       Recalls <title>
         <hi rend="italics">The Last Hours of Eminent Christians, from the commencement of the
          Christian æra to the death of George III</hi>
        </title> (London: Rivington, <date>1829</date>). See <ref target="a310" targOrder="U">Gaddis
@@ -10572,9 +10598,9 @@
         <item n="FRANCES_COBBE">Frances Power Cobbe. </item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes"> *Pop Chart.  Refers to Victoria's funeral, the anniversary of
-       Scutari (Nightingale still living) in <date>1903</date>, and the death of Frances Power Cobbe
-       in <date>1904</date>; thus, published <date>1904-1911</date>. </note>
+      <note place="unspecified" anchored="yes"> *Pop Chart. Refers to Victoria's funeral, the
+       anniversary of Scutari (Nightingale still living) in <date>1903</date>, and the death of
+       Frances Power Cobbe in <date>1904</date>; thus, published <date>1904-1911</date>. </note>
       <image n="no377">
        <imgName>Sister Dora</imgName>
        <imgDesc>"Poor little mites nestled against her bosom."</imgDesc>
@@ -10936,7 +10962,8 @@
       </imprint>
       <note type="toc">
        <list>
-        <item n="CAROLINE_HERSCHEL">British Library. No. 6: Eminent Women . TOC: Caroline Herschel</item>
+        <item n="CAROLINE_HERSCHEL">British Library. No. 6: Eminent Women . TOC: Caroline
+         Herschel</item>
         <item>The Princess de Lamballe</item>
         <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Elizabeth Barrett Browning</item>
@@ -11170,10 +11197,10 @@
         <item>Lady Fanshawe.</item>
         <item>Vol. 3: 21 subjects. incl. Mrs. Lucy Hutchinson,</item>
         <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell,</item>
-         <item>Jane Lane,</item> 
-         <item>Susannah Centlivre.</item> 
-         <item>Vol. 4: Lengthy biographies of Sarah, Duchess of Marlborough
-         and Lady Mary Wortley Montagu</item>
+        <item>Jane Lane,</item>
+        <item>Susannah Centlivre.</item>
+        <item>Vol. 4: Lengthy biographies of Sarah, Duchess of Marlborough and Lady Mary Wortley
+         Montagu</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> First two volumes appeared “in two volumes,” but in
@@ -11722,10 +11749,14 @@
         <hi rend="italics">Poor Boys Who Became Famous</hi>
        </title>, and Johnson, <title>
         <hi rend="italics">Famous Boys and How They Became Great Men</hi>
-       </title>. Female subjects are <list><item n="JOAN_OF_ARC">Jeanne d'Arc,</item></list> Fanny Kemble, <list><item n="CHARLOTTE_BRONTE">Charlotte Brontë,</item></list> Rosa Bonheur,
-       Louisa Alcott, Helen Keller, Melba, Clara Butt, Marya Curie, Sybil Thorndike, out of 27 total
-       subjects. Illustrations in children's book style, incl. Haworth Parsonage and Cowan Bridge
-       School. Sybil Thorndike grew up among the ghosts of Dickens and his characters (277). </note>
+       </title>. Female subjects are <list>
+        <item n="JOAN_OF_ARC">Jeanne d'Arc,</item>
+       </list> Fanny Kemble, <list>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë,</item>
+       </list> Rosa Bonheur, Louisa Alcott, Helen Keller, Melba, Clara Butt, Marya Curie, Sybil
+       Thorndike, out of 27 total subjects. Illustrations in children's book style, incl. Haworth
+       Parsonage and Cowan Bridge School. Sybil Thorndike grew up among the ghosts of Dickens and
+       his characters (277). </note>
      </bibl>
      <bibl id="a211" default="NO">
       <ref targOrder="U">211.</ref>
@@ -13499,7 +13530,11 @@
        </title> by Julia Ward Howe), including Mathilde Blind's <title>
         <hi rend="italics">George Eliot</hi>
        </title>, Millicent Garrett Fawcett's <title>
-        <hi rend="italics"><list><item n="QUEEN_VICTORIA">Life of Her Majesty Queen Victoria</item></list></hi>
+        <hi rend="italics">
+         <list>
+          <item n="QUEEN_VICTORIA">Life of Her Majesty Queen Victoria</item>
+         </list>
+        </hi>
        </title>, Ingram's <title>
         <hi rend="italics">Elizabeth Barrett Browning</hi>
        </title>, Florence Fenwick Miller's <title>
@@ -13507,11 +13542,19 @@
        </title>, Elizabeth Robins Pennell's <title>
         <hi rend="italics">Mary Wollstonecraft Godwin</hi>
        </title>, Emma Raymond Pitman's <title>
-        <hi rend="italics"><list><item n="ELIZABETH_FRY">Elizabeth Fry</item></list></hi>
+        <hi rend="italics">
+         <list>
+          <item n="ELIZABETH_FRY">Elizabeth Fry</item>
+         </list>
+        </hi>
        </title>, Lucy Madox Rossetti's <title>
         <hi rend="italics">Mrs. Shelley</hi>
        </title>, and Charlotte Mary Yonge's <title>
-        <hi rend="italics"><list><item n="HANNAH_MORE">Hannah More</item></list></hi>
+        <hi rend="italics">
+         <list>
+          <item n="HANNAH_MORE">Hannah More</item>
+         </list>
+        </hi>
        </title>. </note>
      </bibl>
      <bibl id="a267" default="NO">
@@ -14138,18 +14181,17 @@
        <date>1930.</date>
       </imprint>
      </bibl>
-     
+
      <bibl id="a285A" default="NO">
       <ref targOrder="U">285A.</ref>
       <idno>a285A</idno>
       <author><name type="last">Ferris</name>, <name type="first">George</name>.</author>
       <title type="ref">
-       <hi rend="italics">Great Singers.</hi> Series I &amp; II.
-      </title>
+       <hi rend="italics">Great Singers.</hi> Series I &amp; II. </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Appleton,</publisher>
-   
+
        <date>1879;</date>
        <date>1880-1881;</date>
        <date>1882;</date>
@@ -14165,9 +14207,8 @@
        <publisher>Books for Libraries,</publisher>
        <date>1972.</date>
       </imprint>
-      
-      <note type="toc"> TOC: First Series:
-       <list>
+
+      <note type="toc"> TOC: First Series: <list>
         <item>Faustina Bordoni</item>
         <item>Catarina Gabrielli</item>
         <item>Sophie Arnould</item>
@@ -14175,9 +14216,7 @@
         <item>Angelica Catalani</item>
         <item>Giuditta Pasta</item>
         <item>Henrietta Sontag</item>
-       </list>
-       Second Series:
-       <list>
+       </list> Second Series: <list>
         <item>Maria Felicia Malibran</item>
         <item>Wilhelmina Schröder-Devrient</item>
         <item>Giulia Grisi</item>
@@ -14188,7 +14227,6 @@
         <item>Sophie Cruvelli</item>
         <item>Theresa Titiens</item>
        </list>
-       
       </note>
      </bibl>
      <bibl id="a286" default="NO"><ref targOrder="U">286.</ref>
@@ -15113,10 +15151,16 @@
        pageant, with directions and speeches. A judge asks, “Whom among them manifests the true
        ideal of womanhood? Who has rendered the greatest service to the world, and upon whom shall
        we confer the crown?” A long list mixing popular great names, national or occupational types,
-       and even fictional characters, e.g.: Ruth; Queen Isabella of Spain; <list><item n="GRACE_DARLING">Grace Darling;</item></list> <list><item n="JENNY_LIND">Jenny Lind;</item></list>
-        Frances Willard; <list><item n="JOAN_OF_ARC">Joan of Arc;</item></list> The Japanese Girl; Nordica; the Nun; the Indian Woman;
-       the Salvation Army Girl; the Maid [as in house servant]; The Fish Wife; Miss Ophelia, Topsy,
-       Eva; Mother Goose. <hi rend="bold">*Pop Chart</hi>
+       and even fictional characters, e.g.: Ruth; Queen Isabella of Spain; <list>
+        <item n="GRACE_DARLING">Grace Darling;</item>
+       </list>
+       <list>
+        <item n="JENNY_LIND">Jenny Lind;</item>
+       </list> Frances Willard; <list>
+        <item n="JOAN_OF_ARC">Joan of Arc;</item>
+       </list> The Japanese Girl; Nordica; the Nun; the Indian Woman; the Salvation Army Girl; the
+       Maid [as in house servant]; The Fish Wife; Miss Ophelia, Topsy, Eva; Mother Goose. <hi
+        rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
      <bibl id="a312" default="NO"><ref targOrder="U">312.</ref>
@@ -15146,7 +15190,7 @@
         <item>Miss Caroline Elizabeth Smelt</item>
         <item>Mrs. Margaret Wilson</item>
         <item>Mrs. Harriet W.L. Winslow. *Pop Chart Also as Gardner's Memoir of Christian Females .
-</item>
+        </item>
        </list>
       </note>
      </bibl>
@@ -17127,7 +17171,7 @@
         <item>Lady Morgan (Sydney Owenson)</item>
         <item>Susan Edmonstone Ferrier</item>
         <item>Mary Russell Mitford</item>
-        <item>The Countess of Blessington</item> 
+        <item>The Countess of Blessington</item>
         <item>2d ser.: Mrs. Hemans</item>
         <item>Mrs. Jameson</item>
         <item>Fredrika Bremer</item>
@@ -17322,8 +17366,10 @@
        Dix; Clara Barton; Sarah Hale; Margaret Fuller; Julia Ward Howe; Lydia H. Sigourney; Maria
        Mitchell; Harriet Hosmer; Mary A. Livermore; Frances E. W. Harper; Sojourner Truth; Elizabeth
        Cady Stanton; Susan B. Anthony; Frances E. Willard; Phebe A. Hanaford [<hi rend="italics"
-        >herself</hi>]; <list><item n="ANN_HASSELTINE_JUDSON">Ann H. Judson;</item></list> Sarah B. Judson; Mary Lyon; Charlotte Cushman; and numerous
-       other women by occupation or type. </note>
+        >herself</hi>]; <list>
+        <item n="ANN_HASSELTINE_JUDSON">Ann H. Judson;</item>
+       </list> Sarah B. Judson; Mary Lyon; Charlotte Cushman; and numerous other women by occupation
+       or type. </note>
      </bibl>
      <bibl id="a377" default="NO">
       <ref targOrder="U">377.</ref>
@@ -19132,8 +19178,9 @@
         <item>Mary W. Shelley. *Pop Chart</item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes"> Cambridge University Library owns Roycrofters edition of <hi rend="italics">Famous Women</hi> dated 1888 (in error?). 
-       In <date>1894-97</date> series, vol. 1: <title>
+      <note place="unspecified" anchored="yes"> Cambridge University Library owns Roycrofters
+       edition of <hi rend="italics">Famous Women</hi> dated 1888 (in error?). In
+        <date>1894-97</date> series, vol. 1: <title>
         <hi rend="italics">Little Journeys to the Homes of Good Men and Great</hi>
        </title>; 2: <title>
         <hi rend="italics">To the Homes of American Authors</hi>
@@ -22368,7 +22415,11 @@
         <date>1845</date>, and by <ref target="a184" targOrder="U">Louise Cochelet</ref>, “Mme.
        Parquin,” <date>1833</date>. This work is a series in Allison's Select Library that is often
        catalogued under each author's name or work. The three “lives” are Jules Michelet, <title>
-        <hi rend="italics"><list><item n="JOAN_OF_ARC">Joan of Arc</item></list></hi>
+        <hi rend="italics">
+         <list>
+          <item n="JOAN_OF_ARC">Joan of Arc</item>
+         </list>
+        </hi>
        </title>; A. de Lamartine, <title>
         <hi rend="italics">Mary Queen of Scots</hi>
        </title>; T. A. Trollope, <title>
@@ -22587,7 +22638,8 @@
         <item>Helen Keller the Handicapped, by Lucile Desjardins</item>
         <item>Muriel Lester, Christian in Action and Creator of Good Will, by Edna M. Baxter</item>
         <item n="JENNY_LIND">Jenny Lind, the Swedish Nightingale, by S.P. Franklin</item>
-        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale, Nurse-Philanthropist, by C.J. Lotz</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale, Nurse-Philanthropist, by C.J.
+         Lotz</item>
         <item>Alice Freeman Palmer, Inspiring Teacher, by E.A. Leslie</item>
         <item>Maude Royden, World Famous Preacher, by Laura H. Wild</item>
         <item>Harriet Beecher Stowe, Well-Known Writer, by A.J.W. Myers</item>
@@ -23639,7 +23691,7 @@
        <list>
         <item>Catherine de Médicis, Queen, Consort of Henry II, King of France</item>
         <item>Marguerite, Queen, Consort of Henry IV, King of France. [Third subject is missing.]
-</item>
+        </item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Possible emulation of Baron Imbert de Saint-Amand's
@@ -23954,7 +24006,7 @@
       <idno>a568A</idno>
       <author><name type="last">Meyer</name>, <name type="first">Bertha</name>.</author>
       <title type="ref">
-       <hi rend="italics">Salon Sketches: biographical studies of Berlin salons of the 
+       <hi rend="italics">Salon Sketches: biographical studies of Berlin salons of the
         emancipation.</hi>
       </title>
       <imprint>
@@ -23962,15 +24014,15 @@
        <publisher>Bloch,</publisher>
        <date>1938.</date>
       </imprint>
-       <note type="toc">
+      <note type="toc">
        <list>
         <item>Dorothea Mendelssohn</item>
         <item>Rachel [Varnhagen] Lewin</item>
         <item>Henriette Herz</item>
        </list>
-       </note>
+      </note>
       <note place="unspecified" anchored="yes">Cambridge University Library.</note>
-      
+
      </bibl>
      <bibl id="a569" default="NO"><ref targOrder="U">569.</ref>
       <idno>a569</idno>
@@ -25438,11 +25490,12 @@
         <item>Mrs. Jameson. PC*</item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes"> Author of “Essays on Women's Work.” Cambridge University undated library stamp.  Label
-       on spine Sm. 23 (cf. a923, Yonge, Sm. 22), and lower spine, 40.  Someone has pencilled a grammatical correction at the end of Parkes' preface, “each...may truly be said that they did worthy work in the world,” crossing out "they"
-       and inserting “she.”  Red cloth cover with gilt and black rectangular frame pattern; titlepage has red subtitle and other detail.
-       Elegant engraved patterns at headings of chapters.
-      </note>
+      <note place="unspecified" anchored="yes"> Author of “Essays on Women's Work.” Cambridge
+       University undated library stamp. Label on spine Sm. 23 (cf. a923, Yonge, Sm. 22), and lower
+       spine, 40. Someone has pencilled a grammatical correction at the end of Parkes' preface,
+       “each...may truly be said that they did worthy work in the world,” crossing out "they" and
+       inserting “she.” Red cloth cover with gilt and black rectangular frame pattern; titlepage has
+       red subtitle and other detail. Elegant engraved patterns at headings of chapters. </note>
      </bibl>
      <bibl id="a622" default="NO">
       <ref targOrder="U">622.</ref>
@@ -26428,8 +26481,9 @@
        <date>1929.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> Lively and well-researched narratives of the travels
-       of <list><item n="FRANCES_TROLLOPE">Frances Trollope,</item></list> Fanny Kemble, Harriet Martineau. Pope-Hennessy was a prolific
-       biographer: <title>
+       of <list>
+        <item n="FRANCES_TROLLOPE">Frances Trollope,</item>
+       </list> Fanny Kemble, Harriet Martineau. Pope-Hennessy was a prolific biographer: <title>
         <hi rend="italics">Agnes Strickland, Biographer of the Queens of England,
           <date>1796-1874</date></hi>
        </title> (London: Chatto &amp; Windus, <date>1940</date>), and separate lives of Charles
@@ -28202,19 +28256,19 @@
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
-      <publisher>Harleian;</publisher>
-             <pubPlace>New York:</pubPlace>
+       <publisher>Harleian;</publisher>
+       <pubPlace>New York:</pubPlace>
        <publisher>Greenberg,</publisher>
        <date>1929.</date>
-       </imprint>
-       <imprint>
-        <pubPlace>New York</pubPlace>
-        <publisher>Greenberg,</publisher>
+      </imprint>
+      <imprint>
+       <pubPlace>New York</pubPlace>
+       <publisher>Greenberg,</publisher>
        <date>1933.</date>
-       </imprint>
-       <imprint>
+      </imprint>
+      <imprint>
        <pubPlace>London:</pubPlace>
-               <publisher>Houghton &amp; Scott-Snell,</publisher>
+       <publisher>Houghton &amp; Scott-Snell,</publisher>
        <date>1935;</date>
       </imprint>
       <imprint>
@@ -28319,7 +28373,8 @@
        <date>1940;</date>
        <date>1942.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">Not strictly a collective biography of women, as focused on the King.</note>
+      <note place="unspecified" anchored="yes">Not strictly a collective biography of women, as
+       focused on the King.</note>
      </bibl>
      <bibl id="a709" default="NO">
       <ref targOrder="U">709.</ref>
@@ -29253,19 +29308,17 @@
         <item>Josephine Butler</item>
         <item n="FRANCES_COBBE">Frances Power Cobbe</item>
         <item n="SISTER_DORA">Sister Dora</item>
-       </list>
-       *Pop Chart
-      </note>
+       </list> *Pop Chart </note>
       <note place="unspecified" anchored="yes"> British Library. 32-pp. pamphlet: “first of a
        series.” “The ‘New Woman,’ so-called, is not the exclusive production of this latter end of
        the nineteenth century, but has flourished wherever women have had the courage to shape their
-       lives according to the dictates of their own consciences” (22). Cambridge University Library blurred acquisition stamp 23 March 1896 on cover and titlepage; 
-       light-olive green cover torn vertically upper left with white rectangle stamp 1545.  Cream-colored, thick-weave paper; two stitches; some slightly separating.
-      Butler bio begins with warlike tropes: “leaders of men…danger into opportunity…noble purpose.  Not for bravery alone,
-      is a general famous…”  “Such a leader is…a representative woman of this century.  
-      Not only did she ennoble the cause for which she fought...” (3), she stayed calm in the “heat and din of a warfare” (4).
-       
-      </note>
+       lives according to the dictates of their own consciences” (22). Cambridge University Library
+       blurred acquisition stamp 23 March 1896 on cover and titlepage; light-olive green cover torn
+       vertically upper left with white rectangle stamp 1545. Cream-colored, thick-weave paper; two
+       stitches; some slightly separating. Butler bio begins with warlike tropes: “leaders of
+       men…danger into opportunity…noble purpose. Not for bravery alone, is a general famous…” “Such
+       a leader is…a representative woman of this century. Not only did she ennoble the cause for
+       which she fought...” (3), she stayed calm in the “heat and din of a warfare” (4). </note>
      </bibl>
      <bibl id="a740" default="NO"><ref targOrder="U">740.</ref>
       <idno>a740</idno>
@@ -31286,14 +31339,14 @@
         <item>Anne, of Bohemia</item>
         <item>Catherine Parr</item>
         <item n="LADY_JANE_GREY">Jane Grey</item>
-        <item>Mary II.</item> 
+        <item>Mary II.</item>
         <item>vol II: British Princesses: Princess Claudia, of Rome[title "Princess"
          repeated]</item>
         <item>Margaret</item>
         <item>Elizabeth of Bohemia</item>
         <item>Elizabeth, of the Rhine</item>
         <item>Amelia</item>
-        <item>Charlotte, of Wales.</item> 
+        <item>Charlotte, of Wales.</item>
         <item>vol III: British Female Martyrs: Lady Joan Boughton</item>
         <item>Helen Stark</item>
         <item>Lady Anne Askew</item>
@@ -31305,7 +31358,7 @@
         <item>Cicelly Ormes</item>
         <item>Elizabeth Prest</item>
         <item>Lady Lisle</item>
-        <item>Mrs. Gaunt.</item> 
+        <item>Mrs. Gaunt.</item>
         <item>vol IV: British Learned Ladies: Mrs. Roper</item>
         <item>Lady Anna Bacon</item>
         <item n="LADY_RACHEL_RUSSELL">Lady Russel [sic]</item>
@@ -32159,24 +32212,27 @@
         <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item n="HANNAH_MORE">Hannah More</item>
         <item n="MARY_SOMERVILLE">Mary Somerville</item>
-        </list>
-       </note>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes"> Author of <title>
         <hi rend="italics">Recollections of a Scottish Novelist</hi>
-      </title> (<date>1910</date>). Cambridge University Library stamp 28 Nov 88. On endpaper advertisements, "L.B. Walford" is clearly a woman novelist, 
-       author of uniform octavo volumes published by Blackwood, e.g. <title><hi rend="italics">Mr Smith</hi>,</title>
-       <title><hi rend="italics">Troublesome Daughters</hi></title>, <title><hi rend="italics">The Baby’s Grandmother</hi>.</title>
-       The 312 pages are uncut in Cambridge copy.  Catalogue of Messrs Blackwood and Sons’ publications appears in final 21 pp., featuring such educational 
-       and reference works such as an English dictionary and series: philosophical classics for English readers; foreign classics for English readers; 
-       ,ancient classics ditto.
-      </note>
+       </title> (<date>1910</date>). Cambridge University Library stamp 28 Nov 88. On endpaper
+       advertisements, "L.B. Walford" is clearly a woman novelist, author of uniform octavo volumes
+       published by Blackwood, e.g. <title><hi rend="italics">Mr Smith</hi>,</title>
+       <title>
+        <hi rend="italics">Troublesome Daughters</hi>
+       </title>, <title><hi rend="italics">The Baby’s Grandmother</hi>.</title> The 312 pages are
+       uncut in Cambridge copy. Catalogue of Messrs Blackwood and Sons’ publications appears in
+       final 21 pp., featuring such educational and reference works such as an English dictionary
+       and series: philosophical classics for English readers; foreign classics for English readers;
+       ,ancient classics ditto. </note>
      </bibl>
      <bibl id="a835" default="NO">
       <ref targOrder="U">835.</ref>
       <idno>a835</idno>
-             <author><name type="last">Walford</name>, <name type="first">Lucy Bethia</name>.</author>
-       
-      
+      <author><name type="last">Walford</name>, <name type="first">Lucy Bethia</name>.</author>
+
+
       <title type="ref">
        <hi rend="italics">Twelve English Authoresses.</hi>
       </title>
@@ -34373,13 +34429,19 @@
          by the Author of ‘The Heir of Redclyffe’</hi>
        </title> (London: Macmillan, <date>1869</date>), <title>
         <hi rend="italics">Golden Treasury Series</hi>
-       </title>, all-male. Cambridge University Library copy of 1862 edition identifies the editor as "By the Author of the 
-       'Heir of Redclyffe.'" The compact volume in brown cloth has a tight zig-zag pattern stamped on the covers.  Running headers "Biographies
-       of Good Women" (verso) and the subject's name (recto).  The biographies are largely reprints from different magazines, e.g. Anny Gurney, <title><hi rend="italics">Gentlemen's Magazine</hi></title>
-       1857; Amalie Sieveking, <title><hi rend="italics">Englishwoman's Journal</hi></title>, March, 1860.  This book apparently was
-       catalogued or shelved alongside a621, Bessie Parkes, <title><hi rend="italics">Vignettes</hi></title>; Yonge has Sm. 22, Parkes has Sm. 23 label; on lower
-       spine Parkes is labeled 40 but Yonge is labeled 18.
-      </note>
+       </title>, all-male. Cambridge University Library copy of 1862 edition identifies the editor
+       as "By the Author of the 'Heir of Redclyffe.'" The compact volume in brown cloth has a tight
+       zig-zag pattern stamped on the covers. Running headers "Biographies of Good Women" (verso)
+       and the subject's name (recto). The biographies are largely reprints from different
+       magazines, e.g. Anny Gurney, <title>
+        <hi rend="italics">Gentlemen's Magazine</hi>
+       </title> 1857; Amalie Sieveking, <title>
+        <hi rend="italics">Englishwoman's Journal</hi>
+       </title>, March, 1860. This book apparently was catalogued or shelved alongside a621, Bessie
+       Parkes, <title>
+        <hi rend="italics">Vignettes</hi>
+       </title>; Yonge has Sm. 22, Parkes has Sm. 23 label; on lower spine Parkes is labeled 40 but
+       Yonge is labeled 18. </note>
      </bibl>
      <bibl id="a924" default="NO"><ref targOrder="U">924.</ref>
       <idno>a924</idno>
@@ -35478,18 +35540,22 @@
      <bibl id="p023C">
       <idno>p023C</idno>
       <author><name type="last">Collett</name>, <name type="first">Barry</name>.</author>
-      <editor><name type="first">Betty S.</name><name type="last">Travitsky</name> and <name type="first">Anne Lake</name><name type="last">Prescott</name>, general editors.</editor>
+      <editor><name type="first">Betty S.</name><name type="last">Travitsky</name> and <name
+        type="first">Anne Lake</name><name type="last">Prescott</name>, general editors.</editor>
       <title type="ref">
-       <hi rend="italics">Late Medieval Englishwomen: Julian of Norwich, Marjorie Kemp and Juliana Berners.</hi>
+       <hi rend="italics">Late Medieval Englishwomen: Julian of Norwich, Marjorie Kemp and Juliana
+        Berners.</hi>
       </title>
       <imprint>
-       <pubPlace>Aldershot, England;</pubPlace><pubPlace>Burlington, VT:</pubPlace>
+       <pubPlace>Aldershot, England;</pubPlace>
+       <pubPlace>Burlington, VT:</pubPlace>
        <publisher>Ashgate,</publisher>
        <date>2007.</date>
-            </imprint>
-      <note>TOC: Julian of Norwich; Marjorie Kemp; Juliana Berners.  Selected and introduced by Collett.</note>
+      </imprint>
+      <note>TOC: Julian of Norwich; Marjorie Kemp; Juliana Berners. Selected and introduced by
+       Collett.</note>
      </bibl>
-    
+
 
      <bibl id="p024" default="NO">
 
@@ -35651,57 +35717,57 @@
        <date>1959;</date>
        <date>1960.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">
+      <note type="toc">
        <list>
         <item>Chapter Titles: Sect. I: Ch. 1: Vibia Perpetua</item>
-        <item>Helena</item> 
-        <item>Macrina</item> 
+        <item>Helena</item>
+        <item>Macrina</item>
         <item>Nonna</item>
-        <item>Marcella</item> 
-        <item>Monica</item> 
+        <item>Marcella</item>
+        <item>Monica</item>
         <item>Anthusa</item>
-        <item>Paula</item> 
-        <item>Hilda</item> 
-        <item>Ch. 2: Clare</item> 
-        <item>Elizabeth of Hungary</item> 
-        <item>Catherine of Siena</item> 
+        <item>Paula</item>
+        <item>Hilda</item>
+        <item>Ch. 2: Clare</item>
+        <item>Elizabeth of Hungary</item>
+        <item>Catherine of Siena</item>
         <item n="JOAN_OF_ARC">Joan of Arc</item>
-        <item>Isabella of Castile</item> 
-        <item>Vittoria Colonna</item> 
-        <item>Margaret of Navarre</item> 
-        <item>Jeanne d'Albret</item> 
-        <item>Katherine Von Bora</item> 
+        <item>Isabella of Castile</item>
+        <item>Vittoria Colonna</item>
+        <item>Margaret of Navarre</item>
+        <item>Jeanne d'Albret</item>
+        <item>Katherine Von Bora</item>
         <item>Teresa of Avila</item>
         <item>Ch. 3: Anne Hutchinson</item>
         <item>Margaret Fell Fox</item>
-        <item>Mary Fisher</item> 
-        <item>Mme Jeanne Guyon</item> 
-        <item>Susanna Wesley</item> 
-        <item>Lady Huntingdon</item> 
-        <item>Sect. II: Ch. 4: "Mother Ann" Lee</item> 
-        <item n="ELIZABETH_FRY">Elizabeth Fry</item> 
-        <item n="ANN_HASSELTINE_JUDSON">Ann Judson</item> 
-        <item>Emily H. Tubman</item> 
-        <item>Mary Smith Moffat</item> 
-        <item>Mary Moffat Livingstone</item> 
-        <item>Emma Hale Smith</item> 
-        <item>Narcissa Whitman</item> 
-        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item> 
-        <item>Ch. 5: Mary Baker Eddy</item> 
-        <item>Ellen G. White</item> 
-        <item>Catherine Booth</item> 
+        <item>Mary Fisher</item>
+        <item>Mme Jeanne Guyon</item>
+        <item>Susanna Wesley</item>
+        <item>Lady Huntingdon</item>
+        <item>Sect. II: Ch. 4: "Mother Ann" Lee</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
+        <item n="ANN_HASSELTINE_JUDSON">Ann Judson</item>
+        <item>Emily H. Tubman</item>
+        <item>Mary Smith Moffat</item>
+        <item>Mary Moffat Livingstone</item>
+        <item>Emma Hale Smith</item>
+        <item>Narcissa Whitman</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
+        <item>Ch. 5: Mary Baker Eddy</item>
+        <item>Ellen G. White</item>
+        <item>Catherine Booth</item>
         <item>Lucy Webb Hayes</item>
-        <item>Nettie Fowler McCormick</item> 
-        <item>Amanda Smith</item> 
+        <item>Nettie Fowler McCormick</item>
+        <item>Amanda Smith</item>
         <item>Lottie Moon</item>
-        <item>Mary Slessor</item> 
+        <item>Mary Slessor</item>
         <item>Ch. 6: Rose Hawthorne Lathrop</item>
         <item>Pandita Ramabai</item>
-        <item>Helen Barrett Montgomery</item> 
-        <item>Mrs. Charles Jones Soong</item> 
+        <item>Helen Barrett Montgomery</item>
+        <item>Mrs. Charles Jones Soong</item>
         <item>Teresa of Lisieux</item>
         <item>Women hymn writers</item>
-        <item>Sect. III: Vignettes of [67] other Christian women through nineteen centuries.</item> 
+        <item>Sect. III: Vignettes of [67] other Christian women through nineteen centuries.</item>
        </list>
       </note>
      </bibl>
@@ -36534,8 +36600,9 @@
       <idno>p044A</idno>
       <author><name type="last">Heineman</name>, <name type="first">Helen.</name></author>
       <title type="ref">
-       <hi rend="italics">Restless Angels: the friendship of six Victorian women: Frances Wright, Camilla Wright, 
-        Harriet Garnett, Frances Garnett, Julia Garnett Pertz, Frances Trollope. </hi>
+       <hi rend="italics">Restless Angels: the friendship of six Victorian women: Frances Wright,
+        Camilla Wright, Harriet Garnett, Frances Garnett, Julia Garnett Pertz, Frances Trollope.
+       </hi>
       </title>
       <imprint>
        <pubPlace>Athens, OH:</pubPlace>
@@ -36543,19 +36610,19 @@
        <date>1983.</date>
       </imprint>
       <note type="toc">
-       
+
        <list>
-        <item>A circle of women: the first Utopia, 1798-1824 </item> 
+        <item>A circle of women: the first Utopia, 1798-1824 </item>
         <item>Frances Wright and the second Utopia, 1825-1827</item>
-       <item>The Transition</item>
+        <item>The Transition</item>
         <item>Camilla Wright</item>
         <item>Harriet and Fanny Garnett</item>
         <item>Julia Garnett Pertz</item>
         <item n="FRANCES_TROLLOPE">Frances Trollope</item>
         <item>Conclusion: Widening the circle.</item>
-        
-        
-        
+
+
+
        </list>
       </note>
      </bibl>
@@ -36625,7 +36692,8 @@
        <date>1941;</date>
        <date>1944.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">Small book: 73 pages, illustrated, about 7 inches. </note>
+      <note place="unspecified" anchored="yes">Small book: 73 pages, illustrated, about 7 inches.
+      </note>
      </bibl>
      <bibl id="p048" default="NO">
       <idno>p048</idno>
@@ -37242,6 +37310,21 @@
       </imprint>
       <note place="unspecified" anchored="yes"> </note>
      </bibl>
+     <bibl id="p068A" default="NO">
+      <idno>p068A</idno>
+      <author><name type="last">Leon</name>, <name type="first">Vicki</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Uppity Women of Ancient Times. </hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+      
+       <publisher>MJF,</publisher>
+       <date>1995.</date>
+       
+      </imprint> 
+      <note place="unspecified" anchored="yes"> </note>
+     </bibl>
      <bibl id="p069" default="NO">
       <idno>p069</idno>
       <author><name type="last">Leon</name>, <name type="first">Vicki</name>.</author>
@@ -37286,8 +37369,10 @@
        <date>1978.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> "Biographies of 17 women rulers, including
-       Cleopatra, <list><item n="QUEEN_ELIZABETH_I">Elizabeth I of England,</item></list> and Golda Meir, focus on how they came to power, their
-       accomplishments, methods of ruling, and impact on history."</note>
+       Cleopatra, <list>
+        <item n="QUEEN_ELIZABETH_I">Elizabeth I of England,</item>
+       </list> and Golda Meir, focus on how they came to power, their accomplishments, methods of
+       ruling, and impact on history."</note>
      </bibl>
      <bibl id="p071A" default="NO">
       <idno>p071A</idno>
@@ -37672,7 +37757,7 @@
        <list>
         <item>Includes African and Asian missionaries, such as the Scottish Baptist Christina
          Mackintosh who married French Evangelical Fracois Coillard in Cape Town, South Africa in
-         1861.</item> 
+         1861.</item>
         <item n="ANN_HASSELTINE_JUDSON">TOC: Ann Judson</item>
         <item>Mary Moffat</item>
         <item>Mary Livingstone</item>
@@ -37973,7 +38058,8 @@
        <date>1950;</date>
        <date>1952.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">Wives of governors of South Africa (Cape Colony).</note>
+      <note place="unspecified" anchored="yes">Wives of governors of South Africa (Cape
+       Colony).</note>
      </bibl>
      <bibl id="p087" default="NO">
       <idno>p087</idno>
@@ -39684,13 +39770,13 @@
         <item>Mother Cecile of Grahamstown</item>
         <item n="SISTER_DORA">Sister Dora of Walsall</item>
         <item>Mary Slessor of Calabar</item>
-        <item n="ELIZABETH_FRY">Three Queries : Elizabeth Fry</item> 
+        <item n="ELIZABETH_FRY">Three Queries : Elizabeth Fry</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Catherine Booth</item>
         <item>Some Other Worthies</item>
         <item>Reflections and Conclusions</item>
         <item>Appendix: The Church of England's Commemoration of Saints and Heroes of the Faith.
-</item>
+        </item>
        </list>
       </note>
 
@@ -40200,6 +40286,19 @@
      </bibl>
      <bibl id="p144A" default="NO">
       <idno>p144A</idno>
+      <author><name type="last">Welch</name>, <name type="first">Rosanne</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Women in Aviation and Space.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Santa Barbara, CA:</pubPlace>
+       <publisher>ABC-Clio,</publisher>
+       <date>1998.</date>
+      </imprint>
+      <note place="unspecified" anchored="yes"> </note>
+     </bibl>
+     <bibl id="p144B" default="NO">
+      <idno>p144B</idno>
       <author><name type="last">Weller</name>, <name type="first">Sheila</name>.</author>
       <title type="ref">
        <hi rend="italics">Girls Like Us: Carole King, Joni Mitchell, Carly Simon--And the Journey of
@@ -40233,8 +40332,8 @@
        Ch. 15: Carly: late 1973-late 1987; Pt. 6: "In the river I know I will find the key"; Coda:
        The middle '80s to the present: three women, three endings, one journey. </note>
      </bibl>
-     <bibl id="p144B" default="NO">
-      <idno>p144B</idno>
+     <bibl id="p144C" default="NO">
+      <idno>p144C</idno>
       <author><name type="last">White</name>, <name type="first">Barbara Anne</name>.</author>
       <title type="ref">
        <hi rend="italics">The Beecher Sisters. </hi>
@@ -40260,8 +40359,8 @@
        1872-1875; Spiritualism, 1875-1878; Losses, 1878-1887; The board of lady managers,
        1888-1893.</note>
      </bibl>
-     <bibl id="p144C" default="NO">
-      <idno>p144C</idno>
+     <bibl id="p144D" default="NO">
+      <idno>p144D</idno>
       <author/>
       <title type="ref">
        <hi rend="italics">Who's Who Among Ohio Pioneer Women.</hi>
@@ -40275,14 +40374,14 @@
        <list>
         <item>Vol. 1: Prize-winning essays</item>
         <item>Vol. 2-4: Essays listed alphabetically by person who is the subject of the biography.
-</item>
+        </item>
        </list>
       </note>
       <note place="unspecified" anchored="yes">Essays about the life of an Ohio pioneer woman who
        lived in the author's own county.</note>
      </bibl>
-     <bibl id="p144D" default="NO">
-      <idno>p144D</idno>
+     <bibl id="p144E" default="NO">
+      <idno>p144E</idno>
       <author><name type="last">Williams</name>, <name type="first">Samey B.</name>.</author>
       <title type="ref">
        <hi rend="italics">Spirited Black Women: four decades of portraits of Afro-American women.
@@ -40462,8 +40561,8 @@
        <publisher>Aetos,</publisher>
        <date>1950.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">At head of title: World War II, 1940-1944; subject line: 
-       underground movements. </note>
+      <note place="unspecified" anchored="yes">At head of title: World War II, 1940-1944; subject
+       line: underground movements. </note>
      </bibl>
     </div2>
    </div1>
