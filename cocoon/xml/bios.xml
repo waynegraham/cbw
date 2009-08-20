@@ -114,16 +114,46 @@
     <text>
         <interpGrp id="life_events">
             <interp id="birth" value="birth"/>
-            <interp id="family" value="family"/>
-            <interp id="childhood" value="childhood"/>
-            <interp id="education" value="education"/>
-            <interp id="marriage" value="marriage"/>
+            <interp id="family" value="information on ancestry or immediate relatives"/>
+            <interp id="childhood" value="childhood circumstances, habits, or experience"/>
+            <interp id= "talent" value="anecdotes or remarks on promise or achievement"/>
+            <interp id="education" value="formal and informal education"/>
+            <interp id="marriage" value="event and relationship"/>
             <interp id="appearance" value="appearance"/>
-            <interp id="vocation" value="vocation"/>
-            <interp id="conversion" value="conversion"/>
-            <interp id="ordeal" value="ordeal"/>
-            <interp id="recognition" value="recognition"/>
+            <interp id="vocation" value="calling, choice of work, employment"/>
+            <interp id="religion" value="practices, family training, conversion, mission or teaching others"/>
+            <interp id="ordeal" value="defining episode including hardship or test"/>
+            <interp id="recognition" value="living or posthumous acknowledgment or tributes in person, media, events"/>
             <interp id="death" value="death"/>
+            <interp id="memorial" value="funeral, monument, plaque"/>
+        </interpGrp>
+        <interpGrp id="subject_type">
+            <interp id="philanthropist" value="work with institutions or 
+            disadvantaged groups: prisons, military, schools, labor, children, prostitutes, etc.  "/>
+            <interp id="reformer" value="campaigns to change laws or institutions"/>
+            <interp id="missionary" value="active in recruiting converts, foreign or domestic"/>
+            <interp id="royalty" value="queen, princess"/>
+            <interp id="aristocrat" value="woman of noble or titled rank"/>
+            <interp id="heroine_of_war" value="woman famed for combat, spying, rescue or deeds in support of male allies"/>
+            <interp id="heroine_of_religion" value="saint, martyr, prophet or visionary, leader of sectarian movement or church institution"/>
+            <interp id="medical" value="nurse, doctor, hospital worker"/>
+            <interp id="traveler" value="explorer, travel writer"/>
+            <interp id="rescuer" value="of condemned prisoner, shipwrecked, fugitive"/>
+            <interp id="scientist" value="mathematics and all natural sciences"/>
+            <interp id="learned_woman" value="humanities such as classics, philosophy, history"/>
+            <interp id="writer" value="woman of letters known for drama, poetry, fiction, sermons, hymns, travels, essays, etc."/>
+            <interp id="artist" value="visual arts such as painting and sculpture"/>
+            <interp id="performer" value="performing arts such as drama, dance, lectures, recitals"/>
+            <interp id="classical" value="renowned women of Greek and Roman antiquity"/>
+            <interp id="biblical" value="heroine of bible and apocrypha"/>
+            <interp id="wife" value="woman whose renown primarily is relation to president, prime minister, eminent man (excl. queens"/>
+            <interp id="mother" value="woman whose renown primarily is relation to great offspring"/>
+            <interp id="lover" value="woman whose renown primarily is amorous relation to eminent man; muse, temptation"/>
+            <interp id="beauty_or_society" value="respected, unpaid celebrity"/>
+            <interp id="mistress" value="high-status sexual entrepreneur"/>
+            <interp id="notorious_woman" value="low-status sexual entrepreneur (of any class)"/>
+            <interp id="murderess" value="assassin, vengeful wife, monstrous mother, self-defense, etc."/>
+            <interp id="pioneer_in_male_field" value="twentieth-century innovations e.g. professions, politics, sports, aviation"/>
         </interpGrp>
         <interpGrp id="places">
             <interp id="continent" value="Continent"/>
@@ -134,20 +164,30 @@
             <interp id="island" value="Island"/>
             <interp id="state" value="State"/>
             <interp id="county" value="County"/>
-            <interp id="city" value="City"/>
+            <interp id="city" value="specific city; urban environment"/>
             <interp id="town" value="Town"/>
             <interp id="village" value="Village"/>
             <interp id="district" value="District"/>
             <interp id="neighborhood" value="Neighborhood"/>
             <interp id="street" value="Street"/>
             <interp id="estate" value="Estate"/>
+            <interp id="rural_setting" value="landscape, non-urban countryside"/>
+            <interp id="home" value="buildings and locations in which subject lives; idea of home"/>
+            
         </interpGrp>
-        <interpGrp id="politics">
-            <interp id="ruler" value="ruler"/>
+        <interpGrp id="history">
+            <interp id="era" value="general periods e.g. Renaissance"/>
+            <interp id="leader" value="sovereigns or others dominating country or group"/>
             <interp id="international_war" value="international war"/>
             <interp id="civil_war" value="civil war"/>
-            <interp id="religion" value="religion"/>
+            <interp id="religious_conflict" value="sectarian movements, persecution"/>
             <interp id="campaign" value="campaign"/>
+            <interp id="university" value="institutions of higher learning"/>
+            <interp id="government" value="Parliament, Congress, other arms of the state"/>
+            <interp id="church" value="Church of England, Methodist, other organized religions"/>
+        </interpGrp>
+        <interpGrp id="narrative">
+            
         </interpGrp>
         <body>
             <div1 id="SISTER_DORA">
@@ -251,18 +291,18 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label> Clergyman's daughter, Yorkshire <date>1832</date>
+                            <label ana="birth">Birth</label> Clergyman's daughter, Yorkshire <date>1832</date>
                         </item>
                         <item>
-                            <label>Vocation</label> Joined Christ Church Sisterhood, Coatham
+                            <label ana="vocation">Vocation</label> Joined Christ Church Sisterhood, Coatham
                                 <date>1864</date>
                         </item>
                         <item>
-                            <label>Crisis</label> As surgical nurse, Walsall, ran quarantine
+                            <label ana="ordeal">Ordeal</label> As surgical nurse, Walsall, ran quarantine
                             hospital in small-pox epidemic <date>1875</date>
                         </item>
                         <item>
-                            <label>Death</label>
+                            <label ana="death">Death</label>
                             <date>1878</date>
                         </item>
                     </list>
@@ -274,16 +314,17 @@
                         <title>The Life of Sister Dora</title>
                         <bibl>Based on ODNB, Mabie and Stephens (M+S), an adaptation of
                             Baring-Gould, drawn from Margaret Lonsdale's full-length biography,
-                            1880.Short bibliographic/origin statement</bibl>
+                            1880.</bibl>
                     </head>
 
-                    <p>DOROTHY WYNDLOW PATTISON was born at Hauxwell, near Richmond, Yorkshire,
-                        England, on January 16th, 1832, the eleventh of twelve children (the tenth
-                        daughter) of the Rev. Mark James Pattison (1788-1865) and Jane Winn
-                        (1793-1860), daughter of a banker and former mayor of Richmond. Rev.
+                    <p><name corresp="SISTER_DORA">DOROTHY WYNDLOW PATTISON</name> was born at <rs type="place"
+                        key="village">Hauxwell</rs>, near <rs type="place" key="town">Richmond</rs>, <rs type="place" key="county">Yorkshire</rs>,
+                        <rs type="place" key="country">England</rs>, on <date>January 16th, 1832</date>, the eleventh of twelve children (the tenth
+                        daughter) of the <name type="father">Rev. Mark James Pattison</name> <date>(1788-1865)</date> and <name type="mother"></name>Jane Winn
+                        <date>(1793-1860)</date>, daughter of a banker and former mayor of Richmond. Rev.
                         Pattison was strictly evangelical and mentally unstable; his wife was
                         induced to commit him to an asylum for almost a year in 1834-1835. The
-                        eldest son, Mark Pattison (1813-1884), became an Oxford don and for a time
+                        eldest son, <name type="brother">Mark Pattison</name> <date>(1813-1884)</date>, became an Oxford don and for a time
                         joined the high-church Oxford Movement. The father tried to cut off all
                         communication between the nine sisters at home and this supposed Papist
                         infection, though Mark fostered Dorothy's education and she was often his
