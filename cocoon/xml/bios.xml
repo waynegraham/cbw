@@ -160,7 +160,7 @@
             <interp id="kingdom" value="Kingdom"/>
             <interp id="country" value="Country"/>
             <interp id="region" value="Region"/>
-            <interp id="archipelago" value="Archipelago"/>
+            
             <interp id="island" value="Island"/>
             <interp id="state" value="State"/>
             <interp id="county" value="County"/>
@@ -173,7 +173,13 @@
             <interp id="estate" value="Estate"/>
             <interp id="rural_setting" value="landscape, non-urban countryside"/>
             <interp id="home" value="buildings and locations in which subject lives; idea of home"/>
-            
+            <interp id="domestic_space" value="houses, interiors of others"/>
+            <interp id="prison" value="prison"/>
+            <interp id="hospital" value="hospital"/>
+            <interp id="school" value="school"/>
+            <interp id="commercial_setting" value="factory, shop, place of trade"/>
+            <interp id="university" value="institutions of higher learning"/>
+            <interp id="shrine" value="church, graveyard, home or other memorial site"/>
         </interpGrp>
         <interpGrp id="history">
             <interp id="era" value="general periods e.g. Renaissance"/>
@@ -182,7 +188,7 @@
             <interp id="civil_war" value="civil war"/>
             <interp id="religious_conflict" value="sectarian movements, persecution"/>
             <interp id="campaign" value="campaign"/>
-            <interp id="university" value="institutions of higher learning"/>
+            
             <interp id="government" value="Parliament, Congress, other arms of the state"/>
             <interp id="church" value="Church of England, Methodist, other organized religions"/>
         </interpGrp>
@@ -492,7 +498,8 @@
                         cancer, continuing to work as long as she could and planning the
                         construction and move into a new hospital that was begun in 1877. Here, a
                         passage in Baring-Gould and Mabie and Stephen offers a portrait of the
-                        heroine's motives: <quote>She could not endure pity. She, to whom everybody
+                        heroine's motives: 
+                        <quote>She could not endure pity. She, to whom everybody
                             had learnt instinctively to turn for help and consolation, on whom
                             others leant for support, must she now come down to ask of them sympathy
                             and comfort? The pride of life was still surging up in her, that pride
