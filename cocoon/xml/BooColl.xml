@@ -3130,6 +3130,14 @@
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title>30.</xref>
+      <image n="no425">
+       <imgName>Lady Jane Grey</imgName>
+       <imgDesc>Lady Jane Grey</imgDesc>
+      </image>
+      <image n="no426">
+       <imgName>Lady Rachel Russell</imgName>
+       <imgDesc>Lady Rachel Russell</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes"> “What is now comprised in the 1st vol. was compiled
        by Dr. Gibbons, and published in <date>1777</date>, in two vol., and republished in
         <date>1804,</date> with some . . . omissions. The 2nd vol. . . . was compiled by the Rev.
@@ -3570,6 +3578,12 @@
         <item>Helen Maria Williams</item>
        </list>
       </note>
+      <image n="no421">
+       <imgName>Hannah More</imgName>
+      </image>
+      <image n="no420">
+       <imgName>Lady Jane Grey</imgName>
+      </image>
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 30.</xref>
@@ -3826,6 +3840,12 @@
         <item n="JOAN_OF_ARC">Joan of Arc. *Pop Chart</item>
        </list>
       </note>
+      <image n="no397">
+       <imgName>Madame Roland. Painter Unknown.</imgName>
+      </image>
+      <image n="no398">
+       <imgName>Queen Victoria</imgName>
+      </image>
      </bibl>
      <bibl id="a002" default="NO">
       <ref targOrder="U">2.</ref>
@@ -5614,6 +5634,14 @@
         <item>Miss Hannah Adams</item>
        </list>
       </note>
+      <image n="no422">
+       <imgName>Lady Rachel Russell</imgName>
+       <imgDesc>Lady Rachel Russell</imgDesc>
+      </image>
+      <image n="no423">
+       <imgName>Lady Jane Grey</imgName>
+       <imgDesc>Lady Jane Grey</imgDesc>
+      </image>
      </bibl>
      <bibl id="a042" default="NO">
       <ref targOrder="U">42.</ref>
@@ -11999,6 +12027,10 @@
         <item>Princess Louisa. *Pop Chart</item>
        </list>
       </note>
+      <image n="no403">
+       <imgName>Jenny Lind</imgName>
+       <imgDesc>Sotherland. Jenny Lind. Miss March.</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes"> Flint, <title>
         <hi rend="italics">Woman Reader</hi>
        </title>: companion to <title>
@@ -13895,6 +13927,32 @@
         <item n="QUEEN_VICTORIA">Queen Victoria</item>
        </list>
       </note>
+      <image n="no427">
+       <imgName>Lady Jane Grey</imgName>
+       <imgDesc>Lady Grey</imgDesc>
+      </image>
+      <image n="no428">
+       <imgName>Queen Elizabeth I</imgName>
+       <imgDesc>Queen Elizabeth in Youth.</imgDesc>
+      </image>
+      <image n="no429">
+       <imgName>Queen Elizabeth I</imgName>
+       <imgDesc>Queen Elizabeth</imgDesc>
+      </image>
+      <image n="no430">
+       <imgName>Queen Elizabeth I</imgName>
+       <imgDesc>Last Moments of Queen Elizabeth.</imgDesc>
+      </image>
+      <image n="no431">
+       <imgName>Queen Elizabeth I</imgName>
+       <imgDesc>Queen Elizabeth. Painting by Frd. Zucchero, "so-called Ermine portrait." In
+        possession of the Marquis of Salisbury, Hatfield House.</imgDesc>
+      </image>
+      <image n="no432">
+       <imgName>Lady Jane Grey</imgName>
+       <imgDesc>Lady Jane Grey. Painting by L. De Heere, National Portrait Gallery,
+        London.</imgDesc>
+      </image>
      </bibl>
      <bibl id="a277" default="NO"><ref targOrder="U">277.</ref>
       <idno>a277</idno>
@@ -15643,6 +15701,12 @@
       <image n="no93">
        <imgName>Eugenie</imgName>
       </image>
+      <image n="no416">
+       <imgName>Pocahontas</imgName>
+      </image>
+      <image n="no417">
+       <imgName>Victoria</imgName>
+      </image>
      </bibl>
      <bibl id="a332" default="NO"><ref targOrder="U">332.</ref>
       <idno>a332</idno>
@@ -15966,6 +16030,10 @@
         <item>Catherine Tait. *Pop Chart</item>
        </list>
       </note>
+      <image n="no419">
+       <imgName>Mary Somerville</imgName>
+       <imgDesc>Mary Somerville</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes"> Epigraph: “Be good, sweet maid, and let who will be
        clever. . .” (Kingsley). </note>
      </bibl>
@@ -21969,6 +22037,14 @@
         <item>Mary, First Queen Regant</item>
        </list>
       </note>
+      <image n="no433">
+       <imgName>Lady Jane Grey</imgName>
+       <imgDesc>Lady Jane Grey</imgDesc>
+      </image>
+      <image n="no434">
+       <imgName>Queen Elizabeth I</imgName>
+       <imgDesc>Queen Elizabeth</imgDesc>
+      </image>
      </bibl>
      <bibl id="a496" default="NO"><ref targOrder="U">496.</ref>
       <idno>a496</idno>
@@ -23650,6 +23726,11 @@
         <item>Adah Isaacs Menken. *Pop Chart</item>
        </list>
       </note>
+      <image n="no410">
+       <imgName>Jenny Lind</imgName>
+       <imgDesc>From the picture by Eduard Magnus in the National Gallery, Berlin.
+        Berlin Photographic Co.</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes"> Mayne: a translator from German; biographer of
        Byron. </note>
      </bibl>
@@ -27008,6 +27089,18 @@
         <item n="QUEEN_VICTORIA">Queen Victoria. *Pop Chart</item>
        </list>
       </note>
+      <image n="no413">
+       <imgName>Queen Victoria</imgName>
+       <imgDesc>From the painting by W. C. Ross, A.R.A. Photo. by Emery Walker.</imgDesc>
+      </image>
+      <image n="no411">
+       <imgName>Jenny Lind</imgName>
+       <imgDesc>From the engraving by T. B. Welch.</imgDesc>
+      </image>
+      <image n="no412">
+       <imgName>Sister Dora</imgName>
+       <imgDesc>From the statue erected to her memory.</imgDesc>
+      </image>
      </bibl>
      <bibl id="a665" default="NO">
       <ref targOrder="U">665.</ref>
@@ -29309,6 +29402,10 @@
         <item n="FRANCES_COBBE">Frances Power Cobbe</item>
         <item n="SISTER_DORA">Sister Dora</item>
        </list> *Pop Chart </note>
+      <image n="no418">
+       <imgName>Queen Victoria</imgName>
+       <imgDesc>Queen Victoria</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes"> British Library. 32-pp. pamphlet: “first of a
        series.” “The ‘New Woman,’ so-called, is not the exclusive production of this latter end of
        the nineteenth century, but has flourished wherever women have had the courage to shape their
@@ -30410,6 +30507,10 @@
         <item>Anna Dickinson: the Girl Orator</item>
        </list>
       </note>
+      <image n="no424">
+       <imgName>Pocahontas</imgName>
+       <imgDesc>Pocahontas Saves Captain John Smith</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes"> Author of <title>
         <hi rend="italics">Ten Boys From History</hi>
        </title> (<date>1910</date>), <title>
@@ -30453,6 +30554,13 @@
         <item>Adrienne de Lafayette. *Pop Chart</item>
        </list>
       </note>
+      <image n="no414">
+       <imgName>Joan of Arc</imgName>
+       <imgDesc>Joan of Arc</imgDesc>
+      </image><image n="no415">
+       <imgName>Lady Jane Grey</imgName>
+       <imgDesc>Lady Jane Grey</imgDesc>
+      </image>
      </bibl>
      <bibl id="a774" default="NO">
       <ref targOrder="U">774.</ref>
@@ -36237,7 +36345,7 @@
        <publisher>Metrobooks,</publisher>
        <date>1998.</date>
       </imprint>
-      </bibl>
+     </bibl>
      <bibl id="p037B" default="NO">
       <idno>p037B</idno>
       <author><name type="last">Gies</name>, <name type="first">Frances</name>, and <name
@@ -36344,7 +36452,8 @@
        <date>1976,</date>
        <date>1999.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">Originally published: Millbrae, CA: Les Femmes, 1976. </note>
+      <note place="unspecified" anchored="yes">Originally published: Millbrae, CA: Les Femmes, 1976.
+      </note>
      </bibl>
      <bibl id="p038A" default="NO">
       <idno>p038A</idno>
@@ -37344,11 +37453,11 @@
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
-      
+
        <publisher>MJF,</publisher>
        <date>1995.</date>
-       
-      </imprint> 
+
+      </imprint>
       <note place="unspecified" anchored="yes"> </note>
      </bibl>
      <bibl id="p069" default="NO">
@@ -40218,7 +40327,7 @@
        <publisher>[L. Van Hek &amp; J. Dolce,</publisher>
        <date>1998.</date>
       </imprint>
-      </bibl>
+     </bibl>
      <bibl id="p141C" default="NO">
       <idno>p141C</idno>
       <author><name type="last">Vare</name>, <name type="first">Ethlie Ann</name>, and <name
@@ -40525,11 +40634,10 @@
      </bibl>
      <bibl id="p145" default="NO">
       <idno>p145</idno>
-      <author><name type="last"></name> <name type="first"></name>.</author>
+      <author><name type="last"/>
+       <name type="first"/>.</author>
       <title type="ref">
-       <hi rend="italics">Women of Courage
-       </hi>.
-      </title>
+       <hi rend="italics">Women of Courage </hi>. </title>
       <imprint>
        <pubPlace>Manila:</pubPlace>
        <publisher>Gabriela,</publisher>

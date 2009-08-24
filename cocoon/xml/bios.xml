@@ -116,51 +116,61 @@
             <interp id="birth" value="birth"/>
             <interp id="family" value="information on ancestry or immediate relatives"/>
             <interp id="childhood" value="childhood circumstances, habits, or experience"/>
-            <interp id= "talent" value="anecdotes or remarks on promise or achievement"/>
+            <interp id="talent" value="anecdotes or remarks on promise or achievement"/>
             <interp id="education" value="formal and informal education"/>
             <interp id="marriage" value="event and relationship"/>
             <interp id="appearance" value="appearance"/>
             <interp id="vocation" value="calling, choice of work, employment"/>
-            <interp id="religion" value="practices, family training, conversion, mission or teaching others"/>
+            <interp id="religion"
+                value="practices, family training, conversion, mission or teaching others"/>
             <interp id="ordeal" value="defining episode including hardship or test"/>
-            <interp id="recognition" value="living or posthumous acknowledgment or tributes in person, media, events"/>
+            <interp id="recognition"
+                value="living or posthumous acknowledgment or tributes in person, media, events"/>
             <interp id="death" value="death"/>
             <interp id="memorial" value="funeral, monument, plaque"/>
         </interpGrp>
         <interpGrp id="subject_type">
-            <interp id="philanthropist" value="work with institutions or 
+            <interp id="philanthropist"
+                value="work with institutions or 
             disadvantaged groups: prisons, military, schools, labor, children, prostitutes, etc.  "/>
             <interp id="reformer" value="campaigns to change laws or institutions"/>
             <interp id="missionary" value="active in recruiting converts, foreign or domestic"/>
             <interp id="royalty" value="queen, princess"/>
             <interp id="aristocrat" value="woman of noble or titled rank"/>
-            <interp id="heroine_of_war" value="woman famed for combat, spying, rescue or deeds in support of male allies"/>
-            <interp id="heroine_of_religion" value="saint, martyr, prophet or visionary, leader of sectarian movement or church institution"/>
+            <interp id="heroine_of_war"
+                value="woman famed for combat, spying, rescue or deeds in support of male allies"/>
+            <interp id="heroine_of_religion"
+                value="saint, martyr, prophet or visionary, leader of sectarian movement or church institution"/>
             <interp id="medical" value="nurse, doctor, hospital worker"/>
             <interp id="traveler" value="explorer, travel writer"/>
             <interp id="rescuer" value="of condemned prisoner, shipwrecked, fugitive"/>
             <interp id="scientist" value="mathematics and all natural sciences"/>
             <interp id="learned_woman" value="humanities such as classics, philosophy, history"/>
-            <interp id="writer" value="woman of letters known for drama, poetry, fiction, sermons, hymns, travels, essays, etc."/>
+            <interp id="writer"
+                value="woman of letters known for drama, poetry, fiction, sermons, hymns, travels, essays, etc."/>
             <interp id="artist" value="visual arts such as painting and sculpture"/>
             <interp id="performer" value="performing arts such as drama, dance, lectures, recitals"/>
             <interp id="classical" value="renowned women of Greek and Roman antiquity"/>
             <interp id="biblical" value="heroine of bible and apocrypha"/>
-            <interp id="wife" value="woman whose renown primarily is relation to president, prime minister, eminent man (excl. queens"/>
+            <interp id="wife"
+                value="woman whose renown primarily is relation to president, prime minister, eminent man (excl. queens"/>
             <interp id="mother" value="woman whose renown primarily is relation to great offspring"/>
-            <interp id="lover" value="woman whose renown primarily is amorous relation to eminent man; muse, temptation"/>
+            <interp id="lover"
+                value="woman whose renown primarily is amorous relation to eminent man; muse, temptation"/>
             <interp id="beauty_or_society" value="respected, unpaid celebrity"/>
             <interp id="mistress" value="high-status sexual entrepreneur"/>
             <interp id="notorious_woman" value="low-status sexual entrepreneur (of any class)"/>
-            <interp id="murderess" value="assassin, vengeful wife, monstrous mother, self-defense, etc."/>
-            <interp id="pioneer_in_male_field" value="twentieth-century innovations e.g. professions, politics, sports, aviation"/>
+            <interp id="murderess"
+                value="assassin, vengeful wife, monstrous mother, self-defense, etc."/>
+            <interp id="pioneer_in_male_field"
+                value="twentieth-century innovations e.g. professions, politics, sports, aviation"/>
         </interpGrp>
         <interpGrp id="places">
             <interp id="continent" value="Continent"/>
             <interp id="kingdom" value="Kingdom"/>
             <interp id="country" value="Country"/>
             <interp id="region" value="Region"/>
-            
+
             <interp id="island" value="Island"/>
             <interp id="state" value="State"/>
             <interp id="county" value="County"/>
@@ -188,13 +198,11 @@
             <interp id="civil_war" value="civil war"/>
             <interp id="religious_conflict" value="sectarian movements, persecution"/>
             <interp id="campaign" value="campaign"/>
-            
+
             <interp id="government" value="Parliament, Congress, other arms of the state"/>
             <interp id="church" value="Church of England, Methodist, other organized religions"/>
         </interpGrp>
-        <interpGrp id="narrative">
-            
-        </interpGrp>
+        <interpGrp id="narrative"> </interpGrp>
         <body>
             <div1 id="SISTER_DORA">
                 <head>
@@ -241,6 +249,10 @@
                             <label>Sister Dora</label>
                             <figure n="no260"/>
                         </item>
+                        <item>
+                            <label>Sister Dora. From the statue erected to her memory.</label>
+                            <figure n="no412"/>
+                        </item>
                     </list>
                 </div2>
                 <div2 type="links">
@@ -250,25 +262,42 @@
                                         Biography</hi>.</title> 6th ed. Boston: Roberts Brothers,
                                 1880.</label>
                             <p>Margaret Lonsdale's seminal biography about the life and work of
-                                Sister Dora. The first ("Copyright") edition, vol. 1911 in Collection of
-                                British Authors, Leipzig: Tauchnitz, 1880 (with "The right of translation is reserved," this was a standard
-                                imprint to establish copyright), has the epigraph from Spenser and the frontispiece portrait
-                                of Sister Dora that is adapted in many illustrations; it is essentially the photograph credited to Mrs. Williams, Wolverhampton, in our "carousel" above.  Unlike later editions, the first edition presents this frontispiece above a printed script "signature" of the subject and at the bottom
-                                of the page an illegible (apparently holograph) identification of the image.  Lonsdale in the preface (in later editions, "Preface
-                                to the First Edition") faults this portrait: "Mr. Jeens was seriously
-                                ill when he undertook it," so it lacks the "spirit" of the living original and the photograph (Little, Brown, 1880: iii-iv). This preface also
-                                explains that Lonsdale has preferred to avoid the "many stories...possessing an element of the marvellous, nay, of the supernatural, which would have 
-                                made her biography sensational, as well as more interesting....I never heard one of these stories from her own lips"; they arose from "the veneration...by the ignorant
-                                and the superstitious, as well as by the credulous among the educated" (iv-v).</p>
-                                <p>"Preface to the Fourth Edition," dated January 31, 1880, notes deletions of letters (included in second
-                                and third editions) concerning Sister Dora's deathbed conversion: she in fact "never became a member of the Roman Catholic Church" (268).
-                                Lonsdale has also removed mention of autopsy (vii-viii).  She alludes to an outcry against her in Walsall, and insists that Sister Dora wanted her 
-                                own life to be written; in final "justification," Lonsdale adds that this life is "public property," not the exclusive treasure of Walsall (viii-ix).
-                                With these alterations, the American editions are "From the Sixth English Edition," and those in 1880-1881 through 1914 (32nd ed.) appear 
-                                to use identical plates, though pagination varies depending on whether it begins with front matter or chapter one.  London: Kegan Paul,
-                                1881 omits the preface to the fourth edition.</p>
-                                <p>Links
-                                through Google Books and Internet Archive.  </p>
+                                Sister Dora. The first ("Copyright") edition, vol. 1911 in
+                                Collection of British Authors, Leipzig: Tauchnitz, 1880 (with "The
+                                right of translation is reserved," this was a standard imprint to
+                                establish copyright), has the epigraph from Spenser and the
+                                frontispiece portrait of Sister Dora that is adapted in many
+                                illustrations; it is essentially the photograph credited to Mrs.
+                                Williams, Wolverhampton, in our "carousel" above. Unlike later
+                                editions, the first edition presents this frontispiece above a
+                                printed script "signature" of the subject and at the bottom of the
+                                page an illegible (apparently holograph) identification of the
+                                image. Lonsdale in the preface (in later editions, "Preface to the
+                                First Edition") faults this portrait: "Mr. Jeens was seriously ill
+                                when he undertook it," so it lacks the "spirit" of the living
+                                original and the photograph (Little, Brown, 1880: iii-iv). This
+                                preface also explains that Lonsdale has preferred to avoid the "many
+                                stories...possessing an element of the marvellous, nay, of the
+                                supernatural, which would have made her biography sensational, as
+                                well as more interesting....I never heard one of these stories from
+                                her own lips"; they arose from "the veneration...by the ignorant and
+                                the superstitious, as well as by the credulous among the educated"
+                                (iv-v).</p>
+                            <p>"Preface to the Fourth Edition," dated January 31, 1880, notes
+                                deletions of letters (included in second and third editions)
+                                concerning Sister Dora's deathbed conversion: she in fact "never
+                                became a member of the Roman Catholic Church" (268). Lonsdale has
+                                also removed mention of autopsy (vii-viii). She alludes to an outcry
+                                against her in Walsall, and insists that Sister Dora wanted her own
+                                life to be written; in final "justification," Lonsdale adds that
+                                this life is "public property," not the exclusive treasure of
+                                Walsall (viii-ix). With these alterations, the American editions are
+                                "From the Sixth English Edition," and those in 1880-1881 through
+                                1914 (32nd ed.) appear to use identical plates, though pagination
+                                varies depending on whether it begins with front matter or chapter
+                                one. London: Kegan Paul, 1881 omits the preface to the fourth
+                                edition.</p>
+                            <p>Links through Google Books and Internet Archive. </p>
                             <address><addrLine>http://books.google.com/books?id=cDcMAAAAYAAJ&amp;printsec=titlepage&amp;source=gbs_navlinks_s</addrLine></address>
                             <address><addrLine>http://www.archive.org/stream/sisterdoraabiog01lonsgoog#page/n8/mode/1up</addrLine></address>
                         </item>
@@ -297,15 +326,16 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label ana="birth">Birth</label> Clergyman's daughter, Yorkshire <date>1832</date>
+                            <label ana="birth">Birth</label> Clergyman's daughter, Yorkshire
+                                <date>1832</date>
                         </item>
                         <item>
-                            <label ana="vocation">Vocation</label> Joined Christ Church Sisterhood, Coatham
-                                <date>1864</date>
+                            <label ana="vocation">Vocation</label> Joined Christ Church Sisterhood,
+                            Coatham <date>1864</date>
                         </item>
                         <item>
-                            <label ana="ordeal">Ordeal</label> As surgical nurse, Walsall, ran quarantine
-                            hospital in small-pox epidemic <date>1875</date>
+                            <label ana="ordeal">Ordeal</label> As surgical nurse, Walsall, ran
+                            quarantine hospital in small-pox epidemic <date>1875</date>
                         </item>
                         <item>
                             <label ana="death">Death</label>
@@ -323,24 +353,28 @@
                             1880.</bibl>
                     </head>
 
-                    <p><name corresp="SISTER_DORA">DOROTHY WYNDLOW PATTISON</name> was born at <rs type="place"
-                        key="village">Hauxwell</rs>, near <rs type="place" key="town">Richmond</rs>, <rs type="place" key="county">Yorkshire</rs>,
-                        <rs type="place" key="country">England</rs>, on <date>January 16th, 1832</date>, the eleventh of twelve children (the tenth
-                        daughter) of the <name type="father">Rev. Mark James Pattison</name> <date>(1788-1865)</date> and <name type="mother"></name>Jane Winn
-                        <date>(1793-1860)</date>, daughter of a banker and former mayor of Richmond. Rev.
-                        Pattison was strictly evangelical and mentally unstable; his wife was
-                        induced to commit him to an asylum for almost a year in 1834-1835. The
-                        eldest son, <name type="brother">Mark Pattison</name> <date>(1813-1884)</date>, became an Oxford don and for a time
-                        joined the high-church Oxford Movement. The father tried to cut off all
-                        communication between the nine sisters at home and this supposed Papist
-                        infection, though Mark fostered Dorothy's education and she was often his
-                        companion on holidays and visits. Many biographies depict a happy childhood
-                        for the somewhat frail but beautiful child, said to be called her father's
-                        "Little Sunshine." Dorothy is said to have "inherited from her father, who
-                        was of a Devonshire family, that finely proportioned and graceful figure...
-                        and from her mother...those lovely features which drew forth the admiration
-                        of everyone who had the pleasure of knowing her" (M + S, 241). The sisters
-                        were occupied in caring for their ailing mother, works of charity among the
+                    <p><name corresp="SISTER_DORA">DOROTHY WYNDLOW PATTISON</name> was born at <rs
+                            type="place" key="village">Hauxwell</rs>, near <rs type="place"
+                            key="town">Richmond</rs>, <rs type="place" key="county">Yorkshire</rs>,
+                            <rs type="place" key="country">England</rs>, on <date>January 16th,
+                            1832</date>, the eleventh of twelve children (the tenth daughter) of the
+                            <name type="father">Rev. Mark James Pattison</name>
+                        <date>(1788-1865)</date> and <name type="mother"/>Jane Winn
+                            <date>(1793-1860)</date>, daughter of a banker and former mayor of
+                        Richmond. Rev. Pattison was strictly evangelical and mentally unstable; his
+                        wife was induced to commit him to an asylum for almost a year in 1834-1835.
+                        The eldest son, <name type="brother">Mark Pattison</name>
+                        <date>(1813-1884)</date>, became an Oxford don and for a time joined the
+                        high-church Oxford Movement. The father tried to cut off all communication
+                        between the nine sisters at home and this supposed Papist infection, though
+                        Mark fostered Dorothy's education and she was often his companion on
+                        holidays and visits. Many biographies depict a happy childhood for the
+                        somewhat frail but beautiful child, said to be called her father's "Little
+                        Sunshine." Dorothy is said to have "inherited from her father, who was of a
+                        Devonshire family, that finely proportioned and graceful figure... and from
+                        her mother...those lovely features which drew forth the admiration of
+                        everyone who had the pleasure of knowing her" (M + S, 241). The sisters were
+                        occupied in caring for their ailing mother, works of charity among the
                         villagers, and outdoor exercise, including Dorothy's great pleasure, riding
                         to hounds. Yet the father gave formal education to his two sons only,
                         resisted all suitors and disowned the daughters who married, and tried in
@@ -498,8 +532,7 @@
                         cancer, continuing to work as long as she could and planning the
                         construction and move into a new hospital that was begun in 1877. Here, a
                         passage in Baring-Gould and Mabie and Stephen offers a portrait of the
-                        heroine's motives: 
-                        <quote>She could not endure pity. She, to whom everybody
+                        heroine's motives: <quote>She could not endure pity. She, to whom everybody
                             had learnt instinctively to turn for help and consolation, on whom
                             others leant for support, must she now come down to ask of them sympathy
                             and comfort? The pride of life was still surging up in her, that pride
@@ -602,6 +635,23 @@
                         <item>
                             <label>Queen Victoria</label>
                             <figure n="no408"/>
+                        </item>
+                        <item>
+                            <label>Victoria</label>
+                            <figure n="no417"/>
+                        </item>
+                        <item>
+                            <label>Queen Victoria</label>
+                            <figure n="no398"/>
+                        </item>
+                        <item>
+                            <label>Queen Victoria. From the painting by W. C. Ross, A.R.A. Photo. by Emery
+                                Walker.</label>
+                            <figure n="no413"/>
+                        </item>
+                        <item>
+                            <label>Queen Victoria</label>
+                            <figure n="no418"/>
                         </item>
                     </list>
                 </div2>
@@ -759,6 +809,10 @@
                         <item>
                             <label>Joan of Arc</label>
                             <figure n="no404"/>
+                        </item>
+                        <item>
+                            <label>Joan of Arc</label>
+                            <figure n="no414"/>
                         </item>
                     </list>
                 </div2>
@@ -1989,6 +2043,10 @@
                             <label>Mary Somerville</label>
                             <figure n="no400"/>
                         </item>
+                        <item>
+                            <label>Mary Somerville</label>
+                            <figure n="no419"/>
+                        </item>
                     </list>
                 </div2>
                 <div2 type="links">
@@ -2037,10 +2095,12 @@
                                     <hi rend="italics">Oxford Dictionary of National Biography.</hi>
                                 </title> Ed. H. C. G. Matthew and Brian Harrison. Oxford: OUP, 2004.
                                 Online ed. Ed. Lawrence Goldman. May 2009.</label>
-                            <p><title><hi rend="italics">Oxford Dictionary of National Biography</hi></title> entry on mathematician and
-                                scientist Mary Somerville written by Mary Creese. This comprehensive
-                                biographical record includes a list of other sources and archive
-                                materials related to Mary Somerville.</p>
+                            <p><title>
+                                    <hi rend="italics">Oxford Dictionary of National Biography</hi>
+                                </title> entry on mathematician and scientist Mary Somerville
+                                written by Mary Creese. This comprehensive biographical record
+                                includes a list of other sources and archive materials related to
+                                Mary Somerville.</p>
                             <address><addrLine>http://www.oxforddnb.com/view/article/26024</addrLine></address>
                         </item>
 
@@ -2479,10 +2539,11 @@
                                         rend="italics">Oxford Dictionary of National
                                     Biography</hi>.</title> Ed. H. C. G. Matthew and Brian Harrison.
                                 Oxford: OUP, 2004. Online ed. Ed. Lawrence Goldman. May 2007. </label>
-                            <p><title><hi rend="italics">Oxford Dictionary of National Biography</hi></title> entry on poet Adelaide
-                                Procter written by Gill Gregory. Includes a concise biography as
-                                well as a list of other sources and archive materials related to
-                                Adelaide Procter.</p>
+                            <p><title>
+                                    <hi rend="italics">Oxford Dictionary of National Biography</hi>
+                                </title> entry on poet Adelaide Procter written by Gill Gregory.
+                                Includes a concise biography as well as a list of other sources and
+                                archive materials related to Adelaide Procter.</p>
                             <address><addrLine>http://www.oxforddnb.com/view/article/22834</addrLine></address>
                         </item>
                         <item>
@@ -2865,11 +2926,12 @@
                                         <title><hi rend="italics">Oxford Dictionary of National
                                         Biography</hi>.</title> Ed. H. C. G. Matthew and Brian
                                 Harrison. Oxford: OUP, 2004. </label>
-                            <p>H. C. G. Matthew's <title><hi rend="italics">Oxford Dictionary of National Biography</hi></title> entry on
-                                heroine Grace Darling, famed for her part in the rescue of
-                                passengers from the wrecked steamship, "Forfarshire." This concise
-                                biographical record includes a list of other sources and archive
-                                materials related to Grace Darling.</p>
+                            <p>H. C. G. Matthew's <title>
+                                    <hi rend="italics">Oxford Dictionary of National Biography</hi>
+                                </title> entry on heroine Grace Darling, famed for her part in the
+                                rescue of passengers from the wrecked steamship, "Forfarshire." This
+                                concise biographical record includes a list of other sources and
+                                archive materials related to Grace Darling.</p>
                             <address><addrLine>http://www.oxforddnb.com/view/article/7155</addrLine></address>
                         </item>
                         <item>
@@ -3727,6 +3789,35 @@
                             <label>Lady Jane Grey</label>
                             <figure n="no405"/>
                         </item>
+                        <item>
+                            <label>Lady Jane Grey</label>
+                            <figure n="no415"/>
+                        </item>
+                        <item>
+                            <label>Lady Jane Grey</label>
+                            <figure n="no420"/>
+                        </item>
+                        <item>
+                            <label>Lady Jane Grey</label>
+                            <figure n="no423"/>
+                        </item>
+                        <item>
+                            <label>Lady Jane Grey</label>
+                            <figure n="no425"/>
+                        </item>
+                        <item>
+                            <label>Lady Grey</label>
+                            <figure n="no427"/>
+                        </item>
+                        <item>
+                            <label>Lady Jane Grey. Painting by L. De Heere, National Portrait
+                                Gallery, London.</label>
+                            <figure n="no432"/>
+                        </item>
+                        <item>
+                            <label>Lady Jane Grey</label>
+                            <figure n="no433"/>
+                        </item>
                     </list>
                 </div2>
                 <div2 type="links">
@@ -3894,6 +3985,10 @@
                             <label>Hannah More</label>
                             <figure n="no389"/>
                         </item>
+                        <item>
+                            <label>Hannah More</label>
+                            <figure n="no421"/>
+                        </item>
                     </list>
                 </div2>
                 <div2 type="links">
@@ -4007,6 +4102,14 @@
                         <item>
                             <label>Lady Rachel Russell</label>
                             <figure n="no378"/>
+                        </item>
+                        <item>
+                            <label>Lady Rachel Russell</label>
+                            <figure n="no422"/>
+                        </item>
+                        <item>
+                            <label>Lady Rachel Russell</label>
+                            <figure n="no426"/>
                         </item>
                     </list>
                 </div2>
@@ -4235,6 +4338,28 @@
                             <label>Queen Elizabeth I</label>
                             <figure n="no390"/>
                         </item>
+                        <item>
+                            <label>Queen Elizabeth in Youth.</label>
+                            <figure n="no428"/>
+                        </item>
+                        <item>
+                            <label>Queen Elizabeth</label>
+                            <figure n="no429"/>
+                        </item>
+                        <item>
+                            <label>Last Moments of Queen Elizabeth.</label>
+                            <figure n="no430"/>
+                        </item>
+                        <item>
+                            <label>Queen Elizabeth. Painting by Frd. Zucchero, "so-called Ermine
+                                portrait." In possession of the Marquis of Salisbury, Hatfield
+                                House.</label>
+                            <figure n="no431"/>
+                        </item>
+                        <item>
+                            <label>Queen Elizabeth</label>
+                            <figure n="no434"/>
+                        </item>
                     </list>
                 </div2>
                 <div2 type="links">
@@ -4363,6 +4488,10 @@
                             <label>Madame Roland</label>
                             <figure n="no395"/>
                         </item>
+                        <item>
+                            <label>Madame Roland. Painter Unknown.</label>
+                            <figure n="no397"/>
+                        </item>
                     </list>
                 </div2>
                 <div2 type="links">
@@ -4465,6 +4594,14 @@
                         <item>
                             <label>Pocahontas</label>
                             <figure n="no406"/>
+                        </item>
+                        <item>
+                            <label>Pocahontas</label>
+                            <figure n="no416"/>
+                        </item>
+                        <item>
+                            <label>Pocahontas Saves Captain John Smith</label>
+                            <figure n="no424"/>
                         </item>
                     </list>
                 </div2>
@@ -4852,6 +4989,19 @@
                         <item>
                             <label>Jenny Lind</label>
                             <figure n="no409"/>
+                        </item>
+                        <item>
+                            <label>Jenny Lind. From the engraving by T. B. Welch.</label>
+                            <figure n="no411"/>
+                        </item>
+                        <item>
+                            <label>Jenny Lind. From the picture by Eduard Magnus in the National Gallery, Berlin.
+                                Berlin Photographic Co.</label>
+                            <figure n="no403"/>
+                        </item>
+                        <item>
+                            <label>Sotherland. Jenny Lind. Miss March.</label>
+                            <figure n="no410"/>
                         </item>
                     </list>
                 </div2>
