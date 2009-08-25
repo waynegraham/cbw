@@ -5870,13 +5870,21 @@
        <list>
         <item n="MARY_SOMERVILLE">Mrs. Mary Somerville</item>
         <item>Charlotte Elliott</item>
-        <item>Caroline Hershel</item>
+        <item n="CAROLINE_HERSCHEL">Caroline Hershel</item>
         <item>Elizabeth Smith</item>
         <item>Amelia Opie</item>
         <item>Sarah Martin and the Last Duchess of Gordon</item>
         <item>Jane and Anne Taylor (Mrs. Gilbert)</item>
        </list>
       </note>
+      <image n="no442">
+       <imgName>Mary Somerville</imgName>
+       <imgDesc>Mary Somerville's Childhood.</imgDesc>
+      </image>
+      <image n="no444">
+       <imgName>Caroline Herschel</imgName>
+       <imgDesc>Caroline Herschel. Study and Work.</imgDesc>
+      </image>
      </bibl>
      <bibl id="a052" default="NO"><ref targOrder="U">52.</ref>
       <idno>a052</idno>
@@ -6517,6 +6525,10 @@
         <item>Matilda Betham (Litterateur and Artist). *Pop Chart</item>
        </list>
       </note>
+      <image n="no443">
+       <imgName>Caroline Herschel</imgName>
+       <imgDesc>Caroline Herschel</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes"> In British Library under Edwards. </note>
      </bibl>
      <bibl id="a076" default="NO"><ref targOrder="U">76.</ref>
@@ -7282,6 +7294,10 @@
         <item>Jean Ingelow</item>
        </list>
       </note>
+      <image n="no449">
+       <imgName>Madame de Stael</imgName>
+       <imgDesc>Madame de Stael</imgDesc>
+      </image>
       <note type="toc">
        <list>
         <item>TOC 1925(?): Elizabeth Barrett Browning</item>
@@ -8030,6 +8046,10 @@
         <item>Madame de Rémusat</item>
        </list>
       </note>
+      <image n="no450">
+       <imgName>Madame Roland</imgName>
+       <imgDesc>Madame Roland. From a painting by Goupil.</imgDesc>
+      </image>
      </bibl>
      <bibl id="a118" default="NO">
       <ref targOrder="U">118.</ref>
@@ -12482,7 +12502,7 @@
       </image>
       <image n="no380">
        <imgName>Caroline Herschel</imgName>
-       <imgDesc>Caroline Herschel</imgDesc>
+       <imgDesc>Sir William Herschel's Astonomical Assistant.</imgDesc>
       </image>
      </bibl>
      <bibl id="a237" default="NO">
@@ -23728,8 +23748,8 @@
       </note>
       <image n="no410">
        <imgName>Jenny Lind</imgName>
-       <imgDesc>From the picture by Eduard Magnus in the National Gallery, Berlin.
-        Berlin Photographic Co.</imgDesc>
+       <imgDesc>From the picture by Eduard Magnus in the National Gallery, Berlin. Berlin
+        Photographic Co.</imgDesc>
       </image>
       <note place="unspecified" anchored="yes"> Mayne: a translator from German; biographer of
        Byron. </note>
@@ -31089,6 +31109,11 @@
        <publisher>Steinkopf,</publisher>
        <date>1847.</date>
       </imprint>
+      <image n="no440">
+       <imgName>Hannah More</imgName>
+       <imgDesc>Portrait of Hannah More. From a drawing by Miss Simmons. Painted by Miss Reynolds.
+        Engraved on steel by E. Scriven.</imgDesc>
+      </image>
      </bibl>
      <bibl id="a795" default="NO"><ref targOrder="U">795.</ref>
       <idno>a795</idno>
@@ -33555,6 +33580,10 @@
         <item>Mrs. Emily C. Judson</item>
        </list>
       </note>
+      <image n="no448">
+       <imgName>Ann Hasseltine Judson</imgName>
+       <imgDesc>Ann Hasseltine Judson</imgDesc>
+      </image>
      </bibl>
      <bibl id="a887" default="NO">
       <ref targOrder="U">887.</ref>
@@ -38126,7 +38155,7 @@
         <item>Frances Ridley Havergal</item>
        </list>
       </note>
-     </bibl>
+      </bibl>
      <bibl id="p085" default="NO">
       <idno>p085</idno>
       <author><name type="last">Miller</name>, <name type="first">Basil</name>.</author>
