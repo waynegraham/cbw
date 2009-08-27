@@ -645,8 +645,8 @@
                             <figure n="no398"/>
                         </item>
                         <item>
-                            <label>Queen Victoria. From the painting by W. C. Ross, A.R.A. Photo. by Emery
-                                Walker.</label>
+                            <label>Queen Victoria. From the painting by W. C. Ross, A.R.A. Photo. by
+                                Emery Walker.</label>
                             <figure n="no413"/>
                         </item>
                         <item>
@@ -1171,8 +1171,25 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Frances Trollope</label>
-                            <figure n="no00"/>
+                            <label>Frances Trollope. From a portrait painted by A. Hervieu. From
+                                Trollope, Frances Eleanor. <title><hi rend="italics">Frances
+                                        Trollope: Her Life and Literary Work from George III to
+                                        Victoria</hi>.</title> Vol. I &amp; II. London: R.
+                                Bently and Son, 1895.</label>
+                            <figure n="no435"/>
+                        </item>
+                        <item>
+                            <label>Frances Trollope. From Sadleir, Michael. <title><hi
+                                        rend="italics">Trollope</hi>.</title> Boston and New York:
+                                Houghton Mifflin, 1927.</label>
+                            <figure n="no437"/>
+                        </item>
+                        <item>
+                            <label>F Trollope. From Trollope, Frances Eleanor. <title><hi
+                                        rend="italics">Frances Trollope: Her Life and Literary Work
+                                        from George III to Victoria</hi>.</title> Vol. I &amp;
+                                II. London: R. Bently and Son, 1895.</label>
+                            <figure n="no436"/>
                         </item>
                     </list>
                 </div2>
@@ -1599,8 +1616,22 @@
                 <div2 type="images">
                     <list>
                         <item>
+                            <label>Frances Power Cobbe. From Cobbe, Frances Power, and Blanche
+                                Atkinson. <title><hi rend="italics">Life of Frances Power Cobbe as
+                                        Told by Herself</hi>.</title> London: S. Sonnenschein
+                                &amp; Co., 1904.</label>
+                            <figure n="no438"/>
+                        </item>
+                        <item>
                             <label>Frances Cobbe</label>
                             <figure n="no301"/>
+                        </item>
+                        <item>
+                            <label>Frances Power Cobbe. 1894. From Cobbe, Frances Power, and Blanche
+                                Atkinson. <title><hi rend="italics">Life of Frances Power Cobbe as
+                                        Told by Herself</hi>.</title> London: S. Sonnenschein
+                                &amp; Co., 1904.</label>
+                            <figure n="no439"/>
                         </item>
                     </list>
                 </div2>
@@ -2038,6 +2069,14 @@
                         <item>
                             <label>Mary Somerville's Childhood.</label>
                             <figure n="no442"/>
+                        </item>
+                        <item>
+                            <label>Bust of Mary Somerville. From Somerville, Martha. <title><hi
+                                        rend="italics">Personal Recollections, from Early Life to
+                                        Old Age, of Mary Somerville: With Selections from Her
+                                        Correspondence</hi>.</title> Boston: Roberts Brothers,
+                                1874.</label>
+                            <figure n="no441"/>
                         </item>
                         <item>
                             <label>Mary Somerville</label>
@@ -3312,10 +3351,6 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Elizabeth Fry. After a painting by C. R. Leslie, R. A.</label>
-                            <figure n="no251"/>
-                        </item>
-                        <item>
                             <label>Elizabeth Fry</label>
                             <figure n="no42"/>
                         </item>
@@ -3637,9 +3672,8 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Charlotte Bronte. From a drawing in chalks by George Richmond,
-                                R.A., 1850.</label>
-                            <figure n="no248"/>
+                            <label>Charlotte Bronte</label>
+                            <figure n="no401"/>
                         </item>
                         <item>
                             <label>Charlotte Bronte</label>
@@ -3650,8 +3684,9 @@
                             <figure n="no407"/>
                         </item>
                         <item>
-                            <label>Charlotte Bronte</label>
-                            <figure n="no401"/>
+                            <label>Charlotte Bronte. From a drawing in chalks by George Richmond,
+                                R.A., 1850.</label>
+                            <figure n="no248"/>
                         </item>
                     </list>
                 </div2>
@@ -3969,8 +4004,8 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Portrait of Hannah More. From a drawing by Miss Simmons. Painted by Miss Reynolds.
-                                Engraved on steel by E. Scriven.</label>
+                            <label>Portrait of Hannah More. From a drawing by Miss Simmons. Painted
+                                by Miss Reynolds. Engraved on steel by E. Scriven.</label>
                             <figure n="no440"/>
                         </item>
                         <item>
@@ -4489,37 +4524,95 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Madame Roland</label>
+                            <label>Madame Roland. From the painting by Heinsius at
+                                Versailles.</label>
                             <figure n="no155"/>
                         </item>
                         <item>
-                            <label>Madame Roland at the conciergerie. From a painting by Jules Goupil, now in the musuem of Amboise.</label>
+                            <label>Madame Roland at the conciergerie. From a painting by Jules
+                                Goupil, now in the musuem of Amboise.</label>
                             <figure n="no450"/>
                         </item>
                         <item>
-                            <label>Madame Roland. From the painting by Heinsius at
-                                Versailles.</label>
-                            <figure n="no256"/>
+                            <label>Madame Roland. From Abbott, John S. C. <title><hi rend="italics"
+                                        >History of Madame Roland, with Engravings</hi>.</title> New
+                                York: Harper &amp; Brothers, 1850.</label>
+                            <figure n="no451"/>
+                        </item>
+                        <item>
+                            <label>Madame Roland in prison. From Abbott, John S. C. <title><hi
+                                        rend="italics">History of Madame Roland, with
+                                        Engravings</hi>.</title> New York: Harper &amp;
+                                Brothers, 1850.</label>
+                            <figure n="no452"/>
+                        </item>
+                        <item>
+                            <label>Execution of Madame Roland. From Abbott, John S. C. <title><hi
+                                        rend="italics">History of Madame Roland, with
+                                        Engravings</hi>.</title> New York: Harper &amp;
+                                Brothers, 1850.</label>
+                            <figure n="no453"/>
                         </item>
                         <item>
                             <label>Madame Roland</label>
                             <figure n="no395"/>
                         </item>
                         <item>
-                            <label>Madame Roland. Painter Unknown.</label>
-                            <figure n="no397"/>
+                            <label>Madame Roland. From Roland, Marie-Jeanne. <title><hi
+                                        rend="italics">The Private Memoirs of Madame
+                                    Roland</hi>.</title> Ed. Edward Gilpin Johnson. Chicago: A.C.
+                                McClurg &amp; Co., 1901.</label>
+                            <figure n="no454"/>
                         </item>
                         <item>
-                            <label>Madame Roland</label>
+                            <label>Madame Roland on the way to the guillotine. From Roland,
+                                Marie-Jeanne. <title><hi rend="italics">The Private Memoirs of
+                                        Madame Roland</hi>.</title> Ed. Edward Gilpin Johnson.
+                                Chicago: A.C. McClurg &amp; Co., 1901.</label>
+                            <figure n="no455"/>
+                        </item>
+                        <item>
+                            <label>Madame Roland. After a crayon portrait owned by the family. From
+                                Tarbell, Ida M. <title><hi rend="italics">Madame Roland: A
+                                        Biographical Study</hi>.</title> New York: C. Scribner's
+                                Sons, 1896.</label>
+                            <figure n="no456"/>
+                        </item>
+                        <item>
+                            <label>Madame Roland. From a painting by an unknown artist in the Musee
+                                Carnavalet. From Tarbell, Ida M. <title><hi rend="italics">Madame
+                                        Roland: A Biographical Study</hi>.</title> New York: C.
+                                Scribner's Sons, 1896.</label>
+                            <figure n="no457"/>
+                        </item>
+                        <item>
+                            <label>Madame Roland at Sainte-Pelagie. From Taylor, Ida Ashworth.
+                                        <title><hi rend="italics">Life of Madame
+                                    Roland</hi>.</title> London: Hutchinson &amp; Co.,
+                                1911.</label>
+                            <figure n="no458"/>
+                        </item>
+                        <item>
+                            <label>Madame Roland. From an engraving by M. F. Dien. From Taylor, Ida
+                                Ashworth. <title><hi rend="italics">Life of Madame
+                                    Roland</hi>.</title> London: Hutchinson &amp; Co.,
+                                1911.</label>
                             <figure n="no459"/>
+                        </item>
+                        <item>
+                            <label>Madame Roland. From an engraving by Baudran. From Taylor, Ida
+                                Ashworth. <title><hi rend="italics">Life of Madame
+                                    Roland</hi>.</title> London: Hutchinson &amp; Co.,
+                                1911.</label>
+                            <figure n="no460"/>
                         </item>
                     </list>
                 </div2>
                 <div2 type="links">
                     <list>
                         <item>
-                            <label>Roland, Marie-Jeanne. <title><hi rend="italics">The private
-                                        memoirs of Madame Roland</hi>.</title> Ed. Edward Gilpin
+                            <label>Roland, Marie-Jeanne. <title><hi rend="italics">The Private
+                                        Memoirs of Madame Roland</hi>.</title> Ed. Edward Gilpin
                                 Johnson. Chicago: A.C. McClurg &amp; Co., 1901.</label>
                             <p>The memoir of Madame Roland, written by herself. Full-text edition
                                 includes an Introduction by the editor, Edward G. Johnson, as well
@@ -5028,8 +5121,8 @@
                             <figure n="no411"/>
                         </item>
                         <item>
-                            <label>Jenny Lind. From the picture by Eduard Magnus in the National Gallery, Berlin.
-                                Berlin Photographic Co.</label>
+                            <label>Jenny Lind. From the picture by Eduard Magnus in the National
+                                Gallery, Berlin. Berlin Photographic Co.</label>
                             <figure n="no403"/>
                         </item>
                         <item>
