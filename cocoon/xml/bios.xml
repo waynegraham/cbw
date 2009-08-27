@@ -4339,6 +4339,10 @@
                 <div2 type="images">
                     <list>
                         <item>
+                            <label>Queen Elizabeth</label>
+                            <figure n="no434"/>
+                        </item>
+                        <item>
                             <label>Queen Elizabeth by Edward Corbould, engraved by William
                                 Holl.</label>
                             <figure n="no01"/>
@@ -4368,10 +4372,6 @@
                                 portrait." In possession of the Marquis of Salisbury, Hatfield
                                 House.</label>
                             <figure n="no431"/>
-                        </item>
-                        <item>
-                            <label>Queen Elizabeth</label>
-                            <figure n="no434"/>
                         </item>
                     </list>
                 </div2>
@@ -4493,7 +4493,7 @@
                             <figure n="no155"/>
                         </item>
                         <item>
-                            <label>Madame Roland. From a painting by Goupil.</label>
+                            <label>Madame Roland at the conciergerie. From a painting by Jules Goupil, now in the musuem of Amboise.</label>
                             <figure n="no450"/>
                         </item>
                         <item>
@@ -4508,6 +4508,10 @@
                         <item>
                             <label>Madame Roland. Painter Unknown.</label>
                             <figure n="no397"/>
+                        </item>
+                        <item>
+                            <label>Madame Roland</label>
+                            <figure n="no459"/>
                         </item>
                     </list>
                 </div2>
