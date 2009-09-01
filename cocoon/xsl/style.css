@@ -563,7 +563,7 @@ dd {
 
 #intro .carousel img {
     margin: 0;
-    min-width: 75px;
+    width: 75px;
     }
 
 #intro .carousel li {
