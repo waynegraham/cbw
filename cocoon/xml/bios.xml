@@ -771,6 +771,20 @@
                             <figure n="no88"/>
                         </item>
                         <item>
+                            <label>Joan of Arc. By Charles Staal, engraved by G. H. Mote. From Mary
+                                Cowden Clarke, <title>
+                                    <hi rend="italics">World-Noted Women</hi>. </title></label>
+                            <figure n="no386"/>
+                        </item>
+                        <item>
+                            <label>Joan of Arc</label>
+                            <figure n="no404"/>
+                        </item>
+                        <item>
+                            <label>Joan of Arc</label>
+                            <figure n="no178"/>
+                        </item>
+                        <item>
                             <label>Jeanne in Church.</label>
                             <figure n="no324"/>
                         </item>
@@ -796,23 +810,15 @@
                         </item>
                         <item>
                             <label>Joan of Arc</label>
-                            <figure n="no144"/>
-                        </item>
-                        <item>
-                            <label>Joan of Arc</label>
-                            <figure n="no178"/>
-                        </item>
-                        <item>
-                            <label>Joan of Arc</label>
                             <figure n="no391"/>
                         </item>
                         <item>
                             <label>Joan of Arc</label>
-                            <figure n="no404"/>
+                            <figure n="no414"/>
                         </item>
                         <item>
                             <label>Joan of Arc</label>
-                            <figure n="no414"/>
+                            <figure n="no144"/>
                         </item>
                     </list>
                 </div2>
@@ -3395,17 +3401,21 @@
                             <figure n="no302"/>
                         </item>
                         <item>
-                            <label>"A passage was read from the Bible."</label>
-                            <figure n="no340"/>
+                            <label>Elizabeth Fry. After a painting by C. R. Leslie, R.A.</label>
+                            <figure n="no251"/>
                         </item>
                         <item>
-                            <label>Elizabeth Fry. Photo: Emery Walker.</label>
-                            <figure n="no312"/>
+                            <label>"A passage was read from the Bible."</label>
+                            <figure n="no340"/>
                         </item>
                         <item>
                             <label>Mrs. Fry Reading to the Prisoners in Newgate, 1816. (After the
                                 Picture by Jerrry Barrett.)</label>
                             <figure n="no348"/>
+                        </item>
+                        <item>
+                            <label>Elizabeth Fry. Photo: Emery Walker.</label>
+                            <figure n="no312"/>
                         </item>
                     </list>
                 </div2>
@@ -3528,17 +3538,26 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Florence Nightingale</label>
-                            <figure n="no05"/>
+                            <label>Florence Nightingale. By Charles Staal, engraved by G. H. Mote.
+                                From Mary Cowden Clarke, <title>
+                                    <hi rend="italics">World-Noted Women</hi>. </title></label>
+                            <figure n="no383"/>
                         </item>
                         <item>
-                            <label>Florence Nightingale</label>
-                            <figure n="no45"/>
+                            <label>Florence Nightingale. By J. B. Wandesforde, engraved by J. C.
+                                Buttre. From D.W. Clark, <title>
+                                    <hi rend="italics">Portraits of Celebrated
+                                Women</hi>.</title></label>
+                            <figure n="no384"/>
                         </item>
                         <item>
                             <label>Florence Nightinagle. From a photograph by the London
                                 Stereoscopic Co.</label>
                             <figure n="no291"/>
+                        </item>
+                        <item>
+                            <label>Florence Nightingale</label>
+                            <figure n="no143"/>
                         </item>
                         <item>
                             <label>Florence Nightingale</label>
@@ -3564,11 +3583,11 @@
                         </item>
                         <item>
                             <label>Florence Nightingale</label>
-                            <figure n="no143"/>
+                            <figure n="no235"/>
                         </item>
                         <item>
                             <label>Florence Nightingale</label>
-                            <figure n="no235"/>
+                            <figure n="no45"/>
                         </item>
                     </list>
                 </div2>
@@ -3872,19 +3891,19 @@
                         </item>
                         <item>
                             <label>Lady Jane Grey</label>
-                            <figure n="no420"/>
-                        </item>
-                        <item>
-                            <label>Lady Jane Grey</label>
                             <figure n="no423"/>
                         </item>
                         <item>
                             <label>Lady Jane Grey</label>
-                            <figure n="no425"/>
+                            <figure n="no433"/>
                         </item>
                         <item>
                             <label>Lady Grey</label>
                             <figure n="no427"/>
+                        </item>
+                        <item>
+                            <label>Lady Jane Grey</label>
+                            <figure n="no425"/>
                         </item>
                         <item>
                             <label>Lady Jane Grey. Painting by L. De Heere, National Portrait
@@ -3893,7 +3912,7 @@
                         </item>
                         <item>
                             <label>Lady Jane Grey</label>
-                            <figure n="no433"/>
+                            <figure n="no420"/>
                         </item>
                     </list>
                 </div2>
@@ -4768,15 +4787,22 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Pocahontas</label>
+                            <label>Pocahontas. By Charles Staal, engraved by B. Eyles. From Mary
+                                Cowden Clarke, <title>
+                                    <hi rend="italics">World-Noted Women</hi>.</title></label>
+                            <figure n="no388"/>
+                        </item>
+                        <item>
+                            <label>Pocahontas. From the only authentic portrait.</label>
                             <figure n="no406"/>
                         </item>
                         <item>
-                            <label>Pocahontas</label>
+                            <label>Pocahontas. From Frank Boott Goodrich, <title>
+                                <hi rend="italics">World-Famous Women</hi>.</title></label>
                             <figure n="no416"/>
                         </item>
                         <item>
-                            <label>Pocahontas Saves Captain John Smith</label>
+                            <label>Pocahontas Saves Captain John Smith.</label>
                             <figure n="no424"/>
                         </item>
                     </list>
@@ -5035,8 +5061,10 @@
                         </item>
                         <item>
                             <label>Ann Hasseltine Judson by J. B. Wandesforde, engraved by F.
-                                Halpin.</label>
-                            <figure n="no23"/>
+                                Halpin. From D.W. Clarke, <title>
+                                    <hi rend="italics">Portraits of Celebrated
+                                Women</hi>.</title></label>
+                            <figure n="no385"/>
                         </item>
                         <item>
                             <label>Mrs. Judson's visit to her husband in prison, with little Maria.

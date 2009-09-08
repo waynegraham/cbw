@@ -9937,6 +9937,14 @@
        <imgName>Ann Hasseltine Judson</imgName>
        <imgDesc>Ann Hasseltine Judson by J. B. Wandesforde, engraved by F. Halpin</imgDesc>
       </image>
+      <image n="no384">
+       <imgName>Florence Nightingale</imgName>
+       <imgDesc>Florence Nightingale. By J. B. Wandesforde, engraved by J. C. Buttre.</imgDesc>
+      </image>
+      <image n="no385">
+       <imgName>Ann Hasseltine Judson</imgName>
+       <imgDesc>Ann Hasseltine Judson by J. B. Wandesforde, engraved by F. Halpin</imgDesc>
+      </image>
       <image n="no24">
        <imgName>Fanny Forester</imgName>
        <imgDesc>Emily C. Judson (Fanny Forester) by F. E. Jones</imgDesc>
@@ -10012,6 +10020,22 @@
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale. *Pop Chart</item>
        </list>
       </note>
+      <image n="no383">
+       <imgName>Florence Nightingale</imgName>
+       <imgDesc>Florence Nightingale. By Charles Staal, engraved by G. H. Mote.</imgDesc>
+      </image>
+      <image n="no386">
+       <imgName>Joan of Arc</imgName>
+       <imgDesc>Joan of Arc. By Charles Staal, engraved by G. H. Mote.</imgDesc>
+      </image>
+      <image n="no387">
+       <imgName>Cleopatra</imgName>
+       <imgDesc>Cleopatra. By Charles Staal, engraved by Edwards.</imgDesc>
+      </image>
+      <image n="no388">
+       <imgName>Pocahontas</imgName>
+       <imgDesc>Pocahontas. By Charles Staal, engraved by B. Eyles.</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes"> British Library stamps 24 JU 58 on all the
        illustrations. </note>
      </bibl>
@@ -15726,6 +15750,10 @@
       </image>
       <image n="no417">
        <imgName>Victoria</imgName>
+      </image>
+      <image n="no387">
+       <imgName>Cleopatra</imgName>
+       <imgDesc>Cleopatra. By Charles Staal, engraved by Edwards.</imgDesc>
       </image>
      </bibl>
      <bibl id="a332" default="NO"><ref targOrder="U">332.</ref>
