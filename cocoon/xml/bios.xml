@@ -699,7 +699,8 @@
                             <figure n="no408"/>
                         </item>
                         <item>
-                            <label>Victoria. From Frank Boott Goodrich, <title>
+                            <label>Victoria. By J. Champagne, engraver J. McGoffin. From Frank Boott
+                                Goodrich, <title>
                                     <hi rend="italics">Women of Beauty and Heroism</hi>.</title>
                             </label>
                             <figure n="no417"/>
@@ -718,8 +719,8 @@
                         </item>
                         <item>
                             <label>Queen Victoria. From Rose Somerville, <title>
-                                <hi rend="italics">Brief Epitomes of the Lives of Eminent Women</hi>.
-                            </title></label>
+                                    <hi rend="italics">Brief Epitomes of the Lives of Eminent
+                                        Women</hi>. </title></label>
                             <figure n="no418"/>
                         </item>
                     </list>
@@ -836,7 +837,9 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Joan Darc</label>
+                            <label>Joan Darc. By J. Champagne, engraver S. Hollyer. From Frank Boott
+                                Goodrich, <title>
+                                    <hi rend="italics">World-Famous Women</hi>.</title></label>
                             <figure n="no88"/>
                         </item>
                         <item>
@@ -846,47 +849,63 @@
                             <figure n="no386"/>
                         </item>
                         <item>
-                            <label>Joan of Arc</label>
+                            <label>Joan of Arc. From Rupert Sargent Holland, <title>
+                                    <hi rend="italics">Historic Girlhoods</hi>.</title></label>
                             <figure n="no404"/>
                         </item>
                         <item>
-                            <label>Joan of Arc</label>
+                            <label>Joan of Arc. From Esther Singleton, ed. and trans., <title>
+                                    <hi rend="italics">Famous Women as Described by Famous
+                                        Writers</hi>.</title></label>
                             <figure n="no178"/>
                         </item>
                         <item>
-                            <label>Jeanne in Church.</label>
+                            <label>Jeanne in Church. From Louise Creighton, <title>
+                                    <hi rend="italics">Some Famous Women</hi>.</title></label>
                             <figure n="no324"/>
                         </item>
                         <item>
-                            <label>Jeanne Hears the Voice.</label>
+                            <label>Jeanne Hears the Voice. From Louise Creighton, <title>
+                                    <hi rend="italics">Some Famous Women</hi>.</title></label>
                             <figure n="no342"/>
                         </item>
                         <item>
-                            <label>Jeanne Rides to Chinon.</label>
+                            <label>Jeanne Rides to Chinon. From Louise Creighton, <title>
+                                    <hi rend="italics">Some Famous Women</hi>.</title></label>
                             <figure n="no343"/>
                         </item>
                         <item>
-                            <label>Jeanne is Wounded by the Arrow.</label>
+                            <label>Jeanne is Wounded by the Arrow. From Louise Creighton, <title>
+                                    <hi rend="italics">Some Famous Women</hi>.</title></label>
                             <figure n="no344"/>
                         </item>
                         <item>
-                            <label>The Coronation of Charles VII.</label>
+                            <label>The Coronation of Charles VII. From Louise Creighton, <title>
+                                    <hi rend="italics">Some Famous Women</hi>.</title></label>
                             <figure n="no345"/>
                         </item>
                         <item>
-                            <label>The Burning of Jeanne.</label>
+                            <label>The Burning of Jeanne. From Louise Creighton, <title>
+                                    <hi rend="italics">Some Famous Women</hi>.</title></label>
                             <figure n="no346"/>
                         </item>
                         <item>
-                            <label>Joan of Arc</label>
+                            <label>Maid of Orleans. From a statue by the Princess Maria, of France.
+                                From Samuel Griswold Goodrich, <title>
+                                    <hi rend="italics">Lives of Celebrated Women</hi>.
+                                </title></label>
                             <figure n="no391"/>
                         </item>
                         <item>
-                            <label>Joan of Arc</label>
+                            <label>Joan of Arc. By George Alfred Williams. From Kate Dickinson
+                                Sweetser, <title>
+                                    <hi rend="italics">Ten Girls From History</hi>. </title></label>
                             <figure n="no414"/>
                         </item>
                         <item>
-                            <label>Joan of Arc</label>
+                            <label>Joan of Arc. From Charles D. Michael, <title>
+                                    <hi rend="italics">Heroines: True Tales of Brave Women</hi>.
+                                </title></label>
                             <figure n="no144"/>
                         </item>
                     </list>
@@ -1678,7 +1697,7 @@
                             from="1895-01-01" to="1895-12-31">1895</dateRange>.</note>
                 </div2>
             </div1>
-            <div1 id="FRANCES_COBBE">
+            <div1 id="FRANCES_COBBE" ana="phil_reform">
                 <head>
                     <name type="full">Frances Cobbe</name>
                     <name type="search">Frances Cobbe</name>
@@ -1692,7 +1711,8 @@
                             <figure n="no438"/>
                         </item>
                         <item>
-                            <label>Frances Cobbe</label>
+                            <label>Frances Cobbe. From Jeanie Douglas Cochrane, <title>
+                                    <hi rend="italics">Peerless Women</hi>. </title></label>
                             <figure n="no301"/>
                         </item>
                         <item>
@@ -2137,7 +2157,7 @@
                         </item>
                         <item>
                             <label>Mary Somerville's Childhood. From Clara Lucas Liddell Balfour, <title>
-                                    <hi rend="italics">Women Worth Emulating</hi>. </title></label>
+                                    <hi rend="italics">Women Worth Emulating</hi>.</title></label>
                             <figure n="no442"/>
                         </item>
                         <item>
@@ -2586,15 +2606,21 @@
                     <list>
                         <item>
                             <label>Adelaide Anne Procter. From a photograph in the possession of
-                                Madame Belloc.</label>
+                                Madame Belloc. From A. J. Green Armytage, <title>
+                                    <hi rend="italics">Maids of Honour</hi>.</title></label>
                             <figure n="no236"/>
                         </item>
                         <item>
-                            <label>Adelaide Procter</label>
+                            <label>Adelaide Procter. From James Parton, <title>
+                                    <hi rend="italics">Daughters of Genius</hi>.</title>
+                            </label>
                             <figure n="no381"/>
                         </item>
                         <item>
-                            <label>Adelaide Procter</label>
+                            <label>Adelaide Procter. From a painting exhibited at South Kensington.
+                                From Catherine Jane Hamilton, <title>
+                                    <hi rend="italics">Women Writers: Their Works and Ways</hi>.
+                                </title></label>
                             <figure n="no394"/>
                         </item>
                     </list>
@@ -2997,11 +3023,15 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Grace Darling</label>
+                            <label>Grace Darling. From Charles D. Michael, <title>
+                                    <hi rend="italics">Heroines: True Tales of Brave Women</hi>.
+                                </title></label>
                             <figure n="no145"/>
                         </item>
                         <item>
-                            <label>Grace Darling</label>
+                            <label>Grace Darling. From James Parton, <title>
+                                    <hi rend="italics">Noted Women of Europe and America</hi>.
+                                </title></label>
                             <figure n="no402"/>
                         </item>
                         <item>
@@ -3447,7 +3477,10 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Elizabeth Fry</label>
+                            <label>Elizabeth Fry. From Elmer Cleveland Adams and Warren Dunham
+                                Foster, <title>
+                                    <hi rend="italics">Heroines of Modern Progress</hi>.
+                                </title></label>
                             <figure n="no42"/>
                         </item>
                         <item>
@@ -3460,28 +3493,37 @@
                             <figure n="no465"/>
                         </item>
                         <item>
-                            <label>Elizabeth Fry</label>
+                            <label>Elizabeth Fry. From Rosa Nouchette Carey, <title>
+                                    <hi rend="italics">Twelve Notable Good Women of the XIX
+                                        Century</hi>.</title></label>
                             <figure n="no290"/>
                         </item>
                         <item>
-                            <label>Elizabeth Fry</label>
+                            <label>Elizabeth Fry. From Jeanie Douglas Cochrane, <title>
+                                    <hi rend="italics">Peerless Women</hi>.</title></label>
                             <figure n="no302"/>
                         </item>
                         <item>
-                            <label>Elizabeth Fry. After a painting by C. R. Leslie, R.A.</label>
+                            <label>Elizabeth Fry. After a painting by C. R. Leslie, R.A. From Ethel
+                                Mary Wilmot-Buxton, <title>
+                                    <hi rend="italics">A Book of Noble Women</hi>.</title></label>
                             <figure n="no251"/>
                         </item>
                         <item>
-                            <label>"A passage was read from the Bible."</label>
+                            <label>"A passage was read from the Bible." From Jeanie Douglas
+                                Cochrane, <title>
+                                    <hi rend="italics">Peerless Women</hi>.</title></label>
                             <figure n="no340"/>
                         </item>
                         <item>
                             <label>Mrs. Fry Reading to the Prisoners in Newgate, 1816. (After the
-                                Picture by Jerrry Barrett.)</label>
+                                Picture by Jerrry Barrett.) From Louise Creighton, <title>
+                                    <hi rend="italics">Some Famous Women</hi>.</title></label>
                             <figure n="no348"/>
                         </item>
                         <item>
-                            <label>Elizabeth Fry. Photo: Emery Walker.</label>
+                            <label>Elizabeth Fry. Photo: Emery Walker. From Louise Creighton, <title>
+                                    <hi rend="italics">Some Famous Women</hi>.</title></label>
                             <figure n="no312"/>
                         </item>
                     </list>
@@ -3607,7 +3649,7 @@
                         <item>
                             <label>Florence Nightingale. By Charles Staal, engraved by G. H. Mote.
                                 From Mary Cowden Clarke, <title>
-                                    <hi rend="italics">World-Noted Women</hi>. </title></label>
+                                    <hi rend="italics">World-Noted Women</hi>.</title></label>
                             <figure n="no383"/>
                         </item>
                         <item>
@@ -3618,42 +3660,58 @@
                             <figure n="no384"/>
                         </item>
                         <item>
-                            <label>Florence Nightinagle. From a photograph by the London
-                                Stereoscopic Co.</label>
+                            <label>Florence Nightingale. From a photograph by the London
+                                Stereoscopic Co. From Rosa Nouchette Carey, <title>
+                                    <hi rend="italics">Twelve Notable Good Women of the XIX
+                                        Century</hi>.</title></label>
                             <figure n="no291"/>
                         </item>
                         <item>
-                            <label>Florence Nightingale</label>
+                            <label>Florence Nightingale's First Patient. From Charles D. Michael, <title>
+                                    <hi rend="italics">Heroines: True Tales of Brave Women</hi>.
+                                </title></label>
                             <figure n="no143"/>
                         </item>
                         <item>
-                            <label>Florence Nightingale</label>
+                            <label>Florence Nightingale. From Jeanie Douglas Cochrane, <title>
+                                    <hi rend="italics">Peerless Women</hi>. </title></label>
                             <figure n="no303"/>
                         </item>
                         <item>
-                            <label>"We could kiss her shadow as it fell."</label>
+                            <label>"We could kiss her shadow as it fell." From Jeanie Douglas
+                                Cochrane, <title>
+                                    <hi rend="italics">Peerless Women</hi>. </title></label>
                             <figure n="no339"/>
                         </item>
                         <item>
-                            <label>Florence Nightingale. Photo: London Stereoscopic Co.</label>
+                            <label>Florence Nightingale. Photo: London Stereoscopic Co. From Louise
+                                Creighton, <title>
+                                    <hi rend="italics">Some Famous Women</hi>.</title></label>
                             <figure n="no316"/>
                         </item>
                         <item>
                             <label>Florence Nightingale at Scutari, a Mission of Mercy. (After the
-                                Picture by Jerry Barrett.)</label>
+                                Picture by Jerry Barrett.) From Louise Creighton, <title>
+                                    <hi rend="italics">Some Famous Women</hi>.</title></label>
                             <figure n="no349"/>
                         </item>
                         <item>
                             <label>Florence Nightingale in One of the Wards of the Hospital at
-                                Scutari</label>
+                                Scutari. From Louise Creighton, <title>
+                                    <hi rend="italics">Some Famous Women</hi>.</title></label>
                             <figure n="no350"/>
                         </item>
                         <item>
-                            <label>Florence Nightingale</label>
+                            <label>Statue of Florence Nightingale, in Santa Croce, Florence. From
+                                Lilian Whiting, <title>
+                                    <hi rend="italics">Women Who Have Ennobled Life</hi>.
+                                </title></label>
                             <figure n="no235"/>
                         </item>
                         <item>
-                            <label>Florence Nightingale</label>
+                            <label>Florence Nightingale. From Elmer Cleveland Adams and Warren Dunham Foster, <title">
+                                <hi rend="italics">Heroines of Modern Progress</hi>.
+                            </title></label>
                             <figure n="no45"/>
                         </item>
                     </list>
@@ -4864,7 +4922,8 @@
                             <figure n="no406"/>
                         </item>
                         <item>
-                            <label>Pocahontas. From Frank Boott Goodrich, <title>
+                            <label>Pocahontas. By J. B. Wanderforde, engraver S. Hollyer. From Frank
+                                Boott Goodrich, <title>
                                     <hi rend="italics">World-Famous Women</hi>.</title></label>
                             <figure n="no416"/>
                         </item>

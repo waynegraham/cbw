@@ -15729,6 +15729,7 @@
       </image>
       <image n="no88">
        <imgName>Joan Darc</imgName>
+       <imgDesc>By J. Champagne, engraver S. Hollyer.</imgDesc>
       </image>
       <image n="no89">
        <imgName>Diana de Poitiers</imgName>
@@ -15747,13 +15748,15 @@
       </image>
       <image n="no416">
        <imgName>Pocahontas</imgName>
+       <imgDesc>By J. B. Wanderforde, engraver S. Hollyer.</imgDesc>
       </image>
       <image n="no417">
        <imgName>Victoria</imgName>
+       <imgDesc>By J. Champagne, engraver J. McGoffin.</imgDesc>
       </image>
       <image n="no387">
        <imgName>Cleopatra</imgName>
-       <imgDesc>Cleopatra. By Charles Staal, engraved by Edwards.</imgDesc>
+       <imgDesc>By Charles Staal, engraved by W. J. Edwards.</imgDesc>
       </image>
      </bibl>
      <bibl id="a332" default="NO"><ref targOrder="U">332.</ref>
@@ -15837,7 +15840,7 @@
       </note>
       <image n="no391">
        <imgName>Joan of Arc</imgName>
-       <imgDesc>Joan of Arc</imgDesc>
+       <imgDesc>Maid of Orleans. From a statue by the Princess Maria, of France.</imgDesc>
       </image>
       <image n="no389">
        <imgName>Hannah More</imgName>
@@ -17304,7 +17307,7 @@
       </note>
       <image n="no394">
        <imgName>Adelaide Procter</imgName>
-       <imgDesc>Adelaide Procter</imgDesc>
+       <imgDesc>From a painting exhibited at South Kensington.</imgDesc>
       </image>
       <image n="no392">
        <imgName>Madame de Stael</imgName>
@@ -24249,6 +24252,7 @@
       </note>
       <image n="no143">
        <imgName>Florence Nightingale</imgName>
+       <imgDesc>Florence Nightingale's First Patient.</imgDesc>
       </image>
       <image n="no144">
        <imgName>Joan of Arc</imgName>
@@ -30604,10 +30608,10 @@
       </note>
       <image n="no414">
        <imgName>Joan of Arc</imgName>
-       <imgDesc>Joan of Arc</imgDesc>
+       <imgDesc>By George Alfred Williams.</imgDesc>
       </image><image n="no415">
        <imgName>Lady Jane Grey</imgName>
-       <imgDesc>Lady Jane Grey</imgDesc>
+       <imgDesc>By George Alfred Williams.</imgDesc>
       </image>
      </bibl>
      <bibl id="a774" default="NO">
@@ -33065,6 +33069,7 @@
       </image>
       <image n="no235">
        <imgName>Florence Nightingale</imgName>
+       <imgDesc>Statue of Florence Nightingale, in Santa Croce, Florence.</imgDesc>
       </image>
      </bibl>
      <bibl id="a863" default="NO">
@@ -33665,7 +33670,7 @@
       </image>
       <image n="no251">
        <imgName>Elizabeth Fry</imgName>
-       <imgDesc>After a painting by C. R. Leslie, R. A. </imgDesc>
+       <imgDesc>After a painting by C. R. Leslie, R. A.</imgDesc>
       </image>
       <image n="no252">
        <imgName>Fanny Burney (Madame D'Arblay)</imgName>
@@ -38183,7 +38188,7 @@
         <item>Frances Ridley Havergal</item>
        </list>
       </note>
-      </bibl>
+     </bibl>
      <bibl id="p085" default="NO">
       <idno>p085</idno>
       <author><name type="last">Miller</name>, <name type="first">Basil</name>.</author>
