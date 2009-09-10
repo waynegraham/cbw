@@ -397,7 +397,7 @@
        <cell role="label" rows="1" cols="1">1910-1930</cell>
        <cell role="label" rows="1" cols="1">Total</cell>
       </row>
-      <row role="body">
+      <row role="body" n="JOAN_OF_ARC">
        <cell role="name" rows="1" cols="1">Joan of Arc</cell>
        <cell role="data" rows="1" cols="1">Paragon</cell>
        <cell role="data" rows="1" cols="1">13</cell>
@@ -405,7 +405,7 @@
        <cell role="data" rows="1" cols="1">9</cell>
        <cell role="datahi" rows="1" cols="1">38</cell>
       </row>
-      <row role="body">
+      <row role="body" n="ELIZABETH_FRY">
        <cell role="name" rows="1" cols="1">Elizabeth Fry</cell>
        <cell role="data" corresp="PHILREF" rows="1" cols="1">Philanthropy/Reform</cell>
        <cell role="datahi" rows="1" cols="1">14</cell>
@@ -413,7 +413,7 @@
        <cell role="data" rows="1" cols="1">8</cell>
        <cell role="datahi" rows="1" cols="1">36</cell>
       </row>
-      <row role="body">
+      <row role="body" n="HANNAH_MORE">
        <cell role="name" rows="1" cols="1">Hannah More</cell>
        <cell role="data" rows="1" cols="1">Philanthropy/Reform</cell>
        <cell role="datahi" rows="1" cols="1">14</cell>
@@ -509,7 +509,7 @@
        <cell role="data" rows="1" cols="1">0</cell>
        <cell role="data" rows="1" cols="1">5</cell>
       </row>
-      <row role="body">
+      <row role="body" n="FLORENCE_NIGHTINGALE">
        <cell role="name" rows="1" cols="1">Florence Nightingale</cell>
        <cell role="data" rows="1" cols="1">Nursing Reform</cell>
        <cell role="data" rows="1" cols="1">7</cell>
@@ -517,7 +517,7 @@
        <cell role="datahi" rows="1" cols="1">15</cell>
        <cell role="datahi" rows="1" cols="1">33</cell>
       </row>
-      <row role="body">
+      <row role="body" n="SISTER_DORA">
        <cell role="name" rows="1" cols="1">Sister Dora</cell>
        <cell role="data" rows="1" cols="1">Nursing Reform</cell>
        <cell role="data" rows="1" cols="1">0</cell>
@@ -541,7 +541,7 @@
        <cell role="data" rows="1" cols="1">1</cell>
        <cell role="data" rows="1" cols="1">7</cell>
       </row>
-      <row role="body">
+      <row role="body" n="QUEEN_VICTORIA">
        <cell role="name" rows="1" cols="1">Queen Victoria</cell>
        <cell role="data" rows="1" cols="1">Queens/Rank</cell>
        <cell role="data" rows="1" cols="1">4</cell>
@@ -549,7 +549,7 @@
        <cell role="data" rows="1" cols="1">11</cell>
        <cell role="datahi" rows="1" cols="1">29</cell>
       </row>
-      <row role="body">
+      <row role="body" n="LADY_JANE_GREY">
        <cell role="name" rows="1" cols="1">Lady Jane Grey</cell>
        <cell role="data" rows="1" cols="1">Queens/Rank</cell>
        <cell role="datahi" rows="1" cols="1">14</cell>
@@ -557,7 +557,7 @@
        <cell role="data" rows="1" cols="1">5</cell>
        <cell role="data" rows="1" cols="1">27</cell>
       </row>
-      <row role="body">
+      <row role="body" n="QUEEN_ELIZABETH_I">
        <cell role="name" rows="1" cols="1">Queen Elizabeth I</cell>
        <cell role="data" rows="1" cols="1">Queens/Rank</cell>
        <cell role="datahi" rows="1" cols="1">9</cell>
@@ -749,7 +749,7 @@
        <cell role="data" rows="1" cols="1">0</cell>
        <cell role="data" rows="1" cols="1">5</cell>
       </row>
-      <row role="body">
+      <row role="body" n="CHARLOTTE_BRONTE">
        <cell role="name" rows="1" cols="1">Charlotte Brontë</cell>
        <cell role="data" rows="1" cols="1">Literature</cell>
        <cell role="data" rows="1" cols="1">8</cell>
@@ -909,7 +909,7 @@
        <cell role="data" rows="1" cols="1">0</cell>
        <cell role="data" rows="1" cols="1">6</cell>
       </row>
-      <row role="body">
+      <row role="body" n="FRANCES_TROLLOPE">
        <cell role="name" rows="1" cols="1">Frances Trollope</cell>
        <cell role="data" rows="1" cols="1">Literature</cell>
        <cell role="data" rows="1" cols="1">0</cell>
@@ -925,7 +925,7 @@
        <cell role="data" rows="1" cols="1">0</cell>
        <cell role="data" rows="1" cols="1">5</cell>
       </row>
-      <row role="body">
+      <row role="body" n="ADELAIDE_PROCTER">
        <cell role="name" rows="1" cols="1">Adelaide Procter</cell>
        <cell role="data" rows="1" cols="1">Literature</cell>
        <cell role="data" rows="1" cols="1">0</cell>
@@ -933,7 +933,7 @@
        <cell role="data" rows="1" cols="1">0</cell>
        <cell role="data" rows="1" cols="1">5</cell>
       </row>
-      <row role="body">
+      <row role="body" n="LADY_RACHEL_RUSSELL">
        <cell role="name" rows="1" cols="1">Lady Rachel Russell</cell>
        <cell role="data" rows="1" cols="1">Role in Revolution</cell>
        <cell role="datahi" rows="1" cols="1">14</cell>
@@ -941,7 +941,7 @@
        <cell role="data" rows="1" cols="1">2</cell>
        <cell role="datahi" rows="1" cols="1">23</cell>
       </row>
-      <row role="body">
+      <row role="body" n="MADAME_DE_STAEL">
        <cell role="name" rows="1" cols="1">Madame de Staël</cell>
        <cell role="data" rows="1" cols="1">Role in Revolution</cell>
        <cell role="datahi" rows="1" cols="1">10</cell>
@@ -1013,7 +1013,7 @@
        <cell role="data" rows="1" cols="1">0</cell>
        <cell role="data" rows="1" cols="1">5</cell>
       </row>
-      <row role="body">
+      <row role="body" n="JENNY_LIND">
        <cell role="name" rows="1" cols="1">Jenny Lind</cell>
        <cell role="data" rows="1" cols="1">Arts</cell>
        <cell role="data" rows="1" cols="1">2</cell>
@@ -1085,7 +1085,7 @@
        <cell role="data" rows="1" cols="1">0</cell>
        <cell role="data" rows="1" cols="1">4</cell>
       </row>
-      <row role="body">
+      <row role="body" n="POCAHONTAS">
        <cell role="name" rows="1" cols="1">Pocahontas</cell>
        <cell role="data" rows="1" cols="1">Rescue/Adventure/Exhibit</cell>
        <cell role="datahi" rows="1" cols="1">7</cell>
@@ -1093,7 +1093,7 @@
        <cell role="data" rows="1" cols="1">3</cell>
        <cell role="datahi" rows="1" cols="1">16</cell>
       </row>
-      <row role="body">
+      <row role="body" n="GRACE_DARLING">
        <cell role="name" rows="1" cols="1">Grace Darling</cell>
        <cell role="data" rows="1" cols="1">Rescue/Adventure/Exhibit</cell>
        <cell role="data" rows="1" cols="1">5</cell>
@@ -1157,7 +1157,7 @@
        <cell role="datahi" rows="1" cols="1">5</cell>
        <cell role="data" rows="1" cols="1">5</cell>
       </row>
-      <row role="body">
+      <row role="body" n="CAROLINE_HERSCHEL">
        <cell role="name" rows="1" cols="1">Caroline Herschel</cell>
        <cell role="data" rows="1" cols="1">Science/Learning</cell>
        <cell role="data" rows="1" cols="1">2</cell>
@@ -1173,7 +1173,7 @@
        <cell role="data" rows="1" cols="1">2</cell>
        <cell role="data" rows="1" cols="1">13</cell>
       </row>
-      <row role="body">
+      <row role="body" n="MARY_SOMERVILLE">
        <cell role="name" rows="1" cols="1">Mary Somerville</cell>
        <cell role="data" rows="1" cols="1">Science/Learning</cell>
        <cell role="data" rows="1" cols="1">0</cell>
@@ -1213,7 +1213,7 @@
        <cell role="datahi" rows="1" cols="1">6</cell>
        <cell role="data" rows="1" cols="1">6</cell>
       </row>
-      <row role="body">
+      <row role="body" n="ANN_HASSELTINE_JUDSON">
        <cell role="name" rows="1" cols="1">Anne Hasseltine Judson</cell>
        <cell role="data" rows="1" cols="1">Religious Mission</cell>
        <cell role="datahi" rows="1" cols="1">8</cell>
@@ -18588,7 +18588,7 @@
       </image>
       <image n="no408">
        <imgName>Queen Victoria</imgName>
-       <imgDesc>Queen Victoria</imgDesc>
+       <imgDesc>Victoria Receiving News of Her Accession to the Throne.</imgDesc>
       </image>
       <image n="no409">
        <imgName>Jenny Lind</imgName>

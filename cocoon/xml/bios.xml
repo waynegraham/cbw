@@ -89,12 +89,36 @@
                     </bibl>
                 </taxonomy>
                 <taxonomy id="Categories">
-                    <category id="nurse_reform">
-                        <catDesc>Nursing Reform</catDesc>
+                    <category id="paragon">
+                        <catDesc>Paragon</catDesc>
                     </category>
                     <category id="phil_reform">
                         <catDesc>Philanthropy/Reform</catDesc>
-                    </category>                    
+                    </category>
+                    <category id="nurse_reform">
+                        <catDesc>Nursing Reform</catDesc>
+                    </category>
+                    <category id="queen_rank">
+                        <catDesc>Queens/Rank</catDesc>
+                    </category>
+                    <category id="literature">
+                        <catDesc>Literature</catDesc>
+                    </category>
+                    <category id="role_revolution">
+                        <catDesc>Role in Revolution</catDesc>
+                    </category>
+                    <category id="arts">
+                        <catDesc>Arts</catDesc>
+                    </category>
+                    <category id="rescue_advent_exhib">
+                        <catDesc>Rescue/Adventure/Exhibit</catDesc>
+                    </category>
+                    <category id="sci_learn">
+                        <catDesc>Science/Learning</catDesc>
+                    </category>
+                    <category id="relig_mission">
+                        <catDesc>Religious Mission</catDesc>
+                    </category>
                 </taxonomy>
             </classDecl>
         </encodingDesc>
@@ -603,7 +627,7 @@
                 </div2>
 
             </div1>
-            <div1 id="QUEEN_VICTORIA">
+            <div1 id="QUEEN_VICTORIA" ana="queen_rank">
                 <head>
                     <name type="full">Queen Victoria</name>
                     <name type="search">Queen Victoria</name>
@@ -669,24 +693,33 @@
                             <figure n="no27"/>
                         </item>
                         <item>
-                            <label>Queen Victoria</label>
+                            <label>Victoria Receiving News of Her Accession to the Throne. From
+                                Rupert Sargent Holland, <title>
+                                    <hi rend="italics">Historic Girlhoods</hi>.</title></label>
                             <figure n="no408"/>
                         </item>
                         <item>
-                            <label>Victoria</label>
+                            <label>Victoria. From Frank Boott Goodrich, <title>
+                                    <hi rend="italics">Women of Beauty and Heroism</hi>.</title>
+                            </label>
                             <figure n="no417"/>
                         </item>
                         <item>
-                            <label>Queen Victoria</label>
+                            <label>Queen Victoria. From Willis John Abbot, <title>
+                                    <hi rend="italics">Notable Women of History</hi>.
+                                </title></label>
                             <figure n="no398"/>
                         </item>
                         <item>
                             <label>Queen Victoria. From the painting by W. C. Ross, A.R.A. Photo. by
-                                Emery Walker.</label>
+                                Emery Walker. From Myrtle Reed, <title>
+                                    <hi rend="italics">Happy Women</hi>.</title></label>
                             <figure n="no413"/>
                         </item>
                         <item>
-                            <label>Queen Victoria</label>
+                            <label>Queen Victoria. From Rose Somerville, <title>
+                                <hi rend="italics">Brief Epitomes of the Lives of Eminent Women</hi>.
+                            </title></label>
                             <figure n="no418"/>
                         </item>
                     </list>
@@ -795,7 +828,7 @@
                     <p>A very short biography.</p>
                 </div2>
             </div1>
-            <div1 id="JOAN_OF_ARC">
+            <div1 id="JOAN_OF_ARC" ana="paragon">
                 <head>
                     <name type="full">Joan of Arc</name>
                     <name type="search">Joan of Arc</name>
@@ -1205,7 +1238,7 @@
                     </note>
                 </div2>
             </div1>
-            <div1 id="FRANCES_TROLLOPE">
+            <div1 id="FRANCES_TROLLOPE" ana="literature">
                 <head>
                     <name type="full">Frances Trollope</name>
                     <name type="search">Frances Trollope</name>
@@ -2090,7 +2123,7 @@
                             >1995</dateRange>. 89-117.</note>
                 </div2>
             </div1>
-            <div1 id="MARY_SOMERVILLE">
+            <div1 id="MARY_SOMERVILLE" ana="sci_learn">
                 <head>
                     <name type="full">Mary Somerville</name>
                     <name type="search">Mary Somerville</name>
@@ -2544,7 +2577,7 @@
                         http://piazzaledonatello.blogspot.com/2008/05/appelloappeal.html</note>
                 </div2>
             </div1>
-            <div1 id="ADELAIDE_PROCTER">
+            <div1 id="ADELAIDE_PROCTER" ana="literature">
                 <head>
                     <name type="full">Adelaide Procter</name>
                     <name type="search">Adelaide Procter</name>
@@ -2956,7 +2989,7 @@
                         http://gerald-massey.org.uk/procter/index.htm.</note>
                 </div2>
             </div1>
-            <div1 id="GRACE_DARLING">
+            <div1 id="GRACE_DARLING" ana="rescue_advent_exhib">
                 <head>
                     <name type="full">Grace Darling</name>
                     <name type="search">Grace Darling</name>
@@ -3406,7 +3439,7 @@
                         pp.59-63.</note>
                 </div2>
             </div1>
-            <div1 id="ELIZABETH_FRY">
+            <div1 id="ELIZABETH_FRY" ana="phil_reform">
                 <head>
                     <name type="full">Elizabeth Fry</name>
                     <name type="search">Elizabeth Fry</name>
@@ -3564,7 +3597,7 @@
                     <p>Bio paragraphs.</p>
                 </div2>
             </div1>
-            <div1 id="FLORENCE_NIGHTINGALE">
+            <div1 id="FLORENCE_NIGHTINGALE" ana="nurse_reform">
                 <head>
                     <name type="full">Florence Nightingale</name>
                     <name type="search">Florence Nightingale</name>
@@ -3749,7 +3782,7 @@
                     <p>Bio paragraphs.</p>
                 </div2>
             </div1>
-            <div1 id="CHARLOTTE_BRONTE">
+            <div1 id="CHARLOTTE_BRONTE" ana="literature">
                 <head>
                     <name type="full">Charlotte Bronte</name>
                     <name type="search">Charlotte Bronte</name>
@@ -3904,7 +3937,7 @@
                     <p>Bio paragraphs.</p>
                 </div2>
             </div1>
-            <div1 id="LADY_JANE_GREY">
+            <div1 id="LADY_JANE_GREY" ana="queen_rank">
                 <head>
                     <name type="full">Lady Jane Grey</name>
                     <name type="search">Lady Jane Grey</name>
@@ -4087,7 +4120,7 @@
                     <p>Bio paragraphs.</p>
                 </div2>
             </div1>
-            <div1 id="HANNAH_MORE">
+            <div1 id="HANNAH_MORE" ana="phil_reform">
                 <head>
                     <name type="full">Hannah More</name>
                     <name type="search">Hannah More</name>
@@ -4230,7 +4263,7 @@
                     <p>Bio paragraphs.</p>
                 </div2>
             </div1>
-            <div1 id="LADY_RACHEL_RUSSELL">
+            <div1 id="LADY_RACHEL_RUSSELL" ana="role_revolution">
                 <head>
                     <name type="full">Lady Rachel Russell</name>
                     <name type="search">Lady Rachel Russell</name>
@@ -4333,7 +4366,7 @@
                     <p>Bio paragraphs.</p>
                 </div2>
             </div1>
-            <div1 id="MADAME_DE_STAEL">
+            <div1 id="MADAME_DE_STAEL" ana="role_revolution">
                 <head>
                     <name type="full">Madame de Staël</name>
                     <name type="search">Madame de Staël</name>
@@ -4481,7 +4514,7 @@
                     <p>Bio paragraphs.</p>
                 </div2>
             </div1>
-            <div1 id="QUEEN_ELIZABETH_I">
+            <div1 id="QUEEN_ELIZABETH_I" ana="queen_rank">
                 <head>
                     <name type="full">Queen Elizabeth I</name>
                     <name type="search">Queen Elizabeth I</name>
@@ -4631,7 +4664,7 @@
                     <p>Bio paragraphs.</p>
                 </div2>
             </div1>
-            <div1 id="MADAME_ROLAND">
+            <div1 id="MADAME_ROLAND" ana="role_revolution">
                 <head>
                     <name type="full">Madame Roland</name>
                     <name type="search">Madame Roland</name>
@@ -4813,7 +4846,7 @@
                     <p>Bio paragraphs.</p>
                 </div2>
             </div1>
-            <div1 id="POCAHONTAS">
+            <div1 id="POCAHONTAS" ana="rescue_advent_exhib">
                 <head>
                     <name type="full">Pocahontas</name>
                     <name type="search">Pocahontas</name>
@@ -4953,7 +4986,7 @@
                     <p>Bio paragraphs.</p>
                 </div2>
             </div1>
-            <div1 id="CAROLINE_HERSCHEL">
+            <div1 id="CAROLINE_HERSCHEL" ana="sci_learn">
                 <head>
                     <name type="full">Caroline Herschel</name>
                     <name type="search">Caroline Herschel</name>
@@ -5079,7 +5112,7 @@
                     <p>Bio paragraphs.</p>
                 </div2>
             </div1>
-            <div1 id="ANN_HASSELTINE_JUDSON">
+            <div1 id="ANN_HASSELTINE_JUDSON" ana="relig_mission">
                 <head>
                     <name type="full">Ann Hasseltine Judson</name>
                     <name type="search">Ann Hasseltine Judson</name>
@@ -5248,7 +5281,7 @@
                     <p>Bio paragraphs.</p>
                 </div2>
             </div1>
-            <div1 id="JENNY_LIND">
+            <div1 id="JENNY_LIND" ana="arts">
                 <head>
                     <name type="full">Jenny Lind</name>
                     <name type="search">Jenny Lind</name>
