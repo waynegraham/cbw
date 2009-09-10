@@ -88,6 +88,14 @@
                         <title>Library of Congress Subject Headings </title>
                     </bibl>
                 </taxonomy>
+                <taxonomy id="Categories">
+                    <category id="nurse_reform">
+                        <catDesc>Nursing Reform</catDesc>
+                    </category>
+                    <category id="phil_reform">
+                        <catDesc>Philanthropy/Reform</catDesc>
+                    </category>                    
+                </taxonomy>
             </classDecl>
         </encodingDesc>
         <profileDesc>
@@ -204,7 +212,7 @@
         </interpGrp>
         <interpGrp id="narrative"> </interpGrp>
         <body>
-            <div1 id="SISTER_DORA">
+            <div1 id="SISTER_DORA" ana="nurse_reform">
                 <head>
                     <name type="full">Sister Dora<seg type="alt_name">Dorothy Wyndlow
                         Pattison</seg></name>
