@@ -5636,11 +5636,13 @@
       </note>
       <image n="no422">
        <imgName>Lady Rachel Russell</imgName>
-       <imgDesc>Lady Rachel Russell</imgDesc>
+       <imgDesc>Lady Rachel Russell with Lady Jane Grey, Countess of Huntingdon, Viscountess
+        Glenorchy and Viscountess Falkland.</imgDesc>
       </image>
       <image n="no423">
        <imgName>Lady Jane Grey</imgName>
-       <imgDesc>Lady Jane Grey</imgDesc>
+       <imgDesc>Lady Jane Grey with Lady Rachel Russell, Countess of Huntingdon, Viscountess
+        Glenorchy and Viscountess Falkland.</imgDesc>
       </image>
      </bibl>
      <bibl id="a042" default="NO">
@@ -12522,7 +12524,7 @@
       </note>
       <image n="no379">
        <imgName>Charlotte Bronte</imgName>
-       <imgDesc>Charlotte Bronte</imgDesc>
+       <imgDesc>The Worthy Daughter.</imgDesc>
       </image>
       <image n="no380">
        <imgName>Caroline Herschel</imgName>
@@ -18599,7 +18601,7 @@
       </image>
       <image n="no405">
        <imgName>Lady Jane Grey</imgName>
-       <imgDesc>Lady Jane Grey</imgDesc>
+       <imgDesc>Lady Jane Grey and Robert Ascham.</imgDesc>
       </image>
       <image n="no404">
        <imgName>Joan of Arc</imgName>
@@ -30609,7 +30611,8 @@
       <image n="no414">
        <imgName>Joan of Arc</imgName>
        <imgDesc>By George Alfred Williams.</imgDesc>
-      </image><image n="no415">
+      </image>
+      <image n="no415">
        <imgName>Lady Jane Grey</imgName>
        <imgDesc>By George Alfred Williams.</imgDesc>
       </image>
