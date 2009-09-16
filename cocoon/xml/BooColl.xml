@@ -3580,9 +3580,11 @@
       </note>
       <image n="no421">
        <imgName>Hannah More</imgName>
+       <imgDesc>Hannah More with Anna Seward, Anna Laetitia Barbould and Lady Jane Grey.</imgDesc>
       </image>
       <image n="no420">
        <imgName>Lady Jane Grey</imgName>
+       <imgDesc>Lady Jane Grey with Anna Seward, Anna Laetitia Barbould and Hannah More.</imgDesc>
       </image>
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
@@ -18790,7 +18792,7 @@
       </note>
       <image n="no378">
        <imgName>Lady Rachel Russell</imgName>
-       <imgDesc>Lady Rachel Russell</imgDesc>
+       <imgDesc>Madame Russell</imgDesc>
       </image>
      </bibl>
      <bibl id="a412" default="NO">
@@ -23485,6 +23487,7 @@
         <item>Mademoiselle de Lespinasse</item>
         <item>Madame Geòffrin</item>
         <item>Madame d'épinay</item>
+        <item n="MADAME_ROLAND">Madame Roland</item>
         <item>Madame Necker</item>
         <item n="MADAME_DE_STAEL">Madame de Staël</item>
         <item>Madame Récamier</item>
