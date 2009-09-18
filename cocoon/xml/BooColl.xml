@@ -5887,7 +5887,7 @@
       </image>
       <image n="no444">
        <imgName>Caroline Herschel</imgName>
-       <imgDesc>Caroline Herschel. Study and Work.</imgDesc>
+       <imgDesc>Caroline Herschel: Study and Work.</imgDesc>
       </image>
      </bibl>
      <bibl id="a052" default="NO"><ref targOrder="U">52.</ref>
@@ -15852,7 +15852,7 @@
       </image>
       <image n="no390">
        <imgName>Queen Elizabeth I</imgName>
-       <imgDesc>Queen Elizabeth I</imgDesc>
+       <imgDesc>Queen Elizabeth on a Tour Through Her Realm.</imgDesc>
       </image>
       <note place="unspecified" anchored="yes"> See <ref target="a184" targOrder="U">Louise
         Cochelet, <title>
@@ -18591,7 +18591,7 @@
       </image>
       <image n="no406">
        <imgName>Pocahontas</imgName>
-       <imgDesc>Pocahontas</imgDesc>
+       <imgDesc>From the only authentic portrait.</imgDesc>
       </image>
       <image n="no408">
        <imgName>Queen Victoria</imgName>
@@ -25786,8 +25786,8 @@
         <hi rend="italics">A History of the Sewing Machine</hi>
        </title>, <date>1867</date>). </note>
       <image n="no01">
-       <imgName>Queen Elizabeth</imgName>
-       <imgDesc>Queen Elizabeth by Edward Corbould, engraved by William Holl.</imgDesc>
+       <imgName>Queen Elizabeth I</imgName>
+       <imgDesc>Queen Elizabeth. By Edward Corbould, engraved by William Holl.</imgDesc>
       </image>
      </bibl>
      <bibl id="a625" default="NO"><ref targOrder="U">625.</ref>
@@ -28986,6 +28986,8 @@
       </image>
       <image n="no155">
        <imgName>Madame Roland</imgName>
+       <imgDesc>From the painting by Heinsius at
+        Versailles.</imgDesc>
       </image>
       <image n="no156">
        <imgName>Lady Hamilton</imgName>
@@ -33621,7 +33623,7 @@
       </note>
       <image n="no448">
        <imgName>Ann Hasseltine Judson</imgName>
-       <imgDesc>Ann Hasseltine Judson</imgDesc>
+       <imgDesc>Mrs. Ann H. Judson. Engraved by J. C. Buttre.</imgDesc>
       </image>
      </bibl>
      <bibl id="a887" default="NO">
