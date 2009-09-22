@@ -5,9 +5,13 @@ function displayIllus(illus, caption)
   generator.document.write('<html><head><title>Popup</title>');
   generator.document.write('<link rel="stylesheet" href="style.css">');
   generator.document.write('</head><body id=\'image-wrap\'>');
-  generator.document.write('<div class=\'head1\'>' + unescape(caption) + '</div>');
+  cap = (unescape(caption));
+  cap = cap.replace(/hi rend="italics"/gi, "em");
+  cap = cap.replace(/\/hi/gi, "/em");
+  generator.document.write('<div class=\'head1\'>' + cap  + '</div>');
   generator.document.write('<img src=\"full/' + illus + '.jpg\">');
   generator.document.write('<div class=\'head2\'><a href="javascript:self.close()"> Close this window</a>.</div>');
   generator.document.write('</body></html>');
+  generator.document.replace();
   generator.document.close();
 }
