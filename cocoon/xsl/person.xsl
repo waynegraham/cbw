@@ -116,7 +116,9 @@
 
 	<xsl:template match="div2[@type='images']">
 		<div class="full">
-			<a href="full/{list/item/figure/@n}.jpg" class="thickbox" title="{list/item/label}"><img name="{list/item/figure/@n}" src="full/{list/item/figure/@n}.jpg" alt="{list/item/label}" title="{list/item/label}"/></a>
+			<a href="full/{list/item/figure/@n}.jpg" class="thickbox" title="{list/item/label}">
+				<img name="{list/item/figure/@n}" src="full/{list/item/figure/@n}.jpg" alt="{list/item/label}" title="{list/item/label}"/>
+			</a>
 		</div>
 		<div class="carousel">
 			<ul class="image-carousel jcarousel-skin-tango">
