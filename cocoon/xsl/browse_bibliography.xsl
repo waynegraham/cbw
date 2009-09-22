@@ -29,7 +29,7 @@
 				<!--	jCarousel library	-->
 				<script type="text/javascript" src="javascript/jcarousel/lib/jquery.jcarousel.pack.js"></script>
 				<!--	Thickbox 3 library	-->
-				<script type="text/javascript" src="javascript/thickbox.js"></script>
+				<script type="text/javascript" src="javascript/jcarousel/lib/thickbox/thickbox.js"></script>
 				<!--	jCarousel core stylesheet	-->
 				<link rel="stylesheet" type="text/css" href="javascript/jcarousel/lib/jquery.jcarousel.css" />
 				<!--	Thickbox stylesheet	 -->
@@ -138,7 +138,7 @@
 												<ul class="image-carousel jcarousel-skin-tango">
 													<xsl:for-each select="image">
 														<li>
-															<a title="{./imgDesc}" class="thickbox" href="full/{@n}.jpg">
+															<a title="{./imgDesc}" onclick="displayIllus('{@n}', '{./imgDesc}')">
 																<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
 																<div class="illus"><xsl:value-of select="./imgName"/></div>
 															</a>
@@ -195,7 +195,7 @@
 										<ul class="image-carousel jcarousel-skin-tango">
 											<xsl:for-each select="//bibl[@id=$bibl_id]/image">
 												<li>
-													<a title="{./imgDesc}" class="thickbox" href="full/{@n}.jpg">
+													<a title="{./imgDesc}" onclick="displayIllus('{@n}', '{./imgDesc}')">
 														<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
 														<div class="illus"><xsl:value-of select="./imgName"/></div>
 													</a>

@@ -40,10 +40,10 @@
 												 alt: thumb_alt,
 												 title: thumb_title,
 												 name: thumb_name[0]
-												});
-							$('.full a').attr({href: 'full/'+thumb_no[1],
-												title: thumb_title
-											}); 
+												}); 
+						});
+						$('.full img').click(function () { 
+							displayIllus($(this).attr('name'),$(this).attr('title'));
 						});
 					});
 				</script>
@@ -116,9 +116,7 @@
 
 	<xsl:template match="div2[@type='images']">
 		<div class="full">
-			<a href="full/{list/item/figure/@n}.jpg" class="thickbox" title="{list/item/label}">
-				<img name="{list/item/figure/@n}" src="full/{list/item/figure/@n}.jpg" alt="{list/item/label}" title="{list/item/label}"/>
-			</a>
+			<img name="{list/item/figure/@n}" src="full/{list/item/figure/@n}.jpg" alt="{list/item/label}" title="{list/item/label}" class="full_img"/>
 		</div>
 		<div class="carousel">
 			<ul class="image-carousel jcarousel-skin-tango">
