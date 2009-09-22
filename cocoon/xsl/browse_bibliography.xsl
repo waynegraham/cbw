@@ -29,7 +29,7 @@
 				<!--	jCarousel library	-->
 				<script type="text/javascript" src="javascript/jcarousel/lib/jquery.jcarousel.pack.js"></script>
 				<!--	Thickbox 3 library	-->
-				<script type="text/javascript" src="javascript/jcarousel/lib/thickbox/thickbox.js"></script>
+				<script type="text/javascript" src="javascript/thickbox.js"></script>
 				<!--	jCarousel core stylesheet	-->
 				<link rel="stylesheet" type="text/css" href="javascript/jcarousel/lib/jquery.jcarousel.css" />
 				<!--	Thickbox stylesheet	 -->
