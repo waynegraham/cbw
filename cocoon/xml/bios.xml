@@ -793,28 +793,28 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
+                            <label ana="birth">Birth</label> Kensington Palace
                             <date>1819</date>
                         </item>
                         <item>
-                            <label>Accession</label>
+                            <label ana="vocation">Vocation</label>Accession 
                             <date>1837</date>
                         </item>
                         <item>
-                            <label>Marriage to Prince Albert</label>
+                            <label ana="marriage">Marriage</label> Weds Prince Albert
                             <date>1840</date>
                         </item>
                         <item>
-                            <label>Death of Prince Albert</label>
+                            <label ana="ordeal">Ordeal</label> Death of Prince Albert
                             <date>1861</date>
                         </item>
                         <item>
-                            <label>Golden Jubilee</label>
+                            <label ana="recognition">Recognition</label> Golden Jubilee
                             <date>1887</date>
                         </item>
 
                         <item>
-                            <label>Death</label>
+                            <label ana="death">Death</label>
                             <date>1901</date>
                         </item>
                     </list>
@@ -5103,7 +5103,7 @@
                     <list>
                         <item>
                             <label>Birth</label>
-                            <date>0000</date>
+                            <date>1596</date>
                         </item>
                         <item>
                             <label>Event 1</label>
@@ -5111,7 +5111,7 @@
                         </item>
                         <item>
                             <label>Death</label>
-                            <date>0000</date>
+                            <date>1617</date>
                         </item>
                     </list>
                 </div2>
