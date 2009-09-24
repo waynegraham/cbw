@@ -797,7 +797,7 @@
                             <date>1819</date>
                         </item>
                         <item>
-                            <label ana="vocation">Vocation</label>Accession 
+                            <label ana="vocation">Vocation</label> Accession 
                             <date>1837</date>
                         </item>
                         <item>
@@ -980,16 +980,24 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
+                            <label ana="birth">Birth</label> Peasant's daughter, Domrémy
                             <date>1412</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label ana="vocation">Vocation</label> Recieved visionary calling to save French kindgom
+                            <date>1425</date>
+                        </item>
+                        <item> 
+                            <label ana="ordeal">Ordeal</label> Delivered Orléans from English siege
+                            <date>1429</date>
                         </item>
                         <item>
-                            <label>Death</label>
+                            <label ana="death">Death</label> Condemned for heresy, burned at stake, Roeun
                             <date>1431</date>
+                        </item>
+                        <item>
+                            <label ana="recognition">Recognition</label> Heresy conviction nullified
+                            <date>1456</date>
                         </item>
                     </list>
                 </div2>
@@ -1354,7 +1362,7 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
+                            <label ana="birth">Birth</label>
                             <date>1779</date>
                         </item>
                         <item>
@@ -1362,7 +1370,7 @@
                             <date>1827</date>
                         </item>
                         <item>
-                            <label>Death</label>
+                            <label ana="death">Death</label>
                             <date>1863</date>
                         </item>
                     </list>
@@ -1782,15 +1790,15 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
+                            <label ana="birth">Birth</label>
                             <date>1822</date>
                         </item>
                         <item>
-                            <label>Death of Father</label>
+                            <label ana="ordeal">Ordeal</label> Death of father 
                             <date>1857</date>
                         </item>
                         <item>
-                            <label>Collaboration with Mary Carpenter</label>
+                            <label ana="vocation">Vocation</label> Collaboration with Mary Carpenter
                             <date>1858</date>
                         </item>
                         <item>
@@ -1798,11 +1806,11 @@
                             <dateRange from="1858-12-01" to="1896-12-31">1860-1896</dateRange>
                         </item>
                         <item>
-                            <label>Began anti-vivisection campaign</label>
+                            <label ana="vocation">Vocation</label> Began anti-vivisection campaign
                             <date>1863</date>
                         </item>
                         <item>
-                            <label>Death</label>
+                            <label ana="death">Death</label>
                             <date>1904</date>
                         </item>
                     </list>
@@ -2272,24 +2280,24 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
+                            <label ana="birth">Birth</label>
                             <date>1780</date>
                         </item>
                         <item>
-                            <label>Married second husband, William Somerville</label>
+                            <label ana="marriage">Marriage</label> Wedded second husband, William Somerville
                             <date>1812</date>
                         </item>
                         <item>
-                            <label>Published <hi rend="italics">The Mechanism of the
-                                Heavens</hi></label>
+                            <label ana="vocation">Vocation</label> Published <hi rend="italics">The Mechanism of the
+                                Heavens</hi>
                             <date>1831</date>
                         </item>
                         <item>
-                            <label>Elected Honorary Member, Royal Astronomical Society</label>
+                            <label ana="recognition">Recognition</label> Elected Honorary Member, Royal Astronomical Society
                             <date>1835</date>
                         </item>
                         <item>
-                            <label>Death</label>
+                            <label ana="death">Death</label>
                             <date>1872</date>
                         </item>
                     </list>
@@ -2704,19 +2712,19 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
+                            <label ana="birth">Birth</label>
                             <date>1825</date>
                         </item>
                         <item>
-                            <label>Conversion to Catholicism</label>
+                            <label ana="religion">Religion</label>Conversion to Catholicism
                             <date>1851</date>
                         </item>
                         <item>
-                            <label><hi rend="italics">Legends and Lyrics</hi>published</label>
+                            <label ana="vocation">Vocation</label><hi rend="italics">Legends and Lyrics</hi>published
                             <date>1858</date>
                         </item>
                         <item>
-                            <label>Death</label>
+                            <label ana="death">Death</label>
                             <date>1864</date>
                         </item>
                     </list>
@@ -3127,15 +3135,15 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
+                            <label ana="birth">Birth</label>
                             <date>1815</date>
                         </item>
                         <item>
-                            <label>Rescue of survivors of wreck of Forfarshire</label>
+                            <label ana="ordeal">Ordeal</label> Rescue of survivors of wreck of Forfarshire
                             <date>1838</date>
                         </item>
                         <item>
-                            <label>Death</label>
+                            <label ana="death">Death</label>
                             <date>1842</date>
                         </item>
                     </list>
@@ -3616,15 +3624,15 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
+                            <label ana="birth">Birth</label>
                             <date>1780</date>
                         </item>
                         <item>
-                            <label>Begins organized work with women prisoners</label>
+                            <label ana="vocation">Vocation</label> Begins organized work with women prisoners
                             <date>1817</date>
                         </item>
                         <item>
-                            <label>Death</label>
+                            <label ana="death">Death</label>
                             <date>1845</date>
                         </item>
                     </list>
