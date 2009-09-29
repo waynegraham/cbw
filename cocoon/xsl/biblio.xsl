@@ -123,7 +123,11 @@
 
 
 	<!--this is for tables and lists -->
-	<xsl:template match="list[not(../note)]">
+	<xsl:template match="note/list">
+		<xsl:apply-templates/>
+	</xsl:template>
+	
+	<xsl:template match="list">
 		<div class="list">
 			<ul>
 				<xsl:apply-templates/>
