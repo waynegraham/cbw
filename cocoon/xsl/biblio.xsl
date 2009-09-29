@@ -124,7 +124,7 @@
 
 	<!--this is for tables and lists -->
 	<xsl:template match="note/list">
-		<xsl:for-each select=".//item[position() &lt; last()]">
+		<xsl:for-each select=".//item">
 			<xsl:choose>
 				<xsl:when test="@n">
 					<a href="featured?id={@n}">
@@ -137,17 +137,6 @@
 			</xsl:choose>
 			<xsl:text>; </xsl:text>
 		</xsl:for-each>
-		<xsl:choose>
-			<xsl:when test=".//item[position() = last()]/@n">
-				<a href="featured?id={.//item[position() = last()]/@n}">
-					<xsl:value-of select=".//item[position() = last()]"/>
-				</a>
-			</xsl:when>
-			<xsl:otherwise>
-				<xsl:value-of select=".//item[position() = last()]"/>
-			</xsl:otherwise>
-		</xsl:choose>
-		<xsl:text>.</xsl:text>
 	</xsl:template>
 	
 	<xsl:template match="list">
