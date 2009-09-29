@@ -100,7 +100,7 @@
 							CBW.</a>
 					</div>
 					<div id="pop_link">
-						<a href="popchart#{head/name[@type='search']}">Find <xsl:value-of
+						<a href="popchart#{$id}">Find <xsl:value-of
 								select="head/name[@type='search']"/> on the Pop Chart.</a>
 					</div>
 				</div>
@@ -122,7 +122,7 @@
 			<ul class="image-carousel jcarousel-skin-tango">
 				<xsl:for-each select="list/item">
 					<li>
-						<img alt="{label}" title="{label}" src="thumbs/{figure/@n}.jpg"/>
+						<img alt="{normalize-space(label)}" title="{normalize-space(label)}" src="thumbs/{figure/@n}.jpg"/>
 					</li>
 				</xsl:for-each>
 			</ul>
@@ -162,6 +162,7 @@
 					<li class="item">
 						<b>
 							<a href="{address/addrLine}">
+								<xsl:value-of select="label"/>
 								<xsl:apply-templates select="label"/>
 							</a>
 						</b>

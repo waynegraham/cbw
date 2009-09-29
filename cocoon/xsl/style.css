@@ -164,6 +164,7 @@ p.notepara {
 }
 #headImg {
 	width: 330px;
+	float: left;
 }
 #headImg img {
 	margin: 0 5px;
@@ -173,7 +174,13 @@ p.notepara {
 	color: #991818;
 	font-size: 22pt;
 	font-weight: bold;
+	float: left;
 }
+
+#headTitle small {
+    display: block;
+}
+
 #byline {
 	margin-left: 630px;
 	margin-top: -5px;

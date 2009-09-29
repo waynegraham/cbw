@@ -8,25 +8,23 @@
 	<xsl:output method="xml" indent="yes"/>
 	<xsl:template name="header">
 		<div id="head">
-			<table id="headTop">
-				<tr>
-					<td id="headImg">
+			<div id="headTop">
+					<div id="headImg">
 						<img src="banner_img1.jpg"/>
 						<img src="banner_img2.jpg"/>
 						<img src="banner_img3.jpg"/>
-					</td>
-					<td id="headTitle">
-						<i>Collective Biographies of Women: An Annotated Bibliography</i>
-					</td>
-				</tr>
-			</table>
+					</div>
+					<div id="headTitle">
+						<em>Collective Biographies of Women</em>
+						<small>An Annotated Bibliography</small>
+					</div>
+			</div>
 			<h2 id="byline">
 				<i>Alison Booth</i>
 			</h2>
 			<div class="headBorder"/> 
 			<p id="subheading">
-				<i>Includes Volumes of Three or More Female Biographies Published in English
-					1830-1940 <br/>  With Selected Bibliographies of Collections Published before 1830 and after 1940</i>
+				<i>An annotated bibliography of collections of three or more biographies of women published in English-language books since 1830, with comprehensive lists of publications before 1830 and after 1950.</i>
 			</p>
 		</div>
 		<div id="navbar">

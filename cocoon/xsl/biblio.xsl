@@ -44,10 +44,28 @@
 		<p class="notepara">
 			<xsl:text>TOC: </xsl:text>
 			<xsl:for-each select=".//item[position() &lt; last()]">
-				<xsl:value-of select="."/>
+				<xsl:choose>
+					<xsl:when test="@n">
+						<a href="featured?id={@n}">
+							<xsl:value-of select="."/>
+						</a>						
+					</xsl:when>
+					<xsl:otherwise>
+						<xsl:value-of select="."/>
+					</xsl:otherwise>
+				</xsl:choose>
 				<xsl:text>; </xsl:text>
 			</xsl:for-each>
-			<xsl:value-of select=".//item[position() = last()]"/>
+			<xsl:choose>
+				<xsl:when test=".//item[position() = last()]/@n">
+					<a href="featured?id={.//item[position() = last()]/@n}">
+						<xsl:value-of select=".//item[position() = last()]"/>
+					</a>
+				</xsl:when>
+				<xsl:otherwise>
+					<xsl:value-of select=".//item[position() = last()]"/>
+				</xsl:otherwise>
+			</xsl:choose>
 			<xsl:text>.</xsl:text>
 		</p>
 	</xsl:template>

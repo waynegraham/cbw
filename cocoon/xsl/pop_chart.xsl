@@ -68,7 +68,8 @@
                     for (i=0; i&lt;allHTMLTags.length; i++) {
                     if (allHTMLTags[i].className=='name') {
                     var name = allHTMLTags[i].parentNode.innerHTML.split('&lt;')[0];
-                    allHTMLTags[i].parentNode.innerHTML='<a href="search?rows=20&amp;start=0&amp;fulltext=%27' + name + '%27&amp;action=Submit">' + name + '</a>';                   
+                    var nm = allHTMLTags[i].parentNode.innerHTML.split('name=\"')[1].split('\"')[0];
+                    allHTMLTags[i].parentNode.innerHTML='<a name="' + nm + '" href="search?rows=20&amp;start=0&amp;fulltext=%27' + name + '%27&amp;action=Submit">' + name + '</a>';                   
                     }
                     if (allHTMLTags[i].className=='datahi') {
                     allHTMLTags[i].parentNode.className+=allHTMLTags[i].parentNode.className?' isHi':'isHi';                    
@@ -144,7 +145,7 @@
             </xsl:if>
             <xsl:apply-templates/>
             <!-- Hack for adding highlighting with YUI datatable. -->
-            <span class="{@role}"><!-- IE fix --></span>
+            <a class="{@role}" name="{../@n}"><!-- IE fix --></a>
         </td>
     </xsl:template>
     
