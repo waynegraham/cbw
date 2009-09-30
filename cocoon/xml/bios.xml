@@ -151,6 +151,7 @@
             <interp id="talent" value="anecdotes or remarks on promise or achievement"/>
             <interp id="education" value="formal and informal education"/>
             <interp id="marriage" value="event and relationship"/>
+            <interp id="relationship" value="partner"/>
             <interp id="appearance" value="appearance"/>
             <interp id="vocation" value="calling, choice of work, employment"/>
             <interp id="religion"
@@ -793,24 +794,22 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label ana="birth">Birth</label> Kensington Palace
-                            <date>1819</date>
+                            <label ana="birth">Birth</label> Kensington Palace <date>1819</date>
                         </item>
                         <item>
-                            <label ana="vocation">Vocation</label> Accession 
-                            <date>1837</date>
+                            <label ana="vocation">Vocation</label> Accession <date>1837</date>
                         </item>
                         <item>
                             <label ana="marriage">Marriage</label> Wedded to Prince Albert
-                            <date>1840</date>
+                                <date>1840</date>
                         </item>
                         <item>
                             <label ana="ordeal">Ordeal</label> Death of Prince Albert
-                            <date>1861</date>
+                                <date>1861</date>
                         </item>
                         <item>
                             <label ana="recognition">Recognition</label> Golden Jubilee
-                            <date>1887</date>
+                                <date>1887</date>
                         </item>
 
                         <item>
@@ -981,23 +980,23 @@
                     <list>
                         <item>
                             <label ana="birth">Birth</label> Peasant's daughter, Domrémy
-                            <date>1412</date>
+                                <date>1412</date>
                         </item>
                         <item>
-                            <label ana="vocation">Vocation</label> Received visionary calling to save French kindgom
-                            <date>1425</date>
+                            <label ana="vocation">Vocation</label> Received visionary calling to
+                            save French kindgom <date>1425</date>
                         </item>
-                        <item> 
+                        <item>
                             <label ana="ordeal">Ordeal</label> Delivered Orléans from English siege
-                            <date>1429</date>
+                                <date>1429</date>
                         </item>
                         <item>
-                            <label ana="death">Death</label> Condemned for heresy, burned at stake, Roeun
-                            <date>1431</date>
+                            <label ana="death">Death</label> Condemned for heresy, burned at stake,
+                            Roeun <date>1431</date>
                         </item>
                         <item>
                             <label ana="recognition">Recognition</label> Heresy conviction nullified
-                            <date>1456</date>
+                                <date>1456</date>
                         </item>
                     </list>
                 </div2>
@@ -1794,20 +1793,20 @@
                             <date>1822</date>
                         </item>
                         <item>
-                            <label ana="ordeal">Ordeal</label> Death of father 
-                            <date>1857</date>
+                            <label ana="ordeal">Ordeal</label> Death of father <date>1857</date>
                         </item>
                         <item>
                             <label ana="vocation">Vocation</label> Collaboration with Mary Carpenter
-                            <date>1858</date>
+                                <date>1858</date>
                         </item>
                         <item>
-                            <label>Domestic partnership with Mary Lloyd</label>
-                            <dateRange from="1858-12-01" to="1896-12-31">1860-1896</dateRange>
+                            <label ana="relationship">Relationship</label> Domestic partnership with
+                            Mary Lloyd 
+                            <date>1860-1896</date>
                         </item>
                         <item>
                             <label ana="vocation">Vocation</label> Began anti-vivisection campaign
-                            <date>1863</date>
+                                <date>1863</date>
                         </item>
                         <item>
                             <label ana="death">Death</label>
@@ -2284,17 +2283,17 @@
                             <date>1780</date>
                         </item>
                         <item>
-                            <label ana="marriage">Marriage</label> Wedded second husband, William Somerville
-                            <date>1812</date>
+                            <label ana="marriage">Marriage</label> Wedded second husband, William
+                            Somerville <date>1812</date>
                         </item>
                         <item>
-                            <label ana="vocation">Vocation</label> Published <hi rend="italics">The Mechanism of the
-                                Heavens</hi>
+                            <label ana="vocation">Vocation</label> Published <hi rend="italics">The
+                                Mechanism of the Heavens</hi>
                             <date>1831</date>
                         </item>
                         <item>
-                            <label ana="recognition">Recognition</label> Elected Honorary Member, Royal Astronomical Society
-                            <date>1835</date>
+                            <label ana="recognition">Recognition</label> Elected Honorary Member,
+                            Royal Astronomical Society <date>1835</date>
                         </item>
                         <item>
                             <label ana="death">Death</label>
@@ -2717,11 +2716,11 @@
                         </item>
                         <item>
                             <label ana="religion">Religion</label>Conversion to Catholicism
-                            <date>1851</date>
+                                <date>1851</date>
                         </item>
                         <item>
-                            <label ana="vocation">Vocation</label><hi rend="italics">Legends and Lyrics</hi>published
-                            <date>1858</date>
+                            <label ana="vocation">Vocation</label><hi rend="italics">Legends and
+                                Lyrics</hi>published <date>1858</date>
                         </item>
                         <item>
                             <label ana="death">Death</label>
@@ -3139,8 +3138,8 @@
                             <date>1815</date>
                         </item>
                         <item>
-                            <label ana="ordeal">Ordeal</label> Rescue of survivors of wreck of Forfarshire
-                            <date>1838</date>
+                            <label ana="ordeal">Ordeal</label> Rescue of survivors of wreck of
+                            Forfarshire <date>1838</date>
                         </item>
                         <item>
                             <label ana="death">Death</label>
@@ -3628,8 +3627,8 @@
                             <date>1780</date>
                         </item>
                         <item>
-                            <label ana="vocation">Vocation</label> Begins organized work with women prisoners
-                            <date>1817</date>
+                            <label ana="vocation">Vocation</label> Begins organized work with women
+                            prisoners <date>1817</date>
                         </item>
                         <item>
                             <label ana="death">Death</label>
@@ -3868,15 +3867,15 @@
                             <figure n="no379"/>
                         </item>
                         <item>
-                            <label>Charlotte Bronte. From Rupert Sargent Holland, <title>
-                                    <hi rend="italics">Historic Girlhoods</hi>.</title></label>
-                            <figure n="no407"/>
-                        </item>
-                        <item>
                             <label>Brontë Group. From a painting by Branwell Bronte. From Marion
                                 Harland, <title><hi rend="italics">Charlotte Brontë at
                                     Home</hi>.</title></label>
                             <figure n="no467"/>
+                        </item>
+                        <item>
+                            <label>Charlotte Bronte. From Rupert Sargent Holland, <title>
+                                    <hi rend="italics">Historic Girlhoods</hi>.</title></label>
+                            <figure n="no407"/>
                         </item>
                         <item>
                             <label>Charlotte Bronte. From a drawing in chalks by George Richmond,
@@ -3986,15 +3985,33 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
+                            <label ana="birth">Birth</label> Reverend's daughter, Yorkshire
                             <date>1816</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label ana="ordeal">Ordeal</label> Typhoid fever outbreak at Clergy
+                            Daughters' School, death of sisters Maria and Elizabeth 
+                            <date>1825</date>
                         </item>
                         <item>
-                            <label>Death</label>
+                            <label ana="vocation">Vocation</label> <hi rend="italics">Jane Eyre</hi> published
+                            <date>1847</date>
+                        </item>
+                        <item>
+                            <label ana="ordeal">Ordeal</label> While writing <hi rend="italics"
+                                >Shirley</hi>, siblings Branwell, Emily and Anne died
+                            <date>1848-1849</date>
+                        </item>
+                        <item>
+                            <label ana="vocation">Vocation</label> <hi rend="italics">Villette</hi> published
+                            <date>1853</date>
+                        </item>
+                        <item>
+                            <label ana="marriage">Marriage</label> Wedded Arthur Bell Nicholls, brief period of domestic happiness
+                            <date>1854</date>
+                        </item>
+                        <item>
+                            <label ana="death">Death</label>
                             <date>1855</date>
                         </item>
                     </list>
