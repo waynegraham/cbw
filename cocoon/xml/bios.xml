@@ -151,7 +151,7 @@
             <interp id="talent" value="anecdotes or remarks on promise or achievement"/>
             <interp id="education" value="formal and informal education"/>
             <interp id="marriage" value="event and relationship"/>
-            <interp id="relationship" value="partner"/>
+            <interp id="relationship" value="partner, friend or other significant relationship"/>
             <interp id="appearance" value="appearance"/>
             <interp id="vocation" value="calling, choice of work, employment"/>
             <interp id="religion"
@@ -3985,33 +3985,23 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label ana="birth">Birth</label> Reverend's daughter, Yorkshire
+                            <label ana="birth">Birth</label> Yorkshire
                             <date>1816</date>
-                        </item>
-                        <item>
-                            <label ana="ordeal">Ordeal</label> Typhoid fever outbreak at Clergy
-                            Daughters' School, death of sisters Maria and Elizabeth 
-                            <date>1825</date>
                         </item>
                         <item>
                             <label ana="vocation">Vocation</label> <hi rend="italics">Jane Eyre</hi> published
                             <date>1847</date>
                         </item>
                         <item>
-                            <label ana="ordeal">Ordeal</label> While writing <hi rend="italics"
-                                >Shirley</hi>, siblings Branwell, Emily and Anne died
+                            <label ana="ordeal">Ordeal</label> Death of siblings Branwell, Emily and Anne
                             <date>1848-1849</date>
-                        </item>
-                        <item>
-                            <label ana="vocation">Vocation</label> <hi rend="italics">Villette</hi> published
-                            <date>1853</date>
                         </item>
                         <item>
                             <label ana="marriage">Marriage</label> Wedded Arthur Bell Nicholls, brief period of domestic happiness
                             <date>1854</date>
                         </item>
                         <item>
-                            <label ana="death">Death</label>
+                            <label ana="death">Death</label> Illness during pregnancy
                             <date>1855</date>
                         </item>
                     </list>
