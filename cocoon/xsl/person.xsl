@@ -162,7 +162,6 @@
 					<li class="item">
 						<b>
 							<a href="{address/addrLine}">
-								<xsl:value-of select="label"/>
 								<xsl:apply-templates select="label"/>
 							</a>
 						</b>
