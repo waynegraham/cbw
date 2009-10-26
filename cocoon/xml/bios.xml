@@ -149,17 +149,18 @@
             <interp id="family" value="information on ancestry or immediate relatives"/>
             <interp id="childhood" value="childhood circumstances, habits, or experience"/>
             <interp id="talent" value="anecdotes or remarks on promise or achievement"/>
+            <interp id="illness_or_health" value="subject's or others' illness or health in general or event"/>
             <interp id="education" value="formal and informal education"/>
             <interp id="marriage" value="event and relationship"/>
             <interp id="relationship" value="partner, friend or other significant relationship"/>
-            <interp id="appearance" value="appearance"/>
+           
             <interp id="vocation" value="calling, choice of work, employment"/>
             <interp id="religion"
                 value="practices, family training, conversion, mission or teaching others"/>
             <interp id="ordeal" value="defining episode including hardship or test"/>
             <interp id="recognition"
                 value="living or posthumous acknowledgment or tributes in person, media, events"/>
-            <interp id="death" value="death"/>
+            <interp id="death" value="death of subject or of others"/>
             <interp id="memorial" value="funeral, monument, plaque"/>
         </interpGrp>
         <interpGrp id="subject_type">
@@ -187,8 +188,8 @@
             <interp id="biblical" value="heroine of bible and apocrypha"/>
             <interp id="wife"
                 value="woman whose renown primarily is relation to president, prime minister, eminent man (excl. queens"/>
-            <interp id="mother" value="woman whose renown primarily is relation to great offspring"/>
-            <interp id="lover"
+            <interp id="mother_type" value="woman whose renown primarily is relation to great offspring"/>
+            <interp id="lover_type"
                 value="woman whose renown primarily is amorous relation to eminent man; muse, temptation"/>
             <interp id="beauty_or_society" value="respected, unpaid celebrity"/>
             <interp id="mistress" value="high-status sexual entrepreneur"/>
@@ -201,7 +202,7 @@
         <interpGrp id="places">
             <interp id="continent" value="Continent"/>
             <interp id="kingdom" value="Kingdom"/>
-            <interp id="country" value="Country"/>
+            <interp id="nation" value="country, nation, state"/>
             <interp id="region" value="Region"/>
 
             <interp id="island" value="Island"/>
@@ -209,6 +210,7 @@
             <interp id="county" value="County"/>
             <interp id="city" value="specific city; urban environment"/>
             <interp id="town" value="Town"/>
+            <interp id="court" value="palace, royal residence, royal presence"/>
             <interp id="village" value="Village"/>
             <interp id="district" value="District"/>
             <interp id="neighborhood" value="Neighborhood"/>
@@ -230,12 +232,105 @@
             <interp id="international_war" value="international war"/>
             <interp id="civil_war" value="civil war"/>
             <interp id="religious_conflict" value="sectarian movements, persecution"/>
-            <interp id="campaign" value="campaign"/>
+            <interp id="campaign" value="organized nonviolent action for cause by others or subject"/>
+            <interp id="mass_action" value="riot, demonstration, unrest of population"/>
 
             <interp id="government" value="Parliament, Congress, other arms of the state"/>
             <interp id="church" value="Church of England, Methodist, other organized religions"/>
+            <interp id="festival" value="coronation, jubilee, exhibition"/>
+            <interp id="assassination" value="attacks on public figures, fatal or not"/>       
+             <interp id="disease" value="disease, epidemic"/>
+                <interp id="progress" value="social, industrial, technology"/>
+                <interp id="decline" value=""/>
+                
+                
+                
+                
+                
         </interpGrp>
-        <interpGrp id="narrative"> </interpGrp>
+        <interpGrp id="narrative_rhetoric"> 
+        <interp id="trope_light" value="comparison of subject to sunshine, beacon"/>
+            <interp id="trope_dark" value="comparison of setting or outlook to night, darkness"/>
+            <interp id="trope_light_into_darkness" value="subject's quest into dark space, bearing light"/>
+            <interp id="trope_mission" value="subject's activity troped as religious service to people"/>
+            <interp id="trope_alone" value="subject's loneliness, difference from all women, lack of companion"/>
+       <interp id="topos_appearance" value="description of subject's physical persona, her own and others' response to it"/>
+            <interp id="topos_nursing_dying_man" value="subject nurses soldier, patient, wounded or diseased"/>
+            <interp id="topos_confronting_working_class" value="subject subdues hostile workers"/>
+            <interp id="topos_rescue_fallen_women" value="subject aids or influences prostitutes"/>
+            <interp id="topos_influence" value="proven effect on the people, on professionals, female peers"/>
+            <interp id="topos_recognition" value="scenes proving fame, love of people, officials awarding honor"/>
+            <interp id="example" value="subject seen as or follows another as model person"/>
+            <interp id="advice" value="presenter offers general precept(s)"/>
+            <interp id="moral" value="restatement of lesson derived from subject’s character or action"/>
+            <interp id="analogy_female_saint" value="subject compared to female saint"/>
+            <interp id="analogy_male_saint" value="subject compared to male saint"/>
+            <interp id="analogy_Jesus" value="subject compared to Jesus"/>
+            <interp id="analogy_contemporary_woman" value="subject compared to contemporary woman"/>
+            <interp id="analogy_historical_woman" value="subject compared to historical woman"/>
+            <interp id="analogy_ancient_woman" value="subject compared to ancient woman"/>
+            <interp id="analogy_biblical_woman" value="subject compared to biblical woman"/>
+            <interp id="analogy_historical_man" value="subject compared to historical man"/>
+            <interp id="analogy_contemporary_man" value="subject compared to contemporary man"/>
+            <interp id="direct_address" value="narrator speaks to reader, uses first or second person"/>
+            <interp id="emphasis" value="exclamation, intensifying punctuation, typeface, adjectives"/>
+            <interp id="prophecy" value="prediction of subject's fulfillment by narrator or agents"/>
+            
+            
+            
+            
+        </interpGrp>
+        <interpGrp id="narrative_elements">
+            <interp id="description" value="verbal representation of spatial, visual, material settings, objects or beings, activities"/>
+            <interp id="anecdote" value="unique action, brief time and narration, to illustrate"/>
+            <interp id="habit" value="brief reiterated action, characterizing usual activities"/>
+            <interp id="episode" value="scene or unique action, longer time and narration, integral to subject's life"/>
+            <interp id="dialogue" value="exchanged speech similar to fictional scene"/>
+            <interp id="speech_subject" value="utterance, quoted or paraphrased, of the subject only, in scene or not"/>
+            <interp id="speech_others" value="utterance, quoted or paraphrased, of another person, in scene or not"/>
+            <interp id="quotation_letter" value="quotation from letter by subject or other person"/>
+            <interp id="quotation_documentary" value="excerpt of journalism, report, historical source"/>
+            <interp id="quotation_biography" value="excerpt of another biography"/>
+            <interp id="quotation_writing_by_subject" value="use of texts other than letters by the subject"/>
+            <interp id="focalization" value="attributed thoughts, perceptions to agents in narrative"/>
+            <interp id="allusion" value="literature, Bible, folk precepts, other heritage briefly quoted or referred to"/>
+            <interp id="temporal_effects" value="references to passage of time, dates, seasons, flashbacks, forecasts, gaps"/>
+          
+            
+        </interpGrp>
+        <interpGrp id="genre_conventions">
+           <interp id="stable_condition" value="exposition of subject's identity, including time, place, birth, family"/> 
+            <interp id="discriminated_event" value="anecdote or episode that marks change in life"/>
+            <interp id="movement" value="travel, departure from home, quest"/>
+            <interp id="adversity" value="illness, hostility, catastrophe, violence, doubt"/>
+            <interp id="triumph" value="adversity overcome, opponents subdued"/>
+            <interp id="resolution" value="conclusion of narrative, scene of death, summation of subject's renowned achievement"/>
+            
+            
+        </interpGrp>
+        <interpGrp id="agents">
+            <interp id="father" value="subject's father"/>
+            
+            <interp id="mother" value="subject's mother"/>
+            <interp id="brother" value="subject's brother"/>
+            <interp id="sister" value="subject's sister"/>
+            <interp id="lover" value="person beloved by subject, suitor, fiance"/>
+            <interp id="husband" value="subject's husband"/>
+            <interp id="child_children" value="subject's offspring"/>
+            <interp id="male_below" value="boys or men of lower class than subject"/>
+            <interp id="female_below" value="girls or women of lower class than subject"/>
+            <interp id="female_peer" value="girls or women of same class status as subject"/>
+            <interp id="male_peer" value="boys or men of same class status as subject"/>
+            <interp id="superior"    value="authority figures of either sex, mentors or models"/>
+            <interp id="friend" value="any unrelated agent allied with subject, usually female peer"/>
+            <interp id="sacred_or_divine" value="objects of orthodox devotion, agents of transcendent judgment, Jesus, God, saint, personified spirit"/>
+            <interp id="nature" value="weather, landscape, effect on subject without divine agency"/>
+            <interp id="social_determination" value="agency of law, social rules, secular power over subject"/>
+            <interp id="fate_or_design" value="causality personified, other than Christian divinity, nature, society or tangible forces"/>
+            
+            
+            
+        </interpGrp>
         <body>
             <div1 id="SISTER_DORA" ana="nurse_reform">
                 <head>
@@ -823,614 +918,208 @@
                     <docDate>October 28, 2009</docDate>
                     <head>
                         <title>Queen Victoria: Reigning Subject, Dull Biography</title>
-                        <bibl>Condensation of Rosa Nouchette Carey's short biography with critical synthesis of essays in <title><hi rend="italics">Remaking Queen Victoria</hi></title>.</bibl>
+                        <bibl>Critical gloss and condensation of Rosa Nouchette Carey's short biography with critical synthesis of essays in <title><hi rend="italics">Remaking Queen Victoria</hi></title>.</bibl>
                     </head>
-                    <p>CHILDHOOD AND YOUTH
-
-__________
-
-CHAPTER    I
-
-VICTORIA   THE   GOOD
-
-"Time in his mantle's sunniest fold 
-Uplifted in his arms the child; 
-	And, while the fearless infant smiled, 
-			          Her happy destiny foretold. 
-Infancy, by wisdom mild,
-	        Framed to health and artless beauty;
-    Youth by pleasure unbeguiled
-       From the path of lofty duty.
-Womanhood in pure renown
-       Seated on her lineal throne."
-
-						ODE BY WORDSWORTH.
-
-THERE was a striking sentence written some twelve years ago by Dr. Macaulay, to this effect:—"When the time comes for the history of the reign of Queen Victoria to be written, it will be found that no equal epoch since the commencement of the Christian era--except, perhaps, that which includes the discovery of America, the invention of printing, and the Reformation--has been so full of important events, affecting the condition and progress of the human race. . . . In the advancement of science," he goes on to say, "and its application to the arts; in the subjugation of nature to the use of man; all around us and  in our daily life, we see  the results of
-
-15
-
-16 Her Majesty the Queen
-
-material progress.   Nor is the advance less marked in social and moral, in educational and religious life."
-	"In Queen Victoria," said Lord Macaulay, "her subjects have found a wiser, gentler, happier Elizabeth"--and this, too, is pregnant with truth. The whole life of our beloved Queen, as we know it up to the present day, is a Royal Idyll, noble in its simplicity, its truth, its purity; and as child, crowned maiden, wife, mother, and widowed ruler, she alike claims our reverence and love.
-	It was a blessed day for England, that 24th of May, 1819, when in the grey old palace at Kensington the girl baby opened her blue eyes first on this world. The only child of the popular Duke of Kent and his wife, the widowed and charming Princess of Leiningen, great was her father's rejoicing at her birth. "Take care of her, for she will be Queen of England," he would say, with fond pride; and so the little Princess was baptised on the 24th of June, in the grand saloon of Kensington Palace, and received the name of Alexandrina Victoria; and it is interesting to read that she was successfully vaccinated the following August, and that she was "the first member of the Royal Family of Britain who received the benefit of Jenner's remarkable discovery." There is a happy little account of their stay at Sidmouth, where the little one thrived in the health-giving Devonshire air; but alas! the visit terminated sadly. The Duke was seized with a severe indisposition and chill, which resulted in inflammation of the chest with high fever; and before the babe was nine months old she was fatherless. Two days later the widowed Duchess, with her child and her brother Prince Leopold, set out for London.
-	There is a sweet word-picture here; for we are told that the royal infant, "being held up at the carriage window to bid the assembled population of Sidmouth farewell, sported and laughed joyously, and patted the glass with her pretty dimpled hands, in happy unconsciousness of her
-
-Childhood and Youth
-
-melancholy bereavement." The graphic little scene seems to live for us: the crowing babe, the tiny hands beating in infantile fashion against the shining pane, the gurgling laughter of the unconscious little one; while the widowed mother wept beside her,--how vividly one seems to see it!
-	As we follow the footsteps of the Royal child from infancy to childhood, and on through her early youth, the curtain seems to rise for us again and again; and some never-to-be-forgotten picture is placed before our eyes--distinct, lifelike, rich with nature's verity, and warm with colour.
-	Every writer who has striven to pourtray the leading incidents of Queen Victoria's life has seized eagerly on these little episodes, which seem to stand out with cameo-like clearness, and one by one to reproduce them.
-	There was something grand and unique in the self-abnegation of the widowed Duchess of Kent when she determined to devote her life to the care and training of her fatherless child.
-	In her own noble words she says: "We stood alone--almost friendless and alone in this country; I could not even speak the language of it. I did not hesitate how to act; I gave up my home, my kindred, my duties [the regency of Leiningen] to devote myself to that duty which is to be the whole object of my life."
-	And from that time she lived at Kensington in strict seclusion; and from the day of her father's death until she ascended the throne the Princess always slept in her mother's room.
-	There is another infantile sketch that is very charming,--when we hear of the little Princess appearing in her phaeton, when she was fifteen months old, tied safely to the vehicle with a broad ribbon, and drawn by her half-sister Princess Feodore.
-	And we are told too that "the baby liked to be noticed, and answered all who spoke to her; she would say 'lady,'
-
-
-18               Her Majesty the Queen
-
-and 'good morning,' and when told, would hold out her soft dimpled hand to be kissed, with an arch expression on her face. . . . Her large blue eyes, beautiful bloom, and fair complexion made her a model of infantine beauty.”
-	The great philanthropist William Wilberforce writes to Hannah More, on July 21st, 1820: "In consequence of a civil message from the Duchess of Kent I waited on her this morning. She received me with her fine animated child on the floor beside her with her playthings, of which I soon became one." The life at Kensington Palace was as simple as that of any English household.
-	Mr. Charles Knight, the publisher, has left a pleasing record of this period of the Queen's life. "I delighted," he narrates, "to walk in Kensington Gardens sometimes on a holiday afternoon with my elder girls, more frequently in the early morning on my way to town. In such a season, when the sun was hardly high enough to have dried up the dews of Kensington green alleys, as I passed along the broad central walk I saw a group on the lawn before the Palace, which to my mind was a vision of exquisite loveliness. The Duchess of Kent and her daughter, whose age then numbered nine, were breakfasting in the open air, a single page attending on them at a respectful distance, the matron looking on with eyes of love, while the fair soft face is bright with smiles." And farther on he exclaims with enthusiasm, "What a beautiful characteristic it seems to me of the training of this Royal girl, that she should not have been taught to shrink from the public eye; that she should enjoy the freedom and simplicity of a child's nature; that she should not be restrained when she starts up from the breakfast table and runs to gather a flower in the adjoining pasture; and that her merry laugh should be as fearless as the notes of the thrushes around! I passed on and blessed her; and thank God I have lived to see the golden fruits of such training."
-
-Childhood and Youth                   19
-
-	Nothing could exceed the almost severe simplicity of that Royal household. One record by a contemporary informs us of the daily routine.
-	"The family party met at breakfast at eight o'clock in summer time, the Princess Victoria having her bread and milk, and fruit, put on a little table by her mother's side. After breakfast the Princess Feodore studied with her governess, Baroness Lehzen, and the Princess Victoria went out for an hour's walk or drive. From ten to twelve her mother instructed her, and then she would amuse herself by running through the suite of rooms which extended round two sides of the Palace, and in which were many of her toys. Her nurse was a Mrs. Brock, whom the Princess used to call her 'dear dear Boppy.' At two came a plain dinner, while the Duchess took her luncheon. After this, lessons again until four; then would come a visit or a drive, and after that the Princess would ride or walk in the gardens; or occasionally, on very fine evenings, the whole party would sit out on the lawn under the trees. At the time of her mother's dinner the Princess had her supper laid at her side; then after playing with her nurse she would join them at dessert, and at nine she would retire to her bed which was placed beside her mother's, day and night watched over by maternal love.
-	Claremont, the residence of Prince Leopold, was a second home to the Duchess and her children, as the Royal pen has noted with reference to these visits. These were the happiest days of the Queen's childhood. The little Princess adored her uncle; and in 1842, when the Queen was staying at Claremont, she wrote to him in very touching words. "This place brings back recollections of the happiest days of my otherwise dull childhood; days when I experienced such kindness from you, dearest uncle; Victoria plays with my old bricks, and I see her running and jumping in the 
-
-20    Her Majesty the Queen
-
-flower garden as old (though I feel still little) Victoria of former days used to do."
-	There is a touch of sadness here--"my otherwise dull childhood": no doubt the high-spirited, affectionate child must have yearned sorely for playmates; and that in spite of the care observed in the young Princess' education, and her mother's untiring and watchful love, the young heart must have had lonely hours, and she must often have regarded with feelings akin to envy the groups of happy children sporting under the trees.
-	There is a charming passage in a letter written by the Dowager Duchess of Coburg to the Duchess of Kent upon the Princess's eleventh birthday. "My blessings and good wishes for the day which gave you the sweet blossom of May! May God preserve and protect the valuable life of that lovely flower from all the changes that will beset her mind and heart. The rays of the sun are scorching at the height to which she may one day attain. It is only by the blessing of God that all the fine qualities He has put into that young soul can be kept pure and untarnished."
-	"Very seldom," as Dr. Macaulay informs us, "has a young mind and heart been more wisely and carefully cultivated, judging by results."  He goes on to say, "What was the progress of the training in those early years we do not know, and are not likely to know except by the publication of any records that may have been kept by the governesses and teachers of the Princess, especially by the late Baroness Lehzen, who was with her from child-hood." If her correspondence or diary should ever see the light, we shall know more of the girlhood of the Queen.
-	How interesting her statement would be, may be inferred from a single recollection which she gave in a letter to the Queen as lately as December 2nd, 1867. This was long after the faithful governess had retired to spend the evening of her life in her own country.
-
-Childhood and Youth			21
-
-	"I ask your Majesty's leave," writes the Baroness, "to cite some remarkable words of your Majesty when only twelve years old, while the Regency Bill was still in pro-gress. I then said to the Duchess of Kent that now for the first time your Majesty ought to know your place in the succession. Her Royal Highness agreed with me, and I put the genealogical table into the historical book. When Mr. Davys" (the Queen's instructor, afterwards Bishop of Peterborough) "was gone, the Princess opened, as usual, the book again, and seeing the additional paper, said, 'I never saw that before.' 'It was not thought necessary you should, Princess,' I answered. 'I see I am nearer the throne than I thought.' 'So it is, Madam,' I said. After some moments, the Princess resumed, 'Now, many a child would boast; but they don't know the difficulty. There is much splendour, but much responsibility.' The Princess, having lifted up the forefinger of her right hand, gave me that little hand, saying, 'I will be good, dear Lehzen; I will be good.' I then said, 'But your Aunt Adelaide is still young and may have children, and of course they will ascend the throne of their father William IV., and not you, Princess.' The Princess answered, 'And if that were so, I should never feel disappointed, for I know by the love my Aunt Adelaide bears me how fond she is of children.'"
-	One must surely allow that these were remarkable words to be spoken by a child of twelve; and in their calm seriousness they recall to our mind Mrs. Oliphant's pleasant description of the personal appearance of the young Princess. "I remember very distinctly," she says, "when I saw her first, being myself very young, how the calm, full look of her eyes impressed and affected me. Those eyes were very blue, serene, still, looking at you with a tranquil breadth of expression which somehow conveyed to your mind a feeling of unquestionable power and greatness, quite poetical in its serious simplicity.  I do not suppose she was
-
-22            Her Majesty the Queen
-
-at all aware of this, for the Queen does not take credit for being so calmly royal; but this is how she looked to a fanciful girl, seeing Her Majesty for the first time."
-	G. Barnett Smith, in his interesting "Life of the Queen," informs us that "the Duchess of Kent early familiarised her illustrious daughter with the features of her own country, interesting her in it by personal visits to its chief cities and towns." In this way they visited Birmingham, Worcester, Kenilworth, and Carnarvon, and other places, and accepted invitations to beautiful English country seats, such as Eaton Hall, Alton Towers, and Chatsworth.
-	In 1833 the Duchess and her daughter took up their residence at their beautiful seat of Norris Castle, Isle of Wight. It was here the young Princess first acquired her love of ships and the sea. Here we have another idyllic sketch, delightful in its simplicity. "A tourist on one occasion strolled into the old churchyard at Arreton, near Brading, to search out the grave of Elizabeth Wallbridge, the heroine of Legh Richmond's popular religious story, 'The Dairyman's Daughter.' Beside a grassy mound he discovered a lady and a young girl seated, the latter reading aloud in a full, melodious voice, the touching tale of the Christian maiden. The tourist turned away, and soon after was told by the sexton that the pilgrims to that humble grave were the Duchess of Kent and Princess Victoria."
-	When, in 1830, George IV. died and the Duke of Clarence, afterwards William IV., ascended the throne, it became necessary, we are told, "to provide for the contingency of the Princess Victoria's accession to the throne before attaining the age of eighteen, that being the period of her majority."
-	A Regency Bill was passed, and the Duchess of Kent was named guardian of the infant Princess and Regent of the Kingdom, assisted by a Council of Regency. A sum of £10,000 a year was voted, in addition to the original
-
-Childhood and Youth                   23
-
-annual grant of £6000, for the maintenance and support of the heiress presumptive.
-	The young Princess made her first appearance at Court on Queen Adelaide's birthday, on February 24th, 1831, when she was thirteen. We read that "she wore a dress of English blonde over white satin, a pearl necklace, and a rich diamond agrafe fastened the Madonna braids of her fair hair at the back of her head."
-	There was much comment and questioning at the absence of the heiress presumptive on the occasion of the coronation of William IV. and Queen Adelaide; but controversy was silenced by the statement that the Duchess of Kent had been anxious about her daughter's delicate health, and had obtained the King's sanction for her absence; and indeed, at the close of the Princess Victoria's fifteenth year, her condition gave general concern.
-	On August 30th, 1835, the Princess was confirmed in the Chapel Royal of St. James'. The Archbishop of Canterbury and the Bishop of London officiated. The ceremony was private; only the King and Queen, the Duchess of Kent, the Duchess of Saxe-Weimar, and other members of the Royal Family were present. But the scene was a touching one, for during the Archbishop's pathetic and tender exhortation the Royal girl was deeply affected, her face was bathed in tears, and unable at last to restrain her emotions, she laid her head on her mother's shoulder and sobbed aloud.
-	In painful contrast to this affecting scene Greville gives us a singular account of the King's birthday dinner--when about a hundred persons were present, and among them the Duchess of Kent and the Princess Victoria, when the King delivered a most extraordinary speech. "I trust in God," he is reported to have said, "that my life may be spared for nine months longer, after which period, in the event of my death, no regency would take place.  I should
-
-24             Her Majesty the Queen
-
-then have the satisfaction of leaving the royal authority to the personal exercise of that young lady," pointing to the Princess, "the heiress-presumptive of the crown, and not in the hands of a person near me, who is surrounded by evil advisers, and who is herself incompetent to act with propriety in the station in which she would be placed." The King went on to complain of the manner in which the Princess had been kept away from Court and from the Drawing-room, and in a most peremptory manner commanded that the Princess should for the future appear at Court on all occasions. Greville adds that this awful philippic was uttered with a loud voice and an excited manner, and that though the King concluded with an affectionate allusion to the Princess, it created a most painful sensation. The Queen was in great distress, the young Princess burst into tears; as for the insulted Duchess, she said not a word, but announced her immediate departure.
-	One can only hope that the scene is exaggerated, but it is well known that the King frequently lost his temper, and that more than once he had vented his displeasure on his sister-in-law. A sort of reconciliation was on this occasion effected, and the Duchess was induced to remain at Windsor until the next day.
-	May 1836 was a memorable month for Princess Victoria, for it was then that she first saw her future husband.
-	The "little May flower" had always been an object of interest to her relatives in Coburg, and the idea of her marriage to one of her cousins had taken deep root in the family. The Prince used to relate that when he was a child of three years old his nurse always told him that he should marry the Queen, and that when he first thought of marrying at all, he always thought of her.
-	This idea was warmly encouraged by King Leopold, and his   friend and adviser Baron Stockmar, but the latter
-
-Childhood and Youth		25
-
-urged "that no claim on the Prince's behalf for the hand of his cousin should be preferred, unless an impression in his favour from personal acquaintance should first have been produced."
-	An invitation from the Duchess to the Duke of Coburg and his sons Ernest and Albert afforded an opportunity for the Princess to make the acquaintance of her cousins. "But," Stockmar wrote, "it must be made a sine qua non that the object of the visit be kept strictly secret from the Princess, as well as from the Prince, so as to leave them completely at their ease."
-	The visitors remained nearly four weeks at Kensington Palace, and the cousins spent delightful days together, playing duets on the piano, sketching, walking and riding, and visiting the chief attractions of the Metropolis.
-	Prince Albert writes home in his simple, affectionate way: "Dear Aunt is very kind to us, and does everything she can to please us; and our cousin also is very amiable." The Queen, too, gave the following description of the Prince at this period: "The Prince was at this time very handsome, but very stout, which he entirely grew out of afterwards. He was most amiable, natural, unaffected, and merry, full of interest in everything."
-	The visit of the Royal youths was a complete success, and the Queen unconsciously revealed her favourable opinion of Prince Albert in her confidential letters to her uncle, King Leopold. They were both now about seventeen years old, the Queen completing her seventeenth year during the visit, the Prince three months later. Sir Theodore Martin, in his life of the Prince Consort, tells us "that almost simultaneously with the Princes leaving England, King Leopold made the Queen aware of his wishes on the subject. The answer made it impossible to doubt how entirely those of the Princess were in accordance with his own.  "I have only now to beg you, my dearest uncle,"
-
-26               Her Majesty the Queen
-
-it concludes, "to take care of the health of one now so dear to me, and to take him under your special protection. I hope and trust that all will go on prosperously and well on this subject now of so much importance to me." (Letter of Princess Victoria to King Leopold, June 7th, 1836.)
-	On May 24th, 1837, the Princess came legally of age. It was a time of great rejoicing.  Kind messages came from Windsor, and a costly piano from the King; but he was too ill to be present at the State Ball at St. James's, nor could the Queen leave him.
-	We read that the Princess Victoria opened the ball with young Lord FitzAlan, son of the premier Duke in England, the Duke of Norfolk, and that she danced with Prince Esterhazy--"ablaze with diamonds as usual." A few days later Baron Stockmar arrived on the scene, and less than a month after that festal birthday William IV. breathed his last.
-	It is interesting to note that Princess Victoria made her last appearance in public as heiress presumptive at a Charity Ball given at the Opera House for the benefit of the Spitalfields weavers, and that her life as Princess was thus fitly closed by a charitable act.
-
-ACCESSION   AND   MARRIAGE
-
-______________
-
-CHAPTER   II 
-
-VICTORIA  REGINA
-
-"God save thee, weeping Queen! 
-Thou shalt be well beloved; 
-The tyrant's sceptre cannot move, 
-As those poor tears have moved; 
-Tho' nature in thy eyes we see 
-Which tyrants cannot own—
-The love that guardeth liberties, 
-Strange blessing on the nation lies
-	Whose Sovereign wept—
-Yea, wept to wear a crown."—E. B. BROWNING.
-
-	___________________
-
-"Life treads on life, and heart on heart, 
-We press too close in church and mart, 
-To keep a dream or grave apart."
-
-So sang one of the sweetest of our English poets; but in this earthly existence of ours "the shadows of the prison-house" seem to environ us wherever we move, and our warm human personality shrinks from the cold touch of the dark angel's hand. Life and death, buoyant youth and senile decay, and light tripping feet moving with averted eyes among the graves!
-	The King is dead!  The bluff, warm-hearted Sailor-King—so hasty of tongue, so kind of heart—"nothing in his life
-
-28		Her Majesty the Queen
-
-became him like the leaving it." "Believe me, I am a religious man," he had said in his feeble voice to the Archbishop who was ministering to him; and more than once he had raised his dying eyes, as though in communion with the unseen King of kings, and murmured "Thy will be done."
-	Victoria Regina! God save the Queen! A Royal Idyll indeed!—it reads to us still like a fairy tale; we heard it first at our mother's knee, and hushed our young breaths as the thrilling story unfolded before us: the slumbering Palace in the dim light of that June morning, the sleeping Princess, the hurrying messengers: Dr. Howley, the Arch-
-
-bishop of Canterbury, and the Lord Chamberlain, Lord Conyngham; the unavailing knocking, thumping, and ringing before the drowsy porter could be aroused. We read how, when the attendant hesitated about disturbing the Princess, so sweet and sound were her slumbers, the quick peremptoriness of the official reply, "We have come on business to the Queen, and even her sleep must give way to that." And then follows that quaint, natural word-picture drawn by Miss Wynn in her "Diary of a Lady of Quality": "In a few minutes she [the Princess] came into the room in a loose white nightgown and shawl, her nightcap thrown off, and her hair falling upon her shoulders, her feet in slippers, tears in her eyes, but perfectly collected and dignified." In Mrs. Tooley's "Personal Life of Queen Victoria," she gives us the following interesting piece of information: "In 1863, when Dean Stanley was on a visit to the Queen at Osborne, he asked Her Majesty if she would give him an account of how the news of her accession was conveyed to her, which she did in the following words: "It was about 6 a.m. that mamma came and called me, and said I must go to see Lord Conyngham directly—alone. I got up, put on my dressing-gown, and went into a room, where I found Lord Conyngham, who knelt and
-
-Accession and Marriage            29
-
-kissed my hand, and gave me the certificate of the King's death. In an hour Baron Stockmar came. He had been sent over by King Leopold on hearing of the King's danger-ous illness. At 2 p.m. that same day (June 20th, 1837) I went to the council led by my two uncles, the King of Hanover and the Duke of Cambridge.'" But all accounts agree on one point: that the first words of the girl monarch on being informed of her new dignity were addressed to the Archbishop—"I ask your Grace to pray for me." Every episode of this memorable day is full of thrilling interest. 
-	The young Queen's first Privy Council was held at Kensington Palace later that morning; and one can imagine the sensation and emotion that were excited when the doors were thrown open, and that girlish figure in mourning advanced, bowing quietly to her lords, and took her seat; and without embarrassment or tremor of nerves read her declaration in a clear silvery voice.  Greville himself seemed to be struck with admiration at the young Queen's bearing. He tells us in his graphic way: "After she had read her speech and taken and signed the oath for the security of the Church of Scotland, the Privy Councillors were sworn, the two Royal Dukes first by themselves. And as these two old men, her uncles, knelt before her, swearing allegiance and kissing her hand, I saw her blush up to the eyes, as if she felt the contrast between their civil and natural relations; and this was the only sign of emotion which she evinced. Her manner to them was very graceful and engaging: she kissed them both, and rose from her chair and moved towards the Duke of Sussex, who was farthest from her and too infirm to reach her. She seemed rather bewildered at the multitude of men who were sworn, and who came one after another to kiss her hand; but she did not speak to anybody, nor did she make the slightest difference in her manner, or show any in her countenance, to any individual of rank, station, or party.  I particularly watched her when
-
-30              Her Majesty the Queen
-
-Melbourne and the Ministers and the Duke of Wellington and Peel approached her. She went through the whole ceremony, occasionally looking at Melbourne for instruction when she had any doubt what to do, which hardly ever occurred, with perfect calmness and self-possession, but at the same time with a graceful modesty and propriety particularly interesting and ingratiating."
-	This was a splendid eulogium from the "acid diarist." But the Duke of Wellington seemed also much impressed, and was heard to say "that if the Queen had been his own daughter he could not have desired to see her perform her part better."
-	Immediately after the Council, we are informed the Queen went to her mother's room and begged with deep emotion to be left in absolute solitude for two hours. No one dare invade that sacred privacy; but we may believe that that fair young head was bowed in earnest prayer for strength and wisdom to fulfil the duty of that high station to which she had been called in her youth—"Victoria Regina, by the grace of God, Queen of the United Kingdom of Great Britain and Ireland."
-	There is another incident on that day which deserves to be mentioned. One of her first acts had been to write a loving letter full of tenderest sympathy to the widowed Queen. Some one reading the superscription, "Her Majesty the Queen," observed that it should be "Her Majesty the Queen Dowager." "I am quite aware of Her Majesty's altered character," was the reply, "but I will not be the first person to remind her of it"—an answer instinct with the finest delicacy.
-	On the following morning, June 21st, the Queen, accompanied by her mother, drove in state to St. James's Palace. The guns in the Park fired a salute at ten o'clock, and immediately the "little Queen" stood at the window of the Presence Chamber in full view of the crowd, while the band
-
-Accession and Marriage		31
-
-of the Royal Guards struck up the National Anthem, and at its conclusion, while Sir William Woods, acting for the Garter King-at-Arms, and accompanied by the Duke of Norfolk as Earl Marshal of England, read aloud the proclamation. The Queen looked very pale and fatigued. She was dressed in deep mourning, with a white tippet, white cuffs, and a border of white lace under a small black bonnet, which was placed far back on her head, exhibiting her light hair in front, simply parted over her forehead. She appeared deeply affected at the acclamations of her people, and was observed to shed tears. Elizabeth Barrett Browning com-memorated this touching incident in a lovely poem, the last stanza is exceptionally beautiful.
-
-"God bless thee, weeping Queen!
-    With blessing more divine, 
-And fill with better love than earth's
-    That tender heart of thine; 
-That when the throne of earth shall be
-    As low as graves brought down, 
-A piercèd Hand may give to thee 
-The crown which angels shout to see; 
-    Thou will not weep
-
-To wear that heavenly crown."
-
-	When the news of his cousin's accession reached Prince Albert, then a student at Bonn, he wrote to Her Majesty on June 26th: "Now you are Queen of the mightiest land of Europe, in your hand lies the happiness of millions. May Heaven assist you and strengthen you with its strength in that high but difficult task." And towards the end of the letter: "May I pray you to think likewise sometimes of your cousins in Bonn."
-	On July 13th the Queen took up her residence at Buckingham Palace, and four days later she went in state to dissolve Parliament. We read that the youthful Queen was dressed in white satin, with the ribbon of the Garter crossing her shoulder, and a magnificent tiara of diamonds
-
-32		Her Majesty the Queen
-
-on her head, and a necklace and stomacher of costly brilliants; the Parliamentary mantle of crimson velvet and ermine being adjusted by the lords-in-waiting.
-	Fanny Kemble, who was present on this occasion, gives us an admirable description of the girl Queen. "The Queen is not handsome, but very pretty, and the singularity of her great position lent a sentimental and poetical charm to her youthful face and figure. The serene, serious sweetness of her candid brow and clear soft eyes gave dignity to the girlish countenance; while the want of height only added to the effect of extreme youth of the round but slender figure, and gracefully moulded hands and arms. The Queen's voice was exquisite, nor have I ever heard any spoken words more musical in their gentle distinctness than 'My Lords and Gentlemen,' which broke the breathless silence of the illustrious assembly, whose gaze was riveted on that fair flower of royalty. The enunciation was as perfect as the intonation was melodious, and I think it is impossible to hear a more excellent utterance than that of the Queen's English by the English Queen."
-	The first of Her Majesty's many deeds of mercy was performed soon after her accession, when she was called on to sign her first death warrant, presented her by the Duke of Wellington. It was a deserter condemned by court-martial; but the Queen, hearing that some witnesses had spoken for his character, wrote 'Pardoned' across the paper, and pushed it across the table, her hand trembling with emotion."
-	Her next act was to pay her father's debts—indeed, she never rested until all his liabilities had been discharged. His allowance had not been large, and his generosity had been great, and his indiscriminating charity had involved him in pecuniary embarrassment. "I want to pay all that remains of my father's debts," she said to the Prime Minister.  "I must do it.  I consider it a sacred duty."
-
-Accession and Marriage		33
-
-Lord Melbourne said "that the earnestness and directness of that good daughter's manner when speaking of her father brought the tears to his eyes." Lord Melbourne was now her chief adviser.  George Villiers told Greville "that he was exceedingly struck with Melbourne's manner to the Queen, and hers to him—his so parental and anxious, but always so respectful and deferential; hers indicative of such entire confidence, such pleasure in his society"; and later on, "I have no doubt he is passionately fond of her, as he might be of his own daughter if he had one—and the more because he is a man with a capacity for loving, without having anything in the world to love. It is become his province to educate, instruct and form the most interesting mind and character in the world."
-	From the very commencement of her reign the young Sovereign showed that untiring industry and remarkable aptitude for business that was to set such a noble example to her subjects. As we peruse contemporary records of her daily life we are reminded again and again of the child-princess holding out her little hand with the pathetic utterance, "I will be good." There is a very interesting account, that may be quoted with profit. "She [the Queen] gets up soon after eight o'clock, breakfasts in her own room, and is employed the whole morning in transacting business; she reads all the dispatches [sic], and has every matter of interest and importance in every department laid before her. At eleven or twelve Melbourne comes to her and stays an hour, more or less, according to the business he may have to transact. At two she rides with a large suite (and she likes to have it numerous); Melbourne always rides at her left hand, and the equerry-in-waiting on her right; she rides for two hours along the road, and the greater part of the time at a full gallop; after riding she amuses herself for the rest of the afternoon with music and singing, playing and romping with children, if there are any
-
-
-34		Her Majesty the Queen
-
-in the Castle (and she is so fond of them that she generally contrives to have some there). The hour of dinner is nominally half-past seven o'clock, soon after which time the guests assemble, but she seldom appears before eight."
-	The account informs us that Melbourne always sat at her left hand at the dinner, and that the Queen would not allow the gentlemen to remain over their wine more than a quarter of an hour, but always remained standing in the drawing-room until they appeared. Coffee was then served, and after the Royal hostess had said a few words to each of her guests, the Duchess of Kent's whist table was arranged, the round table marshalled, Melbourne always seated at her left hand, and at half-past eleven the Queen retired.
-	The coronation of Her Majesty took place in Westminster Abbey on June 28th, 1838—a magnificent and soul-stirring spectacle, never to be forgotten by those who witnessed it.  Many shed tears when the fair young girl in her royal robes knelt before the faldstool in silent prayer. During the long wearisome ceremonial, which lasted for more than four hours, the youthful monarch played her part with a noble composure and dignity. One or two incidents were most impressive: one when the Westminster boys exercised their prerogative, and rising en masse shouted "Victoria, Victoria! Vivat Victoria Regina!" and again when the crown was placed on her head, and at the same moment the peers and peeresses put on their coronets, the trumpets sounded, the drums beat, and the Tower and Park guns fired their volleys. We are told that at this moment the Queen was visibly agitated, and that the Duchess of Kent was drowned in tears; "by a strong effort Her Majesty regained her composure," and the ceremonial continued. "No wonder," as an eyewitness informs us, "the crowned lady looked fatigued."
-	The next important event in the Queen's private life was 
-
-Accession and Marriage		35
-
-the second visit of the cousins from Coburg. Three years had passed since they had been in England, and during most of this time Prince Albert had been carrying on his studies at Bonn. All that the Queen had heard of the Prince was most favourable, we are told; and, to use her own words, "she never had any idea, if she married at all, of any one else." Still she had desired delay—she was too young, the Prince was too young. Very likely the novelty of her dazzling position, the natural intoxication of youth, freedom, and power, made her reluctant to enter upon the serious duties and responsibilities of wedded life. She expressed, however, great regret afterwards that she had not after her accession kept up her correspondence with her cousin as she had done before it. "Nor can the Queen now," she adds, "think without indignation against herself of her wish to keep the Prince waiting, for probably three or four years, at the risk of ruining all his prospects for life, until she might feel inclined to marry! And the Prince has since told her that he came over in 1839 with the intention of telling her that if she could not then make up her mind, she must understand that he could not now wait for a decision, as he had done at a former period, when this marriage was first talked about."
-	And then, with noble frankness and perfect artlessness, Her Majesty continues, "The only excuse the Queen can make for herself is in the fact, that the sudden change from the secluded life at Kensington to the independence of her position as Queen Regnant at the age of eighteen, put all idea of marriage out of her mind, which she now most bitterly repents." All these maidenly doubts and scruples were to vanish, however, before the irresistible feeling inspired by the Prince when they met again. "The three years," as General Grey tells us, "had greatly improved both the young men." Prince Albert was eminently handsome.  But there was also in his countenance a
-
-36               Her Majesty the Queen
-
-gentleness of expression and peculiar sweetness in his smile, with a look of deep thought and high intelligence in his clear blue eyes and expansive forehead, that added a charm to the impression he produced in those who saw him, far beyond that derived from mere beauty or regularity of features. And the Queen herself writes to King Leopold: "Albert's beauty is most striking, and he is most amiable and unaffected—in short, very fascinating. The young men are both amiable and delightful companions, and I am glad to have them here."
-	"Happy the wooing that is not long a-doing," says the old adage. The Queen had given her impressions of her newly arrived cousins in these unaffected words probably on the very day of their arrival—October 10th; but on the 15th she writes a far more conclusive letter to her old friend, Baron Stockmar. She had so recently expressed to him her resolution not to marry for some time, that she touches on the subject with girlish embarrassment. "I do feel so guilty," she writes, "I know not how to begin my letter, but I think the news it contains will be sufficient to ensure your forgiveness. Albert has completely won my heart, and all was settled between us this morning. ... I feel certain he will make me very happy. I wish I could say I felt as certain of making him happy, but I shall do my best."
-	Then we have the Prince's touching account to his aged grandmother: "The Queen sent for me alone to her room a few days ago, and declared to me, in a genuine out-burst of love and affection ('Ergusse von Herzlichkeit und Liebe’), that I had gained her whole heart, and would make her intensely happy (überglücklich) if I would make her the sacrifice of sharing her life with her—for she said she looked on it as a sacrifice; the only thing that troubled her was that she did not think she was worthy of me. The joyous openness of manner in which she told me this quite
-
-Accession and Marriage               37
-
-enchanted me, and I was quite carried away by it.  She is really most good and amiable, and I am quite sure heaven has not given me into evil hands, and that we shall be happy together." Could anything be more idyllic in its simplicity and guileless reality than this betrothal of the "sweet Flower of May " to the princely Sir Galahad, so true to the motto of his house, "Treu und Fest." "With the exception of my relations to the Queen," he writes to his stepmother, "my future position will have its dark side, and the sky will not always be blue and unclouded. But life has its thorns in every position, and the consciousness of having used one's powers and endeavours for an object so great as that of promoting the welfare of so many, will surely be sufficient to support me." But even as he writes these brave words there is a shadow over the bright prospect—the thought of leaving the beloved land of his birth, with all he loved so deeply.
-	But in spite of shadows and future partings, the betrothed couple were very happy. They had many tastes and sympathies in common. The Prince, we are told, had considerable facility as an artist, and still more as a composer; he also sang well and played with skill, and during his stay at Windsor Castle "her Majesty frequently accompanied him on the piano, and at a later period they sang together the admired productions of Rossini, Auber, Balfe, and Moore."
-	The Princes remained a month at Windsor, and when they left the Queen felt her loneliness sadly. There is a touching sentence in a letter of the Prince to the Duchess of Kent. "What you say about my poor little bride sitting all alone in her room, sad and silent, has touched me to the heart. Oh, that I might fly to her side to cheer her!" And the Queen herself afterwards wrote: "For 'the poor little bride' there was no lack of those sweet words, touched with the grateful humility of a manly love, to receive which
-
-38              Her Majesty the Queen
-
-was a precious foretaste to her of the happiness of the years to come."
-	Very lover-like were the letters that came to her. Once he writes, "How often are my thoughts with you! The hours I was privileged to pass with you in your dear little room are the radiant points of my life, and I cannot even yet clearly picture to myself that I am indeed to be so happy as to be always near you, always your protector." And then, with the pious reverence that was already so inherent in his nature, he tells his fiancée that he was about to take the Sacrament, adding, with affectionate solemnity, "God will not take it amiss if in that serious act even at the altar I think of you, for I will pray to Him for you and for your soul's health, and He will not refuse us His blessing." Strangely beautiful words to be written by a young Prince not quite one-and-twenty!
-	The public Declaration of the intended marriage was postponed until it had been communicated to the Privy Council, and on November 20th the Queen came up to Buckingham Palace with her mother, and on the 23rd made her Declaration. It was a trying ordeal for the young Sovereign. "Precisely at two," the Queen writes in her journal, "I went in. The room was full, but I hardly knew who was there. Lord Melbourne I saw looking kindly at me, with tears in his eyes, but he was not near me. I then read my short declaration. I felt my hands shake, but I did not make one mistake. I felt most happy when it was over." The Queen always wore a bracelet with the Prince's portrait: "It seemed to give me courage at the council," she wrote in her naïve way.
-	A Bill for the naturalization of Prince Albert was at once passed through both Houses of Parliament, and Her Majesty shortly afterwards conferred upon her future husband the title of Royal Highness, as well as the rank of Field Marshal
-
-Accession and Marriage			39
-
-in the British army. The question of the Prince's annuity excited a good deal of discussion in the House of Commons, and the sum of £50,000, proposed by Lord John Russell, was finally reduced to £30,000.
-	The marriage was fixed for February 10th, and on the 8th the Prince arrived, accompanied by his father and elder brother. There is an interesting little anecdote told of the Queen. It is said that the Archbishop inquired if it were her wish that any alteration should be made in the Liturgy with regard to the word "obedience." Report informs us that the Queen replied "that it was her wish to be married in all respects like any other woman, according to the revered usage of the Church of England; and that, though not as a queen, as a woman she was ready to promise all things contained in that portion of the Liturgy." We cannot vouch for the truth of this, but it is extremely probable that this answer was given.
-	The wedding ceremony was solemnised at St. James'. As the Royal bride entered her carriage, it was observed that she looked extremely pale and agitated; she wore a dress of Honiton lace over white satin, the material having been manufactured at Spitalfields, and the lace made by two hundred poor lace-workers in the village of Beer, near Honiton; a wreath of orange blossom and a veil completed her bridal attire; she had round her neck the collar of the Garter, but wore no other jewels.  Her train was borne by twelve young ladies, the daughters of well-known peers. Her responses, made in low, clear, silvery voice, were audible at the extreme corners of the chapel; and as she said "I will," we are told "that she accompanied the expression with a glance at his Royal Highness which convinced all who beheld it that the heart was with her words." The Dowager Lady Lyttelton, who was an eyewitness of the marriage, wrote later on: "The Queen's look and manner were very pleasing, her eyes much swollen
-
-40		Her Majesty the Queen
-
-with tears, but great happiness in her countenance; and her look of confidence at the Prince when they walked away as man and wife was very pleasing to see. I understand she is in extremely high spirits since: such a new thing to her to dare to be unguarded in conversation with anybody; and with her frank and fearless nature the restraints she had hitherto been under from one reason or another with everybody must have been most painful."
-	In the afternoon the bridal couple left for Windsor for their brief honeymoon of three days, the Queen in a white satin pelisse trimmed with swansdown, and a white satin bonnet and feather.
-	For only one day were the Queen and Prince alone together; and on this day she wrote to Baron Stockmar, "There cannot exist a dearer, purer, nobler being in the world than the Prince." On the 12th the Duchess of Kent, the Duke of Coburg, the hereditary Prince, and the whole court joined them, and after two more days they returned to London.
-	On the 28th the Duke of Coburg left England. The parting with his father was very painful to the Prince. The Queen writes of it in her Journal in her own womanly, pathetic fashion: "He said to me that I had never known a father, and could not therefore feel what he did. His childhood had been very happy. Ernest, he said, was now the only one remaining here of his earliest ties and recollections; but that if I continued to love him as I did now, I could make up for all. ... Oh! how I did feel for my dearest, precious husband at that moment! Father, brother, friends, country, all has he left, and all for me. God grant that I may be the happy person, the most happy person to make this dearest, blessed being happy and contented! What is in my power to make him happy I will do."
-	Another heavy trial was in store for the Prince, when he
-
-Accession and Marriage              41
-
-bade his brother good-bye. "They bade farewell German student fashion, singing together the parting song, 'Abschied.' The brothers embraced affectionately, Albert being pale as a sheet and his eyes full of tears."
-	The Queen and Prince Albert spent their first Easter together at Windsor, and here they received the Sacrament together for the first time. About this time the Duchess of Kent retired to a separate establishment, and removed to Ingestre House, Belgrave Square; but this separation did not interrupt her close and loving intercourse with her beloved daughter.
-	And so the ideal married life began; the maiden monarch no longer stood alone—she had now a strong arm on which to lean, and a discreet and faithful adviser ever beside her. No one who saw them could doubt that it was a marriage of profound happiness and true sympathy, and the good Queen had her peerless knight—sans peur et sans reproche.	
-	A few touching verses written by a well-known song writer, Helen Marion Burnside, may fitly close this chapter. It is supposed to be the recollection of a Scotch peasant girl on the day of the Coronation.
-
-"I mind how the cannon thundered, how millions shouted as one, 
-An' a' was a dazzle o' splendour spread under the summer sun, 
-I'd heard she'd be blazin' with jewels, an' wear her crown on her head 
-An' I went to London to see her wi' the lad I was bound to wed; 
-But when she came by i' her carriage I saw but a lassie fair, 
-Wi' a smile on the lips that trembled, an' a glint o' gowd i' her hair."
-
-"She seemed so young an' so gentle, an' i' spite of her state so lone, 
-Wi' a look of prayer 'neath her eyelids that brought the tears to my own; 
-That I loved her, that sweet bit lassie, and set her image apart,--
-For a' she was Queen o' the nation, i' the core o' my leal heart.”
-
-
-MARRIED   LIFE
-
-__________
-
-CHAPTER III 
-
-WIFE AND MOTHER
-
-"Her court was pure ; her life serene,
-    God gave her peace; her land reposed; 
-    A thousand claims to reverence closed 
-In her as Mother, Wife and Queen."
-
-						LORD TENNYSON.
-
-"IN that fierce light which beats upon a throne and blackens every blot," the wedded bliss and blameless life of the royal pair seemed only to be thrown out in stronger relief; and in spite of the trammels of etiquette and the wearisome routine and burdensome duties of a court, they enjoyed hours of quiet unalloyed happiness.
-	From the very beginning of their married life the youthful pair set a noble example by their untiring devotion to those high duties entailed on them by their station; and their industry, their method of utilising their moments of leisure, were indeed admirable and worthy of imitation.
-	There is a very interesting sketch of the occupations of their daily life in the "Early Years of the Prince Consort," which deserves to be quoted.
-	"At this time the Prince and Queen seem to have spent their day much as follows: They breakfasted at nine, and took a walk every morning soon afterwards.  Then came
-
-
-		Married Life			43
-
-the usual amount of business (far less heavy than now) besides which they drew and etched a great deal together, which was a source of great amusement, having the plates 'bit' in the house. Luncheon followed at the usual hour of two o'clock. Lord Melbourne, who was generally staying in the house, came to the Queen in the afternoon, and between five and six the Prince usually drove her out in a pony phaeton. If the Prince did not drive the Queen, he rode, in which case she took a drive with the Duchess of Kent or the ladies. The Prince also read aloud most days to the Queen. The dinner was at eight o'clock, and always with the company. In the evening the Prince frequently played at double chess, a game of which he was very fond and which he played extremely well." And three years later, Mr. Uwins, one of the artists employed in decorating a pavilion in the garden of Buckingham Palace, wrote a most valuable letter, an extract from which is given in the "Life of the Prince Consort."
-	"It has happened to me in life," he writes, "to see something of many royal personages; and I must say, with the single exception of the Duke of Kent, I have never met with any, either in England or on the Continent of Europe, who have impressed me so favourably as our reigning Sovereign and her young and interesting husband. Coming to us twice a day unannounced and without attendants, entirely stript of all state and ceremony, courting conversation, and desiring reason rather than obedience, they have gained our admiration and love.
-	"In many things they are an example to the age. They have breakfasted, had morning prayers with the household in the private chapel, and are out some distance from the Palace, talking to us in the summer-house, before half-past nine o'clock, sometimes earlier. After the public duties of the day and before their dinner they come out again, evidently delighted to get away from the bustle of the
-
-44			Her Majesty the Queen
-
-world to enjoy each other's society in the solitude of the garden.
-	"Our peaceful pursuits are in accordance with the scene; and the opportunity of watching our proceedings seems to give a zest to the enjoyment of those moments snatched from state, parade, and ceremony. Here, too, the royal children are brought out by their nurses, and the whole arrangement seems like real domestic pleasure."
-	Could any description be more idyllic in its sweet simplicity? What an example to those frivolous butterflies of fashion always seeking after pleasure, and frittering away precious time and strength in their search for what they call happiness. Very different was our young Queen to these jaded worldlings; for, as Mr. Uwins says in another passage: "The Queen, too, is full of intelligence, her observations very acute, and her judgment apparently matured beyond her age."
-	The Queen's influence on the stage was wonderfully beneficial; as Mrs. Oliphant observes, "she was in the foreground of the national life, affecting it always for good, and setting an example of purity and virtue. The theatres to which she went, and which both she and her husband enjoyed, were purified by her presence; evils which had been the growth of years disappearing before the face of the young Queen."
-	On November 21st, 1840, the Queen gave birth to her first child, the Princess Royal, at Buckingham Palace; and Mrs. Lilly, the nurse, presented the little stranger, "a beautiful plump and healthy infant," to the Privy Councillors assembled in the ante-room.
-	The Prince's care and devotion were most admirable. While the Queen was laid up he refused to go to the play or to amuse himself, and always dined quietly with the Duchess of Kent. We are told, "that no one but himself ever lifted her from her bed to her sofa, and he always 
-
-		Married Life			45
-
-helped to wheel her on her bed or sofa into the next room." The Queen's memorandum adds in her own expressive words, always pathetic from their natural simplicity: "For this purpose he would come instantly when sent for from any part of the house."  As years went on, and he became overwhelmed with work (for his attentions were the same in all the Queen's subsequent confinements), this was often done at much inconvenience to himself; but he ever came with a sweet smile on his face. In short, his care of her was like that of a mother, nor could there have been a kinder, wiser, or more judicious nurse.
-	The christening of the Princess Royal took place in the Throne Room at Buckingham Palace, on February 10th. The water used for the ceremony was brought from the Jordan. The infant received the names of "Victoria Adelaide Mary Louisa." Shortly before the christening the Prince had an awkward accident: skating in the gardens of the Palace, the ice gave way, and he was suddenly immersed in deep water. The Queen was the only one who gave him efficient help, the other ladies only screaming for assistance. He escaped all ill effects, with the exception of a cold.
-	There was great rejoicing when, on the following November 9th, 1841, the Queen gave birth to a son. An act of royal clemency inaugurated the auspicious event. All convicts who had behaved well had their punishment commuted, and those deserving this clemency on board the various hulks had their liberty granted them. There was great happiness in the palace. The Queen writes in her Journal: "To think we have two children now, and one who enjoys the sight already (the Christmas-tree); it is like a dream." And again, in a pretty, maternal way, "Albert brought in dearest little Pussy (Princess Victoria) in such a smart white merino dress, trimmed with blue, which mamma had given her, and a pretty cap, and placed her
-
-46			Her Majesty the Queen
-
-on my bed, seating himself next to her, and she was very dear and good; and as my precious, invaluable Albert sat there, and our little love between us, I felt quite warm with happiness and love to God." And again, writing to the King of the Belgians: "I wonder very much whom our little one will be like. You will understand how fervent are my prayers, and I am sure everybody's must be, to see him resemble his father in every respect, both in mind and body." And in a later letter she remarks, "We all have our trials and vexations; but if one's home is happy, then the rest is nothing." What true womanly words!
-	The christening of the Prince of Wales was a most imposing ceremony. It took place on January 25th, 1842, at St. George's Chapel, Windsor, the chief sponsor being the King of Prussia. He received the names of Albert Edward.
-	After the ceremony the Queen held a Chapter of the Order of the Garter, when the King of Prussia, as a lineal descendant of George I., was elected a Knight Companion. In the evening there was a grand banquet in St. George's Hall.
-	In spite of the Queen's domestic happiness, the year 1842 brought troubles with it. There was terrible news from Afghanistan, and though the British arms ultimately conquered, there were fearfully heavy losses, some of the finest of our troops being cut up. There was also war with China, and the condition of things at home was most unsatisfactory, and a growing agitation on account of the corn laws. There were fears of a Chartist rising, and to offer a stimulus to trade the Queen gave a bal masque at Buckingham Palace, always mentioned as "The Queen's Plantagenet Ball." About a fortnight later a grand ball was given in Her Majesty's Theatre for the benefit of the Spitalfields weavers.  The Queen was present at this.
-	Two daring attempts to assassinate the young Queen
-
-Married Life
-
-47
-
-were made in this year, one by a scoundrel named John Francis, who fired a pistol at her as Her Majesty was driving down Constitution Hill, and the other by a deformed youth, John William Bean, who also levelled his pistol at the Queen, but fortunately it failed to go off. Francis was sentenced to death, but the Queen directed a reprieve of the sentence, although, to quote her own words, "she was fully conscious of the encouragement to similar attempts which might follow such leniency." The sentence was commuted to transportation for life, and he was sent to Tasmania. Bean was sentenced to eighteen months' imprisonment in Newgate. On both occasions the Queen showed the utmost courage. On the 13th the Queen took her first railway journey, travelling from Slough to Paddington in twenty-five minutes.
-	Her Majesty also paid her first visit to Scotland in this year—that land afterwards so beloved by her and the Prince Consort—and the enthusiasm of her Scottish subjects produced a marked impression on Her Majesty's mind. The following year the Queen's uncle, the Duke of Sussex, died, and a few days later, on April 21st, another daughter was born to Her Majesty, who afterwards received the names of Alice Maud Mary.
-	The next important event was the Queen and Prince Consort's visit to the Cháteau [sic] d'Eu, near Tréport, the private domain of Louis Philippe. It was the first time an English Sovereign had visited France since the Field of the Cloth of Gold. This visit was a great success, and the Queen, writing from Eu, speaks of her pleasure "at being in the midst of this admirable and truly amiable family, where we are quite at home, and as if we are one of them."
-	The Queen and her Royal Consort paid other visits this year, first to Drayton Manor, as guests of Sir Robert Peel, and then to the Duke of Devonshire at Chatsworth. On January 29th, 1844, Prince Albert received the news of his
-
-48			Her Majesty the Queen
-
-father's death, but in this sad trouble the Queen's sympathy was a great alleviation. "I have been with the Queen," writes Lady Lyttelton, in a letter at this time, "a good deal altogether. She is very affecting in her grief, which is in truth all on the Prince's account, and every time she looks at him her eyes fill afresh. He has suffered dreadfully, being very fond of his father; and his separation from him, and the suddenness of the event, and his having expected to see him soon, all contributed to make it worse." Later on, duty demanded the Prince's presence at Coburg; and this separation, brief as it was—only a fortnight—was extremely painful to the Queen, as since their marriage they had not been apart for a day.
-	The great Court event of the year was the visit of Nicholas, the Czar of Russia, the "hard, cold, cruel, handsome and imposing Nicholas." There were splendid festivities at Windsor and Buckingham Palace.
-	On August 6th the Queen gave birth to her second son, Alfred Ernest Albert, afterwards Duke of Edinburgh; and later on, in September, she and the Princes, with the Princess Royal, paid another visit to Scotland, Blair Castle having been placed at their disposal by Lord Glenlyon, afterwards the Duke of Athole; and on October 8th Louis Philippe, King of the French, arrived at Windsor Castle.
-	Two more daughters, Helena and Louise, and a third son, Prince Arthur, were born to the Royal couple during the next few years; and still later on two other children, Prince Leopold and Princess Beatrice, completed the family.
-	The education of their children had been the Queen's and the Prince Consort's earliest care. Her Majesty writes to Lord Melbourne in 1842, "We are much occupied in considering the future management of our nursery establishment, and naturally find considerable difficulties in it. . . . Stockmar   says—and   very  justly—that our occupations
-
-		Married Life			49
-
-prevent us from managing these affairs as much our own selves as other parents can, and therefore we must have some one in whom to place implicit confidence."
-	Such a person was found in Lady Lyttelton, who for eight years filled the office of governess to the Royal children, and it was a sad day for her young charges when she resigned her office.
-	The Queen's method of education for her children was excellent: they were brought up with the utmost simplicity, and the strictest discipline was exercised in the Royal nurseries.
-	That charming book, "The Private Life of the Queen," by one of Her Majesty's servants, tells us that the Queen "always made time in her busy life to bathe with her own hands the last new baby."
-	The children were never brought into contact with Court life. "Many of the Queen's ladies scarcely knew the Royal children, save by sight, and by catching brief glimpses of them as they walked in the gardens with their parents, or sometimes came to dessert after dinner. The most care-fully selected governesses and professors taught the children English, French, German, and the arts."
-	And again: "The religious training of the Royal children was entirely mapped out by the Queen, who herself drew up a memorandum, which if it were given to the world in full, would prove of inestimable benefit to all parents, so kindly, so truly sympathetic, so earnest and womanly is it. Touching the Princess Royal in particular, she says, 'I am quite clear that she should be taught to have great reverence for God and for religion, and that she should have the feeling of devotion and love which our heavenly Father encourages His earthly children to have for Him, and not one of fear and trembling.'
-	"The note touching the religious training of the Prince of Wales was even more decided: 'The law prescribes the
-
-50				Her Majesty the Queen
-
-belief of the Church of England shall be the faith of the members of the Royal Family, and in this faith the Prince of Wales must unquestioningly be trained."
-	In all these matters the Prince Consort was her truest adviser and counsellor; and as years passed and the weight of government and public cares pressed more heavily on the Queen, so did she lean more on that strong arm and bright intellect, and the patient, cheerful, considerate spirit, "which toil and trial and disappointment seemed only to ripen into fuller beauty." In reading the records of the Royal lives one is struck by the Prince Consort's application to work and his unflagging and incessant industry. As Sir Theodore Martin tells us, in his exhaustive "Life of the Prince," "Every enterprise of national importance claimed his attention; and in all things that concerned the welfare of the State, at home or abroad, his accurate and varied knowledge, and great political sagacity, made him looked to as an authority by all our leading statesmen." And in another passage full of interest, he tells us his methods of work. "Like most men who have done great things in the world, the Prince got to his work early, and had made good progress with it before other people were stirring. Summer or winter he rose as a rule at seven, dressed and went to his sitting-room, where in winter a fire was burning, and a green German lamp ready lit. He read and answered letters, never allowing his vast correspondence to fall into arrears; or prepared for Her Majesty's consideration drafts of answers to her Ministers on any matters of importance. ... He kept up this habit to the close of his life, and his last memorandum of this description he brought to the Queen on December 1st, 1861, at 8 a.m., having risen to write it, ill and suffering as he was, saying as he gave it, "Ich bin so schwach, ich habe kaum die Feder halten können" [sic](I am so weak, I have scarcely been able to hold the pen).
-
-
-
-			Married Life                           51
-
-	During all these years of stirring life there were many events of the deepest interest to the Queen and her Royal Consort. In 1845 she accompanied him to Germany.
-	The previous fortnight had been spent at their new island home, Osborne, which had been purchased in the preceding year—a marine residence comprising grounds of upwards of eight hundred acres, and well stocked with noble timber. A new mansion was subsequently built. "The house," the Queen writes, "was planned by the Prince, and his wishes admirably carried out by the late Mr. Thomas Cubitt. . . . In laying out the grounds and his farming operations," Her Majesty adds, "the Prince was ably seconded by Mr. Toward, our land steward for twenty-six years." In truth, the Prince might have said, as Scott did of Abbotsford: "My heart clings to the place I have erected. There is scarce a tree in it that does not owe its existence to me." The property now extends to 2300 acres.
-	We read pleasant accounts of the house-warming when the Queen and her household first took up their residence there, when the Queen's and Prince's healths were drank; and at the Prince's suggestion an appropriate Psalm was sung, translated from Luther's "God bless our going out, nor less our coming in, and make them sure."
-	The visit to Coburg with her beloved husband gave the Queen intense pleasure. Rosenau was the place where he had been born and "spent the happiest years of his boyhood."
-	"How happy, how joyful," she writes in her journal, "we were, on awaking, to feel ourselves here, at the dear Rosenau, my Albert's birthplace, the place he most loves! He is so, so happy to be here with me. It is like a beautiful dream."
-	September 1848 was memorable to the Royal couple, for it was their first visit to their future Highland home. We are told in the "Life of the Prince Consort" that Sir James Clark's attention had been called to the fine air and other
-
-52               Her Majesty the Queen
-
-attractions of this part of Deeside as a summer and autumn residence. Having satisfied himself on these points, he had urged the Queen and Prince to acquire the lease of the Balmoral estates from the Earl of Aberdeen. Writing to the Dowager Duchess of Coburg, the Prince says of this visit:--
-	"We have withdrawn for a short time into a complete mountain solitude, where one rarely sees a human face, where the snow already covers the mountain tops, and the wild deer come creeping stealthily round the house. Scenes which, in Her Majesty's own words, seem to breathe freedom and peace, and to make one forget the world and its sad turmoil."
-	The following year, 1849, was still more memorable, for the Great Exhibition was first projected by the Prince Consort. The germ of this and all Industrial Exhibitions of our own age was contained in the celebrated Frankfort Fairs of the sixteenth century. The Prince propounded his views to four most active members of the Society of Arts; and after taking counsel with the Government, a fitting area was found in Hyde Park. In this year, too, the Queen and the Prince paid their first visit to Ireland, and received a most enthusiastic welcome from the warm-hearted people; "the effect produced by the visit was most salutary," wrote Sir James Clark, who formed one of the Royal suite. The year closed sadly, however, with the death of the Queen Dowager, the good, amiable Queen Adelaide, at Bentley Priory.
-	The opening of the Great Exhibition in Hyde Park was an eventful day in the Queen's life. She wrote a graphic account of the ceremony in her diary. Her thankfulness and joy are, as usual, touchingly expressed. "God bless my dearest Albert! God bless my dearest country, which has shown itself so great to-day! One felt so grateful to the great God who seems to pervade all and bless all! The only event it in the slightest degree reminded me of was the
-
-			Married Life			53
-
-coronation, but this day's festival was a thousand times superior. In fact, it is unique, and can bear no comparison, from its peculiarity, beauty, and combination of such different and striking objects." And in another passage: "Albert is immortalised;" here is the wifely key-note of the whole; and in a letter to Lady Lyttelton she writes, "...that great and glorious 1st of May. The proudest and happiest day of—as you truly call it—my happy life. . . . To see this great conception of my beloved husband's mind, which is always labouring for the good of others, to see this great thought and work crowned with triumphant success, in spite of difficulties and opposition of every imaginable kind, and of every effort to which jealousy and calumny could resort to cause its failure, has been an immense happiness to us both."
-	Thackeray's "May-Day Ode" expressed the universal feeling:--
-
-"But yesterday a naked sod:
-The dandies sneered from Rotten Row,
-And cantered o'er it to and fro;
-And see, 'tis done!
-As though 'twere by a wizard's rod,
-A blazing arch of lucid glass
-Leaps like a fountain from the grass
-To meet the sun."
-
-We are told that this beautiful poem, cut from the Times, was preserved by the Prince, as it well deserved to be, among his private records of the Exhibition.
-	The following year the Duke of Wellington died, much mourned by Her Majesty; for in some measure "he had held towards her the triple capacity of father, hero, and friend."
-	Clouds were gathering on the horizon, and troublous times coming for England and England's Queen. On February 28th, 1854, Her Majesty signed a formal declaration of war with Russia; and for the next two years we are
-
-54			Her Majesty the Queen
-
-told that her life was spent in consuming anxiety. Alma, Inkermann, Balaclava, and the charge of the Light Brigade—the blood of heroes shed freely—and the cry of widows and orphans ascending to heaven.
-	The Queen suffered so keenly for her soldiers, that one of the Royal children said to Lord Cardigan, when he came to Windsor, "You must hurry back to Sebastopol and take it, else it will kill mamma." It was after the Crimean War, with its dearly bought victories, that Her Majesty first distributed that much coveted distinction, the Victoria Cross or Cross of Valour; and we are also told that it was owing to the Queen's efforts that the beautiful military hospital of Netley was built. It was at this time the Queen conferred on her husband the title of Prince Consort.
-	In 1857 her Majesty's last child, the Princess Beatrice, was born; and soon after followed the betrothal of the Princess Royal, then only fifteen years old, to Prince Frederick William of Prussia, heir to the throne. The two years that intervened between the engagement and marriage were saddened by the awful tidings of the Indian Mutiny.  "We are tortured by the events in India," wrote the Prince to his faithful Stockmar, "which are truly frightful!" And again the Queen's womanly sympathies were strongly excited by the terrible details of Cawnpore.
-	On the Princess Royal's wedding day the Queen wrote in her Journal: "The second most eventful day of my life as regards feelings. I felt as though I was being married over again myself, only much more nervous, for I had not the blessed feeling of giving myself for life to him whom I loved and worshipped then and ever." The parting from their beloved child was keenly felt by the Queen and Prince Consort. The young Princess soon won golden opinions in her new home; and her father's remark, "that the Princess Royal had a man's head and a child's heart," was soon confirmed by  the reports  from  Berlin.  The 
-
-			Married Life				55
-
-Queen's first grandchild, a boy, was born when his mother was only eighteen, and his grandmother thirty-nine. And the next domestic event of deep interest was the betrothal of Princess Alice to Prince Louis of Hesse, on November 30th, 1860.
-	1861 was a disastrous year to our beloved monarch—a year of sorrow and bereavement.
-	On March 16th the Queen lost her mother, the Duchess of Kent.
-	"She is gone," she writes, to her uncle, King Leopold, during those first hours of bereavement; "that precious, dearly beloved, tender mother, whom I never parted with but for a few months, without whom I cannot imagine life, has been taken from us. . . . I held her dear hand in mine to the last, which I am truly thankful for. But the watching that precious life going out was fearful! Alas! she never knew me; but she was spared the pang of parting. . . . I feel so truly verwaist (orphaned)." Throughout these sad days of bereavement the Prince was her truest comforter. "He was so tender and kind," she writes in her diary, "so pained to have to ask me distressing questions, but spared me so much. Everything done so quietly and feelingly." And indeed that watchful care and sympathy never failed her while his life lasted. In August Her Majesty and the Prince paid another visit to Ireland, accompanied by Prince Arthur and the Princesses Alice and Helena. They then proceeded to their beloved Highland home, where they spent a few weeks of retirement; the last they were to spend there together, for the shadow of death was soon to draw over that happy married life.
-	For the last ten years the health of the Prince Consort had been unsatisfactory. The severe mental strain entailed by incessant work, and the sense of his responsibility as private adviser to Her Majesty, had weakened his constitution, and with all the goodwill of those who served and helped
-
-56              Her Majesty the Queen
-
-him so faithfully, they could not prevent "a pressure which constantly compelled him to do in one day what would have been more than ample work for two." Well may he speak, in one of his letters to the Crown Princess, of "the treadmill of never-ending business."
-	"It was evident," as Sir Theodore Martin tells us, "that the Prince Consort was in a state of health when any little casualty, whether of exposure to the weather or to any noxious agent of any kind, could scarcely fail to affect him seriously." The typhoid fever, under which he eventually sank, was undoubtedly germinated about November 22nd, when he went to Sandhurst to inspect the building for the new Staff College and Royal Military Academy. It was a day of incessant rain, "entsetzlicher Regen" ("terrific rain") as he calls it; and there is no doubt the fatigue and exposure produced injurious results. We are told in the "Prince Consort's Life," that he had no strong yearning for life, "and that he contemplated the prospect of death with an equanimity by no means common in men of his years." Not long before his fatal illness, in speaking to the Queen, he said: "I do not cling to life; you do, but I set no store by it. If I knew that those I love were well cared for, I should be quite ready to die to-morrow." And in the same conversation he adds: "I am sure if I had a severe illness I should give up at once. I should not struggle for life; I have no tenacity of life." Sadly prophetical words these proved; but they were said without sadness—his ripe and chastened spirit was ready to follow the Divine will, either for life or death. It is distressing to follow the details of that sad illness, gleaned from the pages of the Queen's Diary,--to read of discomfort and restlessness, broken snatches of sleep, prostration and suffering, unutterable feelings of wretchedness and depression. Such sad entries as this occur on December 5th. "He did not smile, or take much notice of me,  but
-
-			Married Life				57
-
-complained of his wretched condition, and asked what it could be and how long this state of things might last. . . . His manner all along was so unlike himself, and he had sometimes such a strange, wild look." By December 6th the physicians, Dr. Jenner and Sir James Clark, had no doubt of the nature of the illness, that it was gastric or low fever, and they broke the intelligence to the Queen. "I seem to live in a dreadful dream," is the entry of December 7th. "Later in the day my angel lay in bed, and I sat by him watching. The tears fell fast as I thought of the days of anxiety, even if not of alarm, which were in store for us; of the utter shipwreck of new plans, and of the dreadful loss this long illness would be publicly as well as privately; and then, when I had seen Sir James and Dr. Jenner, I talked over what could have caused this illness. Great worry and far too hard work for long. That must be stopped." The Prince's medical advisers had strongly urged their patient to remain in bed; he had resisted their entreaties for some time; when at last their counsel prevailed it was too late. The shadows were deepening, and already the veiled figure of the Dark Angel was on the threshold! By December 12th it was evident the fever and the shortness of breath increased, there was also a probability of congestion of the lungs; and by the 13th Dr. Jenner was obliged to inform the Queen that the illness was extremely serious. All through this trying time of anxiety and suffering the Princess Alice was the greatest comfort to her parents.
-	The sufferer had been removed into the Blue Room, a fine large cheerful room; strange to say it was the very apartment where William IV. and George IV. had died. A letter written by one of the household gives a touching account of that Sunday:--
-	"The last Sunday the Prince spent on earth was a very blessed one for the Princess to look back upon.  He was
-
-58              Her Majesty the Queen
-
-very ill and weak, and she spent the afternoon alone with him while the others were at church. He begged to have his sofa drawn to the window, that he might see the sky and the clouds sailing past. He then asked her to play to him, and she went through several of his favourite hymns and chorales ('Ein feste Burg ist unser Gott' amongst them). After she had played some time she looked back and saw him lying back, his hands folded as if in prayer, and his eyes shut. He lay so long without moving that she thought he had fallen asleep. Presently he looked up and smiled. 'Were you asleep, dear Papa?' 'Oh no,' he answered; 'only I have such sweet thoughts.'"
-	During his illness his hands were often folded in prayer; and when he could not speak, his serene face showed that the "happy thoughts" were with him still. "... Of the devotion and strength of mind shown by the Princess Alice all through these trying scenes it is impossible to speak too highly."
-	Dr. Watson and Sir Henry Holland had been called in, but though there had been a decided rally, they were all very anxious; and on Friday the 13th, the Prince's condition was regarded as extremely critical.
-	The Queen had been constantly with him, and he had shown "obvious reluctance to being left by Her Majesty even for the short intervals when her attendance was required elsewhere." Even on the fatal Saturday, the 14th, Sir Theodore Martin tells us, Mr. Brown, of Windsor, who was thoroughly acquainted with the Prince's constitution, informed the Queen "that he thought the Prince was better, and there was ground to hope that the crisis was over."
-	"I went over at seven," Her Majesty writes, "as I usually did. It was a bright morning, the sun just rising and shining brightly. The room had the sad look of night watching, the candles burnt down to their sockets
-
-				Married Life				59
-
-the doctors looking anxious. I went in, and never can I forget how beautiful my darling looked, lying there with his face lit up by the rising sun, his eyes unusually bright, gazing as it were on unseen objects and not taking notice of me.
-	"The hours wore on in agonising alternations of hope and fears."
-	The Prince of Wales, who had been summoned from Maddingly, had arrived at three in the morning. At twelve the Queen went out on the terrace with Princess Alice for a breath of air; but a military band was playing and she burst into tears and hurried back. The doctors had not yet given up hope; the breathing was the alarming thing, it was so rapid; and also, in the Queen's words, "there was a dusky hue about his face and hands which I knew was not good."
-	We must quote from Sir Theodore Martin's sad account. "The Queen's distress was terrible; she only left the Prince's room for the one adjoining. Still the doctors continued to comfort her with hope, but they could not blind her to the signs that this precious life, this most precious of lives to her, was ebbing away."
-	"About half-past five," Her Majesty writes, "I went in and sat beside his bed, which had been wheeled into the middle of the room. 'Gutes Frauchen,' he said, and kissed me."
-	Later on, when his children and attendants had each kissed his hand, the Queen again bent over him and whispered "Es ist kleines Frauchen," ('Tis your own little wife), and he bowed his head and kissed her.
-	As the evening advanced a rapid change came on. The Queen, who had retired to give vent to her grief, was summoned from the adjoining room; she took his hand "which was already cold, though the breathing was gentle," and knelt down beside him.  As the Castle clock chimed
-
-60               Her Majesty the Queen
-
-the third quarter after ten, two or three long breaths were drawn, and the weary warrior, the worn out worker, was at rest. One of the noblest souls that had ever blessed this world had entered into rest.
-	Well and fitly has our glorious Poet Laureate written—
-
-"Dear to thy land and ours, a Prince indeed, 
-Beyond all titles, and a household name 
-Hereafter, thro' all times, Albert the Good."
-
-	"Their works do follow them." Truly we may say of our Great Prince that his beloved name is graven indelibly on the hearts and memories of all English men and English women.
-
-
-
-
-
-WIDOWHOOD
-
-__________
-
-CHAPTER   IV 
-
-A   ROYAL   MOURNER
-
-"Break not, oh woman's heart, but still endure; 
-Break not, for thou art royal, but endure 
-Remembering all the beauty of that star 
-Which shone so close beside Thee, that ye made 
-One light together, but has past, and leaves 
-The crown a lonely splendour."
-
-								LORD TENNYSON.
-
-THE writer of this sketch well remembers that melancholy Sunday, December 15th, when the omission of the Prince Consort's name from the Litany informed the congregation that their revered monarch was a widow. A thrill ran through the church at that solemn and ominous pause; and there were aching hearts and wet eyes as many a silent prayer was breathed for that beloved lady. "God bless and comfort her broken heart." "God help our Queen." "That it may please Thee to defend, and provide for, the fatherless children and widows, and all that are desolate and oppressed." How earnest and united that heartfelt response, "We beseech Thee to hear us, good Lord"!
-	The great bell of St. Paul's tolled at midnight, and early the next morning the mournful news was flashed by telegraph
-
-
-62               Her Majesty the Queen
-
-to all parts of the empire. The young Prince Leopold was at Cannes, and in great grief at the death of his governor, General Bowater, who had just died; and the child's anguish at hearing of this fresh sorrow was heart-rending. "My mother will bring him back again," he kept sobbing out.  "Oh! I want my mother."
-	Barnett Smith, in his interesting "Life of the Queen," tells us that there was great anxiety at Windsor for the Queen and Princess Alice.
-	The beloved friend and attendant of the Duchess of Kent, Lady Augusta Bruce (afterwards wife of Dean Stanley), was summoned to Windsor; and that other dear friend of the Queen, the Duchess of Sutherland, herself lately widowed, had also been asked to stay with her Royal mistress. We will quote the entire passage: "For three days they (the Queen and Princess Alice) suffered terribly, and Her Majesty's weakness was so great that her pulse could hardly be felt. The Princess afterwards said that she wondered how her mother and herself had lived through these first bitter days. The Queen "spoke about God's knowing best, but showed herself broken-hearted." At length the country was relieved, on learning that exhausted nature had somewhat recovered itself, and that the Queen had slept. Her Majesty was again and again urged to leave Windsor before the funeral; but she wept bitterly, and said her subjects were never advised to leave their homes or the remains of those lost to them. It was only when the safety of her children was pleaded as a means of giving them immunity from the fever, that she was prevailed upon to leave Windsor and repair to Osborne. Before her departure the Queen visited Frogmore to choose a site for a mausoleum, where her beloved husband and she herself were yet to lie side by side."
-	The funeral took place at Windsor on December 23rd. The chief mourner was the Prince of Wales, who was
-
-			Widowhood                          63
-
-accompanied by Prince Arthur, a boy of eleven; the Duke of Saxe Coburg, the Prince Consort's only brother, was also there. The scene at the grave was very touching; the young princes sobbed bitterly, "and heartfelt sorrow was on the face of every mourner." Throughout the country there was long and genuine mourning for the "blameless Prince."
-	"There is no one to call me Victoria now," the Queen is said to have exclaimed, the morning of her bereavement,—and perhaps no words could have expressed more strongly the sense of her great loneliness.
-	There is a poem written by a contemporary poet, Christopher Riethmüller, which embodies this idea. Lady Waterford, in one of her graphic letters, mentions the poem:
-
-“Toll, Great Bell of St. Paul!
-     Toll through the midnight air! 
-Bid all the people fall
-     Upon their knees in prayer! 
-For the dear Lady left
-     Upon her glittering throne, 
-More utterly bereft,
-     More hopelessly alone 
-Than the poor peasant's wife;
-     Because from her is riven 
-The only human life
-     That to her state was given 
-To help, control, and guide;
-     The only voice below 
-Which had the right to chide,
-     Or sweetest praise bestow! 
-Millions will love her still—
-     Ay, fondlier than before! 
-But the one equal will
-     Is gone for evermore."
-
-	The Marchioness of Waterford in another letter, speaking of her own loss, the death of her sister, Lady Canning, mentions the Queen's grief. "The Queen's most grievous calamity I can well feel for. I hear, from one who saw her, 'that it was heartrending to see her in her calm, eloquent
-
-64              Her Majesty the Queen
-
-sorrow.' This beautiful resignation must endear her more than ever to her people."
-	"For some years after the death of the Prince Consort," as Dr. Macaulay tells us, "the Queen appeared very little in public. Overwhelmed with grief, she lived almost wholly in retirement; but we are assured that, even at that time, no official duty was neglected." Neither did she forget the troubles of others; for when that terrible Hartley colliery disaster occurred, by which 204 miners lost their lives, Her Majesty sent a message to the effect "that her tenderest sympathy is with the poor widows and mothers, and that her own misery only makes her feel the more for them."
-	Regrets, almost amounting to complaints, were heard from time to time, which led to a touching article in the Times. Some people affirmed that it was from the Queen's own pen; but, anyway, it embodied her feelings most truly.
-	After touching on these complaints, it goes on: "The Queen heartily appreciates the desire of her subjects to see her, and whatever she can do to gratify them in this loyal, affectionate wish, she will do. Whenever any real object is to be obtained by her appearing on public occasions, any national interest to be promoted, or anything to be en-couraged which is for the good of her people, Her Majesty will not shrink, as she has not shrunk, from any personal sacrifice or exertion, however painful.
-	"But there are other and higher duties than those of mere representation which are now thrown on the Queen alone and unassisted, duties which she cannot neglect without injury to the public service, which weigh unceasingly upon her, overwhelming her with work and anxiety.
-	"The Queen has laboured conscientiously to discharge these duties, till her health and strength, already shaken by the utter and ever-abiding desolation which has taken the place of her happiness, have been seriously impaired. To call upon her to undergo, in addition, the fatigue of those 
-
-Widowhood			65
-
-mere State ceremonies which can be equally well performed by other English members of her family, is to ask her to run the risk of entirely disabling herself for the discharge of those other duties which cannot be neglected without serious injury to the public interests. . . . More the Queen cannot do, and more the kindness and good feeling of her people will surely not exact from her."
-	This dignified remonstrance was afterwards endorsed by a speech of the Duke of Argyle. His Grace remarks: "I think it a circumstance worthy of observation, and which ought to be known to the people of this country, that during all the years of the Queen's affliction, during which she has lived necessarily in comparative retirement, she has omitted no part of that public duty which concerns her as Sovereign of this country; that on no occasion during her grief has she neglected work, in those public duties that belong to her exalted position."
-	And in 1866, at a great meeting held at St. James's Hall, we are told that Mr. Bright asked leave to refer in a few words to the insinuation contained in the speech of the Member for the Tower Hamlets as to the indifference of the Queen to public affairs.
-	"I am not accustomed," he said, "to stand up in defence of those who are possessors of crowns; but I could not sit and hear that observation without a sensation of wonder and of pain. I think there has been, by many persons, a great injustice done to the Queen in reference to her desolate and widowed position; and I venture to say this, that a woman, be she Queen of a great realm, or the wife of one of your labouring men, who can keep alive in her heart a great sorrow for the lost object of her life and affection, is not at all likely to be wanting in a great and generous sympathy for you."
-	These remarks elicited immense applause, and the whole body of people in the Hall rose simultaneously and mani-
-
-66               Her Majesty the Queen
-
-fested their loyalty by singing a verse of "God save the Queen." We do not know if the Queen ever heard of the speech, but when Mr. Bright lost his wife, a kind message came from Windsor Castle expressing her sympathy in his bereavement.
-	In the memoir of Rev. Norman Macleod there are many touching references to the Queen. In his Journal under the date of May 14th, 1862, he says: "After dinner I was summoned unexpectedly to the Queen's room. She was alone. She met me, and with an unutterably sad expression which filled my eyes with tears, at once began to speak about the Prince. It is impossible for me to recall distinctly the sequence or substance of that long conversation. She spoke of his excellence, his love, his cheerfulness, how he was everything to her; how all on earth seemed dead to her. She said she never shut her eyes to trials, but liked to look them in the face; how she would never shrink from duty, but that all was at present done mechanically; that her highest ideas of purity and love were obtained from him, and that God could not be displeased with her love. But there was nothing morbid in her grief. I spoke freely to her about all I felt regarding him—the love of the nation and their sympathy; and took every opportunity of bringing before her the reality of God's love and sympathy, her noble calling as a Queen, the value of her life to the nation, the blessedness of prayer."
-	The sum of his impressions is given in letter written in 1887, before he went to India. "I had a long interview with the Queen. With my last breath I will uphold the excellence and nobleness of her character. It was really grand to hear her talk on moral courage and on living for duty."
-	The marriage of the Princess Alice to Prince Louis of Hesse, so long delayed, took place very quietly at Osborne
-
-			Widowhood					67
-
-on July 1st. She was given away by her paternal uncle, the Duke of Saxe-Coburg, the Queen sitting in deep mourning in the background.
-	The following month the Queen was again at her beloved Balmoral, when she erected the Cairn in memory of the Prince Consort on the Craig Lowrigan. "I and my poor six orphans," she writes, "all placed stones on it, and our initials as well as those of the three absent ones." Below is the inscription chosen by the Princess Royal:--
-"He being made perfect in a short time fulfilled a long time; 
-For his soul pleased the Lord. 
-Therefore hastened He to take him away from among the wicked.
-
-	Mr. Leitch, the artist, who was drawing-master to the Queen and Royal Family for twenty-two years, speaks of the sadly altered life at Balmoral.
-	He writes: "The Queen is still the kind, good, gracious lady that she always was, but I need hardly tell you that there is a change. Indeed, the whole place is changed. Everything very quiet and still. How different from my first visit here!—the joyous bustle in the morning when the Prince went out; the Highland ponies and the dogs; the gillies and the pipers coming home; the Queen and her ladies going out to meet them; and the merry time afterwards; the torchlight dances on the green, and the servants' ball afterwards."
-	In the following autumn Her Majesty was induced to resume her sketching.
-	In September Her Majesty went to Germany. Then was a passing visit to King Leopold at Laeken, when she had her first interview with her future daughter-in-law, the Princess Alexandra of Denmark.
-	The remains of the Prince Consort were removed, on December 18th, from the vault beneath St. George's Chapel to the Mausoleum at Frogmore. The ceremonial was strictly private.
-
-68               Her Majesty the Queen
-
-	On the following March 7th, London was en fête to welcome the Prince of Wales' bride-elect, the "Sea-kings daughter from over the sea," the fair young Princess Alexandra. The marriage was solemnised in St. George's Chapel on March 10th, the Queen in her widow's weeds being present in the Royal closet.
-	On May 9th, Her Majesty visited the Military Hospital of Netley. Seven years before she had laid the foundation stone, accompanied by her beloved husband. In one ward an old soldier from India lay nearly at the point of death. When the Queen had spoken to him, he said, "I thank God that He has allowed me to live long enough to see your Majesty with my own eyes." The Queen and Princess Alice of Hesse, who accompanied her, and who had recently given birth to a daughter at Windsor, were much touched by this loyal speech.
-	The first public ceremony which the Queen attended was the unveiling of the statue of the Prince Consort at Aberdeen.  She appeared much depressed on this occasion.
-	The following August, on her way to Balmoral, she inaugurated another statue of the Prince Consort at Perth. At the beginning of the year 1865, the Queen showed her deep solicitude for her subjects by causing a letter to be written to the various directors of the railway companies, calling their attention to the increasing number of serious accidents. This important letter received instant attention from the directors and the public press.
-	In March, Her Majesty went through the Consumption Hospital at Brompton; and in August, after visiting Germany and Rosenau, the Court spent September and October in the Highlands. Princess Alice speaks "of the terrible sufferings" of the first three years of the Queen's widowhood, but adds, "that after the long storm came rest, so that the daughter could tenderly remind the mother, without reopening the wound, of the happy silver wedding
-
-				Widowhood                                69
-
-which might have been this year, when the royal parents would have been surrounded by so many grandchildren in those young households."
-	In October Lord Palmerston died, and the year closed sorrowfully for the Queen with the death of her beloved uncle and friend, King Leopold.
-	On February 6th, 1866, the Queen opened the first session of her seventh Parliament. Her Majesty, who wore half-mourning, a deep purple velvet robe trimmed with white ermine, sat silent and wrapt in thought, while the Royal Speech was read by the Lord Chancellor. At the con-clusion she rose from the throne, kissed the Prince of Wales and shook hands with Prince Christian, and then retired with the usual ceremony.
-	At this time a new decoration, styled the Albert Medal, was instituted by Royal sign manual. It was to be awarded to those who saved, or endeavoured to save, the lives of others from shipwreck or other perils of the sea. The Queen also sent the eminent American philanthropist, Mr. Peabody, a miniature of herself, and would willingly have conferred on him a baronetcy or Grand Order of the Bath, in gratitude for his munificence to the poor of London, if Mr. Peabody would have accepted it.
-	Two Royal marriages were solemnised in this year: that of the Princess Mary of Cambridge to the Duke of Teck; and Her Majesty's third daughter, Princess Helena, to Prince Christian of Schleswig-Holstein—the bride being in her twenty-first and the bridegroom in his thirty-sixth year. The Queen gave her daughter away.
-	The war in Germany saw two of the Queen's sons-in-law, the Crown Prince of Prussia and Prince Louis of Hesse, ranged on opposite sides. Austria was utterly worsted, and Prussia ultimately annexed Hanover and Hesse-Cassel.
-	In October the Queen evinced her usual interest in her people's welfare by opening the fine new waterworks
-
-70					Her Majesty the Queen
-
-at Aberdeen; and she came again forth from her seclusion in the following February, to open Parliament.
-	In the course of the year the deeply-interesting book entitled "The Early Years of H.R.H. the Prince Consort," compiled under the direction of Her Majesty by Lieut.-Gen. the Hon. C. Grey, made its appearance.
-	In the May Her Majesty in person laid the first stone of the Hall of Arts and Science at Kensington, afterwards known as the Royal Albert Hall.  On this occasion the Prince of Wales read an address to the Queen, who replied, contrary to custom with her, in a scarcely audible voice.
-	The following May Her Majesty laid the foundation of the new buildings for St. Thomas's Hospital, and in her reply to the address, referred to the founding of the Hospital by her predecessor, Edward VI., and to the great interest taken in it by her late husband. She also alluded to the merciful preservation of her son, the Duke of Edin-burgh, from the hand of an assassin in Port Jackson, New South Wales. He had been shot in the back by a man named O'Farrell, but the ball had been extracted. Before the close of this year the Queen's volume appeared, "Leaves from the Journal of our Life in the Highlands." Her Majesty sent a copy to Charles Dickens, with the graceful words, "From one of the humblest of writers to one of the greatest."
-	In November 1869 the Queen visited the City for the purpose of opening the new bridge over the Thames at Blackfriars, and the new Viaduct over the Fleet valley, from Holborn Hill to Newgate Street; and the following year, 1870, she was present at a most interesting ceremony, when Her Majesty, accompanied by the Prince and Princess of Wales, opened the new buildings erected for the University of London in Burlington Gardens.
-	This year was an eventful one for the Continent, for, as Barnett Smith tells us, the war between Germany and France led to the re-making of the map of Europe so far
-
-			Widowhood				71
-
-as these countries were concerned, and the Emperor and Empress of the French were driven into exile, and took up their abode at Chislehurst. During the autumn of this year, while the Queen and her family were at Balmoral, Princess Louise became engaged to the Marquis of Lorne, eldest son of the Duke of Argyle. The marriage took place the following March at St. George's, and the Duke of Argyle attracted much notice by appearing in the "garb of old Gaul, with kilt, philibeg, sporran and claymore complete." Rooms were allotted to the young couple in Kensington Palace.
-	Her Majesty opened the Royal Albert Hall on March 29th, and on June 21st the new St. Thomas's Hospital, and knighted the treasurer, Mr. Francis Hill. In November the news of the Prince of Wales's illness from typhoid fever created great solicitude. For some days there was intense anxiety, for the Prince's life was in imminent danger; but on December 14th, the anniversary of the Prince Consort's death from the same fever, there was a slight improvement in his condition, and from that date he continued to improve. The universal sympathy shown by the whole country during those terrible days of suspense made a lasting impression on the Queen.
-	February 27th, 1872, was observed as a day of national thanksgiving. The Queen, with the Prince and Princess of Wales and Princess Beatrice, went in state to St. Paul's, where a solemn Te Deum was sung.
-	During the next few years events came thick and fast, some of them very nearly affecting the Queen. The death of her valued friend and spiritual adviser, Dr. Norman Macleod, was a sad loss to Her Majesty; and soon afterwards she laid the foundation stone of a monument to her dear friend the Duchess of Sutherland in the grounds of Dunrobin Castle. Shortly after this the Queen received news of the death of her beloved sister, Princess Feodora,
-
-72				Her Majesty the Queen
-
-the Dowager Princess of Hohenlohe-Langenburg. In January 1873 the Emperor Napoleon died at Chislehurst; and in the following May a fatal accident befel one of the Queen's grandsons, Prince Frederick William of Hesse, who fell from a window at Darmstadt and was killed.
-	On January 23rd, 1874, the Duke of Edinburgh was married to the Grand Duchess Marie of Russia, the ceremony taking place in the Winter Palace at St. Petersburg.
-	In April of this year Her Majesty visited Gosport, and inspected the sailors and marines of the Royal Navy who had taken part in the war against the Ashantees. At a later period she conferred medals on nine seamen and marines.
-	On the occasion of the Jubilee Meeting of the Royal Society for the Prevention of Cruelty to Animals, the Queen addressed a letter to the President, Lord Harrowby, "expressing her deep interest in the success of the efforts made at home and abroad for the purpose of diminishing the cruelties on dumb animals."
-	There appeared this year the first volume of Sir Theodore Martin's "Life of the Prince Consort"; and among other tributes to his memory was the erection of a statue at the termination of the Holborn Viaduct.
-	The Queen was prevented from opening Parliament this year by the alarming illness of her youngest son, Prince Leopold, from typhoid fever; but he eventually recovered. As Princess Alice remarks, "He had already been given back three times to his family from the brink of the grave.[”]
-	In October the Prince of Wales left England for a lengthened tour through Her Majesty's Indian dominions.
-	The Queen made many public appearances this year; amongst them she opened a new wing of the London Hospital, which had been built by the Grocers' Company. She also erected a memorial cross to the memory of her personal friend, Lady Augusta Stanley, at Frogmore.
-	In 1877 Her Majesty visited Lord Beaconsfield at
-
-			Widowhood					73
-
-Hughenden. It is also worthy of note that her first grandchild, Princess Charlotte of Prussia, was married to the Hereditary Prince of Saxe-Meiningen; and in the same year her cousin, Princess Elizabeth of Prussia, to the Hereditary Grand Duke of Oldenburg. A grievous trouble came to the Queen in December. On the seventeenth anniversary of the Prince Consort's death, her good and beloved daughter, the Princess Alice of Hesse, died of diphtheria at Darmstadt. Few princesses have been more loved and revered.
-	The following March the Duke of Connaught was married at St. George's to the Princess Louise of Prussia, and in May Her Majesty received the news of the birth of her first great-grandchild, the daughter of the Princess of Saxe-Meiningen.
-	The Queen was in her Highland retreat when the sad news of the Prince Imperial's death, killed in the Zulu war, reached her. She felt it very deeply, and wrote in her Journal: "To think of that dear young man, the apple of his mother's eye, born and nurtured in purple, dying thus is too fearful, too awful; and inexplicable and dreadful that the others should not have turned round and fought for him.  It is too horrible!"
-	In 1887 another attempt was made on the Queen's life. A man named Roger Maclean fired at her, but on the plea of insanity he was sentenced to be confined during Her Majesty's pleasure. During this year the marriage of the Duke of Albany to Princess Helen of Waldeck took place, and the young couple had Claremont assigned to them. When the Egyptian War broke out, the Duke of Connaught accompanied Sir Garnett Wolseley. The news of the great victory at Tel-el-kebir gave great joy. The telegram that reached the Queen said, "The Duke of Connaught is well, and behaved admirably, leading his brigade to the attack."
-	The new Law Courts in the Strand were formally opened
-
-74               Her Majesty the Queen
-
-by the Queen in December. The following March the Queen sustained a severe accident; she slipped upon some stairs at Windsor and sprained her knee. For about a year it was a source of pain and much discomfort.
-	In 1884 the Duke of Albany died at Cannes from a fit of apoplexy; and in 1885 Her Majesty's youngest child, Princess Beatrice, married Prince Henry of Battenberg in Whippingham Church, Isle of Wight.
-	There were numerous other good works inaugurated by the Queen during the next few years: the laying of the foundation stone of the new Medical Examination Hall of the Royal College of Physicians and Surgeons on the Thames Embankment; the opening of the Colonial and Indian Exhibition at South Kensington, the Liverpool Exhibition, and the Royal Holloway College for Women at Mount Lee, Egham; and also of the People's Palace at the East End, in the May preceding Jubilee Day. There have been three royal jubilees in the history of England, but none of them can compare with the Jubilee of June 21st, 1887, unless it be the Jubilee of 1897, when our beloved Sovereign commemorated the sixtieth year of her reign. It was a sight that thrilled all hearts when the Queen left her palace gates that June morning, surrounded by her glorious guard of honour, sons, sons-in-law and grandsons, on her way to Westminster Abbey. The fair young Queen of fifty years before was now a grey-haired woman, but the loving heart still responded to her faithful subjects' acclamations. Since then our beloved Sovereign has celebrated her Sixtieth Jubilee, and those ten years have brought her many fresh sorrows. The loss of her three sons-in-law, the noble Emperor Frederick, the Grand Duke Louis of Hesse, and Prince Henry of Battenberg, and the death of her beloved grandson, Prince Victor, were heavy troubles, and her tender sympathy with her widowed daughters was their greatest comfort. 
-Widowhood                                  75
-
-There can be little doubt, as Barnett Smith tells us, that "Her Majesty has outlived all her early friends and faithful servants. All who officiated at her coronation have passed into the land of shadows. If she has tasted all the happiness of life, she has tasted likewise its bitterness, for death has ever been busy laying his finger here and there upon her beloved friends, relatives and associates. . . . The Queen's reign is coincident with the most surprising progress at home and abroad. It has been the age of railways, of trans-oceanic steamers and of the telegraph, of free trade, parliamentary reform, and the abolition of the corn laws."
-	The late Earl of Carlisle once happily observed that the glories of Her Majesty's reign were "the glories of peace, of industry, of commerce, of genius; of justice made more accessible; of education made more universal; of virtue more honoured; of religion more beloved; of holding forth the earliest gospel light to the unawakened natives; the glories that arise from gratitude for benefits conferred; and the blessings of a loyal and chivalrous because contented people."
-	For sixty years our dear Lady has sat on her imperial throne, and her firm serene rule, keen intellect, and wide sympathies have blessed her mighty empire. As Mrs. Tooley has beautifully observed: "The Queen will live in history as the most enlightened and consistent of constitutional monarchs, as well as being revered as a great and noble woman. Those who have been privileged to enjoy her friendship all speak of the beautiful blending of naïveté and kindness with great personal dignity which render her so charming in private life."
-	The Queen is growing old now, and her infirmity prevents all active exercise; but her daily work is still as heavy as ever. For some years past, we are told in that charming little book, "The Private Life of the Queen," by one of her servants, "the Queen's health and strength have largely
-
-76               Her Majesty the Queen
-
-depended on her being almost perpetually in the open air; and it is necessity, not choice, that obliges her to do her morning's work out of doors. At Windsor the little Frogmore tea-house, with its lovely surroundings, is the chosen spot; and here, beneath the shade of two magnificent evergreen oaks, the Queen's writing-table and despatch-boxes are set out on fine mornings, while two mounted messengers keep up perpetual communication with the telegraph office and telephones at the Castle; and the attendant secretary stands at her side. ... In addition to the public work, the self-imposed private work done by Her Majesty is extraordinary. Every word of the Parliamentary report which is daily made to her by the leader of the House of Commons is perused by her, and not unfrequently annotated in her own hand before being filed." And in another passage: "Apart from state business, it has been proved that the Queen is the greatest correspondent of the day, not only as regards the letters she receives and reads, but those she indites with her own hand in reply. A point on which the Queen is extremely punctilious is the insistence that, unless debarred by illness, all her children shall write to her once every day. . . . Her Majesty is a most introspective letter-writer, and only cares for letters of a like quality." Her letters to the nation at times of public trouble and rejoicing are truly admirable; and it is worthy of record that when any catastrophe or accident happens, any disaster by land or sea, a message of womanly sympathy is flashed from Windsor or Osborne to the unhappy survivors. To add to Her Majesty's labours; it is now known that she has taken up the study of Hindustani, and that the Empress of India writes her diary in that language. It has been said, "that if the Queen had been destined to write in lieu of ruling, she must have left a great mark on the literature of the country."
-	When, as it has been touchingly said, "the day of
-
-		Widowhood				77
-
-England's sorrow dawns," and "she is laid to rest in the place where she so often goes to pray on Sunday," surely there will be a great cry through this vast empire, like that one of old in Egypt, "when there was not a house where there was not one dead." God grant that that time may be far from us, and that our great and good Queen may long be spared to us, and in the words of that sweet poem by Helen Marion Burnside—
-
-				"I'm praying, 'God bless her' again; 
-God grant her His peace an' His comfort i' the years that may still remain; 
-God send her His shinin' angels, the angels that do His will, 
-To guide the feet that are weary up the last steep bit o' the hill."
-
-
+                    <p><name type="presenter">Rosa Nouchette Carey</name> begins her four-chapter, seventy-seven page biography of "Her Majesty the Queen"
+                        with an epigraph by <name>Wordsworth</name>, praising the auspicious <milestone unit="subject" corresp="life_events" ana="birth"/>birth of <name corresp="QUEEN_VICTORIA">Victoria</name>.  It is actually an excerpt&mdash;ten tetrameter lines of the "Quartet"&mdash;of 
+                        Wordsworth's "Ode on the Installation of His Royal Highness Prince Albert as Chancellor of the University of Cambridge in 1847," a kind of fairytale musical.
+                        The "Quartet" ends with Time's prophecy that Victoria will be that rare sovereign who enjoys the blessing of love.  Carey's unimaginatively
+                        chronological and royalist biography wishes to maintain the tone of Wordsworth's occasional poem,<milestone unit="subject" corresp="history" ana="festival"/> a court masque
+                        guided by divine allegories, but it must also attend to recent national history.  Thus, the first chapter begins by citing
+                        the authority of <name>Thomas Macaulay</name>: <quote>"When the time comes for the history of the <milestone unit="subject" corresp="history" ana="leader"/>reign 
+                            of <name corresp="QUEEN_VICTORIA">Queen Victoria</name>
+                            to be written, it will be found that no equal <milestone unit="subject" corresp="history" ana="era"/>epoch since the commencement of the 
+                            Christian era&mdash;except, perhaps, that which includes the discovery of America, the invention of printing, and the Reformation&mdash;
+                            has been so full of important events, affecting the condition and progress of the human race."</quote> <name>Macaulay</name> alludes 
+                            to <milestone unit="subject" corresp="history" ana="progress"/>
+                            the progress of science, technology, <quote>"the subjugation of nature to the use of man,"</quote>, and the general 
+                            advancement of society in education, morals, and religion. This characterization of the eponymous era of Victorian progress in turn is 
+                            linked to a history of the British
+                            monarchy, specifically the precedent of a queen in command: <name type="presenter">Carey</name> approvingly cites <name>Lord 
+                                Macaulay's</name> analogy <milestone unit="subject" corresp="narrative_rhetoric" ana="analogy_historical_woman"/>representing
+                        <name corresp="QUEEN_VICTORIA">Victoria</name> as
+                        "a wiser, gentler, happier <name corresp="QUEEN_ELIZABETH_I">Elizabeth</name>."</p>
+                    <p><name>Carey</name> continues her exposition of biography's stable conditions and the key life event, 
+                        birth: <milestone unit="subject" corresp="genre_conventions" ana="stable_condition"/>
+                        <q>The whole life of <milestone unit="subject" corresp="narrative_rhetoric" ana="direct_address"/>our beloved 
+                            Queen, as we know it up to the present day, is a Royal 
+                            Idyll, noble in its simplicity, its truth, its purity; and as child, crowned maiden, wife, mother, and widowed ruler, 
+                            she alike claims our reverence and love.
+                            <milestone unit="subject" corresp="narrative_rhetoric" ana="example"/>
+                            It was a blessed day for <rs type="places" key="nation">
+                                England,</rs> that <date>24th of May, 1819,</date> when in
+                            the grey old <rs type="places" key="court">palace at Kensington</rs> the girl baby <rs type="life_events" key="birth">opened 
+                            her blue eyes first on this world</rs>. <milestone unit="subject" corresp="life_events" ana="family"/>The only child of the popular <name>Duke of Kent</name><milestone unit="subject" corresp="agents" ana="father"/> and his wife, 
+                            the widowed and charming <name>Princess of Leiningen</name><milestone unit="subject" corresp="agents" ana="mother"/>, great was her father's rejoicing at her birth. 
+                            <rs type="narrative_elements" key="speech_others">'Take care of her, for she will be Queen of 
+                            England,'</rs><milestone unit="subject" corresp="narrative_rhetoric" ana="prophecy"/> he would say, with fond pride....</q></p>
+                        <p><name>Carey,</name> interlacing unidentified quotations from other biographies, recounts the baptism of Princess Alexandrina Victoria on <date>
+                        24th of June, 1819</date>, her distinction as the first British royal person to be vaccinated, and the family holiday to Sidmouth, "where
+                            the little one thrived in the health-giving Devonshire air;<milestone unit="subject" corresp="life_events" ana="illness_or_health"/> 
+                            but alas!" her father caught a fatal chill. Carey juxtaposes the father's death with the vitality of the future queen, dwelling on 
+                            a sentimental anecdote from an unidentified biography: 
+                            <rs type="narrative_elements" key="anecdote">"There is a sweet word-picture here; for we are told that the royal infant, 
+                                'being held up at the carriage window to bid the assembled population of Sidmouth farewell, 
+                                sported and laughed joyously, and patted the glass with her pretty dimpled hands, in happy unconsciousness of her
+                                melancholy bereavement.'...how vividly one seems to see it!"</rs>
+                            <milestone unit="subject" corresp="narrative_rhetoric" ana="emphasis"/>  The anecdote uncannily anticipates many public spectacles of Victoria's
+                        joy and grief, and even anticipates something of the disproportion between occasion and feeling that many witnessed in her later life.</p>
+                       <p>Carey makes her own public display of disproportionate affect in the effort to shape a narrative about the living Queen.  She frequently relies
+                           on direct address, emphasis, cliched tropes and topoi, and other narrative rhetoric and conventions of biography as a genre.  Thus, in the fifth and sixth
+                           paragraphs, each a sentence long:</p>
+                           <q>
+                               <p>As we follow the footsteps<milestone unit="subject" corresp="narrative_rhetoric" ana="direct_address"/> of the Royal child 
+                               from infancy to <rs type="life_events" key="childhood"></rs>childhood, and on through her early youth,<milestone unit="subject" corresp="genre_conventions" ana="movement"/> the curtain seems to rise for us again and again; 
+                               and some never-to-be-forgotten picture is placed before our eyes&mdash;...rich with nature's verity, and warm with colour.</p>
+                               
+                               <p>Every writer who has striven to pourtray the leading incidents of Queen Victoria's life has seized eagerly 
+                                   on these little episodes,<milestone unit="subject" corresp="narrative_elements" ana="episode"/> which seem to stand out 
+                                   with cameo-like clearness, and one by one to reproduce them.</p>
+                                  
+                           </q>
+ 
+	<p>Vivid the episodes may be, but how to reassemble them from the pieces eagerly seized?  How to avoid the effect of a curtain rising again and again?  
+	    What more can the audience do than feel again the charming sentiments nationally rehearsed throughout their lifetimes? The biographer's progress is 
+	    necessarily slow through this catalogue of gems.  "The great philanthropist <name>William Wilberforce</name> writes to <name corresp="HANNAH_MORE">Hannah More</name>, on <date>July 21st, 1820</date>" of an invitation
+	    to wait on the Duchess of Kent.  "'She received me with her fine animated child on the floor beside her with her playthings, of which I soon became one.'  The life at Kensington
+	    Palace was as simple as that of any English household" (18). The future queen
+	    is capable of making fond fools of statesmen, it seems&mdash;or of making a domestic scene a matter of state.  The "severe simplicity of that Royal 
+	    household," described by those who witnessed it from the outside or within, becomes a model of the nation, cosy (Princess and mother always share a 
+	    bedroom) and bucolic (on summer days, they take their simple breakfast outdoors among flowers and birds); run like clockwork, a program of self-improvement.  Several sources attribute national well-being
+	    to the disciplined program that kept Victoria morally in tune, albeit lonely and a bit taxed with surveillance.
+	</p>
+         <p><name>Baroness Lehzen</name>, the governess, plays her part in narratives of 
+        Victoria's <rs corresp="life_events" key="education">education.</rs>  In a <milestone unit="subject" corresp="narrative_elements" ana="quotation_letter"/>             
+        letter to the Queen dated <date>December 2nd, 1867</date>, the Baroness recalls "'some remarkable words of your Majesty 
+        when only twelve years old, while the Regency Bill was still in progress.<milestone unit="subject" corresp="history" ana="campaign"/> I 
+        then said to the <rs corresp="agents" key="mother">Duchess of Kent</rs> that now for the first time your Majesty ought to know your place
+        in the succession.'"<milestone unit="subject" corresp="life_events" ana="vocation"/> The two older women agreed to place the genealogy in the girl's
+        history book, as part of the lesson her tutor expected her to learn.  The Princess remarks on the information she has just encountered, 
+             <milestone unit="subject" corresp="narrative_elements" ana="dialogue"/>"'I never 
+        saw that before.... I see I am nearer the throne than I thought.' 'So it is, Madam,' I said. After some moments, the Princess resumed, 'Now, 
+        many a child would boast; ...There is much splendour, but much responsibility.' The Princess, having lifted up the forefinger of her right hand, gave me that little hand, saying, 'I will be good, dear Lehzen; I will be good.'"  This
+        is where most biographies cease to quote the twelve-year-old, but Lehzen continues with the valid point that the succession could go otherwise, Adelaide (wife of Willim IV)being still 
+        capable of childbearing.  The Princess said, we're told, that she wouldn't be disappointed, since Adelaide is fond of children.  Carey, supporting
+        the thesis of Baroness Lehzen's letter, "One must surely allow that these were remarkable words to be spoken by a child of twelve" (21).</p> 
+	<p>Carey's next theme is the excellent plan of the Duchess of Kent to raise a truly English daughter, familiar with her homeland and adjusted to the adulation of her people. 
+	    Curiously, another presented of collective biography appears: G. Barnett Smith, in his interesting "Life of the Queen," informs us that "'the Duchess of Kent 
+	    early familiarised her illustrious daughter with the features of her own country, interesting her in it by personal visits to its chief cities and towns'" (22).  
+	Carey acknowledges the historical succession as well as the private events of a girls' life, noting the "Regency Bill" that with the accession of William IV, the 
+	Duchess of Kent was named Regent, granting annual support totalling £16,000.</p>
+	<p>The young Princess made her first appearance at Court on Queen Adelaide's birthday, on February 24th, 1831, when she was thirteen. We read 
+	that "she wore a dress of English blonde over white satin, a pearl necklace, and a rich diamond agrafe fastened the Madonna braids of her fair 
+	hair at the back of her head."</p>
+	<p>There was much comment and questioning at the absence of the heiress presumptive on the occasion of the coronation of William IV. 
+	and Queen Adelaide; but controversy was silenced by the statement that the Duchess of Kent had been anxious about her daughter's delicate health, 
+	and had obtained the King's sanction for her absence; and indeed, at the close of the Princess Victoria's fifteenth year, her condition gave general 
+	concern.
+	On August 30th, 1835, the Princess was confirmed in the Chapel Royal of St. James'. The Archbishop of Canterbury and the Bishop of London officiated. 
+	The ceremony was private; only the King and Queen, the Duchess of Kent, the Duchess of Saxe-Weimar, and other members of the Royal Family were present. 
+	But the scene was a touching one, for during the Archbishop's pathetic and tender exhortation the Royal girl was deeply affected, her face was bathed in 
+	tears, and unable at last to restrain her emotions, she laid her head on her mother's shoulder and sobbed aloud.
+	In painful contrast to this affecting scene Greville gives us a singular account of the King's birthday dinner--when about a hundred persons were present, 
+	and among them the Duchess of Kent and the Princess Victoria, when the King delivered a most extraordinary speech. "I trust in God," 
+	he is reported to have said, "that my life may be spared for nine months longer, after which period, in the event of my death, no regency would take place.  
+	I should then have the satisfaction of leaving the royal authority to the personal exercise of that young lady," pointing to the Princess, 
+	"the heiress-presumptive of the crown, and not in the hands of a person near me, who is surrounded by evil advisers, and who is herself 
+	incompetent to act with propriety in the station in which she would be placed." The King went on to complain of the manner in which the 
+	Princess had been kept away from Court and from the Drawing-room, and in a most peremptory manner commanded that the Princess should for 
+	the future appear at Court on all occasions. Greville adds that this awful philippic was uttered with a loud voice and an excited manner, 
+	and that though the King concluded with an affectionate allusion to the Princess, it created a most painful sensation. The Queen was in great 
+	distress, the young Princess burst into tears; as for the insulted Duchess, she said not a word, but announced her immediate departure.
+	One can only hope that the scene is exaggerated, but it is well known that the King frequently lost his temper, and that more than 
+	once he had vented his displeasure on his sister-in-law. A sort of reconciliation was on this occasion effected, and the Duchess 
+	was induced to remain at Windsor until the next day.</p>
+	<p>May 1836 was a memorable month for Princess Victoria, for it was then that she first saw her future husband.
+	The "little May flower" had always been an object of interest to her relatives in Coburg, and the idea of her marriage to one of her 
+	cousins had taken deep root in the family. The Prince used to relate that when he was a child of three years old his nurse always 
+	told him that he should marry the Queen, and that when he first thought of marrying at all, he always thought of her.
+	This idea was warmly encouraged by King Leopold, and his   friend and adviser Baron Stockmar, but the latter urged 
+	"that no claim on the Prince's 
+	behalf for the hand of his cousin should be preferred, unless an impression in his favour from personal acquaintance should first have been produced."
+	An invitation from the Duchess to the Duke of Coburg and his sons Ernest and Albert afforded an opportunity for the Princess to make the 
+	acquaintance of her cousins. "But," Stockmar wrote, "it must be made a sine qua non that the object of the visit be kept strictly secret from 
+	the Princess, as well as from the Prince, so as to leave them completely at their ease."
+	The visitors remained nearly four weeks at Kensington Palace, and the cousins spent delightful days together, playing duets on the piano, 
+	sketching, walking and riding, and visiting the chief attractions of the Metropolis.</p>
+	<p>Prince Albert writes home in his simple, affectionate way: "Dear Aunt is very kind to us, and does everything she can to please us; 
+	    and our cousin also is very amiable." The Queen, too, gave the following description of the Prince at this period: "The Prince was 
+	    at this time very handsome, but very stout, which he entirely grew out of afterwards. He was most amiable, natural, unaffected, and 
+	    merry, full of interest in everything."
+	The visit of the Royal youths was a complete success, and the Queen unconsciously revealed her favourable opinion of Prince Albert in her 
+	confidential letters to her uncle, King Leopold. They were both now about seventeen years old, the Queen completing her seventeenth year 
+	during the visit, the Prince three months later. Sir Theodore Martin, in his life of the Prince Consort, tells us "that almost simultaneously 
+	with the Princes leaving England, King Leopold made the Queen aware of his wishes on the subject. The answer made it impossible to doubt how 
+	entirely those of the Princess were in accordance with his own.  "I have only now to beg you, my dearest uncle," it concludes, "to take care of the 
+	health of one now so dear to me, and to take him under your special protection. I hope and trust that all will go on prosperously and well on this 
+	subject now of so much importance to me." (Letter of Princess Victoria to King Leopold, June 7th, 1836.)</p>
+	<p>On May 24th, 1837, the Princess came legally of age. It was a time of great rejoicing.  Kind messages came from Windsor, and a costly piano 
+	    from the King; but he was too ill to be present at the State Ball at St. James's, nor could the Queen leave him.
+	We read that the Princess Victoria opened the ball with young Lord FitzAlan, son of the premier Duke in England, the Duke of Norfolk, and that 
+	she danced with Prince Esterhazy--"ablaze with diamonds as usual." A few days later Baron Stockmar arrived on the scene, and less than a month 
+	after that festal birthday William IV. breathed his last.</p>
+	<p>It is interesting to note that Princess Victoria made her last appearance in public as heiress presumptive at a Charity Ball given at the 
+	    Opera House for the benefit of the Spitalfields weavers, and that her life as Princess was thus fitly closed by a charitable act.</p>
+
+<p>The second chapter narrates "ACCESSION   AND   MARRIAGE," beginning with an epigraph from Elizabeth Barrett Browning's poem on the coronation.  
+    Carey waxes philosophical 
+on the proximity of death in the happiest of times in life&mdash;"Life and death, buoyant youth and senile decay, and 
+light tripping feet moving with averted eyes among the graves!"&mdash;, pointing to the repentant death of William IV as preamble 
+to the rise of the young queen.</p>
+<p>"Victoria Regina! God save the Queen! A Royal Idyll indeed!—it reads to us still like a fairy tale; we heard it first at our mother's knee, 
+and hushed our young breaths as the thrilling story unfolded before us: the slumbering Palace in the dim light of that June morning, the sleeping Princess, 
+the hurrying messengers: Dr. Howley, the Archbishop of Canterbury, and the Lord Chamberlain, Lord Conyngham; the unavailing knocking, thumping, and 
+ringing before the drowsy porter could be aroused. We read how, when the attendant hesitated about disturbing the Princess, so sweet and sound were her 
+slumbers, the quick peremptoriness of the official reply, "We have come on business to the Queen, and even her sleep must give way to that." 
+And then follows that quaint, natural word-picture drawn by Miss Wynn in her "Diary of a Lady of Quality": "In a few minutes she [the Princess] 
+came into the room in a loose white nightgown and shawl, her nightcap thrown off, and her hair falling upon her shoulders, her feet in slippers, 
+tears in her eyes, but perfectly collected and dignified." In Mrs. Tooley's "Personal Life of Queen Victoria," 
+she gives us the following interesting piece of information: "In 1863, when Dean Stanley was on a visit to the Queen at Osborne, 
+he asked Her Majesty if she would give him an account of how the news of her accession was conveyed to her, which she did in the following words: 
+"It was about 6 a.m. that mamma came and called me, and said I must go to see Lord Conyngham directly—alone. I got up, put on my dressing-gown, 
+and went into a room, where I found Lord Conyngham, who knelt and
+kissed my hand, and gave me the certificate of the King's death. In an hour Baron Stockmar came. 
+He had been sent over by King Leopold on hearing of the King's danger-ous illness. At 2 p.m. that same day (June 20th, 1837) 
+I went to the council led by my two uncles, the King of Hanover and the Duke of Cambridge.'" But all accounts agree on one point: that the first words 
+of the girl monarch on being informed of her new dignity were addressed to the Archbishop—"I ask your Grace to pray for me." Every episode of this 
+memorable day is full of thrilling interest.</p> 
+	<p>The young Queen's first Privy Council was held at Kensington Palace later that morning; 
+	and one can imagine the sensation and emotion that were excited when the doors were thrown open, and that girlish figure in mourning 
+	advanced, bowing quietly to her lords, and took her seat; and without embarrassment or tremor of nerves read her declaration in a clear 
+	silvery voice.  Greville himself seemed to be struck with admiration at the young Queen's bearing. He tells us in his graphic way: 
+	"After she had read her speech and taken and signed the oath for the security of the Church of Scotland, the Privy Councillors were sworn, 
+	the two Royal Dukes first by themselves. And as these two old men, her uncles, knelt before her, swearing allegiance and kissing her hand, 
+	I saw her blush up to the eyes, as if she felt the contrast between their civil and natural relations; and this was the only sign of emotion 
+	which she evinced. Her manner to them was very graceful and engaging: she kissed them both, and rose from her chair and moved towards the 
+	Duke of Sussex, who was farthest from her and too infirm to reach her. She seemed rather bewildered at the multitude of men who were sworn, 
+	and who came one after another to kiss her hand; but she did not speak to anybody, nor did she make the slightest difference in her manner, 
+	or show any in her countenance, to any individual of rank, station, or party.  I particularly watched her when
+Melbourne and the Ministers and the Duke of Wellington and Peel approached her. She went through the whole ceremony, occasionally looking at 
+Melbourne for instruction when she had any doubt what to do, which hardly ever occurred, with perfect calmness and self-possession, but at the 
+same time with a graceful modesty and propriety particularly interesting and ingratiating."
+	This was a splendid eulogium from the "acid diarist." But the Duke of Wellington seemed also much impressed, and was heard to say 
+	"that if the Queen had been his own daughter he could not have desired to see her perform her part better."
+	Immediately after the Council, we are informed the Queen went to her mother's room and begged with deep emotion to be left in absolute 
+	solitude for two hours. No one dare invade that sacred privacy; but we may believe that that fair young head was bowed in earnest prayer 
+	for strength and wisdom to fulfil the duty of that high station to which she had been called in her youth—"Victoria Regina, by the grace of God,
+	Queen of the United Kingdom of Great Britain and Ireland."
+	There is another incident on that day which deserves to be mentioned. One of her first acts had been to write a loving letter full of tenderest 
+	sympathy to the widowed Queen. Some one reading the superscription, "Her Majesty the Queen," observed that it should be "Her Majesty the Queen 
+	Dowager." "I am quite aware of Her Majesty's altered character," was the reply, "but I will not be the first person to remind her of it"—an 
+	answer instinct with the finest delicacy.
+	On the following morning, June 21st, the Queen, accompanied by her mother, drove in state to St. James's Palace. The guns in the Park 
+	fired a salute at ten o'clock, and immediately the "little Queen" stood at the window of the Presence Chamber in full view of the crowd, 
+	while the band
+
+of the Royal Guards struck up the National Anthem, and at its conclusion, while Sir William Woods, acting for the Garter King-at-Arms, and 
+accompanied by the Duke of Norfolk as Earl Marshal of England, read aloud the proclamation. The Queen looked very pale and fatigued. She was 
+dressed in deep mourning, with a white tippet, white cuffs, and a border of white lace under a small black bonnet, which was placed far back on her 
+head, exhibiting her light hair in front, simply parted over her forehead. She appeared deeply affected at the acclamations of her people, and was 
+observed to shed tears. Elizabeth Barrett Browning com-memorated this touching incident in a lovely poem, the last stanza is exceptionally beautiful.
+
+
+
+	
 
 
 </p>
