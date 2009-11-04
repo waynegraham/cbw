@@ -198,7 +198,7 @@
 				</p>
 			</xsl:when>
 			<xsl:otherwise>
-				<p class="{@type}">
+				<p class="{@rend}">
 					<xsl:apply-templates/>
 				</p>
 			</xsl:otherwise>
