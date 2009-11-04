@@ -336,9 +336,10 @@ div.illus {
 }
 p.block {
 	padding-left: 5em;
+	padding-right: 5em;
 }
 p.indent {
-	color: red;
+	text-indent: 5em;
 }
 /* highlighted search text is yellow */
 .searchword {
