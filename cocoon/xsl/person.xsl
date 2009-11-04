@@ -182,7 +182,7 @@
 						<xsl:value-of select="date"/>
 					</dt>
 					<dd>
-						<xsl:value-of select="label"/>
+						<xsl:apply-templates select="label"/>
 						<span class="ms-desc"><xsl:value-of select="./text()[2]"/></span>
 					</dd>
 				</div>
@@ -193,12 +193,12 @@
 	<xsl:template match="div2[@type='bio']/p | div2[@type='essay']/p">
 		<xsl:choose>
 			<xsl:when test="position() = 1">
-				<p id="{generate-id(parent::node())}_p">
+				<p id="{generate-id(parent::node())}_p" class="{@type}">
 					<xsl:apply-templates/>
 				</p>
 			</xsl:when>
 			<xsl:otherwise>
-				<p>
+				<p class="{@type}">
 					<xsl:apply-templates/>
 				</p>
 			</xsl:otherwise>
