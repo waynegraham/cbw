@@ -151,15 +151,16 @@
             <interp id="talent" value="anecdotes or remarks on promise or achievement"/>
             <interp id="illness_or_health" value="subject's or others' illness or health in general or event"/>
             <interp id="education" value="formal and informal education"/>
+            <interp id="love" value="subject's experience, expressions of love, romantic or bond with family, friend"/>
             <interp id="marriage" value="event and relationship"/>
-            <interp id="relationship" value="partner, friend or other significant relationship"/>
+            <interp id="relationship" value="chosen attachment, partner, friendship, other than birth family"/>
            
             <interp id="vocation" value="calling, choice of work, employment"/>
-            <interp id="religion"
-                value="practices, family training, conversion, mission or teaching others"/>
+            <interp id="religion" value="practices, family training, conversion, 
+                mission or teaching others"/>
             <interp id="ordeal" value="defining episode including hardship or test"/>
-            <interp id="recognition"
-                value="living or posthumous acknowledgment or tributes in person, media, events"/>
+            <interp id="recognition" value="living or posthumous acknowledgment 
+                or tributes in person, media, events"/>
             <interp id="death" value="death of subject or of others"/>
             <interp id="memorial" value="funeral, monument, plaque"/>
             </interpGrp>
@@ -253,14 +254,21 @@
         <interp id="trope_light" value="comparison of subject to sunshine, beacon"/>
             <interp id="trope_dark" value="comparison of setting or outlook to night, darkness"/>
             <interp id="trope_light_into_darkness" value="subject's quest into dark space, bearing light"/>
-            <interp id="trope_mission" value="subject's activity troped as religious service to people"/>
+            
             <interp id="trope_alone" value="subject's loneliness, difference from all women, lack of companion"/>
+            <interp id="trope_difference_from_women" value="subject's qualities distinguish or separate her from 
+                other women"/>
             <interp id="trope_national_spirit" value="patriotism, true to English, American character etc"/>
        <interp id="topos_appearance" value="description of subject's physical persona, her own and others' response to it"/>
+            <interp id="topos_dependency" value="subject's need for mentor, parent, partner"/>
+            <interp id="topos_loss" value="grief, loss of home, attachmen, support"/>
+            <interp id="topos_doubt" value="loss of faith, lack of motivation"/>
+            <interp id="topos_mission" value="subject's activity troped as religious service to people"/>
             <interp id="topos_nursing_dying_man" value="subject nurses soldier, patient, wounded or diseased"/>
             <interp id="topos_confronting_working_class" value="subject subdues hostile workers"/>
             <interp id="topos_rescue_fallen_women" value="subject aids or influences prostitutes"/>
             <interp id="topos_influence" value="proven effect on the people, on professionals, female peers"/>
+            <interp id="topos_affect" value="subject's weeping or other manifest feeling, usually shared by witnesses"/>
             <interp id="topos_recognition" value="scenes proving fame, love of people, officials awarding honor"/>
             <interp id="example" value="subject seen as or follows another as model person"/>
             <interp id="advice" value="presenter offers general precept(s)"/>
