@@ -133,6 +133,9 @@
 		<div class="{@type}">
 			<h3 class="text_title">
 				<xsl:value-of select="head/title"/>
+				<xsl:if test="p[2]">
+					<a id="toggle_{generate-id(.)}" class="toggle_link">Read more...</a>
+				</xsl:if>
 			</h3>
 			<xsl:if test="string(docAuthor)">
 				<h4 class="text_author">
@@ -148,9 +151,6 @@
 					<xsl:value-of select="head/bibl"/>
 				</em>
 			</div>
-			<xsl:if test="p[2]">
-				<a id="toggle_{generate-id(.)}" class="toggle_link">Read more...</a>
-			</xsl:if>
 		</div>
 	</xsl:template>
 
