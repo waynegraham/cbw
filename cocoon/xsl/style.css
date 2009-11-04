@@ -334,6 +334,12 @@ div.illus {
 	height: 70px;
 	overflow: visible;
 }
+p.block {
+	padding-left: 5em;
+}
+p.indent {
+	color: red;
+}
 /* highlighted search text is yellow */
 .searchword {
 	background-color:yellow;
