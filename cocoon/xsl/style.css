@@ -540,6 +540,7 @@ ul.links {
 	cursor:pointer;
 	margin-left:25px;
 	padding-top:10px;
+	font-size: 15px;
 }
 .links .item {
 	margin-bottom:10px;
