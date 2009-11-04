@@ -1,0 +1,320 @@
+<?xml version="1.0"?>
+
+<?dlps id="UVA" rend="none"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="none"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOlat2 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat2.ent"> %ISOlat2;
+<!ENTITY % ISOdia SYSTEM "http://text.lib.virginia.edu/charent/iso-dia.ent"> %ISOdia;
+<!ENTITY % ISOtech SYSTEM "http://text.lib.virginia.edu/charent/iso-tech.ent"> %ISOtech;
+]>
+<TEI.2 id="UVA" rend="none">
+<teiHeader type="migrated">
+<fileDesc>
+<titleStmt>
+<title>Reed_Happy Women</title>
+</titleStmt>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+</publicationStmt>
+<sourceDesc><bibl/></sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change>
+<date value="2009-09-29">September 29, 2009</date>
+<respStmt>
+<name id="aec6v">Andrew Curley, University of Virginia Library</name>
+<resp>corrector</resp>
+</respStmt>
+<item>Minor corrections to vendor markup.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text id="t1">
+<body id="t1-body">
+<div1 type="fly-title" id="d3">
+<pb n="117"/>
+<head><hi rend="gothic">Sister Dora</hi></head>
+<pb/>
+<ab type="empty" rend="none"/>
+</div1>
+<div1 type="part" id="d4">
+<pb n="119"/>
+<head><hi rend="gothic">Sister Dora</hi></head>
+<p><hi rend="small-caps">Side</hi> by side with the name of Florence <lb/>
+Nightingale stands that of Dorothy <lb/>
+Wyndlow Pattison, familiarly and <reg orig="affec-|tionately">affectionately</reg> <lb/>
+known as "Sister Dora." She <lb/>
+was born in Yorkshire, England, in 1832, <lb/>
+and her childhood was much like that of <lb/>
+other children not destined for great work <lb/>
+and lasting fame.</p>
+<p>It is recorded that, in her early youth, <lb/>
+she and her sister were given velvet <lb/>
+bonnets which they chose to consider ugly. <lb/>
+One day when the two children were left <lb/>
+alone in the house, Dorothy whispered, <lb/>
+"Come, now is our chance!" It was <lb/>
+raining hard, and the inclement weather <lb/>
+gave the ingenious Dorothy a bright idea. <lb/>
+They put on the hated bonnets, opened <lb/>
+<pb n="120"/>
+the window, and leaned out into the <lb/>
+pouring rain. When the velvet was <lb/>
+thoroughly saturated, they returned them <lb/>
+to the bandboxes. On the following <reg orig="Sun-|day">Sunday</reg>, <lb/>
+when invited to get ready for church, <lb/>
+Dorothy explained airily that they could <lb/>
+not go until they had new bonnets, as the <lb/>
+others were quite unpresentable. The <lb/>
+excuse was not accepted, nor did the <lb/>
+new bonnets materialise, but Dorothy <lb/>
+and her sister were forced, all winter <lb/>
+long, to wear the despised and injured <lb/>
+headgear, in the exact condition in which <lb/>
+it was found!</p>
+<p>When she was fourteen, Dorothy had a <lb/>
+long and dangerous illness from which she <lb/>
+did not recover for months. At that <lb/>
+time, England was swept by a great popular <lb/>
+enthusiasm inspired by Miss Nightingale's <lb/>
+wonderful work in the Crimea, and, though <lb/>
+far too young, and not strong enough to <lb/>
+take even a short journey, Dorothy begged <lb/>
+<pb/>
+<figure id="f1" rend="page">
+<head>Sister Dora</head>
+<p>From the statue erected to her memory</p>
+</figure>
+<pb/>
+<pb n="121"/>
+unceasingly to be allowed to join Miss <lb/>
+Nightingale and help her in her work.</p>
+<p>For years after her recovery she <reg orig="per-|sisted">persisted</reg> <lb/>
+in her desire to leave home and <lb/>
+become a trained nurse. Her father <reg orig="con-|tinually">continually</reg> <lb/>
+opposed it, but finally gave in, <lb/>
+when she was twenty-five. He refused <lb/>
+to make her any allowance beyond what <lb/>
+he had always given her for clothing and <lb/>
+pin money, so she was obliged to find a way <lb/>
+in which to earn the balance.</p>
+<p>For three years she lived alone in a <lb/>
+small cottage, teaching school and doing <lb/>
+all her own housework. The villagers <lb/>
+were much astonished to discover that a <lb/>
+woman might be a "real lady" and yet soil <lb/>
+her hands continually with tasks which <lb/>
+seemed degrading.</p>
+<p>Finding it impossible to secure <reg orig="other-|wise">otherwise</reg> <lb/>
+the longed-for training, she joined <lb/>
+a High Church sisterhood at Coatham, <lb/>
+called the Sisterhood of the Good <reg orig="Samari-|tans">Samaritans</reg>, <lb/>
+<pb n="122"/>
+and was henceforth called "Sister <lb/>
+Dora."</p>
+<p>The training and discipline of the <reg orig="Sister-|hood">Sisterhood</reg> <lb/>
+were rigid in the extreme. The idea <lb/>
+was to humble pride, and to inculcate <reg orig="sub-|missiveness">submissiveness</reg> <lb/>
+and reverence for authority. <lb/>
+Sister Dora was one day ordered to make <lb/>
+all the beds in the establishment, and, <reg orig="hav-|ing">having</reg> <lb/>
+done so, was invited to pull them all <lb/>
+to pieces and do it over. She scrubbed <lb/>
+floors, and people came in purposely, with <lb/>
+mud and ashes, and made the floors dirty <lb/>
+again. Then she was ordered to scrub <lb/>
+once more. She also cooked, cleaned <lb/>
+grates and stoves, built fires, carried out <lb/>
+ashes, and washed dishes&mdash;all with dignity <lb/>
+and cheerfulness.</p>
+<p>She was sent by the Sisterhood, when <lb/>
+her novitiate was over, to a small hospital <lb/>
+in Walsall. Toward the end of the year, <lb/>
+she received orders to leave the <reg orig="hos-|pital">hospital</reg> <lb/>
+and take a private case in the <lb/>
+<pb n="123"/>
+southern part of England. The people <lb/>
+of Walsall objected to her leaving and <lb/>
+framed a petition to the Sisterhood. At <lb/>
+this time, she received word of her father's <lb/>
+dangerous illness, and telegraphed to the <lb/>
+Mother Superior, asking permission to go <lb/>
+to him. This was immediately and sternly <lb/>
+refused and she was ordered at once to <lb/>
+Devonshire. With aching heart, she went. <lb/>
+On reaching her patient's home, she learned <lb/>
+that her father was dead. Then the <reg orig="Sister-|hood">Sisterhood</reg>, <lb/>
+too late, relaxed its discipline, and <lb/>
+wrote to her: "You may attend your <lb/>
+father's funeral, if you please." Bitterly, <lb/>
+she answered thus: "When my father was <lb/>
+alive, you did not permit me to go to him. <lb/>
+Now that he is dead, I no longer care to go."</p>
+<p>Yet for ten years she continued to be a <lb/>
+devoted member of the Sisterhood. She <lb/>
+returned to Walsall, and among the poor, <lb/>
+the ignorant, and the afflicted, carried the <lb/>
+gospel of cleanliness and hope.</p>
+<pb n="124"/>
+<p>Once, when the impression got abroad <lb/>
+that the "Good Samaritans" were papists, <lb/>
+the hospital was stoned by a mob from the <lb/>
+coal mines. Sister Dora was badly cut <lb/>
+on the forehead and carried the scar to <lb/>
+her dying day. Before her wound had <lb/>
+healed, however, the lad who threw the <lb/>
+stone was carried into the hospital, badly <lb/>
+hurt. Sister Dora recognised him, and <lb/>
+gave him special care. One day, during <lb/>
+his convalescence, he confessed, sobbing,<lb/>
+"Sister, I threw that stone at you."</p>
+<p>"Yes," she answered, quietly, "I know. <lb/>
+I knew it as soon as you were brought in <lb/>
+here."</p>
+<p>"You knew," cried the boy, in wonder <lb/>
+and admiration, "and yet you have been <lb/>
+taking care of me like this!"</p>
+<p>She was once given charge of an old <lb/>
+lady who was violently insane, and whom <lb/>
+everyone else feared to approach. Sister <lb/>
+Dora's gentleness, patience, and tact won <lb/>
+<pb n="125"/>
+the poor creature's affections, and <reg orig="eventu-|ally">eventually</reg>, <lb/>
+through love, the old lady became <lb/>
+cured. Long afterward, in speaking of <lb/>
+it, Sister Dora said, "I had an uncommonly <lb/>
+pleasant time with that mad old lady!"</p>
+<p>Loving all deeply and unselfishly, <reg orig="Sis-|ter">Sister</reg> <lb/>
+Dora inspired her patients with that <lb/>
+answering love through which miracles <lb/>
+are wrought. Once, when holding a badly <lb/>
+burned child in her arms, Sister Dora <lb/>
+whispered, "Hush, don't cry; Sister's <lb/>
+got you!" "Oh," sobbed the child, <lb/>
+"when you get to heaven, Sister Dora, <lb/>
+I'll be waiting at the gate for you with a <lb/>
+bouquet of flowers!"</p>
+<p>By skilled nursing, she saved a badly <lb/>
+injured arm which the surgeons said would <lb/>
+have to be amputated. The man ever <lb/>
+afterward alluded to it gratefully as "Sister <lb/>
+Dora's arm." When she was ill and he <lb/>
+had fully recovered, he would walk eleven <lb/>
+miles to the hospital every Sunday <reg orig="morn-|ing">morning</reg>, <lb/>
+<pb n="126"/>
+to ask for her. He never failed to <lb/>
+leave this characteristic message: "Tell <lb/>
+her it's her arm that rang the bell."</p>
+<p>Twice she served through smallpox <reg orig="epi-|demics">epidemics</reg>. <lb/>
+At the second one an <reg orig="ambu-|lance">ambulance</reg> <lb/>
+was provided in Walsall to take the <lb/>
+stricken ones to the hospital. Sister Dora <lb/>
+would drive to a house, enter unannounced, <lb/>
+and say she had come to take the patient <lb/>
+to the hospital. Resistance was useless, <lb/>
+for Sister Dora was strong, and more than <lb/>
+once she simply took an unwilling patient <lb/>
+in her arms, either man or woman, <reg orig="depos-|ited">deposited</reg> <lb/>
+her ailing burden in the ambulance, <lb/>
+and drove on. It is said that the whole <lb/>
+town was cheered and kept from panic <lb/>
+by the frequent passing of the ambulance <lb/>
+and Sister Dora "with her jolly face smiling <lb/>
+out of the window."</p>
+<p>For six months she was practically <lb/>
+alone in a hospital full of smallpox patients. <lb/>
+She never had her bonnet on and went no <lb/>
+<pb n="127"/>
+farther than the gate, yet, from here, she <lb/>
+wrote to a friend: "I am still a prisoner, <lb/>
+surrounded by my lepers. I do feel so <lb/>
+thankful that I came. I thank God daily <lb/>
+for my life here."</p>
+<p>Eventually, she left the Sisterhood, and <lb/>
+continued her work unhampered by <reg orig="re-|strictions">restrictions</reg>. <lb/>
+"I am a woman," she <reg orig="ex-|plained">explained</reg>, <lb/>
+"and not a piece of furniture." <lb/>
+She renounced marriage with the man she <lb/>
+loved that she might continue in her <reg orig="pro-|fession">profession</reg>. <lb/>
+"The world needs me more than <lb/>
+he does," she said, "and I can never give <lb/>
+up my work."</p>
+<p>At forty-four, Sister Dora was stricken <lb/>
+with an incurable disease. The surgeon <lb/>
+whom she consulted told her that an <reg orig="opera-|tion">operation</reg> <lb/>
+might prolong her life, but could not <lb/>
+save it. She insisted that the fact be kept <lb/>
+secret&mdash;and went on with her work.</p>
+<p>Knowing that her days were numbered, <lb/>
+she was eager to crowd in as much of life <lb/>
+<pb n="128"/>
+as possible. She went to London to study <lb/>
+a new antisepticising process; she went to <lb/>
+the Paris Exposition to see new surgical <lb/>
+appliances. Incredible as it may seem, <lb/>
+she became more sunny and cheerful than <lb/>
+ever. She was more self-sacrificing in <lb/>
+behalf of her patients, more sternly <reg orig="self-|denying">self-denying</reg>, <lb/>
+more Christ-like, and even <reg orig="hap-|pier">happier</reg> <lb/>
+than she had ever been before.</p>
+<p>When she returned to Walsall, a new <lb/>
+hospital bearing her name was opened <lb/>
+by the Mayor, but she was too ill to be <lb/>
+present. The townspeople refused to <reg orig="be-|lieve">believe</reg> <lb/>
+that their "dear lady" was ill, and <lb/>
+when at last they were convinced that <lb/>
+she could not recover, everyone was <reg orig="grief-|stricken">grief-stricken</reg>.</p>
+<p>In every church, twice on Sundays and <lb/>
+at the Wednesday night prayer-meeting, <lb/>
+public prayers were offered for Sister Dora's <lb/>
+restoration to health. In October, 1878, <lb/>
+she wrote to a friend: "The decree has <lb/>
+<pb n="129"/>
+gone forth, 'Sister, put thy house in order, <lb/>
+for thou shalt die, and not live.' There <lb/>
+is only Mount Calvary to climb, by the <lb/>
+ladder of sickness. I have not had two <lb/>
+hours' sleep for four days and nights, but <lb/>
+in the midst of the fiery furnace there was a <lb/>
+form like unto the Son of God."</p>
+<p>Eleven weeks of anguish followed, which <lb/>
+she bore heroically, until the end came, on <lb/>
+Christmas Eve. "I see Him there," she <lb/>
+said; "the gates are opened wide." And <lb/>
+through the open gates she went, free at <lb/>
+last of all disease and pain, perhaps to <lb/>
+find the poor little burned child of so many <lb/>
+years ago, who had promised to wait at <lb/>
+the gate for her "with a bouquet of <lb/>
+flowers."</p>
+<p>It was a sad Christmas Day for Walsall, <lb/>
+and no celebrations were held. In some <lb/>
+cases, even the presents intended for the <lb/>
+children were put away, sadly, by weeping <lb/>
+men and women. The whole city, <reg orig="wor-|shipping">worshipping</reg> <lb/>
+<pb n="130"/>
+her while living, paid honour to <lb/>
+her when she was dead.</p>
+<p>Eight years afterward, in the midst of the <lb/>
+smoke and dirt of the central part of <reg orig="Wal-|sall">Walsall</reg>, <lb/>
+was erected a noble statue, of purest <lb/>
+marble&mdash;a likeness of Sister Dora when she <lb/>
+was young and beautiful, strong, and <lb/>
+happy in her chosen work. In her last <lb/>
+days she said once that she wished she <lb/>
+had married, but otherwise she voiced no <lb/>
+regret, even for her intense bodily pain. <lb/>
+"Say of me," she said, "only this&mdash;she <lb/>
+hath done what she could!"</p>
+</div1>
+</body>
+</text>
+</TEI.2>

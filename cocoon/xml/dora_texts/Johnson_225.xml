@@ -1,0 +1,870 @@
+<?xml version="1.0"?>
+
+<?dlps id="UVA" rend="none"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="none"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOlat2 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat2.ent"> %ISOlat2;
+<!ENTITY % ISOdia SYSTEM "http://text.lib.virginia.edu/charent/iso-dia.ent"> %ISOdia;
+<!ENTITY % ISOtech SYSTEM "http://text.lib.virginia.edu/charent/iso-tech.ent"> %ISOtech;
+]>
+<TEI.2 id="UVA" rend="none">
+<teiHeader type="migrated">
+<fileDesc>
+<titleStmt>
+<title>Johnson_Noble Women of Our Time</title>
+</titleStmt>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+</publicationStmt>
+<sourceDesc><bibl/></sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change>
+<date value="2009-09-29">September 29, 2009</date>
+<respStmt>
+<name id="aec6v">Andrew Curley, University of Virginia Library</name>
+<resp>corrector</resp>
+</respStmt>
+<item>Minor corrections to vendor markup.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text id="t1">
+<body id="t1-body">
+<div1 type="chapter" n="X" id="d3">
+<pb/>
+<head>X.</head>
+<div2 type="part" id="d4">
+<head><hi rend="gothic">"Sister Dora" among the Sick and the <lb/>
+Suffering.</hi></head>
+<argument>
+<p>"Turn away from life's pageants, turn, <lb/>
+If its deep story thy heart would learn! <lb/>
+Ever too bright is that outward show, <lb/>
+Dazzling the eyes till they see not woe. <lb/>
+But lift the proud mantle which hides from thy view <lb/>
+The things thou shouldst gaze on, the sad and true, <lb/>
+Nor fear to survey what its folds conceal; <lb/>
+So must thy spirit be taught to feel."</p>
+</argument>
+<p><hi rend="small-caps">The</hi> best sermon and the best commentary <lb/>
+upon the teaching of the Saviour is found <lb/>
+in lives devoted to "doing good." <reg orig="With-|out">Without</reg> <lb/>
+this proof and evidence of Christianity <lb/>
+in practice, professions, creeds, and beliefs are of little <lb/>
+account. The Saviour went about his Father's work, <lb/>
+healing the sick, comforting the sorrowing, causing <lb/>
+the hearts of those with whom he came in contact to <lb/>
+burn within them; and those who would follow the <lb/>
+Saviour must imitate him in works of mercy, in deeds <lb/>
+of charity, and in unselfish lives.</p>
+<p>"Sister Dora," whose name is a fragrance, and <lb/>
+<pb n="219"/>
+whose noble deeds are deserving of perpetual <reg orig="remem-|brance">remembrance</reg>, <lb/>
+was a sister whom the Saviour loved; and <lb/>
+we should not love her the less because she was not <lb/>
+quite perfect, and that she had weaknesses and <reg orig="fail-|ings">failings</reg> <lb/>
+which detracted from an otherwise spotless life. <lb/>
+But who is perfect? He that is without failings <lb/>
+may be allowed to throw a stone at Sister Dora; but <lb/>
+we are well assured no stone will be thrown.</p>
+<p>Dorothy Wyndlow Pattison, whose father, the <lb/>
+Rev. Mark James Pattison, was the rector of <reg orig="Haux-|well">Hauxwell</reg>, <lb/>
+a little village near Richmond, was born on the <lb/>
+16th day of January 1832. She is described as <lb/>
+having been a very lovely child, but exceedingly <lb/>
+delicate, and subject to many infantile diseases; <lb/>
+through which she happily lived, owing to the care <lb/>
+of her sisters, by whom she was much loved. <reg orig="For-|tunately">Fortunately</reg>, <lb/>
+her strength increased with her years, so <lb/>
+that she became a fine, strong, healthy girl, fond of <lb/>
+fun, drawing amusement and interest from every <lb/>
+source, and cheerfully catering for the pleasure of <lb/>
+those about her. Her first passion was for music <lb/>
+and riding, in which she made great proficiency. In <lb/>
+after life, her sweet voice, which had so often <reg orig="glad-|dened">gladdened</reg> <lb/>
+her father's home in her early years, soothed <lb/>
+and stilled many a weary head in the hospital <reg orig="dormi-|tories">dormitories</reg>; <lb/>
+and many a maimed and suffering lad has <lb/>
+been eased of his pains by Sister Dora's tales of wild <lb/>
+runs across the moors, and exciting accounts of <reg orig="glo-|rious">glorious</reg> <lb/>
+hunting days. Her father called her, as she <lb/>
+<pb n="220"/>
+went singing about the house, "Sunshine;" a name <lb/>
+well deserved by the little girl, who brought pleasure <lb/>
+by her presence. An incident is related of her <lb/>
+early years, While travelling, "a schoolboy in the <lb/>
+village, who was specially attached to her, fell ill of <lb/>
+rheumatic fever. The boy's one longing was to see <lb/>
+'Miss Dora' again; and as he grew worse and worse, <lb/>
+and still she did not come home, he constantly prayed <lb/>
+that he might live to see her. On the day on which <lb/>
+she was expected, he sat up on his pillows intently <lb/>
+listening; and at last, long before any one else could <lb/>
+hear a sound of wheels, he exclaimed, 'There she <lb/>
+is! there's Miss Dora!' and sunk back." Dora went <lb/>
+to the poor lad, rendering him all kindly offices, until <lb/>
+he died.</p>
+<p>But she was not only "Sunshine" to her young <lb/>
+schoolfellow, but all who knew her remembered her <lb/>
+glad and laughing spirits. "Her merry laugh still <lb/>
+rings in my ears," writes one of the neighbours. <lb/>
+Another said, "I have known nothing of Dora for <lb/>
+many years, but always think of her as the bright, <lb/>
+bonnie maiden, singing about the house." No doubt <lb/>
+she owed much of the physical vigour of her <reg orig="subse-|quent">subsequent</reg> <lb/>
+life to the amusements of her early years. <lb/>
+No boy exhibited greater zest or interest in outdoor <lb/>
+games. She could run and jump, follow the fox or <lb/>
+hare, or join in a rat-hunt with all the enthusiasm of <lb/>
+a healthy lad. Her faults&mdash;for she had faults&mdash;were <lb/>
+self-will and pride, and a resolute resolve to have her <lb/>
+<pb n="221"/>
+own way. In after-life, even these failings served <lb/>
+her in enabling her to achieve many things which <lb/>
+one less purposeless and resolved would have <reg orig="de-|spaired">despaired</reg> <lb/>
+of achieving. They were failings, <reg orig="neverthe-|less">nevertheless</reg>, <lb/>
+and were in the course of her life the source of <lb/>
+much disquiet to Dora.</p>
+<p>From her twentieth to her twenty-ninth year Dora <lb/>
+at home was dissatisfied with the comparative <reg orig="monot-|onous">monotonous</reg> <lb/>
+life she led. At this time she had become a <lb/>
+finely developed, handsome woman, with strong <lb/>
+yearnings for work. When the news of Miss <reg orig="Night-|ingale's">Nightingale's</reg> <lb/>
+labours in the Crimea reached her, she <lb/>
+bounded in spirit at the thought of joining the band <lb/>
+of nurses. But the consent of her father could not <lb/>
+be obtained, and the thought of work in the Crimean <lb/>
+hospitals had to be relinquished. There was work <lb/>
+at home, so her father said, if she would only think <lb/>
+so, sufficient to employ all her powers. This work, <lb/>
+despite a longing for a more extended field of labour, <lb/>
+was not neglected. Dora's mother was a great <reg orig="in-|valid">invalid</reg>, <lb/>
+and required great care and nursing. This <lb/>
+duty Dora cheerfully and lovingly divided with her <lb/>
+sister until her mother died; which event was very <lb/>
+sudden. Then Dora, in the exercise of her self-will, <lb/>
+and in opposition to her father's desires, resolved <lb/>
+upon obtaining some employment from home. She <lb/>
+made the acquaintance of "the Sisters of the Good <lb/>
+Samaritans," who have cottage hospitals in various <lb/>
+places. To join these sisters, and to work with them <lb/>
+<pb n="222"/>
+in their humane labours, seemed to Dora the <reg orig="realiza-|tion">realization</reg> <lb/>
+of her utmost desire. Her father strongly <reg orig="ob-|jected">objected</reg> <lb/>
+to the religious opinions of the sisters, and did <lb/>
+all he could short of absolutely forbidding her to join <lb/>
+them. Dora, however, in the exercise of her <reg orig="deter-|mined">determined</reg> <lb/>
+self-will, would not be controlled. She lived <lb/>
+to repent her disobedience; and when upon her <reg orig="death-|bed">deathbed</reg> <lb/>
+she said: "I was very wilful; I did very wrong. <lb/>
+Let no one take me for an example."</p>
+<p>Her first employment after leaving home was as <lb/>
+schoolmistress in the village of Little Woolston, in <lb/>
+Buckinghamshire. She conducted the school for <lb/>
+three years admirably, when an attack of pleurisy <lb/>
+compelled her to return to Redcar, the head-quarters <lb/>
+of the Sisters of the Good Samaritans, when she joined <lb/>
+the association, going into the Home at Coatham, and <lb/>
+thenceforth being known as "Sister Dora." In the <lb/>
+Home she was subjected to a severe discipline, which <lb/>
+no doubt she had not contemplated. "She made <lb/>
+beds, cleaned and scoured floors and grates, swept <lb/>
+and dusted, and finally became a cook in the kitchen." <lb/>
+She was at length relieved from this drudgery by <lb/>
+being sent to a small cottage hospital at North <lb/>
+Ormesby, near Middlesborough. Early in 1865 she <lb/>
+was sent to a cottage hospital in Walsall, near <reg orig="Bir-|mingham">Birmingham</reg>. <lb/>
+As accidents were very frequent in the <lb/>
+district, and as it was inconvenient to send cases <lb/>
+requiring immediate attention to Birmingham, an <lb/>
+accident hospital was opened by the Sisters of the <lb/>
+<pb n="223"/>
+Good Samaritans. Sister Mary, who had the first <lb/>
+charge of the hospital, and who had nobly done her <lb/>
+duty in establishing the hospital, fell ill, and had to <lb/>
+be removed to Bournemouth. Dora had to take her <lb/>
+place, and as the immediate result caught the <reg orig="small-|pox">smallpox</reg> <lb/>
+from one of the out-patients; from which, after <lb/>
+much suffering, she recovered.</p>
+<p>At the outset the little hospital was not free from <lb/>
+opposition. The sisters were not unfrequently <reg orig="in-|sulted">insulted</reg> <lb/>
+and jostled in the streets of the town. Upon <lb/>
+one occasion, as Dora was walking rather late in the <lb/>
+evening to visit a patient, a boy shouted, "There <lb/>
+goes one of those Sisters of Misery!" at the same time <lb/>
+throwing a stone which cut open her forehead. Some <lb/>
+time after, an accident having occurred in one of the <lb/>
+coal pits, this lad, whom Dora had not failed to <reg orig="ob-|serve">observe</reg>, <lb/>
+was brought in among the wounded to the <lb/>
+hospital. Dora immediately noted the lad, saying to <lb/>
+herself, "That's my man!" and busied herself for his <lb/>
+relief and comfort. "One night when he was <reg orig="re-|covering">recovering</reg>, <lb/>
+she found him quietly crying. 'I wouldn't <lb/>
+ask him what was the matter,' Dora said, when <reg orig="re-|lating">relating</reg> <lb/>
+the story, 'because I knew well enough, and <lb/>
+I wanted him to confess.' At length it came out <lb/>
+with many sobs: 'Sister, <hi rend="italic">I</hi> threw that stone at you.' <lb/>
+'Oh,' she replied, 'did you think I did not know <lb/>
+that? Why, I knew you the very first minute you <lb/>
+came in at the door.' 'What!' returned he; 'you <lb/>
+knew me, and have been nursing me like this?' <lb/>
+<pb n="224"/>
+'You see,' added Sister Dora, 'it was his first <reg orig="prac-|tical">practical</reg> <lb/>
+experience of good returned for evil, and he <lb/>
+didn't know what to make of it.'" </p>
+<p>The field-sports and open-air exercises of her <lb/>
+earlier years no doubt fitted her to undergo a <reg orig="pecu-|liar">peculiar</reg> <lb/>
+trial. The celebrated Sir James Simpson of <lb/>
+Edinburgh had visited the Home to select a nurse <lb/>
+to look after an old lady who was nearly insane. <lb/>
+Although Dora, at the time of Sir James's visit, had <lb/>
+her sleeves tucked up and was making a pudding, <lb/>
+his selection immediately fell upon her. "Send me <lb/>
+that sister; she is the one for my case." One night <lb/>
+as she sat up with the old lady, who seemed to be <lb/>
+asleep, Dora sat at the window calmly enjoying the <lb/>
+peaceful night. Suddenly and noiselessly the old <lb/>
+woman sprung out of bed, and seizing Dora by the <lb/>
+shoulder, brandished a long knife over her head! Dora, <lb/>
+perfectly unmoved, without uttering a word, looked <lb/>
+calmly at her. "I wanted to see if I could frighten <lb/>
+you," said the poor half-mad woman. From that <lb/>
+time, however, she made no similar attempt.</p>
+<p>In 1865 Dora was sent back to Walsall, when she <lb/>
+became, what the Walsall people always afterwards <lb/>
+called her, "<hi rend="italic">our</hi> sister." A proposal was afterwards <lb/>
+made that she should be removed to Middlesborough; <lb/>
+but the committee and medical men connected with <lb/>
+the hospital, who had become aware of her fitness <lb/>
+for the work of caring for the sick, strongly <reg orig="remon-|strated">remonstrated</reg> <lb/>
+against her removal, and happily succeeded <lb/>
+<pb n="225"/>
+in detaining Dora. In the December of the same <lb/>
+year she was ordered to go to Devonshire to attend <lb/>
+upon a private patient. The committee desired that <lb/>
+some other nurse should be sent, and that Dora <lb/>
+should be allowed to remain at Walsall. Before an <lb/>
+answer was received in reply, a letter came from her <lb/>
+home telling her that her father was dangerously ill, <lb/>
+and that he desired to see her at once. She <reg orig="tele-|graphed">telegraphed</reg> <lb/>
+to the Home at Coatham the condition of <lb/>
+her father and his earnest desire to see her, asking that <lb/>
+another nurse might be sent to the private patient, <lb/>
+so that she might be permitted to go to her father <lb/>
+immediately. It seems beyond belief that so strange <lb/>
+and unnatural an answer should have been returned: <lb/>
+"No; you must go at once to Devonshire." How <lb/>
+gladly would we write that Dora despised the cruel <lb/>
+order, and that she at once started for her home at <lb/>
+Hauxwell; but no,&mdash;she obeyed her self-chosen <lb/>
+masters and proceeded to Devonshire! Scarcely had <lb/>
+she arrived when the news reached her that her <lb/>
+father was dead. Then the inhuman sisterhood <lb/>
+granted her a tardy permission to attend the funeral. <lb/>
+To this Dora replied, that as permission was not <lb/>
+given her to see her father when alive, she did not <lb/>
+care to go now that he was dead. The thoughts and <lb/>
+feelings of the superior of the sisterhood when <reg orig="con-|templating">contemplating</reg> <lb/>
+her conduct are not to be envied. It had <lb/>
+the effect at once of opening a breach in the regards <lb/>
+which Dora entertained for the Order of the Good <lb/>
+<pb n="226"/>
+Samaritans, which was never healed. In time the <lb/>
+yoke which must have galled years of Dora's life was <lb/>
+thrown off.</p>
+<p>To lighten the great trial to which she had been <lb/>
+so unfeelingly subjected, Dora devoted herself, with <lb/>
+all the energy of her active nature, to her duties. <lb/>
+She resolved thoroughly to understand what would <lb/>
+enable her to be a reliable surgical nurse, and shortly <lb/>
+attained great coolness and proficiency in dressing <lb/>
+wounds and attending to the many maimed patients <lb/>
+brought into the little hospital. Ultimately Dora, by <lb/>
+study and patient observation, attained to <reg orig="extraor-|dinary">extraordinary</reg> <lb/>
+surgical excellence. There were not wanting <lb/>
+friends who would have had her relinquish what <lb/>
+seemed to them painful and unwomanly duties; but <lb/>
+Dora, feeling that her future happiness must consist <lb/>
+in work, firmly resolved to devote herself to the <lb/>
+good of others. She did say, however, at the close <lb/>
+of her life: "If I had to begin life over again, I <lb/>
+would marry; because a woman ought to live with a <lb/>
+man, and be in subjection."</p>
+<p>When Dora had resolved to devote her life to <lb/>
+duties imposed by herself, she depended upon her <lb/>
+own strength; but presently she learned to lean upon <lb/>
+her Saviour, who ever after became the source of all <lb/>
+her comfort and the fountain of her heart's inward <lb/>
+joy. She owed much of her spiritual strength to the <lb/>
+companionship and teaching of the incumbent of the <lb/>
+church of St. James, Wednesbury&mdash;the Rev. Richard <lb/>
+<pb n="227"/>
+Twigg&mdash;who, it was said after his death, had "buried <lb/>
+talents which would have won the admiration of the <lb/>
+world, in the smokiest dens of the Black Country." <lb/>
+He not only praised and prompted Dora to good <lb/>
+works, but kindly and firmly reproved faults which <lb/>
+others only smoothed over.</p>
+<p>The needs of the increasing town of Walsall <lb/>
+demanded a larger and better-conditioned hospital; <lb/>
+which was erected in a salubrious position, and of <lb/>
+which Dora took entire charge. Here she had the <lb/>
+fullest opportunity, not only of exercising the <reg orig="marvel-|lous">marvellous</reg> <lb/>
+skill which she had acquired in setting broken <lb/>
+limbs, in sewing and joining wounds, and performing <lb/>
+other surgical operations, but of increasing her <reg orig="practi-|cal">practical</reg> <lb/>
+knowledge by laborious study, which enabled her <lb/>
+to become competent to take charge of the most <reg orig="diffi-|cult">difficult</reg> <lb/>
+and dangerous cases. But this power, the result <lb/>
+of painstaking acquirement, was aided and helped by <lb/>
+a personal influence which wonderfully affected the <lb/>
+sufferers in the hospital. Dora's beauty, and her <lb/>
+gentle and high-bred sympathy, marvellously <reg orig="sub-|dued">subdued</reg> <lb/>
+the rough natures of the colliers and <reg orig="iron-|workers">iron-workers</reg> <lb/>
+who were under her care. Not unfrequently <lb/>
+she could induce them to submit to operations which <lb/>
+were not less dangerous than severely painful, when <lb/>
+the entreaties of friends and relatives failed to obtain <lb/>
+consent. Upon one occasion a poor fellow was told <lb/>
+that the only means of saving his life was to <reg orig="ampu-|tate">amputate</reg> <lb/>
+his leg. He had been carefully nursed for three <lb/>
+<pb n="228"/>
+months with the hope of saving the limb; but now <lb/>
+hope was gone. Father and brother pleaded in vain; <lb/>
+he would not consent to lose his leg. At length <lb/>
+"sister came," and talked so cheerfully and <reg orig="per-|suasively">persuasively</reg>, <lb/>
+that he "thought he could face it" if <lb/>
+"sister" would be by. Next day the limb was taken <lb/>
+off, and the man's life was saved. But Dora was <lb/>
+more anxious to save limbs than to witness their <lb/>
+destruction. She spared neither pains nor labour to <lb/>
+accomplish this object. When upon one occasion a <lb/>
+fine healthy young man was brought into the <reg orig="hos-|pital">hospital</reg>, <lb/>
+with his arm torn and twisted by a machine, <lb/>
+the doctor declared that nothing could save it, and <lb/>
+that it must be taken off at once. The poor mangled <lb/>
+fellow looked piteously at Dora, and cried, "O <lb/>
+sister, save my arm for me! It's my right arm!" <lb/>
+After looking carefully at the mangled arm, Dora <lb/>
+turned to the surgeon, saying, "I believe I can save <lb/>
+this arm, if you will let me try." "Are you mad?" <lb/>
+was the reply. "I tell you it's <reg orig="impossible&mdash;mortifi-|cation">impossible&mdash;mortification</reg> <lb/>
+will set in in a few hours. Nothing but <lb/>
+amputation can save his life." Dora, turning to the <lb/>
+poor fellow, said, "Are you willing for me to try <lb/>
+and save your arm, my man?" The look which <lb/>
+Dora gave him, and the feeling sympathy expressed <lb/>
+in her voice, would have induced him to do anything. <lb/>
+The surgeon then most unwillingly gave his consent, <lb/>
+saying, as he did so, "He will die!" For three weeks <lb/>
+Dora attended "her arm," as she called it, almost <lb/>
+<pb n="229"/>
+night and day. "How I prayed over that arm!" <lb/>
+she said afterwards. But the arm was saved. Years <lb/>
+afterwards, when Dora lay ill in the hospital, the <lb/>
+grateful fellow whose arm had been preserved used <lb/>
+to walk eleven miles into Walsall to ask how she <lb/>
+was. "Tell sister <hi rend="italic">her</hi> arm pulled the bell!" and then <lb/>
+he would tramp back again.</p>
+<p>Dora's life in the hospital was no child's play. It <lb/>
+was hard work both of head and hands. Dora, <reg orig="how-|ever">however</reg>, <lb/>
+knew the secret of getting successfully through <lb/>
+work and of subduing trouble. The secret, which <lb/>
+ought to be no secret, was cheerfulness. Her bright, <lb/>
+cheery spirit would flash out upon the poor fellows <lb/>
+in their beds; and when Sister Dora gave them their <lb/>
+breakfasts, after making their beds comfortable&mdash;<lb/>
+which work was done at half-past six in the morning <lb/>
+&mdash;the sleepless night, possibly, and the pains which <lb/>
+had to be endured, would all be forgotten in her <lb/>
+presence and charmed away by her pleasant and <lb/>
+inspiriting words. It is no wonder that these big <lb/>
+rough fellows learned to love Dora. They had never <lb/>
+come in contact with a human being like her&mdash;"so <lb/>
+beautiful, so good, so tender-hearted, so strong and <lb/>
+so gentle, so full of fun and humour, and of <reg orig="sym-|pathy">sympathy</reg> <lb/>
+for broken hearts as well as for every other <lb/>
+kind of fracture, and the best friend that many of <lb/>
+these poor maimed men had ever known." When <lb/>
+the breakfast was over, Dora read prayers on the <lb/>
+staircase lobby, so that the patients in all the wards <lb/>
+<pb n="230"/>
+could hear her. After prayers, Dora went round <lb/>
+with the doctor and saw all the patients; and then, <lb/>
+at twelve o'clock, carved the dinner, sending to each <lb/>
+a portion of any little choice dish sent for her own <lb/>
+use. At two o'clock the out-patients, from sixty to <lb/>
+one hundred, had to be seen and spoken <reg orig="to,&mdash;know-|ing">to,&mdash;knowing</reg> <lb/>
+all their names and having an interest in them <lb/>
+all. The dressings and small operations were left <lb/>
+to her care. After this labour came the patients' <lb/>
+tea, which they would rather defer for hours than <lb/>
+not receive it at her hands. At six o'clock the <lb/>
+nurses sat down to their own meal with Dora, who <lb/>
+was rarely permitted to end it before being called <lb/>
+away, smilingly saying, as she went about the new <lb/>
+duty, "There is no peace for the wicked."</p>
+<p>The great charm of Dora's presence in the hospital <lb/>
+was her cheerfulness. She told funny stories, read <lb/>
+interesting books, had something fresh every day <lb/>
+about the town or the out-patients to tell the sufferers <lb/>
+on their beds. One big Irishman said, "She makes <lb/>
+you laugh&mdash;yes, if you were dying." It was a part <lb/>
+of Dora's hospital system to keep the patients <lb/>
+interestingly engaged. She would lead and <reg orig="encour-|age">encourage</reg> <lb/>
+a buzz of conversation in the wards, all the <lb/>
+while busy with her own duties. At times, when <lb/>
+her busy life would permit, which was very rare, <lb/>
+she would sit down to a game of draughts or chess <lb/>
+with one of the patients, whose delight at the honour <lb/>
+may be imagined. Never in her presence, and seldom <lb/>
+<pb n="231"/>
+in her absence, would foul language be heard. "Stop <lb/>
+that !" she said curtly when a man swore. "I must <lb/>
+say something when the pain's so bad, sister." <lb/>
+"Then say 'poker and tongs'&mdash;nothing else, <reg orig="re-|member">remember</reg>." <lb/>
+All this was done so naturally, without <lb/>
+the smallest affectation, that it had the happiest <lb/>
+result. Upon those who believed that there is no <lb/>
+God and no future&mdash;and such were at times brought <lb/>
+into the hospital&mdash;Dora's sermon of daily life, her <lb/>
+self-denial and cheerfulness, her willing performance <lb/>
+of menial tasks, and her observant care of <reg orig="them-|selves">themselves</reg>, <lb/>
+made a deep and lasting impression. Often <lb/>
+in the dead of night would they awake to find her <lb/>
+by their bedside praying that they might be <reg orig="en-|lightened">enlightened</reg> <lb/>
+in their minds and hearts. No wonder <lb/>
+that they came to a better mind, and acknowledged <lb/>
+that there was something in the religion which they <lb/>
+had despised and treated with contempt.</p>
+<p>But it was not only in the hospital that Dora <lb/>
+made her presence felt. There was no dark and <lb/>
+black spot in the town, where sin and suffering had <lb/>
+found a home, that was not visited by Dora. And <lb/>
+when small-pox was in nearly all the homes of the <lb/>
+poor people, every moment that she could spare from <lb/>
+the hospital, without a thought of herself, she would <lb/>
+spend in the infected streets and houses. Upon one <lb/>
+occasion she entered a house where a man was dying <lb/>
+of black pox in its worst form. All in fear and <lb/>
+dread had left the poor fellow to die alone. The <lb/>
+<pb n="232"/>
+last morsel of candle expired as Dora sat by the <lb/>
+bedside. As it did so, the man made one last effort <lb/>
+to sit up, and said, "Sister, kiss me before I die." <lb/>
+Dora instantly took the loathsome object in her arms <lb/>
+and impressed a kiss upon him; then sitting through <lb/>
+the long night in the darkness, she only discovered <lb/>
+by the gray light of the morning that the man was <lb/>
+dead! Dora, although singularly subject to <reg orig="con-|tagion">contagion</reg>, <lb/>
+passed through this and a more severe <reg orig="sub-|sequent">subsequent</reg> <lb/>
+small-pox visitation without injury.</p>
+<p>But active and busy as Dora's life was, in the <lb/>
+midst of so many grateful and loving hearts she <lb/>
+was yet alone. She lacked, as she heartily desired, <lb/>
+human sympathy, and that fellowship and equal <lb/>
+intercourse which makes life a joy and happiness. <lb/>
+She found, or thought she had found, all that her <lb/>
+utmost desires needed in the society of a gentleman <lb/>
+who learned to love her with his whole heart, and <lb/>
+whose love she returned with all the fervour of her <lb/>
+confiding nature. During the time of this <reg orig="inter-|course">intercourse</reg>, <lb/>
+for it endured only for a time, Dora <reg orig="ex-|perienced">experienced</reg> <lb/>
+unalloyed happiness, save in one respect&mdash;<lb/>
+her lover disbelieved the truths of that religion <lb/>
+which was Dora's inspiration and source of strength. <lb/>
+It must have been a terrible struggle to give him <lb/>
+up&mdash;the only being that had obtained her affections <lb/>
+and undivided love. But Dora saw that otherwise <lb/>
+she would imperil her spiritual happiness here and <lb/>
+hereafter, and she resolved that the connection should <lb/>
+<pb n="233"/>
+cease. But this was not done without the most <lb/>
+painful struggle, and a weary turning away from <lb/>
+the idol set up in her heart to the duties of the <lb/>
+hospital, in the hope that its cares would dissipate <lb/>
+the remembrance of the life-trial through which she <lb/>
+had passed. How much she was affected by the <lb/>
+strain upon her affections was seen when one night <lb/>
+she fainted upon one of the patients' beds. Dora's <lb/>
+religion, however, was too sincere and heartfelt to <lb/>
+allow her for one moment to doubt that she had <lb/>
+adopted the right course. Life, for her, was religion; <lb/>
+and religion was life. When a servant was about <lb/>
+to be engaged for the hospital, Dora said, "Tell her <lb/>
+this is not an ordinary house, or even hospital; I <lb/>
+want her to understand that all who serve here, in <lb/>
+whatever capacity, ought to have one rule, <hi rend="italic">love for <lb/>
+God,</hi> and then I need not say love for their work. I <lb/>
+wish we could use, and really mean, the word <hi rend="italic"><reg orig="Mai-|son-Dieu">Maison-Dieu</reg></hi>" <lb/>
+(God's Hospital).</p>
+<p>The love which the patients who had been in the <lb/>
+hospital had for her was pleasantly evidenced in the <lb/>
+year 1871, when the servants of the South <reg orig="Stafford-|shire">Staffordshire</reg> <lb/>
+Railway subscribed among themselves &pound;50, <lb/>
+with which they bought a small carriage and pony <lb/>
+to present to her. Dora thought at first that it <lb/>
+would be almost useless owing to her want of time <lb/>
+to employ it; but it was found useful in taking <lb/>
+convalescents out for refreshing rides, and carrying <lb/>
+Dora to the many sick and afflicted homes that she <lb/>
+<pb n="234"/>
+constantly visited. The thought naturally occurs, in <lb/>
+learning of the many loving remembrances that were <lb/>
+treasured by the patients who had been under Dora's <lb/>
+care, that if more would convert their Christianity <lb/>
+into active life, the reign of peace and love would <lb/>
+not be so distant.</p>
+<p>In 1875, for the third time, small-pox broke out <lb/>
+in Walsall, spreading with terrible rapidity. An <reg orig="epi-|demic">epidemic</reg> <lb/>
+hospital had been built, but the poor people <lb/>
+had a strange objection to enter it. "They would <lb/>
+far rather die at home. They were not afraid. Why <lb/>
+could they not be let alone?" These answers, which <lb/>
+were so general, threatened to make the hospital <lb/>
+useless. Dora, however, came to the rescue. She <lb/>
+offered to take charge of the hospital, and during her <lb/>
+absence to delegate her own work to the charge of <lb/>
+the lady nurses. The offer was gladly accepted, as <lb/>
+it was well known that Sister Dora's name would <lb/>
+overcome all scruples to enter the hospital. When <lb/>
+the decision was known, the news was everywhere <lb/>
+repeated, "Sister is going to the epidemic hospital." <lb/>
+There was then no difficulty in getting patients. <lb/>
+The work was commenced at once. The <reg orig="twenty-|eight">twenty-eight</reg> <lb/>
+beds were soon filled with patients in every <lb/>
+stage of the dreaded disease. She had little or no <lb/>
+help. The porter was an old man, who, when sober, <lb/>
+was kind and attentive, but who had frequent spells <lb/>
+of drinking, which kept him out the whole night, <lb/>
+leaving Dora alone with the dead and the dying. She <lb/>
+<pb n="235"/>
+had also the occasional help of two old women from <lb/>
+the workhouse to assist her in washing the <reg orig="loath-|some">loathsome</reg> <lb/>
+clothes and bedding. Her situation was not <lb/>
+free from personal danger, independent of the danger <lb/>
+of contagion. One night a big fellow, a collier, in <lb/>
+his delirium, jumped out of bed and tried to make <lb/>
+his escape. Dora, however, brought all her strength <lb/>
+to bear upon him, forced him back upon his bed, and <lb/>
+held him there till morning!</p>
+<p>Dora was not quite forsaken in her lonely and <lb/>
+loathsome home. The doctor, of course, visited the <lb/>
+hospital regularly; and the secretary of the Cottage <lb/>
+Hospital had learned to love Dora, to the extent, if <lb/>
+needs be, of laying down his life for her. He brought <lb/>
+her news of the patients in the hospital, fresh-cut <lb/>
+flowers, books and papers that he thought would <lb/>
+afford her a moment's interest. An old patient <lb/>
+named Chell, an engine-stoker, was a constant visitor. <lb/>
+When he was in the Cottage Hospital, Dora nursed <lb/>
+him through a severe accident to his ankle; and <lb/>
+then, owing to a railway accident, his leg had to be <lb/>
+amputated. Chell said he did not remember <reg orig="any-|thing">anything</reg> <lb/>
+about the operation, except,&mdash;"when I came <lb/>
+to after the chloroform, Sister Dora was on her knees <lb/>
+by my side, with her arm supporting my head, and <lb/>
+she was repeating&mdash;</p>
+<lg type="group">
+<l>'They climbed the steep ascent of heaven</l>
+<l rend="indent">Through peril, toil, and pain:</l>
+<l>O God, to us may grace be given</l>
+<l rend="indent">To follow in their train.'"</l></lg>
+<pb n="236"/>
+<p>The poor fellow never wearied of repeating these <lb/>
+words, or remembering the tones of Sister Dora's <lb/>
+voice. No wonder that he was a constant visitor <lb/>
+at the small-pox hospital. Chell was one of the <lb/>
+visitors permitted to visit the Cottage Hospital on <lb/>
+Sundays, and to join in the hospital service. He said <lb/>
+he could sing "till he was hoarse" with Sister Dora.</p>
+<p>The strength that was given her of God&mdash;for Dora <lb/>
+would acknowledge no other source of her capability <lb/>
+to labour&mdash;enabled her to pass through the fearful <lb/>
+trial without contracting the dreaded disease. Her <lb/>
+strength and resolution were extraordinary. The <lb/>
+doctor of the small-pox hospital said: "Sister Dora <lb/>
+could sit up at night, and work all day, with little <lb/>
+or no rest, and, as far as I am able to judge, she was <lb/>
+neither physically nor mentally the worse for it. <lb/>
+Her strength was superhuman. I never saw such a <lb/>
+woman." After six long months the epidemic was <lb/>
+subdued, and Dora returned to the Cottage Hospital <lb/>
+and her loved work as quietly as she had left it.</p>
+<p>On Friday, the 15th of October 1875, a fearful <lb/>
+accident at one of the furnaces near Walsall <reg orig="oc-|curred">occurred</reg>. <lb/>
+The hot metal, which burst out of the <reg orig="fur-|nace">furnace</reg>, <lb/>
+flowed on to eleven poor fellows who were <lb/>
+engaged at the mouth. When taken to the hospital <lb/>
+they were more like charred logs than human <reg orig="be-|ings">beings</reg>. <lb/>
+The cries of the poor sufferers were dreadful. <lb/>
+Some lost all pain by losing consciousness in death. <lb/>
+Dora might well have been distracted by the cries <lb/>
+<pb n="237"/>
+with which she was assailed:&mdash;"Sister, come and <lb/>
+dress me!" "<hi rend="italic">Do</hi> dress me!" "Oh, you don't <lb/>
+know how bad I am!" Dora gave them brandy, <lb/>
+and rendered them all the assistance in her power; <lb/>
+"but it was awful work." Both sight and smell <lb/>
+were terrible. The medical men who hurried to <lb/>
+render assistance were incessantly sick and could <lb/>
+hardly stay in the ward. The scene was horrible; <lb/>
+and yet Dora stayed and worked without a thought <lb/>
+of herself. Only two of the poor fellows survived, <lb/>
+notwithstanding all the care she unceasingly <reg orig="be-|stowed">bestowed</reg> <lb/>
+upon them.</p>
+<p>But Dora was not less resolute and courageous in <lb/>
+efforts to cure the soul as well as the body. On the <lb/>
+occasion of a mission in Walsall she induced two of <lb/>
+the clergymen to hold a midnight service in a room <lb/>
+in the worst part of the town. As they turned down <lb/>
+a narrow court, Dora said, "Now keep close to me. <lb/>
+I am safe enough; but <hi rend="italic">your</hi> lives are not worth a <lb/>
+moment's purchase if you are seen down here <reg orig="with-|out">without</reg> <lb/>
+me to protect you." Looking through one of <lb/>
+the windows of a house, a number of women were <lb/>
+seen sitting at a table, as if receiving orders from <lb/>
+an ill-looking man. On knocking at the door, and <lb/>
+answering the question "Who's there?" with "Sister <lb/>
+Dora," a volley of oaths was heard, with the <reg orig="ques-|tion">question</reg>, <lb/>
+"What do you mean by coming here at this <lb/>
+time of night?" Dora merely answered, "Open the <lb/>
+door; it's sister. I want to speak to you." When <lb/>
+<pb n="238"/>
+the door was opened, she addressed the man: "Why, <lb/>
+Bill, what possesses you to treat me like this? Don't <lb/>
+you remember what you told me the last time you <lb/>
+came up to have that head seen to?" The only <lb/>
+answer she received were growls and muttered oaths, <lb/>
+and "be quick and say what she wanted." "I'll <lb/>
+tell you what I want," Dora said, advancing into the <lb/>
+room and taking each of the women by the hand, <lb/>
+severally addressing them, "Well, Lizzie," or "Mary, <lb/>
+how are you?" Then addressing them all, she said, <lb/>
+"I want you all to go down on your knees with me <lb/>
+now, this moment, and say a prayer to God." To <lb/>
+the astonishment of the clergymen, the man and the <lb/>
+women immediately knelt down, and Dora uttered <lb/>
+a prayer from her inmost heart for her "brothers <lb/>
+and sisters" who knelt with her. When the prayer <lb/>
+was ended, the man said, "I'm very sorry, sister, I <lb/>
+was so rude to you. I didn't mean it; you've been <lb/>
+good to me." All were then persuaded to go into <lb/>
+the little mission room to hear the addresses of <lb/>
+the clergymen. Night after night, through Dora's <lb/>
+influence, midnight meetings were held, attended by <lb/>
+the worst men and women of the vilest parts of the <lb/>
+town. When the mission week was ended, Dora <lb/>
+still kept up midnight, classes, in the hope of <reg orig="rescu-|ing">rescuing</reg> <lb/>
+some of the poor women from their lives of <lb/>
+shame. Dora then held classes for the cab-drivers, <lb/>
+whose constant exposure to all weathers had excited <lb/>
+her sympathy.</p>
+<pb n="239"/>
+<p>In the midst of her valued labours, just as a new <lb/>
+hospital was being erected, in which she hoped to <lb/>
+spend many useful years, cancer developed itself, and <lb/>
+she was told that she must die. The trial was severe, <lb/>
+but her life had been a preparation for any event <lb/>
+that her Father might send her. If her opportunity <lb/>
+for work was limited, the more need that every <lb/>
+moment should be employed; and it was employed, <lb/>
+both inside and outside the hospital, as though every <lb/>
+moment was the prelude to the last. Every moment <lb/>
+was grudged that was not usefully used. All her <lb/>
+evenings were spent in visiting, not merely the <reg orig="re-|spectable">respectable</reg>, <lb/>
+for whom she had earnest words, but, as <lb/>
+she called them, the rag-tags of the town. No time <lb/>
+spent with the poorest who were hastening to the <lb/>
+grave was grudged. Many a wretched creature <lb/>
+breathed her last breath while reposing upon Dora's <lb/>
+breast; and none departed without the way of <lb/>
+life being made plain. Her midnight meetings, <lb/>
+which were continued, opened every door to her in <lb/>
+the vilest slums of the town; and wherever she <lb/>
+went, into whatever company, deference and respect, <lb/>
+instead of insults and injury, were shown to Dora. <lb/>
+But strong as her frame had been&mdash;and it must have <lb/>
+been made of iron, not to have been weakened by <lb/>
+her many labours&mdash;it now gave evidence of the <reg orig="exist-|ence">existence</reg> <lb/>
+of disease which could not be concealed. But <lb/>
+this in no way was permitted to interfere with her <lb/>
+work. The pony-carriage was still employed in <lb/>
+<pb n="240"/>
+the evenings, not only to carry her to the poor people <lb/>
+in the town, but to the outlying villages where <lb/>
+there were any sick to be succoured or <reg orig="wretched-|ness">wretchedness</reg> <lb/>
+to be relieved. Her many patients and poor <lb/>
+friends who looked to her for material and spiritual <lb/>
+aid, had no idea that Sister Dora had a disease that <lb/>
+would only terminate with her death. She went <lb/>
+about her work with her old spirit and cheerfulness; <lb/>
+the canker-worm which was eating out her life was <lb/>
+concealed from every eye, and was not revealed to <lb/>
+relative or the dearest friend. One reason, and the <lb/>
+reason is not difficult to understand in Dora, was <lb/>
+that she had a dread of sympathy and pity. While <lb/>
+no good could come of such expressions and <reg orig="exhibi-|tions">exhibitions</reg> <lb/>
+of feeling, her labours would be interfered with, <lb/>
+and she would be prevented from pursuing her work <lb/>
+in her own way.</p>
+<p>As the old hospital had to be pulled down before <lb/>
+the new one could be finished, Dora had at length <lb/>
+the opportunity for a much-needed holiday. She <lb/>
+went first to spend a few days with her nieces in the <lb/>
+Isle of Man, where she exhibited all the exuberance <lb/>
+of spirits which had always characterized her. <reg orig="After-|wards">Afterwards</reg> <lb/>
+she went to Paris to see and study in the <lb/>
+Exhibition the wonderful instruments and appliances <lb/>
+used in surgical operations. She did this knowing <lb/>
+the brief period which would be permitted to her to <lb/>
+use the knowledge thus acquired. On returning to <lb/>
+London she obtained permission to attend and <reg orig="wit-|ness">witness</reg> <lb/>
+<pb n="241"/>
+Professor Lister's operations, with the view of <lb/>
+introducing his system of treatment of wounds into the <lb/>
+Walsall Hospital. But now that which was of most <lb/>
+concern was the terrible disease which could no <lb/>
+longer be concealed in her own frame. One of the <lb/>
+London doctors proposed to examine her chest; but <lb/>
+this would have revealed all,&mdash;an exposure to a <lb/>
+stranger of the certain seeds of death from which <lb/>
+she shrank with unconcealed dread. She hastened <lb/>
+to consult her former medical adviser in Birmingham, <lb/>
+the journey adding materially to the worst symptoms <lb/>
+of the fatal disease, so that it almost seemed that she <lb/>
+would never leave the hotel in which she had taken <lb/>
+her residence alive. Her strong desire was now to <lb/>
+go to Walsall, earnestly and fervently expressed, <lb/>
+"Let me die among my own people." When it was <lb/>
+possible to remove her, she was carefully taken to a <lb/>
+small house in Walsall, hastily prepared for her, as <lb/>
+the new hospital was not ready to receive her.</p>
+<p>But in the midst of all this sorrow and suffering, <lb/>
+Dora's faith and assurance were firm and immovable. <lb/>
+She wrote to a friend: "I can join in the words <lb/>
+of our beautiful Prayer-book,&mdash;'Render unto Him <lb/>
+humble thanks for his fatherly visitation!' Do <lb/>
+pray, dear brother, that, as my pain increases, so may <lb/>
+my faith and patience. I have not had two hours' <lb/>
+sleep for four days and nights; but in the midst of <lb/>
+the fiery furnace there was a form like unto the Son <lb/>
+of God." But the dear people whom Dora had so <lb/>
+<pb n="242"/>
+tenderly and lovingly served would not believe that <lb/>
+Dora was to die. "Her'll get well," "Her never can <lb/>
+be going to die," were the general expressions. They <lb/>
+could not think that the strong woman they had <lb/>
+seen in the hospital lifting them about as if they <lb/>
+were children, was going to die. When, however, <lb/>
+they learned that there was no hope, that Dora must <lb/>
+die, the feeling of pain which settled upon the hearts <lb/>
+of the people is indescribable. Up to the last they <lb/>
+hoped against hope, trusting that in some way God <lb/>
+in his own good providence would restore to them <lb/>
+Sister Dora. But it was not to be. Through much <lb/>
+pain and suffering the end was speedily to come. <lb/>
+But it was not to come without hope. The hope <lb/>
+which filled Dora's heart as she lay upon her <reg orig="death-|bed">deathbed</reg> <lb/>
+was well expressed in the hymn which she loved, <lb/>
+"Rest comes at length, though life be long and <lb/>
+weary." Writing from her bed of continual pain, <lb/>
+she said: "My heart is so full of thankfulness for <lb/>
+the Good Shepherd's tender care and love towards <lb/>
+me. I am so happy. I have not a care; it is all <lb/>
+sunshine. God has taken away the fear of death, <lb/>
+and all sorrow at parting with life." This hopeful, <lb/>
+glad spirit was at times clouded with doubts and <lb/>
+fears; and as her disease increased, so did its pains, <lb/>
+until she was compelled, with all her brave heroic spirit, <lb/>
+to confess that she was suffering torture! "But," she <lb/>
+would add, "I want it all; the more I suffer, the <lb/>
+more I feel I need it. I am in God's hands now."</p>
+<pb n="243"/>
+<p>While she lay thus suffering upon her death-bed, <lb/>
+the new hospital was opened&mdash;opened in Dora's <lb/>
+name, without her longed-for and desired presence. <lb/>
+Her sufferings, which had now become continuous <lb/>
+and intense, did not prevent her from taking the <lb/>
+keenest interest in its every detail, and discussing <lb/>
+with the surgeon and the nurses the best plans for <lb/>
+its successful working. The several cases, as they <lb/>
+were brought into the hospital, were reported to her, <lb/>
+and instructions as to treatment and nursing were <lb/>
+received from her. In the midst of all her pain she <lb/>
+never, if possible, refused to see visitors, receiving <lb/>
+them with much cheerfulness, and speaking kind and <lb/>
+encouraging words. As the end approached, one <lb/>
+who was constantly with Dora wrote: "I feel that I <lb/>
+cannot give you any true idea of those last hours <lb/>
+that I spent with her, or of the vivid remembrance I <lb/>
+have of her, as her brave and loving spirit waited for <lb/>
+the moment when God would call her to the full, <reg orig="un-|clouded">unclouded</reg> <lb/>
+daylight of eternity, into the dawn of which <lb/>
+she seemed already to have entered." It was on the <lb/>
+24th day of December 1878 that Dora entered her <lb/>
+eternal home. She had for two days passed through <lb/>
+intense suffering with great resignation and patience. <lb/>
+As the next day was Christmas-day, Dora cried <reg orig="re-|peatedly">repeatedly</reg>, <lb/>
+"Oh, I hope I shall sing my Christmas <lb/>
+carol in heaven!" All doubts were now gone,&mdash;she <lb/>
+saw the Lord Jesus at the gates of heaven, the gates <lb/>
+of which were open wide to receive her. And then, <lb/>
+<pb n="244"/>
+when the last moments were come, she said to the <lb/>
+many kind friends who filled the room, "I have lived <lb/>
+alone, let me die alone," and only ceased repeating <lb/>
+the words, "let me die alone," when all had left. <lb/>
+One friend, however, would watch through the <reg orig="half-|opened">half-opened</reg> <lb/>
+door. For some hours she still lived on; and <lb/>
+then, about two in the afternoon, by a change in <lb/>
+Dora's position, the watcher knew that she had <reg orig="de-|parted">departed</reg> <lb/>
+to that home where pain and suffering give <lb/>
+place to peace and joy.</p>
+<p>The funeral, which had all been arranged by Dora, <lb/>
+was to be plainly and quietly conducted, without <lb/>
+scarfs, hat-bands, or trappings of any kind; and, if <lb/>
+possible, the coffin was to be carried to the grave by <lb/>
+some of the railway servants whom she had nursed <lb/>
+in the hospital. This wish was immediately <reg orig="re-|sponded">responded</reg> <lb/>
+to by eighteen men who volunteered to be <lb/>
+her bearers. The funeral procession needed not <reg orig="out-|ward">outward</reg> <lb/>
+trappings to indicate the sorrow felt by the <lb/>
+thousands who followed the dear remains of Dora. <lb/>
+The rich and the poor, men of all churches and creeds, <lb/>
+joined lovingly together to pay a last tribute to the <lb/>
+noble woman who had spent her life, like her divine <lb/>
+Master, "going about doing good." No wonder that <lb/>
+the many whom she had served, and to whom her <lb/>
+presence had been a joy and delight, desired that a <lb/>
+monument should be erected to her memory; not <lb/>
+that they needed to be reminded of her, but, as one <lb/>
+of the railway men said, "Nobody knows better <lb/>
+<pb n="245"/>
+than I do that <hi rend="italic">we</hi> shan't forget her&mdash;no danger of <lb/>
+that; but <hi rend="italic">I</hi> want her to be there, so that when <lb/>
+strangers come to the place and see her standing up, <lb/>
+they shall ask us, 'Who's that?' and then we shall <lb/>
+say, <hi rend="italic">'Who's that?</hi> why, that's <hi rend="italic">our</hi> Sister Dora'"</p>
+<lg type="group">
+<l>Thus would we live; and therefore pray</l>
+<l>For strength renewed, that we may say,</l>
+<l rend="indent">Our life, it upward tends:</l>
+<l>If we who sing must sometimes sigh,</l>
+<l>Yet life, beginning with a cry,</l>
+<l rend="indent">In hallelujah ends."</l>
+</lg>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>
