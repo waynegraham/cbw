@@ -14548,7 +14548,14 @@
        <pubPlace>London:</pubPlace>
        <publisher>Ward, Lock,</publisher>
        <date>[1850?].</date>
+       <pubPlace>London and</pubPlace>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Ward, Lock,</publisher>
+       <date>[1879],</date>
+       <date>[1881].</date>
+       
       </imprint>
+     
       <edition>Title variant:</edition>
       <title type="ref">
        <hi rend="italics">Fifty Famous Women, Their Virtues and Failings and the Lessons of Their
@@ -14557,13 +14564,11 @@
        <pubPlace>London:</pubPlace>
        <publisher>Ward, Lock, &amp; Tyler,</publisher>
        <date>1864;</date>
-       <date>1876;</date>
+       <date>1876.</date>
       </imprint>
-      <imprint>
-       <publisher>Ward &amp; Lock,</publisher>
-       <date>[1879].</date>
-      </imprint>
-      <note type="toc">
+      
+      
+          <note type="toc">
        <list>
         <item>Madame de Lavalette</item>
         <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
@@ -14618,18 +14623,107 @@
        </list>
       </note>
       <note type="toc">
+       Contents of [1881] edition (University of Western Ontario copy), the first sixteen names identical to above, but 
+       varying after Madame D'Arblay with some of the same figures amid new names:
        <list>
-        <item>British Library. See title 678 (Mrs. Clyde Robertson, 1936). One catalogue has
-         “1830-1850?,” unlikely dates given Charlotte Bronte's presence in the known TOC (famous
+        <item>Madame de Lavalette</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
+        <item>the Empress Josephine</item>
+        <item>Margaret of Anjou</item>
+        <item>Esther Johnson [Stella]</item>
+        <item>Margaret Roper</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
+        <item>the Empress Maude</item>
+        <item>Charlotte Corday</item>
+        <item>Anne Askew</item>
+        <item>Lady Arabella Stuart</item>
+        <item>Christina of Sweden</item>
+        <item>Sarah, Duchess of Marlborough</item>
+        <item>Lucy Hutchinson</item>
+        <item n="MADAME_ROLAND">Madame Roland</item>
+        <item n="GRACE_DARLING">Grace Darling</item>
+        <item>Madame D'Arblay [Burney]</item>
+        <item>Matilda, Countess of Tuscany</item>
+        <item n="MADAME_DE_STAEL">Madame de Stael</item>
+        <item>Mrs. Chisholm</item>
+        <item n="POCAHONTAS">Poccahontas [sic]</item>
+        <item>Madame de Maintenon</item>
+        <item>Ida Pfeiffer</item>
+        <item>Princess de Lamballe</item>
+        <item>Louisa Queen of Prussia</item>
+        <item>Queen Catherine Parr</item>
+        <item>Mrs. Somerville</item>
+        <item>Sarah Margaret Fuller</item>
+        <item>Elizabeth Burnet</item>
+        <item>Mary II [Queen of William III]</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
+        <item>Isabella of Castille</item>
+        <item>Marie Antoinette</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
+        <item>Lady Anne Barnard</item>
+        <item>Marie de Medicis</item>
+        <item>Henrietta Maria</item>
+        <item>Joan of Navarre</item>
+        <item n="ELIZABETH_FRY">Mrs. Fry</item>
+        <item n="QUEEN_ELIZABETH_I">Queen Elizabeth</item>
+        <item>Mary Queen of Scots</item>
+        <item>Lady Hester Stanhope</item>
+        <item>Elizabeth of Hungary</item>
+        <item>Georgiana, Duchess of Devonshire</item>
+        <item>Anne Boleyn</item>
+        <item>Queen Anne</item>
+        <item>Carolina, Baroness Nairne</item>
+        <item>Mrs. Elizabeth Carter</item>
+        <item>Mrs. Siddons.</item>
+       </list>
+       </note>
+        <note place="unspecified" anchored="yes">  
+        <p>British Library copy with the first title, likely to be circa 1870.  See title 678 (Mrs. Clyde Robertson, 1936). One catalogue has
+         “1830-1850?,” unlikely dates given Charlotte Bronte's presence in the known tables of contents (famous
          after 1847, but entering biographies after her death and Gaskell's biography 1855-1857).
          “Sketches,” including some negative examples: “many a wasted life, and many a career
          exhibiting only mistaken activity . . . carries with it its lesson” (iii-iv). First-person
          anonymous introduction offers the collection as answer to the question, “What is really
-         woman's work?”(2). The subjects show that heriosm belongs “with duty and work”</item>
-        <item>they are “types of a class--chosen representatives. . . from the mass of that great
+         woman's work?”(2). The subjects show that heriosm belongs “with duty and work”
+        they are “types of a class--chosen representatives. . . from the mass of that great
          army of female heroism, whose rank and file lie buried, unremembered and unchronicled, in
-         nameless graves beneath the quiet churchyard grass”(4)</item>
-       </list>
+         nameless graves beneath the quiet churchyard grass”(4).  </p>
+         <p>In the edition owned by University of Western Ontario, significant variation appears: a different TOC (as noted), and the following two-page
+          Preface: </p><p>"In this gallery of “Fifty Famous Women,” it is intended to present lifelike sketches, if not finished portraits, 
+          of those who have attained celebrity by their own talents or been born to emininent positions, and have exhibited qualities which 
+          made them memorable.  Varied in character as in the positions occupied, the fifty shosen are representatives of the large 
+          number who as princesses, authoresses, philanthropists, or leaders of society have done honour to their sex; and representatives
+          too of those whose sad histories ecited universal interest, although their own characters may have been marked by errors and 
+          weaknesses.</p>
+          <p>"Humanity is never perfect, and to find fifty persons of either sex for whom we must feel unqualified admiration would be difficult;
+          but the lives we have selected for illustration are those of women whose careers may be profitably studied, and many of whom 
+          may be takene as models to be studied and imitated by the young.</p>
+          <p>"In these days, when the claim of women to a larger share in public and professional duties is so earnestly advanced, 
+          and their social and intellectual position is so warmly discussed, it will probably be interesting to note the abilities or 
+          virtues, the genius or enterprise of Fifty Famous Women, who may be considered as representatives of their sex.  
+          Among them we shall find illustrations of talent, devotion, liberality, and thoughtfulness, which entitle them to a place
+          in the ranks of those whom all the world honour."
+         </p>
+         <p>The U Western Ontario copy indicates its later-Victorian origon with is blue cloth cover stamped with black and red geometric patterns 
+          intertwined with red-blossomed black branches.  On the spine the title and publisher’s name appear in gold bands; on the front cover, the title only, 
+          with the sort of art-nouveau detailing that might border a Beardsley print.  The frontispiece is an engraving, "Mrs. Siddons as the Tragic Muse."   The type
+          and illustrations are of poor quality; wood-engraved headpieces and tailpieces appear in most chapters, some of the standard-issue irrelevant sort.
+          Some illustrations feature biographical scenes or places, and there are some  full-page portraits or historic scenes (rotated) throughout.  
+          Some chapters have no portrait.  The most telling feature is a book catalogue at the back, by price; first, “The Cheapest Standard Books Published”  
+          "Ward &amp; Lock’s Shilling Library of Famous Books for All Time” (1 page), including  <name>J.C. Watt’s</name> 
+          <title><hi rend="italics">Great Novelists</hi></title>, of 1880, and H. J. Nicoll’s <title><hi rend="italics">
+           Life of Thomas Carlyle</hi>
+          </title>, first published in <date>1881</date> (the year of Carlyle's death).   A second section features “Gift Books at Three Shillings &amp; Sixpence” 
+          in two lists: “The Home Treasure Library” (1 page, mostly with coloured illustrations, fiction)  and “The Good Worth Library” (2 pages), including 
+          most relevantly, Fifty Celebrated Women: Their Virtues and Failings, and the Lessons of Their Lives” and Fifty Celebrated Men:Their Lives and Trials, and the Deeds that Made Them Famous.
+          Some fiction, some other bio collections: Famous Boys.
+          Mary Bunyan, the Daughter of John Bunyan, by Sallie Rochester Ford
+          Bios of President Garfield, of General Gordon; lots of advice and self help
+          “Famous People and Famous Places”
+          “Sacred Heroes and Martyrs” by JT Headley
+          
+         </p>
+      
       </note>
      </bibl>
      <bibl id="a294" default="NO">
