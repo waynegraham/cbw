@@ -918,7 +918,7 @@
                         <item>
                             <label>Cody, David. "Queen Victoria." <title><hi rend="italics">The
                                         Victorian Web</hi>.</title></label>
-                            <p>A consice biographical entry on Queen Victoria written by David Cody,
+                            <p>A concise biographical entry on Queen Victoria written by David Cody,
                                 Associate Professor of English at Hartwick College. Cody's short
                                 biography is linked through the database <title><hi rend="italics"
                                         >The Victorian Web</hi>.</title> The webpage entry includes
@@ -961,8 +961,8 @@
                     <docDate>October 28, 2009</docDate>
                     <head>
                         <title>Queen Victoria: Reigning Subject, Dull Biography</title>
-                        <bibl>Critical gloss and condensation of Rosa Nouchette Carey's short
-                            biography with critical synthesis of essays in <title>
+                        <bibl>Interpretive version of Rosa Nouchette Carey's short
+                            biography informed by essays in <title>
                                 <hi rend="italics">Remaking Queen Victoria</hi>
                             </title>.</bibl>
                     </head>
@@ -996,7 +996,7 @@
                         <name>Macaulay</name> alludes to <milestone unit="subject" corresp="history"
                             ana="progress"/> the progress of science, technology, <quote>"the
                             subjugation of nature to the use of man,"</quote> and the general
-                        advancement of society in education, morals, and religion (. This
+                        advancement of society in education, morals, and religion (15). This
                         characterization of the eponymous era of Victorian progress in turn is
                         linked to a history of the British monarchy, specifically the precedent of a
                         queen in command: <name type="presenter">Carey</name> approvingly cites
@@ -1027,17 +1027,16 @@
                             for she will be Queen of England,'</rs><milestone unit="subject"
                             corresp="narrative_rhetoric" ana="prophecy"/> he would say, with fond
                         pride....(16)</p>
-                    <p>The narrative of royal progress proceeds by interlacing unidentified
-                        quotations from other biographies and accumulating assorted information
-                        according to a leveling standard of relevance or significance. Thus
-                            <name>Carey</name> recounts the baptism of Princess Alexandrina Victoria
-                        on <date> June 24, 1819</date>, her distinction as the first British royal
+                    <p>A tale of royal progress can have the stilted pace of a processional, as the presenter
+                       lines up events and sources.  But grand proceeding is belied by the indiscriminate accumulation of details and unidentified quotations.                       according to a leveling standard of relevance or significance. Thus
+                            Thus <name>Carey</name> signals no modification of interest or affect when running through her information: the baptism of Princess Alexandrina Victoria
+                        on <date> June 24, 1819</date>, the infant's distinction as the first British royal
                         person to be vaccinated, and the family holiday to Sidmouth, "where the
                         little one thrived in the health-giving Devonshire air;<milestone
                             unit="subject" corresp="life_events" ana="illness_or_health"/> but
                         alas!" her father caught a fatal chill. Carey juxtaposes the father's death
                         with the vitality of the future queen, dwelling on a sentimental anecdote
-                        from an unidentified biography: <rs type="narrative_elements" key="anecdote"
+                        (without attribution): <rs type="narrative_elements" key="anecdote"
                             >"There is a sweet word-picture here; for we are told that the royal
                             infant, 'being held up at the carriage window to bid the assembled
                             population of Sidmouth farewell, sported and laughed joyously, and
@@ -1052,7 +1051,7 @@
                     <p>Carey makes her own public display of disproportionate affect in the effort
                         to shape a narrative about the living Queen. She frequently relies on direct
                         address, emphasis, cliched tropes and topoi, and other narrative rhetoric
-                        and conventions of biography as a genre. Thus, in the fifth and sixth
+                        and conventions of biography as a genre. Thus, the fifth and sixth
                         paragraphs, each a sentence long:</p>
                     <p rend="block"> As we follow the footsteps<milestone unit="subject"
                             corresp="narrative_rhetoric" ana="direct_address"/> of the Royal child
@@ -1062,29 +1061,26 @@
                         for us again and again; and some never-to-be-forgotten picture is placed
                         before our eyes&mdash;...rich with nature's verity, and warm with
                         colour. </p>
-                    <p rend="indent"> Every writer who has striven to pourtray the leading incidents
+                    <p rend="block"> Every writer who has striven to pourtray the leading incidents
                         of Queen Victoria's life has seized eagerly on these little
                             episodes,<milestone unit="subject" corresp="narrative_elements"
                             ana="episode"/> which seem to stand out with cameo-like clearness, and
                         one by one to reproduce them. (18) </p>
 
-                    <p>Vivid the episodes may be, but how to reassemble them from the pieces eagerly
-                        seized? How to avoid the effect of a curtain rising again and again? What
-                        more can the audience do than feel again the charming sentiments nationally
-                        rehearsed throughout their lifetimes? The biographer's progress is
-                        necessarily slow through this catalogue of gems. "The great philanthropist
+                    <p>Biographers hungry for incident find these cameos nevertheless difficult to arrange and display,
+                        each artifact hinting at a certain mass production.  How to avoid the effect of a curtain rising again and again? The national
+                        audience rehearses and performs sentiments memorized over a collective lifetime of the Queen's reign.  But Carey finds
+                        it worthwhile to quote anecdotes by eminent witnesses of the royal childhood.  "The great philanthropist
                             <name>William Wilberforce</name> writes to <name corresp="HANNAH_MORE"
                             >Hannah More</name>, on <date>July 21st, 1820</date>" of an invitation
                         to wait on the Duchess of Kent. "'She received me with her fine animated
                         child on the floor beside her with her playthings, of which I soon became
                         one.' The life at Kensington Palace was as simple as that of any English
                         household" (18). The future queen is capable of making fond fools of
-                        statesmen, it seems&mdash;or of making a domestic scene a matter of
-                        state. The "severe simplicity of that Royal household," described by those
-                        who witnessed it from the outside or within, becomes a model of the nation,
-                        cosy (Princess and mother always share a bedroom) and bucolic (on summer
+                        statesmen, it seems&mdash;or of making a domestic scene a model of the nation.  This national home is at once cosy (Princess and mother 
+                        always share a bedroom) and bucolic (on summer
                         days, they take their simple breakfast outdoors among flowers and birds);
-                        run like clockwork, a program of self-improvement. Several sources attribute
+                        run like clockwork, it is an infallible program of self-improvement. Several sources attribute
                         national well-being to the disciplined program that kept Victoria morally in
                         tune, albeit lonely and a bit taxed with surveillance (19). </p>
                     <p><name>Baroness Lehzen</name>, the governess, plays her part in narratives of
@@ -1098,20 +1094,15 @@
                         now for the first time your Majesty ought to know your place in the
                             succession.'"<milestone unit="subject" corresp="life_events"
                             ana="vocation"/> The two older women agreed to place the genealogy in
-                        the girl's history book, as part of the lesson her tutor expected her to
-                        learn. The Princess remarks on the information she has just encountered,
+                        the girl's history book, as part of the lesson she was to study. On discovering it, the Princess remarks,
                             <milestone unit="subject" corresp="narrative_elements" ana="dialogue"
-                        />"'I never saw that before.... I see I am nearer the throne than I
-                        thought.' 'So it is, Madam,' I said. After some moments, the Princess
-                        resumed, 'Now, many a child would boast; ...There is much splendour, but
+                        />"'I see I am nearer the throne than I
+                        thought.'" In a moment she continues to her governess,'Now, many a child would boast; ...There is much splendour, but
                         much responsibility.' The Princess, having lifted up the forefinger of her
                         right hand, gave me that little hand, saying, 'I will be good, dear Lehzen;
                         I will be good.'"<milestone unit="subject" corresp="narrative_rhetoric"
-                            ana="example"/> This is where most biographies cease to quote the
-                        twelve-year-old, but Lehzen continues with the valid point that the
-                        succession could go otherwise, Adelaide (wife of Willim IV)being still
-                        capable of childbearing. The Princess said, we're told, that she wouldn't be
-                        disappointed, since Adelaide is fond of children. Carey, supporting the
+                        ana="example"/> Lehzen recalls that Victoria said she would be glad if Adelaide (wife of Willim IV) gave birth to an heir in place of Victoria, since the queen
+                        was so fond of children. Carey, supporting the
                         thesis of Baroness Lehzen's letter, "One must surely allow that these were
                         remarkable words to be spoken by a child of twelve" (21).</p>
 
@@ -1119,63 +1110,47 @@
                         truly English daughter,<milestone unit="subect" corresp="narrative_rhetoric"
                             ana="trope_national_spirit"/> familiar with her homeland and adjusted to
                         the adulation of her people.<milestone unit="subject"
-                            corresp="narrative_rhetoric" ana="topos_recognition"/> Curiously, the
-                        strains between factions in the royal family appear, even in Carey's
-                        rigorously rosy picture. Carey focuses on milestones in the girl's life,
-                        diligently recording the Princess's presentation at <rs corresp="places"
+                        corresp="narrative_rhetoric" ana="topos_recognition"/> A rigorously rosy, royalist picture
+                        nevertheless reveals discord, even as Carey blends the voices of biography, history, and fiction for girls.
+                        The Princess was presented at <rs corresp="places"
                             key="court">Court</rs> on Queen Adelaide's birthday, on <date>February
-                            24th, 1831;</date> her conspicuous absence at the coronation of William
-                        IV. and Queen Adelaide (due to Victoria's frail health); and the "touching"
-                        scene of her confirmation on <date>August 30th, 1835</date> in the Chapel
-                        Royal. Parliament had named the Duchess of Kent as Regent,<milestone
+                            24th, 1831</date> but was conspicuously absent at the coronation of William
+                        IV. Carey perceives nothing controversial in Parliament's designation of the Duchess of Kent as Regent,<milestone
                             unit="subject" corresp="history" ana="government"/> granting annual
-                        support totalling £16,000 (22-23). All most fitting, in Carey's view, but
-                        King William IV seems to have stepped out of his gracious majesty's part at
-                        his own birthday dinner, a "painful" scene in which he publicly prayed to
+                        support totalling £16,000 (22-23), and appears mystified by King William's "painful" outburst at his own birthday dinner praying to
                         survive till the Princess would be of age to rule, to avoid a regency "in
                         the hands of a person near me, who is surrounded by evil advisers, and who
                         is herself incompetent to act with propriety in the station in which she
                         would be placed." The Princess was commanded in future to "appear at Court
                         on all occasions" (24).</p>
-                    <p>The romance plot for this princess has more than usual inevitability, as in
-                        Carey's retelling both families had been planting the idea of marriage
-                        between the cousins since their childhoods. "The Prince used to relate that
-                        when he was a child of three years old his nurse always told him that he
-                        should marry the Queen" (24). King Leopold and his advisors encouraged this
-                        probability as much as Victoria's associates did, but all parties wished the
-                        match to be an affinity, if possible, one of companionable love. Thus the
-                        plot was to be kept secret till the cousins should have met and taken a
-                        liking to each other. The Duchess of Kent invited the Duke of Coburg and his
+                    <p>The romance plot for this princess has more than usual inevitability.  The Duchess of Kent invited the Duke of Coburg and his
                         sons Ernest and Albert for a visit of "nearly four weeks at Kensington
                         Palace, and the cousins spent delightful days together, playing duets on the
                         piano, sketching, walking and riding, and visiting the chief attractions of
-                        the <rs corresp="places" key="court">Metropolis</rs>" (25).</p>
-
-                    <p>Thus in 1836, when Victoria was seventeen, the future union of Victoria and
-                        Albert seems confirmed. The Princess herself in a letter to her uncle King
-                        Leopold asked him to take care of Albert so that her hopes might be
-                        fulfilled. Carey concludes her first chapter when Victoria comes of age in
+                        the <rs corresp="places" key="court">Metropolis</rs>," ostensibly without signalling to the 
+                        young parties the well-known family matchmaking designs.  All parties wished the
+                        match to be, if possible, one of voluntary, companionable love (24-25).  Carey concludes her first chapter when Victoria comes of age in
                         May, 1837, the public celebrations followed quickly by the death of William
                         IV.</p>
 
                     <p>The second chapter, "Accession and Marriage," begins with two well-known
-                        epigraphs by <name>Elizabeth Barrett Browning</name>, her praise of "the
+                        epigraphs by <name corresp="ELIZABETH_BARRETT_BROWNING" ana="writer">Elizabeth Barrett Browning</name>, her praise of "the
                         weeping Queen" who "wept to wear a crown," and a tercet from "A Vision of
-                        Poets" on the close association of "church and mart," "dream or grave."
+                        Poets" on the close association of "church and mart," "dream or grave."<milestone unit="subject" corresp="narrative_rhetoric" ana="topos_affect"/>
                         Carey meditates on the proximity of death in the happiest of times in
                         life&mdash;"Life and death, buoyant youth and senile decay, and light
                         tripping feet moving with averted eyes among the graves!"&mdash;
                         pointing to the repentant death of William IV as preamble to the rise of the
                         young queen (27). The emblem of corrupt (masculine) age and innocent
                         (feminine) youth was irresistible, as Charles Dickens's <title>
-                            <hi> rend= "italics">The Old Curiosity Shop</hi>
+                            <hi rend= "italics">The Old Curiosity Shop</hi>
                         </title> suggested in the early days of Victoria's reign
                             (<date>1840-1841</date>).</p>
-                    <p>Carey retails the emblematic scene, the annunciation to the virgin princess
-                        that she would become symbolic sovereign, ruler of elder men. We are hailed
+                    <p>Carey retails the emblematic annunciation <milestone unit="subject" corresp="narrative_elements"
+                        ana="episode"/>of the virgin princess's sovereignty. <rs corresp="narrative_rhetoric" key="direct_address"> We are hailed
                         as Victorian readers asking to hear a favorite story of childhood once more:
                         "A Royal Idyll indeed!—it reads to us still like a fairy tale; we heard it
-                        first at our mother's knee" (28). The Angel Gabriel, in this tale, takes the
+                        first at our mother's knee"</rs> (28). The Angel Gabriel takes the
                         form of court dignitaries, arriving at the palace to wake the Princess to
                         her new <milestone unit="subject" corresp="life_events" ana="vocation"
                         />calling. Carey quotes "Miss Wynn in her 'Diary of a Lady of Quality'": the
@@ -1183,17 +1158,17 @@
                         nightcap thrown off, and her hair falling upon her shoulders, her feet in
                         slippers, tears in her eyes, but perfectly collected and dignified'" (28).
                         Indeed, Carey shares the public's urge to portray a weeping queen, a
-                        national persona full of emotion under restraint. Victoria's own
+                        national persona full of emotion under restraint.<milestone unit="subject" corresp="narrative_rhetoric" ana="topos_affect"/> Victoria's own
                         recollection of the news of her uncle's death has less of the melodrama of
                         her physical vulnerability, but emphasizes that she was sent into see the
                         Archbishop of Canterbury and the Lord Chamberlain <rs
                             corresp="narrative_rhetoric" key="trope_alone">alone</rs>. </p>
 
                     <p>Carey's Victoria is an animated model of noble demeanor and earnest
-                        solemnity; anecdotes of the unfolding private and public events in this
+                        solemnity; unfolding private and public events in this
                         transition all confirm a providential fitness of (trained) character to
                         occasion. <milestone unit="subject" corresp="narrative_elements"
-                            ana="anecdote"/> A witness of the first Privy Council describes signs of
+                            ana="episode"/> A witness of the first Privy Council describes signs of
                         emotion in a performance intended to flatten affect as a "'multitude of
                         men'" swear allegiance to her: her blush, her occasional glance "'at
                         Melbourne for instruction'" as she studiously appears to ignore protocols of
@@ -1230,16 +1205,15 @@
                             black bonnet, which was placed far back on her head, exhibiting her
                             light hair in front, simply parted over her forehead. She appeared
                             deeply affected at the acclamations of her people, and was observed to
-                            shed tears" (31).</rs>
-                        <rs corresp="subject_type" key="writer">
-                            <name>Elizabeth Barrett Browning</name>
-                        </rs> reappears in the final stanza of the poem quoted in the epigraph, here
+                            shed tears" (31).</rs><milestone unit="subject" corresp="narrative_rhetoric" ana="topos_affect"/>
+                       
+                            <name corresp="ELIZABETH_BARRETT_BROWNING">Elizabeth Barrett Browning</name>
+                        reappears in the final stanza of the poem quoted in the epigraph, here
                         offering a blessing that Victoria "will not weep / To wear that heavenly
                         crown" (31).</p>
 
-                    <p>Victoria serves to focus the collective attention as she moves into
-                        Buckingham Palace and performs her duty in Parliament. Carey collates the
-                        testimony of famous witnesses. Thus, <rs corresp="subject_type"
+                    <p>Carey collates the
+                        testimony of famous witnesses of the first actions of the new queen. Thus, <rs corresp="subject_type"
                             key="perfomer">the celebrated actress <name>Fanny Kemble</name></rs>
                         writes: <rs corresp="narrative_elements" key="topos_appearance">"The Queen
                             is not handsome, but very pretty, and the singularity of her great
@@ -1257,8 +1231,7 @@
                         excellent utterance than that of the <milestone unit="subject"
                             corresp="narrative_rhetoric" ana="trope_national_spirit"/>Queen's
                         English by the English Queen."</p>
-                    <p>Every utterance by this young woman has now become performative, likely to
-                        have the force of a vow or a law, and certainly prone to be documented.
+                    <p>This young woman's every utterance has become performative&amp;documented and carrying the force of a vow or a law.
                         Thus, Carey recounts Victoria's first of "many deeds of mercy," the pardon
                         of a deserter (32), followed by the vow to perform a daughter's "'sacred
                         duty'": <milestone unit="subject" corresp="narrative_elements"
@@ -1274,7 +1247,7 @@
                         Melbourne's guidance, Victoria "showed that untiring industry and remarkable
                         aptitude for business that was to set such a noble example to her subjects"
                         (33). The girl who vowed to be good institutes a daily routine the nation
-                        might safely follow (or envy). Carey copies "a very interesting account that
+                        might safely follow (or envy).<milestone unit="subject" corresp="narrative_rhetoric" ana="example"/> Carey copies "a very interesting account that
                         may be quoted with profit," outlining the Queen's day in present tense that
                         shifts to past in Carey's own words: She "'gets up soon after eight o'clock,
                         breakfasts in her own room, and is employed the whole morning in transacting
@@ -1292,7 +1265,7 @@
                         each of her guests, the Duchess of Kent's whist table was arranged, the
                         round table marshalled, Melbourne always seated at her left hand, and at
                         half-past eleven the Queen retired" (34).</p>
-                    <p>Carey's chapter shifts from reiterated actions to discriminated events, the
+                    <p>Carey's chapter shifts from reiterated actions to discriminated events,<milestone unit="subject" corresp="narrative_elements" ana="episode"/> the
                         most notable being the Queen's coronation <milestone unit="subject"
                             corresp="history" ana="festival"/><date>June 28th, 1838</date> and
                         wedding on <date>February 10, 1840.</date> But the familiar events consume
@@ -1300,9 +1273,9 @@
                         romance, weight. The coronation is "a magnificent and soul-stirring
                         spectacle"; witnesses weep "during the long wearisome ceremonial," and
                         choirboys shout "'Vivat Victoria Regina!," trumpets, drums, and guns
-                        resound, and the Queen and her mother are nearly overcome with emotion. The
+                        resound, and the Queen and her mother are nearly overcome with emotion.<milestone unit="subject" corresp="narrative_rhetoric" ana="topos_affect"/> The
                         emotion did not, for some time, extend to a passionate urge to marry Albert.
-                        Carey approves of the "noble frankness and perfect artlessness" of
+                        Carey approves of 
                         Victoria's retrospective self-reproach for having kept the prince in
                         suspense for years: Victoria writes, "'The only excuse the Queen can make
                         for herself is in the fact, that the sudden change from the secluded life at
@@ -1310,7 +1283,8 @@
                         of eighteen, put all idea of marriage out of her mind, which she now most
                         bitterly repents.' All these maidenly doubts and scruples were to vanish,
                         however, before the irresistible feeling inspired by the Prince when they
-                        met again" (35). Carey relies on Victoria's letters to King Leopold and
+                        met again" (35).<milestone unit="subject" corresp="narrative_elements" ana="quotation_writing_by_subject"/> Carey relies on 
+                        Victoria's letters to King Leopold and
                         Baron Stockmar, statements of private feeling clearly communicating a matter
                         of international political concern. The young woman feels guilty for her
                         recent resolution not to marry, but confesses <rs
@@ -1325,7 +1299,7 @@
                         motto of his house, '<hi rend="italics">Treu und Fest</hi>'" (37). After an
                         idyllic month at <rs corresp="places" key="court">Windsor Castle</rs>,
                         Albert and his brother returned home, and Victoria is reported, in
-                        correspondence between royal families, to be disconsolate. <milestone
+                        correspondence between royal families, to be disconsolate.<milestone unit="subject" corresp="narrative_rhetoric" ana="topos_affect"/> <milestone
                             unit="subject" corresp="narrative_elements" ana="quotation_letter"/>
                         "There is a touching sentence in a letter of the Prince to the Duchess of
                         Kent. 'What you say about my poor little bride sitting all alone in her
@@ -1335,8 +1309,7 @@
                         grateful humility of a manly love, to receive which was a precious foretaste
                         to her of the happiness of the years to come.' Very lover-like were the
                         letters that came to her" (37-38). The publication of private correspondence
-                        in biography appears to have been the condition of Victoria's life as she
-                        herself witnessed it, well before the posthumous recognition. Similarly, she
+                        in biography appears to have been the condition of Victoria's life, well before posthumous recognition (Carey's subject is still alive). Similarly, she
                         had to present her engagement to the Privy Council and make a public
                         Declaration of a decision based on emotions; here again she heroically
                         controls expression of feeling in a commanding performance&mdash;thereby
@@ -1363,7 +1336,7 @@
                         "peasant girl" recalling the <milestone unit="subject" corresp="history"
                             ana="festival"/> coronation. The tropes of appearance, solitude,
                         national spirit, shared emotion, are all condensed in the pseudo-ballad. </p>
-                    <p>Like previous chapters in Carey's biography of Victoria, the third chapter
+                    <p>Like previous chapters, the third chapter
                         begins with dual titles&mdash;"Married Life" and "Wife and
                         Mother"&mdash;and a prestigious epigraph (this one from Tennyson on the
                         good influence of Victoria as "Mother, Wife and Queen"). The marital
@@ -1394,7 +1367,7 @@
                             butterflies of fashion always seeking after pleasure, and frittering
                             away precious time and strength in their search for what they call
                             happiness"</rs> (43-44). </p>
-                    <p>Chronology is Carey's main motivation for transition from one line to the
+                    <p>Chronology motivates Carey's text to move from one line to the
                         next, but the theme of Victoria's supreme virtues in contrast to "jaded
                         worldlings" (44) brings to mind, abruptly in the next paragraph, the moral
                         improvements of the entire Victorian age. "The Queen's influence on the
@@ -4317,7 +4290,7 @@
                         </item>
                         <item>
                             <label>Mrs. Fry Reading to the Prisoners in Newgate, 1816. (After the
-                                Picture by Jerrry Barrett.) From Louise Creighton, <title>
+                                Picture by Jerry Barrett.) From Louise Creighton, <title>
                                     <hi rend="italics">Some Famous Women</hi>.</title></label>
                             <figure n="no348"/>
                         </item>
@@ -4805,23 +4778,23 @@
                         <title>Title of article</title>
                         <bibl>Short bibliographic/origin statement</bibl>
                     </head>
-                    <p>Charlotte Brontë is one of the few writers whose life has assumed as great a presence in the popular imagination as her works themselves.  As Lucasta Miller observes in her book <hi rend="italic">The Brontë Myth</hi>, a study of the various afterlives of the Brontë sisters through biography, “the sisters themselves, plus their entire family, have become mythic figures in their own right.  Since 1857, when Elizabeth Gaskell published her famous <hi rend="italic">Life of Charlotte Brontë</hi>, hardly a year has gone by without some form of biographical material on the Brontës appearing—from articles in newspapers to full-length lives, from images on tea towels to plays, films, and novelizations” (Miller, xi).  The idea of three sisters, the daughters of a lower middle-class curate living an isolated life in a Yorkshire moorland village, producing some of the most complex and moving literature of the century, turned the Brontës into celebrities within their lifetime, and their notoriety has only increased over the years.  Their childhood home at Haworth Parsonage has become the site of tourist pilgrimages, where enthusiasts travel to see the attic where the children wrote, in miniscule handwriting, their first imaginative tales.  As Miller points out, the popular fascination with the lives of the Brontë sisters often threatens to overshadow serious critical interest in their works.  Digging through the cultural accretions of myth and fantasy, however, one can see how powerfully the Brontës’ lives affected their work, and how they transformed an often bleak and tragic existence, marginalized by their geographic location but also by their gender, into the material for art.  Though Anne and Emily were also published novelists and poets, Charlotte was the most prolific of the three, and remains the most popular.</p>
+                    <p>Charlotte Brontë is one of the few writers whose life has assumed as great a presence in the popular imagination as her works themselves.  As Lucasta Miller observes in her book <hi rend="italics">The Brontë Myth</hi>, a study of the various afterlives of the Brontë sisters through biography, “the sisters themselves, plus their entire family, have become mythic figures in their own right.  Since 1857, when Elizabeth Gaskell published her famous <hi rend="italics">Life of Charlotte Brontë</hi>, hardly a year has gone by without some form of biographical material on the Brontës appearing—from articles in newspapers to full-length lives, from images on tea towels to plays, films, and novelizations” (Miller, xi).  The idea of three sisters, the daughters of a lower middle-class curate living an isolated life in a Yorkshire moorland village, producing some of the most complex and moving literature of the century, turned the Brontës into celebrities within their lifetime, and their notoriety has only increased over the years.  Their childhood home at Haworth Parsonage has become the site of tourist pilgrimages, where enthusiasts travel to see the attic where the children wrote, in miniscule handwriting, their first imaginative tales.  As Miller points out, the popular fascination with the lives of the Brontë sisters often threatens to overshadow serious critical interest in their works.  Digging through the cultural accretions of myth and fantasy, however, one can see how powerfully the Brontës’ lives affected their work, and how they transformed an often bleak and tragic existence, marginalized by their geographic location but also by their gender, into the material for art.  Though Anne and Emily were also published novelists and poets, Charlotte was the most prolific of the three, and remains the most popular.</p>
                     
                     <p>Charlotte was the third of six children, born to Patrick and Maria Branwell Brontë on April 21, 1816, at the Market Street Parsonage in Thornton, near Bradford in Yorkshire.  When Charlotte was four years old, the family moved to the village of Haworth in Yorkshire, where her father had been appointed perpetual curate.  Charlotte’s mother died shortly thereafter, in 1821, leaving Patrick to raise the young family.  (Charlotte’s siblings Branwell, Emily, and Anne had been born in 1817, 1818, and 1820, respectively.)  The children’s aunt, Elizabeth Branwell, came to help care for them.</p>
                     
-                    <p>In 1824, Charlotte and Emily were sent to join their two older sisters, Maria and Elizabeth, at the Clergy Daughters' School at Cowan Bridge in Lancashire.  The traumatic experience they had there, caused by harsh discipline and poor diet, would remain in Charlotte’s memory all her life, emerging in her later fiction.  The Clergy Daughters' School became Lowood School in <hi rend="italic">Jane Eyre</hi>, and its founder, the Reverend William Carus Wilson, was the model for Mr. Brocklehurst, the hypocritical Calvinistic disciplinarian in that novel.  An epidemic of typhoid fever broke out at the school, and both Maria and Elizabeth fell victim to the disease.  Maria was sent home in February 1825, and died in May.  Elizabeth was sent home in late May, and Patrick soon thereafter sent for Charlotte and Emily to be brought back to Haworth as well.  Elizabeth died on the 15th of June.  Charlotte immortalized her oldest sister Maria as the long-suffering, angelic character Helen Burns in <hi rend="italic">Jane Eyre</hi>.</p>
+                    <p>In 1824, Charlotte and Emily were sent to join their two older sisters, Maria and Elizabeth, at the Clergy Daughters' School at Cowan Bridge in Lancashire.  The traumatic experience they had there, caused by harsh discipline and poor diet, would remain in Charlotte’s memory all her life, emerging in her later fiction.  The Clergy Daughters' School became Lowood School in <hi rend="italics">Jane Eyre</hi>, and its founder, the Reverend William Carus Wilson, was the model for Mr. Brocklehurst, the hypocritical Calvinistic disciplinarian in that novel.  An epidemic of typhoid fever broke out at the school, and both Maria and Elizabeth fell victim to the disease.  Maria was sent home in February 1825, and died in May.  Elizabeth was sent home in late May, and Patrick soon thereafter sent for Charlotte and Emily to be brought back to Haworth as well.  Elizabeth died on the 15th of June.  Charlotte immortalized her oldest sister Maria as the long-suffering, angelic character Helen Burns in <hi rend="italics">Jane Eyre</hi>.</p>
                     
                     <p>Charlotte, Branwell, Emily, and Anne became increasingly close after the loss of their two oldest siblings.  Taking refuge from grief in imaginative play, the four children began to make up stories, opposing the arbitrariness of death with the control of authorship.  Their first stories took inspiration from a box of Branwell’s tin soldiers, but as they outgrew these toys, the children established their tales in worlds of their own creation.  Not surprisingly, Charlotte and Branwell dominated their younger sisters in these plays, and eventually the siblings split off into two groups—Charlotte and Branwell chronicling the imaginary kingdom of Angria, while Emily and Anne created the alternate world of Gondal (Miller, 5).  Sibling rivalry fuelled these endeavors, as well as collaboration, and Charlotte often felt threatened by Branwell’s early sense of entitlement with regard to the male-dominated world of literary production.</p>
                     
-                    <p>Charlotte and her siblings were prolific readers as well as writers.  Her novels are steeped in literary and biblical allusion, the product of this wide-ranging education in classical and contemporary writers.  “Unlike most middle-class Victorian households,” writes Christine Alexander, “there was little censorship of reading in the Brontë parsonage. The Bible was staple fare; yet Patrick Brontë also encouraged an eclectic diet of Homer, Virgil, Shakespeare, Bunyan, Milton, Pope, Johnson, Gibbon, Cowper, Burns, Wordsworth, Coleridge, Scott, Southey, and Byron” (ODNB).  The children also devoured the poetry and prose published in monthly periodicals, such as <hi rend="italic">Blackwood’s Magazine</hi> and <hi rend="italic">Fraser’s</hi>.</p>
+                    <p>Charlotte and her siblings were prolific readers as well as writers.  Her novels are steeped in literary and biblical allusion, the product of this wide-ranging education in classical and contemporary writers.  “Unlike most middle-class Victorian households,” writes Christine Alexander, “there was little censorship of reading in the Brontë parsonage. The Bible was staple fare; yet Patrick Brontë also encouraged an eclectic diet of Homer, Virgil, Shakespeare, Bunyan, Milton, Pope, Johnson, Gibbon, Cowper, Burns, Wordsworth, Coleridge, Scott, Southey, and Byron” (ODNB).  The children also devoured the poetry and prose published in monthly periodicals, such as <hi rend="italics">Blackwood’s Magazine</hi> and <hi rend="italics">Fraser’s</hi>.</p>
                     
-                    <p>One of the writers who most influenced Charlotte as an emerging writer was Lord Byron (1788-1824).  His poetry furnished her imagination with exotic settings and dashing heroes.  Byron’s legacy, writes Miller, can be seen “her obsession with the amours of her aristocratic hero, Zamorna” (Miller, 8).  Zamorna became the central focus of Charlotte’s Angrian tales, and it is clear that he captured her imagination in a manner bordering on hero-worship.  Tall, dark and Byronic, Zamorna was charismatic and sexually potent.  One can see in Zamorna the embryonic form of Brontë’s tortured, brooding hero Mr. Rochester in <hi rend="italic">Jane Eyre</hi>, though Charlotte’s unqualified admiration for this type of character would become more ambivalent and nuanced over the intervening years.</p>
+                    <p>One of the writers who most influenced Charlotte as an emerging writer was Lord Byron (1788-1824).  His poetry furnished her imagination with exotic settings and dashing heroes.  Byron’s legacy, writes Miller, can be seen “her obsession with the amours of her aristocratic hero, Zamorna” (Miller, 8).  Zamorna became the central focus of Charlotte’s Angrian tales, and it is clear that he captured her imagination in a manner bordering on hero-worship.  Tall, dark and Byronic, Zamorna was charismatic and sexually potent.  One can see in Zamorna the embryonic form of Brontë’s tortured, brooding hero Mr. Rochester in <hi rend="italics">Jane Eyre</hi>, though Charlotte’s unqualified admiration for this type of character would become more ambivalent and nuanced over the intervening years.</p>
                     
                     <p>In January 1831, Charlotte was sent to the Roe Head School, about 15 miles from home.  This second experience with institutional education was much more positive than the first.  Charlotte worked hard at her studies, and formed several lasting friendships.  Two women in particular would become lifelong friends and correspondents: “the conscientious, calm, religious Ellen Nussey who fulfilled Charlotte's dutiful self and need for affection, and the fiercely independent Mary Taylor, whose radical views on politics, women, and religion fuelled Charlotte's ambitious and rebellious nature” (ODNB).  In many ways these two very different women exemplified a split in Charlotte’s nature, which tension would emerge in her writing.  Charlotte would often express feelings of doubt and guilt over the working of her “fiery imagination” in letters to Ellen Nussey, worrying that the content of her writing was not appropriate for a clergyman’s daughter (Miller, 12).  Though she stayed at Roe Head for only eighteen months as a pupil, Charlotte excelled in French and drawing, as well as continuing to write.</p>
                     
                     <p>Charlotte went back to Haworth briefly, but returned to Roe Head in July 1835, this time as a teacher.  Charlotte remained there for three and a half years.  She soon became impatient however, at the strictures of the life she was leading.  Charlotte confessed to her journal her frustrations with her straitjacketed world: “The thought came over me: am I to spend all the best part of my life in this wretched bondage, forcibly suppressing my rage at the idleness, the apathy and the hyperbolical and most asinine stupidity of those fatheaded oafs, and on compulsion assuming an air of kindness, patience and assiduity?” (ODNB). </p>
                     
-                    <p>She continued to harbor literary ambitions secretly while at Roe Head.  Once, while on holiday, she sent some of her poems to Robert Southey, the Poet Laureate of England.  This was an audacious move, and Charlotte revealed to him in her letter her desire “to be forever known” (Miller, 10).  Southey was gracious enough to write back, but his response was far from encouraging.  He admitted that she possessed “the faculty of Verse,” but declared unequivocally that “Literature cannot be the business of a woman’s life: & it ought not to be.”  He advised her to attend to her “proper duties” as a woman, and to be “less eager for celebrity” (Miller 12).  Chastised, Charlotte responded that she attempted to repress herself and conceal her ambitions from those around her.  The accusation that her ambitions were “unfeminine” would plague Charlotte all her life.</p>
+                    <p>She continued to harbor literary ambitions secretly while at Roe Head.  Once, while on holiday, she sent some of her poems to Robert Southey, the Poet Laureate of England.  This was an audacious move, and Charlotte revealed to him in her letter her desire “to be forever known” (Miller, 10).  Southey was gracious enough to write back, but his response was far from encouraging.  He admitted that she possessed “the faculty of Verse,” but declared unequivocally that “Literature cannot be the business of a woman’s life: &amp; it ought not to be.”  He advised her to attend to her “proper duties” as a woman, and to be “less eager for celebrity” (Miller 12).  Chastised, Charlotte responded that she attempted to repress herself and conceal her ambitions from those around her.  The accusation that her ambitions were “unfeminine” would plague Charlotte all her life.</p>
                     
                     <p>Charlotte felt increasingly guilty about her continued indulgence of her Angrian fantasies, which nurtured her passionate desire to be loved and understood.  John Maynard points to Charlotte’s continued obsession with the hyper-masculine Zamorna, while a teacher at Roe Head.  At nineteen years of age, escaping the “mirthless, lifeless room” at the school, she recorded this daydream:</p>
                     
@@ -4831,55 +4804,55 @@
                     
                     <p>Returning home, Charlotte continued to write; two more novelettes in the Angrian mode concluded her involvement in the saga.  “Although Angria continued to provide material for future characterization, scene, and theme,” writes Alexander, “she made a distinct move towards artistic independence from both her brother and her private world” (ODNB).</p>
                     
-                    <p>In 1839, Charlotte received two proposals of marriage, both of which she refused.  The first was from the Reverend Henry Nussey, Ellen’s brother.  The second was from the Reverend James Bryce, an Irish clergyman whom she barely knew.  Nussey’s passionless and pious proposal formed the basis for Charlotte’s portrayal of St. John Rivers in <hi rend="italic">Jane Eyre</hi>.  Both Charlotte and Jane’s refusal of such matches would have been considered imprudent and even shocking in Brontë’s time.  It was somewhat radical to refuse a respectable offer and to hold out for a marriage based on love.  Either Nussey or Bryce would have been considered an eminently suitable match for Charlotte; if she had accepted one of them, it would have obviated the need to hire herself out as a governess, one of the few respectable career options available to a woman of her class.</p>
+                    <p>In 1839, Charlotte received two proposals of marriage, both of which she refused.  The first was from the Reverend Henry Nussey, Ellen’s brother.  The second was from the Reverend James Bryce, an Irish clergyman whom she barely knew.  Nussey’s passionless and pious proposal formed the basis for Charlotte’s portrayal of St. John Rivers in <hi rend="italics">Jane Eyre</hi>.  Both Charlotte and Jane’s refusal of such matches would have been considered imprudent and even shocking in Brontë’s time.  It was somewhat radical to refuse a respectable offer and to hold out for a marriage based on love.  Either Nussey or Bryce would have been considered an eminently suitable match for Charlotte; if she had accepted one of them, it would have obviated the need to hire herself out as a governess, one of the few respectable career options available to a woman of her class.</p>
                     
                     <p>Following this, Charlotte endured two brief stints as a governess, a position she enjoyed even less than teaching.  Brontë’s resentment of the treatment she received, and the tendency of the upper classes to treat governesses as subhuman, would emerge in her fiction, much of which dealt with the humiliations endured by women forced to earn their living in these degrading circumstances.  </p>
                     
                     <p>Returning home in 1841, Charlotte began to make plans with Emily and Anne to open their own school.  However, the sisters felt they could attract more pupils if their language skills were more robust.  Plans for the school were postponed in favor of a scheme in which Charlotte and Emily would enroll at a school in Brussels in order to improve their French.  The sisters traveled to Belgium in February 1842, and enrolled at the Pensionnat Heger.  In Constantin Heger, a professor of French literature, Charlotte finally found a man who challenged her intellectually and encouraged her literary ambitions.  Heger was, by all accounts, a strict master, and his comments on the Brontës’ French compositions show that he did not spare his criticism, even though he was impressed by the abilities of these young Englishwomen.</p>
                     
-                    <p>Charlotte and Emily were called home in October by the death of their Aunt Branwell.  Emily decided to stay in England and live off the legacy she had received from their aunt, and Charlotte returned alone to Brussels in January 1843.  Madame Heger’s increasing coldness towards Charlotte, who was obviously devoted to her husband, alienated Charlotte from the Hegers and contributed to her feelings of loneliness and depression.  (She would later use this time in her life as material for her novels <hi rend="italic">The Professor</hi> and <hi rend="italic">Villette</hi>.)  By the end of 1843, Charlotte had decided to return to Haworth.</p>
+                    <p>Charlotte and Emily were called home in October by the death of their Aunt Branwell.  Emily decided to stay in England and live off the legacy she had received from their aunt, and Charlotte returned alone to Brussels in January 1843.  Madame Heger’s increasing coldness towards Charlotte, who was obviously devoted to her husband, alienated Charlotte from the Hegers and contributed to her feelings of loneliness and depression.  (She would later use this time in her life as material for her novels <hi rend="italics">The Professor</hi> and <hi rend="italics">Villette</hi>.)  By the end of 1843, Charlotte had decided to return to Haworth.</p>
                     
                     <p>Charlotte’s depression deepened upon her return to England.  Plans for the girls’ school fell through, and Charlotte longed for the company of M. Heger.  She wrote him a series of increasingly desperate and passionate letters, to which he did not reply. Charlotte’s unrequited love tortured her, and she begged Heger to write back to her.  Wounded by his silence, Charlotte discontinued her correspondence with him.</p>
                     
                     <p>Her private suffering was compounded by shared family trials, when Branwell was dismissed in disgrace from his post as tutor for having an affair with his employer’s wife.  Branwell led a dissipated and self-destructive life after this, nursing his addiction to alcohol and opium.  Charlotte’s brother became a strain on his family and his health began a rapid decline.</p>
                     
-                    <p>Once again, Charlotte took refuge from grief in work, focusing on her goal of becoming a published writer.  In 1845, she discovered a notebook containing Emily’s poetry, and persuaded her that they merited publication.  Charlotte, Emily and Anne edited and selected a portion of their verse and submitted it for consideration.  They chose androgynous pseudonyms to avoid criticism based on their gender.  <hi rend="italic">Poems by Currer, Ellis, and Acton Bell</hi> was published in 1846 by Aylott and Jones, at the authors’ expense (using money from their aunt’s legacy).  The book sold only two copies, but received several favorable reviews, which was enough to encourage the sisters to continue.</p>
+                    <p>Once again, Charlotte took refuge from grief in work, focusing on her goal of becoming a published writer.  In 1845, she discovered a notebook containing Emily’s poetry, and persuaded her that they merited publication.  Charlotte, Emily and Anne edited and selected a portion of their verse and submitted it for consideration.  They chose androgynous pseudonyms to avoid criticism based on their gender.  <hi rend="italics">Poems by Currer, Ellis, and Acton Bell</hi> was published in 1846 by Aylott and Jones, at the authors’ expense (using money from their aunt’s legacy).  The book sold only two copies, but received several favorable reviews, which was enough to encourage the sisters to continue.</p>
                     
-                    <p>The three began to work on prose next, perfecting their novels in the hopes of publication.  Charlotte drew on her Brussels experience for her first novel, <hi rend="italic">The Professor</hi>.  Emily wrote <hi rend="italic">Wuthering Heights</hi>, reworking her Gondal saga in an English setting, and Anne wrote <hi rend="italic">Agnes Grey</hi>, based on her life as a governess (ODNB).  All three sent their manuscripts to publishers for consideration.  <hi rend="italic">Wuthering Heights</hi> and <hi rend="italic">Agnes Grey</hi> were accepted by Thomas Cautley Newby in July 1847, but <hi rend="italic">The Professor</hi> was not so well received.  Christine Alexander points out that Charlotte wrote <hi rend="italic">The Professor</hi> in reaction against her Angrian fantasies (ODNB).  In what is now known as “The Farewell to Angria” (1839), Charlotte had expressed her determination to “quit for awhile that burning clime where we have sojourned too long…lit with love, flushed with passion, shaded with grief, kindled with ecstasy,” and move “to a cooler region where the dawn breaks grey and sober” (Maynard, 14).  Alexander argues that the result of this artistic decision was a novel stiff and detached, not true to its author’s emotional experiences and inner knowledge.  <hi rend="italic">The Professor</hi> was never published during Charlotte’s lifetime.</p>
+                    <p>The three began to work on prose next, perfecting their novels in the hopes of publication.  Charlotte drew on her Brussels experience for her first novel, <hi rend="italics">The Professor</hi>.  Emily wrote <hi rend="italics">Wuthering Heights</hi>, reworking her Gondal saga in an English setting, and Anne wrote <hi rend="italics">Agnes Grey</hi>, based on her life as a governess (ODNB).  All three sent their manuscripts to publishers for consideration.  <hi rend="italics">Wuthering Heights</hi> and <hi rend="italics">Agnes Grey</hi> were accepted by Thomas Cautley Newby in July 1847, but <hi rend="italics">The Professor</hi> was not so well received.  Christine Alexander points out that Charlotte wrote <hi rend="italics">The Professor</hi> in reaction against her Angrian fantasies (ODNB).  In what is now known as “The Farewell to Angria” (1839), Charlotte had expressed her determination to “quit for awhile that burning clime where we have sojourned too long…lit with love, flushed with passion, shaded with grief, kindled with ecstasy,” and move “to a cooler region where the dawn breaks grey and sober” (Maynard, 14).  Alexander argues that the result of this artistic decision was a novel stiff and detached, not true to its author’s emotional experiences and inner knowledge.  <hi rend="italics">The Professor</hi> was never published during Charlotte’s lifetime.</p>
                     
-                    <p>However, the firm of Smith, Elder & Co. had offered encouragement in their rejection letter, indicating that they would be interested to read anything Charlotte might send to them in future.  By August 1847, Charlotte had sent them the manuscript of <hi rend="italic">Jane Eyre</hi>.  George Smith, one of the publishers, recorded that he was so engrossed when he began to read the novel that he cancelled his plans to go out riding with a friend and skipped dinner in order to finish it in one sitting (Miller, 16).  The next day he wrote to “Currer Bell” to offer £100 for the copyright.  <hi rend="italic">Jane Eyre</p>hi> was published in October 1847 and was an instant bestseller.  The novel also received critical acclaim: literary celebrities such as G. H. Lewes and William Makepeace Thackeray praised it.</p>
+                    <p>However, the firm of Smith, Elder &amp; Co. had offered encouragement in their rejection letter, indicating that they would be interested to read anything Charlotte might send to them in future.  By August 1847, Charlotte had sent them the manuscript of <hi rend="italics">Jane Eyre</hi>.  George Smith, one of the publishers, recorded that he was so engrossed when he began to read the novel that he cancelled his plans to go out riding with a friend and skipped dinner in order to finish it in one sitting (Miller, 16).  The next day he wrote to “Currer Bell” to offer £100 for the copyright.  <hi rend="italics">Jane Eyre</hi> was published in October 1847 and was an instant bestseller.  The novel also received critical acclaim: literary celebrities such as G. H. Lewes and William Makepeace Thackeray praised it.</p>
                     
-                    <p>Semi-autobiographical in content, <hi rend="italic">Jane Eyre</hi> is the story of an unloved orphan whose experience of suffering and neglect fail to subdue her passion and will to become independent.  Charlotte Brontë finally found her voice in <hi rend="italic">Jane Eyre</hi>.  Casting aside the dispassionate third-person male narration of <hi rend="italic">The Professor</hi>, Brontë audaciously adopted the voice of Jane, a first-person female narrator.  Jane’s insistence on her sense of self-worth and dignity, in spite of her gender and social position, was a powerful critique of mid-Victorian life, and not surprisingly, ruffled quite a few feathers.</p>
+                    <p>Semi-autobiographical in content, <hi rend="italics">Jane Eyre</hi> is the story of an unloved orphan whose experience of suffering and neglect fail to subdue her passion and will to become independent.  Charlotte Brontë finally found her voice in <hi rend="italics">Jane Eyre</hi>.  Casting aside the dispassionate third-person male narration of <hi rend="italics">The Professor</hi>, Brontë audaciously adopted the voice of Jane, a first-person female narrator.  Jane’s insistence on her sense of self-worth and dignity, in spite of her gender and social position, was a powerful critique of mid-Victorian life, and not surprisingly, ruffled quite a few feathers.</p>
                     
-                    <p><hi rend="italic">Jane Eyre</hi>’s psychologically astute portrayal of a female voice and perspective led many readers to assume that its author was, in fact, a woman.  Some readers, especially women, were shocked by the novel’s frank depiction of passionate desire, its discussion of adultery, and sometimes angry and rebellious tone.  Elizabeth Rigby (later Lady Eastlake) expressed the disapproval felt by some readers most memorably, in her anonymous critique, published in the <hi rend="italic">Quarterly Review</hi> in December 1848.  Rigby deplored the novel’s “coarseness of language and laxity of tone” and described Jane’s independent spirit as unfeminine.  She condemned the novel as “anti-Christian” and the heroine as “the personification of an unregenerate and undisciplined spirit” who had “the strength of a mere heathen mind which is a law unto itself.”  If, as had been speculated, the author was indeed a woman, Rigby declared that she must be one who “has for some sufficient reason, long forfeited the society of her own sex” (Miller, 22-23).</p>
+                    <p><hi rend="italics">Jane Eyre</hi>’s psychologically astute portrayal of a female voice and perspective led many readers to assume that its author was, in fact, a woman.  Some readers, especially women, were shocked by the novel’s frank depiction of passionate desire, its discussion of adultery, and sometimes angry and rebellious tone.  Elizabeth Rigby (later Lady Eastlake) expressed the disapproval felt by some readers most memorably, in her anonymous critique, published in the <hi rend="italics">Quarterly Review</hi> in December 1848.  Rigby deplored the novel’s “coarseness of language and laxity of tone” and described Jane’s independent spirit as unfeminine.  She condemned the novel as “anti-Christian” and the heroine as “the personification of an unregenerate and undisciplined spirit” who had “the strength of a mere heathen mind which is a law unto itself.”  If, as had been speculated, the author was indeed a woman, Rigby declared that she must be one who “has for some sufficient reason, long forfeited the society of her own sex” (Miller, 22-23).</p>
                     
-                    <p>It is ironic that the assumption of an androgynous pseudonym, rather than shielding Charlotte from censure, should have led to such vicious gossip and speculation.  Charlotte dedicated her second edition of <hi rend="italic">Jane Eyre</hi> to Thackeray, unaware that such a move was likely to spark more gossip.  Thackeray, like Rochester, had a wife who was mentally ill, leading to rumors that <hi rend="italic">Jane Eyre</hi> had been written by Thackeray’s mistress.</p>
+                    <p>It is ironic that the assumption of an androgynous pseudonym, rather than shielding Charlotte from censure, should have led to such vicious gossip and speculation.  Charlotte dedicated her second edition of <hi rend="italics">Jane Eyre</hi> to Thackeray, unaware that such a move was likely to spark more gossip.  Thackeray, like Rochester, had a wife who was mentally ill, leading to rumors that <hi rend="italics">Jane Eyre</hi> had been written by Thackeray’s mistress.</p>
                     
-                    <p>Charlotte finally revealed her true identity to her publishers, after Thomas Newby attempted to capitalize on the popularity of Charlotte’s recent novel by claiming that <hi rend="italic">Agnes Grey</hi> and <hi rend="italic">Wuthering Heights</hi> were written by the same author as <hi rend="italic">Jane Eyre</hi>.  Charlotte and Anne traveled to London to confirm their identities to Charlotte’s publisher George Smith, who welcomed them and took them to the opera, the Royal Academy, and the National Gallery (ODNB).</p>
+                    <p>Charlotte finally revealed her true identity to her publishers, after Thomas Newby attempted to capitalize on the popularity of Charlotte’s recent novel by claiming that <hi rend="italics">Agnes Grey</hi> and <hi rend="italics">Wuthering Heights</hi> were written by the same author as <hi rend="italics">Jane Eyre</hi>.  Charlotte and Anne traveled to London to confirm their identities to Charlotte’s publisher George Smith, who welcomed them and took them to the opera, the Royal Academy, and the National Gallery (ODNB).</p>
                     
-                    <p>Upon her return to Haworth, Charlotte began work on her next novel, <hi rend="italic">Shirley</hi>, but her new literary success was soon overshadowed by family tragedy.  Within a year, all three of her remaining siblings were dead.  Branwell’s health had been declining steadily, weakened by alcoholism and addiction to opiates.  His grandiose expectations of artistic or literary fame never came to fruition.  Branwell died of chronic bronchitis in September 1848, at age thirty-one.  Charlotte grieved as much for Branwell’s wasted life as she did for his death.</p>
+                    <p>Upon her return to Haworth, Charlotte began work on her next novel, <hi rend="italics">Shirley</hi>, but her new literary success was soon overshadowed by family tragedy.  Within a year, all three of her remaining siblings were dead.  Branwell’s health had been declining steadily, weakened by alcoholism and addiction to opiates.  His grandiose expectations of artistic or literary fame never came to fruition.  Branwell died of chronic bronchitis in September 1848, at age thirty-one.  Charlotte grieved as much for Branwell’s wasted life as she did for his death.</p>
                     
                     <p>Emily caught a cold on the day of Branwell’s funeral.  She grew steadily weaker, refusing to consult a doctor, despite Charlotte’s urging.  She died in December 1848, of pulmonary tuberculosis, at age thirty.  Anne also displaying symptoms of tuberculosis, Charlotte rushed her to the seaside in an attempt to help her recover, but Anne died in May 1849, aged twenty-nine.</p>
                     
-                    <p>The sole surviving Brontë sibling, Charlotte was bereft of her imaginative and literary support.  Lonely and desolate, Charlotte still managed to finish <hi rend="italic">Shirley</hi> by the end of August 1849.  It was published in October by Smith, Elder & Co.  <hi rend="italic">Shirley</p>hi> was not as successful as <hi rend="italic">Jane Eyre</hi>, but nevertheless, it did address important social issues of the day.  This novel was Charlotte’s attempt to address the “condition of women” issue, as well as the class conflicts of industrialization. Avoiding the topics that had aroused such scandal with <hi rend="italic">Jane Eyre</hi>, Charlotte declared that <hi rend="italic">Shirley</hi> would be “as unromantic as Monday morning” (ODNB).  This foray into strict realism did not produce Brontë’s most powerful work, but <hi rend="italic">Shirley</hi> is still an ambitious and masterful novel.</p>
+                    <p>The sole surviving Brontë sibling, Charlotte was bereft of her imaginative and literary support.  Lonely and desolate, Charlotte still managed to finish <hi rend="italics">Shirley</hi> by the end of August 1849.  It was published in October by Smith, Elder &amp; Co.  <hi rend="italics"></hi><hi rend="italics">Shirley</hi> was not as successful as <hi rend="italics">Jane Eyre</hi>, but nevertheless, it did address important social issues of the day.  This novel was Charlotte’s attempt to address the “condition of women” issue, as well as the class conflicts of industrialization. Avoiding the topics that had aroused such scandal with <hi rend="italics">Jane Eyre</hi>, Charlotte declared that <hi rend="italics">Shirley</hi> would be “as unromantic as Monday morning” (ODNB).  This foray into strict realism did not produce Brontë’s most powerful work, but <hi rend="italics">Shirley</hi> is still an ambitious and masterful novel.</p>
                     
                     <p>While Charlotte kept her identity a secret from the public, for the time being, she was curious to meet the literary celebrities of London, and asked George Smith to introduce her to some of them when she stayed with him and his mother in 1849 and 1850.  There she met such prominent writers as Thackeray and Lewes, who noted her shyness and her lack beauty.  Charlotte had always been self-conscious about her unimpressive physicality, and it seems these encounters caused her more uneasiness than pleasure.  She also met Elizabeth Gaskell on a trip to Edinburgh in 1850.  Gaskell was a novelist who would become Charlotte’s friend and confidant, and later, her first biographer.</p>
                     
-                    <p>The criticism she had received for <hi rend="italic">Jane Eyre</hi> still rankled, however, and now that her sisters were dead, there was no longer as much reason for concealing the sisters’ true identity.  (Emily had been the most fiercely protective of her privacy.)  Charlotte decided to clear her reputation, as well as her sisters’.  She issued a second edition of <hi rend="italic">Agnes Grey</hi> and <hi rend="italic">Wuthering Heights</hi> (this time published by Smith, Elder & Co.) with a “Biographical Notice” appended to it, in which she revealed her sisters’ true identity and defended their work.  However, the defensive tone that she adopts is also curiously apologetic, and seems to infantilize Emily and Anne.  Charlotte protests that her sisters were merely ignorant Yorkshire girls who didn’t know any better, and didn’t mean to offend.  She describes Haworth as a “remote district where education had made little progress” (Miller, 28), urging this in extenuation of her sisters’ errors.  This depiction was certainly an act of misrepresentation, albeit sincerely meant.  In the introduction to her seminal biography of the Brontës, Juliet Barker describes how she trawled through the archives of local newspapers published in the time of the Brontës, unearthing a large amount of information that controverts “the myth that Haworth was a remote and obscure village where nothing ever happened.  It was a township, a small, industrial town in the heart of a much larger chapelry, where politics and religion were hotly disputed and culture thrived” (Barker, xix).</p>
+                    <p>The criticism she had received for <hi rend="italics">Jane Eyre</hi> still rankled, however, and now that her sisters were dead, there was no longer as much reason for concealing the sisters’ true identity.  (Emily had been the most fiercely protective of her privacy.)  Charlotte decided to clear her reputation, as well as her sisters’.  She issued a second edition of <hi rend="italics">Agnes Grey</hi> and <hi rend="italics">Wuthering Heights</hi> (this time published by Smith, Elder &amp; Co.) with a “Biographical Notice” appended to it, in which she revealed her sisters’ true identity and defended their work.  However, the defensive tone that she adopts is also curiously apologetic, and seems to infantilize Emily and Anne.  Charlotte protests that her sisters were merely ignorant Yorkshire girls who didn’t know any better, and didn’t mean to offend.  She describes Haworth as a “remote district where education had made little progress” (Miller, 28), urging this in extenuation of her sisters’ errors.  This depiction was certainly an act of misrepresentation, albeit sincerely meant.  In the introduction to her seminal biography of the Brontës, Juliet Barker describes how she trawled through the archives of local newspapers published in the time of the Brontës, unearthing a large amount of information that controverts “the myth that Haworth was a remote and obscure village where nothing ever happened.  It was a township, a small, industrial town in the heart of a much larger chapelry, where politics and religion were hotly disputed and culture thrived” (Barker, xix).</p>
                     
-                    <p>However, if the view of Haworth Parsonage as a completely isolated landmark in the midst of unadulterated moorland is a popular myth, as both Miller and Barker observe, it is a myth that is partly of Charlotte Brontë’s own making.  This myth was embellished by Elizabeth Gaskell in her famous <hi rend="italic">Life of Charlotte Brontë</hi>, which attempted to portray Charlotte as a dutiful, self-denying woman—sanitizing anything controversial in her works or papers.  Gaskell discusses Brontë’s career as an author in gendered terms, seeing the role of author and the role of woman as competing for first place in Charlotte’s priorities.  Gaskell emphasizes her belief that for Charlotte, the duties of womanhood always came first.  “When a man becomes an author,” writes Gaskell, “it is probably merely a change of employment to him…[another] steps into his vacant place, and probably does as well as he.”  For a woman, however, cannot shirk her domestic responsibilities to pursue a career:</p>
+                    <p>However, if the view of Haworth Parsonage as a completely isolated landmark in the midst of unadulterated moorland is a popular myth, as both Miller and Barker observe, it is a myth that is partly of Charlotte Brontë’s own making.  This myth was embellished by Elizabeth Gaskell in her famous <hi rend="italics">Life of Charlotte Brontë</hi>, which attempted to portray Charlotte as a dutiful, self-denying woman—sanitizing anything controversial in her works or papers.  Gaskell discusses Brontë’s career as an author in gendered terms, seeing the role of author and the role of woman as competing for first place in Charlotte’s priorities.  Gaskell emphasizes her belief that for Charlotte, the duties of womanhood always came first.  “When a man becomes an author,” writes Gaskell, “it is probably merely a change of employment to him…[another] steps into his vacant place, and probably does as well as he.”  For a woman, however, cannot shirk her domestic responsibilities to pursue a career:</p>
                     
                     <p rend="block">But no other can take up the quiet regular duties of the daughter, the wife, or the mother, as well as she whom God has appointed to fill that particular place: a woman’s principal work in life is hardly left to her own choice; nor can she drop the domestic charges devolving on her as an individual, for the exercise of the most splendid talents that were ever bestowed.  (Gaskell, 271-272)</p>
                     
                     <p>Gaskell was obviously at pains to prove to the world that Charlotte did not neglect her “principal work” as a woman in order to exercise her talents, that she was a dutiful daughter and sister, without unfeminine ambitions.  As Gaskell’s biography was commissioned by Patrick Brontë to fight the “misrepresentations” that had sullied his daughter’s image, such an idealized portrayal of Charlotte is hardly surprising (Miller, 64).  Gaskell’s portrayal continued to influence popular and scholarly conceptions of Charlotte’s life, and it is only recently that the larger picture has begun to be pieced together.</p>
                     
-                    <p>In her last completed novel, <hi rend="italic">Villette</hi>, Charlotte reworked the material she had previously used in <hi rend="italic">The Professor</hi>, again drawing on her experiences in Brussels and her unrequited love for Constantin Heger.  In <hi  rend="italic">Villette</hi>, Charlotte returned to the first-person female narrator, this time the character Lucy Snowe, who travels to Villette, an imaginary version of Brussels, to teach in a girls’ school.  Lucy is in some ways a more complex, although less likeable, narrator than Jane Eyre.  Her paranoia and secrecy lead her to conceal information, even from the reader.  <hi rend="italic">Villette</hi> contains the promise of fulfillment in love, but the ending remains ambiguous.</p>
+                    <p>In her last completed novel, <hi rend="italics">Villette</hi>, Charlotte reworked the material she had previously used in <hi rend="italics">The Professor</hi>, again drawing on her experiences in Brussels and her unrequited love for Constantin Heger.  In <hi  rend="italics">Villette</hi>, Charlotte returned to the first-person female narrator, this time the character Lucy Snowe, who travels to Villette, an imaginary version of Brussels, to teach in a girls’ school.  Lucy is in some ways a more complex, although less likeable, narrator than Jane Eyre.  Her paranoia and secrecy lead her to conceal information, even from the reader.  <hi rend="italics">Villette</hi> contains the promise of fulfillment in love, but the ending remains ambiguous.</p>
                     
-                    <p>Published in January 1843, <hi rend="italic">Villette</hi> met with mixed reviews.  Thackeray characteristically attributed the heroine’s longing for love to the author herself.  “Poor little woman of genius!” he wrote to a friend, “She wants some Tomkins or another to love her and be in love with.  But you see she is a little bit of a creature without a pennyworth of good looks…and no Tomkins will come” (Maynard, 15).  Like Gaskell, Thackeray implies that women can gain true fulfillment only in conventional domesticity; literary achievement is a sort of consolation prize.</p>
+                    <p>Published in January 1843, <hi rend="italics">Villette</hi> met with mixed reviews.  Thackeray characteristically attributed the heroine’s longing for love to the author herself.  “Poor little woman of genius!” he wrote to a friend, “She wants some Tomkins or another to love her and be in love with.  But you see she is a little bit of a creature without a pennyworth of good looks…and no Tomkins will come” (Maynard, 15).  Like Gaskell, Thackeray implies that women can gain true fulfillment only in conventional domesticity; literary achievement is a sort of consolation prize.</p>
                     
                     <p>Ironically, Charlotte would soon after achieve the kind of domestic happiness from which Thackeray thought she was permanently excluded.  Her father’s curate, Arthur Bell Nicholls, declared his attachment to Charlotte.  Although Patrick Brontë initially disapproved of the match, Charlotte and Arthur were married in Haworth Church on June 29, 1854.  They spent their honeymoon in Ireland, and then returned to Haworth to care for Charlotte’s aging father.</p>
                     
-                    <p>Charlotte’s letters reveal that it was a happy marriage, but sadly, her new happiness was short-lived.  In the early stages of pregnancy, Charlotte was weakened by morning sickness, caught a chill, and died on March 31, 1855.  She had been married less than a year.  At her death, Charlotte left the manuscript of her last novel <hi rend="italic">Emma</hi> unfinished. </p>
+                    <p>Charlotte’s letters reveal that it was a happy marriage, but sadly, her new happiness was short-lived.  In the early stages of pregnancy, Charlotte was weakened by morning sickness, caught a chill, and died on March 31, 1855.  She had been married less than a year.  At her death, Charlotte left the manuscript of her last novel <hi rend="italics">Emma</hi> unfinished. </p>
                     
                     
                     
@@ -4893,15 +4866,15 @@
                     
                     <p>BIBLIOGRAPHY</p>
                     
-                    <p>Alexander, Christine. “Charlotte Brontë (1816-1855).” <hi rend="italic"Oxford Dictionary of National Biography</hi>. 2004. http://www.oxforddnb.com/view/article/3523</p>
+                    <p>Alexander, Christine. “Charlotte Brontë (1816-1855).” <hi rend="italics">Oxford Dictionary of National Biography</hi>. 2004. http://www.oxforddnb.com/view/article/3523</p>
                     
-                    <p>Barker, Juliet.  <hi rend="italic">The Brontës</hi>.  Weidenfeld and Nicholson, London: 1994.</p>
+                    <p>Barker, Juliet.  <hi rend="italics">The Brontës</hi>.  Weidenfeld and Nicholson, London: 1994.</p>
                     
-                    <p>Gaskell, Elizabeth.  <hi rend="italic">The Life of Charlotte Brontë</hi>.  Ed. Angus Easson.  Oxford University Press, Oxford: 1996.</p>
+                    <p>Gaskell, Elizabeth.  <hi rend="italics">The Life of Charlotte Brontë</hi>.  Ed. Angus Easson.  Oxford University Press, Oxford: 1996.</p>
                     
-                    <p>Maynard, John.  <hi rend="italic">Charlotte Brontë and Sexuality</hi>.  Cambridge University Press, Cambridge: 1984.</p>
+                    <p>Maynard, John.  <hi rend="italics">Charlotte Brontë and Sexuality</hi>.  Cambridge University Press, Cambridge: 1984.</p>
                     
-                    <p>Miller, Lucasta.  <hi rend="italic">The Brontë Myth</hi>.  Alfred A. Knopf, New York: 2003.</p>
+                    <p>Miller, Lucasta.  <hi rend="italics">The Brontë Myth</hi>.  Alfred A. Knopf, New York: 2003.</p>
                     
                 </div2>
             </div1>
