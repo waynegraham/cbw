@@ -8,8 +8,7 @@
         <xsl:copy>
             <xsl:apply-templates select="*|@*|text()|processing-instruction()|comment()"/>
         </xsl:copy>
-    </xsl:template>   
-    
+    </xsl:template>      
     <!-- get rid of TEIform= attrs whose value match GI -->
     <!-- idea from Sebastian Rahtz's tei2tei.xsl -->
     <xsl:template match="@TEIform">        <!-- if we're on a TEIform= -->
