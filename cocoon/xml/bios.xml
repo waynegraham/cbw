@@ -6688,80 +6688,110 @@
                         <title>Missionary Modeling: The First of the Mrs. Judsons</title>
                         <bibl>Short bibliographic/origin statement</bibl>
                     </head>
-                    <p>She carried the light of civilization into the darkest corner of the world,
-                        it seemed. To those at home reading of the heroic service of <name
-                            corresp="ANN_HASSELTINE_JUDSON">Ann Hasseltine Judson</name>, the first
-                        celebrated female American missionary, it was an ideal sacrifice, to leave
-                        home and venture into this darkness armed with true belief. The work of
-                        spreading Christianity exposed her to disease, starvation and bodily
-                        suffering before she died in Burma. In biographies written during the latter
-                        half of the nineteenth century, <name corresp="ANN_HASSELTINE_JUDSON">Mrs.
-                            Judson</name> becomes a contemporary, realist saint, her martyrdom
-                            <quote>"magnanimous and sublime,"</quote> her career a public
-                        distinction (<name type="presenter">Clement</name>, 52). Her devotion to the
-                        noble cause of saving souls modeled a new way women could participate in
-                        heroic work outside of the home, though memorials often frame Ann's ministry
-                        as the helpmeet of her missionary husband, <name>Adoniram Judson</name>. George Hervey
-                        writes: <quote>"As the life of Mrs. Ann Hasseltine Judson was completely
+                    <p>She carried the <milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="trope_light_into_darkness"/>light of civilization into the darkest
+                        corner of the world, it seemed. To those at home reading of the heroic
+                        service of <name corresp="ANN_HASSELTINE_JUDSON">Ann Hasseltine
+                            Judson</name>, the first celebrated female American <milestone
+                            unit="subject" corresp="subject_type" ana="missionary"/>missionary, it
+                        was an ideal sacrifice, to leave home and venture into this darkness armed
+                        with true belief. The work of spreading Christianity <milestone
+                            unit="subject" corresp="subject_type" ana="heroine_of_religion"/>exposed
+                        her to disease, starvation and bodily suffering before she died in <rs
+                            type="places" key="nation">Burma</rs>. In biographies written during
+                            <milestone unit="subject" corresp="history" ana="era"/>the latter half
+                        of the nineteenth century, <name corresp="ANN_HASSELTINE_JUDSON">Mrs.
+                            Judson</name> becomes a <milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="analogy_female_saint"/>contemporary,
+                        realist saint, her martyrdom <quote>"magnanimous and sublime,"</quote> her
+                        career a public distinction (<name type="presenter">Clement</name>, 52). Her
+                        devotion to the noble cause of saving souls modeled a new way women could
+                        participate in heroic work outside of the home, though memorials often frame
+                        Ann's ministry as the <milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="topos_dependency"/>helpmeet of her missionary husband,
+                            <name>Adoniram Judson</name><milestone unit="subject" corresp="agents"
+                            ana="husband"/>. <name type="presenter">George Hervey</name> writes:
+                            <quote>"As the life of Mrs. Ann Hasseltine Judson was completely
                             identified with that of her heroic husband, it has been thought neither
-                            desirable nor possible to contemplate them altogether apart"
-                            (277).</quote> Yet, in Burma, surrounded by strangers, Ann would face
-                        her most significant trials apart from her husband, bereft of his protection
-                        and in fact, protecting him. </p>
+                            desirable nor possible to contemplate them altogether apart"</quote>
+                        (277). Yet, in Burma, <milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="trope_alone"/>surrounded by strangers, Ann would face her most
+                        significant trials apart from her husband, bereft of his protection and in
+                        fact, protecting him. </p>
 
-                    <p>Ann Hasseltine was born on December 22, 1789 in Bradford, Massachusetts to
-                        John and Rebecca Hasseltine. There is little factual information known about
-                        Ann's childhood; the biographies conclude that she was not remarkably
-                        different from other girls her age. This common beginning makes her an
-                        accessible model of the heroic distinction any girl can attain with resolve.
-                        Walter Wyeth's memorial, written over sixty years after Ann's death,
-                        reintroduces her story to public attention in order to inspire a missionary
-                        impulse in readers. Yet Wyeth suggests she did not begin as a person to
-                        emulate: “She cannot be said to have been a genius, and no example may be
-                        made of her in this respect to help or hinder any young person who reads the
-                        story of her youth” (12). Such ordinariness might stand in the way of the
-                        role-modeling purpose of her story. Instead, it allows the reader to
-                        recognize herself in the heroine and imagine taking the same steps that led
-                        to a distinguished name in history. As S.W. Williams, the editor of a
-                        contemporary collected biography notes: “Biography is at once the most
-                        useful and the most entertaining species of literature. It is a mirror into
-                        which all may look and see more or less clearly the reflection of their own
-                        images. . . the history of one is the possible history of all” (preface).
-                        Commendable examples become most effective through such mirroring between
-                        the inspirational figure and the more common reader.</p>
+                    <p><name corresp="ANN_HASSELTINE_JUDSON">Ann Hasseltine</name> was <rs
+                            type="life_events" key="birth">born</rs> on <date>December 22,
+                            1789</date> in <rs type="places" key="village">Bradford,
+                            Massachusetts</rs> to <name>John</name><milestone unit="subject"
+                            corresp="agents" ana="father"/> and <name>Rebecca
+                            Hasseltine</name><milestone unit="subject" corresp="agents" ana="mother"
+                        />. There is little factual information known about Ann's childhood; the
+                        biographies conclude <milestone unit="subject" corresp="genre_conventions"
+                            ana="stable_condition"/>that she was not remarkably different from other
+                        girls her age. This common beginning makes her an accessible model of the
+                        heroic distinction any girl can attain with resolve. <name type="presenter"
+                            >Walter Wyeth's</name> memorial, written over sixty years after Ann's
+                        death, reintroduces her story to public attention in order to <milestone
+                            unit="subject" corresp="narrative_rhetoric" ana="example"/>inspire a
+                        missionary impulse in readers. Yet Wyeth suggests she did not begin as a
+                        person to emulate: <quote>"She cannot be said to have been a genius, and no
+                            example may be made of her in this respect to help or hinder any young
+                            person who reads the story of her youth"</quote> (12). Such ordinariness
+                        might stand in the way of the role-modeling purpose of her story. Instead,
+                        it allows the reader to recognize herself in the heroine and imagine taking
+                        the same steps that led to a distinguished name in history. As <name>S.W.
+                            Williams</name>, the editor of a contemporary collected biography
+                        notes:</p>
+                    <p rend="block"><milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="example"/>Biography is at once the most useful and the most
+                        entertaining species of literature. It is a mirror into which all may look
+                        and see more or less clearly the reflection of their own images...the
+                        history of one is the possible history of all. (preface)</p>
+                    <p>Commendable examples become most effective through such mirroring between the
+                        inspirational figure and the more common reader.</p>
 
                     <p>As a young adolescent, Ann enjoyed the amusements and entertainments that
                         most lively girls her age pursue. Her disposition was active and restless,
-                        such that her mother described it as “rambling” (qtd. in Knowles, 5).
-                        However, she also showed self-discipline when it was required of her, and
-                        applied herself assiduously to her studies at Bradford Academy. In her
-                        aptitude for learning and dedication to mental improvement, education was
-                        the first sphere in which Ann markedly stood out from her peers. Following a
+                        such that her mother described it as <rs type="narrative_elements"
+                            key="speech_others">"rambling"</rs> (qtd. in <name type="presenter"
+                            >Knowles</name>, 5). However, she also showed self-discipline when it
+                        was required of her, and applied herself assiduously to her <milestone
+                            unit="subject" corresp="life_events" ana="education"/> studies at <rs
+                            type="places" key="school">Bradford Academy</rs>. In her aptitude for
+                        learning and dedication to mental improvement, education was the first
+                        sphere in which Ann markedly stood out from her peers. <milestone
+                            unit="subject" corresp="narrative_rhetoric" ana="prophecy"/>Following a
                         favorite method in collective biography of reading gleams of a heroine's
-                        future greatness in her developmental years, Frank Goodrich focuses on her
-                        determined approach to education: “Here [at Bradford Academy] she first
-                        displayed those qualities which so distinguished her in later life—strength
-                        of mind, precision of thought, and indefatigable perseverance” (343-4). Ann
-                        Hasseltine’s earnest self-improvement, in Goodrich’s account, implies that a
-                        reader similarly detemined might rise to eminence from the common level.</p>
+                        future greatness in her developmental years, <name type="presenter">Frank
+                            Goodrich</name> focuses on her determined approach to education:
+                            <quote>"Here [at Bradford Academy] she first displayed <milestone
+                                unit="subject" corresp="life_events" ana="talent"/>those qualities
+                            which so distinguished her in later life—strength of mind, precision of
+                            thought, and indefatigable perseverance"</quote> (343-4). Ann
+                        Hasseltine’s earnest self-improvement, in <name type="presenter"
+                            >Goodrich’s</name> account, <milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="example"/>implies that a reader
+                        similarly detemined might rise to eminence from the common level.</p>
 
                     <p>Though biographies agree on the portrait of a remarkably dedicated student,
                         the young girl was nevertheless attracted by the worldly pleasures her peers
                         enjoyed—balls, plays, assemblies and the company of admiring young men. In
                         her journal, she acknowledged her own dissipation: the concerns of her
                         toilet for the evening's diversions took precedence over moral
-                        self-reflection. Goodrich suggests that she threw herself into these
-                        pastimes as if knowing she would soon renounce them: “Her gaiety so far
-                        surpassed that of her friends, as to suggest a vague apprehension that she
-                        had but a short time in which to pursue her career of folly, and would be
-                        suddenly cut off” (344). Here there is a prediction of another favorite
-                        trope in a heroine's narrative—the moment of redirection or conversion from
-                        sinful pursuits onto an unwavering path toward greatness. Wyeth takes full
-                        advantage of this method in biography: “One having a volatile disposition
-                        may do otherwise than run in the way of evil, and with alacrity may pursue
-                        the good; and a habit of vivacious conduct, when sanctified, will be
-                        productive of virtuous deeds to a surprising extent” (14, emphasis
-                        added).</p>
+                        self-reflection. <name type="presenter">Goodrich</name> suggests that she
+                        threw herself into these pastimes as if knowing she would soon renounce
+                        them:</p>
+                    <p rend="block">Her gaiety so far surpassed that of her friends, as to suggest a
+                        vague apprehension that she had but a short time in which to pursue her
+                        career of folly, and would be suddenly cut off. (344)</p>
+                    <p>Here there is a prediction of another favorite trope in a heroine's
+                        narrative—the moment of redirection or conversion from sinful pursuits onto
+                        an unwavering path toward greatness. <name type="presenter">Wyeth</name>
+                        takes full advantage of this method in biography:</p>
+                    <p rend="block">One having a volatile disposition may do otherwise than run in
+                        the way of evil, and with alacrity may pursue the good; and a habit of
+                        vivacious conduct, when sanctified, will be productive of virtuous deeds to
+                        a surprising extent (14, emphasis added)</p>
 
                     <p>A noteworthy detail in many accounts of the dissipated phase of Ann
                         Hasseltine’s development ties her to another heroine celebrated in the
