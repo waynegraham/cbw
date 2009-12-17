@@ -6668,20 +6668,21 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
-                            <date>1789</date>
+                            <label ana="birth">Birth</label> Bradford, Massachusetts
+                            <date>December 22, 1789</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label ana="marriage">Marriage</label>Wed Adoniram Judson<date>February 5, 1812</date>
                         </item>
+                        <item> <label ana="vocation">Mission</label>Departed to estabish Christian mission in Burma<date>1812</date></item>
+                        <item><label ana="ordeal">Ordeal</label>Imprisonment of Rev. Judson <date>1824-1826</date></item>
                         <item>
                             <label>Death</label>
                             <date>1826</date>
                         </item>
                     </list>
                 </div2>
-                <div2 n="1" id="LOV_ANN_HASSELTINE_JUDSON_BIO" type="bio">
+                <div2 n="1" id="CBW_TEAM_ANN_HASSELTINE_JUDSON_BIO" type="bio">
                     <docAuthor>Julia Fuller</docAuthor>
                     <docDate>date</docDate>
                     <head>
