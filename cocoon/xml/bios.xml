@@ -6726,27 +6726,29 @@
                             corresp="agents" ana="father"/> and <name>Rebecca
                             Hasseltine</name><milestone unit="subject" corresp="agents" ana="mother"
                         />. There is little factual information known about Ann's childhood; the
-                        biographies conclude <milestone unit="subject" corresp="genre_conventions"
-                            ana="stable_condition"/>that she was not remarkably different from other
-                        girls her age. This common beginning makes her an accessible model of the
-                        heroic distinction any girl can attain with resolve. <name type="presenter"
-                            >Walter Wyeth's</name> memorial, written over sixty years after Ann's
-                        death, reintroduces her story to public attention in order to <milestone
-                            unit="subject" corresp="narrative_rhetoric" ana="example"/>inspire a
-                        missionary impulse in readers. Yet Wyeth suggests she did not begin as a
-                        person to emulate: <quote>"She cannot be said to have been a genius, and no
-                            example may be made of her in this respect to help or hinder any young
-                            person who reads the story of her youth"</quote> (12). Such ordinariness
-                        might stand in the way of the role-modeling purpose of her story. Instead,
-                        it allows the reader to recognize herself in the heroine and imagine taking
-                        the same steps that led to a distinguished name in history. As <name>S.W.
-                            Williams</name>, the editor of a contemporary collected biography
-                        notes:</p>
-                    <p rend="block"><milestone unit="subject" corresp="narrative_rhetoric"
-                            ana="example"/>Biography is at once the most useful and the most
-                        entertaining species of literature. It is a mirror into which all may look
-                        and see more or less clearly the reflection of their own images...the
-                        history of one is the possible history of all. (preface)</p>
+                        biographies conclude <milestone unit="subject" corresp="narrative_elements"
+                        />that she was not remarkably different from other girls her age. This
+                        common beginning makes her an accessible model of the heroic distinction <hi
+                            rend="italics">any</hi> girl can attain with resolve. <name
+                            type="presenter">Walter Wyeth's</name> memorial, written over sixty
+                        years after Ann's death, reintroduces her story to public attention in order
+                        to <milestone unit="subject" corresp="narrative_rhetoric" ana="example"
+                        />inspire a missionary impulse in readers. Yet Wyeth suggests she did not
+                        begin as a person to emulate: <quote>"She cannot be said to have been a
+                            genius, and no example may be made of her in this respect to help or
+                            hinder any young person who reads the story of her youth"</quote> (12).
+                        Such ordinariness might stand in the way of the role-modeling purpose of her
+                        story. Instead, it allows the reader to recognize herself in the heroine and
+                        imagine taking the same steps that led to a distinguished name in history.
+                        As <name>S.W. Williams</name>, the editor of a contemporary collected
+                        biography notes:</p>
+                    <p rend="block">
+                        <rs type="genre_conventions" ana="example">Biography is at once the most
+                            useful and the most entertaining species of literature. It is a mirror
+                            into which all may look and see more or less clearly the reflection of
+                            their own images...the history of one is the possible history of all.
+                            (preface)</rs>
+                    </p>
                     <p>Commendable examples become most effective through such mirroring between the
                         inspirational figure and the more common reader.</p>
 
@@ -6775,74 +6777,99 @@
 
                     <p>Though biographies agree on the portrait of a remarkably dedicated student,
                         the young girl was nevertheless attracted by the worldly pleasures her peers
-                        enjoyed—balls, plays, assemblies and the company of admiring young men. In
-                        her journal, she acknowledged her own dissipation: the concerns of her
+                        enjoyed—balls, plays, assemblies and the company of admiring young men.<rs
+                            type="narrative_elements" key="quotation_writing_by_subject"> In her
+                            journal, she acknowledged her own dissipation:</rs> the concerns of her
                         toilet for the evening's diversions took precedence over moral
-                        self-reflection. <name type="presenter">Goodrich</name> suggests that she
-                        threw herself into these pastimes as if knowing she would soon renounce
-                        them:</p>
+                        self-reflection. <name type="presenter">Goodrich</name> suggests <rs
+                            type="narrative_elements" key="focalization"> that she threw herself
+                            into these pastimes as if knowing she would soon renounce them:</rs></p>
                     <p rend="block">Her gaiety so far surpassed that of her friends, as to suggest a
                         vague apprehension that she had but a short time in which to pursue her
                         career of folly, and would be suddenly cut off. (344)</p>
                     <p>Here there is a prediction of another favorite trope in a heroine's
-                        narrative—the moment of redirection or conversion from sinful pursuits onto
-                        an unwavering path toward greatness. <name type="presenter">Wyeth</name>
-                        takes full advantage of this method in biography:</p>
-                    <p rend="block">One having a volatile disposition may do otherwise than run in
-                        the way of evil, and with alacrity may pursue the good; and a habit of
-                        vivacious conduct, when sanctified, will be productive of virtuous deeds to
-                        a surprising extent (14, emphasis added)</p>
+                            narrative—<rs type="genre_conventions" key="discriminated_event">the
+                            moment of redirection or conversion from sinful pursuits onto an
+                            unwavering path toward greatness.</rs><name type="presenter"
+                            >Wyeth</name> takes full advantage of this method in biography:</p>
+                    <p rend="block"><milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="moral"/>One having a volatile disposition may do otherwise than run
+                        in the way of evil, and with alacrity may pursue the good; and a habit of
+                        vivacious conduct, <hi rend="italics">when sanctified</hi>, will be
+                        productive of virtuous deeds to a surprising extent. (14, emphasis
+                        added)</p>
 
-                    <p>A noteworthy detail in many accounts of the dissipated phase of Ann
-                        Hasseltine’s development ties her to another heroine celebrated in the
-                        annals of collected biography: Ann was said to have received the first
-                        conscious glimpse of the eternal peril in which she had placed her soul when
-                        she incidentally picked up Hannah More's Strictures on Female Education and
-                        her eyes providentially fell upon a quote from the Bible: “She that liveth
-                        in pleasure is dead while she liveth” (qtd. in Wyeth, 16). The repetition of
-                        this detail exposes the mechanics of the mirroring technique biographers
-                        use: Ann's introspection is sparked by something she reads, modeling the
-                        effect her own story is intended to have upon the reader of a collected
-                        biography. While this incident was not an instantaneous moment of conversion
-                        for Ann (she had several relapses into pleasure-seeking) it is significant
-                        for revealing the work being done behind the biography in terms of crafting
-                        patterns for other women to follow.</p>
+                    <p>A noteworthy detail in many accounts of the <rs type="narrative_elements"
+                            key="temporal_effects">dissipated phase</rs> of Ann Hasseltine’s
+                        development ties her to another heroine celebrated in the annals of
+                        collected biography: <rs type="narrative_elements" key="anecdote"/>Ann was
+                        said to have received the first <rs type="narrative_elements"
+                            key="focalization">conscious glimpse</rs> of the eternal peril in which
+                        she had placed her soul when she incidentally picked up <name
+                            corresp="HANNAH_MORE">Hannah More's</name>
+                        <title>
+                            <hi rend="italics">Strictures on Female Education</hi>
+                        </title> and her eyes providentially fell upon a <rs
+                            type="narrative_element" key="allusion">quote from the
+                            Bible:</rs><quote>"She that liveth in pleasure is dead while she
+                            liveth"</quote> (qtd. in Wyeth, 16). The <rs type="narrative_element"
+                            >repetition</rs> of this detail exposes the mechanics of the mirroring
+                        technique biographers use: <milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="example"/>Ann's introspection is
+                        sparked by something she reads, modeling the effect her own story is
+                        intended to have upon the reader of a collected biography. While this
+                        incident was not an instantaneous moment of conversion for Ann (she had
+                        several relapses into pleasure-seeking) it is significant for revealing the
+                        work being done behind the biography in terms of crafting patterns for other
+                        women to follow.</p>
 
-                    <p>The conversion narrative also serves as a means for biographers to do away
-                        with any unfitting characteristics present in youth, which, retained into
-                        adulthood, would undermine her example as a heroine. Thus Wyeth writes:
-                        “When Miss Hasseltine became a subject of the Spirit's work, her nature was
-                        as fully moved as previously when some suggestion of earthly pleasure was
-                        presented. Even more, for she was susceptible to an influence of a high
-                        character in greater degree than she was to any one of inferior origin”
-                        (14). So complete was the conversion that Ann herself becomes, in turn, “an
-                        influence of a high character” for the readers of her biography. Some
-                        biographies don't acknowledge her youthful folly—in these works, she was
-                        always already an infallible paragon, though at first waiting to discover
-                        the avenue for her heroic work. At age seventeen, this avenue was paved by
-                        religion: Ann “publicly professed herself a disciple of Christ” when she
-                        became a member of the Congregational Church in Bradford on September, 14th
-                        1806 (Goodrich, 345).</p>
+                    <p>The <milestone unit="subject" corresp="genre_conventions"
+                            ana="discriminated_event"/>conversion narrative also serves as a means
+                        for biographers to do away with any unfitting characteristics present in
+                        youth, which, retained into adulthood, would undermine her example as a
+                        heroine. Thus Wyeth writes:</p>
+                    <p rend="block">When Miss Hasseltine became <rs type="life_event" key="vocation"
+                            >a subject of the Spirit's work,</rs> her nature was as fully moved as
+                            <milestone unit="subject" corresp="narrative_elements"
+                            ana="temporal_effects"/> previously when some suggestion of earthly
+                        pleasure was presented. Even more, for she was susceptible to an influence
+                        of a high character in greater degree than she was to any one of inferior
+                        origin. (14)</p>
+                    <p><milestone unit="subject" corresp="narrative_rhetoric" ana="example"/>So
+                        complete was the conversion that Ann herself becomes, in turn, "an influence
+                        of a high character" for the readers of her biography. Some biographies
+                        don't acknowledge her youthful folly—in these works, she was always already
+                        an infallible paragon, though at first waiting to discover the avenue for
+                        her heroic work. <milestone unit="subject" corresp="life_events"
+                            ana="religion"/>At age seventeen, this avenue was paved by religion: Ann
+                            <rs type="narrative_elements" key="speech_subject">"publicly professed
+                            herself a disciple of Christ"</rs> when she became a member of the <rs
+                            type="history" key="church">Congregational Church</rs> in <rs
+                            type="places" key="villiage">Bradford</rs> on <date>September 14,
+                            1806</date> (Goodrich, 345).</p>
 
-                    <p>Another sign of Ann's development towards the work of Christian ministry for
-                        which she would become famous is signaled early in 1807, when she started a
-                        school for local children. She instructed them in the manner of her own
+                    <p><milestone unit="subject" corresp="life_events" ana="vocation"/>Another sign
+                        of Ann's development towards the work of Christian ministry for which she
+                        would become famous is signaled early in <date>1807,</date> when she started
+                        a school for local children. She instructed them in the manner of her own
                         education and also tried to impart upon them the importance of leading a
-                        religious life. On the first day she taught, Ann began class by reading
-                        aloud a prayer, “astonishing the little creatures by such a beginning, as
-                        probably some of them had never heard a prayer before” (qtd. in Goodrich,
-                        346). Soon, she was teaching children from other towns, traveling to hold
-                        classes in Salem, Haverhill and Newbury (Goodrich, 346). By exporting her
-                        efforts to educate others in Christianity, she prefigured her later
-                        missionary work. Similarly, Ann's biographer in the collected work Queenly
-                        Women, Crowned and Uncrowned, states: “It was well said of her that the zeal
-                        which made her a missionary abroad first made a missionary of her at home. .
-                        . On the Sabbath it was her custom to fix her mind upon some one of her
-                        friends, take their arm, and, as they walked home from Church, endeavor to
-                        stir them up to seek Christ” (58). The missionary impulse in Ann was
-                        stirred—in a short time, it would not be friends whom she engaged to seek
-                        Christ, but strange “heathens” (a term ubiquitously used during the
-                        imperialist era) in the distant land of Burma. </p>
+                        religious life. <milestone unit="subject" corresp="narrative_elements"
+                            ana="anecdote"/>On the first day she taught, Ann began class by reading
+                        aloud a prayer, <rs type="narrative_elements" key="speech_subject"
+                            >"astonishing the little creatures by such a beginning, as probably some
+                            of them had never heard a prayer before"</rs> (qtd. in Goodrich, 346).
+                        Soon, she was teaching children from other towns, traveling to hold classes
+                        in Salem, Haverhill and Newbury (Goodrich, 346). By exporting her efforts to
+                        educate others in Christianity, she prefigured her later missionary work.
+                        Similarly, Ann's biographer in the collected work Queenly Women, Crowned and
+                        Uncrowned, states: “It was well said of her that the zeal which made her a
+                        missionary abroad first made a missionary of her at home. . . On the Sabbath
+                        it was her custom to fix her mind upon some one of her friends, take their
+                        arm, and, as they walked home from Church, endeavor to stir them up to seek
+                        Christ” (58). The missionary impulse in Ann was stirred—in a short time, it
+                        would not be friends whom she engaged to seek Christ, but strange “heathens”
+                        (a term ubiquitously used during the imperialist era) in the distant land of
+                        Burma. </p>
 
                     <p>In 1810, America did not yet have an organized Society to promote foreign
                         mission work, although several Christian associations already existed to
@@ -7061,23 +7088,27 @@
                         appears in the background of portraits that were engraved after her death.
                         In April of 1827, two-year-old Maria was laid to rest by her mother's
                         side.</p>
-                    <p>The first American woman to dedicate herself to the work of saving
-                            <quote>"heathens,"</quote> early biographers also remember Ann Judson as
-                        a heroine for saving the imprisoned missionaries. Goodrich writes:
-                            <quote>"She seems to have been providentially designed as the <hi
-                                rend="italics">ministering angel</hi> of the Birman prison"</quote>
-                        (367, emphasis added). She is praised for her devoted ministry both to the
-                        Burmese natives and to her husband while he was held captive. Both she and
-                        her husband advocated their cause through writings for religious
-                        publications and through lectures on return visits. These representations
-                        made them famous and served as a kind of mission back home that arguably had
-                        more effect than any efforts abroad. The example she set in bearing the
-                        civilizing torch of Christian grace into dark, foreign spaces was held up by
-                        collected biographers as a model of ministry for other women to follow. The
-                        success of this enterprise in biographical patterning is immediately
-                        apparent in relation to Ann Judson: after her death, two more women, Sarah
-                        Boardman Judson and in turn Emily Chubbuck Judson would directly emulate her
-                        missionary footsteps as wives of Adoniram Judson.</p>
+                    <p>The first American woman to dedicate herself to the work of saving <rs
+                            type="narrative_elements" key="description">"heathens,"</rs> early
+                        biographers also remember Ann Judson as a heroine for saving the imprisoned
+                        missionaries. Goodrich writes: <quote>"She seems to have been providentially
+                            designed as the <hi rend="italics">ministering angel</hi> of the Birman
+                            prison"</quote> (367, emphasis added). She is praised for her devoted
+                        ministry both to the Burmese natives and to her husband while he was held
+                        captive. Both she and her husband advocated their cause through writings for
+                        religious publications and through lectures on return visits. These
+                        representations made them famous and served as a kind of mission back home
+                        that arguably had more effect than any efforts abroad. The example she set
+                        in bearing the <milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="trope_light_into_darkness"/>civilizing torch of Christian grace
+                        into dark, foreign spaces was held up by collected biographers as a model of
+                        ministry for other women to follow.<milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="topos_influence"/> The success of this
+                        enterprise in biographical patterning is immediately apparent in relation to
+                        Ann Judson: after her death, two more women, <name>Sarah Boardman
+                            Judson</name> and in turn <name>Emily Chubbuck Judson</name> would
+                        directly emulate her missionary footsteps as wives of <name>Adoniram
+                            Judson</name>.</p>
                     <p>Works Cited</p>
                     <note>Bolton, Sarah Knowles. <title><hi rend="italics">Famous Types of
                                 Womanhood</hi>.</title> New York: T. Y. Crowell, 1886; 1892.</note>
