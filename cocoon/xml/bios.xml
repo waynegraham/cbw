@@ -4462,47 +4462,60 @@
                         nineteenth century biographies rather conspicuously suppressed. </p>
                     <p><milestone unit="subject" corresp="life_events" ana="birth"/><name
                             corresp="ELIZABETH_FRY">Elizabeth Gurney</name> was born <date>May 21,
-                            1780</date> in a distinguished home on Magdalen Street in Norwich, an
-                        important center for England's prosperous cloth trade. <milestone
-                            unit="subject" corresp="life_events" ana="family"/>Known in the family
-                        as <name corresp="ELIZABETH_FRY">Betsy</name>, she was the fourth of twelve
-                        children born to <name>John Gurney</name><milestone unit="subject"
-                            corresp="agents" ana="father"/> (1749-1809) and Catherine Bell
-                        (1754-1792). Her father was the heir in a family of successful wool
-                        merchants and a partner in Gurneys Bank. Socially established by wealth,
-                        both John and Catherine, great-granddaughter of the Quaker theologian Robert
-                        Barclay, were from old families in the Society of Friends. Popular and
-                        socially mobile within the community of Norwich, they followed the broad
-                        tenets of their inherited Quaker faith, but also enjoyed intellectual
-                        company and cultural pursuits outside of the ascetic restrictions of Plain
-                        Quakerism. The Gurneys attended weekly Meeting and Catherine read passages
-                        from the Bible to her children daily, while also instructing them in a
-                        worldly academic curriculum which included French, Latin, natural sciences,
-                        mathematics, modern history, geography, and the arts (Rose, 6).</p>
-                    <p>Collective biographies before 1940 unanimously describe the fair-haired,
-                        blue-eyed little Betsy as a child of angelic temperament, based on a detail
-                        from her mother's private correspondence: <rs corresp="narrative_elements"
-                            ana="quotation_letter">"My dove-like Betsy scarcely offends."</rs> She
-                        enjoyed taking walks in the garden with her mother and joined Catherine when
-                        she visited neighboring cottages to carry them gifts of food—the customs of
-                        charity in that era and after. <name type="presenter">Clara Balfour's</name>
-                        collected biography lauds the "moral heroism" of Elizabeth Fry, a virtue she
-                        cites as being inherent to Betsy's nature from her earliest years: </p>
-                    <p rend="block"><milestone unit="subject" corresp="narrative_rhetoric"
-                            ana="prophecy"/>[She] exhibited in childhood sweet indications of the
-                        excellence that would distinguish her riper years. Entirely free from
-                        selfishness, her great delight was to promote the happiness of those around
-                        her; to this end her sweet temper, vivacity, and intelligence must have
-                        greatly contributed. (339-40)</p>
-                    <p>In her more recent biography, <name type="presenter">June Rose</name>
-                        diagnoses an aspect of sullenness in young Betsy's personality by probing
-                        her close attachment to her mother:</p>
-                    <p rend="block">From her birth in 1780 until she was six, a new brother or
-                        sister arrived every year…. Betsy obviously felt a deep sense of unease,
-                        although Catherine Gurney tried conscientiously to <rs
+                            1780</date> in a distinguished home on <rs type="places" key="street"
+                            >Magdalen Street</rs> in <rs type="places" key="town">Norwich</rs>, an
+                        important center for <rs type="places" key="nation">England's</rs>
+                        prosperous cloth trade. <milestone unit="subject" corresp="life_events"
+                            ana="family"/>Known in the family as <name corresp="ELIZABETH_FRY"
+                            >Betsy</name>, she was the fourth of twelve children born to <name>John
+                            Gurney</name><milestone unit="subject" corresp="agents" ana="father"/>
+                            (<dateRange from="1749-01-01" to="1809-12-31">1749-1809</dateRange>) and
+                            <name>Catherine Bell</name><milestone unit="subject" corresp="agents"
+                            ana="mother"/> (<dateRange from="1754-01-01" to="1792-12-31"
+                            >1754-1792</dateRange>). Her father was the heir in a family of
+                        successful wool merchants and a partner in Gurneys Bank. Socially
+                        established by wealth, both John and Catherine, great-granddaughter of the
+                            <rs type="history" key="church">Quaker</rs> theologian <name>Robert
+                            Barclay</name>, were from old families in the Society of Friends.
+                        Popular and socially mobile within the community of Norwich, they followed
+                        the broad tenets of their inherited Quaker faith, but also enjoyed
+                        intellectual company and cultural pursuits outside of the ascetic
+                        restrictions of Plain Quakerism. <milestone unit="subject"
+                            corresp="life_events" ana="education"/>The Gurneys attended weekly
+                        Meeting and Catherine read passages from the Bible to her children daily,
+                        while also instructing them in a worldly academic curriculum which included
+                        French, Latin, natural sciences, mathematics, modern history, geography, and
+                        the arts (Rose, 6).</p>
+                    <p>Collective biographies before <date>1940</date> unanimously describe <rs
+                            corresp="narrative_rhetoric" ana="topos_appearance">the fair-haired,
+                            blue-eyed little Betsy as a child of angelic temperament</rs>, based on
+                        a detail from her mother's private correspondence: <rs
+                            corresp="narrative_elements" key="quotation_letter">"My dove-like Betsy
+                            scarcely offends."</rs> She enjoyed taking walks in the garden with her
+                        mother and joined Catherine when she visited neighboring cottages to carry
+                        them gifts of food—the customs of charity in that era and after. <name
+                            type="presenter">Clara Balfour's</name> collected biography lauds the
+                        "moral heroism" of Elizabeth Fry, a virtue she cites as being inherent to
+                        Betsy's nature from her earliest years: </p>
+                    <p rend="block"><rs corresp="narrative_rhetoric" ana="prophecy">[She] exhibited
+                            in childhood sweet indications of the excellence that would distinguish
+                            her riper years. Entirely free from selfishness, her great delight was
+                            to promote the happiness of those around her; to this end her sweet
+                            temper, vivacity, and intelligence must have greatly contributed.</rs>
+                        (339-40)</p>
+                    <p>In her more recent biography, <name type="presenter">June
+                            Rose</name><milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="topos_dependency"/> diagnoses an aspect of sullenness in young
+                        Betsy's personality by probing her close attachment to her mother:</p>
+                    <p rend="block"><rs corresp="narrative_elements" key="temporal_effects">From her
+                            birth in <date>1780</date> until she was six, a new brother or sister
+                            arrived every year….</rs>
+                        <rs corresp="narrative_elements" key="focalization">Betsy obviously felt a
+                            deep sense of unease</rs>, although <rs type="agents" key="mother"
+                            >Catherine Gurney</rs> tried conscientiously to <rs
                             corresp="narrative_elements" ana="quotation_letter">"enjoy each child
                             individually."</rs>(4)</p>
-                    <p>Betsy also was an acutely imaginative child sensitive to her mother's gloomy
+                    <p>Betsy also was an acutely imaginative child, sensitive to her mother's gloomy
                         dictation from the Old Testament. Her personal journal—Elizabeth Fry was a
                         consummate diarist throughout her life—shows a child (one amongst ten now)
                         desperate to mitigate or control her fears, wishing that <rs
@@ -4510,29 +4523,34 @@
                             large walls might crush us all together that we might die at once and
                             thus avoid the misery of each other's death"</rs> (###). Her nervousness
                         manifested in a terror of water, bathing, sudden noises and significantly,
-                        the dark. Betsy languished in “delicate health” and was unable to focus on
-                        her lessons, a marked outcast from her lively and adept siblings. She
-                        recalls: <rs corresp="narrative_elements" ana="quotation_writing_by_subject"
-                            >"Having the name of being stupid, really tended to make me so and
-                            discouraged my efforts to learn"</rs> (###). Her resistance and
-                        obstinacy became pronounced: <rs corresp="narrative_elements"
-                            ana="quotation_writing_by_subject">"If I am bid to do a thing, my spirit
-                            revolts; if I am asked to do a thing I am willing"</rs> (###). Yet it is
-                        worth noting that years later, her system of discipline at <rs type="places"
-                            key="prison">Newgate</rs> would rest upon these two insights: Treating
-                        inmates as subhuman only perpetuates their degradation; and, most female
-                        prisoners will agree to a system of self-reformation if asked.</p>
+                        the dark. <milestone unit="subject" corresp="life_events"
+                            ana="illness_or_health"/>Betsy languished in “delicate health” and was
+                        unable to focus on her lessons, a marked outcast from her lively and adept
+                        siblings. She recalls: <rs corresp="narrative_elements"
+                            key="quotation_writing_by_subject">"Having the name of being stupid,
+                            really tended to make me so and discouraged my efforts to learn"</rs>
+                        (###). Her resistance and obstinacy became pronounced: <rs
+                            corresp="narrative_elements" key="quotation_writing_by_subject">"If I am
+                            bid to do a thing, my spirit revolts; if I am asked to do a thing I am
+                            willing"</rs> (###). Yet it is worth noting that years later, her system
+                        of discipline at <rs type="places" key="prison">Newgate</rs> would rest upon
+                        these two insights: Treating inmates as subhuman only perpetuates their
+                        degradation; and, most female prisoners will agree to a system of
+                        self-reformation if asked.</p>
                     <p>If the collected biographies acknowledge Betsy's less-than-angelic side, they
                         use the same method of positive spin I employed in the previous sentence:
                         the suffering inspires her mission to help other sufferers. This tradition
-                        of cleaned-up persona-crafting was begun by her daughters, Katherine and
-                        Rachel, who edited her memoir. Large sections of journal entries are
-                        evaluated in a conspicuous effort to frame their mother's character in the
-                        best light: In contemplating her peculiar gifts, it is wonderful to observe
+                        of cleaned-up persona-crafting was begun by her daughters, <name
+                            type="presenter">Katherine</name> and <name type="presenter"
+                            >Rachel</name><milestone unit="subject" corresp="agents"
+                            ana="child_children"/>, who edited her memoir. Large sections of journal
+                        entries are evaluated in a conspicuous effort to frame their mother's
+                        character in the best light:</p>
+                    <p rend="block">In contemplating her peculiar gifts, it is wonderful to observe
                         the adaptation of her natural qualities to her future career; and how,
                         through the transforming power of divine grace, each one became subservient
                         to the highest purposes. Her natural timidity changed to the opposite virtue
-                        of courage. . . The touch of obstinacy she displayed as a child, became that
+                        of courage...The touch of obstinacy she displayed as a child, became that
                         finely tempered decision and firmness, which enabled her to execute her
                         projects for the good of her fellow creatures. That which was in childhood
                         something not unlike cunning, ripened into the most uncommon penetration,
@@ -4540,33 +4558,38 @@
                         Her disinclination to the common methods of learning, appeared to be
                         connected with much original thought, and a mind acting on its own
                         resources; for she certainly always possessed more genius and ready, quick
-                        comprehension, than application or argument. Recasting Betsy's early flaws
-                        into tests of fortitude allowed editors to construct the adult paragon,
-                        Elizabeth Fry. As June Rose points out—from extensive research of original
-                        Fry manuscripts—her daughters also corrected the egregious spelling and
+                        comprehension, than application or argument. (###)</p>
+                    <p>Recasting Betsy's early flaws into tests of fortitude allowed editors to
+                        construct the adult paragon, Elizabeth Fry. As <name type="presenter">June
+                            Rose</name> points out—from extensive research of original Fry
+                        manuscripts—her daughters also corrected the egregious spelling and
                         grammatical errors that followed from her resistance to instruction. </p>
-                    <p>When Betsy was thirteen, her beloved mother died. She sank into a deeper
-                        sense of isolation and depression. The family was affected by her bouts of
-                        extreme moodiness; consulting siblings’ journals, Rose finds an entry by
-                        Louisa that is indicative of the tension in the Gurney household: “We are
-                        all afraid of her now, which is very shocking. . . . Dearest Betsy! She
-                        seems to have no one for her friend, for none of us are intimate with her”
+                    <p><milestone unit="subject" corresp="life_events" ana="death"/>When Betsy was
+                        thirteen, her beloved mother died. She sank into a deeper sense of isolation
+                        and depression. The family was affected by her bouts of extreme moodiness;
+                        consulting siblings’ journals, Rose finds an entry by Louisa that is
+                        indicative of the tension in the Gurney household: <rs
+                            corresp="narrative_elements" key="quotation_documentary">"We are all
+                            afraid of her now, which is very shocking...Dearest Betsy! She seems to
+                            have no one for her friend, for none of us are intimate with her</rs>
                         (12). Betsy appears to have turned inward in her need for a confidante; her
                         journal records acute introspection. In part, this became an obsession with
-                        self-improvement. John Gurney was particularly liberal as the single parent
-                        of his family, allowing his children to engage in what entertainments they
-                        pleased and mix in ideologically diverse company. All seven of the Gurney
-                        daughters were attractive and graceful; Betsy received her share of
-                        attention, not all of which she disliked. Yet every pleasure recorded in her
-                        journal is closely followed by highly critical self-scrutiny: “Without
-                        passions of any kind how different I should be. I would not give them up,
-                        but I should like to have them under subjection. . . I believe by not
-                        governing myself in little things, I may by degrees become a despicable
-                        character, and a curse to society; therefore, my doing wrong is of
-                        consequence to others, as well as myself” (emphasis added). In her recent
-                        biography, June Rose reveals that these passions drove Elizabeth Fry
-                        throughout her life, yet short collective biographies account for this
-                        temperamental conflict as a her development toward religious devotion.</p>
+                        self-improvement. <name type="agents" key="father">John Gurney</name> was
+                        particularly liberal as the single parent of his family, allowing his
+                        children to engage in what entertainments they pleased and mix in
+                        ideologically diverse company. All seven of the Gurney daughters were
+                        attractive and graceful; Betsy received her share of attention, not all of
+                        which she disliked. Yet every pleasure recorded in her journal is closely
+                        followed by highly critical self-scrutiny:</p>
+                    <p rend="block">Without passions of any kind how different I should be. I would
+                        not give them up, but I should like to have them under subjection...I
+                        believe by not governing myself in little things, I may by degrees become a
+                        despicable character, and a curse to society; therefore, my doing wrong is
+                        of consequence to others, as well as myself. (###, emphasis added)</p>
+                    <p>In her recent biography, June Rose reveals that these passions drove
+                        Elizabeth Fry throughout her life, yet short collective biographies account
+                        for this temperamental conflict as a her development toward religious
+                        devotion.</p>
                     <p>At age seventeen, Betsy had yet to connect her struggle to improve herself
                         with distinct ideas about religion; she was still far from the heroine
                         revered in contemporary biographies as a devoted Plain Quaker. Many editors
@@ -7069,10 +7092,11 @@
                 </div2>
                 <div2 n="1" id="CBW_TEAM_ANN_HASSELTINE_JUDSON" type="bio">
                     <docAuthor>Julia Fuller</docAuthor>
-                    <docDate>date</docDate>
+                    <docDate>December 17, 2009</docDate>
                     <head>
                         <title>Missionary Modeling: The First of the Mrs. Judsons</title>
-                        <bibl>Short bibliographic/origin statement</bibl>
+                        <bibl>A synthesis of the biographical treatment of Ann Hasseltine Judson,
+                            based on several contemporary sources.</bibl>
                     </head>
                     <p>She carried the <milestone unit="subject" corresp="narrative_rhetoric"
                             ana="trope_light_into_darkness"/>light of civilization into the darkest
@@ -7128,7 +7152,7 @@
                         that led to a distinguished name in history. As <name>S.W. Williams</name>,
                         the editor of a contemporary collected biography notes:</p>
                     <p rend="block">
-                        <rs type="genre_conventions" ana="example">Biography is at once the most
+                        <rs corresp="genre_conventions" key="example">Biography is at once the most
                             useful and the most entertaining species of literature. It is a mirror
                             into which all may look and see more or less clearly the reflection of
                             their own images...the history of one is the possible history of all.
@@ -7139,7 +7163,7 @@
 
                     <p>As a young adolescent, Ann enjoyed the amusements and entertainments that
                         most lively girls her age pursue. Her disposition was active and restless,
-                        such that her mother described it as <rs type="narrative_elements"
+                        such that her mother described it as <rs corresp="narrative_elements"
                             key="speech_others">"rambling"</rs> (qtd. in <name type="presenter"
                             >Knowles</name>, 5). However, she also showed self-discipline when it
                         was required of her, and applied herself assiduously to her <milestone
@@ -7163,17 +7187,17 @@
                     <p>Though biographies agree on the portrait of a remarkably dedicated student,
                         the young girl was nevertheless attracted by the worldly pleasures her peers
                         enjoyed—balls, plays, assemblies and the company of admiring young men.<rs
-                            type="narrative_elements" key="quotation_writing_by_subject"> In her
+                            corresp="narrative_elements" key="quotation_writing_by_subject"> In her
                             journal, she acknowledged her own dissipation:</rs> the concerns of her
                         toilet for the evening's diversions took precedence over moral
                         self-reflection. <name type="presenter">Goodrich</name> suggests <rs
-                            type="narrative_elements" key="focalization"> that she threw herself
+                            corresp="narrative_elements" key="focalization"> that she threw herself
                             into these pastimes as if knowing she would soon renounce them:</rs></p>
                     <p rend="block">Her gaiety so far surpassed that of her friends, as to suggest a
                         vague apprehension that she had but a short time in which to pursue her
                         career of folly, and would be suddenly cut off. (344)</p>
                     <p>Here there is a prediction of another favorite trope in a heroine's
-                            narrative—<rs type="genre_conventions" key="discriminated_event">the
+                            narrative—<rs corresp="genre_conventions" key="discriminated_event">the
                             moment of redirection or conversion from sinful pursuits onto an
                             unwavering path toward greatness.</rs><name type="presenter"
                             >Wyeth</name> takes full advantage of this method in biography:</p>
@@ -7184,26 +7208,26 @@
                         productive of virtuous deeds to a surprising extent. (14, emphasis
                         added)</p>
 
-                    <p><rs type="narrative_elements" key="anecdote">A noteworthy detail in many
-                            accounts</rs> of the <rs type="narrative_elements"
+                    <p><rs corresp="narrative_elements" key="anecdote">A noteworthy detail in many
+                            accounts</rs> of the <rs corresp="narrative_elements"
                             key="temporal_effects">dissipated phase</rs> of Ann Hasseltine’s
                         development ties her to another heroine celebrated in the annals of
                         collected biography: Ann was said to have received the first <rs
-                            type="narrative_elements" key="focalization">conscious glimpse</rs> of
-                        the eternal peril in which she had placed her soul when she incidentally
+                            corresp="narrative_elements" key="focalization">conscious glimpse</rs>
+                        of the eternal peril in which she had placed her soul when she incidentally
                         picked up <name corresp="HANNAH_MORE">Hannah More's</name>
                         <title>
                             <hi rend="italics">Strictures on Female Education</hi>
                         </title> and her eyes providentially fell upon a <rs
-                            type="narrative_element" key="allusion">quote from the
+                            corresp="narrative_elements" key="allusion">quote from the
                             Bible:</rs><quote>"She that liveth in pleasure is dead while she
-                            liveth"</quote> (qtd. in Wyeth, 16). The <rs type="narrative_element"
-                            >repetition</rs> of this detail exposes the mechanics of the mirroring
-                        technique biographers use: <milestone unit="subject"
-                            corresp="narrative_rhetoric" ana="example"/>Ann's introspection is
-                        sparked by something she reads, modeling the effect her own story is
-                        intended to have upon the reader of a collected biography. While this
-                        incident was not an instantaneous moment of conversion for Ann (she had
+                            liveth"</quote> (qtd. in Wyeth, 16). The <rs
+                            corresp="narrative_elements">repetition</rs> of this detail exposes the
+                        mechanics of the mirroring technique biographers use: <milestone
+                            unit="subject" corresp="narrative_rhetoric" ana="example"/>Ann's
+                        introspection is sparked by something she reads, modeling the effect her own
+                        story is intended to have upon the reader of a collected biography. While
+                        this incident was not an instantaneous moment of conversion for Ann (she had
                         several relapses into pleasure-seeking) it is significant for revealing the
                         work being done behind the biography in terms of crafting patterns for other
                         women to follow.</p>
@@ -7213,9 +7237,9 @@
                         for biographers to do away with any unfitting characteristics present in
                         youth, which, retained into adulthood, would undermine her example as a
                         heroine. Thus Wyeth writes:</p>
-                    <p rend="block">When Miss Hasseltine became <rs type="life_event" key="vocation"
-                            >a subject of the Spirit's work,</rs> her nature was as fully moved as
-                            <milestone unit="subject" corresp="narrative_elements"
+                    <p rend="block">When Miss Hasseltine became <rs corresp="life_events"
+                            key="vocation">a subject of the Spirit's work,</rs> her nature was as
+                        fully moved as <milestone unit="subject" corresp="narrative_elements"
                             ana="temporal_effects"/> previously when some suggestion of earthly
                         pleasure was presented. Even more, for she was susceptible to an influence
                         of a high character in greater degree than she was to any one of inferior
@@ -7227,9 +7251,9 @@
                         an infallible paragon, though at first waiting to discover the avenue for
                         her heroic work. <milestone unit="subject" corresp="life_events"
                             ana="religion"/>At age seventeen, this avenue was paved by religion: Ann
-                            <rs type="narrative_elements" key="speech_subject">"publicly professed
-                            herself a disciple of Christ"</rs> when she became a member of the <rs
-                            type="history" key="church">Congregational Church</rs> in <rs
+                            <rs corresp="narrative_elements" key="speech_subject">"publicly
+                            professed herself a disciple of Christ"</rs> when she became a member of
+                        the <rs type="history" key="church">Congregational Church</rs> in <rs
                             type="places" key="town">Bradford</rs> on <date>September 14,
                             1806</date> (Goodrich, 345).</p>
 
@@ -7240,7 +7264,7 @@
                         education and also tried to impart upon them the importance of leading a
                         religious life. <milestone unit="subject" corresp="narrative_elements"
                             ana="anecdote"/>On the first day she taught, Ann began class by reading
-                        aloud a prayer, <rs type="narrative_elements" key="speech_subject"
+                        aloud a prayer, <rs corresp="narrative_elements" key="speech_subject"
                             >"astonishing the little creatures by such a beginning, as probably some
                             of them had never heard a prayer before"</rs> (qtd. in Goodrich, 346).
                         Soon, she was teaching children from other towns, traveling to hold classes
@@ -7253,14 +7277,14 @@
                     <p rend="block"><milestone unit="subject" corresp="narrative_rhetoric"
                             ana="topos_mission"/>It was well said of her that the zeal which made
                         her a missionary abroad first made a missionary of her at home...<rs
-                            type="narrative_elements" key="habit">On the Sabbath it was her custom
-                            to fix her mind upon some one of her friends, take their arm, and, as
-                            they walked home from Church, endeavor to stir them up to seek
+                            corresp="narrative_elements" key="habit">On the Sabbath it was her
+                            custom to fix her mind upon some one of her friends, take their arm,
+                            and, as they walked home from Church, endeavor to stir them up to seek
                             Christ.</rs> (58)</p>
                     <p>The missionary impulse in Ann was stirred—in a short time, it would not be
                         friends whom she engaged to seek Christ, but strange <rs
-                            corresp="narrative_rhetoric" ana="emphasis">"heathens"</rs>(a term
-                        ubiquitously used during <rs corresp="history" ana="era">the imperialist
+                            corresp="narrative_rhetoric" key="emphasis">"heathens"</rs>(a term
+                        ubiquitously used during <rs type="history" key="era">the imperialist
                             era</rs>) in the distant land of Burma. </p>
 
                     <p>In <date>1810</date>, <rs type="places" key="nation">America</rs> did not yet
@@ -7281,12 +7305,12 @@
                         (Wyeth, 30). <milestone unit="subject" corresp="life_events" ana="love"
                         />From this first encounter, a strong attachment grew between them and
                         Judson soon sought her hand in marriage, a proposal that also <rs
-                            type="life_events" key="vocation">asked Ann to join him in foreign
+                            corresp="life_events" key="vocation">asked Ann to join him in foreign
                             mission work</rs>. Acknowledging the danger in which she would be
                         placed, Judson wrote a letter to Mr. Hasseltine, asking:</p>
-                    <p rend="block"><rs type="narrative_elements" key="quotation_letter">Whether you
-                            can consent to part with your daughter early next spring, to see her no
-                            more in this world; whether you can consent to her departure for a
+                    <p rend="block"><rs corresp="narrative_elements" key="quotation_letter">Whether
+                            you can consent to part with your daughter early next spring, to see her
+                            no more in this world; whether you can consent to her departure for a
                             heathen land, and her subjection to the hardships and sufferings of a
                             missionary life; whether you can consent to her exposure to the dangers
                             of the ocean; to the fatal influence of the southern climate of India;
@@ -7296,10 +7320,10 @@
                         parties—parents who would accept this fate for their daughter, a young woman
                         who would knowingly subject herself to such trials a world away from the
                         family and home of her childhood. However, there was also a conflict of
-                        interests apparent in the hasty engagement, <rs type="narrative_elements"
+                        interests apparent in the hasty engagement, <rs corresp="narrative_elements"
                             key="temporal effects">which took place only three months after they
                             first encountered each other at Mr. Hasseltine's dinner table.</rs>
-                        <rs type="narrative_elements" key="quotation_writing_by_subject">In her
+                        <rs corresp="narrative_elements" key="quotation_writing_by_subject">In her
                             journal, Ann expressed concern that her attachment to <name
                                 type="agents" key="lover">Adoniram</name> would sway her to become a
                             missionary—a commitment that should be motivated by a calling to
@@ -7311,19 +7335,20 @@
                         Accepting his proposal and the fate that awaited her in a heathen land,
                             <milestone unit="subject" corresp="life_events" ana="marriage"/>Ann
                         married Adoniram Judson on <date>February 5, 1812</date>. <rs
-                            type="genre_conventions" key="discriminated_event">Her decision to leave
-                            America and journey with her husband to a part of the world unknown and
-                            terrifying to the imagination was unprecedented</rs>. Her conviction
-                        that God's hand was guiding her helped Ann to quell the fears she expressed
-                        in her journal:</p>
-                    <p rend="block"><rs type="narrative_element" key="quotation_writing_by_subject"
-                            >Were it not for these considerations, <milestone unit="subject"
-                                corresp="narrative_rhetoric" ana="topos_doubt"/>I should, with my
-                            present prospects, sink down in despair, especially as <milestone
-                                unit="subject" corresp="narrative_rhetoric" ana="trope_alone"/>no
-                            female has to my knowledge ever left the shores of America to spend her
-                            life among the heathen; nor do I yet know that I shall have a single
-                            female companion.</rs> (qtd. in Goodrich, 348)</p>
+                            corresp="genre_conventions" key="discriminated_event">Her decision to
+                            leave America and journey with her husband to a part of the world
+                            unknown and terrifying to the imagination was unprecedented</rs>. Her
+                        conviction that God's hand was guiding her helped Ann to quell the fears she
+                        expressed in her journal:</p>
+                    <p rend="block"><rs corresp="narrative_elements"
+                            key="quotation_writing_by_subject">Were it not for these considerations,
+                                <milestone unit="subject" corresp="narrative_rhetoric"
+                                ana="topos_doubt"/>I should, with my present prospects, sink down in
+                            despair, especially as <milestone unit="subject"
+                                corresp="narrative_rhetoric" ana="trope_alone"/>no female has to my
+                            knowledge ever left the shores of America to spend her life among the
+                            heathen; nor do I yet know that I shall have a single female
+                            companion.</rs> (qtd. in Goodrich, 348)</p>
 
                     <p>Public opinion at that time was opposed to such a calling for a woman:
                             <milestone unit="subject" corresp="narrative_rhetoric"
@@ -7336,7 +7361,7 @@
                             <quote>"delusion"</quote> (Wyeth, 35) by some—akin to the derision that
                         her religious zeal was instead the <quote>"wild and romantic"</quote> (31)
                         fantasy of an impressionable and enamored young woman. However, the reality
-                        she faced in Burma fully tested her faith: <rs type="life_events"
+                        she faced in Burma fully tested her faith: <rs corresp="life_events"
                             key="illness_or_health">Ann would come home once for the sake of her
                             health</rs>; yet, she returned to the mission with as much zeal as she
                         had the first time, not then knowing the hardships that awaited her.
@@ -7350,18 +7375,19 @@
                         engagement in wider fields of public work had become far more
                         acceptable.</p>
 
-                    <p><rs type="genre_conventions" key="movement">The couple left for India only
+                    <p><rs corresp="genre_conventions" key="movement">The couple left for India only
                             two weeks after their wedding, sailing on <date>February 19,
                             1812</date>.</rs>
                         <milestone unit="subject" corresp="narrative_rhetoric" ana="topos_loss"
                         />This sudden and monumental change distressed Ann, who wrote in her journal
                         about the pain of leaving her family and home:</p>
-                    <p rend="block"><rs type="narrative_elements" key="quotation_writing_by_subject"
-                            >My heart bleeds. O America, my native land! Must I leave thee? Must I
-                            leave my parents, my sisters and brother, my friends beloved, and all
-                            the scenes of my early youth? Must I leave thee, Bradford, my dear
-                            native town, where I spent the pleasant years of childhood; where I
-                            learnt to lisp the name of my mother?</rs> (qtd. in Bolton, 279)</p>
+                    <p rend="block"><rs corresp="narrative_elements"
+                            key="quotation_writing_by_subject">My heart bleeds. O America, my native
+                            land! Must I leave thee? Must I leave my parents, my sisters and
+                            brother, my friends beloved, and all the scenes of my early youth? Must
+                            I leave thee, Bradford, my dear native town, where I spent the pleasant
+                            years of childhood; where I learnt to lisp the name of my mother?</rs>
+                        (qtd. in Bolton, 279)</p>
                     <p>In Burma, she would learn a different language altogether. The four-month
                         voyage at sea tested her endurance for a life that guaranteed hardships. At
                         least one other female did accompany Ann: <name corresp="HARRIET_NEWELL"
@@ -7377,18 +7403,19 @@
                         (Goodrich, 350; Wyeth, 4).</p>
                     <p>Even before arriving at their final destination, Ann encountered situations
                         that were completely alien to the experiences of her former life. <rs
-                            type="narrative_elements" key="episode">Biographers relate versions of
-                            the following account from her journal</rs> that <rs
-                            type="narrative_elements" key="desription">vividly notes the contrast
+                            corresp="narrative_elements" key="episode">Biographers relate versions
+                            of the following account from her journal</rs> that <rs
+                            corresp="narrative_elements" key="desription">vividly notes the contrast
                             from her comparatively uneventful years in Bradford</rs>:</p>
-                    <p rend="block"><rs type="narrative_elements" key="quotation_writing_by_subject"
-                            >On one occasion, Mrs. Judson was compelled to take a boat, rowed by six
-                            natives...The river was rough, the sun scorching hot, and <milestone
-                                unit="subject" corresp="narrative_rhetoric" ana="trope_alone"/>Mrs.
-                            Judson entirely alone, in the midst of men who could administer no other
-                            comfort than might be contained in the words, <rs
-                                type="narrative_elements" key="dialogue">"Cutcha pho annah
-                                sahib"</rs>...<milestone unit="subject" corresp="narrative_rhetoric"
+                    <p rend="block"><rs corresp="narrative_elements"
+                            key="quotation_writing_by_subject">On one occasion, Mrs. Judson was
+                            compelled to take a boat, rowed by six natives...The river was rough,
+                            the sun scorching hot, and <milestone unit="subject"
+                                corresp="narrative_rhetoric" ana="trope_alone"/>Mrs. Judson entirely
+                            alone, in the midst of men who could administer no other comfort than
+                            might be contained in the words, <rs corresp="narrative_elements"
+                                key="dialogue">"Cutcha pho annah sahib"</rs>...<milestone
+                                unit="subject" corresp="narrative_rhetoric"
                                 ana="trope_difference_from_women"/>The daughter of New England
                             parents, the pupil and preceptress of a Massachusetts seminary, at the
                             age of twenty-three years, upon a Hindoo river, in a Calcutta boat
@@ -7419,16 +7446,16 @@
                             Goodrich</name> provides a rather fantastical example in the collected
                         biography <hi rend="italics">World Famous Women</hi>:</p>
                     <p rend="block"><milestone unit="subject" corresp="narrative_rhetoric"
-                            ana="trope_alone"/><rs type="narrative_elements" key="episode"/>[Before
-                        embarking for Rangoon] Mrs. Judson, knowing that there was not a single
-                        European female in all Birmah, [sic] engaged an Englishwoman at <rs
+                            ana="trope_alone"/><rs corresp="narrative_elements" key="episode"
+                        />[Before embarking for Rangoon] Mrs. Judson, knowing that there was not a
+                        single European female in all Birmah, [sic] engaged an Englishwoman at <rs
                             type="places" key="city"/>Madras to accompany her. By a strange
                         fatality, and as if Mrs. Judson was providentially destined to share alone
                         with her husband the glories and perils of the Birman mission, this woman
                         fell dead upon the deck as the vessel weighed anchor. (354)</p>
                     <p><milestone unit="subject" corresp="life_events" ana="ordeal"/>By another
                         strange occurrence—the first of a number of trials she would face
-                        alone—Adoniram went missing for over <rs type="narrative_elements"
+                        alone—Adoniram went missing for over <rs corresp="narrative_elements"
                             key="temporal_effects">seven months</rs> when the boat he was traveling
                         in was blown off-course. While he was gone, the Burmese government began to
                         persecute foreign teachers and the mission house in Rangoon was targeted. As
@@ -7439,9 +7466,9 @@
                         from infection. Due to a conflict that was brewing between England and
                         Burma, ships were leaving Rangoon and Ann was encouraged to go, but she
                         turned back at the last minute in faith that her husband was still alive.
-                            <rs type="narrative_elements" key="temporal_effects">Two weeks</rs>
+                            <rs corresp="narrative_elements" key="temporal_effects">Two weeks</rs>
                         later he made it back to Rangoon, to the news <quote>"that the preservation
-                            of the mission had been due to the <rs type="narrative_elements"
+                            of the mission had been due to the <rs corresp="narrative_elements"
                                 key="emphasis">firmness and fearlessness</rs> of his wife"</quote>
                         (Goodrich, 358).</p>
                     <p>For their efforts, the Judsons were not able to baptize a native convert
@@ -7495,16 +7522,16 @@
                         Retrospectively recording the events of this time in a letter to her
                         brother-in-law in America, she writes:</p>
                     <p rend="block">
-                        <rs type="narrative_elements" key="quotation_letter">For nearly a year and a
-                            half every thought was so entirely engrossed with present scenes and
-                            sufferings, that I seldom reflected in a single occurrence of my former
-                            life, or recollected that I had a friend in existence out of <rs
+                        <rs corresp="narrative_elements" key="quotation_letter">For nearly a year
+                            and a half every thought was so entirely engrossed with present scenes
+                            and sufferings, that I seldom reflected in a single occurrence of my
+                            former life, or recollected that I had a friend in existence out of <rs
                                 type="places" key="city">Ava</rs>. (qtd. in Child, 228)</rs>
                     </p>
                     <p><milestone unit="subject" corresp="agents" ana="child_children"/>On
                             <date>January 26, 1825</date>, Ann gave birth to a baby girl,
                             <name>Maria</name>, (a son had been born <date>September 11,
-                        1815</date>, but <rs type="life_events" key="death">died eight months
+                        1815</date>, but <rs corresp="life_events" key="death">died eight months
                             later</rs>) with no familiar companion present to care for her during
                         labor. When the captives were suddenly forced to march to another prison,
                         Ann, still weak from childbirth, begged the villagers to tell her where they
@@ -7512,12 +7539,12 @@
                         husband, who was near death after walking to the jail in <rs type="places"
                             key="village">Oung-pen-la</rs>. She pleaded for permission to nurse him
                         back to health, and though starving herself, she procured food for Adoniram
-                        and the other prisoners. <rs type="life_events" key="illness_or_health">In
-                            her weakened condition, Ann fell severely ill</rs> during an <rs
+                        and the other prisoners. <rs corresp="life_events" key="illness_or_health"
+                            >In her weakened condition, Ann fell severely ill</rs> during an <rs
                             type="history" key="disease">epidemic of spotted fever</rs> and could no
-                        longer nurse Maria. <rs type="narrative_elements" key="episode">Her husband
-                            obtained leave to carry their feeble baby through the village, begging
-                            nursing mothers to feed his child—<milestone unit="subject"
+                        longer nurse Maria. <rs corresp="narrative_elements" key="episode">Her
+                            husband obtained leave to carry their feeble baby through the village,
+                            begging nursing mothers to feed his child—<milestone unit="subject"
                                 corresp="narrative_rhetoric" ana="topos_affect"/>a story which
                             appears frequently in biographies as a scene sure to capture the
                             sympathies of readers</rs>.</p>
@@ -7540,7 +7567,7 @@
                         had followed to this fate was a chilling summation of her missionary
                         sacrifice:</p>
                     <p rend="block"><rs corresp="narrative_elements" ana="speech_subject">Tell the
-                                <rs type="agents" ana="husband">"teacher"</rs> that the disease was
+                                <rs type="agents" key="husband">"teacher"</rs> that the disease was
                             most violent, and I could not write; tell him how I suffered and died,
                             and take care of the house and things until he returns.</rs> (qtd. in
                         Bolton, 293)</p>
