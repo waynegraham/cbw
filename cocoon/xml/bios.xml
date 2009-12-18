@@ -7185,11 +7185,12 @@
                         ministry for other women to follow.<milestone unit="subject"
                             corresp="narrative_rhetoric" ana="topos_influence"/> The success of this
                         enterprise in biographical patterning is immediately apparent in relation to
-                        Ann Judson: after her death, two more women, <name>Sarah Boardman
-                            Judson</name> and in turn <name>Emily Chubbuck Judson</name> would
-                        directly emulate her missionary footsteps as wives of <name corresp="agents"
-                            ana="husband">Adoniram Judson</name>.</p>
-                    
+                        Ann Judson: after her death, two more women, <name
+                            corresp="SARAH_BOARDMAN_JUDSON">Sarah Boardman Judson</name> and in turn
+                            <name corresp="EMILY_CHUBBUCK_JUDSON">Emily Chubbuck Judson</name> would
+                        directly emulate her missionary footsteps as wives of <name type="agents"
+                            key="husband">Adoniram Judson</name>.</p>
+
                     <p>Works Cited</p>
                     <note>Bolton, Sarah Knowles. <title><hi rend="italics">Famous Types of
                                 Womanhood</hi>.</title> New York: T. Y. Crowell, 1886; 1892.</note>
