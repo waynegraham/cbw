@@ -5203,7 +5203,7 @@
                         <title>Title of article</title>
                         <bibl>Short bibliographic/origin statement</bibl>
                     </head>
-                    <p>Charlotte Brontë is one of the few writers whose life has assumed as great a
+                    <p><milestone unit="subject" corresp="subject_type" ana="writer"/>Charlotte Brontë is one of the few writers whose life has assumed as great a
                         presence in the popular imagination as her works themselves. As Lucasta
                         Miller observes in her book <hi rend="italics">The Brontë Myth</hi>, a study
                         of the various afterlives of the Brontë sisters through biography, “the
@@ -5229,32 +5229,32 @@
                         Though Anne and Emily were also published novelists and poets, Charlotte was
                         the most prolific of the three, and remains the most popular.</p>
 
-                    <p>Charlotte was the third of six children, born to Patrick and Maria Branwell
-                        Brontë on April 21, 1816, at the Market Street Parsonage in Thornton, near
-                        Bradford in Yorkshire. When Charlotte was four years old, the family moved
-                        to the village of Haworth in Yorkshire, where her father had been appointed
-                        perpetual curate. Charlotte’s mother died shortly thereafter, in 1821,
-                        leaving Patrick to raise the young family. (Charlotte’s siblings Branwell,
+                    <p><milestone unit="subjeect" corresp="life_events" ana="family"/>Charlotte was the third of six children, <rs corresp="life_events" ana="birth">born to Patrick and <rs corresp="agents" ana="mother">Maria Branwell
+                        Brontë</rs> on April 21, 1816, at the Market Street Parsonage in <rs corresp="places" ana="village">Thornton</rs>, near
+                        <rs corresp="places" ana="town">Bradford</rs> in <rs corresp="places" ana="region">Yorkshire</rs>.</rs> When Charlotte was four years old, the family moved
+                        to <rs corresp="places" ana="village">the village of Haworth</rs> in <rs corresp="places" ana="region">Yorkshire</rs>, where her father had been appointed
+                        perpetual curate. <rs corresp="life_events" ana="death">Charlotte’s mother died shortly thereafter, in 1821,
+                        leaving Patrick to raise the young family.</rs> (Charlotte’s siblings Branwell,
                         Emily, and Anne had been born in 1817, 1818, and 1820, respectively.) The
                         children’s aunt, Elizabeth Branwell, came to help care for them.</p>
 
-                    <p>In 1824, Charlotte and Emily were sent to join their two older sisters, Maria
-                        and Elizabeth, at the Clergy Daughters' School at Cowan Bridge in
-                        Lancashire. The traumatic experience they had there, caused by harsh
+                    <p><milestone unit="subject" corresp="life_events" ana="education"/>In 1824, Charlotte and Emily were sent to join their two older sisters, <rs corresp="agents" ana="sister">Maria</rs>
+                        and <rs corresp="agents" ana="sister">Elizabeth</rs>, at <rs corresp="places" ana="school">the Clergy Daughters' School</rs> at Cowan Bridge in
+                        <rs corresp="places" ana="region">Lancashire</rs>. <milestone unit="subject" corresp="life_events" ana="ordeal"/>The traumatic experience they had there, caused by harsh
                         discipline and poor diet, would remain in Charlotte’s memory all her life,
                         emerging in her later fiction. The Clergy Daughters' School became Lowood
                         School in <hi rend="italics">Jane Eyre</hi>, and its founder, the Reverend
                         William Carus Wilson, was the model for Mr. Brocklehurst, the hypocritical
-                        Calvinistic disciplinarian in that novel. An epidemic of typhoid fever broke
+                        Calvinistic disciplinarian in that novel. <milestone unit="subject" corresp="life_events" ana="illness_or_health"/>An epidemic of typhoid fever broke
                         out at the school, and both Maria and Elizabeth fell victim to the disease.
-                        Maria was sent home in February 1825, and died in May. Elizabeth was sent
+                        <rs corresp="life_events" ana="death">Maria was sent home in February 1825, and died in May.</rs> Elizabeth was sent
                         home in late May, and Patrick soon thereafter sent for Charlotte and Emily
-                        to be brought back to Haworth as well. Elizabeth died on the 15th of June.
+                        to be brought back to Haworth as well. <rs corresp="life_events" ana="death">Elizabeth died on the 15th of June.</rs>
                         Charlotte immortalized her oldest sister Maria as the long-suffering,
                         angelic character Helen Burns in <hi rend="italics">Jane Eyre</hi>.</p>
 
-                    <p>Charlotte, Branwell, Emily, and Anne became increasingly close after the loss
-                        of their two oldest siblings. Taking refuge from grief in imaginative play,
+                    <p>Charlotte, <rs corresp="agents" ana="brother">Branwell</rs>, <rs corresp="agents" ana="sister">Emily</rs>, and <rs corresp="agents" ana="sister">Anne</rs> became increasingly close after the loss
+                        of their two oldest siblings. <milestone unit="subject" corresp="life_events" ana="childhood"/>Taking refuge from grief in imaginative play,
                         the four children began to make up stories, opposing the arbitrariness of
                         death with the control of authorship. Their first stories took inspiration
                         from a box of Branwell’s tin soldiers, but as they outgrew these toys, the
@@ -5267,12 +5267,12 @@
                         threatened by Branwell’s early sense of entitlement with regard to the
                         male-dominated world of literary production.</p>
 
-                    <p>Charlotte and her siblings were prolific readers as well as writers. Her
+                    <p><milestone unit="subject" corresp="life_events" ana="education"/>Charlotte and her siblings were prolific readers as well as writers. Her
                         novels are steeped in literary and biblical allusion, the product of this
                         wide-ranging education in classical and contemporary writers. “Unlike most
                         middle-class Victorian households,” writes Christine Alexander, “there was
                         little censorship of reading in the Brontë parsonage. The Bible was staple
-                        fare; yet Patrick Brontë also encouraged an eclectic diet of Homer, Virgil,
+                        fare; yet <rs corresp="agents" ana="father">Patrick Brontë</rs> also encouraged an eclectic diet of Homer, Virgil,
                         Shakespeare, Bunyan, Milton, Pope, Johnson, Gibbon, Cowper, Burns,
                         Wordsworth, Coleridge, Scott, Southey, and Byron” (ODNB). The children also
                         devoured the poetry and prose published in monthly periodicals, such as <hi
@@ -5291,18 +5291,18 @@
                         Charlotte’s unqualified admiration for this type of character would become
                         more ambivalent and nuanced over the intervening years.</p>
 
-                    <p>In January 1831, Charlotte was sent to the Roe Head School, about 15 miles
+                    <p><milestone unit="subject" corresp="life_events" ana="education"/>In January 1831, Charlotte was sent to the <rs corresp="places" ana="school">Roe Head School</rs>, about 15 miles
                         from home. This second experience with institutional education was much more
                         positive than the first. Charlotte worked hard at her studies, and formed
                         several lasting friendships. Two women in particular would become lifelong
-                        friends and correspondents: “the conscientious, calm, religious Ellen Nussey
+                        friends and correspondents: “the conscientious, calm, religious <rs corresp="agents" ana="friend">Ellen Nussey</rs>
                         who fulfilled Charlotte's dutiful self and need for affection, and the
-                        fiercely independent Mary Taylor, whose radical views on politics, women,
+                        fiercely independent <rs corresp="agents" ana="friend">Mary Taylor</rs>, whose radical views on politics, women,
                         and religion fuelled Charlotte's ambitious and rebellious nature” (ODNB). In
                         many ways these two very different women exemplified a split in Charlotte’s
                         nature, which tension would emerge in her writing. Charlotte would often
                         express feelings of doubt and guilt over the working of her “fiery
-                        imagination” in letters to Ellen Nussey, worrying that the content of her
+                        imagination” in letters to <rs corresp="agents" ana="friend">Ellen Nussey</rs>, worrying that the content of her
                         writing was not appropriate for a clergyman’s daughter (Miller, 12). Though
                         she stayed at Roe Head for only eighteen months as a pupil, Charlotte
                         excelled in French and drawing, as well as continuing to write.</p>
@@ -5311,21 +5311,21 @@
                         1835, this time as a teacher. Charlotte remained there for three and a half
                         years. She soon became impatient however, at the strictures of the life she
                         was leading. Charlotte confessed to her journal her frustrations with her
-                        straitjacketed world: “The thought came over me: am I to spend all the best
+                        straitjacketed world: <rs corresp="narrative_elements" ana="quotation_writing_by_subject">“The thought came over me: am I to spend all the best
                         part of my life in this wretched bondage, forcibly suppressing my rage at
                         the idleness, the apathy and the hyperbolical and most asinine stupidity of
                         those fatheaded oafs, and on compulsion assuming an air of kindness,
-                        patience and assiduity?” (ODNB). </p>
+                        patience and assiduity?”</rs> (ODNB). </p>
 
-                    <p>She continued to harbor literary ambitions secretly while at Roe Head. Once,
+                    <p><milestone unit="subject" corresp="life_events" ana="vocation"/>She continued to harbor literary ambitions secretly while at Roe Head. Once,
                         while on holiday, she sent some of her poems to Robert Southey, the Poet
                         Laureate of England. This was an audacious move, and Charlotte revealed to
-                        him in her letter her desire “to be forever known” (Miller, 10). Southey was
+                        him in her letter her desire “to be forever known” (Miller, 10). <rs corresp="narrative_elements" ana="quotation_letter">Southey was
                         gracious enough to write back, but his response was far from encouraging. He
                         admitted that she possessed “the faculty of Verse,” but declared
                         unequivocally that “Literature cannot be the business of a woman’s life:
                         &amp; it ought not to be.” He advised her to attend to her “proper
-                        duties” as a woman, and to be “less eager for celebrity” (Miller 12).
+                        duties” as a woman, and to be “less eager for celebrity” (Miller 12).</rs>
                         Chastised, Charlotte responded that she attempted to repress herself and
                         conceal her ambitions from those around her. The accusation that her
                         ambitions were “unfeminine” would plague Charlotte all her life.</p>
@@ -5337,7 +5337,7 @@
                         age, escaping the “mirthless, lifeless room” at the school, she recorded
                         this daydream:</p>
 
-                    <p rend="block">Never shall I, Charlotte Brontë, forget…how distinctly I,
+                    <p rend="block"><rs corresp="narrative_elements" ana="quotation_writing_by_subject">Never shall I, Charlotte Brontë, forget…how distinctly I,
                         sitting in the school-room at Roe-head, saw the Duke of Zamorna…his black
                         horse turned loose grazing among the heather, the moonlight so mild and so
                         exquisitely tranquil, sleeping upon that vast and vacant road…I was quite
@@ -5345,15 +5345,15 @@
                         cheerlessness of my situation. I felt myself breathing quick and short as I
                         beheld the Duke lifting up his sable crest which undulated as the plume of a
                         hearse waves to the wind, and knew that that music…was exciting him and
-                        quickening his ever rapid pulse. (Maynard, 13-14)</p>
+                        quickening his ever rapid pulse.</rs> (Maynard, 13-14)</p>
 
                     <p>Charlotte worried that this kind of passionate fantasy was unwholesome, and
-                        confessed her doubts to Ellen Nussey. Nussey’s conventional Christian advice
-                        only increased Charlotte’s sense of her own sinfulness. Charlotte left Roe
+                        confessed her doubts to <rs corresp="agents" ana="friend">Ellen Nussey</rs>. <rs corresp="narrative_rhetoric" ana="advice">Nussey’s conventional Christian advice
+                        only increased Charlotte’s sense of her own sinfulness.</rs> Charlotte left Roe
                         Head in 1838, chastened and sobered by her experiences, but not quenched in
                         her literary ambition.</p>
 
-                    <p>Returning home, Charlotte continued to write; two more novelettes in the
+                    <p>Returning home, Charlotte continued to write; two more novellas in the
                         Angrian mode concluded her involvement in the saga. “Although Angria
                         continued to provide material for future characterization, scene, and
                         theme,” writes Alexander, “she made a distinct move towards artistic
@@ -5383,8 +5383,8 @@
                         open their own school. However, the sisters felt they could attract more
                         pupils if their language skills were more robust. Plans for the school were
                         postponed in favor of a scheme in which Charlotte and Emily would enroll at
-                        a school in Brussels in order to improve their French. The sisters traveled
-                        to Belgium in February 1842, and enrolled at the Pensionnat Heger. In
+                        a school in <rs corresp="places" ana="city">Brussels</rs> in order to improve their French. <milestone unit="subject" corresp="genre_conventions" ana="movement"/>The sisters traveled
+                        to <rs corresp="places" ana="nation">Belgium</rs> in February 1842, and enrolled at the Pensionnat Heger. <milestone unit="subject" corresp="life_events" ana="relationship"/>In
                         Constantin Heger, a professor of French literature, Charlotte finally found
                         a man who challenged her intellectually and encouraged her literary
                         ambitions. Heger was, by all accounts, a strict master, and his comments on
@@ -5392,24 +5392,24 @@
                         even though he was impressed by the abilities of these young
                         Englishwomen.</p>
 
-                    <p>Charlotte and Emily were called home in October by the death of their Aunt
-                        Branwell. Emily decided to stay in England and live off the legacy she had
+                    <p><rs corresp="life_events" ana="death">Charlotte and Emily were called home in October by the death of their Aunt
+                        Branwell.</rs> Emily decided to stay in England and live off the legacy she had
                         received from their aunt, and Charlotte returned alone to Brussels in
-                        January 1843. Madame Heger’s increasing coldness towards Charlotte, who was
+                        January 1843. <rs corresp="narrative_rhetoric" ana="trope_alone">Madame Heger’s increasing coldness towards Charlotte, who was
                         obviously devoted to her husband, alienated Charlotte from the Hegers and
-                        contributed to her feelings of loneliness and depression. (She would later
+                        contributed to her feelings of loneliness and depression.</rs> (She would later
                         use this time in her life as material for her novels <hi rend="italics">The
                             Professor</hi> and <hi rend="italics">Villette</hi>.) By the end of
                         1843, Charlotte had decided to return to Haworth.</p>
 
-                    <p>Charlotte’s depression deepened upon her return to England. Plans for the
+                    <p>Charlotte’s depression deepened upon her return to <rs corresp="places" ana="nation">England</rs>. Plans for the
                         girls’ school fell through, and Charlotte longed for the company of M.
                         Heger. She wrote him a series of increasingly desperate and passionate
                         letters, to which he did not reply. Charlotte’s unrequited love tortured
                         her, and she begged Heger to write back to her. Wounded by his silence,
                         Charlotte discontinued her correspondence with him.</p>
 
-                    <p>Her private suffering was compounded by shared family trials, when Branwell
+                    <p>Her private suffering was compounded by shared family trials, when <rs corresp="agents" ana="brother">Branwell</rs>
                         was dismissed in disgrace from his post as tutor for having an affair with
                         his employer’s wife. Branwell led a dissipated and self-destructive life
                         after this, nursing his addiction to alcohol and opium. Charlotte’s brother
@@ -5498,29 +5498,29 @@
                         Newby attempted to capitalize on the popularity of Charlotte’s recent novel
                         by claiming that <hi rend="italics">Agnes Grey</hi> and <hi rend="italics"
                             >Wuthering Heights</hi> were written by the same author as <hi
-                            rend="italics">Jane Eyre</hi>. Charlotte and Anne traveled to London to
+                            rend="italics">Jane Eyre</hi>. Charlotte and Anne traveled to <rs corresp="places" ana="city">London</rs> to
                         confirm their identities to Charlotte’s publisher George Smith, who welcomed
                         them and took them to the opera, the Royal Academy, and the National Gallery
                         (ODNB).</p>
 
                     <p>Upon her return to Haworth, Charlotte began work on her next novel, <hi
                             rend="italics">Shirley</hi>, but her new literary success was soon
-                        overshadowed by family tragedy. Within a year, all three of her remaining
+                        overshadowed by family tragedy. <milestone unit="subject" corresp="life_events" ana="ordeal"/>Within a year, all three of her remaining
                         siblings were dead. Branwell’s health had been declining steadily, weakened
                         by alcoholism and addiction to opiates. His grandiose expectations of
-                        artistic or literary fame never came to fruition. Branwell died of chronic
-                        bronchitis in September 1848, at age thirty-one. Charlotte grieved as much
+                        artistic or literary fame never came to fruition. <rs corresp="life_events" ana="death">Branwell died of chronic
+                        bronchitis in September 1848, at age thirty-one.</rs> Charlotte grieved as much
                         for Branwell’s wasted life as she did for his death.</p>
 
-                    <p>Emily caught a cold on the day of Branwell’s funeral. She grew steadily
-                        weaker, refusing to consult a doctor, despite Charlotte’s urging. She died
-                        in December 1848, of pulmonary tuberculosis, at age thirty. Anne also
+                    <p><rs corresp="life_events" ana="illness_or_health">mily caught a cold on the day of Branwell’s funeral. She grew steadily
+                        weaker, refusing to consult a doctor, despite Charlotte’s urging.</rs> <rs corresp="life_events" ana="death">She died
+                        in December 1848, of pulmonary tuberculosis, at age thirty.</rs> <rs corresp="life_events" ana="illness_or_health">Anne also
                         displaying symptoms of tuberculosis, Charlotte rushed her to the seaside in
-                        an attempt to help her recover, but Anne died in May 1849, aged
-                        twenty-nine.</p>
+                        an attempt to help her recover,</rs> but <rs corresp="life_events" ana="death">Anne died in May 1849, aged
+                        twenty-nine.</rs></p>
 
-                    <p>The sole surviving Brontë sibling, Charlotte was bereft of her imaginative
-                        and literary support. Lonely and desolate, Charlotte still managed to finish
+                    <p><milestone unit="subject" corresp="narrative_rhetoric" ana="topos_loss"/>The sole surviving Brontë sibling, Charlotte was bereft of her imaginative
+                        and literary support. <milestone unit="subject" corresp="narrative_rhetoric" ana="trope_alone"/>Lonely and desolate, Charlotte still managed to finish
                             <hi rend="italics">Shirley</hi> by the end of August 1849. It was
                         published in October by Smith, Elder &amp; Co. <hi rend="italics"/><hi
                             rend="italics">Shirley</hi> was not as successful as <hi rend="italics"
@@ -5535,13 +5535,13 @@
                         masterful novel.</p>
 
                     <p>While Charlotte kept her identity a secret from the public, for the time
-                        being, she was curious to meet the literary celebrities of London, and asked
+                        being, she was curious to meet the literary celebrities of <rs corresp="places" ana="city">London</rs>, and asked
                         George Smith to introduce her to some of them when she stayed with him and
                         his mother in 1849 and 1850. There she met such prominent writers as
-                        Thackeray and Lewes, who noted her shyness and her lack beauty. Charlotte
+                        Thackeray and Lewes, who noted her shyness and her lack beauty. <milestone unit="subject" corresp="narrative_rhetoric" ana="topos_appearance"/>Charlotte
                         had always been self-conscious about her unimpressive physicality, and it
                         seems these encounters caused her more uneasiness than pleasure. She also
-                        met Elizabeth Gaskell on a trip to Edinburgh in 1850. Gaskell was a novelist
+                        met <rs corresp="agents" ana="friend">Elizabeth Gaskell</rs> on a trip to <rs corresp="places" ana="city">Edinburgh</rs> in 1850. Gaskell was a novelist
                         who would become Charlotte’s friend and confidant, and later, her first
                         biographer.</p>
 
@@ -5563,13 +5563,13 @@
                         In the introduction to her seminal biography of the Brontës, Juliet Barker
                         describes how she trawled through the archives of local newspapers published
                         in the time of the Brontës, unearthing a large amount of information that
-                        controverts “the myth that Haworth was a remote and obscure village where
+                        controverts <rs corresp="narrative_elements" ana="quotation_biography">"the myth that Haworth was a remote and obscure village where
                         nothing ever happened. It was a township, a small, industrial town in the
                         heart of a much larger chapelry, where politics and religion were hotly
-                        disputed and culture thrived” (Barker, xix).</p>
+                        disputed and culture thrived”</rs> (Barker, xix).</p>
 
-                    <p>However, if the view of Haworth Parsonage as a completely isolated landmark
-                        in the midst of unadulterated moorland is a popular myth, as both Miller and
+                    <p>However, if the view of <rs corresp="places" ana="rural_setting">Haworth Parsonage as a completely isolated landmark
+                        in the midst of unadulterated moorland</rs> is a popular myth, as both Miller and
                         Barker observe, it is a myth that is partly of Charlotte Brontë’s own
                         making. This myth was embellished by Elizabeth Gaskell in her famous <hi
                             rend="italics">Life of Charlotte Brontë</hi>, which attempted to portray
@@ -5583,17 +5583,17 @@
                         as well as he.” For a woman, however, cannot shirk her domestic
                         responsibilities to pursue a career:</p>
 
-                    <p rend="block">But no other can take up the quiet regular duties of the
+                    <p rend="block"><rs corresp="narrative_elements" ana="quotation_biography">But no other can take up the quiet regular duties of the
                         daughter, the wife, or the mother, as well as she whom God has appointed to
                         fill that particular place: a woman’s principal work in life is hardly left
                         to her own choice; nor can she drop the domestic charges devolving on her as
                         an individual, for the exercise of the most splendid talents that were ever
-                        bestowed. (Gaskell, 271-272)</p>
+                        bestowed.</rs> (Gaskell, 271-272)</p>
 
                     <p>Gaskell was obviously at pains to prove to the world that Charlotte did not
                         neglect her “principal work” as a woman in order to exercise her talents,
                         that she was a dutiful daughter and sister, without unfeminine ambitions. As
-                        Gaskell’s biography was commissioned by Patrick Brontë to fight the
+                        Gaskell’s biography was commissioned by <rs corresp="agents" ana="father">Patrick Brontë</rs> to fight the
                         “misrepresentations” that had sullied his daughter’s image, such an
                         idealized portrayal of Charlotte is hardly surprising (Miller, 64).
                         Gaskell’s portrayal continued to influence popular and scholarly conceptions
@@ -5622,16 +5622,16 @@
                         domesticity; literary achievement is a sort of consolation prize.</p>
 
                     <p>Ironically, Charlotte would soon after achieve the kind of domestic happiness
-                        from which Thackeray thought she was permanently excluded. Her father’s
-                        curate, Arthur Bell Nicholls, declared his attachment to Charlotte. Although
-                        Patrick Brontë initially disapproved of the match, Charlotte and Arthur were
+                        from which Thackeray thought she was permanently excluded. <milestone unit="subject" corresp="life_events" ana="relationship"/>Her father’s
+                        curate, <rs corresp="agents" ana="husband">Arthur Bell Nicholls</rs>, declared his attachment to Charlotte. <milestone unit="subject" corresp="life_events" ana="marriage"/>Although
+                        <rs corresp="agents" ana="father">Patrick Brontë</rs> initially disapproved of the match, Charlotte and Arthur were
                         married in Haworth Church on June 29, 1854. They spent their honeymoon in
                         Ireland, and then returned to Haworth to care for Charlotte’s aging
                         father.</p>
 
                     <p>Charlotte’s letters reveal that it was a happy marriage, but sadly, her new
-                        happiness was short-lived. In the early stages of pregnancy, Charlotte was
-                        weakened by morning sickness, caught a chill, and died on March 31, 1855.
+                        happiness was short-lived. <milestone unit="subject" corresp="life_events" ana="illness_or_health"/>In the early stages of pregnancy, Charlotte was
+                        weakened by morning sickness, caught a chill, and <milestone unit="subject" corresp="life_events" ana="death"/>died on March 31, 1855.
                         She had been married less than a year. At her death, Charlotte left the
                         manuscript of her last novel <hi rend="italics">Emma</hi> unfinished. </p>
 
