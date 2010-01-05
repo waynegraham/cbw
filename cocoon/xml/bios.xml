@@ -4430,19 +4430,19 @@
                         <title>Title of article</title>
                         <bibl>Short bibliographic/origin statement</bibl>
                     </head>
-                    <p>During the early decades of the <rs type="history" key="era">nineteenth
+                    <p>During the early decades of the <rs corresp="history" ana="era">nineteenth
                             century</rs>, <name corresp="ELIZABETH_FRY">Elizabeth Fry</name> was one
-                        of most famous women in <rs type="places" key="city">London</rs> and her
-                        charitable influence extended across the <rs type="places" key="nation"
-                            >United Kingdom</rs> and <rs type="places" key="continent">Europe</rs>.
-                        The first publicly recognized female <milestone unit="subject"
-                            corresp="subject_type" ana="philanthropist"/>philanthropist, she
-                        organized Ladies' Committees that fought to <milestone unit="subject"
-                            corresp="subject_type" ana="reformer"/>reform the appalling conditions
-                        of prisons. Beginning with the female inmates at <rs type="places"
-                            key="prison">Newgate Penitentiary</rs>, she pioneered a system of
-                        discipline that aimed to rehabilitate criminals as productive members of
-                        society. Lionized in paintings as well as biographies, <milestone
+                        of most famous women in <rs corresp="places" ana="city">London</rs> and her
+                        charitable influence extended across the <rs corresp="places" ana="nation"
+                            >United Kingdom</rs> and <rs corresp="places" ana="continent"
+                            >Europe</rs>. The first publicly recognized female <milestone
+                            unit="subject" corresp="subject_type" ana="philanthropist"
+                        />philanthropist, she organized Ladies' Committees that fought to <milestone
+                            unit="subject" corresp="subject_type" ana="reformer"/>reform the
+                        appalling conditions of prisons. Beginning with the female inmates at <rs
+                            corresp="places" ana="prison">Newgate Penitentiary</rs>, she pioneered a
+                        system of discipline that aimed to rehabilitate criminals as productive
+                        members of society. Lionized in paintings as well as biographies, <milestone
                             unit="subject" corresp="narrative_rhetoric" ana="topos_appearance"
                         />ubiquitously depicted in her Plain Quaker attire and <milestone
                             unit="subject" corresp="narrative_rhetoric" ana="topos_mission"/>often
@@ -4462,9 +4462,9 @@
                         nineteenth century biographies rather conspicuously suppressed. </p>
                     <p><milestone unit="subject" corresp="life_events" ana="birth"/><name
                             corresp="ELIZABETH_FRY">Elizabeth Gurney</name> was born <date>May 21,
-                            1780</date> in a distinguished home on <rs type="places" key="street"
-                            >Magdalen Street</rs> in <rs type="places" key="town">Norwich</rs>, an
-                        important center for <rs type="places" key="nation">England's</rs>
+                            1780</date> in a distinguished home on <rs corresp="places" ana="street"
+                            >Magdalen Street</rs> in <rs corresp="places" ana="town">Norwich</rs>,
+                        an important center for <rs corresp="places" ana="nation">England's</rs>
                         prosperous cloth trade. <milestone unit="subject" corresp="life_events"
                             ana="family"/>Known in the family as <name corresp="ELIZABETH_FRY"
                             >Betsy</name>, she was the fourth of twelve children born to <name>John
@@ -4475,7 +4475,7 @@
                             >1754-1792</dateRange>). Her father was the heir in a family of
                         successful wool merchants and a partner in Gurneys Bank. Socially
                         established by wealth, both John and Catherine, great-granddaughter of the
-                            <rs type="history" key="church">Quaker</rs> theologian <name>Robert
+                            <rs corresp="history" ana="church">Quaker</rs> theologian <name>Robert
                             Barclay</name>, were from old families in the Society of Friends.
                         Popular and socially mobile within the community of Norwich, they followed
                         the broad tenets of their inherited Quaker faith, but also enjoyed
@@ -4490,7 +4490,7 @@
                             corresp="narrative_rhetoric" ana="topos_appearance">the fair-haired,
                             blue-eyed little Betsy as a child of angelic temperament</rs>, based on
                         a detail from her mother's private correspondence: <rs
-                            corresp="narrative_elements" key="quotation_letter">"My dove-like Betsy
+                            corresp="narrative_elements" ana="quotation_letter">"My dove-like Betsy
                             scarcely offends."</rs> She enjoyed taking walks in the garden with her
                         mother and joined Catherine when she visited neighboring cottages to carry
                         them gifts of food—the customs of charity in that era and after. <name
@@ -4507,11 +4507,11 @@
                             Rose</name><milestone unit="subject" corresp="narrative_rhetoric"
                             ana="topos_dependency"/> diagnoses an aspect of sullenness in young
                         Betsy's personality by probing her close attachment to her mother:</p>
-                    <p rend="block"><rs corresp="narrative_elements" key="temporal_effects">From her
+                    <p rend="block"><rs corresp="narrative_elements" ana="temporal_effects">From her
                             birth in <date>1780</date> until she was six, a new brother or sister
                             arrived every year….</rs>
-                        <rs corresp="narrative_elements" key="focalization">Betsy obviously felt a
-                            deep sense of unease</rs>, although <rs type="agents" key="mother"
+                        <rs corresp="narrative_elements" ana="focalization">Betsy obviously felt a
+                            deep sense of unease</rs>, although <rs corresp="agents" ana="mother"
                             >Catherine Gurney</rs> tried conscientiously to <rs
                             corresp="narrative_elements" ana="quotation_letter">"enjoy each child
                             individually."</rs>(4)</p>
@@ -4521,22 +4521,23 @@
                         desperate to mitigate or control her fears, wishing that <rs
                             corresp="narrative_elements" ana="quotation_writing_by_subject">"two
                             large walls might crush us all together that we might die at once and
-                            thus avoid the misery of each other's death"</rs> (###). Her nervousness
-                        manifested in a terror of water, bathing, sudden noises and significantly,
-                        the dark. <milestone unit="subject" corresp="life_events"
-                            ana="illness_or_health"/>Betsy languished in “delicate health” and was
-                        unable to focus on her lessons, a marked outcast from her lively and adept
-                        siblings. She recalls: <rs corresp="narrative_elements"
-                            key="quotation_writing_by_subject">"Having the name of being stupid,
-                            really tended to make me so and discouraged my efforts to learn"</rs>
-                        (###). Her resistance and obstinacy became pronounced: <rs
-                            corresp="narrative_elements" key="quotation_writing_by_subject">"If I am
-                            bid to do a thing, my spirit revolts; if I am asked to do a thing I am
-                            willing"</rs> (###). Yet it is worth noting that years later, her system
-                        of discipline at <rs type="places" key="prison">Newgate</rs> would rest upon
-                        these two insights: Treating inmates as subhuman only perpetuates their
-                        degradation; and, most female prisoners will agree to a system of
-                        self-reformation if asked.</p>
+                            thus avoid the misery of each other's death"</rs> (<hi rend="italics"
+                            >Memoir</hi>, 22). Her nervousness manifested in a terror of water,
+                        bathing, sudden noises and significantly, the dark. <milestone
+                            unit="subject" corresp="life_events" ana="illness_or_health"/>Betsy
+                        languished in “delicate health” and was unable to focus on her lessons, a
+                        marked outcast from her lively and adept siblings. She recalls: <rs
+                            corresp="narrative_elements" ana="quotation_writing_by_subject">"Having
+                            the name of being stupid, really tended to make me so and discouraged my
+                            efforts to learn"</rs> (<hi rend="italics">Memoir</hi>, 21). Her
+                        resistance and obstinacy became pronounced: <rs corresp="narrative_elements"
+                            ana="quotation_writing_by_subject">"If I am bid to do a thing, my spirit
+                            revolts; if I am asked to do a thing I am willing"</rs> (<hi
+                            rend="italics">Memoir</hi>, 36). Yet it is worth noting that years
+                        later, her system of discipline at <rs corresp="places" ana="prison"
+                            >Newgate</rs> would rest upon these two insights: Treating inmates as
+                        subhuman only perpetuates their degradation; and, most female prisoners will
+                        agree to a system of self-reformation if asked.</p>
                     <p>If the collected biographies acknowledge Betsy's less-than-angelic side, they
                         use the same method of positive spin I employed in the previous sentence:
                         the suffering inspires her mission to help other sufferers. This tradition
@@ -4546,190 +4547,255 @@
                             ana="child_children"/>, who edited her memoir. Large sections of journal
                         entries are evaluated in a conspicuous effort to frame their mother's
                         character in the best light:</p>
-                    <p rend="block">In contemplating her peculiar gifts, it is wonderful to observe
-                        the adaptation of her natural qualities to her future career; and how,
-                        through the transforming power of divine grace, each one became subservient
-                        to the highest purposes. Her natural timidity changed to the opposite virtue
-                        of courage...The touch of obstinacy she displayed as a child, became that
-                        finely tempered decision and firmness, which enabled her to execute her
-                        projects for the good of her fellow creatures. That which was in childhood
-                        something not unlike cunning, ripened into the most uncommon penetration,
-                        long-sightedness, and skill in influencing the minds of those around her.
-                        Her disinclination to the common methods of learning, appeared to be
-                        connected with much original thought, and a mind acting on its own
+                    <p rend="block"><milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="prophecy"/>In contemplating her peculiar gifts, it is wonderful to
+                        observe the adaptation of her natural qualities to her future career; and
+                        how, through the transforming power of divine grace, each one became
+                        subservient to the highest purposes. Her natural timidity changed to the
+                        opposite virtue of courage...The touch of obstinacy she displayed as a
+                        child, became that finely tempered decision and firmness, which enabled her
+                        to execute her projects for the good of her fellow creatures. That which was
+                        in childhood something not unlike cunning, ripened into the most uncommon
+                        penetration, long-sightedness, and skill in influencing the minds of those
+                        around her. Her disinclination to the common methods of learning, appeared
+                        to be connected with much original thought, and a mind acting on its own
                         resources; for she certainly always possessed more genius and ready, quick
-                        comprehension, than application or argument. (###)</p>
+                        comprehension, than application or argument. (<hi rend="italics"
+                        >Memoir</hi>, 27-8)</p>
                     <p>Recasting Betsy's early flaws into tests of fortitude allowed editors to
                         construct the adult paragon, Elizabeth Fry. As <name type="presenter">June
                             Rose</name> points out—from extensive research of original Fry
                         manuscripts—her daughters also corrected the egregious spelling and
                         grammatical errors that followed from her resistance to instruction. </p>
-                    <p><milestone unit="subject" corresp="life_events" ana="death"/>When Betsy was
-                        thirteen, her beloved mother died. She sank into a deeper sense of isolation
-                        and depression. The family was affected by her bouts of extreme moodiness;
-                        consulting siblings’ journals, Rose finds an entry by Louisa that is
-                        indicative of the tension in the Gurney household: <rs
-                            corresp="narrative_elements" key="quotation_documentary">"We are all
-                            afraid of her now, which is very shocking...Dearest Betsy! She seems to
-                            have no one for her friend, for none of us are intimate with her</rs>
-                        (12). Betsy appears to have turned inward in her need for a confidante; her
-                        journal records acute introspection. In part, this became an obsession with
-                        self-improvement. <name type="agents" key="father">John Gurney</name> was
-                        particularly liberal as the single parent of his family, allowing his
-                        children to engage in what entertainments they pleased and mix in
-                        ideologically diverse company. All seven of the Gurney daughters were
-                        attractive and graceful; Betsy received her share of attention, not all of
-                        which she disliked. Yet every pleasure recorded in her journal is closely
-                        followed by highly critical self-scrutiny:</p>
-                    <p rend="block">Without passions of any kind how different I should be. I would
-                        not give them up, but I should like to have them under subjection...I
-                        believe by not governing myself in little things, I may by degrees become a
-                        despicable character, and a curse to society; therefore, my doing wrong is
-                        of consequence to others, as well as myself. (###, emphasis added)</p>
-                    <p>In her recent biography, June Rose reveals that these passions drove
-                        Elizabeth Fry throughout her life, yet short collective biographies account
-                        for this temperamental conflict as a her development toward religious
-                        devotion.</p>
+                    <p><milestone unit="subject" corresp="life_events" ana="death"/><milestone
+                            unit="subject" corresp="life_events" ana="ordeal"/>When Betsy was
+                        thirteen, her beloved mother died. <milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="topos_loss"/>She sank into a deeper
+                        sense of isolation and depression. The family was affected by her bouts of
+                        extreme moodiness; consulting siblings’ journals, Rose finds an entry by
+                        Louisa that is indicative of the tension in the Gurney household: <rs
+                            corresp="narrative_elements" ana="quotation_documentary">"We are all
+                            afraid of her now, which is very shocking...Dearest Betsy! <milestone
+                                unit="subject" corresp="narrative_rhetoric" ana="trope_alone"/>She
+                            seems to have no one for her friend, for none of us are intimate with
+                            her</rs> (12). Betsy appears to have turned inward in her need for a
+                        confidante; her journal records acute introspection. In part, this became an
+                        obsession with self-improvement. <name corresp="agents" ana="father">John
+                            Gurney</name> was particularly liberal as the single parent of his
+                        family, allowing his children to engage in what entertainments they pleased
+                        and mix in ideologically diverse company. <milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="topos_appearance"/>All seven of the
+                        Gurney daughters were attractive and graceful; Betsy received her share of
+                        attention, not all of which she disliked. Yet every pleasure recorded in her
+                        journal is closely followed by highly critical self-scrutiny:</p>
+                    <p rend="block">
+                        <rs corresp="narrative_elements" ana="quotation_writing_by_subject">Without
+                            passions of any kind how different I should be. I would not give them
+                            up, but I should like to have them under subjection...I believe by not
+                            governing myself in little things, I may by degrees become a despicable
+                            character, and a curse to society; therefore, my doing wrong is of
+                            consequence to others, as well as myself. (<hi rend="italics"
+                                >Memoir</hi>, 30; emphasis added)</rs>
+                    </p>
+                    <p>In her recent biography, <name type="presenter">June Rose</name> reveals that
+                        these passions drove Elizabeth Fry throughout her life, <milestone
+                            unit="subject" corresp="genre_conventions" ana="discriminated_event"
+                        />yet short collective biographies account for this temperamental conflict
+                        as a stage in her development toward religious devotion.</p>
                     <p>At age seventeen, Betsy had yet to connect her struggle to improve herself
                         with distinct ideas about religion; she was still far from the heroine
-                        revered in contemporary biographies as a devoted Plain Quaker. Many editors
-                        cross this bridge with amazing speed. Clara Balfour's maneuvering is most
-                        extreme: Though full of warm benevolence and good desires, she was, up to
-                        this time, a stranger to the converting and sanctifying influences of
-                        high-toned religion. Indeed, the gaiety of her disposition induced her
-                        rather to delight in the pleasures of the world, which indeed her many
-                        talents, gifts, and personal graces, eminently fitted her to enjoy and to
-                        adorn. Being, however, the subject of illness, she was led to reflect on the
-                        transitory and unworthy character of all worldly pursuits and enjoyments,
-                        and to give herself, and all the powers she had been endowed with,
-                        unreservedly to God. From this time her conduct became that of a decided and
-                        eminent Christian. (340-1) Samuel Mossman's biographical sketch of Elizabeth
-                        Fry as a “gem of womanhood” is noteworthy for his evasiveness while entirely
-                        rewriting the person revealed in her journals: Years passed on with few
-                        changes but such as come with the advance of time in the career of a young
-                        woman. During many years she devoted herself to religious studies, and
-                        canvassed with a clear judgment the peculiar tenets of the sect in which she
-                        had been nurtured. She kept a diary of the impressions and doubts she
-                        entertained, but ultimately embraced the faith of her father. (69) Collected
-                        biographies that do provide a more complete picture of Elizabeth Fry’s
-                        struggle between worldly and religious influences still contain an element
-                        that appears across the board: all presenters in these collections mark an
-                        absolute reformation of character, so that the adult heroine retained no
-                        unworthy qualities. </p>
-                    <p>One significant figure in Betsy's path towards Plain Quakerism was William
-                        Savery, an American Quaker minister. Hearing him preach was a revelatory
-                        experience for the impressionable young woman: “Today I felt there is a
-                        God—I have been devotional &amp; my mind has been led away from the
-                        follies it mostly is wrapped up in—I loved the man as if he was almost sent
-                        from heaven—we had much serious talk &amp; what he said to me was like a
-                        refreshing shower on parched up earth" (###) When Savery is discussed in
-                        contemporary biographies, her feelings about him become the proper response
-                        of a pupil. Yet June Rose calls it an “infatuation” with the married,
-                        middle-aged preacher, one that Betsy's sisters teased her about. During a
-                        trip to London, she contrived to see Savery, one morning even waiting in the
-                        parlor of the house where he was staying until she met him. Rose writes:
-                        “Through her journal in London runs the thread of William Savery and
-                        religion. She realized that the two were dangerously intertwined. . . . In
-                        religion she found an outlet for her highly emotional and hypersensitive
-                        nature but she had come to religion through a man” (24). This compromising
-                        piece of her religious enlightenment never emerges in nineteenth-century
-                        versions.</p>
-                    <p>Part of Betsy's development towards Plain Quakerism involved adopting the
-                        Society's strict rules for inner discipline, which prohibited dancing,
-                        singing and all ornamental attire. Her determination placed her at
-                        uncomfortable odds with her family, who found her refusal to join in with
-                        their pleasures irritating and disapproved of her obsession with religion.
-                        Instead, like many ladies of her class, she turned her attention towards the
-                        needs of the poor around her and opened a Sunday school where she read
-                        Gospel stories and gave lessons to local children. Betsy gradually adopted
-                        the outward appearance of Plain Quakerism, publicly wearing the cap (that
-                        would later be the distinguishing feature of her famed image) for the first
-                        time in 1799 at a party given by her cousins in London (Rose, 33). The
-                        hagiographical versions insist that Fry’s public act of embracing Plain
-                        Quakerism’s garb signaled her rejection of all selfish, materialistic
-                        pleasures. June Rose suggests otherwise. Fry, after purchasing extravagant
-                        cloth to make ordinary aprons, writes in her memoir: “It seems inconsistent
-                        to dress plain from principle and economy and then have my things so fine
-                        and expensive,” but according to Rose, Fry allowed herself to indulge in
-                        this contradiction between principle and practice all her life (35). She
-                        always wore dresses that appeared sober, being simple in design and muted in
-                        color; yet, less conspicuous to the eye, her clothing was made from the
-                        finest, most expensive fabrics. Rose notes that the characteristic brown
-                        silk shawl, which accompanied the famous cap, was lined inside with ermine
-                        (35). And Fry was certainly conscientious of her public appearance: when
-                        traveling through Europe as a celebrated philanthropist, a member of Fry's
-                        party sat on and disfigured her expensive, new Quaker cap, almost spelling
-                        disaster for the entire trip. Fortunately, some quick thinking ladies in the
-                        group managed to rescue the cap from its flattened condition (Rose, 188). </p>
-                    <p>On August 19th, 1800, after much deliberation about the conflict between
-                        religious calling and matrimonial duties, as well as a courtship lengthened
-                        by her own indecision, Elizabeth married Joseph Fry, a shy, complacent man
-                        from a wealthy Quaker family. It was at about this same time that she
-                        started to speak in Society Meetings and read aloud from the
+                        revered in contemporary biographies as a devoted <rs corresp="life_events"
+                            ana="religion">Plain Quaker</rs>. Many editors cross this bridge with
+                        amazing speed. <name type="presenter">Clara Balfour's</name> maneuvering is
+                        most extreme:</p>
+                    <p rend="block"><milestone unit="subject" corresp="narrative_elements"
+                            ana="focalization"/><milestone unit="subject" corresp="life_events"
+                            ana="religion"/>Though full of warm benevolence and good desires, she
+                        was, up to this time, a stranger to the converting and sanctifying
+                        influences of high-toned religion. Indeed, the gaiety of her disposition
+                        induced her rather to delight in the pleasures of the world, which indeed
+                        her many talents, gifts, and personal graces, eminently fitted her to enjoy
+                        and to adorn. Being, however, the subject of illness, she was led to reflect
+                        on the transitory and unworthy character of all worldly pursuits and
+                        enjoyments, and to give herself, and all the powers she had been endowed
+                        with, unreservedly to God. From this time her conduct became that of a
+                        decided and eminent Christian. (340-1)</p>
+                    <p><name type="presenter">Samuel Mossman's</name> biographical sketch of
+                        Elizabeth Fry as a “gem of womanhood” is noteworthy for his evasiveness
+                        while entirely rewriting the person revealed in her journals:</p>
+                    <p rend="block"><milestone unit="subject" corresp="narrative_elements"
+                            ana="temporal_effects"/>Years passed on with few changes but such as
+                        come with the advance of time in the career of a young woman. During many
+                        years she devoted herself to religious studies, and canvassed with a clear
+                        judgment the peculiar tenets of the sect in which she had been nurtured. She
+                        kept a diary of the impressions and doubts she entertained, but ultimately
+                        embraced the faith of her father. (69)</p>
+                    <p>Collected biographies that do provide a more complete picture of Elizabeth
+                        Fry’s struggle between worldly and religious influences still contain an
+                        element that appears across the board: all presenters in these collections
+                        mark an absolute reformation of character, so that the adult heroine
+                        retained no unworthy qualities. </p>
+                    <p><milestone unit="subject" corresp="life_events" ana="religion"/>One
+                        significant figure in Betsy's path towards Plain Quakerism was <name
+                            corresp="agents" ana="superior">William Savery</name>, an American
+                        Quaker minister. Hearing him preach was a revelatory experience for the
+                        impressionable young woman:<rs corresp="narrative_elements"
+                            ana="quotation_writing_by_subject"> “Today I felt <hi rend="italics"
+                                >that there is a God</hi>—I have been devotional &amp; my mind
+                            has been led away from the follies it mostly is wrapped up in—I loved
+                            the man as if he was almost sent from heaven—we had much serious talk
+                            &amp; what he said to me was like a refreshing shower on parched up
+                            earth" (<hi rend="italics">Memoir</hi>, 48).</rs> When
+                            <name>Savery</name> is discussed in contemporary biographies, her
+                        feelings about him become the proper response of a pupil. <milestone
+                            unit="subject" corresp="life_events" ana="love"/>Yet <name
+                            type="presenter">June Rose</name> calls it an “infatuation” with the
+                        married, middle-aged preacher, one that Betsy's sisters teased her about.
+                            <rs corresp="narrative_elements" ana="anecdote">During a trip to <rs
+                                corresp="places" ana="city">London</rs>, she contrived to see
+                            Savery, one morning even waiting in the parlor of the house where he was
+                            staying until she met him.</rs>
+                        <name type="presenter">Rose</name> writes: “Through her journal in London
+                        runs the thread of William Savery and religion. <rs
+                            corresp="narrative_elements" ana="focalization">She realized that the
+                            two were dangerously intertwined.</rs> . . . In religion she found an
+                        outlet for her highly emotional and hypersensitive nature but she had come
+                        to religion through a man” (24). This compromising piece of her religious
+                        enlightenment never emerges in nineteenth-century versions.</p>
+                    <p><milestone unit="subject" corresp="life_events" ana="religion"/>Part of
+                        Betsy's development towards Plain Quakerism involved adopting the Society's
+                        strict rules for inner discipline, which prohibited dancing, singing and all
+                        ornamental attire. Her determination placed her at uncomfortable odds with
+                        her family, who found her refusal to join in with their pleasures irritating
+                        and disapproved of her obsession with religion. <milestone unit="subject"
+                            corresp="life_events" ana="vocation"/><rs corresp="subject_type"
+                            ana="philanthropist">Instead, like many ladies of her class, she turned
+                            her attention towards the needs of the poor around her and opened a
+                            Sunday school where she read Gospel stories and gave lessons to local
+                            children.</rs>
+                        <milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="topos_appearance"/>Betsy gradually adopted the outward appearance
+                        of Plain Quakerism, publicly wearing the cap (that would later be the
+                        distinguishing feature of her famed image) for the first time in
+                            <date>1799</date> at a party given by her cousins in London (Rose, 33).
+                            <milestone unit="subject" corresp="genre_conventions"
+                            ana="discriminated_event"/>The hagiographical versions insist that Fry’s
+                        public act of embracing Plain Quakerism’s garb signaled her rejection of all
+                        selfish, materialistic pleasures. <name type="presenter">June Rose</name>
+                        suggests otherwise. Fry, after purchasing extravagant cloth to make ordinary
+                        aprons, writes in her memoir: <rs corresp="narrative_elements"
+                            ana="quotation_writing_by_subject">“It seems inconsistent to dress plain
+                            from principle and economy and then have my things so fine and
+                            expensive,”</rs> but according to Rose, Fry allowed herself to indulge
+                        in this contradiction between principle and practice all her life (35). <rs
+                            corresp="narrative_elements" ana="description">She always wore dresses
+                            that appeared sober, being simple in design and muted in color; yet,
+                            less conspicuous to the eye, her clothing was made from the finest, most
+                            expensive fabrics. Rose notes that the characteristic brown silk shawl,
+                            which accompanied the famous cap, was lined inside with ermine
+                            (35).</rs> And Fry was certainly conscientious of her public appearance:
+                            <rs corresp="narrative_elements" ana="anecdote">when traveling through
+                                <rs corresp="places" ana="continent">Europe</rs> as a celebrated <rs
+                                corresp="subject_type" ana="philanthropist">philanthropist</rs>, a
+                            member of Fry's party sat on and disfigured her expensive, new Quaker
+                            cap, almost spelling disaster for the entire trip. Fortunately, some
+                            quick thinking ladies in the group managed to rescue the cap from its
+                            flattened condition (Rose, 188).</rs>
+                    </p>
+                    <p><milestone unit="subject" corresp="life_events" ana="marriage"/>On
+                            <date>August 19th, 1800</date>, after much deliberation about the
+                        conflict between religious calling and matrimonial duties, as well as a
+                        courtship lengthened by her own indecision, Elizabeth married <name
+                            corresp="agents" ana="husband">Joseph Fry</name>, a shy, complacent man
+                        from a wealthy Quaker family. <milestone unit="subject"
+                            corresp="life_events" ana="vocation"/>It was at about this same time
+                        that she started to speak in Society Meetings and read aloud from the
                         Bible—developing the public voice that was key to her later ministry (in
-                        1811 the Society formally acknowledge her as a Quaker Minister). This
-                        activity coincided and inevitably conflicted with twenty-two years of
-                        prolific childbearing: ten children between 1801 and 1816, and an eleventh
-                        in 1822. According to Rose, Elizabeth's journal reveals how unsuited she was
-                        to domesticity and childrearing, worldly concerns that she felt detracted
-                        from her true religious calling. While she expressed regret over her lack of
+                            <date>1811</date> the Society formally acknowledged her as a Quaker
+                        Minister). <milestone unit="subject" corresp="agents" ana="child_children"
+                        />This activity coincided and inevitably conflicted with twenty-two years of
+                        prolific childbearing: ten children between <date>1801</date> and
+                            <date>1816</date>, and an eleventh in <date>1822</date>. <milestone
+                            unit="subject" corresp="narrative_rhetoric"
+                            ana="trope_difference_from_women"/>According to Rose, Elizabeth's
+                        journal reveals how unsuited she was to domesticity and childrearing,
+                            <milestone unit="subject" corresp="narrative_elements"
+                            ana="focalization"/>worldly concerns that she felt detracted from her
+                        true religious calling. While she expressed regret over her lack of
                         sympathetic feeling as a wife and mother, her own talents and interests
-                        inclined toward public ministry. As she became increasingly devoted to
-                        philanthropic work, frequently traveling abroad on her mission to reform
-                        prison systems, Elizabeth left her family behind. Joseph Fry, weaker-willed
-                        than his determined wife, supervised the rearing of their youngest children
-                        while the older ones where sent to live with relatives. The children were
+                        inclined toward public ministry. <milestone unit="subject"
+                            corresp="subject_type" ana="reformer"/><milestone unit="subject"
+                            corresp="narrative_elements" ana="habit"/>As she became increasingly
+                        devoted to philanthropic work, <rs corresp="genre_conventions"
+                            ana="movement">frequently traveling abroad on her mission to reform
+                            prison systems, Elizabeth left her family behind.</rs>
+                        <name corresp="agents" ana="husband">Joseph Fry</name>, weaker-willed than
+                        his determined wife, supervised the rearing of their youngest children while
+                        the older ones where sent to live with relatives. The children were
                         ill-behaved and self-willed; later, Elizabeth would see all but one of them
                         reject Quaker strictures by marrying outside of the sect. Although she was
-                        lauded for her public service, family members and Quaker Society friends
+                        lauded for her public service, <milestone unit="subject" corresp="agents"
+                            ana="social_determination"/>family members and Quaker Society friends
                         criticized her for neglecting the domestic duties of marriage and
                         motherhood. </p>
-                    <p>Rose bluntly analyzes Fry's conflict between private and public duties: “It
-                        was necessary for her to see her work as divinely inspired, for it was only
-                        through her religion, through her status as a Minister, that she could <hi
-                            rend="italics">emancipate herself</hi> and leave the domestic sphere
-                        with any peace of mind”(92, emphasis added). Perhaps ungenerously, Rose
-                        asserts that Fry preferred public ministry because it attracted the
-                        attention of a rapt audience; having been desperate for notice as a child in
-                        a large family, she refused her own numerous children the attention they
-                        needed from her. The collected biographies avoid confronting any neglect the
-                        children suffered while their mother exerted herself in public philanthropy.
-                        Calling Elizabeth Fry a “ministering angel to her fellow-creatures,”
-                        Mossman's sketch focuses on her charitable labors, only alluding to the
-                        fellow-creatures of her own home in a final gloss: “She believed in some
-                        instances, her own amongst other, that, under the immediate direction of the
-                        Spirit of God, individuals were called to leave for a time their home and
-                        families, and devote themselves to the work of the ministry” (81). Mossman's
-                        comment has striking parallels to Rose, yet only the more recent biographer
-                        indicts Elizabeth Fry's personal motivations in her public calling and
-                        considers that her conscious choice to “emancipate herself” neglected her
-                        family’s development. </p>
+                    <p><milestone unit="subject" corresp="narrative_elements" ana="focalization"
+                            /><name type="presenter">Rose</name> bluntly analyzes Fry's conflict
+                        between private and public duties: “It was necessary for her to see her work
+                        as divinely inspired, for it was only through her religion, through her
+                        status as a Minister, that she could <hi rend="italics">emancipate
+                            herself</hi> and leave the domestic sphere with any peace of mind”(92,
+                        emphasis added). Perhaps ungenerously, Rose asserts that Fry preferred
+                        public ministry because it attracted the attention of a rapt audience;
+                        having been desperate for notice as a child in a large family, she refused
+                        her own numerous children the attention they needed from her. The collected
+                        biographies avoid confronting any neglect the children suffered while their
+                        mother exerted herself in public philanthropy. <milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="topos_mission"/>Calling Elizabeth Fry
+                        a “ministering angel to her fellow-creatures,” <name type="presenter"
+                            >Mossman's</name> sketch focuses on her charitable labors, only alluding
+                        to the fellow-creatures of her own home in a final gloss: “She believed in
+                        some instances, her own amongst other, that, under the immediate direction
+                        of the Spirit of God, individuals were called to leave for a time their home
+                        and families, and devote themselves to the work of the ministry” (81).
+                        Mossman's comment has striking parallels to Rose, yet only the more recent
+                        biographer indicts Elizabeth Fry's personal motivations in her public
+                        calling and considers that her conscious choice to “emancipate herself”
+                        neglected her family’s development. </p>
                     <p>The development of others, especially of female prison inmates, became
-                        Elizabeth's primary concern. In 1813, accompanied by Anna Buxton, she first
-                        entered Newgate Penitentiary, where she saw women, both hardened criminals
-                        and minor offenders, detained together with their innocent children. They
-                        perceived that the conditions—gambling, drinking and brawls between the
-                        women—only further degraded the morals of the inmates and corrupted their
-                        children's minds, whose first words were to repeat the vulgar language they
-                        daily heard. Immediately, she and her friend set to work providing
-                        much-needed clothing and clean bedding for the prisoners and Elizabeth read
-                        the Bible aloud to them during the visits. Four years later, she would
-                        return to Newgate with her mind set on reforming the conditions for female
-                        inmates and rehabilitating them by way of a radical system of discipline. In
-                        a move that was extremely progressive for the time, Elizabeth addressed the
-                        women directly and asked for their consent before instituting her new
-                        system, which set up schools and provided inmates with paid labor
-                        opportunities. She allowed them to vote on the rules of discipline (which
-                        prohibited drinking and gambling) before they were adopted. The change she
-                        effected at Newgate won her public renown: turning a group of fallen women,
-                        once considered unruly beasts, into lady-like women who diligently applied
-                        their needles to sewing and knitting for an honest living. Biographers often
-                        link Elizabeth Fry’s reformation of Newgate with an emblem that was also
-                        applied to missionary martyr Ann Hasseltine Judson: the heroine carrying a
-                        civilizing light into darkness. The narrative effect of this emblem is
-                        heightened by a detail from Elizabeth’s journal: during her conversion, she
-                        tried to overcome her childhood fear of darkness, conditioning herself to
-                        the dark by remaining alone in rooms at night (Fry, 84). </p>
+                        Elizabeth's primary concern. In <date>1813</date>, accompanied by <name
+                            corresp="agents" ana="female_peer">Anna Buxton</name>, she first entered
+                            <rs corresp="places" ana="prison">Newgate Penitentiary</rs>, where she
+                        saw women, both hardened criminals and minor offenders, detained together
+                        with their innocent children. They perceived that the conditions—gambling,
+                        drinking and brawls between the women—only further degraded the morals of
+                        the inmates and corrupted their children's minds, whose first words were to
+                        repeat the vulgar language they daily heard. <milestone unit="subject"
+                            corresp="subject_type" ana="philanthropist"/>Immediately, she and her
+                        friend set to work providing much-needed clothing and clean bedding for the
+                        prisoners and Elizabeth read the Bible aloud to them during the visits.
+                            <milestone unit="subject" corresp="subject_type" ana="reformer"/>Four
+                        years later, she would return to Newgate with her mind set on reforming the
+                        conditions for female inmates and rehabilitating them by way of a radical
+                        system of discipline. <milestone unit="subject" corresp="history"
+                            ana="progress"/>In a move that was extremely progressive for the time,
+                        Elizabeth addressed the women directly and asked for their consent before
+                        instituting her new system, which set up schools and provided inmates with
+                        paid labor opportunities. She allowed them to vote on the rules of
+                        discipline (which prohibited drinking and gambling) before they were
+                        adopted. <milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="topos_rescue_fallen_women"/>The change she effected at Newgate won
+                        her public renown: turning a group of fallen women, once considered unruly
+                        beasts, into lady-like women who diligently applied their needles to sewing
+                        and knitting for an honest living. <milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="trope_light_into_darkness"
+                        />Biographers often link Elizabeth Fry’s reformation of Newgate with an
+                        emblem that was also applied to missionary martyr <name
+                            corresp="ANN_HASSELTINE_JUDSON">Ann Hasseltine Judson</name>: the
+                        heroine carrying a civilizing light into darkness. The narrative effect of
+                        this emblem is heightened by a detail from Elizabeth’s journal: during her
+                        conversion, she tried to overcome her childhood fear of darkness,
+                        conditioning herself to the dark by remaining alone in rooms at night (<hi
+                            rend="italics">Memoir</hi>, 84). </p>
                     <p>The fable of Elizabeth Fry's entry into Newgate is lovingly retold by
                         presenters who conflate details and heighten her heroism. Almost universally
                         in these biographical fictions, she enters the prison alone, “her only
@@ -7253,8 +7319,8 @@
                             ana="religion"/>At age seventeen, this avenue was paved by religion: Ann
                             <rs corresp="narrative_elements" key="speech_subject">"publicly
                             professed herself a disciple of Christ"</rs> when she became a member of
-                        the <rs type="history" key="church">Congregational Church</rs> in <rs
-                            type="places" key="town">Bradford</rs> on <date>September 14,
+                        the <rs corresp="life_events" ana="religion">Congregational Church</rs> in
+                            <rs type="places" key="town">Bradford</rs> on <date>September 14,
                             1806</date> (Goodrich, 345).</p>
 
                     <p><milestone unit="subject" corresp="life_events" ana="vocation"/>Another sign
@@ -7472,10 +7538,11 @@
                                 key="emphasis">firmness and fearlessness</rs> of his wife"</quote>
                         (Goodrich, 358).</p>
                     <p>For their efforts, the Judsons were not able to baptize a native convert
-                        until <date>June 27, 1819</date>. In America, <rs type="history"
-                            key="campaign">friends were working on their behalf, urging the Baptist
-                            Church (the couple had converted from Congregationalists to Baptists) to
-                            organize behind the missionary cause</rs>, succeeding in
+                        until <date>June 27, 1819</date>. In America, <milestone unit="subject"
+                            corresp="history" ana="campaign"/> friends were working on their behalf,
+                        urging the Baptist Church (the couple had converted from <rs
+                            corresp="life_events" ana="religion">Congregationalists to
+                        Baptists</rs>) to organize behind the missionary cause, succeeding in
                             <date>1814</date> with the establishment of <rs type="history"
                             key="church">the General Missionary Convention of the Baptist
                             Denomination in the United States of America for Foreign Missions—which
