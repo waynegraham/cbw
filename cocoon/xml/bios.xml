@@ -4425,10 +4425,13 @@
                 </div2>
                 <div2 n="1" id="CBW_TEAM_ELIZABETH_FRY" type="bio">
                     <docAuthor>Julia Fuller</docAuthor>
-                    <docDate>date</docDate>
+                    <docDate>January 11, 2010</docDate>
                     <head>
-                        <title>Title of article</title>
-                        <bibl>Short bibliographic/origin statement</bibl>
+                        <title>Biographical Crafting: Philanthropy Praised, But Complexity Quashed
+                            in the Recorded Life of Elizabeth Fry</title>
+                        <bibl>Reading through the lens of June Rose's revealing 1980 biography to
+                            investigate revisionary practices in several contemporary versions of
+                            Elizabeth Fry's life.</bibl>
                     </head>
                     <p>During the early decades of the <rs corresp="history" ana="era">nineteenth
                             century</rs>, <name corresp="ELIZABETH_FRY">Elizabeth Fry</name> was one
@@ -4459,7 +4462,8 @@
                         saints of old. However, more recent exposes, beginning with <name
                             type="presenter">June Rose's</name> biography published in
                             <date>1980</date>, reveal complex qualities in Elizabeth Fry that the
-                        nineteenth century biographies rather conspicuously suppressed. </p>
+                            <rs corresp="history" ana="era">nineteenth century</rs> biographies
+                        rather conspicuously suppressed. </p>
                     <p><milestone unit="subject" corresp="life_events" ana="birth"/><name
                             corresp="ELIZABETH_FRY">Elizabeth Gurney</name> was born <date>May 21,
                             1780</date> in a distinguished home on <rs corresp="places" ana="street"
@@ -4474,19 +4478,20 @@
                             ana="mother"/> (<dateRange from="1754-01-01" to="1792-12-31"
                             >1754-1792</dateRange>). Her father was the heir in a family of
                         successful wool merchants and a partner in Gurneys Bank. Socially
-                        established by wealth, both John and Catherine, great-granddaughter of the
-                            <rs corresp="history" ana="church">Quaker</rs> theologian <name>Robert
-                            Barclay</name>, were from old families in the Society of Friends.
-                        Popular and socially mobile within the community of Norwich, they followed
-                        the broad tenets of their inherited Quaker faith, but also enjoyed
-                        intellectual company and cultural pursuits outside of the ascetic
-                        restrictions of Plain Quakerism. <milestone unit="subject"
+                        established by wealth, both <name>John</name> and <name>Catherine</name>,
+                        great-granddaughter of the <rs corresp="history" ana="church">Quaker</rs>
+                        theologian <name>Robert Barclay</name>, were from old families in the
+                        Society of Friends. Popular and socially mobile within the community of
+                        Norwich, they followed the broad tenets of their inherited Quaker faith, but
+                        also enjoyed intellectual company and cultural pursuits outside of the
+                        ascetic restrictions of Plain Quakerism. <milestone unit="subject"
                             corresp="life_events" ana="education"/>The Gurneys attended weekly
                         Meeting and Catherine read passages from the Bible to her children daily,
                         while also instructing them in a worldly academic curriculum which included
                         French, Latin, natural sciences, mathematics, modern history, geography, and
                         the arts (Rose, 6).</p>
-                    <p>Collective biographies before <date>1940</date> unanimously describe <rs
+                    <p><milestone unit="subject" corresp="life_events" ana="childhood"/>Collective
+                        biographies before <date>1940</date> unanimously describe <rs
                             corresp="narrative_rhetoric" ana="topos_appearance">the fair-haired,
                             blue-eyed little Betsy as a child of angelic temperament</rs>, based on
                         a detail from her mother's private correspondence: <rs
@@ -4548,8 +4553,9 @@
                         entries are evaluated in a conspicuous effort to frame their mother's
                         character in the best light:</p>
                     <p rend="block"><milestone unit="subject" corresp="narrative_rhetoric"
-                            ana="prophecy"/>In contemplating her peculiar gifts, it is wonderful to
-                        observe the adaptation of her natural qualities to her future career; and
+                            ana="prophecy"/><milestone unit="subject" corresp="narrative_elements"
+                            ana="description"/>In contemplating her peculiar gifts, it is wonderful
+                        to observe the adaptation of her natural qualities to her future career; and
                         how, through the transforming power of divine grace, each one became
                         subservient to the highest purposes. Her natural timidity changed to the
                         opposite virtue of courage...The touch of obstinacy she displayed as a
@@ -4570,132 +4576,141 @@
                     <p><milestone unit="subject" corresp="life_events" ana="death"/><milestone
                             unit="subject" corresp="life_events" ana="ordeal"/>When Betsy was
                         thirteen, her beloved mother died. <milestone unit="subject"
-                            corresp="narrative_rhetoric" ana="topos_loss"/>She sank into a deeper
+                            corresp="narrative_rhetoric" ana="topos_loss"/><milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="topos_doubt"/>She sank into a deeper
                         sense of isolation and depression. The family was affected by her bouts of
                         extreme moodiness; consulting siblings’ journals, Rose finds an entry by
-                        Louisa that is indicative of the tension in the Gurney household: <rs
-                            corresp="narrative_elements" ana="quotation_documentary">"We are all
-                            afraid of her now, which is very shocking...Dearest Betsy! <milestone
-                                unit="subject" corresp="narrative_rhetoric" ana="trope_alone"/>She
-                            seems to have no one for her friend, for none of us are intimate with
-                            her</rs> (12). Betsy appears to have turned inward in her need for a
-                        confidante; her journal records acute introspection. In part, this became an
-                        obsession with self-improvement. <name corresp="agents" ana="father">John
-                            Gurney</name> was particularly liberal as the single parent of his
-                        family, allowing his children to engage in what entertainments they pleased
-                        and mix in ideologically diverse company. <milestone unit="subject"
+                            <name corresp="agents" ana="sister">Louisa</name> that is indicative of
+                        the tension in the Gurney household: <rs corresp="narrative_elements"
+                            ana="quotation_documentary">"We are all afraid of her now, which is very
+                            shocking...Dearest Betsy! <milestone unit="subject"
+                                corresp="narrative_rhetoric" ana="trope_alone"/>She seems to have no
+                            one for her friend, for none of us are intimate with her</rs> (12).
+                        Betsy appears to have turned inward in her need for a confidante; her
+                        journal records acute introspection. In part, this became an obsession with
+                        self-improvement. <name corresp="agents" ana="father">John Gurney</name> was
+                        particularly liberal as the single parent of his family, allowing his
+                        children to engage in what entertainments they pleased and mix in
+                        ideologically diverse company. <milestone unit="subject"
                             corresp="narrative_rhetoric" ana="topos_appearance"/>All seven of the
                         Gurney daughters were attractive and graceful; Betsy received her share of
                         attention, not all of which she disliked. Yet every pleasure recorded in her
                         journal is closely followed by highly critical self-scrutiny:</p>
                     <p rend="block">
                         <rs corresp="narrative_elements" ana="quotation_writing_by_subject">Without
-                            passions of any kind how different I should be. I would not give them
-                            up, but I should like to have them under subjection...I believe by not
-                            governing myself in little things, I may by degrees become a despicable
-                            character, and a curse to society; therefore, my doing wrong is of
-                            consequence to others, as well as myself. (<hi rend="italics"
-                                >Memoir</hi>, 30; emphasis added)</rs>
+                            passions of any kind how different I should be. <hi rend="italics">I
+                                would not give them up</hi>, but I should like to have them under
+                            subjection...I believe by not governing myself in little things, I may
+                            by degrees become a despicable character, and a curse to society;
+                            therefore, my doing wrong is of consequence to others, as well as
+                            myself. (<hi rend="italics">Memoir</hi>, 30; emphasis added)</rs>
                     </p>
                     <p>In her recent biography, <name type="presenter">June Rose</name> reveals that
-                        these passions drove Elizabeth Fry throughout her life, <milestone
-                            unit="subject" corresp="genre_conventions" ana="discriminated_event"
-                        />yet short collective biographies account for this temperamental conflict
-                        as a stage in her development toward religious devotion.</p>
+                        these passions drove Elizabeth Fry throughout her life, yet short collective
+                        biographies account for this temperamental conflict as a stage in her
+                        development toward religious devotion.</p>
                     <p>At age seventeen, Betsy had yet to connect her struggle to improve herself
-                        with distinct ideas about religion; she was still far from the heroine
-                        revered in contemporary biographies as a devoted <rs corresp="life_events"
-                            ana="religion">Plain Quaker</rs>. Many editors cross this bridge with
+                        with distinct ideas about religion; <milestone unit="subject"
+                            corresp="life_events" ana="religion"/>she was still far from the heroine
+                        revered in contemporary biographies as a devoted <rs corresp="history"
+                            ana="church">Plain Quaker</rs>. Many editors cross this bridge with
                         amazing speed. <name type="presenter">Clara Balfour's</name> maneuvering is
                         most extreme:</p>
                     <p rend="block"><milestone unit="subject" corresp="narrative_elements"
                             ana="focalization"/><milestone unit="subject" corresp="life_events"
-                            ana="religion"/>Though full of warm benevolence and good desires, she
-                        was, up to this time, a stranger to the converting and sanctifying
-                        influences of high-toned religion. Indeed, the gaiety of her disposition
-                        induced her rather to delight in the pleasures of the world, which indeed
-                        her many talents, gifts, and personal graces, eminently fitted her to enjoy
-                        and to adorn. Being, however, the subject of illness, she was led to reflect
-                        on the transitory and unworthy character of all worldly pursuits and
-                        enjoyments, and to give herself, and all the powers she had been endowed
-                        with, unreservedly to God. From this time her conduct became that of a
-                        decided and eminent Christian. (340-1)</p>
+                            ana="religion"/><milestone unit="subject" corresp="life_events"
+                            ana="talent"/>Though full of warm benevolence and good desires, she was,
+                        up to this time, a stranger to the converting and sanctifying influences of
+                        high-toned religion. Indeed, the gaiety of her disposition induced her
+                        rather to delight in the pleasures of the world, which indeed her many
+                        talents, gifts, and personal graces, eminently fitted her to enjoy and to
+                        adorn. Being, however, the subject of illness, she was led to reflect on the
+                        transitory and unworthy character of all worldly pursuits and enjoyments,
+                        and to give herself, and all the powers she had been endowed with,
+                        unreservedly to God. From this time her conduct became that of a decided and
+                        eminent Christian. (340-1)</p>
                     <p><name type="presenter">Samuel Mossman's</name> biographical sketch of
                         Elizabeth Fry as a “gem of womanhood” is noteworthy for his evasiveness
                         while entirely rewriting the person revealed in her journals:</p>
                     <p rend="block"><milestone unit="subject" corresp="narrative_elements"
-                            ana="temporal_effects"/>Years passed on with few changes but such as
-                        come with the advance of time in the career of a young woman. During many
-                        years she devoted herself to religious studies, and canvassed with a clear
-                        judgment the peculiar tenets of the sect in which she had been nurtured. She
-                        kept a diary of the impressions and doubts she entertained, but ultimately
-                        embraced the faith of her father. (69)</p>
+                            ana="temporal_effects"/><milestone unit="subject" corresp="life_events"
+                            ana="religion"/>Years passed on with few changes but such as come with
+                        the advance of time in the career of a young woman. During many years she
+                        devoted herself to religious studies, and canvassed with a clear judgment
+                        the peculiar tenets of the sect in which she had been nurtured. She kept a
+                        diary of the impressions and doubts she entertained, but ultimately embraced
+                        the faith of her father. (69)</p>
                     <p>Collected biographies that do provide a more complete picture of Elizabeth
                         Fry’s struggle between worldly and religious influences still contain an
                         element that appears across the board: all presenters in these collections
                         mark an absolute reformation of character, so that the adult heroine
                         retained no unworthy qualities. </p>
                     <p><milestone unit="subject" corresp="life_events" ana="religion"/>One
-                        significant figure in Betsy's path towards Plain Quakerism was <name
-                            corresp="agents" ana="superior">William Savery</name>, an American
-                        Quaker minister. Hearing him preach was a revelatory experience for the
-                        impressionable young woman:<rs corresp="narrative_elements"
-                            ana="quotation_writing_by_subject"> “Today I felt <hi rend="italics"
-                                >that there is a God</hi>—I have been devotional &amp; my mind
-                            has been led away from the follies it mostly is wrapped up in—I loved
-                            the man as if he was almost sent from heaven—we had much serious talk
-                            &amp; what he said to me was like a refreshing shower on parched up
-                            earth" (<hi rend="italics">Memoir</hi>, 48).</rs> When
-                            <name>Savery</name> is discussed in contemporary biographies, her
-                        feelings about him become the proper response of a pupil. <milestone
-                            unit="subject" corresp="life_events" ana="love"/>Yet <name
+                        significant figure in Betsy's path towards <rs corresp="history"
+                            ana="church">Plain Quakerism</rs> was <name corresp="agents"
+                            ana="superior">William Savery</name>, an American <rs corresp="history"
+                            ana="church">Quaker</rs>minister. Hearing him preach was a revelatory
+                        experience for the impressionable young woman:<rs
+                            corresp="narrative_elements" ana="quotation_writing_by_subject"> “Today
+                            I felt <hi rend="italics">that there is a God</hi>—I have been
+                            devotional &amp; my mind has been led away from the follies it
+                            mostly is wrapped up in—I loved the man as if he was almost sent from
+                            heaven—we had much serious talk &amp; what he said to me was like a
+                            refreshing shower on parched up earth" (<hi rend="italics">Memoir</hi>,
+                            48).</rs> When <name>Savery</name> is discussed in contemporary
+                        biographies, her feelings about him become the proper response of a pupil.
+                            <milestone unit="subject" corresp="life_events" ana="love"/>Yet <name
                             type="presenter">June Rose</name> calls it an “infatuation” with the
                         married, middle-aged preacher, one that Betsy's sisters teased her about.
                             <rs corresp="narrative_elements" ana="anecdote">During a trip to <rs
                                 corresp="places" ana="city">London</rs>, she contrived to see
-                            Savery, one morning even waiting in the parlor of the house where he was
-                            staying until she met him.</rs>
-                        <name type="presenter">Rose</name> writes: “Through her journal in London
-                        runs the thread of William Savery and religion. <rs
-                            corresp="narrative_elements" ana="focalization">She realized that the
-                            two were dangerously intertwined.</rs> . . . In religion she found an
-                        outlet for her highly emotional and hypersensitive nature but she had come
-                        to religion through a man” (24). This compromising piece of her religious
-                        enlightenment never emerges in nineteenth-century versions.</p>
+                                <name>Savery</name>, one morning even waiting in the parlor of the
+                            house where he was staying until she met him.</rs>
+                        <name>Rose</name> writes: “Through her journal in <rs corresp="places"
+                            ana="city">London</rs> runs the thread of <name>William Savery</name>
+                        and religion. <rs corresp="narrative_elements" ana="focalization">She
+                            realized that the two were dangerously intertwined.</rs> . . . In
+                        religion she found an outlet for her highly emotional and hypersensitive
+                        nature but she had come to religion through a man” (24). This compromising
+                        piece of her religious enlightenment never emerges in <rs corresp="history"
+                            ana="era">nineteenth-century</rs> versions.</p>
                     <p><milestone unit="subject" corresp="life_events" ana="religion"/>Part of
-                        Betsy's development towards Plain Quakerism involved adopting the Society's
-                        strict rules for inner discipline, which prohibited dancing, singing and all
-                        ornamental attire. Her determination placed her at uncomfortable odds with
-                        her family, who found her refusal to join in with their pleasures irritating
-                        and disapproved of her obsession with religion. <milestone unit="subject"
-                            corresp="life_events" ana="vocation"/><rs corresp="subject_type"
-                            ana="philanthropist">Instead, like many ladies of her class, she turned
-                            her attention towards the needs of the poor around her and opened a
-                            Sunday school where she read Gospel stories and gave lessons to local
-                            children.</rs>
+                        Betsy's development towards <rs corresp="history" ana="church">Plain
+                            Quakerism</rs> involved adopting the Society's strict rules for inner
+                        discipline, which prohibited dancing, singing and all ornamental attire. Her
+                        determination placed her at uncomfortable odds with her family, who found
+                        her refusal to join in with their pleasures irritating and disapproved of
+                        her obsession with religion. <milestone unit="subject" corresp="life_events"
+                            ana="vocation"/><rs corresp="subject_type" ana="philanthropist">Instead,
+                            like many ladies of her class, she turned her attention towards the
+                            needs of the poor around her and opened a Sunday <rs corresp="places"
+                                ana="school">school</rs><milestone unit="subject"
+                                corresp="life_events" ana="religion"/> where she read Gospel stories
+                            and gave lessons to local children.</rs>
                         <milestone unit="subject" corresp="narrative_rhetoric"
                             ana="topos_appearance"/>Betsy gradually adopted the outward appearance
                         of Plain Quakerism, publicly wearing the cap (that would later be the
                         distinguishing feature of her famed image) for the first time in
-                            <date>1799</date> at a party given by her cousins in London (Rose, 33).
-                            <milestone unit="subject" corresp="genre_conventions"
-                            ana="discriminated_event"/>The hagiographical versions insist that Fry’s
-                        public act of embracing Plain Quakerism’s garb signaled her rejection of all
-                        selfish, materialistic pleasures. <name type="presenter">June Rose</name>
-                        suggests otherwise. Fry, after purchasing extravagant cloth to make ordinary
-                        aprons, writes in her memoir: <rs corresp="narrative_elements"
-                            ana="quotation_writing_by_subject">“It seems inconsistent to dress plain
-                            from principle and economy and then have my things so fine and
-                            expensive,”</rs> but according to Rose, Fry allowed herself to indulge
-                        in this contradiction between principle and practice all her life (35). <rs
-                            corresp="narrative_elements" ana="description">She always wore dresses
-                            that appeared sober, being simple in design and muted in color; yet,
-                            less conspicuous to the eye, her clothing was made from the finest, most
-                            expensive fabrics. Rose notes that the characteristic brown silk shawl,
-                            which accompanied the famous cap, was lined inside with ermine
-                            (35).</rs> And Fry was certainly conscientious of her public appearance:
-                            <rs corresp="narrative_elements" ana="anecdote">when traveling through
-                                <rs corresp="places" ana="continent">Europe</rs> as a celebrated <rs
+                            <date>1799</date> at a party given by her cousins in <rs
+                            corresp="places" ana="city">London</rs> (Rose, 33). <milestone
+                            unit="subject" corresp="genre_conventions" ana="discriminated_event"
+                        />The hagiographical versions insist that Fry’s public act of embracing
+                        Plain Quakerism’s garb signaled her rejection of all selfish, materialistic
+                        pleasures. <name>June Rose</name> suggests otherwise. Fry, after purchasing
+                        extravagant cloth to make ordinary aprons, writes in her memoir: <rs
+                            corresp="narrative_elements" ana="quotation_writing_by_subject">“It
+                            seems inconsistent to dress plain from principle and economy and then
+                            have my things so fine and expensive,”</rs> but according to Rose, Fry
+                        allowed herself to indulge in this contradiction between principle and
+                        practice all her life (35). <rs corresp="narrative_elements"
+                            ana="description">She always wore dresses that appeared sober, being
+                            simple in design and muted in color; yet, less conspicuous to the eye,
+                            her clothing was made from the finest, most expensive fabrics. Rose
+                            notes that the characteristic brown silk shawl, which accompanied the
+                            famous cap, was lined inside with ermine (35).</rs> And Fry was
+                        certainly conscientious of her public appearance: <rs
+                            corresp="narrative_elements" ana="anecdote">when traveling through <rs
+                                corresp="places" ana="continent">Europe</rs> as a celebrated <rs
                                 corresp="subject_type" ana="philanthropist">philanthropist</rs>, a
                             member of Fry's party sat on and disfigured her expensive, new Quaker
                             cap, almost spelling disaster for the entire trip. Fortunately, some
@@ -4739,39 +4754,46 @@
                         criticized her for neglecting the domestic duties of marriage and
                         motherhood. </p>
                     <p><milestone unit="subject" corresp="narrative_elements" ana="focalization"
-                            /><name type="presenter">Rose</name> bluntly analyzes Fry's conflict
-                        between private and public duties: “It was necessary for her to see her work
-                        as divinely inspired, for it was only through her religion, through her
-                        status as a Minister, that she could <hi rend="italics">emancipate
-                            herself</hi> and leave the domestic sphere with any peace of mind”(92,
-                        emphasis added). Perhaps ungenerously, Rose asserts that Fry preferred
-                        public ministry because it attracted the attention of a rapt audience;
-                        having been desperate for notice as a child in a large family, she refused
-                        her own numerous children the attention they needed from her. The collected
-                        biographies avoid confronting any neglect the children suffered while their
-                        mother exerted herself in public philanthropy. <milestone unit="subject"
-                            corresp="narrative_rhetoric" ana="topos_mission"/>Calling Elizabeth Fry
-                        a “ministering angel to her fellow-creatures,” <name type="presenter"
-                            >Mossman's</name> sketch focuses on her charitable labors, only alluding
-                        to the fellow-creatures of her own home in a final gloss: “She believed in
-                        some instances, her own amongst other, that, under the immediate direction
-                        of the Spirit of God, individuals were called to leave for a time their home
-                        and families, and devote themselves to the work of the ministry” (81).
-                        Mossman's comment has striking parallels to Rose, yet only the more recent
-                        biographer indicts Elizabeth Fry's personal motivations in her public
-                        calling and considers that her conscious choice to “emancipate herself”
-                        neglected her family’s development. </p>
-                    <p>The development of others, especially of female prison inmates, became
-                        Elizabeth's primary concern. In <date>1813</date>, accompanied by <name
-                            corresp="agents" ana="female_peer">Anna Buxton</name>, she first entered
-                            <rs corresp="places" ana="prison">Newgate Penitentiary</rs>, where she
-                        saw women, both hardened criminals and minor offenders, detained together
-                        with their innocent children. They perceived that the conditions—gambling,
+                            /><name>Rose</name> bluntly analyzes Fry's conflict between private and
+                        public duties: “It was necessary for her to see her work as <rs
+                            corresp="agents" ana="sacred_or_divine">divinely inspired</rs>, for it
+                        was only through her religion, through her status as a Minister, that she
+                        could <hi rend="italics">emancipate herself</hi> and leave the <rs
+                            corresp="places" ana="home">domestic sphere</rs> with any peace of
+                        mind”(92, emphasis added). Perhaps ungenerously, Rose asserts that
+                            <milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="topos_influence"/>Fry preferred public ministry because it
+                        attracted the attention of a rapt audience; having been desperate for notice
+                        as a child in a large family, she refused her own numerous children the
+                        attention they needed from her. The collected biographies avoid confronting
+                        any neglect the children suffered while their mother exerted herself in
+                        public philanthropy. <milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="topos_mission"/>Calling Elizabeth Fry a “ministering angel to her
+                        fellow-creatures,” <name type="presenter">Mossman's</name> sketch focuses on
+                        her charitable labors, only alluding to the fellow-creatures of her own home
+                        in a final gloss: <milestone unit="subject" corresp="narrative_elements"
+                            ana="focalization"/>“She believed in some instances, her own amongst
+                        other, that, <rs corresp="agents" ana="sacred_or_divine">under the immediate
+                            direction of the Spirit of God</rs>, individuals were <milestone
+                            unit="subject" corresp="life_events" ana="vocation"/>called to leave for
+                        a time their home and families, and devote themselves to the work of the
+                        ministry” (81). <name type="presenter">Mossman's</name> comment has striking
+                        parallels to <name>Rose</name>, yet only the more recent biographer indicts
+                        Elizabeth Fry's personal motivations in her public calling and considers
+                        that her conscious choice to “emancipate herself” neglected her family’s
+                        development. </p>
+                    <p><milestone unit="subject" corresp="subject_type" ana="philanthropist"/>The
+                        development of others, especially of <rs corresp="agents" ana="female_below"
+                            >female prison inmates</rs>, became Elizabeth's primary concern. In
+                            <date>1813</date>, accompanied by <name corresp="agents"
+                            ana="female_peer">Anna Buxton</name>, she first entered <rs
+                            corresp="places" ana="prison">Newgate Penitentiary</rs>, where she saw
+                        women, both hardened criminals and minor offenders, detained together with
+                        their innocent children. They perceived that the conditions—gambling,
                         drinking and brawls between the women—only further degraded the morals of
                         the inmates and corrupted their children's minds, whose first words were to
-                        repeat the vulgar language they daily heard. <milestone unit="subject"
-                            corresp="subject_type" ana="philanthropist"/>Immediately, she and her
-                        friend set to work providing much-needed clothing and clean bedding for the
+                        repeat the vulgar language they daily heard. Immediately, she and her friend
+                        set to work providing much-needed clothing and clean bedding for the
                         prisoners and Elizabeth read the Bible aloud to them during the visits.
                             <milestone unit="subject" corresp="subject_type" ana="reformer"/>Four
                         years later, she would return to Newgate with her mind set on reforming the
@@ -4779,104 +4801,144 @@
                         system of discipline. <milestone unit="subject" corresp="history"
                             ana="progress"/>In a move that was extremely progressive for the time,
                         Elizabeth addressed the women directly and asked for their consent before
-                        instituting her new system, which set up schools and provided inmates with
-                        paid labor opportunities. She allowed them to vote on the rules of
-                        discipline (which prohibited drinking and gambling) before they were
-                        adopted. <milestone unit="subject" corresp="narrative_rhetoric"
-                            ana="topos_rescue_fallen_women"/>The change she effected at Newgate won
-                        her public renown: turning a group of fallen women, once considered unruly
-                        beasts, into lady-like women who diligently applied their needles to sewing
-                        and knitting for an honest living. <milestone unit="subject"
-                            corresp="narrative_rhetoric" ana="trope_light_into_darkness"
-                        />Biographers often link Elizabeth Fry’s reformation of Newgate with an
-                        emblem that was also applied to missionary martyr <name
-                            corresp="ANN_HASSELTINE_JUDSON">Ann Hasseltine Judson</name>: the
-                        heroine carrying a civilizing light into darkness. The narrative effect of
-                        this emblem is heightened by a detail from Elizabeth’s journal: during her
-                        conversion, she tried to overcome her childhood fear of darkness,
+                        instituting her new system, which set up <rs corresp="places" ana="school"
+                            >schools</rs> and provided inmates with paid labor opportunities. She
+                        allowed them to vote on the rules of discipline (which prohibited drinking
+                        and gambling) before they were adopted. <milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="topos_rescue_fallen_women"/>The change
+                        she effected at Newgate won her public renown: turning a group of fallen
+                        women, once considered unruly beasts, into lady-like women who diligently
+                        applied their needles to sewing and knitting for an honest living.
+                            <milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="trope_light_into_darkness"/>Biographers often link Elizabeth Fry’s
+                        reformation of Newgate with an emblem that was also applied to missionary
+                        martyr <name corresp="ANN_HASSELTINE_JUDSON" ana="missionary">Ann Hasseltine
+                            Judson</name>: the heroine carrying a civilizing light into darkness.
+                        The narrative effect of this emblem is heightened by a detail from
+                        Elizabeth’s journal: <milestone unit="subject" corresp="life_events"
+                            ana="religion"/>during her conversion, she tried to overcome her <rs
+                            corresp="life_events" ana="childhood">childhood fear of darkness</rs>,
                         conditioning herself to the dark by remaining alone in rooms at night (<hi
                             rend="italics">Memoir</hi>, 84). </p>
-                    <p>The fable of Elizabeth Fry's entry into Newgate is lovingly retold by
-                        presenters who conflate details and heighten her heroism. Almost universally
-                        in these biographical fictions, she enters the prison alone, “her only
-                        shield her faith and purity—her sole weapons the charity that hopeth all
-                        things, believeth all things, and a copy of the New Testament opened in her
-                        hand” (Russell, 16-17). To the jailer who warned her not to go amongst the
-                        unruly women, or if she must, to leave her purse and watch in his
-                        safekeeping, she is said to reply “I am not afraid” (or, if scared,
-                        overcoming it with miraculous fortitude) and to show no concern about her
-                        valuables. Adams and Foster even write that such was the impression
-                        Elizabeth made on her first visit, “far from being robbed, when she dropped
-                        some article a woman ran after her to restore it” (16). According to Rose,
-                        Elizabeth did in fact leave her watch with the jailer for safekeeping
-                        (68-71). Nearly all accounts condense the first visit in January of 1813
-                        with her later return at Christmas of 1816, presumably to create the idea of
-                        her immediate (and thus more heroic) intercession to alleviate the appalling
-                        conditions she found at Newgate. </p>
-                    <p>Elizabeth Fry's untiring reform work was heroic, without need to resort to
-                        eulogy. Defying the opinions of the male institutional leaders, she showed
-                        at Newgate that her compassionate system of discipline transformed inmates,
-                        and she pressed the Lord Mayor of London for its official adoption into the
-                        prison system (a move that guaranteed funding from the government). In 1818,
-                        she was the first woman asked to testify in the House of Commons, providing
-                        evidence from the Newgate system before a Committee on London Prisons.
-                        Elizabeth organized a women's group, The Association for the Improvement of
-                        the Female Prisoners in Newgate, and traveled across Britain encouraging
-                        socially prominent women to form their own local Ladies' Associations—in
-                        1821 Elizabeth's Newgate organization was expanded into the British Ladies'
-                        Society for Promoting the Reformation of Female Prisoners, possibly
-                        Britain's first nationwide women's activist group (Haan, ODNB). Later in her
-                        career, she traveled extensively in Europe and influenced sovereigns and
-                        ministers to follow her ideas about improving prison conditions and
-                        rehabilitating inmates. </p>
-                    <p>Prison reform was not her only mission, although Newgate and her system of
-                        female discipline were what propelled Elizabeth Fry to public celebrity.
-                        Collected biographies that compiled eminent figures into narratives of
-                        female heroism naturally focused on the legend of Newgate, an irresistible
-                        image of triumph. Yet Elizabeth Fry felt her calling in many other avenues:
-                        she extended her system of female discipline and schooling onto convict
-                        ships that transported exiled prisoners, and worked to ensure that these
-                        women had an honest means of supporting themselves in the colonies; she
+                    <p><milestone unit="subject" corresp="genre_conventions"
+                            ana="discriminated_event"/><milestone unit="subject"
+                            corresp="narrative_elements" ana="episode"/><milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="recognition"/>The fable of Elizabeth
+                        Fry's entry into Newgate is lovingly retold by presenters who conflate
+                        details and heighten her heroism. <milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="trope_alone"/>Almost universally in
+                        these biographical fictions, she enters the prison alone, <rs
+                            corresp="narrative_rhetoric" ana="topos_mission">“her only shield her
+                            faith and purity—her sole weapons the charity that hopeth all things,
+                            believeth all things, and a copy of the New Testament opened in her
+                            hand”</rs> (Russell, 16-17). To the jailer who <rs
+                            corresp="narrative_elements" ana="speech_others">warned her not to go
+                            amongst the unruly women, or if she must, to leave her purse and watch
+                            in his safekeeping,</rs> she is said to reply <rs
+                            corresp="narrative_elements" ana="speech_subject">“I am not afraid”</rs>
+                        (or, if scared, overcoming it with miraculous fortitude) and to show no
+                        concern about her valuables. <milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="topos_influence"/><name
+                            type="presenter">Adams</name> and <name type="presenter">Foster</name>
+                        even write that such was the impression Elizabeth made on her first visit,
+                        “far from being robbed, when she dropped some article a woman ran after her
+                        to restore it” (16). According to <name>Rose</name>, Elizabeth did in fact
+                        leave her watch with the jailer for safekeeping (68-71). <rs
+                            corresp="narrative_elements" ana="temporal_effects">Nearly all accounts
+                            condense the first visit in <date>January of 1813</date> with her later
+                            return at <date>Christmas of 1816</date>, presumably to create the idea
+                            of her immediate (and thus more heroic) intercession to alleviate the
+                            appalling conditions she found at Newgate.</rs></p>
+                    <p><milestone unit="subject" corresp="subject_type" ana="reformer"/>Elizabeth
+                        Fry's untiring reform work was heroic, without need to resort to eulogy.
+                            <milestone unit="subject" corresp="history" ana="progress"/><milestone
+                            unit="subject" corresp="history" ana="campaign"/><rs corresp="agents"
+                            ana="social_determination">Defying the opinions of the male
+                            institutional leaders</rs>, she showed at Newgate that her compassionate
+                        system of discipline transformed inmates, and she pressed the <rs
+                            corresp="history" ana="leader">Lord Mayor</rs> of <rs corresp="places"
+                            ana="city">London</rs> for its official adoption into the prison system
+                        (a move that guaranteed funding from the government). In <date>1818</date>,
+                        she was the first woman asked to testify in the <rs corresp="history"
+                            ana="government">House of Commons</rs>, providing evidence from the
+                        Newgate system before a Committee on London Prisons. Elizabeth organized a
+                        women's group, The Association for the Improvement of the Female Prisoners
+                        in Newgate, and traveled across Britain encouraging <rs corresp="agents"
+                            ana="female_peer">socially prominent women</rs> to form their own local
+                        Ladies' Associations—in <date>1821</date> Elizabeth's Newgate organization
+                        was expanded into the British Ladies' Society for Promoting the Reformation
+                        of Female Prisoners, possibly Britain's first nationwide women's activist
+                        group (Haan, ODNB). Later in her career, she traveled extensively in <rs
+                            corresp="places" ana="continent">Europe</rs> and influenced <rs
+                            corresp="agents" ana="superior">sovereigns and ministers</rs> to follow
+                        her ideas about improving prison conditions and rehabilitating inmates. </p>
+                    <p><milestone unit="subject" corresp="life_events" ana="vocation"/>Prison reform
+                        was not her only mission, although Newgate and her system of female
+                        discipline were what propelled Elizabeth Fry to public celebrity. Collected
+                        biographies that compiled eminent figures into narratives of female heroism
+                        naturally focused on the legend of Newgate, an irresistible image of
+                        triumph. <milestone unit="subject" corresp="subject_type"
+                            ana="philanthropist"/>Yet Elizabeth Fry felt her calling in many other
+                        avenues: she extended her system of female discipline and schooling onto
+                        convict ships that transported exiled prisoners, and worked to ensure that
+                        these women had an honest means of supporting themselves in the colonies;
+                            <milestone unit="subject" corresp="subject_type" ana="reformer"/>she
                         pushed for better treatment of confined lunatics and spoke out against the
-                        practice of solitary confinement; she campaigned against the death penalty
-                        and succeeded in its being abolished as a punishment for minor offenses; she
-                        used her influence to create temporary shelter where hundreds of paupers
-                        were housed and fed in the winter of 1819; she advocated for religious
-                        toleration; she established libraries for the edification of England's
-                        coastguard; she delivered innumerable religious tracts for the Bible
-                        Society; she established the Society of Nursing Sisters in 1840 and created
-                        a training school with the aim of reforming nurse work—a group of “Fry
-                        nurses” were amongst Florence Nightingale's party that went to Scutari
-                        during the Crimean War (Rose, 180). Elizabeth Fry is even considered today
-                        as a protofeminist, her call for the formation of Ladies' Committees being
-                        seen as a precursor to an organized women's movement (Haan, ODNB). </p>
+                        practice of solitary confinement; <milestone unit="subject"
+                            corresp="subject_type" ana="rescuer"/>she campaigned against the death
+                        penalty and succeeded in its being abolished as a punishment for minor
+                        offenses; she used her influence to create temporary shelter where hundreds
+                        of paupers were housed and fed in the <date>winter of 1819</date>; she
+                        advocated for religious toleration; she established libraries for the
+                        edification of England's coastguard; <milestone unit="subject"
+                            corresp="subject_type" ana="missionary"/>she delivered innumerable
+                        religious tracts for the Bible Society; she established the Society of
+                        Nursing Sisters in <date>1840</date> and created a training <rs
+                            corresp="places" ana="school"/>school with the aim of reforming nurse
+                        work—a group of “Fry nurses” were amongst <name
+                            corresp="FLORENCE_NIGHTINGALE" ana="medical">Florence
+                            Nightingale's</name> party that went to <rs corresp="places"
+                            ana="district">Scutari</rs> during the <rs corresp="history"
+                            ana="international_war">Crimean War</rs> (Rose, 180). Elizabeth Fry is
+                        even considered today as a protofeminist, her call for the formation of
+                        Ladies' Committees being seen as a precursor to an organized women's
+                        movement (Haan, ODNB). </p>
                     <p>Nevertheless, the commendation in collective biographies suppresses further
-                        aspects of Elizabeth Fry's life: on doctor’s orders, she took opium and
-                        drank alcohol daily and by the end of her life seems to have become heavily
-                        dependent; in 1828, John Fry's bank went under and he was disowned by the
-                        Society of Friends, while Elizabeth was accused of having drawn funds from
-                        her husband's bank to support her charities (Rose, 138-9). Yet not all that
-                        is conspicuously missing from the biographies concerns unpleasant details
-                        from her private life. No presenter takes notice of the public opposition
-                        her work received from later, secular men who were professionally engaged in
-                        reforming social policy. These male reformers passed over Elizabeth Fry's
-                        legacy as amateur charity work done by an old-fashioned, Plain Quaker woman
-                        (Haan, ODNB). Thus, the picture we have from contemporary biographies is
-                        double-edged. It may be a carefully-crafted figure of moral heroism,
-                        diminishing the full human being Elizabeth Fry. Yet, if these early
-                        biographers had not canonized her in print during the nineteenth century,
-                        her name and its connection to humanitarian reform might have been lost,
-                        trampled by the steady and impersonal march of “progress” in modern
-                        society.</p>
-                    <p>On October 13th, 1845, Elizabeth died after suffering a stroke. Over a
-                        thousand people attended the funeral held at the Quaker burial ground at
-                        Barking to pay their respects to this remarkable woman, a religious outsider
-                        yet of a prominent, wealthy family, who had become a saintly figure of pious
-                        dedication and compassionate philanthropy. The heroine Elizabeth Fry was not
-                        just a Christian worker who ministered to those she saw in need, but was
-                        publicly recognized as an influential prison reformer—at a time when it was
-                        unprecedented for a woman to be actively involved in structuring social
-                        policy. </p>
+                        aspects of Elizabeth Fry's life: <milestone unit="subject"
+                            corresp="life_events" ana="illness_or_health"/>on doctor’s orders, she
+                        took opium and drank alcohol daily and by the end of her life seems to have
+                        become heavily dependent; <milestone unit="subject" corresp="life_events"
+                            ana="ordeal"/>in <date>1828</date>, <name corresp="agents" ana="husband"
+                            >John Fry's</name>
+                        <rs corresp="places" ana="commercial_setting">bank</rs> went under and he
+                        was <milestone unit="subject" corresp="agents" ana="social_determination"
+                        />disowned by the Society of Friends, while Elizabeth was accused of having
+                        drawn funds from her husband's bank to support her charities (Rose, 138-9).
+                        Yet not all that is conspicuously missing from the biographies concerns
+                        unpleasant details from her private life. No presenter takes notice of the
+                        public opposition her work received from later, secular men who were
+                        professionally engaged in reforming social policy. These male reformers
+                        passed over Elizabeth Fry's legacy as amateur charity work done by an
+                        old-fashioned, Plain Quaker woman (Haan, ODNB). Thus, the picture we have
+                        from contemporary biographies is double-edged. It may be a carefully-crafted
+                        figure of moral heroism, diminishing the full human being Elizabeth Fry.
+                        Yet, if these early biographers had not canonized her in print during the
+                            <rs corresp="history" ana="era">nineteenth century</rs>, her name and
+                        its connection to humanitarian reform might have been lost, trampled by the
+                        steady and impersonal march of “progress” in modern society.</p>
+                    <p><milestone unit="subject" corresp="life_events" ana="death"/>On <date>October
+                            13th, 1845</date>, Elizabeth died after suffering a stroke. <milestone
+                            unit="subject" corresp="life_events" ana="memorial"/>Over a thousand
+                        people attended the funeral held at the <rs corresp="places" ana="shrine"
+                            >Quaker burial ground at Barking</rs> to <milestone unit="subject"
+                            corresp="life_events" ana="recognition"/>pay their respects to this
+                        remarkable woman, a religious outsider yet of a prominent, wealthy family,
+                        who had become a saintly figure of pious dedication and compassionate
+                        philanthropy. The heroine Elizabeth Fry was not just a Christian worker who
+                        ministered to those she saw in need, but was publicly recognized as an
+                        influential prison reformer—<milestone unit="subject" corresp="subject_type"
+                            ana="pioneer_in_male_field"/>at a time when it was unprecedented for a
+                        woman to be actively involved in structuring social policy. </p>
                     <p>Works Cited</p>
                     <note>Adams, Elmer Cleveland, and Warren Dunham Foster. <title><hi
                                 rend="italics">Heroines of Modern Progress</hi>.</title> New York:
@@ -5269,12 +5331,13 @@
                         <title>Title of article</title>
                         <bibl>Short bibliographic/origin statement</bibl>
                     </head>
-                    <p><milestone unit="subject" corresp="subject_type" ana="writer"/>Charlotte Brontë is one of the few writers whose life has assumed as great a
-                        presence in the popular imagination as her works themselves. As Lucasta
-                        Miller observes in her book <hi rend="italics">The Brontë Myth</hi>, a study
-                        of the various afterlives of the Brontë sisters through biography, “the
-                        sisters themselves, plus their entire family, have become mythic figures in
-                        their own right. Since 1857, when Elizabeth Gaskell published her famous <hi
+                    <p><milestone unit="subject" corresp="subject_type" ana="writer"/>Charlotte
+                        Brontë is one of the few writers whose life has assumed as great a presence
+                        in the popular imagination as her works themselves. As Lucasta Miller
+                        observes in her book <hi rend="italics">The Brontë Myth</hi>, a study of the
+                        various afterlives of the Brontë sisters through biography, “the sisters
+                        themselves, plus their entire family, have become mythic figures in their
+                        own right. Since 1857, when Elizabeth Gaskell published her famous <hi
                             rend="italics">Life of Charlotte Brontë</hi>, hardly a year has gone by
                         without some form of biographical material on the Brontës appearing—from
                         articles in newspapers to full-length lives, from images on tea towels to
@@ -5295,55 +5358,72 @@
                         Though Anne and Emily were also published novelists and poets, Charlotte was
                         the most prolific of the three, and remains the most popular.</p>
 
-                    <p><milestone unit="subjeect" corresp="life_events" ana="family"/>Charlotte was the third of six children, <rs corresp="life_events" ana="birth">born to Patrick and <rs corresp="agents" ana="mother">Maria Branwell
-                        Brontë</rs> on April 21, 1816, at the Market Street Parsonage in <rs corresp="places" ana="village">Thornton</rs>, near
-                        <rs corresp="places" ana="town">Bradford</rs> in <rs corresp="places" ana="region">Yorkshire</rs>.</rs> When Charlotte was four years old, the family moved
-                        to <rs corresp="places" ana="village">the village of Haworth</rs> in <rs corresp="places" ana="region">Yorkshire</rs>, where her father had been appointed
-                        perpetual curate. <rs corresp="life_events" ana="death">Charlotte’s mother died shortly thereafter, in 1821,
-                        leaving Patrick to raise the young family.</rs> (Charlotte’s siblings Branwell,
+                    <p><milestone unit="subjeect" corresp="life_events" ana="family"/>Charlotte was
+                        the third of six children, <rs corresp="life_events" ana="birth">born to
+                            Patrick and <rs corresp="agents" ana="mother">Maria Branwell Brontë</rs>
+                            on April 21, 1816, at the Market Street Parsonage in <rs
+                                corresp="places" ana="village">Thornton</rs>, near <rs
+                                corresp="places" ana="town">Bradford</rs> in <rs corresp="places"
+                                ana="region">Yorkshire</rs>.</rs> When Charlotte was four years old,
+                        the family moved to <rs corresp="places" ana="village">the village of
+                            Haworth</rs> in <rs corresp="places" ana="region">Yorkshire</rs>, where
+                        her father had been appointed perpetual curate. <rs corresp="life_events"
+                            ana="death">Charlotte’s mother died shortly thereafter, in 1821, leaving
+                            Patrick to raise the young family.</rs> (Charlotte’s siblings Branwell,
                         Emily, and Anne had been born in 1817, 1818, and 1820, respectively.) The
                         children’s aunt, Elizabeth Branwell, came to help care for them.</p>
 
-                    <p><milestone unit="subject" corresp="life_events" ana="education"/>In 1824, Charlotte and Emily were sent to join their two older sisters, <rs corresp="agents" ana="sister">Maria</rs>
-                        and <rs corresp="agents" ana="sister">Elizabeth</rs>, at <rs corresp="places" ana="school">the Clergy Daughters' School</rs> at Cowan Bridge in
-                        <rs corresp="places" ana="region">Lancashire</rs>. <milestone unit="subject" corresp="life_events" ana="ordeal"/>The traumatic experience they had there, caused by harsh
-                        discipline and poor diet, would remain in Charlotte’s memory all her life,
-                        emerging in her later fiction. The Clergy Daughters' School became Lowood
-                        School in <hi rend="italics">Jane Eyre</hi>, and its founder, the Reverend
-                        William Carus Wilson, was the model for Mr. Brocklehurst, the hypocritical
-                        Calvinistic disciplinarian in that novel. <milestone unit="subject" corresp="life_events" ana="illness_or_health"/>An epidemic of typhoid fever broke
-                        out at the school, and both Maria and Elizabeth fell victim to the disease.
-                        <rs corresp="life_events" ana="death">Maria was sent home in February 1825, and died in May.</rs> Elizabeth was sent
-                        home in late May, and Patrick soon thereafter sent for Charlotte and Emily
-                        to be brought back to Haworth as well. <rs corresp="life_events" ana="death">Elizabeth died on the 15th of June.</rs>
-                        Charlotte immortalized her oldest sister Maria as the long-suffering,
-                        angelic character Helen Burns in <hi rend="italics">Jane Eyre</hi>.</p>
+                    <p><milestone unit="subject" corresp="life_events" ana="education"/>In 1824,
+                        Charlotte and Emily were sent to join their two older sisters, <rs
+                            corresp="agents" ana="sister">Maria</rs> and <rs corresp="agents"
+                            ana="sister">Elizabeth</rs>, at <rs corresp="places" ana="school">the
+                            Clergy Daughters' School</rs> at Cowan Bridge in <rs corresp="places"
+                            ana="region">Lancashire</rs>. <milestone unit="subject"
+                            corresp="life_events" ana="ordeal"/>The traumatic experience they had
+                        there, caused by harsh discipline and poor diet, would remain in Charlotte’s
+                        memory all her life, emerging in her later fiction. The Clergy Daughters'
+                        School became Lowood School in <hi rend="italics">Jane Eyre</hi>, and its
+                        founder, the Reverend William Carus Wilson, was the model for Mr.
+                        Brocklehurst, the hypocritical Calvinistic disciplinarian in that novel.
+                            <milestone unit="subject" corresp="life_events" ana="illness_or_health"
+                        />An epidemic of typhoid fever broke out at the school, and both Maria and
+                        Elizabeth fell victim to the disease. <rs corresp="life_events" ana="death"
+                            >Maria was sent home in February 1825, and died in May.</rs> Elizabeth
+                        was sent home in late May, and Patrick soon thereafter sent for Charlotte
+                        and Emily to be brought back to Haworth as well. <rs corresp="life_events"
+                            ana="death">Elizabeth died on the 15th of June.</rs> Charlotte
+                        immortalized her oldest sister Maria as the long-suffering, angelic
+                        character Helen Burns in <hi rend="italics">Jane Eyre</hi>.</p>
 
-                    <p>Charlotte, <rs corresp="agents" ana="brother">Branwell</rs>, <rs corresp="agents" ana="sister">Emily</rs>, and <rs corresp="agents" ana="sister">Anne</rs> became increasingly close after the loss
-                        of their two oldest siblings. <milestone unit="subject" corresp="life_events" ana="childhood"/>Taking refuge from grief in imaginative play,
-                        the four children began to make up stories, opposing the arbitrariness of
-                        death with the control of authorship. Their first stories took inspiration
-                        from a box of Branwell’s tin soldiers, but as they outgrew these toys, the
-                        children established their tales in worlds of their own creation. Not
-                        surprisingly, Charlotte and Branwell dominated their younger sisters in
-                        these plays, and eventually the siblings split off into two groups—Charlotte
-                        and Branwell chronicling the imaginary kingdom of Angria, while Emily and
-                        Anne created the alternate world of Gondal (Miller, 5). Sibling rivalry
-                        fuelled these endeavors, as well as collaboration, and Charlotte often felt
-                        threatened by Branwell’s early sense of entitlement with regard to the
-                        male-dominated world of literary production.</p>
+                    <p>Charlotte, <rs corresp="agents" ana="brother">Branwell</rs>, <rs
+                            corresp="agents" ana="sister">Emily</rs>, and <rs corresp="agents"
+                            ana="sister">Anne</rs> became increasingly close after the loss of their
+                        two oldest siblings. <milestone unit="subject" corresp="life_events"
+                            ana="childhood"/>Taking refuge from grief in imaginative play, the four
+                        children began to make up stories, opposing the arbitrariness of death with
+                        the control of authorship. Their first stories took inspiration from a box
+                        of Branwell’s tin soldiers, but as they outgrew these toys, the children
+                        established their tales in worlds of their own creation. Not surprisingly,
+                        Charlotte and Branwell dominated their younger sisters in these plays, and
+                        eventually the siblings split off into two groups—Charlotte and Branwell
+                        chronicling the imaginary kingdom of Angria, while Emily and Anne created
+                        the alternate world of Gondal (Miller, 5). Sibling rivalry fuelled these
+                        endeavors, as well as collaboration, and Charlotte often felt threatened by
+                        Branwell’s early sense of entitlement with regard to the male-dominated
+                        world of literary production.</p>
 
-                    <p><milestone unit="subject" corresp="life_events" ana="education"/>Charlotte and her siblings were prolific readers as well as writers. Her
-                        novels are steeped in literary and biblical allusion, the product of this
-                        wide-ranging education in classical and contemporary writers. “Unlike most
-                        middle-class Victorian households,” writes Christine Alexander, “there was
-                        little censorship of reading in the Brontë parsonage. The Bible was staple
-                        fare; yet <rs corresp="agents" ana="father">Patrick Brontë</rs> also encouraged an eclectic diet of Homer, Virgil,
-                        Shakespeare, Bunyan, Milton, Pope, Johnson, Gibbon, Cowper, Burns,
-                        Wordsworth, Coleridge, Scott, Southey, and Byron” (ODNB). The children also
-                        devoured the poetry and prose published in monthly periodicals, such as <hi
-                            rend="italics">Blackwood’s Magazine</hi> and <hi rend="italics"
-                            >Fraser’s</hi>.</p>
+                    <p><milestone unit="subject" corresp="life_events" ana="education"/>Charlotte
+                        and her siblings were prolific readers as well as writers. Her novels are
+                        steeped in literary and biblical allusion, the product of this wide-ranging
+                        education in classical and contemporary writers. “Unlike most middle-class
+                        Victorian households,” writes Christine Alexander, “there was little
+                        censorship of reading in the Brontë parsonage. The Bible was staple fare;
+                        yet <rs corresp="agents" ana="father">Patrick Brontë</rs> also encouraged an
+                        eclectic diet of Homer, Virgil, Shakespeare, Bunyan, Milton, Pope, Johnson,
+                        Gibbon, Cowper, Burns, Wordsworth, Coleridge, Scott, Southey, and Byron”
+                        (ODNB). The children also devoured the poetry and prose published in monthly
+                        periodicals, such as <hi rend="italics">Blackwood’s Magazine</hi> and <hi
+                            rend="italics">Fraser’s</hi>.</p>
 
                     <p>One of the writers who most influenced Charlotte as an emerging writer was
                         Lord Byron (1788-1824). His poetry furnished her imagination with exotic
@@ -5357,44 +5437,51 @@
                         Charlotte’s unqualified admiration for this type of character would become
                         more ambivalent and nuanced over the intervening years.</p>
 
-                    <p><milestone unit="subject" corresp="life_events" ana="education"/>In January 1831, Charlotte was sent to the <rs corresp="places" ana="school">Roe Head School</rs>, about 15 miles
-                        from home. This second experience with institutional education was much more
-                        positive than the first. Charlotte worked hard at her studies, and formed
-                        several lasting friendships. Two women in particular would become lifelong
-                        friends and correspondents: “the conscientious, calm, religious <rs corresp="agents" ana="friend">Ellen Nussey</rs>
-                        who fulfilled Charlotte's dutiful self and need for affection, and the
-                        fiercely independent <rs corresp="agents" ana="friend">Mary Taylor</rs>, whose radical views on politics, women,
-                        and religion fuelled Charlotte's ambitious and rebellious nature” (ODNB). In
-                        many ways these two very different women exemplified a split in Charlotte’s
-                        nature, which tension would emerge in her writing. Charlotte would often
-                        express feelings of doubt and guilt over the working of her “fiery
-                        imagination” in letters to <rs corresp="agents" ana="friend">Ellen Nussey</rs>, worrying that the content of her
-                        writing was not appropriate for a clergyman’s daughter (Miller, 12). Though
-                        she stayed at Roe Head for only eighteen months as a pupil, Charlotte
-                        excelled in French and drawing, as well as continuing to write.</p>
+                    <p><milestone unit="subject" corresp="life_events" ana="education"/>In January
+                        1831, Charlotte was sent to the <rs corresp="places" ana="school">Roe Head
+                            School</rs>, about 15 miles from home. This second experience with
+                        institutional education was much more positive than the first. Charlotte
+                        worked hard at her studies, and formed several lasting friendships. Two
+                        women in particular would become lifelong friends and correspondents: “the
+                        conscientious, calm, religious <rs corresp="agents" ana="friend">Ellen
+                            Nussey</rs> who fulfilled Charlotte's dutiful self and need for
+                        affection, and the fiercely independent <rs corresp="agents" ana="friend"
+                            >Mary Taylor</rs>, whose radical views on politics, women, and religion
+                        fuelled Charlotte's ambitious and rebellious nature” (ODNB). In many ways
+                        these two very different women exemplified a split in Charlotte’s nature,
+                        which tension would emerge in her writing. Charlotte would often express
+                        feelings of doubt and guilt over the working of her “fiery imagination” in
+                        letters to <rs corresp="agents" ana="friend">Ellen Nussey</rs>, worrying
+                        that the content of her writing was not appropriate for a clergyman’s
+                        daughter (Miller, 12). Though she stayed at Roe Head for only eighteen
+                        months as a pupil, Charlotte excelled in French and drawing, as well as
+                        continuing to write.</p>
 
                     <p>Charlotte went back to Haworth briefly, but returned to Roe Head in July
                         1835, this time as a teacher. Charlotte remained there for three and a half
                         years. She soon became impatient however, at the strictures of the life she
                         was leading. Charlotte confessed to her journal her frustrations with her
-                        straitjacketed world: <rs corresp="narrative_elements" ana="quotation_writing_by_subject">“The thought came over me: am I to spend all the best
-                        part of my life in this wretched bondage, forcibly suppressing my rage at
-                        the idleness, the apathy and the hyperbolical and most asinine stupidity of
-                        those fatheaded oafs, and on compulsion assuming an air of kindness,
-                        patience and assiduity?”</rs> (ODNB). </p>
+                        straitjacketed world: <rs corresp="narrative_elements"
+                            ana="quotation_writing_by_subject">“The thought came over me: am I to
+                            spend all the best part of my life in this wretched bondage, forcibly
+                            suppressing my rage at the idleness, the apathy and the hyperbolical and
+                            most asinine stupidity of those fatheaded oafs, and on compulsion
+                            assuming an air of kindness, patience and assiduity?”</rs> (ODNB). </p>
 
-                    <p><milestone unit="subject" corresp="life_events" ana="vocation"/>She continued to harbor literary ambitions secretly while at Roe Head. Once,
-                        while on holiday, she sent some of her poems to Robert Southey, the Poet
-                        Laureate of England. This was an audacious move, and Charlotte revealed to
-                        him in her letter her desire “to be forever known” (Miller, 10). <rs corresp="narrative_elements" ana="quotation_letter">Southey was
-                        gracious enough to write back, but his response was far from encouraging. He
-                        admitted that she possessed “the faculty of Verse,” but declared
-                        unequivocally that “Literature cannot be the business of a woman’s life:
-                        &amp; it ought not to be.” He advised her to attend to her “proper
-                        duties” as a woman, and to be “less eager for celebrity” (Miller 12).</rs>
-                        Chastised, Charlotte responded that she attempted to repress herself and
-                        conceal her ambitions from those around her. The accusation that her
-                        ambitions were “unfeminine” would plague Charlotte all her life.</p>
+                    <p><milestone unit="subject" corresp="life_events" ana="vocation"/>She continued
+                        to harbor literary ambitions secretly while at Roe Head. Once, while on
+                        holiday, she sent some of her poems to Robert Southey, the Poet Laureate of
+                        England. This was an audacious move, and Charlotte revealed to him in her
+                        letter her desire “to be forever known” (Miller, 10). <rs
+                            corresp="narrative_elements" ana="quotation_letter">Southey was gracious
+                            enough to write back, but his response was far from encouraging. He
+                            admitted that she possessed “the faculty of Verse,” but declared
+                            unequivocally that “Literature cannot be the business of a woman’s life:
+                            &amp; it ought not to be.” He advised her to attend to her “proper
+                            duties” as a woman, and to be “less eager for celebrity” (Miller
+                            12).</rs> Chastised, Charlotte responded that she attempted to repress
+                        herself and conceal her ambitions from those around her. The accusation that
+                        her ambitions were “unfeminine” would plague Charlotte all her life.</p>
 
                     <p>Charlotte felt increasingly guilty about her continued indulgence of her
                         Angrian fantasies, which nurtured her passionate desire to be loved and
@@ -5403,21 +5490,24 @@
                         age, escaping the “mirthless, lifeless room” at the school, she recorded
                         this daydream:</p>
 
-                    <p rend="block"><rs corresp="narrative_elements" ana="quotation_writing_by_subject">Never shall I, Charlotte Brontë, forget…how distinctly I,
-                        sitting in the school-room at Roe-head, saw the Duke of Zamorna…his black
-                        horse turned loose grazing among the heather, the moonlight so mild and so
-                        exquisitely tranquil, sleeping upon that vast and vacant road…I was quite
-                        gone. I had really utterly forgot where I was and all the gloom and
-                        cheerlessness of my situation. I felt myself breathing quick and short as I
-                        beheld the Duke lifting up his sable crest which undulated as the plume of a
-                        hearse waves to the wind, and knew that that music…was exciting him and
-                        quickening his ever rapid pulse.</rs> (Maynard, 13-14)</p>
+                    <p rend="block"><rs corresp="narrative_elements"
+                            ana="quotation_writing_by_subject">Never shall I, Charlotte Brontë,
+                            forget…how distinctly I, sitting in the school-room at Roe-head, saw the
+                            Duke of Zamorna…his black horse turned loose grazing among the heather,
+                            the moonlight so mild and so exquisitely tranquil, sleeping upon that
+                            vast and vacant road…I was quite gone. I had really utterly forgot where
+                            I was and all the gloom and cheerlessness of my situation. I felt myself
+                            breathing quick and short as I beheld the Duke lifting up his sable
+                            crest which undulated as the plume of a hearse waves to the wind, and
+                            knew that that music…was exciting him and quickening his ever rapid
+                            pulse.</rs> (Maynard, 13-14)</p>
 
                     <p>Charlotte worried that this kind of passionate fantasy was unwholesome, and
-                        confessed her doubts to <rs corresp="agents" ana="friend">Ellen Nussey</rs>. <rs corresp="narrative_rhetoric" ana="advice">Nussey’s conventional Christian advice
-                        only increased Charlotte’s sense of her own sinfulness.</rs> Charlotte left Roe
-                        Head in 1838, chastened and sobered by her experiences, but not quenched in
-                        her literary ambition.</p>
+                        confessed her doubts to <rs corresp="agents" ana="friend">Ellen Nussey</rs>.
+                            <rs corresp="narrative_rhetoric" ana="advice">Nussey’s conventional
+                            Christian advice only increased Charlotte’s sense of her own
+                            sinfulness.</rs> Charlotte left Roe Head in 1838, chastened and sobered
+                        by her experiences, but not quenched in her literary ambition.</p>
 
                     <p>Returning home, Charlotte continued to write; two more novellas in the
                         Angrian mode concluded her involvement in the saga. “Although Angria
@@ -5449,37 +5539,44 @@
                         open their own school. However, the sisters felt they could attract more
                         pupils if their language skills were more robust. Plans for the school were
                         postponed in favor of a scheme in which Charlotte and Emily would enroll at
-                        a school in <rs corresp="places" ana="city">Brussels</rs> in order to improve their French. <milestone unit="subject" corresp="genre_conventions" ana="movement"/>The sisters traveled
-                        to <rs corresp="places" ana="nation">Belgium</rs> in February 1842, and enrolled at the Pensionnat Heger. <milestone unit="subject" corresp="life_events" ana="relationship"/>In
-                        Constantin Heger, a professor of French literature, Charlotte finally found
-                        a man who challenged her intellectually and encouraged her literary
-                        ambitions. Heger was, by all accounts, a strict master, and his comments on
-                        the Brontës’ French compositions show that he did not spare his criticism,
-                        even though he was impressed by the abilities of these young
-                        Englishwomen.</p>
+                        a school in <rs corresp="places" ana="city">Brussels</rs> in order to
+                        improve their French. <milestone unit="subject" corresp="genre_conventions"
+                            ana="movement"/>The sisters traveled to <rs corresp="places"
+                            ana="nation">Belgium</rs> in February 1842, and enrolled at the
+                        Pensionnat Heger. <milestone unit="subject" corresp="life_events"
+                            ana="relationship"/>In Constantin Heger, a professor of French
+                        literature, Charlotte finally found a man who challenged her intellectually
+                        and encouraged her literary ambitions. Heger was, by all accounts, a strict
+                        master, and his comments on the Brontës’ French compositions show that he
+                        did not spare his criticism, even though he was impressed by the abilities
+                        of these young Englishwomen.</p>
 
-                    <p><rs corresp="life_events" ana="death">Charlotte and Emily were called home in October by the death of their Aunt
-                        Branwell.</rs> Emily decided to stay in England and live off the legacy she had
-                        received from their aunt, and Charlotte returned alone to Brussels in
-                        January 1843. <rs corresp="narrative_rhetoric" ana="trope_alone">Madame Heger’s increasing coldness towards Charlotte, who was
-                        obviously devoted to her husband, alienated Charlotte from the Hegers and
-                        contributed to her feelings of loneliness and depression.</rs> (She would later
-                        use this time in her life as material for her novels <hi rend="italics">The
-                            Professor</hi> and <hi rend="italics">Villette</hi>.) By the end of
-                        1843, Charlotte had decided to return to Haworth.</p>
+                    <p><rs corresp="life_events" ana="death">Charlotte and Emily were called home in
+                            October by the death of their Aunt Branwell.</rs> Emily decided to stay
+                        in England and live off the legacy she had received from their aunt, and
+                        Charlotte returned alone to Brussels in January 1843. <rs
+                            corresp="narrative_rhetoric" ana="trope_alone">Madame Heger’s increasing
+                            coldness towards Charlotte, who was obviously devoted to her husband,
+                            alienated Charlotte from the Hegers and contributed to her feelings of
+                            loneliness and depression.</rs> (She would later use this time in her
+                        life as material for her novels <hi rend="italics">The Professor</hi> and
+                            <hi rend="italics">Villette</hi>.) By the end of 1843, Charlotte had
+                        decided to return to Haworth.</p>
 
-                    <p>Charlotte’s depression deepened upon her return to <rs corresp="places" ana="nation">England</rs>. Plans for the
-                        girls’ school fell through, and Charlotte longed for the company of M.
-                        Heger. She wrote him a series of increasingly desperate and passionate
-                        letters, to which he did not reply. Charlotte’s unrequited love tortured
-                        her, and she begged Heger to write back to her. Wounded by his silence,
-                        Charlotte discontinued her correspondence with him.</p>
+                    <p>Charlotte’s depression deepened upon her return to <rs corresp="places"
+                            ana="nation">England</rs>. Plans for the girls’ school fell through, and
+                        Charlotte longed for the company of M. Heger. She wrote him a series of
+                        increasingly desperate and passionate letters, to which he did not reply.
+                        Charlotte’s unrequited love tortured her, and she begged Heger to write back
+                        to her. Wounded by his silence, Charlotte discontinued her correspondence
+                        with him.</p>
 
-                    <p>Her private suffering was compounded by shared family trials, when <rs corresp="agents" ana="brother">Branwell</rs>
-                        was dismissed in disgrace from his post as tutor for having an affair with
-                        his employer’s wife. Branwell led a dissipated and self-destructive life
-                        after this, nursing his addiction to alcohol and opium. Charlotte’s brother
-                        became a strain on his family and his health began a rapid decline.</p>
+                    <p>Her private suffering was compounded by shared family trials, when <rs
+                            corresp="agents" ana="brother">Branwell</rs> was dismissed in disgrace
+                        from his post as tutor for having an affair with his employer’s wife.
+                        Branwell led a dissipated and self-destructive life after this, nursing his
+                        addiction to alcohol and opium. Charlotte’s brother became a strain on his
+                        family and his health began a rapid decline.</p>
 
                     <p>Once again, Charlotte took refuge from grief in work, focusing on her goal of
                         becoming a published writer. In 1845, she discovered a notebook containing
@@ -5564,30 +5661,37 @@
                         Newby attempted to capitalize on the popularity of Charlotte’s recent novel
                         by claiming that <hi rend="italics">Agnes Grey</hi> and <hi rend="italics"
                             >Wuthering Heights</hi> were written by the same author as <hi
-                            rend="italics">Jane Eyre</hi>. Charlotte and Anne traveled to <rs corresp="places" ana="city">London</rs> to
-                        confirm their identities to Charlotte’s publisher George Smith, who welcomed
-                        them and took them to the opera, the Royal Academy, and the National Gallery
-                        (ODNB).</p>
+                            rend="italics">Jane Eyre</hi>. Charlotte and Anne traveled to <rs
+                            corresp="places" ana="city">London</rs> to confirm their identities to
+                        Charlotte’s publisher George Smith, who welcomed them and took them to the
+                        opera, the Royal Academy, and the National Gallery (ODNB).</p>
 
                     <p>Upon her return to Haworth, Charlotte began work on her next novel, <hi
                             rend="italics">Shirley</hi>, but her new literary success was soon
-                        overshadowed by family tragedy. <milestone unit="subject" corresp="life_events" ana="ordeal"/>Within a year, all three of her remaining
-                        siblings were dead. Branwell’s health had been declining steadily, weakened
-                        by alcoholism and addiction to opiates. His grandiose expectations of
-                        artistic or literary fame never came to fruition. <rs corresp="life_events" ana="death">Branwell died of chronic
-                        bronchitis in September 1848, at age thirty-one.</rs> Charlotte grieved as much
-                        for Branwell’s wasted life as she did for his death.</p>
+                        overshadowed by family tragedy. <milestone unit="subject"
+                            corresp="life_events" ana="ordeal"/>Within a year, all three of her
+                        remaining siblings were dead. Branwell’s health had been declining steadily,
+                        weakened by alcoholism and addiction to opiates. His grandiose expectations
+                        of artistic or literary fame never came to fruition. <rs
+                            corresp="life_events" ana="death">Branwell died of chronic bronchitis in
+                            September 1848, at age thirty-one.</rs> Charlotte grieved as much for
+                        Branwell’s wasted life as she did for his death.</p>
 
-                    <p><rs corresp="life_events" ana="illness_or_health">mily caught a cold on the day of Branwell’s funeral. She grew steadily
-                        weaker, refusing to consult a doctor, despite Charlotte’s urging.</rs> <rs corresp="life_events" ana="death">She died
-                        in December 1848, of pulmonary tuberculosis, at age thirty.</rs> <rs corresp="life_events" ana="illness_or_health">Anne also
-                        displaying symptoms of tuberculosis, Charlotte rushed her to the seaside in
-                        an attempt to help her recover,</rs> but <rs corresp="life_events" ana="death">Anne died in May 1849, aged
-                        twenty-nine.</rs></p>
+                    <p><rs corresp="life_events" ana="illness_or_health">mily caught a cold on the
+                            day of Branwell’s funeral. She grew steadily weaker, refusing to consult
+                            a doctor, despite Charlotte’s urging.</rs>
+                        <rs corresp="life_events" ana="death">She died in December 1848, of
+                            pulmonary tuberculosis, at age thirty.</rs>
+                        <rs corresp="life_events" ana="illness_or_health">Anne also displaying
+                            symptoms of tuberculosis, Charlotte rushed her to the seaside in an
+                            attempt to help her recover,</rs> but <rs corresp="life_events"
+                            ana="death">Anne died in May 1849, aged twenty-nine.</rs></p>
 
-                    <p><milestone unit="subject" corresp="narrative_rhetoric" ana="topos_loss"/>The sole surviving Brontë sibling, Charlotte was bereft of her imaginative
-                        and literary support. <milestone unit="subject" corresp="narrative_rhetoric" ana="trope_alone"/>Lonely and desolate, Charlotte still managed to finish
-                            <hi rend="italics">Shirley</hi> by the end of August 1849. It was
+                    <p><milestone unit="subject" corresp="narrative_rhetoric" ana="topos_loss"/>The
+                        sole surviving Brontë sibling, Charlotte was bereft of her imaginative and
+                        literary support. <milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="trope_alone"/>Lonely and desolate, Charlotte still managed to
+                        finish <hi rend="italics">Shirley</hi> by the end of August 1849. It was
                         published in October by Smith, Elder &amp; Co. <hi rend="italics"/><hi
                             rend="italics">Shirley</hi> was not as successful as <hi rend="italics"
                             >Jane Eyre</hi>, but nevertheless, it did address important social
@@ -5601,15 +5705,18 @@
                         masterful novel.</p>
 
                     <p>While Charlotte kept her identity a secret from the public, for the time
-                        being, she was curious to meet the literary celebrities of <rs corresp="places" ana="city">London</rs>, and asked
-                        George Smith to introduce her to some of them when she stayed with him and
-                        his mother in 1849 and 1850. There she met such prominent writers as
-                        Thackeray and Lewes, who noted her shyness and her lack beauty. <milestone unit="subject" corresp="narrative_rhetoric" ana="topos_appearance"/>Charlotte
-                        had always been self-conscious about her unimpressive physicality, and it
-                        seems these encounters caused her more uneasiness than pleasure. She also
-                        met <rs corresp="agents" ana="friend">Elizabeth Gaskell</rs> on a trip to <rs corresp="places" ana="city">Edinburgh</rs> in 1850. Gaskell was a novelist
-                        who would become Charlotte’s friend and confidant, and later, her first
-                        biographer.</p>
+                        being, she was curious to meet the literary celebrities of <rs
+                            corresp="places" ana="city">London</rs>, and asked George Smith to
+                        introduce her to some of them when she stayed with him and his mother in
+                        1849 and 1850. There she met such prominent writers as Thackeray and Lewes,
+                        who noted her shyness and her lack beauty. <milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="topos_appearance"/>Charlotte had
+                        always been self-conscious about her unimpressive physicality, and it seems
+                        these encounters caused her more uneasiness than pleasure. She also met <rs
+                            corresp="agents" ana="friend">Elizabeth Gaskell</rs> on a trip to <rs
+                            corresp="places" ana="city">Edinburgh</rs> in 1850. Gaskell was a
+                        novelist who would become Charlotte’s friend and confidant, and later, her
+                        first biographer.</p>
 
                     <p>The criticism she had received for <hi rend="italics">Jane Eyre</hi> still
                         rankled, however, and now that her sisters were dead, there was no longer as
@@ -5629,42 +5736,45 @@
                         In the introduction to her seminal biography of the Brontës, Juliet Barker
                         describes how she trawled through the archives of local newspapers published
                         in the time of the Brontës, unearthing a large amount of information that
-                        controverts <rs corresp="narrative_elements" ana="quotation_biography">"the myth that Haworth was a remote and obscure village where
-                        nothing ever happened. It was a township, a small, industrial town in the
-                        heart of a much larger chapelry, where politics and religion were hotly
-                        disputed and culture thrived”</rs> (Barker, xix).</p>
+                        controverts <rs corresp="narrative_elements" ana="quotation_biography">"the
+                            myth that Haworth was a remote and obscure village where nothing ever
+                            happened. It was a township, a small, industrial town in the heart of a
+                            much larger chapelry, where politics and religion were hotly disputed
+                            and culture thrived”</rs> (Barker, xix).</p>
 
-                    <p>However, if the view of <rs corresp="places" ana="rural_setting">Haworth Parsonage as a completely isolated landmark
-                        in the midst of unadulterated moorland</rs> is a popular myth, as both Miller and
-                        Barker observe, it is a myth that is partly of Charlotte Brontë’s own
-                        making. This myth was embellished by Elizabeth Gaskell in her famous <hi
-                            rend="italics">Life of Charlotte Brontë</hi>, which attempted to portray
-                        Charlotte as a dutiful, self-denying woman—sanitizing anything controversial
-                        in her works or papers. Gaskell discusses Brontë’s career as an author in
-                        gendered terms, seeing the role of author and the role of woman as competing
-                        for first place in Charlotte’s priorities. Gaskell emphasizes her belief
-                        that for Charlotte, the duties of womanhood always came first. “When a man
-                        becomes an author,” writes Gaskell, “it is probably merely a change of
-                        employment to him…[another] steps into his vacant place, and probably does
-                        as well as he.” For a woman, however, cannot shirk her domestic
-                        responsibilities to pursue a career:</p>
+                    <p>However, if the view of <rs corresp="places" ana="rural_setting">Haworth
+                            Parsonage as a completely isolated landmark in the midst of
+                            unadulterated moorland</rs> is a popular myth, as both Miller and Barker
+                        observe, it is a myth that is partly of Charlotte Brontë’s own making. This
+                        myth was embellished by Elizabeth Gaskell in her famous <hi rend="italics"
+                            >Life of Charlotte Brontë</hi>, which attempted to portray Charlotte as
+                        a dutiful, self-denying woman—sanitizing anything controversial in her works
+                        or papers. Gaskell discusses Brontë’s career as an author in gendered terms,
+                        seeing the role of author and the role of woman as competing for first place
+                        in Charlotte’s priorities. Gaskell emphasizes her belief that for Charlotte,
+                        the duties of womanhood always came first. “When a man becomes an author,”
+                        writes Gaskell, “it is probably merely a change of employment to
+                        him…[another] steps into his vacant place, and probably does as well as he.”
+                        For a woman, however, cannot shirk her domestic responsibilities to pursue a
+                        career:</p>
 
-                    <p rend="block"><rs corresp="narrative_elements" ana="quotation_biography">But no other can take up the quiet regular duties of the
-                        daughter, the wife, or the mother, as well as she whom God has appointed to
-                        fill that particular place: a woman’s principal work in life is hardly left
-                        to her own choice; nor can she drop the domestic charges devolving on her as
-                        an individual, for the exercise of the most splendid talents that were ever
-                        bestowed.</rs> (Gaskell, 271-272)</p>
+                    <p rend="block"><rs corresp="narrative_elements" ana="quotation_biography">But
+                            no other can take up the quiet regular duties of the daughter, the wife,
+                            or the mother, as well as she whom God has appointed to fill that
+                            particular place: a woman’s principal work in life is hardly left to her
+                            own choice; nor can she drop the domestic charges devolving on her as an
+                            individual, for the exercise of the most splendid talents that were ever
+                            bestowed.</rs> (Gaskell, 271-272)</p>
 
                     <p>Gaskell was obviously at pains to prove to the world that Charlotte did not
                         neglect her “principal work” as a woman in order to exercise her talents,
                         that she was a dutiful daughter and sister, without unfeminine ambitions. As
-                        Gaskell’s biography was commissioned by <rs corresp="agents" ana="father">Patrick Brontë</rs> to fight the
-                        “misrepresentations” that had sullied his daughter’s image, such an
-                        idealized portrayal of Charlotte is hardly surprising (Miller, 64).
-                        Gaskell’s portrayal continued to influence popular and scholarly conceptions
-                        of Charlotte’s life, and it is only recently that the larger picture has
-                        begun to be pieced together.</p>
+                        Gaskell’s biography was commissioned by <rs corresp="agents" ana="father"
+                            >Patrick Brontë</rs> to fight the “misrepresentations” that had sullied
+                        his daughter’s image, such an idealized portrayal of Charlotte is hardly
+                        surprising (Miller, 64). Gaskell’s portrayal continued to influence popular
+                        and scholarly conceptions of Charlotte’s life, and it is only recently that
+                        the larger picture has begun to be pieced together.</p>
 
                     <p>In her last completed novel, <hi rend="italics">Villette</hi>, Charlotte
                         reworked the material she had previously used in <hi rend="italics">The
@@ -5688,18 +5798,23 @@
                         domesticity; literary achievement is a sort of consolation prize.</p>
 
                     <p>Ironically, Charlotte would soon after achieve the kind of domestic happiness
-                        from which Thackeray thought she was permanently excluded. <milestone unit="subject" corresp="life_events" ana="relationship"/>Her father’s
-                        curate, <rs corresp="agents" ana="husband">Arthur Bell Nicholls</rs>, declared his attachment to Charlotte. <milestone unit="subject" corresp="life_events" ana="marriage"/>Although
-                        <rs corresp="agents" ana="father">Patrick Brontë</rs> initially disapproved of the match, Charlotte and Arthur were
-                        married in Haworth Church on June 29, 1854. They spent their honeymoon in
-                        Ireland, and then returned to Haworth to care for Charlotte’s aging
-                        father.</p>
+                        from which Thackeray thought she was permanently excluded. <milestone
+                            unit="subject" corresp="life_events" ana="relationship"/>Her father’s
+                        curate, <rs corresp="agents" ana="husband">Arthur Bell Nicholls</rs>,
+                        declared his attachment to Charlotte. <milestone unit="subject"
+                            corresp="life_events" ana="marriage"/>Although <rs corresp="agents"
+                            ana="father">Patrick Brontë</rs> initially disapproved of the match,
+                        Charlotte and Arthur were married in Haworth Church on June 29, 1854. They
+                        spent their honeymoon in Ireland, and then returned to Haworth to care for
+                        Charlotte’s aging father.</p>
 
                     <p>Charlotte’s letters reveal that it was a happy marriage, but sadly, her new
-                        happiness was short-lived. <milestone unit="subject" corresp="life_events" ana="illness_or_health"/>In the early stages of pregnancy, Charlotte was
-                        weakened by morning sickness, caught a chill, and <milestone unit="subject" corresp="life_events" ana="death"/>died on March 31, 1855.
-                        She had been married less than a year. At her death, Charlotte left the
-                        manuscript of her last novel <hi rend="italics">Emma</hi> unfinished. </p>
+                        happiness was short-lived. <milestone unit="subject" corresp="life_events"
+                            ana="illness_or_health"/>In the early stages of pregnancy, Charlotte was
+                        weakened by morning sickness, caught a chill, and <milestone unit="subject"
+                            corresp="life_events" ana="death"/>died on March 31, 1855. She had been
+                        married less than a year. At her death, Charlotte left the manuscript of her
+                        last novel <hi rend="italics">Emma</hi> unfinished. </p>
 
 
 
@@ -7281,7 +7396,8 @@
                         collected biography: Ann was said to have received the first <rs
                             corresp="narrative_elements" key="focalization">conscious glimpse</rs>
                         of the eternal peril in which she had placed her soul when she incidentally
-                        picked up <name corresp="HANNAH_MORE">Hannah More's</name>
+                        picked up <name corresp="HANNAH_MORE" ana="philanthropist">Hannah
+                            More's</name>
                         <title>
                             <hi rend="italics">Strictures on Female Education</hi>
                         </title> and her eyes providentially fell upon a <rs
@@ -7326,18 +7442,21 @@
                     <p><milestone unit="subject" corresp="life_events" ana="vocation"/>Another sign
                         of Ann's development towards the work of Christian ministry for which she
                         would become famous is signaled early in <date>1807,</date> when she started
-                        a school for local children. She instructed them in the manner of her own
-                        education and also tried to impart upon them the importance of leading a
-                        religious life. <milestone unit="subject" corresp="narrative_elements"
-                            ana="anecdote"/>On the first day she taught, Ann began class by reading
-                        aloud a prayer, <rs corresp="narrative_elements" key="speech_subject"
+                        a <rs corresp="places" ana="school">school for local children</rs>. She
+                        instructed them in the manner of her own education and also tried to impart
+                        upon them the importance of leading a religious life. <milestone
+                            unit="subject" corresp="narrative_elements" ana="anecdote"/>On the first
+                        day she taught, Ann began class by reading aloud a prayer, <rs
+                            corresp="narrative_elements" ana="quotation_writing_by_subject"
                             >"astonishing the little creatures by such a beginning, as probably some
                             of them had never heard a prayer before"</rs> (qtd. in Goodrich, 346).
                         Soon, she was teaching children from other towns, traveling to hold classes
                         in <rs type="places" key="town">Salem, Haverhill and Newbury</rs> (Goodrich,
-                        346). <milestone unit="subject" corresp="life_events" ana="religion"/>By
-                        exporting her efforts to educate others in Christianity, she prefigured her
-                        later missionary work. Similarly, Ann's biographer in the collected work <title>
+                        346). <milestone unit="subject" corresp="life_events" ana="religion"
+                            /><milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="topos_mission"/>By exporting her efforts to educate others in
+                        Christianity, she prefigured her later missionary work. Similarly, Ann's
+                        biographer in the collected work <title>
                             <hi rend="italics">Queenly Women, Crowned and Uncrowned</hi>
                         </title>, states:</p>
                     <p rend="block"><milestone unit="subject" corresp="narrative_rhetoric"
@@ -7356,21 +7475,25 @@
                     <p>In <date>1810</date>, <rs type="places" key="nation">America</rs> did not yet
                         have an organized Society to promote foreign mission work, although several
                         Christian associations already existed to spread Gospel teachings in remote
-                        parts of the United States. In June of that year, the General Association of
-                        Massachusetts (Congregational) met in Bradford. <name>Adoniram
+                        parts of the United States. In June of that year, the <rs corresp="history"
+                            ana="church">General Association of Massachusetts (Congregational)</rs>
+                        met in <rs corresp="places" ana="town">Bradford</rs>. <name>Adoniram
                             Judson</name><milestone unit="subject" corresp="agents" ana="husband"/>
                         a Seminary student and member of the <rs type="history" key="church">Third
-                            Congregational Church in Plymouth</rs>, came to this meeting to <rs
-                            type="history" key="campaign">petition the Association for its support
-                            of a foreign missionary cause</rs>. As a result of this petition, the
-                        American Board of Commissioners for Foreign Missions was created and Judson
-                        along with three other men were granted a missionary designation to <rs
-                            type="places" key="nation">India</rs>. During this meeting in Bradford,
-                        a dinner was held for the ministers at <name type="agents" key="father">Mr.
-                            Hasseltine's</name>house; Judson was present and Ann waited on the table
-                        (Wyeth, 30). <milestone unit="subject" corresp="life_events" ana="love"
-                        />From this first encounter, a strong attachment grew between them and
-                        Judson soon sought her hand in marriage, a proposal that also <rs
+                            Congregational Church</rs> in <rs corresp="places" ana="town"
+                            >Plymouth</rs>, came to this meeting to <rs type="history"
+                            key="campaign">petition the Association for its support of a foreign
+                            missionary cause</rs>. <milestone unit="subject" corresp="history"
+                            ana="progress"/>As a result of this petition, the <rs corresp="history"
+                            ana="church">American Board of Commissioners for Foreign Missions</rs>
+                        was created and Judson along with three other men were granted a missionary
+                        designation to <rs type="places" key="nation">India</rs>. During this
+                        meeting in Bradford, a dinner was held for the ministers at <name
+                            type="agents" key="father">Mr. Hasseltine's</name><rs corresp="places"
+                            ana="domestic_space">house</rs>; Judson was present and Ann waited on
+                        the table (Wyeth, 30). <milestone unit="subject" corresp="life_events"
+                            ana="love"/>From this first encounter, a strong attachment grew between
+                        them and Judson soon sought her hand in marriage, a proposal that also <rs
                             corresp="life_events" key="vocation">asked Ann to join him in foreign
                             mission work</rs>. Acknowledging the danger in which she would be
                         placed, Judson wrote a letter to Mr. Hasseltine, asking:</p>
@@ -7400,7 +7523,7 @@
                         missionary impulse she had felt independently since her own conversion.
                         Accepting his proposal and the fate that awaited her in a heathen land,
                             <milestone unit="subject" corresp="life_events" ana="marriage"/>Ann
-                        married Adoniram Judson on <date>February 5, 1812</date>. <rs
+                        married <name>Adoniram Judson</name> on <date>February 5, 1812</date>. <rs
                             corresp="genre_conventions" key="discriminated_event">Her decision to
                             leave America and journey with her husband to a part of the world
                             unknown and terrifying to the imagination was unprecedented</rs>. Her
@@ -7448,31 +7571,33 @@
                         />This sudden and monumental change distressed Ann, who wrote in her journal
                         about the pain of leaving her family and home:</p>
                     <p rend="block"><rs corresp="narrative_elements"
-                            key="quotation_writing_by_subject">My heart bleeds. O America, my native
-                            land! Must I leave thee? Must I leave my parents, my sisters and
-                            brother, my friends beloved, and all the scenes of my early youth? Must
-                            I leave thee, Bradford, my dear native town, where I spent the pleasant
-                            years of childhood; where I learnt to lisp the name of my mother?</rs>
-                        (qtd. in Bolton, 279)</p>
+                            key="quotation_writing_by_subject"><milestone unit="subject"
+                                corresp="places" ana="home"/>My heart bleeds. O <rs corresp="places"
+                                ana="nation">America</rs>, my native land! Must I leave thee? Must I
+                            leave my parents, my sisters and brother, my friends beloved, and all
+                            the scenes of my early youth? Must I leave thee, Bradford, my dear
+                            native town, where I spent the pleasant years of childhood; where I
+                            learnt to lisp the name of my mother?</rs> (qtd. in Bolton, 279)</p>
                     <p>In Burma, she would learn a different language altogether. The four-month
                         voyage at sea tested her endurance for a life that guaranteed hardships. At
                         least one other female did accompany Ann: <name corresp="HARRIET_NEWELL"
                             >Harriet Newell</name>,<milestone unit="subject" corresp="agents"
                             ana="friend"/> wife of missionary <name>Samuel Newell</name>, though the
-                        party split ways upon arrival in India. Both left America together; however,
-                        Ann was the first to commit herself to the missionary work of spreading the
-                        Gospel amongst the native people. But her friend would be the first to die
-                        in the service of this Christian calling, succumbing to illness, along with
-                        her newborn child, only a few months after arriving on land. In the pattern
-                        of modeling that collected biographers reproduce, several writers held
-                        Harriet up as <quote>"the proto-martyr of American missions"</quote>
-                        (Goodrich, 350; Wyeth, 4).</p>
+                        party split ways upon arrival in India. Both left <rs corresp="places"
+                            ana="nation">America</rs> together; however, Ann was the first to commit
+                        herself to the missionary work of spreading the Gospel amongst the native
+                        people. But her friend would be the first to die in the service of this
+                        Christian calling, succumbing to illness, along with her newborn child, only
+                        a few months after arriving on land. In the pattern of modeling that
+                        collected biographers reproduce, several writers held <name>Harriet</name>
+                        up as <quote>"the proto-martyr of American missions"</quote> (Goodrich, 350;
+                        Wyeth, 4).</p>
                     <p>Even before arriving at their final destination, Ann encountered situations
-                        that were completely alien to the experiences of her former life. <rs
-                            corresp="narrative_elements" key="episode">Biographers relate versions
-                            of the following account from her journal</rs> that <rs
-                            corresp="narrative_elements" key="desription">vividly notes the contrast
-                            from her comparatively uneventful years in Bradford</rs>:</p>
+                        that were completely alien to the experiences of her former life. <milestone
+                            unit="subject" corresp="narrative_elements" ana="episode"/>Biographers
+                        relate versions of the following account from her journal that vividly notes
+                        the contrast from her comparatively uneventful years in <rs corresp="places"
+                            ana="town">Bradford</rs>:</p>
                     <p rend="block"><rs corresp="narrative_elements"
                             key="quotation_writing_by_subject">On one occasion, Mrs. Judson was
                             compelled to take a boat, rowed by six natives...The river was rough,
@@ -7488,24 +7613,26 @@
                             manned by Hoogly watermen. . .Such a picture of the vicissitudes of life
                             certainly belongs to that volume which treats of the truth that is
                             stranger than fiction (Goodrich, 352-3)</rs>.</p>
-                    <p>Worth noting is Goodrich's emphasis on the language barrier. Just as the
-                        above account ties the ability to comfort (the native phrase translates to
-                            <quote>"Never fear, madam, never fear"</quote>) with the ability to
-                        communicate, the missionaries would have to learn the native language before
-                        they could preach the Gospel's message of saving grace. In <date>July of
-                            1813</date>, when they arrived in <rs type="places" key="village"
-                            >Rangoon, Burma</rs>, the site where the mission was established, the
-                        first thing the Judsons set about doing was to learn the language so they
-                        could translate the Bible, write religious tracts and minister to the
-                        natives in their own tongue. Adoniram apparently excelled in acquiring the
-                        formal grammatical structure of the difficult language; after three years he
-                        had written a religious tract in Burmese. <milestone unit="subject"
-                            corresp="life_events" ana="religion"/>Ann, who was more immersed in the
-                        daily lives of the native women, learned the conversational dialect more
-                        quickly than her husband and by <date>1817</date> had begun to read the
-                        Bible to a small group of women on the Sabbath (Goodrich, 354-8). Her
-                        relative ease in communication would serve her well later, when she would
-                        have to plead with Burmese authorities to spare her husband's life. </p>
+                    <p>Worth noting is <name type="presenter">Goodrich's</name> emphasis on the
+                        language barrier. Just as the above account ties the ability to comfort (the
+                        native phrase translates to <rs corresp="narrative_elements" ana="dialogue"
+                            >"Never fear, madam, never fear"</rs>) with the ability to communicate,
+                        the missionaries would have to learn the native language before they could
+                        preach the Gospel's message of saving grace. In <date>July of 1813</date>,
+                        when they arrived in <rs type="places" key="village">Rangoon, Burma</rs>,
+                            <rs corresp="places" ana="shrine">the site where the mission was
+                            established</rs>, the first thing the Judsons set about doing was to
+                        learn the language so they could translate the Bible, write religious tracts
+                        and minister to the natives in their own tongue. Adoniram apparently
+                        excelled in acquiring the formal grammatical structure of the difficult
+                        language; after three years he had written a religious tract in Burmese.
+                            <milestone unit="subject" corresp="life_events" ana="religion"/>Ann, who
+                        was more immersed in the daily lives of the native women, learned the
+                        conversational dialect more quickly than her husband and by
+                            <date>1817</date> had begun to read the Bible to a small group of women
+                        on the Sabbath (Goodrich, 354-8). Her relative ease in communication would
+                        serve her well later, when she would have to plead with Burmese authorities
+                        to spare her husband's life. </p>
 
                     <p>The image of Ann, alone, surrounded by strangers and navigating into the
                         unknown, repeatedly appears in biographies. <name type="presenter">Frank
@@ -7529,14 +7656,16 @@
                         a diplomat and convince government officials of the mission's peaceful aims.
                         An <rs type="history" key="disease">outbreak of cholera</rs> also occurred
                         during her husband's absence, and she saved everyone in the mission house
-                        from infection. Due to a conflict that was brewing between England and
-                        Burma, ships were leaving Rangoon and Ann was encouraged to go, but she
-                        turned back at the last minute in faith that her husband was still alive.
-                            <rs corresp="narrative_elements" key="temporal_effects">Two weeks</rs>
-                        later he made it back to Rangoon, to the news <quote>"that the preservation
-                            of the mission had been due to the <rs corresp="narrative_elements"
-                                key="emphasis">firmness and fearlessness</rs> of his wife"</quote>
-                        (Goodrich, 358).</p>
+                        from infection. <milestone unit="subject" corresp="history"
+                            ana="international_war"/>Due to a conflict that was brewing between <rs
+                            corresp="places" ana="nation">England</rs> and <rs corresp="places"
+                            ana="nation">Burma</rs>, ships were leaving Rangoon and Ann was
+                        encouraged to go, but she turned back at the last minute in faith that her
+                        husband was still alive. <rs corresp="narrative_elements"
+                            key="temporal_effects">Two weeks</rs> later he made it back to Rangoon,
+                        to the news <quote>"that the preservation of the mission had been due to the
+                                <rs corresp="narrative_elements" key="emphasis">firmness and
+                                fearlessness</rs> of his wife"</quote> (Goodrich, 358).</p>
                     <p>For their efforts, the Judsons were not able to baptize a native convert
                         until <date>June 27, 1819</date>. In America, <milestone unit="subject"
                             corresp="history" ana="campaign"/> friends were working on their behalf,
@@ -7549,9 +7678,10 @@
                             later spawned the American Baptist Missionary Union and The Southern
                             Baptist Convention</rs>. <milestone unit="subject" corresp="life_events"
                             ana="illness_or_health"/>In <date>1822</date>, Ann, suffering from
-                        extremely poor health, returned on her own to America in order to recover.
-                        She spent the winter in Baltimore championing her missionary cause, giving
-                        speeches and publishing her book, <title>
+                        extremely poor health, returned on her own to <rs corresp="places"
+                            ana="nation">America</rs> in order to recover. She spent the winter in
+                            <rs corresp="places" ana="city">Baltimore</rs> championing her
+                        missionary cause, giving speeches and publishing her book, <title>
                             <hi rend="italics">History of the Burman Mission</hi>
                         </title>. A year later, though not yet fully recovered in health, Ann said
                         goodbye to her friends with a sense of finality and anxiously returned to
@@ -7620,41 +7750,48 @@
                             released in <date>March of 1826</date>. Her tireless efforts had
                             sustained the men through twenty-one months of captivity.</rs> She and
                         Adoniram made plans to begin a new mission in <rs corresp="places"
-                            ana="village">Amherst, Lower Burma</rs>, the house and chapel in Rangoon
-                        having been destroyed. In <date>July of 1826</date>, he was called upon to
-                        make a journey and he left his wife and daughter, expecting to be gone for
-                        only three or four months. During this time Ann built a home for the family
-                        and two huts where she held school and ministered to the villagers on
-                        Sundays (Bolton, 292). Her husband was delayed abroad and before Adoniram
-                        returned home, he would receive word that his wife had died. <milestone
-                            unit="subject" corresp="life_events" ana="illness_or_health"/>Ann became
-                        ill after another outbreak of the fever. <milestone unit="subject"
-                            corresp="life_events" ana="death"/>She lingered for eighteen days before
-                        dying on <date>October 24, 1826</date>, with none but strangers in her
-                        company. The final message she left for the man whom she had followed to
-                        this fate was a chilling summation of her missionary sacrifice:</p>
+                            ana="village">Amherst, Lower Burma</rs>, the <rs corresp="places"
+                            ana="shrine">house and chapel</rs> in Rangoon having been destroyed. In
+                            <date>July of 1826</date>, he was called upon to make a journey and he
+                        left his wife and daughter, expecting to be gone for only three or four
+                        months. During this time Ann built a <rs corresp="places" ana="home"
+                            >home</rs> for the family and two huts where she held <rs
+                            corresp="places" ana="school">school</rs> and ministered to the
+                        villagers on Sundays (Bolton, 292). Her husband was delayed abroad and
+                        before Adoniram returned home, he would receive word that his wife had died.
+                            <milestone unit="subject" corresp="life_events" ana="illness_or_health"
+                        />Ann became ill after another <rs corresp="history" ana="disease">outbreak
+                            of the fever</rs>. <milestone unit="subject" corresp="life_events"
+                            ana="death"/>She lingered for eighteen days before dying on
+                            <date>October 24, 1826</date>, with none but strangers in her company.
+                        The final message she left for the man whom she had followed to this fate
+                        was a chilling summation of her missionary sacrifice:</p>
                     <p rend="block"><rs corresp="narrative_elements" ana="speech_subject">Tell the
                                 <rs type="agents" key="husband">"teacher"</rs> that the disease was
                             most violent, and I could not write; tell him how I suffered and died,
                             and take care of the house and things until he returns.</rs> (qtd. in
                         Bolton, 293)</p>
-                    <p>She was buried in Amherst under a hopia (hope-tree), an emblem that often
-                        appears in the background of portraits that were engraved after her death.
-                        In <date>April of 1827</date>, two-year-old <name type="agents"
+                    <p><milestone unit="subject" corresp="life_events" ana="memorial"/>She was
+                        buried in Amherst under a hopia (hope-tree), an emblem that often appears in
+                        the background of portraits that were engraved after her death. In
+                            <date>April of 1827</date>, two-year-old <name type="agents"
                             key="child_children">Maria</name> was laid to rest by her mother's
                         side.</p>
-                    <p>The first American woman to dedicate herself to the work of saving <rs
+                    <p><milestone unit="subject" corresp="subject_type" ana="missionary"/>The first
+                        American woman to dedicate herself to the work of saving <rs
                             corresp="narrative_rhetoric" ana="emphasis">"heathens,"</rs> early
-                        biographers also remember Ann Judson as a heroine for saving the imprisoned
-                        missionaries. Goodrich writes: <quote>"She seems to have been providentially
-                            designed as the <hi rend="italics">ministering angel</hi> of the Birman
-                            prison"</quote> (367, emphasis added). She is praised for her devoted
-                        ministry both to the Burmese natives and to her husband while he was held
-                        captive. Both she and her husband advocated their cause through writings for
-                        religious publications and through lectures on return visits. These
-                        representations made them famous and served as a kind of mission back home
-                        that arguably had more effect than any efforts abroad. The example she set
-                        in bearing the <milestone unit="subject" corresp="narrative_rhetoric"
+                        biographers also remember Ann Judson as <milestone unit="subject"
+                            corresp="subject_type" ana="rescuer"/>a heroine for saving the
+                        imprisoned missionaries. <name type="presenter">Goodrich</name> writes:
+                            <quote>"She seems to have been providentially designed as the <hi
+                                rend="italics">ministering angel</hi> of the Birman prison"</quote>
+                        (367, emphasis added). She is praised for her devoted ministry both to the
+                        Burmese natives and to her husband while he was held captive. Both she and
+                        her husband advocated their cause through writings for religious
+                        publications and through lectures on return visits. These representations
+                        made them famous and served as a kind of mission back home that arguably had
+                        more effect than any efforts abroad. The example she set in bearing the
+                            <milestone unit="subject" corresp="narrative_rhetoric"
                             ana="trope_light_into_darkness"/>civilizing torch of Christian grace
                         into dark, foreign spaces was held up by collected biographers as a model of
                         ministry for other women to follow.<milestone unit="subject"
