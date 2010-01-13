@@ -13,13 +13,10 @@
                     padding:0;
                     }
                 </style>
-                
-                <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/fonts/fonts-min.css" />
-                <link rel="stylesheet" type="text/css" href="javascript/yui/build/datatable/assets/skins/sam/datatable.css" />
-                <script type="text/javascript" src="http://yui.yahooapis.com/2.7.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>
-                <script type="text/javascript" src="http://yui.yahooapis.com/2.7.0/build/element/element-min.js"></script>
-                <script type="text/javascript" src="javascript/yui/build/datasource/datasource-beta-min.js"></script>
-                <script type="text/javascript" src="javascript/yui/build/datatable/datatable-beta-min.js"></script>
+				<style type="text/css" title="currentStyle">
+					@import "demo_page.css";
+					@import "demo_table.css";
+				</style>				
                 <link type="text/css" href="style.css" rel="stylesheet"/>
                 <title>The Collective Biographies of Women: Pop Chart</title>
             </head>
@@ -41,76 +38,18 @@
                         </td>
                     </tr>
                 </table>
-                <script type="text/javascript">
-                    YAHOO.util.Event.addListener(window, "load", function() {
-                    YAHOO.example.EnhanceFromMarkup = new function() {
-                    // Create a shortcut
-                    var Dom = YAHOO.util.Dom;
-                    
-                    // Contain our code under the YAHOO.example namespace
-                    var Ex = YAHOO.example,
-                    // cache of the records to mark
-                    markRecs = {};
-                    
-                    // Create a custom function to store the records needing cell coloring
-                    YAHOO.widget.DataTable.Formatter.cellMarker = function (cell,rec,col,data) {
-                    if (data &gt; 20) {
-                    // In object hash to prevent duplication
-                    markRecs[rec.getId()] = cell;
-                    }
-                    cell.innerHTML = data;
-                    };
-                    
-                    // Function to add the color class to cells
-                    Ex.updateMarks = function () {
-                    var allHTMLTags = new Array();
-                    allHTMLTags=document.getElementsByTagName("*");
-                    for (i=0; i&lt;allHTMLTags.length; i++) {
-                    if (allHTMLTags[i].className=='name') {
-                    var name = allHTMLTags[i].parentNode.innerHTML.split('&lt;')[0];
-                    var nm = allHTMLTags[i].parentNode.innerHTML.split('name=\"')[1].split('\"')[0];
-                    allHTMLTags[i].parentNode.innerHTML='<a name="' + nm + '" href="search?rows=20&amp;start=0&amp;fulltext=%27' + name + '%27&amp;action=Submit">' + name + '</a>';                   
-                    }
-                    if (allHTMLTags[i].className=='datahi') {
-                    allHTMLTags[i].parentNode.className+=allHTMLTags[i].parentNode.className?' isHi':'isHi';                    
-                    }
-                    }
-                    };
-                    
-                    var myColumnDefs = [
-                    {key:"name",label:"Name", sortable:true},
-                    {key:"category",label:"Category", sortable:true},
-                    {key:"period1",label:"1850-1870", sortable:true},
-                    {key:"period2",label:"1880-1900", sortable:true},
-                    {key:"period3",label:"1910-1930", sortable:true},
-                    {key:"total",label:"Total", sortable:true}
-                    ];
-                    
-                    Ex.myDataSource = new YAHOO.util.DataSource(YAHOO.util.Dom.get("popChart"));
-                    Ex.myDataSource.responseType = YAHOO.util.DataSource.TYPE_HTMLTABLE;
-                    Ex.myDataSource.responseSchema = {
-                    fields: [{key:"name"},
-                    {key:"category"},
-                    {key:"period1"},
-                    {key:"period2"},
-                    {key:"period3"},
-                    {key:"total"}
-                    ]
-                    };
-                    
-                    Ex.myDataTable = new YAHOO.widget.DataTable("popMarkup", myColumnDefs, Ex.myDataSource,
-                    {sortedBy:{key:"total",dir:"desc"}}
-                    );
-                    
-                    // Set row colors initially
-                    Ex.updateMarks();
-                    
-                    // Add the class to the rows on renderEvent
-                    Ex.myDataTable.subscribe('renderEvent',Ex.updateMarks);
-                    
-                    };
-                    });
-                </script>
+                <script type="text/javascript" language="javascript" src="javascript/jquery.js"></script>
+				<script type="text/javascript" language="javascript" src="javascript/jquery.dataTables.js"></script>
+				<script type="text/javascript" charset="utf-8">
+					$(document).ready(function() {
+						popChart = $('#popChart').dataTable({
+							'aaSorting': [[ 5, "desc" ]],
+							'bPaginate': false,
+							'bAutoWidth': false
+						});
+						$('a[name*=""+window.location.hash.substring(1)]+""').addClass('hilite');
+					} );
+				</script>
             </body>
         </html>
     </xsl:template>
@@ -138,14 +77,14 @@
     </xsl:template>
     
     <xsl:template match="cell">
-        <td>
+        <td class="{@role}">
             <!-- Hack for sorting to work with numbers less than ten -->
             <xsl:if test=" number(.) &lt; 10">
                 <xsl:text>&#32;</xsl:text>
             </xsl:if>
             <xsl:apply-templates/>
-            <!-- Hack for adding highlighting with YUI datatable. -->
-            <a class="{@role}" name="{../@n}"><!-- IE fix --></a>
+            <!-- Anchor tag for incoming links -->
+            <a name="{../@n}"><!-- IE fix --></a>
         </td>
     </xsl:template>
     

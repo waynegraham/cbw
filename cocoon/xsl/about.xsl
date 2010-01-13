@@ -18,8 +18,28 @@
                         </td>
                     </tr>
                     <tr>
+                        <td class="subnav">
+                            <a href="#about">About</a> |
+                            <a href="#userguide">User's Guide</a> | 
+                            <a href="#dimens">Dimensions</a>
+                        </td>
+                    </tr>
+                    <tr>
                         <td class="content">
+                            <a name="about"></a>
                             <xsl:apply-templates select="/TEI.2/text/front/div1[@type='about']"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="content">
+                            <a name="userguide"></a>
+                            <xsl:apply-templates select="/TEI.2/text/front/div1[@type='userguide']"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="content">
+                            <a name="dimens"></a>
+                            <xsl:apply-templates select="/TEI.2/text/front/div1[@type='dimens']"/>
                         </td>
                     </tr>
                 </table>
