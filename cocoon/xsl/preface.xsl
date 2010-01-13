@@ -124,7 +124,7 @@
 								</div>
 								<div id="util_container">
 									<div class="contact">
-										<div>Oulipo theme by <a href="http://andreamignolo.com">Andrea Mignolo</a>. The <a href="http://lib.virginia.edu/scholarslab/">Scholars' Lab</a> supports digital scholarship through the <a href="http://lib.virginia.edu">University of Virginia Library</a>.</div>
+										<div>Collective Biographies is a project of Alison Booth of the <a href="http://www.engl.virginia.edu">University of Virginia English Department</a>. The <a href="http://lib.virginia.edu/scholarslab/">Scholars' Lab</a> supports digital scholarship through the <a href="http://lib.virginia.edu">University of Virginia Library</a>.</div>
 										<a href="mailto:ab6j@virginia.edu" style="color:#531B15;">Contact us <img src="http://www.scholarslab.org/wp-content/themes/oulipo2/images/mail.png" alt="contact"/></a>
 									</div>
 								</div>
