@@ -622,7 +622,7 @@ dd {
 	width: auto !important;
 }
 .jcarousel-skin-tango .jcarousel-clip-horizontal {
-	height: 450px !important;
+	height: 500px !important;
 	width: 340px !important;
 }
 .jcarousel-skin-tango .jcarousel-container-horizontal {
@@ -644,7 +644,7 @@ dd {
 	background: #FFF5F0;
 	margin: 20px;
 	padding: 5px;
-	min-height: 250px;
+	min-height: 290px;
 	list-style:inside;
 }
 #sidebar p, #sidebar ul {
