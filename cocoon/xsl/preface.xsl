@@ -42,26 +42,26 @@
 					<div id="top-container">
 						<div id="featured-container">
 							<ul id="featured" class="jcarousel-skin-tango">
-								<li><img src="http://womensbios.lib.virginia.edu/full/no386.jpg" width="300" height="390" alt="" /><div class="featured-cap">Arc</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no301.jpg" width="300" height="390" alt="" /><div class="featured-cap">Cobbe</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no319.jpg" width="300" height="390" alt="" /><div class="featured-cap">Somerville</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no236.jpg" width="300" height="390" alt="" /><div class="featured-cap">Procter</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no145.jpg" width="300" height="390" alt="" /><div class="featured-cap">Darling</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no290.jpg" width="300" height="390" alt="" /><div class="featured-cap">Fry</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no291.jpg" width="300" height="390" alt="" /><div class="featured-cap">Nightingale</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no289.jpg" width="300" height="390" alt="" /><div class="featured-cap">Victoria</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no248.jpg" width="300" height="390" alt="" /><div class="featured-cap">Bronte</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no425.jpg" width="300" height="390" alt="" /><div class="featured-cap">Grey</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no240.jpg" width="300" height="390" alt="" /><div class="featured-cap">More</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no426.jpg" width="300" height="390" alt="" /><div class="featured-cap">Russell</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no382.jpg" width="300" height="390" alt="" /><div class="featured-cap">Stael</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no01.jpg" width="300" height="390" alt="" /><div class="featured-cap">Elizabeth</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no450.jpg" width="300" height="390" alt="" /><div class="featured-cap">Roland</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no416.jpg" width="300" height="390" alt="" /><div class="featured-cap">Pocahontas</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no238.jpg" width="300" height="390" alt="" /><div class="featured-cap">Herschel</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no92.jpg" width="300" height="390" alt="" /><div class="featured-cap">Judson</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no409.jpg" width="300" height="390" alt="" /><div class="featured-cap">Lind</div></li>
-								<li><img src="http://womensbios.lib.virginia.edu/full/no247.jpg" width="300" height="390" alt="" /><div class="featured-cap"><a href="featured/?id=SISTER_DORA">Sister Dora</a></div></li>								
+								<li><img src="full/no386.jpg" width="300" height="390" alt="" /><div class="featured-cap">Arc</div></li>
+								<li><img src="full/no301.jpg" width="300" height="390" alt="" /><div class="featured-cap">Cobbe</div></li>
+								<li><img src="full/no319.jpg" width="300" height="390" alt="" /><div class="featured-cap">Somerville</div></li>
+								<li><img src="full/no236.jpg" width="300" height="390" alt="" /><div class="featured-cap">Procter</div></li>
+								<li><img src="full/no145.jpg" width="300" height="390" alt="" /><div class="featured-cap">Darling</div></li>
+								<li><img src="full/no290.jpg" width="300" height="390" alt="" /><div class="featured-cap">Fry</div></li>
+								<li><img src="full/no291.jpg" width="300" height="390" alt="" /><div class="featured-cap">Nightingale</div></li>
+								<li><img src="full/no289.jpg" width="300" height="390" alt="" /><div class="featured-cap">Victoria</div></li>
+								<li><img src="full/no248.jpg" width="300" height="390" alt="" /><div class="featured-cap">Bronte</div></li>
+								<li><img src="full/no425.jpg" width="300" height="390" alt="" /><div class="featured-cap">Grey</div></li>
+								<li><img src="full/no240.jpg" width="300" height="390" alt="" /><div class="featured-cap">More</div></li>
+								<li><img src="full/no426.jpg" width="300" height="390" alt="" /><div class="featured-cap">Russell</div></li>
+								<li><img src="full/no382.jpg" width="300" height="390" alt="" /><div class="featured-cap">Stael</div></li>
+								<li><img src="full/no01.jpg" width="300" height="390" alt="" /><div class="featured-cap">Elizabeth</div></li>
+								<li><img src="full/no450.jpg" width="300" height="390" alt="" /><div class="featured-cap">Roland</div></li>
+								<li><img src="full/no416.jpg" width="300" height="390" alt="" /><div class="featured-cap">Pocahontas</div></li>
+								<li><img src="full/no238.jpg" width="300" height="390" alt="" /><div class="featured-cap">Herschel</div></li>
+								<li><img src="full/no92.jpg" width="300" height="390" alt="" /><div class="featured-cap">Judson</div></li>
+								<li><img src="full/no409.jpg" width="300" height="390" alt="" /><div class="featured-cap">Lind</div></li>
+								<li><img src="full/no247.jpg" width="300" height="390" alt="" /><div class="featured-cap"><a href="featured/?id=SISTER_DORA">Sister Dora</a></div></li>								
 							</ul>
 						</div>
 						<div id="sidebar">
