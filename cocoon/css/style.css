@@ -190,6 +190,7 @@ p.notepara {
 	background:transparent url(border.gif) repeat-x scroll left bottom;
 	width: 780px;
 	height: 20px;
+	clear: both;
 }
 p#subheading {
 	font-size:10pt;
