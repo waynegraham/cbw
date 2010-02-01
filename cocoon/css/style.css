@@ -620,7 +620,7 @@ dd {
 }
 #featured-container .jcarousel-skin-tango .jcarousel-container {
 	background: transparent;
-	border: 10px solid #FFF9F9;
+	border: 10px solid #A7908C;
 }
 #featured-container .jcarousel-skin-tango .jcarousel-item {
 	height: auto !important;
@@ -633,6 +633,7 @@ dd {
 #featured-container .jcarousel-skin-tango .jcarousel-container-horizontal {
 	width: 340px !important;
 	margin: 20px;
+	background: #FFF9F9;
 }
 
 #featured-container .jcarousel-skin-tango .jcarousel-prev-disabled-horizontal, 
