@@ -521,6 +521,11 @@ td.mosaic img {
     font-size: 18px;
 }
 
+#intro #data {
+	width: 500px;
+	float: right;
+}
+
 .pic {
 	float: left;
 	/*margin-right: 20px;
@@ -630,7 +635,11 @@ dd {
 	margin: 20px;
 }
 
-#featured-container .jcarousel-skin-tango .jcarousel-prev-disabled-horizontal, .jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:hover, .jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:active, .jcarousel-skin-tango .jcarousel-next-horizontal, .jcarousel-skin-tango .jcarousel-prev-horizontal {
+#featured-container .jcarousel-skin-tango .jcarousel-prev-disabled-horizontal, 
+#featured-container .jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:hover,
+#featured-container .jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:active,
+#featured-container .jcarousel-skin-tango .jcarousel-next-horizontal,
+#featured-container .jcarousel-skin-tango .jcarousel-prev-horizontal {
 	margin-top: 160px;
 }
 #top-container {
