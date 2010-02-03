@@ -3746,7 +3746,7 @@
       <idno>a001</idno>
       <author><name type="last">Abbot</name>, <name type="first">Willis John</name>.</author>
       <title type="ref">
-       <hi rend="italics">Notable Women of History:</hi>
+       <hi rend="italics">Notable Women in History:</hi>
        <hi rend="italics">The Lives of Women Who in All Ages, All Lands and in All Womanly
         Occupations Have Won Fame and Put Their Imprint on the World's History.</hi>
       </title>
@@ -25342,7 +25342,12 @@
        <date>1933.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> Author of biography of Florence Nightingale,
-        <date>1931</date>. </note>
+        <date>1931</date>. Possibly the same as a collection of the same title by M.B. Synge (London: Bell, 1911).  
+Synge is identified as author of "Great Englishmen."   The Baldwin Project: Bringing Yesterday's Classics to 
+Today's Children: Tablee of Contents: Queen Bertha; Maude the Good; Eleanor of Aquitaine; Philippa of Hainault;
+Margaret of Anjou; The Lady Margaret; Margaret Roper; Lady Jane Grey; Princess Elizabeth; Lady Rachel Russell; Angelica Kaufmann; 
+Hannah More; Elizabeth Fry; Mary Somerville; Elizabeth Barrett Browning; Florence Nightingale.
+	 </note>
      </bibl>
      <bibl id="a610" default="NO">
       <ref targOrder="U">610.</ref>
