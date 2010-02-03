@@ -43,7 +43,7 @@
 						<div id="featured-container">
 							<ul id="featured" class="jcarousel-skin-tango">
 								<li><img src="full/no386.jpg" width="300" height="440" alt="" /><div class="featured-cap">Joan of Arc</div></li>
-								<li><img src="full/no439.jpg" width="300" height="440" alt="" /><div class="featured-cap">Frances Power Cobbe</div></li>
+								<li><img src="full/no438.jpg" width="300" height="440" alt="" /><div class="featured-cap">Frances Power Cobbe</div></li>
 								<li><img src="full/no319.jpg" width="300" height="440" alt="" /><div class="featured-cap">Mary Somerville</div></li>
 								<li><img src="full/no236.jpg" width="300" height="440" alt="" /><div class="featured-cap">Adelaide Procter</div></li>
 								<li><img src="full/no145.jpg" width="300" height="440" alt="" /><div class="featured-cap">Grace Darling</div></li>
