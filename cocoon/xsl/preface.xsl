@@ -49,8 +49,7 @@
 								<li><img src="full/no145.jpg" width="300" height="440" alt="" /><div class="featured-cap">Grace Darling</div></li>
 								<li><img src="full/no290.jpg" width="300" height="440" alt="" /><div class="featured-cap">Elizabeth Fry</div></li>
 								<li><img src="full/no291.jpg" width="300" height="440" alt="" /><div class="featured-cap">Florence Nightingale</div></li>
-								<li><img src="full/no289.jpg" width="300" height="440" alt="" /><div class="featured-cap">Queen Victoria. "Her Majesty the Queen. From a photograph by Hughes &amp; Mullins." From Rosa Nouchette Carey, 
-												<hi rend="italics">Twelve Notable Good Women of the XIX Century.</hi></div></li>
+								<li><img src="full/no289.jpg" width="300" height="440" alt="" /><div class="featured-cap">Queen Victoria. </div></li>
 								<li><img src="full/no248.jpg" width="300" height="440" alt="" /><div class="featured-cap">Charlotte Bronte</div></li>
 								<li><img src="full/no425.jpg" width="300" height="440" alt="" /><div class="featured-cap">Lady Jane Grey</div></li>
 								<li><img src="full/no240.jpg" width="300" height="440" alt="" /><div class="featured-cap">Hannah More</div></li>
@@ -76,9 +75,12 @@
 									resources featuring individual women, and new tools for interpreting prosopography, is an experiment in 
 									digital humanities focused on a widespread genre, the collection of short biographies. </p>
 							<ul>
-								<li><a href="search">Search the annotated bibliography</a></li>
-								<li><a href="browse">Browse</a></li>
-								<li><a href="featured">Featured Subjects</a></li>
+								<li><a href="search">Search or browse the annotated bibliography.</a></li>
+								<li><a href="browse"></a></li>
+								<li><a href="featured">Featured Subjects: find sources and short meta-biographies of selected women.</a></li>
+								<li><a href="narratives">Compare biographies of one or many lives.</a></li>
+								<li><a href="exhibit">Visit the Sister Dora Exhibit: A model collection of books 
+										that include a biography of Sister Dora.</a></li>
 							</ul>
 						</div>
 						<div id="viz">
