@@ -43,14 +43,14 @@
 						<div id="featured-container">
 							<ul id="featured" class="jcarousel-skin-tango">
 								<li><img src="full/no386.jpg" width="300" height="440" alt="" /><div class="featured-cap">Joan of Arc</div></li>
-								<li><img src="full/no301.jpg" width="300" height="440" alt="" /><div class="featured-cap">Frances Power Cobbe</div></li>
+								<li><img src="full/no439.jpg" width="300" height="440" alt="" /><div class="featured-cap">Frances Power Cobbe</div></li>
 								<li><img src="full/no319.jpg" width="300" height="440" alt="" /><div class="featured-cap">Mary Somerville</div></li>
 								<li><img src="full/no236.jpg" width="300" height="440" alt="" /><div class="featured-cap">Adelaide Procter</div></li>
 								<li><img src="full/no145.jpg" width="300" height="440" alt="" /><div class="featured-cap">Grace Darling</div></li>
 								<li><img src="full/no290.jpg" width="300" height="440" alt="" /><div class="featured-cap">Elizabeth Fry</div></li>
-								<li><img src="full/no291.jpg" width="300" height="440" alt="" /><div class="featured-cap">Florence Nightingale</div></li>
-								<li><img src="full/no289.jpg" width="300" height="440" alt="" /><div class="featured-cap">Queen Victoria. </div></li>
-								<li><img src="full/no248.jpg" width="300" height="440" alt="" /><div class="featured-cap">Charlotte Bronte</div></li>
+								<li><img src="full/no484.jpg" width="300" height="440" alt="" /><div class="featured-cap">Florence Nightingale</div></li>
+								<li><img src="full/no289.jpg" width="300" height="440" alt="" /><div class="featured-cap">Queen Victoria</div></li>
+								<li><img src="full/no401.jpg" width="300" height="440" alt="" /><div class="featured-cap">Charlotte Brontë</div></li>
 								<li><img src="full/no425.jpg" width="300" height="440" alt="" /><div class="featured-cap">Lady Jane Grey</div></li>
 								<li><img src="full/no240.jpg" width="300" height="440" alt="" /><div class="featured-cap">Hannah More</div></li>
 								<li><img src="full/no426.jpg" width="300" height="440" alt="" /><div class="featured-cap">Lady Russell</div></li>
@@ -61,7 +61,7 @@
 								<li><img src="full/no238.jpg" width="300" height="440" alt="" /><div class="featured-cap">Caroline Herschel. From 
 												an original oil painting, by M. G. Titlemann, now in the possession of Sir William Herschel, Bart. 
 												From A. J. Green Armytage, <hi rend="italics">Maids of Honour</hi>.</div></li>
-								<li><img src="full/no92.jpg" width="300" height="440" alt="" /><div class="featured-cap">Ann Hasseltine Judson</div></li>
+								<li><img src="full/no385.jpg" width="300" height="440" alt="" /><div class="featured-cap">Ann Hasseltine Judson</div></li>
 								<li><img src="full/no409.jpg" width="300" height="440" alt="" /><div class="featured-cap">Jenny Lind</div></li>
 								<li><img src="full/no247.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=SISTER_DORA">Sister Dora</a></div></li>								
 							</ul>
