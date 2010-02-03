@@ -61,7 +61,7 @@
 								<li><img src="full/no238.jpg" width="300" height="440" alt="" /><div class="featured-cap">Caroline Herschel. From 
 												an original oil painting, by M. G. Titlemann, now in the possession of Sir William Herschel, Bart. 
 												From A. J. Green Armytage, <hi rend="italics">Maids of Honour</hi>.</div></li>
-								<li><img src="full/no385.jpg" width="300" height="440" alt="" /><div class="featured-cap">Ann Hasseltine Judson</div></li>
+								<li><img src="full/no92.jpg" width="300" height="440" alt="" /><div class="featured-cap">Ann Hasseltine Judson</div></li>
 								<li><img src="full/no409.jpg" width="300" height="440" alt="" /><div class="featured-cap">Jenny Lind</div></li>
 								<li><img src="full/no247.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=SISTER_DORA">Sister Dora</a></div></li>								
 							</ul>
