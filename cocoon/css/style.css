@@ -621,7 +621,7 @@ dd {
 }
 #featured-container .jcarousel-skin-tango .jcarousel-container {
 	background: transparent;
-	border: 10px solid #A7908C;
+	border: 6px solid #A7908C;
 }
 #featured-container .jcarousel-skin-tango .jcarousel-item {
 	height: auto !important;
@@ -634,7 +634,7 @@ dd {
 #featured-container .jcarousel-skin-tango .jcarousel-container-horizontal {
 	width: 320px !important;
 	margin: 20px 0;
-	background: #FFF9F9;
+	background: #FFF5F0;
 }
 
 #featured-container .jcarousel-skin-tango .jcarousel-prev-disabled-horizontal, 
@@ -670,11 +670,12 @@ dd {
 #featured-container .featured-cap {
 	font-family: verdana, arial, helvetica, sans-serif;
 	font-size: 12px;
-	background: #FFF5F5;
+	background: #FFFFFF;
 	padding: 2px 3px;
-	margin: 0 20px;
-	height: 5em;
+	margin: 5px 20px;
+	height: 6em;
 	width: 294px;
+	border-top: 1px dotted #A7908C;
 }
 #wrap {
 	min-height: 900px;
@@ -751,7 +752,7 @@ display:block;
 float:right;
 padding-right:10px;
 text-align:right;
-width:300px;
+width:500px;
 }
 #ft_wrap {
 margin:auto !important;
