@@ -629,11 +629,11 @@ dd {
 }
 #featured-container .jcarousel-skin-tango .jcarousel-clip-horizontal {
 	height: 520px !important;
-	width: 340px !important;
+	width: 320px !important;
 }
 #featured-container .jcarousel-skin-tango .jcarousel-container-horizontal {
-	width: 340px !important;
-	margin: 20px;
+	width: 320px !important;
+	margin: 20px 0;
 	background: #FFF9F9;
 }
 
@@ -650,10 +650,10 @@ dd {
 	margin-right:auto;
 }
 #sidebar {
-	width: 35%;
+	width: 45%;
 	float:right;
 	background: #FFF5F0;
-	margin: 20px;
+	margin: 20px 0;
 	padding: 5px;
 	min-height: 290px;
 	list-style:inside;
