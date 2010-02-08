@@ -14,19 +14,13 @@
 			<head>
 				<link type="text/css" href="style.css" rel="stylesheet"/>
 				<title>The Collective Biographies of Women: Preface</title>
-				<link type="text/css" href="http://jqueryui.com/latest/themes/base/ui.all.css" rel="stylesheet" />
-				<script type="text/javascript" src="http://jqueryui.com/latest/jquery-1.3.2.js"></script>
-				
+				<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 				<script src="javascript/jcarousel/lib/jquery.jcarousel.pack.js" type="text/javascript"/>
-				<script type="text/javascript" src="http://jqueryui.com/latest/ui/ui.core.js"></script>
-				<script type="text/javascript" src="http://jqueryui.com/latest/ui/ui.accordion.js"></script>
 				<script type="text/javascript">
 					$(function() {
 					jQuery('#featured').jcarousel({
 						'scroll': 1,
 						'wrap':'last'
-					});
-					$("#accordion").accordion();
 					});
 				</script>
 				<link href="javascript/jcarousel/lib/jquery.jcarousel.css" type="text/css"
@@ -42,28 +36,26 @@
 					<div id="top-container">
 						<div id="featured-container">
 							<ul id="featured" class="jcarousel-skin-tango">
-								<li><img src="full/no386.jpg" width="300" height="440" alt="" /><div class="featured-cap">Joan of Arc</div></li>
-								<li><img src="full/no438.jpg" width="300" height="440" alt="" /><div class="featured-cap">Frances Power Cobbe</div></li>
-								<li><img src="full/no319.jpg" width="300" height="440" alt="" /><div class="featured-cap">Mary Somerville</div></li>
-								<li><img src="full/no236.jpg" width="300" height="440" alt="" /><div class="featured-cap">Adelaide Procter</div></li>
-								<li><img src="full/no145.jpg" width="300" height="440" alt="" /><div class="featured-cap">Grace Darling</div></li>
-								<li><img src="full/no290.jpg" width="300" height="440" alt="" /><div class="featured-cap">Elizabeth Fry</div></li>
-								<li><img src="full/no484.jpg" width="300" height="440" alt="" /><div class="featured-cap">Florence Nightingale</div></li>
-								<li><img src="full/no289.jpg" width="300" height="440" alt="" /><div class="featured-cap">Queen Victoria</div></li>
-								<li><img src="full/no401.jpg" width="300" height="440" alt="" /><div class="featured-cap">Charlotte Brontë</div></li>
-								<li><img src="full/no425.jpg" width="300" height="440" alt="" /><div class="featured-cap">Lady Jane Grey</div></li>
-								<li><img src="full/no240.jpg" width="300" height="440" alt="" /><div class="featured-cap">Hannah More</div></li>
-								<li><img src="full/no426.jpg" width="300" height="440" alt="" /><div class="featured-cap">Lady Russell</div></li>
-								<li><img src="full/no382.jpg" width="300" height="440" alt="" /><div class="featured-cap">Mme de Stael</div></li>
-								<li><img src="full/no01.jpg" width="300" height="440" alt="" /><div class="featured-cap">Queen Elizabeth I</div></li>
-								<li><img src="full/no450.jpg" width="300" height="440" alt="" /><div class="featured-cap">Mme Roland</div></li>
-								<li><img src="full/no416.jpg" width="300" height="440" alt="" /><div class="featured-cap">Pocahontas</div></li>
-								<li><img src="full/no238.jpg" width="300" height="440" alt="" /><div class="featured-cap">Caroline Herschel. From 
-												an original oil painting, by M. G. Titlemann, now in the possession of Sir William Herschel, Bart. 
-												From A. J. Green Armytage, <hi rend="italics">Maids of Honour</hi>.</div></li>
-								<li><img src="full/no92.jpg" width="300" height="440" alt="" /><div class="featured-cap">Ann Hasseltine Judson</div></li>
-								<li><img src="full/no409.jpg" width="300" height="440" alt="" /><div class="featured-cap">Jenny Lind</div></li>
-								<li><img src="full/no247.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=SISTER_DORA">Sister Dora</a></div></li>								
+								<li><img src="full/no386.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=JOAN_OF_ARC">Joan of Arc</a> as Victorian heroine: as if praying before battle with cross-like sword, crinoline and corset beneath armor.</div></li>
+								<li><img src="full/no301.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=FRANCES_POWER_COBBE">Frances Power Cobbe</a>, incisive social critic, forerunner of lesbian feminist animal-rights activists today.</div></li>
+								<li><img src="full/no319.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=MARY_SOMERVILE">Mary Somerville</a>, mathematician, astronomer, and renowned science writer, one of the first women elected to the Royal Astronomical Society.</div></li>
+								<li><img src="full/no236.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=ADELAIDE_PROCTER">Adelaide Procter</a>, renowned Victorian poet, daughter of the writer "Barry Cornwall"; a Catholic convert who died young.</div></li>
+								<li><img src="full/no145.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=GRACE_DARLING">Grace Darling</a>, lighthouse keeper's daughter, became a celebrity for rescuing survivors of a shipwreck.</div></li>
+								<li><img src="full/no290.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=ELIZABETH_FRY">Elizabeth Fry</a>, Quaker minister and prison reformer, defined the role of female philanthropist in the early nineteenth century.</div></li>
+								<li><img src="full/no291.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=FLORENCE_NIGHTINGALE">Florence Nightingale</a> defined the nursing profession and captured the public imagination.</div></li>
+								<li><img src="full/no289.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=QUEEN_VICTORIA">Queen Victoria.</a> </div></li>
+								<li><img src="full/no248.jpg" width="300" height="440" alt="" /><div class="featured-cap">The famous novelist <a href="featured?id=CHARLOTTE_BRONTE">Charlotte Brontė</a> became a Victorian ideal of self-sacrificing yet triumphant feminine genius, in contrast with sister Emily.</div></li>
+								<li><img src="full/no425.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=LADY_JANE_GREY">Lady Jane Grey, queen regnant of England for less than two weeks, too little time to become a blameworthy ruling woman.</a></div></li>
+								<li><img src="full/no240.jpg" width="300" height="440" alt="" /><div class="featured-cap">The bluestocking, the eminent conservative educator, <a href="featured?id=HANNAH MORE">Hannah More</a> by any lights was a model for nineteenth-century women writers.</div></li>
+								<li><img src="full/no426.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=LADY_RACHEL_RUSSELL">Lady Rachel Russell</a>, now admired for letters and memoirs, served as clerk in her husband's trial for treason against Charles II; Victorians admired her wifely heroism.</div></li>
+								<li><img src="full/no382.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=MADAME_DE_STAEL">Madame de Staėl</a>, preeminent woman writer, heroine of the French Revolution.</div></li>
+								<li><img src="full/no01.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=QUEEN_ELIZABETH_I">Queen Elizabeth I</a></div></li>
+								<li><img src="full/no450.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=MADAME_ROLAND">Madame Roland</a>stands as great woman writer and heroine in prison scene: a protagonist of the French Revolution.</div></li>
+								<li><img src="full/no416.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=POCAHONTAS">Pocahontas</a> alone represents Native Americans in these books, and joins others as leader's daughter, Christian convert, and rescuer of a man.</div></li>
+								<li><img src="full/no238.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=CAROLINE_HERSCHEL">Caroline Herschel</a>, astronomer, in some ways shares features with Mary Somerville.</div></li>
+								<li><img src="full/no92.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=ANN_HASSELTINE_JUDSON">Ann Hasseltine Judson</a>, the most famous of the first American women missionaries to the "East," an eloquent writer and martyr.</div></li>
+								<li><img src="full/no409.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=JENNY_LIND">Jenny Lind</a> was world-famous as "the Swedish Nightingale," opera singer who rose from the people.</div></li>
+								<li><img src="full/no247.jpg" width="300" height="440" alt="" /><div class="featured-cap"><a href="featured?id=SISTER_DORA">Sister Dora</a> emulated Florence Nightingale as a nurse-administrator but in an industrial hospital near Birmingham.</div></li>							
 							</ul>
 						</div>
 						<div id="sidebar">
@@ -82,9 +74,6 @@
 								<li><a href="exhibit">Visit the Sister Dora Exhibit: A model collection of books 
 										that include a biography of Sister Dora.</a></li>
 							</ul>
-						</div>
-						<div id="viz">
-							<img src="images/wordle.png" />
 						</div>
 					</div>
 					<div id="footer">
