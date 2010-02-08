@@ -18,9 +18,10 @@
 				<script src="javascript/jcarousel/lib/jquery.jcarousel.pack.js" type="text/javascript"/>
 				<script type="text/javascript">
 					$(function() {
-					jQuery('#featured').jcarousel({
-						'scroll': 1,
-						'wrap':'last'
+						jQuery('#featured').jcarousel({
+							'scroll': 1,
+							'wrap':'last'
+						});
 					});
 				</script>
 				<link href="javascript/jcarousel/lib/jquery.jcarousel.css" type="text/css"
