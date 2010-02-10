@@ -830,4 +830,5 @@ vertical-align:bottom;
 
 #subjects .subject-caption {
 	float: left;
+	margin-left: 10px;
 }
