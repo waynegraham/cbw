@@ -797,6 +797,14 @@ vertical-align:bottom;
 	margin: 10px 0;
 }
 
+#subjects:after{ content: "."; display: block; height: 0; font-size:0; clear: both; visibility:hidden; } 
+#subjects{display: inline-block;} 
+
+/* Hides from IE Mac \*/ 
+* html #subjects {height: 1%;} 
+#subjects{display:block;} 
+/* End Hack */ 
+
 #subjects .subject-title {
 	margin: 10px 15px;
 }
