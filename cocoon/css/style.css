@@ -820,12 +820,13 @@ vertical-align:bottom;
 	width: 100px;
 	overflow: hidden;
 	float: left;
+	margin: 5px 15px 10px;
 }
 
 #subjects .subject-image img {
-	width: 100px;
-	min-height: 100px;
-	margin: 5px 15px 10px;
+	min-width: 100px;
+	height: 100px;
+	margin: 0;
 }
 
 #subjects .subject-caption {
