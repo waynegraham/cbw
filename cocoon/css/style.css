@@ -792,11 +792,14 @@ vertical-align:bottom;
 #subjects .subject {
 	clear: both;
 	width: 400px;
+	min-height: 150px;
 }
 
 #subjects .subject-image img {
 	border: 3px solid #FFF;
 	float: left;
+	width: 100px;
+	height: 100px;
 }
 
 #subjects .subject-caption {
