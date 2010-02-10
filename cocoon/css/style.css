@@ -792,10 +792,9 @@ vertical-align:bottom;
 #subjects .subject {
 	clear: both;
 	width: 400px;
-	float: left;
 }
 
-#subjects .subject-image {
+#subjects .subject-image img {
 	border: 3px solid #FFF;
 	float: left;
 }
