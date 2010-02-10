@@ -628,7 +628,7 @@ dd {
 	width: auto !important;
 }
 #featured-container .jcarousel-skin-tango .jcarousel-clip-horizontal {
-	height: 520px !important;
+	height: 550px !important;
 	width: 320px !important;
 }
 #featured-container .jcarousel-skin-tango .jcarousel-container-horizontal {
@@ -673,7 +673,7 @@ dd {
 	background: #FFFFFF;
 	padding: 2px 3px;
 	margin: 5px 20px;
-	height: 6em;
+	height: 8em;
 	width: 294px;
 	border-top: 1px dotted #A7908C;
 }
