@@ -24,10 +24,25 @@
             </body>
         </html>
     </xsl:template>
-    
+      
     <xsl:template match="div1">
         <div class="subject">
-            <h3 class="subject-title"><a class="subject-link" href="/featured?id={@id}"><xsl:value-of select="head/name[@type='full']"/></a></h3>      
+            <h3 class="subject-title">
+                <a class="subject-link" href="/featured?id={@id}">
+                    <xsl:value-of select="head/name[@type='full']"/>
+                </a>
+                <xsl:if test="head/name[@type='alias']">					
+                    <xsl:text> (</xsl:text><xsl:value-of select="head/name[@type='alias']"/><xsl:text>)</xsl:text>
+                </xsl:if>
+            </h3>   
+            <xsl:if test="div2[@type='images']">
+                <div class="subject-image">
+                    <img src="/full/{div2[@type='images']/list[1]/item[1]/figure[1]/@n}.jpg" alt=""/>
+                </div>
+            </xsl:if>
+                <div class="subject-caption">
+                    <p>Some text here.</p>
+                </div>
         </div>
     </xsl:template>
     

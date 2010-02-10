@@ -377,9 +377,9 @@
         <body>
             <div1 id="SISTER_DORA" ana="nurse_reform">
                 <head>
-                    <name type="full">Sister Dora<seg type="alt_name">Dorothy Wyndlow
-                        Pattison</seg></name>
+                    <name type="full">Sister Dora</name>
                     <name type="search">Sister Dora</name>
+                    <name type="alias">Dorothy Wyndlow Pattison</name>
                 </head>
                 <div2 type="images">
                     <list>

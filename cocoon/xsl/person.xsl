@@ -81,11 +81,11 @@
 				<div id="data" class="data">
 				<div id="data_top">
 					<h1>
-						<xsl:value-of select="head/name[@type='full']/text()"/>
+						<xsl:value-of select="head/name[@type='full']"/>
 					</h1>
-					<xsl:if test="head/name[@type='full']/seg[@type='alt_name']">					
+					<xsl:if test="head/name[@type='alias']">					
 						<h2>
-							<xsl:value-of select="head/name[@type='full']/seg[@type='alt_name']"/>
+							(<xsl:value-of select="head/name[@type='alias']"/>)
 						</h2>
 					</xsl:if>
 					<div id="milestones">
