@@ -37,7 +37,7 @@
             </h3>   
             <xsl:if test="div2[@type='images']">
                 <div class="subject-image">
-                    <img src="/full/{div2[@type='images']/list[1]/item[1]/figure[1]/@n}.jpg" alt=""/>
+                    <img src="/thumbs/{div2[@type='images']/list[1]/item[1]/figure[1]/@n}.jpg" alt=""/>
                 </div>
             </xsl:if>
                 <div class="subject-caption">
