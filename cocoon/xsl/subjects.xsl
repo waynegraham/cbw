@@ -14,9 +14,21 @@
                     <div class="headfoot">
                         <xsl:call-template name="header"/>
                     </div>
+                    <div id="subjects">
+                        <h2>Featured Subjects</h2>
+                    </div>
+                    <div class="subject-list">
+                        <xsl:apply-templates select="body/div1"/>
+                    </div>
                 </div>
             </body>
         </html>
+    </xsl:template>
+    
+    <xsl:template match="div1">
+        <div class="subject">
+            <h3 class="subject-title"><a class="subject-link" href="/featured?id={@id}"><xsl:value-of select="head/name[@type='full']"/></a></h3>      
+        </div>
     </xsl:template>
     
 </xsl:stylesheet>
