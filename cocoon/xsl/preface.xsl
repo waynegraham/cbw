@@ -69,12 +69,10 @@ or her captive, Mary Queen of Scots; some Victorians admire her handling of the 
 									resources featuring individual women, and new tools for interpreting prosopography, is an experiment in 
 									digital humanities focused on a widespread genre, the collection of short biographies. </p>
 							<ul>
-								<li><a href="search">Search or browse the annotated bibliography.</a></li>
-								<li><a href="browse"></a></li>
+								<li><a href="browse?section=2">Search or browse the annotated bibliography.</a></li>
 								<li><a href="featured">Featured Subjects: find sources and short meta-biographies of selected women.</a></li>
 								<li><a href="narratives">Compare biographies of one or many lives.</a></li>
-								<li><a href="exhibit">Visit the Sister Dora Exhibit: A model collection of books 
-										that include a biography of Sister Dora.</a></li>
+								<li><a href="exhibit">Visit the Sister Dora Exhibit: A model collection of books that include a biography of Sister Dora.</a></li>
 							</ul>
 						</div>
 					</div>

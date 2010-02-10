@@ -192,6 +192,13 @@
 				<map:serialize type="html"/>
 			</map:match>
 			
+			<!-- displays all featured subjects -->
+			<map:match pattern="subjects">
+				<map:generate src="xml/bios.xml" label="record"/>
+				<map:transform src="xsl/subjects.xsl" label="basiccontent"/>
+				<map:serialize type="html"/>
+			</map:match>
+			
 			<!-- displays individual person's page -->
 			<map:match pattern="featured">
 				<map:generate src="xml/bios.xml" label="record"/>
