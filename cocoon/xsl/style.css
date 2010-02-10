@@ -660,6 +660,14 @@ dd {
 }
 #sidebar p, #sidebar ul {
 	padding: 0 5px;
+	list-style: none;
+}
+#sidebar ul li {
+	margin: 10px 0;
+	padding: 6px 0;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 17px;
+	border-bottom: #bbb5bb;
 }
 #featured-container {
 	float: left;
