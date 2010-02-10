@@ -789,14 +789,6 @@ vertical-align:bottom;
 
 /* featured subjects list styles */
 
-#subjects .subject {
-	clear: both;
-	width: 400px;
-	min-height: 150px;
-	border-bottom: 1px dotted #444;
-	margin: 10px 0;
-}
-
 #subjects:after{ content: "."; display: block; height: 0; font-size:0; clear: both; visibility:hidden; } 
 #subjects{display: inline-block;} 
 
@@ -804,6 +796,20 @@ vertical-align:bottom;
 * html #subjects {height: 1%;} 
 #subjects{display:block;} 
 /* End Hack */ 
+
+#subjects .subject-list {
+	width: 860px;
+	margin: 0 auto;
+}
+
+#subjects .subject {
+	width: 400px;
+	min-height: 150px;
+	border-bottom: 1px dotted #444;
+	margin: 10px;
+	float: left;
+	background: #F9F5FA;
+}
 
 #subjects .subject-title {
 	margin: 10px 15px;
@@ -814,6 +820,7 @@ vertical-align:bottom;
 	float: left;
 	width: 100px;
 	height: 100px;
+	margin: 5px 15px 10px;
 }
 
 #subjects .subject-caption {
