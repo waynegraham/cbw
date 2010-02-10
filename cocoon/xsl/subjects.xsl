@@ -25,7 +25,7 @@
         </html>
     </xsl:template>
       
-    <xsl:template match="div1">
+    <xsl:template match="div1[@type!='nonfs']">
         <div class="subject">
             <h3 class="subject-title">
                 <a class="subject-link" href="/featured?id={@id}">
