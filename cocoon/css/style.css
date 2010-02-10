@@ -815,11 +815,16 @@ vertical-align:bottom;
 	margin: 10px 15px;
 }
 
-#subjects .subject-image img {
-	border: 3px solid #FFF;
-	float: left;
-	width: 100px;
+#subjects .subject-image {
 	height: 100px;
+	width: 100px;
+	overflow: hidden;
+	float: left;
+}
+
+#subjects .subject-image img {
+	width: 100px;
+	min-height: 100px;
 	margin: 5px 15px 10px;
 }
 
