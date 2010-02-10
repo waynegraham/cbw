@@ -16,9 +16,9 @@
                     </div>
                     <div id="subjects">
                         <h2>Featured Subjects</h2>
-                    </div>
-                    <div class="subject-list">
-                        <xsl:apply-templates select="//body/div1[not(@type='nonfs')]"/>
+                        <div class="subject-list">
+                            <xsl:apply-templates select="//body/div1[not(@type='nonfs')]"/>
+                        </div>
                     </div>
                 </div>
             </body>
