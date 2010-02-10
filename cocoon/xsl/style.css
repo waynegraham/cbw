@@ -793,6 +793,12 @@ vertical-align:bottom;
 	clear: both;
 	width: 400px;
 	min-height: 150px;
+	border-bottom: 1px dotted #444;
+	margin: 10px 0;
+}
+
+#subjects .subject-title {
+	margin: 10px 15px;
 }
 
 #subjects .subject-image img {
