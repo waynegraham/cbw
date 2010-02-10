@@ -18,14 +18,14 @@
                         <h2>Featured Subjects</h2>
                     </div>
                     <div class="subject-list">
-                        <xsl:apply-templates select="//body/div1"/>
+                        <xsl:apply-templates select="//body/div1[not(@type='nonfs')]"/>
                     </div>
                 </div>
             </body>
         </html>
     </xsl:template>
       
-    <xsl:template match="div1[not(@type='nonfs')]">
+    <xsl:template match="div1">
         <div class="subject">
             <h3 class="subject-title">
                 <a class="subject-link" href="/featured?id={@id}">
