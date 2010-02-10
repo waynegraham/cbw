@@ -786,3 +786,20 @@ margin-left:5px;
 margin-top: 5px;
 vertical-align:bottom;
 }
+
+/* featured subjects list styles */
+
+#subjects .subject {
+	clear: both;
+	width: 400px;
+	float: left;
+}
+
+#subjects .subject-image {
+	border: 3px solid #FFF;
+	float: left;
+}
+
+#subjects .subject-caption {
+	float: left;
+}
