@@ -29,7 +29,7 @@
 				<script type="text/javascript">
 					$(function() {
 						jQuery('.image-carousel').jcarousel();
-						$('#pop-link').attr('class','selected');
+						$('#featured-link').attr('class','selected');
 						$('.carousel li').click(function () { 
 							var thumb_src = $(this).find('img:first').attr('src');
 							var thumb_alt = $(this).find('img:first').attr('alt');
