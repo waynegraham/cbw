@@ -236,12 +236,12 @@ p#subheading {
 }
 #navbar span.nav-item {
 	height: 40px;
-	padding: 20px 10px;
+	padding: 20px 5px;
 }
 #navbar span.selected {
 	background: #FFF;
 	height: 40px;
-	padding: 20px 10px;
+	padding: 20px 5px;
 	border-left: 1px dotted #CFC5C5;
 	border-right: 1px dotted #CFC5C5;	
 }
