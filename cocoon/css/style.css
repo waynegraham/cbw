@@ -687,10 +687,10 @@ dd {
 	list-style: none;
 }
 #sidebar ul li {
-	margin: 10px 0;
-	padding: 6px 0;
+	margin: 0;
+	padding: 12px 0;
 	font-size: 18px;
-	border-bottom: 1px solid #bbb5bb;
+	border-top: 1px dotted #bbb5bb;
 }
 #featured-container {
 	float: left;
