@@ -767,7 +767,7 @@ dd {
 
 #ft {
 	border-top: 1px solid #B39B95;
-	color:#333132;
+	color:#531B15;
 	font-size:12px;
 	height:80px;
 	padding: 0 20px;
@@ -776,7 +776,7 @@ dd {
 	margin: 0;
 }
 #ft a, #ft a:visited {
-	color:#333132;
+	color:#531B15;
 	text-decoration:none;
 }
 #ft a:hover {
