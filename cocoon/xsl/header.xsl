@@ -31,16 +31,18 @@
 			</xsl:if>
 		</div>
 		<div id="navbar">
-			<span class="nav-item">
-				<a href="." id="home-link">Home</a>
-			</span> &#160; <span class="nav-item">
-				<a href="about" id="about-link">About</a>
-			</span> &#160; <span class="nav-item">
-				<a href="browse?section=2" id="browse-link">Browse the Bibliography</a>
-			</span> &#160; <span class="nav-item">
-				<a href="search" id="search-link">Search the Bibliography</a>
-			</span> &#160; <span class="nav-item">
-				<a href="popchart" id="pop-link">Pop Chart</a>
+			<span class="nav-item" id="home-link">
+				<a href=".">Home</a>
+			</span> &#160; <span class="nav-item" id="about-link">
+				<a href="about">About</a>
+				</span> &#160; <span class="nav-item" id="featured-link">
+					<a href="subjects">Featured Subjects</a>
+				</span> &#160; <span class="nav-item" id="browse-link">
+				<a href="browse?section=2">Browse the Bibliography</a>
+			</span> &#160; <span class="nav-item" id="search-link">
+				<a href="search">Search the Bibliography</a>
+			</span> &#160; <span class="nav-item" id="pop-link">
+				<a href="popchart">Pop Chart</a>
 			</span>
 		</div>
 	</xsl:template>

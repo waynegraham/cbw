@@ -9,7 +9,7 @@
                 <link type="text/css" href="style.css" rel="stylesheet"/>
                 <title>The Collective Biographies of Women: test</title>
             </head>
-            <body onload="document.getElementById('about-link').className='selected';">
+            <body onload="document.getElementById('featured-link').className='selected';">
                 <div id="wrap">
                     <div class="headfoot">
                         <xsl:call-template name="header"/>
