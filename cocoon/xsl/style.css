@@ -225,7 +225,7 @@ p#subheading {
 	padding: 10px 0px;
 	margin: 10px 0 0;
 	overflow: hidden;
-	background: url('images/50white.png') repeat;
+	background: url('50white.png') repeat;
 	border-bottom: 2px solid #B39B95;
 	border-top: 2px solid #B39B95;
 }
@@ -242,6 +242,8 @@ p#subheading {
 	background: #FFF;
 	height: 40px;
 	padding: 20px 10px;
+	border-left: 1px dotted #CFC5C5;
+	border-right: 1px dotted #CFC5C5;	
 }
 .divider {
 	width: 400px;
