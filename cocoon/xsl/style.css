@@ -526,9 +526,7 @@ td.mosaic img {
 }
 #intro {
 	background: url('50white.png');
-	border: 2px solid #766;
 	display:block;
-	width:99%;
 	padding:20px 0;
 	margin-left:auto;
 	margin-right:auto;
@@ -561,7 +559,7 @@ td.mosaic img {
 	max-height: 210px;
 	overflow: hidden;
 	margin: 0 52px;
-	border: 1px solid #766;
+	border: 3px solid #B39B95;
 	position: relative;
 }
 .pic .full img {
@@ -581,7 +579,7 @@ td.mosaic img {
 	padding:10px;
 	background: #fff;
 }
-.links {
+#links {
 	background: #fff;
 	padding: 10px;
 }
