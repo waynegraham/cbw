@@ -101,7 +101,7 @@ div.box {
 }
 /* styling for bibl entry */
 .bibl {
-	background-color: #FFFAF0;
+	background-color: #FFFFFC;
 	border: 4px double #DCDCDC;
 	padding: 15px;
 	margin-top:2ex;
@@ -228,6 +228,7 @@ p#subheading {
 	background: url('50white.png') repeat;
 	border-bottom: 2px solid #B39B95;
 	border-top: 2px solid #B39B95;
+	width: 960px;
 }
 #navbar a {
 	padding: 5px 5px 8px;
@@ -239,7 +240,7 @@ p#subheading {
 	padding: 20px 5px;
 }
 #navbar span.selected {
-	background: #FFF;
+	background: #FFFFFC;
 	height: 40px;
 	padding: 20px 5px;
 	border-left: 1px dotted #CFC5C5;
@@ -478,7 +479,7 @@ td.mosaic img {
 .bibl .jcarousel-skin-tango .jcarousel-container-horizontal {
 	width: 100%;
 	height: 160px;
-	background: #FFFAF0;
+	background: #FFFFFC;
 	border: none;
 }
 .bibl .jcarousel-skin-tango .jcarousel-clip-horizontal {
@@ -577,10 +578,10 @@ td.mosaic img {
 	margin: 20px 0 0;
 	border-bottom:1px dotted gray;
 	padding:10px;
-	background: #fff;
+	background: #fffffc;
 }
 #links {
-	background: #fff;
+	background: #fffffc;
 	padding: 10px;
 }
 .endnote {
@@ -659,7 +660,7 @@ dd {
 #featured-container .jcarousel-skin-tango .jcarousel-container-horizontal {
 	width: 330px !important;
 	margin: 20px 0;
-	background: #FFF5F0;
+	background: #FFFBF8;
 }
 
 #featured-container .jcarousel-skin-tango .jcarousel-prev-disabled-horizontal, 
@@ -670,7 +671,7 @@ dd {
 	margin-top: 170px;
 }
 #top-container {
-	background: #FFF;
+	background: #FFFFFC;
 	display: inline-block;
 	width: 100%;
 	height: 100%;
@@ -680,7 +681,7 @@ dd {
 #sidebar {
 	width: 47%;
 	float:right;
-	background: #FFF5F0;
+	background: transparent;
 	margin: 10px 20px;
 	min-height: 290px;
 	list-style:inside;
@@ -705,7 +706,7 @@ dd {
 #featured-container .featured-cap {
 	font-family: verdana, arial, helvetica, sans-serif;
 	font-size: 12px;
-	background: #FFFFFF;
+	background: #FFFFFC;
 	padding: 2px 3px;
 	margin: 5px 20px;
 	height: 8em;
@@ -851,7 +852,7 @@ vertical-align:bottom;
 	border-bottom: 1px dotted #444;
 	margin: 10px;
 	float: left;
-	background: #F9F5FA;
+	background: url('50white.png');
 }
 
 #subjects .subject-title {
@@ -870,6 +871,7 @@ vertical-align:bottom;
 	min-width: 100px;
 	height: 100px;
 	margin: 0;
+	border: none;
 }
 
 #subjects .subject-caption {

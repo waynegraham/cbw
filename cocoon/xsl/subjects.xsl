@@ -37,7 +37,9 @@
             </h3>   
             <xsl:if test="div2[@type='images']">
                 <div class="subject-image">
+									<a href="/featured?id={@id}">
                     <img src="/thumbs/{div2[@type='images']/list[1]/item[1]/figure[1]/@n}.jpg" alt=""/>
+									</a>
                 </div>
             </xsl:if>
                 <div class="subject-caption">
