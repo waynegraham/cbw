@@ -58,7 +58,6 @@ hr {
 	background-color: #E7E3D8;
 /* table background color */
 	width:960px;
-	padding-bottom: 35px;
 	border-collapse: collapse;
 }
 /* style for the content between the header and footer only */
@@ -773,8 +772,9 @@ dd {
 	border-top: 1px solid #B39B95;
 	color:#531B15;
 	font-size:12px;
-	height:80px;
+	height:125px;
 	padding: 0 20px;
+	background: url('50white.png');
 }
 #ft img {
 	margin: 0;
