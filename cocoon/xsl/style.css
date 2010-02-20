@@ -225,8 +225,8 @@ p#subheading {
 	margin: 10px 0 0;
 	overflow: hidden;
 	background: url('50white.png') repeat;
-	border-bottom: 2px solid #B39B95;
-	border-top: 2px solid #B39B95;
+	border-bottom: 1px solid #B39B95;
+	border-top: 1px solid #B39B95;
 	width: 960px;
 }
 #navbar a {
@@ -645,7 +645,7 @@ dd {
 }
 #featured-container .jcarousel-skin-tango .jcarousel-container {
 	background: transparent;
-	border: 3px solid #A7908C;
+	border: 1px solid #A7908C;
 	-moz-border-radius: 0;
 }
 #featured-container .jcarousel-skin-tango .jcarousel-item {
@@ -659,7 +659,7 @@ dd {
 #featured-container .jcarousel-skin-tango .jcarousel-container-horizontal {
 	width: 330px !important;
 	margin: 20px 0;
-	background: #FFFBF8;
+	background: url('50white.png') repeat #FFFBF8;
 }
 
 #featured-container .jcarousel-skin-tango .jcarousel-prev-disabled-horizontal, 
