@@ -59,6 +59,7 @@
 								<li><img src="full/no416.jpg" width="300" height="430" alt="" /><div class="featured-cap"><a href="featured?id=POCAHONTAS">Pocahontas</a> alone represents Native Americans in these books but she joins others as a leader's daughter, a Christian convert, and a rescuer of a man.</div></li>
 								<li><img src="full/no238.jpg" width="300" height="430" alt="" /><div class="featured-cap"><a href="featured?id=CAROLINE_HERSCHEL">Caroline Herschel</a>, astronomer, in some ways shares features with Mary Somerville.</div></li>
 								<li><img src="full/no92.jpg" width="330" height="443" alt="" /><div class="featured-cap"><a href="featured?id=ANN_HASSELTINE_JUDSON">Ann Hasseltine Judson</a>, the most famous of the first American women missionaries to the "East," an eloquent writer and martyr.</div></li>
+								<li><img src="full/no435.jpg" width="330" height="443" alt="" /><div class="featured-cap"><a href="featured?id=FRANCES_TROLLOPE">Frances Trollope</a></div></li>
 								<li><img src="full/no409.jpg" width="300" height="430" alt="" /><div class="featured-cap"><a href="featured?id=JENNY_LIND">Jenny Lind</a>, world-famous as "the Swedish Nightingale," opera singer who rose from the people.</div></li>
 								<li><img src="full/no247.jpg" width="300" height="430" alt="" /><div class="featured-cap"><a href="featured?id=SISTER_DORA">Sister Dora</a> emulated Florence Nightingale as a nurse-administrator but in an industrial hospital near Birmingham.</div></li>							
 							</ul>
