@@ -157,7 +157,6 @@
             <interp id="marriage" value="event and relationship"/>
             <interp id="relationship"
                 value="chosen attachment, partner, friendship, other than birth family"/>
-
             <interp id="vocation" value="calling, choice of work, employment"/>
             <interp id="religion"
                 value="practices, family training, conversion, 
@@ -169,7 +168,6 @@
             <interp id="death" value="death of subject or of others"/>
             <interp id="memorial" value="funeral, monument, plaque"/>
         </interpGrp>
-
         <interpGrp id="subject_type">
             <interp id="philanthropist"
                 value="work with institutions or 
@@ -212,7 +210,6 @@
             <interp id="kingdom" value="Kingdom"/>
             <interp id="nation" value="country, nation, state"/>
             <interp id="region" value="Region"/>
-
             <interp id="island" value="Island"/>
             <interp id="state" value="State"/>
             <interp id="county" value="County"/>
@@ -242,7 +239,6 @@
             <interp id="religious_conflict" value="sectarian movements, persecution"/>
             <interp id="campaign" value="organized nonviolent action for cause by others or subject"/>
             <interp id="mass_action" value="riot, demonstration, unrest of population"/>
-
             <interp id="government" value="Parliament, Congress, other arms of the state"/>
             <interp id="church" value="Church of England, Methodist, other organized religions"/>
             <interp id="festival" value="coronation, jubilee, exhibition"/>
@@ -250,18 +246,12 @@
             <interp id="disease" value="disease, epidemic"/>
             <interp id="progress" value="social, industrial, technology"/>
             <interp id="decline" value=""/>
-
-
-
-
-
         </interpGrp>
         <interpGrp id="narrative_rhetoric">
             <interp id="trope_light" value="comparison of subject to sunshine, beacon"/>
             <interp id="trope_dark" value="comparison of setting or outlook to night, darkness"/>
             <interp id="trope_light_into_darkness"
                 value="subject's quest into dark space, bearing light"/>
-
             <interp id="trope_alone"
                 value="subject's loneliness, difference from all women, lack of companion"/>
             <interp id="trope_difference_from_women"
@@ -303,11 +293,8 @@
                 value="narrator speaks to reader, uses first or second person"/>
             <interp id="emphasis"
                 value="exclamation, intensifying punctuation, typeface, adjectives"/>
-            <interp id="prophecy" value="prediction of subject's fulfillment by narrator or agents"/>
-
-
-
-
+            <interp id="prophecy" value="prediction of subject's fulfillment by narrator or agents"
+            />
         </interpGrp>
         <interpGrp id="narrative_elements">
             <interp id="description"
@@ -333,8 +320,6 @@
                 value="literature, Bible, folk precepts, other heritage briefly quoted or referred to"/>
             <interp id="temporal_effects"
                 value="references to passage of time, dates, seasons, flashbacks, forecasts, gaps"/>
-
-
         </interpGrp>
         <interpGrp id="genre_conventions">
             <interp id="stable_condition"
@@ -344,13 +329,11 @@
             <interp id="adversity" value="illness, hostility, catastrophe, violence, doubt"/>
             <interp id="triumph" value="adversity overcome, opponents subdued"/>
             <interp id="resolution"
-                value="conclusion of narrative, scene of death, summation of subject's renowned achievement"/>
-
-
+                value="conclusion of narrative, scene of death, summation of subject's renowned achievement"
+            />
         </interpGrp>
         <interpGrp id="agents">
             <interp id="father" value="subject's father"/>
-
             <interp id="mother" value="subject's mother"/>
             <interp id="brother" value="subject's brother"/>
             <interp id="sister" value="subject's sister"/>
@@ -369,10 +352,8 @@
             <interp id="social_determination"
                 value="agency of law, social rules, secular power over subject"/>
             <interp id="fate_or_design"
-                value="causality personified, other than Christian divinity, nature, society or tangible forces"/>
-
-
-
+                value="causality personified, other than Christian divinity, nature, society or tangible forces"
+            />
         </interpGrp>
         <body>
             <div1 id="SISTER_DORA" ana="nurse_reform">
@@ -536,7 +517,6 @@
                             Baring-Gould, drawn from Margaret Lonsdale's full-length biography,
                             1880.</bibl>
                     </head>
-
                     <p><name corresp="SISTER_DORA">DOROTHY WYNDLOW PATTISON</name> was born at <rs
                             type="place" key="village">Hauxwell</rs>, near <rs type="place"
                             key="town">Richmond</rs>, <rs type="place" key="county">Yorkshire</rs>,
@@ -565,7 +545,6 @@
                         every way to contain his daughters and wife within the home and according to
                         his will. Biographies of Dorothy emphasize her innate strong will, source of
                         the greatness as well as the difficulties of her life.</p>
-
                     <p>Although Dorothy wished to join Florence Nightingale as a nurse during the
                         Crimean War (1853-1856), her father forbade her to leave home, pointing out
                         that without training, she would be "worse than useless" on the front. Most
@@ -580,7 +559,6 @@
                         "She had to live alone in a cottage, and do everything for her self; but the
                         people never for a moment doubted she was a real lady, and always treated
                         her with great respect" (M + S 242).</p>
-
                     <p>One of her frequent illnesses led her to take a holiday to recuperate at
                         Coatham, near Middlesborough, where she visited an Anglican sisterhood and
                         observed their work in a convalescent home. In September 1864 she joined the
@@ -604,7 +582,6 @@
                         her own decisions about her nursing assignments, and that bad relations with
                         her family as well as mistimed messages led to her not going home at that
                         time.</p>
-
                     <p>The first appearance of volunteer nurses, resembling Catholic nuns, caused
                         some distrust, and there are anecdotes about local people believing that
                         secret rituals were performed in a closed-off room in the hospital, or about
@@ -636,7 +613,6 @@
                         self-denial not dissimilar to an eating disorder or suicidal tendencies; the
                         famous risks she took with infections make more sense as ways to court death
                         when her own desires were defeated.</p>
-
                     <p>As noted, the biographies downplay Sister Dora's series of attachment to
                         suitors; most seem unaware of any such possibilities of marriage, though
                         some note that she was severely tested by her love for a medical man,
@@ -673,7 +649,6 @@
                         walk many miles to the hospital to ask for Sister Dora, and say "Tell her
                         it's <hi rend="italics">her arm</hi> that rang the bell" (Fawcett
                         190-91)</p>
-
                     <p>Sister Dora worked with little pause throughout the day and night, visiting
                         all beds, supervising all meals, often skipping her own food or rest. She
                         was seldom seen sitting down. This work was enlivened with a sense of
@@ -682,7 +657,6 @@
                         was repeatedly interrupted by serious illness; she seemed careless about
                         infection, coming in contact with all kinds of disease and exposed to all
                         weathers. </p>
-
                     <p>Other than her illnesses, her years of service in Walsall are shaped by
                         memorable catastrophes for the workers in the town, events featured in the
                         vividly realist bas-reliefs surrounding the base of the statue that Walsall
@@ -696,7 +670,6 @@
                         hospital, Sister Dora volunteered to place herself in isolation there. She
                         showed no concern for her own risk, but it meant many months of hard labor
                         because there were only a few unreliable servants.</p>
-
                     <p>Contemporary newspapers before and after her death began to record the
                         remarkable deeds of this self-sacrificing servant of the suffering poor. Her
                         medical colleagues attested to her skill in various branches of care, from
@@ -733,19 +706,12 @@
                         died on 24 December, 1878. Her last wish, they say, was to die alone. And
                         some said, and had to be convinced otherwise, that she converted to
                         Catholicism on her deathbed.</p>
-
-
-
-
-
-
                     <p>Her funeral on the 28th of December was a town spectacle, a procession of
                         thousands. In 1886, a statue by Francis Williamson was erected in another
                         public ceremony, following upon a stained-glass window in St. Matthew's
                         Church (1882-1883). </p>
                     <p>The Walsall writer of "A Review," quoted by Baring-Gould and Mabie and
                         Stephens, concludes:</p>
-
                     <quote>She is no idol to us, but we worship her memory as the most saintly thing
                         that was ever given us. Her name is immortalised, both by her own surpassing
                         goodness, and by the love of a whole people for her—a love that will survive
@@ -757,14 +723,12 @@
                         surely as to any human soul, will be spoken the divine words: "Inasmuch as
                         ye have done it unto the least of these my brethren, ye have done it unto
                         Me."(M + S 264)</quote>
-
                     <p>Sister Dora's reputation as a modern saint was international for some
                         decades. She appeared in as many as twenty collective biographies besides
                         numerous biographical reference works and countless essays and articles. And
                         even Susan McGann's 2004 biography in ODNB ends with this same quotation
                         from Matthew 25:40.</p>
                 </div2>
-
             </div1>
             <div1 id="QUEEN_VICTORIA" ana="queen_rank">
                 <head>
@@ -774,8 +738,8 @@
                 <div2 type="images">
                     <list>
                         <item>
-                            <label>Her Majesty the Queen. From a photograph by Hughes &amp;
-                                Mullins. From Rosa Nouchette Carey, <title>
+                            <label>Her Majesty the Queen. From a photograph by Hughes &amp; Mullins.
+                                From Rosa Nouchette Carey, <title>
                                     <hi rend="italics">Twelve Notable Good Women of the XIX
                                         Century</hi>.</title></label>
                             <figure n="no289"/>
@@ -949,7 +913,6 @@
                             <label ana="recognition">Recognition</label> Golden Jubilee
                                 <date>1887</date>
                         </item>
-
                         <item>
                             <label ana="death">Death</label>
                             <date>1901</date>
@@ -973,11 +936,11 @@
                             <name>Wordsworth</name>, praising the auspicious <milestone
                             unit="subject" corresp="life_events" ana="birth"/>birth of <name
                             corresp="QUEEN_VICTORIA">Victoria</name>. It is actually an
-                        excerpt&mdash;ten tetrameter lines of the "Quartet"&mdash;of
-                        Wordsworth's "Ode on the Installation of His Royal Highness Prince Albert as
-                        Chancellor of the University of Cambridge in 1847," a kind of fairytale
-                        musical (15). The "Quartet" ends with Time's prophecy that Victoria will be
-                        that rare sovereign who enjoys the blessing of love. Carey's unimaginatively
+                        excerpt&mdash;ten tetrameter lines of the "Quartet"&mdash;of Wordsworth's
+                        "Ode on the Installation of His Royal Highness Prince Albert as Chancellor
+                        of the University of Cambridge in 1847," a kind of fairytale musical (15).
+                        The "Quartet" ends with Time's prophecy that Victoria will be that rare
+                        sovereign who enjoys the blessing of love. Carey's unimaginatively
                         chronological and royalist biography wishes to maintain the tone of
                         Wordsworth's occasional poem,<milestone unit="subject" corresp="history"
                             ana="festival"/> a court masque guided by divine allegories, but it must
@@ -989,10 +952,10 @@
                                 ana="leader"/>reign of <name corresp="QUEEN_VICTORIA">Queen
                                 Victoria</name> to be written, it will be found that no equal
                                 <milestone unit="subject" corresp="history" ana="era"/>epoch since
-                            the commencement of the Christian era&mdash;except, perhaps, that
-                            which includes the discovery of America, the invention of printing, and
-                            the Reformation&mdash; has been so full of important events,
-                            affecting the condition and progress of the human race."</quote>
+                            the commencement of the Christian era&mdash;except, perhaps, that which
+                            includes the discovery of America, the invention of printing, and the
+                            Reformation&mdash; has been so full of important events, affecting the
+                            condition and progress of the human race."</quote>
                         <name>Macaulay</name> alludes to <milestone unit="subject" corresp="history"
                             ana="progress"/> the progress of science, technology, <quote>"the
                             subjugation of nature to the use of man,"</quote> and the general
@@ -1062,14 +1025,12 @@
                         through her early youth,<milestone unit="subject"
                             corresp="genre_conventions" ana="movement"/> the curtain seems to rise
                         for us again and again; and some never-to-be-forgotten picture is placed
-                        before our eyes&mdash;...rich with nature's verity, and warm with
-                        colour. </p>
+                        before our eyes&mdash;...rich with nature's verity, and warm with colour. </p>
                     <p rend="block"> Every writer who has striven to pourtray the leading incidents
                         of Queen Victoria's life has seized eagerly on these little
                             episodes,<milestone unit="subject" corresp="narrative_elements"
                             ana="episode"/> which seem to stand out with cameo-like clearness, and
                         one by one to reproduce them. (18) </p>
-
                     <p>Biographers hungry for incident find these cameos nevertheless difficult to
                         arrange and display. Each treasured event hints that it might have been mass
                         produced. How to avoid the effect of a curtain rising again and again? The
@@ -1113,7 +1074,6 @@
                         since the queen was so fond of children. Carey, supporting the thesis of
                         Baroness Lehzen's letter, "One must surely allow that these were remarkable
                         words to be spoken by a child of twelve" (21).</p>
-
                     <p>Carey's next theme is the excellent plan of the Duchess of Kent to raise a
                         truly English daughter,<milestone unit="subect" corresp="narrative_rhetoric"
                             ana="trope_national_spirit"/> familiar with her homeland and adjusted to
@@ -1144,7 +1104,6 @@
                         companionable love (24-25). Carey concludes her first chapter when Victoria
                         comes of age in May, 1837, the public celebrations followed quickly by the
                         death of William IV.</p>
-
                     <p>The second chapter, "Accession and Marriage," begins with two well-known
                         epigraphs by <name corresp="ELIZABETH_BARRETT_BROWNING" ana="writer"
                             >Elizabeth Barrett Browning</name>, her praise of "the weeping Queen"
@@ -1153,10 +1112,10 @@
                             unit="subject" corresp="narrative_rhetoric" ana="topos_affect"/> Carey
                         meditates on the proximity of death in the happiest of times in
                         life&mdash;"Life and death, buoyant youth and senile decay, and light
-                        tripping feet moving with averted eyes among the graves!"&mdash;
-                        pointing to the repentant death of William IV as preamble to the rise of the
-                        young queen (27). The emblem of corrupt (masculine) age and innocent
-                        (feminine) youth was irresistible, as Charles Dickens's <title>
+                        tripping feet moving with averted eyes among the graves!"&mdash; pointing to
+                        the repentant death of William IV as preamble to the rise of the young queen
+                        (27). The emblem of corrupt (masculine) age and innocent (feminine) youth
+                        was irresistible, as Charles Dickens's <title>
                             <hi rend="italics">The Old Curiosity Shop</hi>
                         </title> suggested in the early days of Victoria's reign
                             (<date>1840-1841</date>).</p>
@@ -1179,7 +1138,6 @@
                         melodrama of her physical vulnerability, but emphasizes that she was sent
                         into see the Archbishop of Canterbury and the Lord Chamberlain <rs
                             corresp="narrative_rhetoric" key="trope_alone">alone</rs>. </p>
-
                     <p>Carey's Victoria is an animated model of noble demeanor and earnest
                         solemnity; private and public events in this transitional phase all confirm
                         that Victoria's (trained) character is providentially fit to the occasion.
@@ -1201,9 +1159,9 @@
                         and Ireland'" (30). Ever "instinct with the finest delicacy," the new queen
                         wrote a letter of condolence to the widowed former queen, addressed to "Her
                         Majesty the Queen," rather than "Queen Dowager": "'I will not be the first
-                        person to remind her of it'" (30)&mdash;another of the
-                            speeches<milestone unit="subject" corresp="narrative_elements"
-                            ana="speech_subject"/> displayed like gems on velvet.</p>
+                        person to remind her of it'" (30)&mdash;another of the speeches<milestone
+                            unit="subject" corresp="narrative_elements" ana="speech_subject"/>
+                        displayed like gems on velvet.</p>
                     <p>Carey's narrative follows day by day and hour by hour the test<milestone
                             unit="subject" corresp="life_events" ana="ordeal"/> of the new
                             monarch<milestone unit="subject" corresp="narrative_elements"
@@ -1227,7 +1185,6 @@
                         reappears in the final stanza of the poem quoted in the epigraph, here
                         offering a blessing that Victoria "will not weep / To wear that heavenly
                         crown" (31).</p>
-
                     <p>Carey collates the testimony of famous witnesses of the first actions of the
                         new queen. Thus, <rs corresp="subject_type" key="perfomer">the celebrated
                             actress <name>Fanny Kemble</name></rs> writes: <rs
@@ -1247,10 +1204,10 @@
                         excellent utterance than that of the <milestone unit="subject"
                             corresp="narrative_rhetoric" ana="trope_national_spirit"/>Queen's
                         English by the English Queen."</p>
-                    <p>This young woman's every utterance has become performative&amp;documented
-                        and carrying the force of a vow or a law. Thus, Carey recounts Victoria's
-                        first of "many deeds of mercy," the pardon of a deserter (32), followed by
-                        the vow to perform a daughter's "'sacred duty'": <milestone unit="subject"
+                    <p>This young woman's every utterance has become performative&amp;documented and
+                        carrying the force of a vow or a law. Thus, Carey recounts Victoria's first
+                        of "many deeds of mercy," the pardon of a deserter (32), followed by the vow
+                        to perform a daughter's "'sacred duty'": <milestone unit="subject"
                             corresp="narrative_elements" ana="speech_subject"/>"'I want to pay all
                         that remains of my father's debts,' she said to the Prime Minister" (32).
                             <rs corresp="agents" key="superior">
@@ -1272,10 +1229,10 @@
                         and importance in every department laid before her. At eleven or twelve
                         Melbourne comes to her and stays an hour, more or less.... At two she rides
                         with a large suite (and she likes to have it numerous); Melbourne always
-                        rides at her left hand, and the equerry-in-waiting on her
-                        right'"&mdash;a seemingly dogged gallop of state for two hours "along
-                        the road"&mdash;followed by "'music and singing, playing and romping
-                        with children'" of the court. Dinner convenes at 7:30 but the Queen "seldom
+                        rides at her left hand, and the equerry-in-waiting on her right'"&mdash;a
+                        seemingly dogged gallop of state for two hours "along the
+                        road"&mdash;followed by "'music and singing, playing and romping with
+                        children'" of the court. Dinner convenes at 7:30 but the Queen "seldom
                         appears before eight" (33-34). Victoria "would not allow the gentlemen to
                         remain over their wine more than a quarter of an hour, but always remained
                         standing in the drawing-room until they appeared. Coffee was then served,
@@ -1353,17 +1310,17 @@
                         strong arm on which to lean, and a discreet and faithful adviser ever beside
                         her. No one who saw them could doubt that it was a marriage of profound
                         happiness and true sympathy, and the good Queen had her peerless
-                            knight&mdash;<hi rend="italics">sans peur et sans reproche</hi>"
-                        (41). The chapter concludes with quatrains of a supposed song by a Scottish
+                            knight&mdash;<hi rend="italics">sans peur et sans reproche</hi>" (41).
+                        The chapter concludes with quatrains of a supposed song by a Scottish
                         "peasant girl" recalling the <milestone unit="subject" corresp="history"
                             ana="festival"/> coronation. The tropes of appearance, solitude,
                         national spirit, shared emotion, are all condensed in the pseudo-ballad. </p>
                     <p>Like previous chapters, the third chapter begins with dual
-                        titles&mdash;"Married Life" and "Wife and Mother"&mdash;and a
-                        prestigious epigraph (this one from Tennyson on the good influence of
-                        Victoria as "Mother, Wife and Queen"). The marital happiness of Victoria and
-                        Albert counterbalances "the trammels of etiquette and the wearisome routine
-                        and burdensome duties of a court"; "the youthful pair set a noble example"
+                        titles&mdash;"Married Life" and "Wife and Mother"&mdash;and a prestigious
+                        epigraph (this one from Tennyson on the good influence of Victoria as
+                        "Mother, Wife and Queen"). The marital happiness of Victoria and Albert
+                        counterbalances "the trammels of etiquette and the wearisome routine and
+                        burdensome duties of a court"; "the youthful pair set a noble example"
                             <milestone unit="subject" corresp="narrative_rhetoric" ana="example"/>in
                         their "industry" as well as "their method of utilising their moments of
                             leisure"<milestone unit="subject" corresp="narrative_elements"
@@ -1426,9 +1383,9 @@
                         way, 'Albert brought in dearest little Pussy (Princess Victoria) in such a
                         smart white merino dress, trimmed with blue' and sitting together as a
                         family of four gave her a feeling of happiness (45-46). Carey presupposes
-                        Victoria's maternal devotion&mdash;"What true womanly
-                        words!"&mdash;but recent biographers have recalled that Victoria's
-                        journals and letters indicate her general dislike of motherhood. </p>
+                        Victoria's maternal devotion&mdash;"What true womanly words!"&mdash;but
+                        recent biographers have recalled that Victoria's journals and letters
+                        indicate her general dislike of motherhood. </p>
                     <p>A modern reader might wonder about Carey's silence on subjects that usually
                         consitute "history." This is characteristic of contemporary short
                         biographies of the Queen, which credit her with the spirit of her age but
@@ -2033,14 +1990,14 @@
                         Remarkable Women: A Series of Chapters from Female Biography. 2d ed., <rs
                             type="place" key="city">London</rs>: Sonnenschein, <dateRange
                             from="1883-01-01" to="1883-12-31">1883</dateRange></note>
-                    <note><name>Maskelyne, John Nevil</name>, <name>Lionel A. Weatherly</name>
-                        &amp; <name>Bob Gilbert</name>. The Supernatural?: With Chapter on
-                        Oriental Magic, Spiritualism and Theosophy. <rs type="place" key="city"
-                            >London</rs>: Routledge, <dateRange from="2001-01-01" to="2001-12-31"
-                            >2001</dateRange>.</note>
+                    <note><name>Maskelyne, John Nevil</name>, <name>Lionel A. Weatherly</name> &amp;
+                            <name>Bob Gilbert</name>. The Supernatural?: With Chapter on Oriental
+                        Magic, Spiritualism and Theosophy. <rs type="place" key="city">London</rs>:
+                        Routledge, <dateRange from="2001-01-01" to="2001-12-31"
+                        >2001</dateRange>.</note>
                     <note><name>James, George Payne Rainsford</name>. Memoirs of Celebrated Women.
-                        2d vol. <rs type="place" key="city">Philadelphia</rs>: E.L. Carey &amp;
-                        A. Hart, <dateRange from="1839-01-01" to="1839-12-31">1839</dateRange>
+                        2d vol. <rs type="place" key="city">Philadelphia</rs>: E.L. Carey &amp; A.
+                        Hart, <dateRange from="1839-01-01" to="1839-12-31">1839</dateRange>
                     </note>
                 </div2>
             </div1>
@@ -2074,8 +2031,8 @@
                         <item>
                             <label>Trollope, Frances Eleanor. <title><hi rend="italics">Frances
                                         Trollope: Her Life and Literary Work from George III to
-                                        Victoria</hi>.</title> Vol. I &amp; II. London: R.
-                                Bently and Son, 1895. </label>
+                                        Victoria</hi>.</title> Vol. I &amp; II. London: R. Bently
+                                and Son, 1895. </label>
                             <p>The authoritative biography about Frances Trollope written by her
                                 daughter-in-law, Frances Eleanor Trollope. The memoir includes
                                 correspondence, anecdotes, and elegies dedicated to France Trollope.
@@ -2141,16 +2098,26 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label ana="birth">Birth</label>
-                            <date>1779</date>
+                            <label ana="birth">Birth</label> Bristol, England <date>1779</date>
                         </item>
                         <item>
-                            <label ana="vocation">Vocation</label>Published <hi rend="italics">Journey to America</hi>
-                            <date>1827</date>
+                            <label ana="birth">Marriage</label> Thomas Trollope, barrister
+                                <date>1809</date>
                         </item>
                         <item>
-                            <label ana="death">Death</label>
-                            <date>1863</date>
+                            <label>Vocation</label> Moved to America <date>1827</date>
+                        </item>
+                        <item>
+                            <label ana="birth">Vocation</label> Published <hi rend="italic">Domestic
+                                Manners of the Americans</hi>
+                            <date>1832</date>
+                        </item>
+                        <item>
+                            <label ana="birth">Vocation</label> 40 novels (115 volumes) published
+                                <date>1832-1857</date>
+                        </item>
+                        <item>
+                            <label ana="death">Death</label> Florence, Italy <date>1863</date>
                         </item>
                     </list>
                 </div2>
@@ -2602,7 +2569,6 @@
                         </title>
                         <bibl>From 'Lives of the Victorians' blog at Wordpress.com.</bibl>
                     </head>
-
                     <p>“Ours is the old, old story of every uprising race or class or order. The
                         work of elevation must be wrought by ourselves or not at all.” –<hi
                             rend="italics">The Duties of Women</hi>, Preface.</p>
@@ -2668,13 +2634,13 @@
                         actions and sentiments, and wrongfulness of another…” (29).</p>
                     <p>As the only daughter in a family of five children, <name
                             corresp="FRANCES_COBBE">Cobbe</name> also experienced another kind of
-                        duty and obligation&mdash;one generally expected from the women of her
-                        time. As a result of her mother’s grave illness, <name
-                            corresp="FRANCES_COBBE">Cobbe</name> returned home from her school in
-                            <rs type="place" key="city">Brighton</rs> to take over the household
-                        chores. After her mother, <name>Frances Cobbe Conway</name>, died in
-                            <dateRange from="1847-01-01" to="1847-12-31">1847</dateRange>, when
-                            <name corresp="FRANCES_COBBE">Cobbe</name> was twenty-five, the task of
+                        duty and obligation&mdash;one generally expected from the women of her time.
+                        As a result of her mother’s grave illness, <name corresp="FRANCES_COBBE"
+                            >Cobbe</name> returned home from her school in <rs type="place"
+                            key="city">Brighton</rs> to take over the household chores. After her
+                        mother, <name>Frances Cobbe Conway</name>, died in <dateRange
+                            from="1847-01-01" to="1847-12-31">1847</dateRange>, when <name
+                            corresp="FRANCES_COBBE">Cobbe</name> was twenty-five, the task of
                         running the household was left to her, and in the end she became her
                         father’s caretaker and companion until his death in <dateRange
                             from="1857-01-01" to="1857-12-31">1857</dateRange>. While <name
@@ -3025,7 +2991,6 @@
                                 Mary Somerville.</p>
                             <address><addrLine>http://www.oxforddnb.com/view/article/26024</addrLine></address>
                         </item>
-
                         <item>
                             <label>Wood, Shane. "Biographies of Women in Mathematics: Mary Fairfax
                                 Somerville." Agnes Scott College, 1995.</label>
@@ -3491,8 +3456,11 @@
                     <list>
                         <item>
                             <label ana="birth">Birth</label>
-                            <date>1825</date>
+                            <date>1825; father was poet Bryan Waller Procter</date>
                         </item>
+                        <item>
+                            <label ana="birth">Childhood</label> Frequent contact with Dickens,
+                            Charles Lamb, Leigh Hunt, Thackeray</item>
                         <item>
                             <label ana="religion">Religion</label>Conversion to Catholicism
                                 <date>1851</date>
@@ -3502,8 +3470,11 @@
                                 Lyrics</hi>published <date>1858</date>
                         </item>
                         <item>
-                            <label ana="death">Death</label>
-                            <date>1864</date>
+                            <label ana="birth">Vocation</label> Helped found Society for the
+                            Promotion of the Employment of Women <date>1859</date>
+                        </item>
+                        <item>
+                            <label ana="death">Death</label> Tuberculosis <date>1864</date>
                         </item>
                     </list>
                 </div2>
@@ -3913,16 +3884,19 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label ana="birth">Birth</label>
-                            <date>1815</date>
+                            <label ana="birth">Birth</label> Lighthouse keeper's daughter
+                                <date>1815</date>
                         </item>
                         <item>
                             <label ana="ordeal">Ordeal</label> Rescue of survivors of wreck of
                             Forfarshire <date>1838</date>
                         </item>
                         <item>
-                            <label ana="death">Death</label>
-                            <date>1842</date>
+                            <label ana="death">Death</label> Tuberculosis <date>1842</date>
+                        </item>
+                        <item>
+                            <label ana="death">Recognition</label> Wordsworth's poem "Grace Darling"
+                                <date>1843</date>
                         </item>
                     </list>
                 </div2>
@@ -4328,8 +4302,8 @@
                             <label>Fry, Elizabeth Gurney, Katharine Fry, and Rachel Elizabeth
                                 Cresswell. <title><hi rend="italics">Memoir of the Life of Elizabeth
                                         Fry: With Extracts from Her Letters and
-                                    Journal</hi>.</title> Vol. I &amp; II. Philadelphia: J.W.
-                                Moore, 1847, 1848.</label>
+                                    Journal</hi>.</title> Vol. I &amp; II. Philadelphia: J.W. Moore,
+                                1847, 1848.</label>
                             <p>Elizabeth Fry's memoir, written by herself and edited by her
                                 daughters. Text published in two volumes. Links to Vol. I and II
                                 accessed through Google Books.</p>
@@ -4410,8 +4384,19 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label ana="birth">Birth</label>
-                            <date>1780</date>
+                            <label ana="birth">Birth</label> to Quaker parents <date>1780</date>
+                        </item>
+                        <item>
+                            <label ana="vocation">Marriage</label> Joseph Fry, a Quaker banker
+                                <date>1800</date>
+                        </item>
+                        <item>
+                            <label ana="vocation">Family</label> Gives birth to 11 children
+                                <date>1801-1822</date>
+                        </item>
+                        <item>
+                            <label ana="vocation">Vocation</label> Becomes Quaker Minister
+                                <date>1811</date>
                         </item>
                         <item>
                             <label ana="vocation">Vocation</label> Begins organized work with women
@@ -4420,6 +4405,10 @@
                         <item>
                             <label ana="death">Death</label>
                             <date>1845</date>
+                        </item>
+                        <item>
+                            <label>Memorial</label> Featured on Bank of England £5 note <date>since
+                                2002</date>
                         </item>
                     </list>
                 </div2>
@@ -4653,13 +4642,13 @@
                         experience for the impressionable young woman:<rs
                             corresp="narrative_elements" ana="quotation_writing_by_subject"> “Today
                             I felt <hi rend="italics">that there is a God</hi>—I have been
-                            devotional &amp; my mind has been led away from the follies it
-                            mostly is wrapped up in—I loved the man as if he was almost sent from
-                            heaven—we had much serious talk &amp; what he said to me was like a
-                            refreshing shower on parched up earth" (<hi rend="italics">Memoir</hi>,
-                            48).</rs> When <name>Savery</name> is discussed in contemporary
-                        biographies, her feelings about him become the proper response of a pupil.
-                            <milestone unit="subject" corresp="life_events" ana="love"/>Yet <name
+                            devotional &amp; my mind has been led away from the follies it mostly is
+                            wrapped up in—I loved the man as if he was almost sent from heaven—we
+                            had much serious talk &amp; what he said to me was like a refreshing
+                            shower on parched up earth" (<hi rend="italics">Memoir</hi>, 48).</rs>
+                        When <name>Savery</name> is discussed in contemporary biographies, her
+                        feelings about him become the proper response of a pupil. <milestone
+                            unit="subject" corresp="life_events" ana="love"/>Yet <name
                             type="presenter">June Rose</name> calls it an “infatuation” with the
                         married, middle-aged preacher, one that Betsy's sisters teased her about.
                             <rs corresp="narrative_elements" ana="anecdote">During a trip to <rs
@@ -4948,16 +4937,15 @@
                         Houlston &amp; Stoneman, 1846.</note>
                     <note>Fry, Elizabeth Gurney, Katharine Fry, and Rachel Elizabeth Cresswell.
                                 <title><hi rend="italics">Memoir of the Life of Elizabeth Fry: With
-                                Extracts from Her Letters and Journal</hi>.</title> Vol. I &amp;
-                        II. Philadelphia: J.W. Moore, 1847, 1848.</note>
+                                Extracts from Her Letters and Journal</hi>.</title> Vol. I &amp; II.
+                        Philadelphia: J.W. Moore, 1847, 1848.</note>
                     <note>Haan, Francisca de. "Fry , Elizabeth (1780–1845)." <title><hi
                                 rend="italics">Oxford Dictionary of National Biography</hi>.</title>
                         Ed. H. C. G. Matthew and Brian Harrison. Oxford: OUP, 2004. Online ed. Ed.
                         Lawrence Goldman. May 2007.</note>
                     <note>Mossman, Samuel. <title><hi rend="italics">Gems of Womanhood; or, Sketches
-                                of Distinguished Women in Various Ages &amp;
-                            Nations</hi>.</title> London and Edinburgh: Gall and Inglis,
-                        1870.</note>
+                                of Distinguished Women in Various Ages &amp; Nations</hi>.</title>
+                        London and Edinburgh: Gall and Inglis, 1870.</note>
                     <note>Rose, June. <title><hi rend="italics">Elizabeth Fry</hi>.</title> New
                         York: St. Martin's, 1980.</note>
                     <note>Russell, William. <title><hi rend="italics">Extraordinary Women: Their
@@ -5042,7 +5030,8 @@
                             <figure n="no45"/>
                         </item>
                         <item>
-                            <label>Florence Nightingale, about 1858. From a photograph by Goodman. From Edward Cook, <title>
+                            <label>Florence Nightingale, about 1858. From a photograph by Goodman.
+                                From Edward Cook, <title>
                                     <hi rend="italics">The Life of Florence Nightingale</hi>.
                                 </title></label>
                             <figure n="no484"/>
@@ -5150,13 +5139,28 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
-                            <date>1820</date>
+                            <label>Birth</label> Florence, Italy; father is wealthy English
+                            landowner <date>1820</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label>Religion</label> Christian Universalist; "divine calling" to
+                            nursing, age 17 <date>1837</date></item>
+                        <item>
+                            <label>Vocation</label> Begins service as nurse in Turkey during Crimean
+                            War <date>1854</date>
                         </item>
+                        <item>
+                            <label>Recognition</label> Published <hi rend="italic">Notes on Nursing:
+                                What it is and What it is Not. </hi>
+                            <date>1859</date>
+                        </item>
+                        <item>
+                            <label>Vocation</label> Establishment in London of the Nightingale
+                            Training School <date>1860</date>
+                        </item>
+                        <item>
+                            <label>Recognition</label> Awarded the Royal Red Cross by Queen Victoria
+                                <date>1883</date></item>
                         <item>
                             <label>Death</label>
                             <date>1910</date>
@@ -5274,8 +5278,8 @@
                         </item>
                         <item>
                             <label>Swinburne, Algernon Charles. <title><hi rend="italics">A Note on
-                                        Charlotte Brontë</hi>.</title> London: Chatto &amp;
-                                Windus, 1877.</label>
+                                        Charlotte Brontë</hi>.</title> London: Chatto &amp; Windus,
+                                1877.</label>
                             <p>Algernon C. Swinburne's concise biography about the life and work of
                                 Charlotte Brontë. Swinburne focuses in particular on the novelist's
                                 literary achievements, arguing for the inclusion of her work in the
@@ -5363,7 +5367,6 @@
                         geographic location but also by their gender, into the material for art.
                         Though Anne and Emily were also published novelists and poets, Charlotte was
                         the most prolific of the three, and remains the most popular.</p>
-
                     <p><milestone unit="subject" corresp="life_events" ana="family"/>Charlotte was
                         the third of six children, <rs corresp="life_events" ana="birth">born to
                             Patrick and <rs corresp="agents" ana="mother">Maria Branwell Brontë</rs>
@@ -5378,7 +5381,6 @@
                             Patrick to raise the young family.</rs> (Charlotte’s siblings Branwell,
                         Emily, and Anne had been born in 1817, 1818, and 1820, respectively.) The
                         children’s aunt, Elizabeth Branwell, came to help care for them.</p>
-
                     <p><milestone unit="subject" corresp="life_events" ana="education"/>In 1824,
                         Charlotte and Emily were sent to join their two older sisters, <rs
                             corresp="agents" ana="sister">Maria</rs> and <rs corresp="agents"
@@ -5400,7 +5402,6 @@
                             ana="death">Elizabeth died on the 15th of June.</rs> Charlotte
                         immortalized her oldest sister Maria as the long-suffering, angelic
                         character Helen Burns in <hi rend="italics">Jane Eyre</hi>.</p>
-
                     <p>Charlotte, <rs corresp="agents" ana="brother">Branwell</rs>, <rs
                             corresp="agents" ana="sister">Emily</rs>, and <rs corresp="agents"
                             ana="sister">Anne</rs> became increasingly close after the loss of their
@@ -5417,7 +5418,6 @@
                         endeavors, as well as collaboration, and Charlotte often felt threatened by
                         Branwell’s early sense of entitlement with regard to the male-dominated
                         world of literary production.</p>
-
                     <p><milestone unit="subject" corresp="life_events" ana="education"/>Charlotte
                         and her siblings were prolific readers as well as writers. Her novels are
                         steeped in literary and biblical allusion, the product of this wide-ranging
@@ -5430,7 +5430,6 @@
                         (ODNB). The children also devoured the poetry and prose published in monthly
                         periodicals, such as <hi rend="italics">Blackwood’s Magazine</hi> and <hi
                             rend="italics">Fraser’s</hi>.</p>
-
                     <p>One of the writers who most influenced Charlotte as an emerging writer was
                         Lord Byron (1788-1824). His poetry furnished her imagination with exotic
                         settings and dashing heroes. Byron’s legacy, writes Miller, can be seen “her
@@ -5442,7 +5441,6 @@
                         brooding hero Mr. Rochester in <hi rend="italics">Jane Eyre</hi>, though
                         Charlotte’s unqualified admiration for this type of character would become
                         more ambivalent and nuanced over the intervening years.</p>
-
                     <p><milestone unit="subject" corresp="life_events" ana="education"/>In January
                         1831, Charlotte was sent to the <rs corresp="places" ana="school">Roe Head
                             School</rs>, about 15 miles from home. This second experience with
@@ -5462,7 +5460,6 @@
                         daughter (Miller, 12). Though she stayed at Roe Head for only eighteen
                         months as a pupil, Charlotte excelled in French and drawing, as well as
                         continuing to write.</p>
-
                     <p>Charlotte went back to Haworth briefly, but returned to Roe Head in July
                         1835, this time as a teacher. Charlotte remained there for three and a half
                         years. She soon became impatient however, at the strictures of the life she
@@ -5473,7 +5470,6 @@
                             suppressing my rage at the idleness, the apathy and the hyperbolical and
                             most asinine stupidity of those fatheaded oafs, and on compulsion
                             assuming an air of kindness, patience and assiduity?”</rs> (ODNB). </p>
-
                     <p><milestone unit="subject" corresp="life_events" ana="vocation"/>She continued
                         to harbor literary ambitions secretly while at Roe Head. Once, while on
                         holiday, she sent some of her poems to Robert Southey, the Poet Laureate of
@@ -5488,14 +5484,12 @@
                             12).</rs> Chastised, Charlotte responded that she attempted to repress
                         herself and conceal her ambitions from those around her. The accusation that
                         her ambitions were “unfeminine” would plague Charlotte all her life.</p>
-
                     <p>Charlotte felt increasingly guilty about her continued indulgence of her
                         Angrian fantasies, which nurtured her passionate desire to be loved and
                         understood. John Maynard points to Charlotte’s continued obsession with the
                         hyper-masculine Zamorna, while a teacher at Roe Head. At nineteen years of
                         age, escaping the “mirthless, lifeless room” at the school, she recorded
                         this daydream:</p>
-
                     <p rend="block"><rs corresp="narrative_elements"
                             ana="quotation_writing_by_subject">Never shall I, Charlotte Brontë,
                             forget…how distinctly I, sitting in the school-room at Roe-head, saw the
@@ -5507,20 +5501,17 @@
                             crest which undulated as the plume of a hearse waves to the wind, and
                             knew that that music…was exciting him and quickening his ever rapid
                             pulse.</rs> (Maynard, 13-14)</p>
-
                     <p>Charlotte worried that this kind of passionate fantasy was unwholesome, and
                         confessed her doubts to <rs corresp="agents" ana="friend">Ellen Nussey</rs>.
                             <rs corresp="narrative_rhetoric" ana="advice">Nussey’s conventional
                             Christian advice only increased Charlotte’s sense of her own
                             sinfulness.</rs> Charlotte left Roe Head in 1838, chastened and sobered
                         by her experiences, but not quenched in her literary ambition.</p>
-
                     <p>Returning home, Charlotte continued to write; two more novellas in the
                         Angrian mode concluded her involvement in the saga. “Although Angria
                         continued to provide material for future characterization, scene, and
                         theme,” writes Alexander, “she made a distinct move towards artistic
                         independence from both her brother and her private world” (ODNB).</p>
-
                     <p>In 1839, Charlotte received two proposals of marriage, both of which she
                         refused. The first was from the Reverend Henry Nussey, Ellen’s brother. The
                         second was from the Reverend James Bryce, an Irish clergyman whom she barely
@@ -5533,14 +5524,12 @@
                         eminently suitable match for Charlotte; if she had accepted one of them, it
                         would have obviated the need to hire herself out as a governess, one of the
                         few respectable career options available to a woman of her class.</p>
-
                     <p>Following this, Charlotte endured two brief stints as a governess, a position
                         she enjoyed even less than teaching. Brontë’s resentment of the treatment
                         she received, and the tendency of the upper classes to treat governesses as
                         subhuman, would emerge in her fiction, much of which dealt with the
                         humiliations endured by women forced to earn their living in these degrading
                         circumstances. </p>
-
                     <p>Returning home in 1841, Charlotte began to make plans with Emily and Anne to
                         open their own school. However, the sisters felt they could attract more
                         pupils if their language skills were more robust. Plans for the school were
@@ -5556,7 +5545,6 @@
                         master, and his comments on the Brontës’ French compositions show that he
                         did not spare his criticism, even though he was impressed by the abilities
                         of these young Englishwomen.</p>
-
                     <p><rs corresp="life_events" ana="death">Charlotte and Emily were called home in
                             October by the death of their Aunt Branwell.</rs> Emily decided to stay
                         in England and live off the legacy she had received from their aunt, and
@@ -5568,7 +5556,6 @@
                         life as material for her novels <hi rend="italics">The Professor</hi> and
                             <hi rend="italics">Villette</hi>.) By the end of 1843, Charlotte had
                         decided to return to Haworth.</p>
-
                     <p>Charlotte’s depression deepened upon her return to <rs corresp="places"
                             ana="nation">England</rs>. Plans for the girls’ school fell through, and
                         Charlotte longed for the company of M. Heger. She wrote him a series of
@@ -5576,14 +5563,12 @@
                         Charlotte’s unrequited love tortured her, and she begged Heger to write back
                         to her. Wounded by his silence, Charlotte discontinued her correspondence
                         with him.</p>
-
                     <p>Her private suffering was compounded by shared family trials, when <rs
                             corresp="agents" ana="brother">Branwell</rs> was dismissed in disgrace
                         from his post as tutor for having an affair with his employer’s wife.
                         Branwell led a dissipated and self-destructive life after this, nursing his
                         addiction to alcohol and opium. Charlotte’s brother became a strain on his
                         family and his health began a rapid decline.</p>
-
                     <p>Once again, Charlotte took refuge from grief in work, focusing on her goal of
                         becoming a published writer. In 1845, she discovered a notebook containing
                         Emily’s poetry, and persuaded her that they merited publication. Charlotte,
@@ -5594,7 +5579,6 @@
                         expense (using money from their aunt’s legacy). The book sold only two
                         copies, but received several favorable reviews, which was enough to
                         encourage the sisters to continue.</p>
-
                     <p>The three began to work on prose next, perfecting their novels in the hopes
                         of publication. Charlotte drew on her Brussels experience for her first
                         novel, <hi rend="italics">The Professor</hi>. Emily wrote <hi rend="italics"
@@ -5614,7 +5598,6 @@
                         result of this artistic decision was a novel stiff and detached, not true to
                         its author’s emotional experiences and inner knowledge. <hi rend="italics"
                             >The Professor</hi> was never published during Charlotte’s lifetime.</p>
-
                     <p>However, the firm of Smith, Elder &amp; Co. had offered encouragement in
                         their rejection letter, indicating that they would be interested to read
                         anything Charlotte might send to them in future. By August 1847, Charlotte
@@ -5627,7 +5610,6 @@
                         instant bestseller. The novel also received critical acclaim: literary
                         celebrities such as G. H. Lewes and William Makepeace Thackeray praised
                         it.</p>
-
                     <p>Semi-autobiographical in content, <hi rend="italics">Jane Eyre</hi> is the
                         story of an unloved orphan whose experience of suffering and neglect fail to
                         subdue her passion and will to become independent. Charlotte Brontë finally
@@ -5638,7 +5620,6 @@
                         and dignity, in spite of her gender and social position, was a powerful
                         critique of mid-Victorian life, and not surprisingly, ruffled quite a few
                         feathers.</p>
-
                     <p><hi rend="italics">Jane Eyre</hi>’s psychologically astute portrayal of a
                         female voice and perspective led many readers to assume that its author was,
                         in fact, a woman. Some readers, especially women, were shocked by the
@@ -5654,7 +5635,6 @@
                         been speculated, the author was indeed a woman, Rigby declared that she must
                         be one who “has for some sufficient reason, long forfeited the society of
                         her own sex” (Miller, 22-23).</p>
-
                     <p>It is ironic that the assumption of an androgynous pseudonym, rather than
                         shielding Charlotte from censure, should have led to such vicious gossip and
                         speculation. Charlotte dedicated her second edition of <hi rend="italics"
@@ -5662,7 +5642,6 @@
                         spark more gossip. Thackeray, like Rochester, had a wife who was mentally
                         ill, leading to rumors that <hi rend="italics">Jane Eyre</hi> had been
                         written by Thackeray’s mistress.</p>
-
                     <p>Charlotte finally revealed her true identity to her publishers, after Thomas
                         Newby attempted to capitalize on the popularity of Charlotte’s recent novel
                         by claiming that <hi rend="italics">Agnes Grey</hi> and <hi rend="italics"
@@ -5671,7 +5650,6 @@
                             corresp="places" ana="city">London</rs> to confirm their identities to
                         Charlotte’s publisher George Smith, who welcomed them and took them to the
                         opera, the Royal Academy, and the National Gallery (ODNB).</p>
-
                     <p>Upon her return to Haworth, Charlotte began work on her next novel, <hi
                             rend="italics">Shirley</hi>, but her new literary success was soon
                         overshadowed by family tragedy. <milestone unit="subject"
@@ -5682,7 +5660,6 @@
                             corresp="life_events" ana="death">Branwell died of chronic bronchitis in
                             September 1848, at age thirty-one.</rs> Charlotte grieved as much for
                         Branwell’s wasted life as she did for his death.</p>
-
                     <p><rs corresp="life_events" ana="illness_or_health">mily caught a cold on the
                             day of Branwell’s funeral. She grew steadily weaker, refusing to consult
                             a doctor, despite Charlotte’s urging.</rs>
@@ -5692,7 +5669,6 @@
                             symptoms of tuberculosis, Charlotte rushed her to the seaside in an
                             attempt to help her recover,</rs> but <rs corresp="life_events"
                             ana="death">Anne died in May 1849, aged twenty-nine.</rs></p>
-
                     <p><milestone unit="subject" corresp="narrative_rhetoric" ana="topos_loss"/>The
                         sole surviving Brontë sibling, Charlotte was bereft of her imaginative and
                         literary support. <milestone unit="subject" corresp="narrative_rhetoric"
@@ -5709,7 +5685,6 @@
                         (ODNB). This foray into strict realism did not produce Brontë’s most
                         powerful work, but <hi rend="italics">Shirley</hi> is still an ambitious and
                         masterful novel.</p>
-
                     <p>While Charlotte kept her identity a secret from the public, for the time
                         being, she was curious to meet the literary celebrities of <rs
                             corresp="places" ana="city">London</rs>, and asked George Smith to
@@ -5723,7 +5698,6 @@
                             corresp="places" ana="city">Edinburgh</rs> in 1850. Gaskell was a
                         novelist who would become Charlotte’s friend and confidant, and later, her
                         first biographer.</p>
-
                     <p>The criticism she had received for <hi rend="italics">Jane Eyre</hi> still
                         rankled, however, and now that her sisters were dead, there was no longer as
                         much reason for concealing the sisters’ true identity. (Emily had been the
@@ -5747,7 +5721,6 @@
                             happened. It was a township, a small, industrial town in the heart of a
                             much larger chapelry, where politics and religion were hotly disputed
                             and culture thrived”</rs> (Barker, xix).</p>
-
                     <p>However, if the view of <rs corresp="places" ana="rural_setting">Haworth
                             Parsonage as a completely isolated landmark in the midst of
                             unadulterated moorland</rs> is a popular myth, as both Miller and Barker
@@ -5763,7 +5736,6 @@
                         him…[another] steps into his vacant place, and probably does as well as he.”
                         For a woman, however, cannot shirk her domestic responsibilities to pursue a
                         career:</p>
-
                     <p rend="block"><rs corresp="narrative_elements" ana="quotation_biography">But
                             no other can take up the quiet regular duties of the daughter, the wife,
                             or the mother, as well as she whom God has appointed to fill that
@@ -5771,7 +5743,6 @@
                             own choice; nor can she drop the domestic charges devolving on her as an
                             individual, for the exercise of the most splendid talents that were ever
                             bestowed.</rs> (Gaskell, 271-272)</p>
-
                     <p>Gaskell was obviously at pains to prove to the world that Charlotte did not
                         neglect her “principal work” as a woman in order to exercise her talents,
                         that she was a dutiful daughter and sister, without unfeminine ambitions. As
@@ -5781,7 +5752,6 @@
                         surprising (Miller, 64). Gaskell’s portrayal continued to influence popular
                         and scholarly conceptions of Charlotte’s life, and it is only recently that
                         the larger picture has begun to be pieced together.</p>
-
                     <p>In her last completed novel, <hi rend="italics">Villette</hi>, Charlotte
                         reworked the material she had previously used in <hi rend="italics">The
                             Professor</hi>, again drawing on her experiences in Brussels and her
@@ -5793,7 +5763,6 @@
                         lead her to conceal information, even from the reader. <hi rend="italics"
                             >Villette</hi> contains the promise of fulfillment in love, but the
                         ending remains ambiguous.</p>
-
                     <p>Published in January 1843, <hi rend="italics">Villette</hi> met with mixed
                         reviews. Thackeray characteristically attributed the heroine’s longing for
                         love to the author herself. “Poor little woman of genius!” he wrote to a
@@ -5802,7 +5771,6 @@
                         looks…and no Tomkins will come” (Maynard, 15). Like Gaskell, Thackeray
                         implies that women can gain true fulfillment only in conventional
                         domesticity; literary achievement is a sort of consolation prize.</p>
-
                     <p>Ironically, Charlotte would soon after achieve the kind of domestic happiness
                         from which Thackeray thought she was permanently excluded. <milestone
                             unit="subject" corresp="life_events" ana="relationship"/>Her father’s
@@ -5813,7 +5781,6 @@
                         Charlotte and Arthur were married in Haworth Church on June 29, 1854. They
                         spent their honeymoon in Ireland, and then returned to Haworth to care for
                         Charlotte’s aging father.</p>
-
                     <p>Charlotte’s letters reveal that it was a happy marriage, but sadly, her new
                         happiness was short-lived. <milestone unit="subject" corresp="life_events"
                             ana="illness_or_health"/>In the early stages of pregnancy, Charlotte was
@@ -5821,35 +5788,18 @@
                             corresp="life_events" ana="death"/>died on March 31, 1855. She had been
                         married less than a year. At her death, Charlotte left the manuscript of her
                         last novel <hi rend="italics">Emma</hi> unfinished. </p>
-
-
-
-
-
-
-
-
-
-
-
                     <p>BIBLIOGRAPHY</p>
-
                     <p>Alexander, Christine. “Charlotte Brontë (1816-1855).” <hi rend="italics"
                             >Oxford Dictionary of National Biography</hi>. 2004.
                         http://www.oxforddnb.com/view/article/3523</p>
-
                     <p>Barker, Juliet. <hi rend="italics">The Brontës</hi>. Weidenfeld and
                         Nicholson, London: 1994.</p>
-
                     <p>Gaskell, Elizabeth. <hi rend="italics">The Life of Charlotte Brontë</hi>. Ed.
                         Angus Easson. Oxford University Press, Oxford: 1996.</p>
-
                     <p>Maynard, John. <hi rend="italics">Charlotte Brontë and Sexuality</hi>.
                         Cambridge University Press, Cambridge: 1984.</p>
-
                     <p>Miller, Lucasta. <hi rend="italics">The Brontë Myth</hi>. Alfred A. Knopf,
                         New York: 2003.</p>
-
                 </div2>
             </div1>
             <div1 id="LADY_JANE_GREY" ana="queen_rank">
@@ -5983,8 +5933,8 @@
                         </item>
                         <item>
                             <label>Taylor, Ida Ashworth. <title><hi rend="italics">Lady Jane Grey
-                                        and Her Times</hi>.</title> London: Hutchinson &amp;
-                                Co., 1908. </label>
+                                        and Her Times</hi>.</title> London: Hutchinson &amp; Co.,
+                                1908. </label>
                             <p>Ida A. Taylor's (author of <title><hi rend="italics">Life of Madame
                                         Roland</hi>)</title> detailed biography about Lady Jane
                                 Grey. Chapters follow a chronology of the political events that
@@ -6034,15 +5984,25 @@
                     <list>
                         <item>
                             <label>Birth</label>
-                            <date>1537</date>
+                            <date>1537; father is Duke of Suffolk, mother is royal descendant</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label>Talent</label>
+                            <date>Writing; languages; music</date>
                         </item>
                         <item>
-                            <label>Death</label>
-                            <date>1554</date>
+                            <label>Vocation</label> 10 July, proclaimed Queen; 19 July, proclamation
+                            revoked <date>1553</date>
+                        </item>
+                        <item>
+                            <label>Ordeal</label> Imprisoned in Tower of London by Queen Mary I
+                                <date>1553</date>
+                        </item>
+                        <item>
+                            <label>Religion</label> Protestant; Wyatt's Rebellion precipitated her
+                            execution</item>
+                        <item>
+                            <label>Death</label> Execution, Tower of London <date>1554</date>
                         </item>
                     </list>
                 </div2>
@@ -6191,12 +6151,26 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
-                            <date>1745</date>
+                            <label>Birth</label> Gloucestershire; schoolmaster's daughter
+                                <date>1745</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label>Vocation</label> First play, <hi rend="italic">The Search for
+                                Happiness</hi>
+                            <date>1762</date>
+                        </item>
+                        <item>
+                            <label>Ordeal</label> Last play written for stage; subsequently abandons
+                            playwriting <date>1779</date>
+                        </item>
+                        <item>
+                            <label>Vocation</label> First publication of <hi rend="italic">The Cheap
+                                Repository</hi>
+                            <date>1795</date>
+                        </item>
+                        <item>
+                            <label>Vocation</label> Established twelve schools around Somerset area
+                                <date>by 1800</date>
                         </item>
                         <item>
                             <label>Death</label>
@@ -6307,16 +6281,30 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
-                            <date>0000</date>
+                            <label>Birth</label> Daughter of Thomas Wriothesley, Earl of Southampton
+                                <date>c. 1636</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label>Religion</label> Church of England</item>
+                        <item>
+                            <label>Death</label> Father's death; first husband's death
+                                <date>1667</date>
+                        </item>
+                        <item>
+                            <label ana="marriage">Marriage</label> Wedded William Russell, who later
+                            assumed Lordship <date>1669</date>
+                        </item>
+                        <item>
+                            <label ana="marriage">Vocation</label> Secretary and advocate for
+                            William, on trial (eventually beheaded) for treason <date>1683</date>
                         </item>
                         <item>
                             <label>Death</label>
                             <date>1723</date>
+                        </item>
+                        <item>
+                            <label ana="marriage">Recognition</label> Posthumous publication of her
+                            letters <date>1773</date>
                         </item>
                     </list>
                 </div2>
@@ -6387,8 +6375,8 @@
                             <label>Blennerhassett, Charlotte Julia von Leyden. <title><hi
                                         rend="italics">Madame de Staël: Her Friends and Her
                                         Influence in Politics and Literature</hi>.</title> Vol. I,
-                                II &amp; III. Trans. Jane Eliza Gordon-Cumming. London: Chapman
-                                and Hall, 1889.</label>
+                                II &amp; III. Trans. Jane Eliza Gordon-Cumming. London: Chapman and
+                                Hall, 1889.</label>
                             <p>Lady Charlotte Blennerhassett's detailed biography about Madame de
                                 Staël. Text published in three volumes. Volume I includes the
                                 author's preface. Links to Vol. I, II and III accessed through
@@ -6399,8 +6387,8 @@
                         </item>
                         <item>
                             <label>Stevens, Abel. <title><hi rend="italics">Madame de Staël: A Study
-                                        of Her Life and Times</hi>.</title> Vol. I &amp; II.
-                                London: J. Murray, 1881.</label>
+                                        of Her Life and Times</hi>.</title> Vol. I &amp; II. London:
+                                J. Murray, 1881.</label>
                             <p>Abel Stevens' comprehensive biography about Madame de Staël and the
                                 political climate in Europe during the time of her life. Text
                                 published in two volumes. Volume I includes the author's preface.
@@ -6460,12 +6448,28 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
-                            <date>1766</date>
+                            <label>Birth</label> Financier's daughter, Paris <date>1766</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label>Marriage</label> Married Erik Magnus Staël von Holstein, a
+                            Swedish court official <date>1786</date>
+                        </item>
+                        <item>
+                            <label>Vocation</label> First publication under her own name, <hi
+                                rend="italic">Lettres sur J. J. Rousseau </hi>
+                            <date>1788</date>
+                        </item>
+                        <item>
+                            <label>Ordeal</label> Exiled from Paris by Napoleon; moved to Germany
+                                <date>1803</date>
+                        </item>
+                        <item>
+                            <label>Vocation</label>
+                            <hi rend="italic">Corinne, ou L'Italie </hi>
+                            <date>1807</date>
+                        </item>
+                        <item>
+                            <label>Ordeal</label> Returned to Paris out of exile <date>1816</date>
                         </item>
                         <item>
                             <label>Death</label>
@@ -6569,8 +6573,8 @@
                         </item>
                         <item>
                             <label>Beesly, Edward Spencer. <title><hi rend="italics">Queen
-                                        Elizabeth</hi>.</title> London and New York: Macmillan
-                                &amp; Co., 1900.</label>
+                                        Elizabeth</hi>.</title> London and New York: Macmillan &amp;
+                                Co., 1900.</label>
                             <p>Edward S. Beesly's detailed biography about Queen Elizabeth. Chapters
                                 follow a chronology of the political events that determined the
                                 course of her life and reign. This text is part of the series,
@@ -6627,17 +6631,33 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
-                            <date>1533</date>
+                            <label>Birth</label> to King Henry VIII and Anne Boleyn
+                                <date>1533</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label>Ordeal</label> Imprisonment; accused of sympathizing with
+                            Protestant rebels <date>1554-1555</date>
+                        </item>
+                        <item>
+                            <label>Death</label> Queen Mary (sister) <date>1558</date>
+                        </item>
+                        <item>
+                            <label>Vocation</label> Takes throne <date>1558</date>
+                        </item>
+                        <item>
+                            <label>Religion</label> "Elizabethan Religious Settlement"
+                                <date>1559</date>
+                        </item>
+                        <item>
+                            <label>Ordeal</label> Defeat of Spanish Armada <date>1588</date>
                         </item>
                         <item>
                             <label>Death</label>
                             <date>1603</date>
                         </item>
+                        <item>
+                            <label>Memorial</label> Emotional funeral procession to Westminster
+                            Abbey </item>
                     </list>
                 </div2>
                 <div2 n="1" id="LOV_QUEEN_ELIZABETH_I_BIO" type="bio">
@@ -6752,8 +6772,8 @@
                         </item>
                         <item>
                             <label>Abbott, John S. C. <title><hi rend="italics">History of Madame
-                                        Roland, with Engravings</hi>.</title> New York: Harper
-                                &amp; Brothers, 1850.</label>
+                                        Roland, with Engravings</hi>.</title> New York: Harper &amp;
+                                Brothers, 1850.</label>
                             <p>This biography about Madame Roland, written by John Abbott, frames
                                 her history against a backdrop of the events of the French
                                 Revolution. The text includes Abbott's preface as well as several
@@ -6806,16 +6826,21 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
-                            <date>0000</date>
+                            <label>Birth</label> Engraver's daughter, Paris <date>1754</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label>Education</label> Fluent in French, Latin, Italian, English;
+                            accomplished musician, dancer</item>
+                        <item>
+                            <label>Marriage</label> Jean-Marie Roland, influential supporter of
+                            French Revolution <date>1781</date>
                         </item>
                         <item>
-                            <label>Death</label>
-                            <date>0000</date>
+                            <label>Ordeal</label> Imprisonment; writes memoirs in prison
+                                <date>1793</date>
+                        </item>
+                        <item>
+                            <label>Death</label> Guillotine <date>1793</date>
                         </item>
                     </list>
                 </div2>
@@ -6953,17 +6978,27 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
-                            <date>1596</date>
+                            <label>Birth</label> Daughter of chief Powhatan <date>1596</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label>Ordeal</label> Saved John Smith from execution <date>1608</date>
                         </item>
                         <item>
-                            <label>Death</label>
-                            <date>1617</date>
+                            <label>Religion</label> Conversion to Christianity
+                                <date>1613-1614</date>
                         </item>
+                        <item>
+                            <label>Marriage</label> Wedded John Rolfe <date>1614</date>
+                        </item>
+                        <item>
+                            <label>Ordeal</label> First journey to England <date>1616</date>
+                        </item>
+                        <item>
+                            <label>Death</label> Gravesend, England <date>1617</date>
+                        </item>
+                        <item>
+                            <label>Memorial</label> Statue at St. George's Church, Gravesend,
+                            England</item>
                     </list>
                 </div2>
                 <div2 n="1" id="LOV_POCAHONTAS_BIO" type="bio">
@@ -7034,8 +7069,8 @@
                         </item>
                         <item>
                             <label>Clerke, Agnes Mary. <title><hi rend="italics">The Herschels and
-                                        Modern Astronomy</hi>.</title> London: Cassell &amp;
-                                Co., 1895.</label>
+                                        Modern Astronomy</hi>.</title> London: Cassell &amp; Co.,
+                                1895.</label>
                             <p>Agnes Mary Clerke's book about William and Caroline Herschel's impact
                                 on the field of astronomy. A chapter of the text is devoted to a
                                 biography of Caroline Herschel and her scientific achievements. This
@@ -7088,16 +7123,26 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
-                            <date>1750</date>
+                            <label>Birth</label> Hanover, Germany <date>1750</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label>Family</label> Worked closely with brother, Wilhelm Herschel,
+                            astronomer</item>
+                        <item>
+                            <label>Vocation</label> Joined Wilhelm in England <date>1772</date>
                         </item>
                         <item>
-                            <label>Death</label>
-                            <date>1848</date>
+                            <label>Vocation</label> Discovered her first comet <date>1786</date>
+                        </item>
+                        <item>
+                            <label>Death</label> Brother's death <date>1822</date>
+                        </item>
+                        <item>
+                            <label>Recognition</label> Gold Medal from Royal Astronomical Society
+                                <date>1828</date>
+                        </item>
+                        <item>
+                            <label>Death</label> Hanover, Germany <date>1848</date>
                         </item>
                     </list>
                 </div2>
@@ -7267,9 +7312,10 @@
                                 5, 1812</date>
                         </item>
                         <item>
-                            <label ana="vocation">Mission</label>Departed to estabish Christian
+                            <label ana="vocation">Religion</label>Departed to estabish Christian
                             mission in Burma<date>1812</date></item>
-                        <item><label ana="ordeal">Ordeal</label>Imprisonment of Rev. Judson
+                        <item>
+                            <label ana="ordeal">Ordeal</label>Imprisonment of Rev. Judson
                                 <date>1824-1826</date></item>
                         <item>
                             <label>Death</label>
@@ -7315,7 +7361,6 @@
                             ana="trope_alone"/>surrounded by strangers, Ann would face her most
                         significant trials apart from her husband, bereft of his protection and in
                         fact, protecting him. </p>
-
                     <p><name corresp="ANN_HASSELTINE_JUDSON">Ann Hasseltine</name> was <rs
                             type="life_events" key="birth">born</rs> on <date>December 22,
                             1789</date> in <rs type="places" key="town">Bradford, Massachusetts</rs>
@@ -7347,7 +7392,6 @@
                     </p>
                     <p>Commendable examples become most effective through such mirroring between the
                         inspirational figure and the more common reader.</p>
-
                     <p>As a young adolescent, Ann enjoyed the amusements and entertainments that
                         most lively girls her age pursue. Her disposition was active and restless,
                         such that her mother described it as <rs corresp="narrative_elements"
@@ -7370,7 +7414,6 @@
                             >Goodrich’s</name> account, <milestone unit="subject"
                             corresp="narrative_rhetoric" ana="example"/>implies that a reader
                         similarly detemined might rise to eminence from the common level.</p>
-
                     <p>Though biographies agree on the portrait of a remarkably dedicated student,
                         the young girl was nevertheless attracted by the worldly pleasures her peers
                         enjoyed—balls, plays, assemblies and the company of admiring young men.<rs
@@ -7394,7 +7437,6 @@
                         vivacious conduct, <hi rend="italics">when sanctified</hi>, will be
                         productive of virtuous deeds to a surprising extent. (14, emphasis
                         added)</p>
-
                     <p><rs corresp="narrative_elements" key="anecdote">A noteworthy detail in many
                             accounts</rs> of the <rs corresp="narrative_elements"
                             key="temporal_effects">dissipated phase</rs> of Ann Hasseltine’s
@@ -7419,7 +7461,6 @@
                         several relapses into pleasure-seeking) it is significant for revealing the
                         work being done behind the biography in terms of crafting patterns for other
                         women to follow.</p>
-
                     <p>The <milestone unit="subject" corresp="genre_conventions"
                             ana="discriminated_event"/>conversion narrative also serves as a means
                         for biographers to do away with any unfitting characteristics present in
@@ -7444,7 +7485,6 @@
                         the <rs corresp="life_events" ana="religion">Congregational Church</rs> in
                             <rs type="places" key="town">Bradford</rs> on <date>September 14,
                             1806</date> (Goodrich, 345).</p>
-
                     <p><milestone unit="subject" corresp="life_events" ana="vocation"/>Another sign
                         of Ann's development towards the work of Christian ministry for which she
                         would become famous is signaled early in <date>1807,</date> when she started
@@ -7477,7 +7517,6 @@
                             corresp="narrative_rhetoric" key="emphasis">"heathens"</rs>(a term
                         ubiquitously used during <rs type="history" key="era">the imperialist
                             era</rs>) in the distant land of Burma. </p>
-
                     <p>In <date>1810</date>, <rs type="places" key="nation">America</rs> did not yet
                         have an organized Society to promote foreign mission work, although several
                         Christian associations already existed to spread Gospel teachings in remote
@@ -7523,7 +7562,6 @@
                                 type="agents" key="lover">Adoniram</name> would sway her to become a
                             missionary—a commitment that should be motivated by a calling to
                             religious duty, not by feelings of personal affection.</rs></p>
-
                     <p><milestone unit="subject" corresp="agents" ana="sacred_or_divine"/>She became
                         convinced that divine will had presented her with the means to carry out a
                         missionary impulse she had felt independently since her own conversion.
@@ -7544,7 +7582,6 @@
                             knowledge ever left the shores of America to spend her life among the
                             heathen; nor do I yet know that I shall have a single female
                             companion.</rs> (qtd. in Goodrich, 348)</p>
-
                     <p>Public opinion at that time was opposed to such a calling for a woman:
                             <milestone unit="subject" corresp="narrative_rhetoric"
                             ana="trope_difference_from_women"/><quote>"It was deemed wild and
@@ -7569,7 +7606,6 @@
                             type="history" key="era">end of the nineteenth century</rs> women's
                         engagement in wider fields of public work had become far more
                         acceptable.</p>
-
                     <p><rs corresp="genre_conventions" key="movement">The couple left for India only
                             two weeks after their wedding, sailing on <date>February 19,
                             1812</date>.</rs>
@@ -7639,7 +7675,6 @@
                         on the Sabbath (Goodrich, 354-8). Her relative ease in communication would
                         serve her well later, when she would have to plead with Burmese authorities
                         to spare her husband's life. </p>
-
                     <p>The image of Ann, alone, surrounded by strangers and navigating into the
                         unknown, repeatedly appears in biographies. <name type="presenter">Frank
                             Goodrich</name> provides a rather fantastical example in the collected
@@ -7808,7 +7843,6 @@
                             <name corresp="EMILY_CHUBBUCK_JUDSON">Emily Chubbuck Judson</name> would
                         directly emulate her missionary footsteps as wives of <name type="agents"
                             key="husband">Adoniram Judson</name>.</p>
-
                     <p>Works Cited</p>
                     <note>Bolton, Sarah Knowles. <title><hi rend="italics">Famous Types of
                                 Womanhood</hi>.</title> New York: T. Y. Crowell, 1886; 1892.</note>
@@ -7832,7 +7866,6 @@
                     <note>Wyeth, Walter Newton. <title><hi rend="italics">Ann H. Judson: A
                                 Memorial</hi>.</title> Cincinnati, OH: Published by the author,
                         1888.</note>
-
                 </div2>
             </div1>
             <div1 id="JENNY_LIND" ana="arts">
@@ -7977,16 +8010,25 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
-                            <date>1820</date>
+                            <label>Birth</label> Stockholm, Sweden <date>1820</date>
                         </item>
                         <item>
-                            <label>Event 1</label>
-                            <date>0000</date>
+                            <label>Childhood</label> Parents unable to provide; sent to live with
+                            church organist <date>1820-1824</date>
                         </item>
                         <item>
-                            <label>Death</label>
-                            <date>1887</date>
+                            <label>Recognition</label> Member of Royal Swedish Academy of Music
+                                <date>1840</date>
+                        </item>
+                        <item>
+                            <label>Vocation</label> Began American concert tour <date>1850</date>
+                        </item>
+                        <item>
+                            <label>Marriage</label> Wedded pianist Otto Goldschmidt
+                                <date>1852</date>
+                        </item>
+                        <item>
+                            <label>Death</label> Worcestershire, England <date>1887</date>
                         </item>
                     </list>
                 </div2>
@@ -8040,5 +8082,4 @@
             </div1>
         </body>
     </text>
-
 </TEI.2>
