@@ -419,7 +419,7 @@ td.mosaic img {
 	float: right;
 	width: auto;
 	text-align: left;
-	margin: -35px 0;
+	margin: -35px 20px;
 }
 #popChart_filter input {
 	border: 1px solid #888;
