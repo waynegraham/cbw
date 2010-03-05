@@ -44,7 +44,7 @@
                 </div>
             </xsl:if>
                 <div class="subject-caption">
-                    <p>Some text here.</p>
+                    <p><xsl:value-of select="number(div2[@type='milestones']/list/item[label/@ana = 'birth']/date)"/></p>
                 </div>
         </div>
     </xsl:template>
