@@ -5140,7 +5140,7 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label> Florence, Italy; father is wealthy English
+                            <label ana="birth">Birth</label> Florence, Italy; father is wealthy English
                             landowner <date>1820</date>
                         </item>
                         <item>
@@ -5984,8 +5984,9 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label>
-                            <date>1537; father is Duke of Suffolk, mother is royal descendant</date>
+                            <label ana="birth">Birth</label>
+                            <date>1537</date> 
+                            father is Duke of Suffolk, mother is royal descendant
                         </item>
                         <item>
                             <label>Talent</label>
@@ -6152,7 +6153,7 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label> Gloucestershire; schoolmaster's daughter
+                            <label ana="birth">Birth</label> Gloucestershire; schoolmaster's daughter
                                 <date>1745</date>
                         </item>
                         <item>
@@ -6282,7 +6283,7 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label> Daughter of Thomas Wriothesley, Earl of Southampton
+                            <label ana="birth">Birth</label> Daughter of Thomas Wriothesley, Earl of Southampton
                                 <date>c. 1636</date>
                         </item>
                         <item>
@@ -6449,7 +6450,7 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label> Financier's daughter, Paris <date>1766</date>
+                            <label ana="birth">Birth</label> Financier's daughter, Paris <date>1766</date>
                         </item>
                         <item>
                             <label>Marriage</label> Married Erik Magnus Staël von Holstein, a
@@ -6632,7 +6633,7 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label> to King Henry VIII and Anne Boleyn
+                            <label ana="birth">Birth</label> to King Henry VIII and Anne Boleyn
                                 <date>1533</date>
                         </item>
                         <item>
@@ -6827,7 +6828,7 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label> Engraver's daughter, Paris <date>1754</date>
+                            <label ana="birth">Birth</label> Engraver's daughter, Paris <date>1754</date>
                         </item>
                         <item>
                             <label>Education</label> Fluent in French, Latin, Italian, English;
@@ -6979,7 +6980,7 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label> Daughter of chief Powhatan <date>1596</date>
+                            <label ana="birth">Birth</label> Daughter of chief Powhatan <date>1596</date>
                         </item>
                         <item>
                             <label>Ordeal</label> Saved John Smith from execution <date>1608</date>
@@ -7124,7 +7125,7 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label> Hanover, Germany <date>1750</date>
+                            <label ana="birth">Birth</label> Hanover, Germany <date>1750</date>
                         </item>
                         <item>
                             <label>Family</label> Worked closely with brother, Wilhelm Herschel,
@@ -8010,7 +8011,7 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label>Birth</label> Stockholm, Sweden <date>1820</date>
+                            <label ana="birth">Birth</label> Stockholm, Sweden <date>1820</date>
                         </item>
                         <item>
                             <label>Childhood</label> Parents unable to provide; sent to live with
