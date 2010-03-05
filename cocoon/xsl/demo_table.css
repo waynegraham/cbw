@@ -141,23 +141,23 @@ table.display td.center {
  */
 
 .sorting_asc {
-	background: url('images/sort_asc.jpg') no-repeat center right;
+	background: url('sort_asc.jpg') no-repeat center right;
 }
 
 .sorting_desc {
-	background: url('images/sort_desc.jpg') no-repeat center right;
+	background: url('sort_desc.jpg') no-repeat center right;
 }
 
 .sorting {
-	background: url('images/sort_both.jpg') no-repeat center right;
+	background: url('sort_both.jpg') no-repeat center right;
 }
 
 .sorting_asc_disabled {
-	background: url('images/sort_asc_disabled.jpg') no-repeat center right;
+	background: url('sort_asc_disabled.jpg') no-repeat center right;
 }
 
 .sorting_desc_disabled {
-	background: url('images/sort_desc_disabled.jpg') no-repeat center right;
+	background: url('sort_desc_disabled.jpg') no-repeat center right;
 }
 
 
