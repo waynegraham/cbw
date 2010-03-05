@@ -878,3 +878,7 @@ vertical-align:bottom;
 	float: left;
 	margin-left: 10px;
 }
+
+#test {
+	color: #000;
+}

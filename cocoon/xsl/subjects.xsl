@@ -17,8 +17,8 @@
                     <div id="subjects">
                         <h2>Featured Subjects</h2>
                         <div class="subject-list">
-                            <xsl:apply-templates select="//body/div1[not(@type='nonfs')]">
-                                <xsl:sort select="div2[@type='milestones']/list/item/label[@ana='birth']/date" data-type="number"/>
+                            <xsl:apply-templates select="/TEI.2/text/body/div1[not(@type='nonfs')]">
+                                <xsl:sort select="div2[@type='milestones']/list/item[label/@ana = 'birth']/date"/>
                             </xsl:apply-templates>
                         </div>
                     </div>
