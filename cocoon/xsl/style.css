@@ -613,10 +613,10 @@ dl>div {
 dt {
 	font-style:italic;
 	float:left;
-	width:50px;
+	width:70px;
 }
 dd {
-	margin-left:50px;
+	margin-left:70px;
 }
 #intro .jcarousel-skin-tango .jcarousel-container-horizontal, #intro .jcarousel-skin-tango .jcarousel-clip-horizontal{
     width: 240px;

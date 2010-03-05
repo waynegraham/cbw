@@ -17,15 +17,16 @@
                     <div id="subjects">
                         <h2>Featured Subjects</h2>
                         <div class="subject-list">
-                            <xsl:apply-templates select="//body/div1[not(@type='nonfs')]"/>
+                            <xsl:apply-templates select="//body/div1[not(@type='nonfs')]">
+                                <xsl:sort select="div2[@type='milestones']/list/item/label[@ana='birth']/date" data-type="number"/>
+                            </xsl:apply-templates>
                         </div>
                     </div>
                 </div>
             </body>
         </html>
     </xsl:template>
-      
-    <xsl:template match="div1">
+    <xsl:template match="div1" >
         <div class="subject">
             <h3 class="subject-title">
                 <a class="subject-link" href="/featured?id={@id}">
