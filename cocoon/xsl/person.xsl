@@ -159,6 +159,7 @@
 			<h3>Links</h3>
 			<ul class="links">
 				<xsl:for-each select="list/item">
+					<xsl:sort select="label" data-type="text" order="descending"/>
 					<li class="item">
 						<b>
 							<a href="{address/addrLine}">
