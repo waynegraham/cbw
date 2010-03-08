@@ -183,7 +183,7 @@
 					</dt>
 					<dd>
 						<xsl:apply-templates select="label"/>
-						<span class="ms-desc"><xsl:value-of select="./text()[2]"/></span>
+						<span class="ms-desc"><xsl:apply-templates select="."/></span>
 					</dd>
 				</div>
 			</xsl:for-each>
@@ -234,9 +234,9 @@
 				</sup>
 			</xsl:when>
 			<xsl:when test="@rend='bold'">
-				<b>
+				<strong>
 					<xsl:apply-templates/>
-				</b>
+				</strong>
 			</xsl:when>
 			<xsl:when test="@rend='underscore'">
 				<u>
@@ -249,9 +249,9 @@
 				</span>
 			</xsl:when>
 			<xsl:otherwise>
-				<i>
+				<em>
 					<xsl:apply-templates/>
-				</i>
+				</em>
 			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
