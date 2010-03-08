@@ -630,6 +630,10 @@ dd {
     font-size: 12px;
     display: block;
 }
+#milestones .ms-desc .label {
+	font-size: 14px;
+	display: block;
+}
 
 #intro .carousel img {
     margin: 0;
@@ -877,8 +881,4 @@ vertical-align:bottom;
 #subjects .subject-caption {
 	float: left;
 	margin-left: 10px;
-}
-
-#test {
-	color: #000;
 }
