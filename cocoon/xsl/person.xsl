@@ -182,7 +182,6 @@
 						<xsl:value-of select="date"/>
 					</dt>
 					<dd>
-						<xsl:apply-templates select="label"/>
 						<span class="ms-desc"><xsl:apply-templates select="."/></span>
 					</dd>
 				</div>
