@@ -183,7 +183,7 @@
 					</dt>
 					<dd>
 						<xsl:apply-templates select="label"/>
-						<span class="ms-desc"><xsl:apply-templates select="."/></span>
+						<span class="ms-desc"><xsl:apply-templates select=".[not(label)]"/></span>
 					</dd>
 				</div>
 			</xsl:for-each>
