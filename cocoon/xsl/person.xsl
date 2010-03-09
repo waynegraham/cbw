@@ -159,7 +159,7 @@
 			<h3>Links</h3>
 			<ul class="links">
 				
-				<xsl:for-each select="insert-before(list/item[not(starts-with(label,'&quot;'))],0, substring-after(list/item[starts-with(label,'&quot;')],'&quot;'))">
+				<xsl:for-each select="insert-before(list/item[starts-with(label[1],'&quot;')],0, substring-after(list/item[starts-with(label[1],'&quot;')],'&quot;'))">
 					<xsl:sort select="label" data-type="text" order="ascending"/>
 					<li class="item">
 						<b>
