@@ -159,7 +159,7 @@
 			<h3>Links</h3>
 			<ul class="links">
 				
-				<xsl:for-each select="insert-before(list/item[starts-with(label[1],'&quot;')],0, substring-after(list/item[starts-with(label[1],'&quot;')],'&quot;'))">
+				<xsl:for-each select="list/item[replace(label[1],'&quot;', '')]">
 					<xsl:sort select="label" data-type="text" order="ascending"/>
 					<li class="item">
 						<b>
@@ -171,6 +171,7 @@
 						<xsl:apply-templates select="p"/>
 					</li>
 				</xsl:for-each>
+				
 			</ul>
 		</div>
 	</xsl:template>
