@@ -161,7 +161,7 @@
 			<map:match pattern="browse">
 				<map:generate src="xml/BooColl.xml" label="record"/>
 				<map:transform src="xsl/browse_bibliography.xsl" label="basiccontent">
-					<map:parameter name="title" value="An Annotated Bibliography"/>
+					<map:parameter name="subtitle" value="An Annotated Bibliography"/>
 				</map:transform>
 				<map:serialize type="html"/>
 			</map:match>
@@ -214,7 +214,7 @@
 			<map:match pattern="search">
 				<map:generate src="search/empty.xml" label="record"/>
 				<map:transform type="xslt" src="search/search.xsl" label="basiccontent">
-					<map:parameter name="title" value="An Annotated Bibliography"/>
+					<map:parameter name="subtitle" value="An Annotated Bibliography"/>
 					<map:parameter name="use-request-parameters" value="true"/>
 				</map:transform>
 				<map:transform type="cinclude"/>
@@ -225,7 +225,7 @@
 			<map:match pattern="search_results">
 				<map:generate src="{global:solr-url}select?q=id:[*+TO+*]{url-encode:{request-param:q}}&amp;rows={url-encode:{request-param:rows}}&amp;start={url-encode:{request-param:start}}" label="record"/>			
 				<map:transform type="xslt" src="search/search_results.xsl" label="basiccontent">
-					<map:parameter name="title" value="An Annotated Bibliography"/>
+					<map:parameter name="subtitle" value="An Annotated Bibliography"/>
 					<map:parameter name="use-request-parameters" value="true"/>
 				</map:transform>
 				<map:transform type="cinclude"/>
