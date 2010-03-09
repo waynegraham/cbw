@@ -1,10 +1,10 @@
-<!DOCTYPE TEI.2 SYSTEM 'tei/teixlite.dtd'[ 
+test<!DOCTYPE TEI.2 SYSTEM 'tei/teixlite.dtd'[ 
 <!NOTATION jpg SYSTEM "JPEG"> 
 <!ENTITY % ISOlat1 SYSTEM "tei/ISOlat1.pen"> %ISOlat1; 
 <!ENTITY % ISOlat2 SYSTEM "tei/ISOlat2.pen"> %ISOlat2; 
 <!ENTITY % ISOnum SYSTEM "tei/ISOnum.pen"> %ISOnum; 
 <!ENTITY % ISOpub SYSTEM "tei/ISOpub.pen"> %ISOpub; 
-<!ENTITY % ISOtech SYSTEM "tei/ISOtech.pen"> %ISOtech;
+<!ENTITY % ISOtech SYSTEM "tei/ISOtech.pen"> %ISOtech;test test
 ]> 
 <TEI.2 id="BooColl">
  <teiHeader type="aacr2" status="new">
@@ -209,8 +209,7 @@
       bibliography, and will find there discussions many of the items collected here
       (cross-references to these pages in the book appear in the entries). We have adapted from the
       book both the <ref type="popchart" targOrder="U">"Pop Chart"</ref>—comparing the popularity of
-      frequently-represented subjects—and the chart of the Number of Collective Biographies per test test test
-      Year. </p>
+      frequently-represented subjects—and the chart of the Number of Collective Biographies per Year. </p>
     </div2>
     <div2 org="uniform" sample="complete" part="N">
      <head>The CBW Project</head>
