@@ -45,7 +45,7 @@
             </xsl:if>
                 <div class="subject-caption">
                     <p><em>b. <xsl:value-of select="number(div2[@type='milestones']/list/item[label/@ana = 'birth']/date)"/></em></p>
-                    <p><xsl:value-of select="div2[@type='bio'][1]/p[1]"/></p>
+                    <p><xsl:value-of select=" substring(div2[@type='bio'][1]/p[1],0,50)"/></p>
                 </div>
         </div>
     </xsl:template>
