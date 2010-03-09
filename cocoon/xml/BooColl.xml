@@ -14679,10 +14679,10 @@
        <imgName>Madame D’Arblay</imgName>
       </image>
       <image n="no494.FrancesBurneyinattendancefull">
-       <imgName>Frances Burney in attendance</imgName>
+       <imgName>Frances Burney</imgName>
       </image>
       <image n="no494.FrancesBurneyinattendancethumb">
-       <imgName>Frances Burney in attendance</imgName>
+       <imgName>Frances Burney</imgName>
       </image>
       <image n="no495.MadamedeStaelfull">
        <imgName>Madame de Staël</imgName>
@@ -14734,9 +14734,11 @@
       </image>
       <image n="no503.CatherineParrbeforeHenryVIIIfull">
        <imgName>Catherine Parr before Henry VIII</imgName>
+       <imgDesc>Catherine Parr before Henry VIII.</imgDesc>
       </image>
       <image n="no503.CatherineParrbeforeHenryVIIIthumb">
        <imgName>Catherine Parr before Henry VIII</imgName>
+       <imgDesc>Catherine Parr before Henry VIII.</imgDesc>
       </image>
       <image n="no504.JoanD’Arcfull">
        <imgName>Joan D’Arc</imgName>
@@ -14781,16 +14783,18 @@
        <imgName>Henrietta Maria</imgName>
       </image>
       <image n="no511.MrsFryfull">
-       <imgName>Mrs. Fry (Elizabeth Fry)</imgName>
+       <imgName>Elizabeth Fry</imgName>
       </image>
       <image n="no511.MrsFrythumb">
-       <imgName>Mrs. Fry (Elizabeth Fry)</imgName>
+       <imgName>Elizabeth Fry</imgName>
       </image>
       <image n="no512.ElizabethFryworkingataprisonfull">
-       <imgName>Elizabeth Fry at work on prisoner care</imgName>
+       <imgName>Elizabeth Fry</imgName>
+       <imgDesc>Elizabeth Fry at work on prisoner care.</imgDesc>
       </image>
       <image n="no512.ElizabethFryworkingataprisonthumb">
-       <imgName>Elizabeth Fry at work on prisoner care</imgName>
+       <imgName>Elizabeth Fry</imgName>
+       <imgDesc>Elizabeth Fry at work on prisoner care.</imgDesc>
       </image>
       <image n="no513.MaryQueenofScotsfull">
        <imgName>Mary, Queen of Scots</imgName>
