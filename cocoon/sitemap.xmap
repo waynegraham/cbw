@@ -160,7 +160,9 @@
 			<!-- displays bibliography only -->
 			<map:match pattern="browse">
 				<map:generate src="xml/BooColl.xml" label="record"/>
-				<map:transform src="xsl/browse_bibliography.xsl" label="basiccontent"/>
+				<map:transform src="xsl/browse_bibliography.xsl" label="basiccontent">
+					<map:parameter name="title" value="An Annotated Bibliography"/>
+				</map:transform>
 				<map:serialize type="html"/>
 			</map:match>
 			
