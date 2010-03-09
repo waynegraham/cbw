@@ -37,7 +37,7 @@
 					<div id="top-container">
 						<div id="featured-container">
 							<ul id="featured" class="jcarousel-skin-tango">
-								<li><img src="full/no386.jpg" width="300" height="430" alt="" /><div class="featured-cap"><a href="featured?id=JOAN_OF_ARC">Joan of Arc</a> as Victorian heroine: as if praying before battle with cross-like sword, crinoline and corset beneath armor.</div></li>
+								<li><img src="full/no386.jpg" width="300" height="430" alt="" /><div class="featured-cap"><a href="featured?id=JOAN_OF_ARC"><xsl:value-of select="//div1[@id='JOAN_OF_ARC']/head/note[@type='caption']/name"/></a><xsl:value-of select="//div1[@id='JOAN_OF_ARC']/head/note[@type='caption']/text()"/></div></li>
 								<li><img src="full/no439.jpg" width="300" height="430" alt="" /><div class="featured-cap"><a href="featured?id=FRANCES_COBBE">Frances Power Cobbe</a>, incisive social critic, forerunner of lesbian feminist animal-rights activists today.</div></li>
 								<li><img src="full/no319.jpg" width="300" height="430" alt="" /><div class="featured-cap"><a href="featured?id=MARY_SOMERVILE">Mary Somerville</a>, mathematician, astronomer, and renowned science writer, one of the first women elected to the Royal Astronomical Society.</div></li>
 								<li><img src="full/no236.jpg" width="300" height="430" alt="" /><div class="featured-cap"><a href="featured?id=ADELAIDE_PROCTER">Adelaide Procter</a>, renowned Victorian poet, daughter of the writer "Barry Cornwall"; a Catholic convert who died young.</div></li>
