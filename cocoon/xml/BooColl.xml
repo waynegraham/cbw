@@ -1,10 +1,10 @@
-test<!DOCTYPE TEI.2 SYSTEM 'tei/teixlite.dtd'[ 
+<!DOCTYPE TEI.2 SYSTEM 'tei/teixlite.dtd'[ 
 <!NOTATION jpg SYSTEM "JPEG"> 
 <!ENTITY % ISOlat1 SYSTEM "tei/ISOlat1.pen"> %ISOlat1; 
 <!ENTITY % ISOlat2 SYSTEM "tei/ISOlat2.pen"> %ISOlat2; 
 <!ENTITY % ISOnum SYSTEM "tei/ISOnum.pen"> %ISOnum; 
 <!ENTITY % ISOpub SYSTEM "tei/ISOpub.pen"> %ISOpub; 
-<!ENTITY % ISOtech SYSTEM "tei/ISOtech.pen"> %ISOtech;test test
+<!ENTITY % ISOtech SYSTEM "tei/ISOtech.pen"> %ISOtech;
 ]> 
 <TEI.2 id="BooColl">
  <teiHeader type="aacr2" status="new">
