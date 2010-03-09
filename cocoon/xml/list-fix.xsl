@@ -16,7 +16,7 @@
             <xsl:attribute name="TEIform">     <!-- output myself -->
                 <xsl:value-of select="."/>
             </xsl:attribute>
-        </xsl:if>                            <!-- thus, if my value == name of element I'm on,  -->
+        </xsl:if>                            <!-- thus, if my value == name of element I'm on,  test test test -->
     </xsl:template>  
     
         <xsl:template match="note[contains(., 'TOC')]">
