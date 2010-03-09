@@ -6,7 +6,7 @@
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
 	<xsl:output method="xml" indent="yes"/>
-	<xsl:param name="title"></xsl:param>
+	<xsl:param name="subtitle"></xsl:param>
 	<xsl:template name="header">
 		<div id="head">
 			<div id="headTop">
@@ -17,14 +17,14 @@
 					</div>
 					<div id="headTitle">
 						<em>Collective Biographies of Women</em>
-						<small><xsl:value-of select="$title"/></small>
+						<small><xsl:value-of select="$subtitle"/></small>
 					</div>
 			</div>
 			<h2 id="byline">
 				<i>Alison Booth</i>
 			</h2>
 			<div class="headBorder"/>
-			<xsl:if test="$title = 'Annotated Bibliography'">
+			<xsl:if test="$subtitle = 'Annotated Bibliography'">
 			<p id="subheading">
 				<i>An annotated bibliography of collections of three or more biographies of women published in English-language books since 1830, with comprehensive lists of publications before 1830 and after 1950.</i>
 			</p>
