@@ -76,9 +76,9 @@
 							<ul>
 								<li><a href="browse?section=2">Go to the bibliography to find or read about individuals, groups, and books.</a></li>
 								<li><a href="subjects">Featured Subjects: find sources and short meta-biographies of selected women.</a></li>
-								<li><a href="narratives">Compare biographies of one or many lives.</a></li>
-								<li><a href="exhibit">Visit the Sister Dora Exhibit: A model collection of books that share a renowned subject: the saint-like Victorian
-									nurse.</a></li>
+								<li><a href="#">Compare biographies of one or many lives (under development).</a></li>
+								<li><a href="#">Visit the Sister Dora Exhibit: A model collection of books that share a renowned subject: the saint-like Victorian
+									nurse (under development).</a></li>
 							</ul>
 						</div>
 					</div>
