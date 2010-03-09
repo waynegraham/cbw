@@ -45,7 +45,7 @@
             </xsl:if>
                 <div class="subject-caption">
                     <p><em>b. <xsl:value-of select="number(div2[@type='milestones']/list/item[label/@ana = 'birth']/date)"/></em></p>
-                    <p><xsl:apply-templates select="document('preface.xsl'), ul[@id='featured']"><xsl:with-param name="fs" select="JOAN_OF_ARC"></xsl:with-param></xsl:apply-templates></p>
+                    <p><xsl:apply-templates select="document('preface.xsl'), //ul[@id='featured']"/></p>
                 </div>
         </div>
     </xsl:template>
