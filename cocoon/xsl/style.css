@@ -562,6 +562,9 @@ td.mosaic img {
 	border: 3px solid #B39B95;
 	position: relative;
 }
+.pic .full:hover {
+	cursor: pointer;
+}
 .pic .full img {
 	width: 210px;
 	min-height: 210px;
