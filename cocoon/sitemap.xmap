@@ -131,7 +131,7 @@
 
 			<!-- displays preface only -->
 			<map:match pattern="">
-				<map:generate src="xml/BooColl.xml" label="record"/>
+				<map:generate src="xml/bios.xml" label="record"/>
 				<map:transform src="xsl/preface.xsl" label="basiccontent"/>
 				<map:serialize type="html"/>
 			</map:match>
