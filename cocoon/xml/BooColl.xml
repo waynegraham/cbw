@@ -11897,7 +11897,7 @@
      <bibl id="a214" default="NO">
       <ref targOrder="U">214.</ref>
       <idno>a214</idno>
-      <author><name type="last">Daffan</name>, <name type="first">Katie</name>.</author>
+        <author><name type="last">Daffan</name>, <name type="first">Katie</name>.</author>
       <title type="ref">
        <hi rend="italics">Woman in History.</hi>
       </title>
@@ -11907,7 +11907,38 @@
        <publisher>Neale,</publisher>
        <date>1908.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> Catalogue keyword, biography. </note>
+      <note type="toc">
+       <list>
+        <item>Cleopatra</item>
+        <item>Vashti</item>
+        <item>Queen Esther</item>
+        <item>The Queen of Sheba</item>
+        <item>Aspasia</item>
+        <item>Cornelia, Mother of the Gracchi</item>
+        <item>Mary the Mother of Jesus</item>
+        <item>Hypatia</item>
+        <item>Heloise</item>
+        <item>Eleanor of Aquitaine</item>
+        <item>Matilda of Flanders</item>
+        <item>Beatrice Portinari</item>
+        <item n="JOAN_OF_ARC">Joan of Arc, "Maid of Orleans"</item>
+        <item n="QUEEN_ELIZABETH_I">Elizabeth of England</item>
+        <item>Mary Stuart, Queen of Scotland</item>
+        <item>Nelle Gwynne</item>
+        <item>Madame de Maintenon</item>
+        <item>Madame Pompadour and Madame du Barry</item>
+        <item>Marie Antoinette</item>
+        <item n="MADAME_ROLAND">Madame Roland</item>
+        <item>Charlotte Corday</item>
+        <item n="MADAME_DE_STAEL">Madame de Stael</item>
+        <item>Madame Recamier</item>
+        <item>Josephine, Empress of the French</item>
+        <item>Maria Theresa</item>
+        <item>Catherine II--Alexieona</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
+        <item>Eugenie</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a215" default="NO">
       <ref targOrder="U">215.</ref>
