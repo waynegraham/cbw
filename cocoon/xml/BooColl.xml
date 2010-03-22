@@ -3847,6 +3847,126 @@
       <image n="no398">
        <imgName>Queen Victoria</imgName>
       </image>
+      <image n="no516.Cleopatra">
+       <imgName>Cleopatra</imgName>
+       <imgDesc>From the painting by Guido Reni, Pitti Palace, Florence.</imgDesc>
+      </image>
+      <image n="no517.Cornelia">
+       <imgName>Cornelia</imgName>
+       <imgDesc>From the painting by J. Champagne.</imgDesc>
+      </image>
+      <image n="no518.AnneBoleyn">
+       <imgName>Anne Boleyn</imgName>
+       <imgDesc>National Portrait Gallery, painter unknown.</imgDesc>
+      </image>
+      <image n="no519.IsabellaofCastile">
+       <imgName>Isabella of Castile</imgName>
+       <imgDesc>From an engraving by Charles Staal.</imgDesc>
+      </image>
+      <image n="no520.MarieAntoinetteguillotine">
+       <imgName>Marie Antoinette</imgName>
+       <imgDesc>Marie Antoinette on her way to the guillotine.  From the painting by F. Flemeng.</imgDesc>
+      </image>
+      <image n="no521.CharlotteCorday">
+       <imgName>Charlotte Corday</imgName>
+       <imgDesc>From the painting by Fleury.</imgDesc>
+      </image>
+      <image n="no522.EmpressJosephine">
+       <imgName>Empress Josephine</imgName>
+       <imgDesc>Painter unknown.</imgDesc>
+      </image>
+      <image n="no523.MadameRoland">
+       <imgName>Madame Roland</imgName>
+       <imgDesc>Painter unknown.</imgDesc>
+      </image>
+      <image n="no524.QueenVictoria">
+       <imgName>Queen Victoria</imgName>
+      </image>
+      <image n="no525.MadameDuBarry">
+       <imgName>Madame Du Barry</imgName>
+       <imgDesc>From the painting by Drouais.</imgDesc>
+      </image>
+      <image n="no526.DuchessofCleveland">
+       <imgName>Duchess of Cleveland</imgName>
+       <imgDesc>From the painting by Sir Peter Lely.</imgDesc>
+      </image>
+      <image n="no527.MadameRecamier">
+       <imgName>Madame Recamier</imgName>
+       <imgDesc>From the painting by David, the Louvre.</imgDesc>
+      </image>
+      <image n="no528.MadamedePompadour">
+       <imgName>Madame de Pompadour</imgName>
+       <imgDesc>From the painting by Nattier, Musée de Saint-Omer.</imgDesc>
+      </image>
+      <image n="no529.MadamedeStael">
+       <imgName>Madame de Staël</imgName>
+       <imgDesc>From the painting by F. Gerard in the possession of M. de Broglie at Paris.</imgDesc>
+      </image>
+      <image n="no530.SarahDuchessofMarlborough">
+       <imgName>Sarah, Duchess of Marlborough</imgName>
+       <imgDesc>From the painting by Sir Godfrey Kneller in the collection of Earl Spencer at Althorp.</imgDesc>
+      </image>
+      <image n="no531.LouisedelaValliere">
+       <imgName>Louise de la Valliere</imgName>
+       <imgDesc>From the painting by Mignard, Uffizi Gallery, Florence</imgDesc>
+      </image>
+      <image n="no532.SusanBAnthony">
+       <imgName>Susan B. Anthony</imgName>
+      </image>
+      <image n="no533.ElizabethCadyStanton">
+       <imgName>Elizabeth Cady Stanton</imgName>
+      </image>
+      <image n="no534.JuliaWardHowe">
+       <imgName>Julia Ward Howe</imgName>
+      </image>
+      <image n="no535.LucretiaMott">
+       <imgName>Lucretia Mott</imgName>
+      </image>
+      <image n="no536.HarrietMartineau">
+       <imgName>Harriet Martineau</imgName>
+      </image>
+      <image n="no537.CharlotteCushman">
+       <imgName>Charlotte Cushman</imgName>
+       <imgDesc>From the painting by Chappel.</imgDesc>
+      </image>
+      <image n="no538.NellGwyn">
+       <imgName>Nell Gwyn</imgName>
+       <imgDesc>From the painting by Sir Peter Lely, National Portrait Gallery.</imgDesc>
+      </image>
+      <image n="no539.MrsSiddons">
+       <imgName>Mrs. Siddons</imgName>
+       <imgDesc>From the painting by Sir Joshua Reynolds.</imgDesc>
+      </image>
+      <image n="no540.PegWoffington">
+       <imgName>Peg Woffington</imgName>
+       <imgDesc>From the painting by James Latham.</imgDesc>
+      </image>
+      <image n="no541.AdelinaPatti">
+       <imgName>Adelina Patti</imgName>
+      </image>
+      <image n="no542.RosaBonheur">
+       <imgName>Rosa Bonheur</imgName>
+       <imgDesc>From the painting by Dubufe.</imgDesc>
+      </image>
+      <image n="no543.GeorgeEliot">
+       <imgName>George Eliot</imgName>
+       <imgDesc>From the painting by Frederick Burton, National Portrait Gallery.</imgDesc>
+      </image>
+      <image n="no544.HarrietBeecherStowe">
+       <imgName>Harriet Beecher Stowe</imgName>
+      </image>
+      <image n="no545.GeorgeSand">
+       <imgName>George Sand</imgName>
+       <imgDesc>From the drawing by L. Calamutta.</imgDesc>
+      </image>
+      <image n="no546.MarthaWashington">
+       <imgName>Martha Washington</imgName>
+       <imgDesc>From the engraving by J. Woolaston.</imgDesc>
+      </image>
+      <image n="no547.JoanofArc">
+       <imgName>Joan of Arc</imgName>
+       <imgDesc>From the painting by Ingres.</imgDesc>
+      </image>
      </bibl>
      <bibl id="a002" default="NO">
       <ref targOrder="U">2.</ref>
