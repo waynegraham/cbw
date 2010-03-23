@@ -855,7 +855,7 @@ vertical-align:bottom;
 
 #subjects .subject {
 	width: 400px;
-	min-height: 150px;
+	min-height: 200px;
 	border-bottom: 1px dotted #444;
 	margin: 10px;
 	float: left;
