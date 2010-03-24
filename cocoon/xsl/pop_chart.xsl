@@ -85,7 +85,7 @@
             <xsl:apply-templates/>
             <!-- Anchor tag for incoming links -->
             <xsl:if test="@role = 'name' and ../@n != ''">
-                (<a name="{../@n}" href="/featured?id={../@n}">More info</a>)
+                <small>(<a name="{../@n}" href="/featured?id={../@n}">More info</a>)</small>
             </xsl:if>
         </td>
     </xsl:template>
