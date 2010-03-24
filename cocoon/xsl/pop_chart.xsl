@@ -82,9 +82,8 @@
             <xsl:if test=" number(.) &lt; 10">
                 <xsl:text>&#32;</xsl:text>
             </xsl:if>
-            <xsl:apply-templates/>
             <!-- Anchor tag for incoming links -->
-            <a name="{../@n}"><!-- IE fix --></a>
+            <a name="{../@n}"><xsl:apply-templates/></a>
         </td>
     </xsl:template>
     
