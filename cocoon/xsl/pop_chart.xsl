@@ -82,8 +82,11 @@
             <xsl:if test=" number(.) &lt; 10">
                 <xsl:text>&#32;</xsl:text>
             </xsl:if>
+            <xsl:apply-templates/>
             <!-- Anchor tag for incoming links -->
-            <a name="{../@n}"><xsl:apply-templates/></a>
+            <xsl:if test="@role = 'name' and ../@n != ''">
+                (<a name="{../@n}" href="/featured?id={../@n}">More info</a>)
+            </xsl:if>
         </td>
     </xsl:template>
     
