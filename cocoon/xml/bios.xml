@@ -205,32 +205,6 @@
             <interp id="pioneer_in_male_field"
                 value="twentieth-century innovations e.g. professions, politics, sports, aviation"/>
         </interpGrp>
-        <interpGrp id="places">
-            <interp id="continent" value="Continent"/>
-            <interp id="kingdom" value="Kingdom"/>
-            <interp id="nation" value="country, nation, state"/>
-            <interp id="region" value="Region"/>
-            <interp id="island" value="Island"/>
-            <interp id="state" value="State"/>
-            <interp id="county" value="County"/>
-            <interp id="city" value="specific city; urban environment"/>
-            <interp id="town" value="Town"/>
-            <interp id="court" value="palace, royal residence, royal presence"/>
-            <interp id="village" value="Village"/>
-            <interp id="district" value="District"/>
-            <interp id="neighborhood" value="Neighborhood"/>
-            <interp id="street" value="Street"/>
-            <interp id="estate" value="Estate"/>
-            <interp id="rural_setting" value="landscape, non-urban countryside"/>
-            <interp id="home" value="buildings and locations in which subject lives; idea of home"/>
-            <interp id="domestic_space" value="houses, interiors of others"/>
-            <interp id="prison" value="prison"/>
-            <interp id="hospital" value="hospital"/>
-            <interp id="school" value="school"/>
-            <interp id="commercial_setting" value="factory, shop, place of trade"/>
-            <interp id="university" value="institutions of higher learning"/>
-            <interp id="shrine" value="church, graveyard, home or other memorial site"/>
-        </interpGrp>
         <interpGrp id="history">
             <interp id="era" value="general periods e.g. Renaissance"/>
             <interp id="leader" value="sovereigns or others dominating country or group"/>
@@ -354,6 +328,32 @@
             <interp id="fate_or_design"
                 value="causality personified, other than Christian divinity, nature, society or tangible forces"
             />
+        </interpGrp>
+        <interpGrp id="places">
+            <interp id="continent" value="Continent"/>
+            <interp id="kingdom" value="Kingdom"/>
+            <interp id="nation" value="country, nation, state"/>
+            <interp id="region" value="Region"/>
+            <interp id="island" value="Island"/>
+            <interp id="state" value="State"/>
+            <interp id="county" value="County"/>
+            <interp id="city" value="specific city; urban environment"/>
+            <interp id="town" value="Town"/>
+            <interp id="court" value="palace, royal residence, royal presence"/>
+            <interp id="village" value="Village"/>
+            <interp id="district" value="District"/>
+            <interp id="neighborhood" value="Neighborhood"/>
+            <interp id="street" value="Street"/>
+            <interp id="estate" value="Estate"/>
+            <interp id="rural_setting" value="landscape, non-urban countryside"/>
+            <interp id="home" value="buildings and locations in which subject lives; idea of home"/>
+            <interp id="domestic_space" value="houses, interiors of others"/>
+            <interp id="prison" value="prison"/>
+            <interp id="hospital" value="hospital"/>
+            <interp id="school" value="school"/>
+            <interp id="commercial_setting" value="factory, shop, place of trade"/>
+            <interp id="university" value="institutions of higher learning"/>
+            <interp id="shrine" value="church, graveyard, home or other memorial site"/>
         </interpGrp>
         <body>
             <div1 id="SISTER_DORA" ana="nurse_reform">
@@ -8673,11 +8673,13 @@
                         seeking <name>Manuel García</name>, the famous baritone who became a vocal
                         instructor for the Paris Conservatory, and later, the Royal Academy of Music
                         in London. Before forbidding her to sing a note for three months, he
-                        famously told her: <rs corresp="narrative_elements" ana="speech_others">“My dear child, you have no voice. Or, you have had a
-                        voice and are just going to lose it”</rs> (Memoir 13). The period of silence
-                        repaired her voice, and nearly a year's tutelage under <name>García</name> saved the
-                        opera-singer's career. When Jenny returned to the stage, audiences were not
-                        fickle to their one-time favorite, but immediately embraced her again.</p>
+                        famously told her: <rs corresp="narrative_elements" ana="speech_others">“My
+                            dear child, you have no voice. Or, you have had a voice and are just
+                            going to lose it”</rs> (Lind-Goldschmidt 13). The period of silence
+                        repaired her voice, and nearly a year's tutelage under <name>García</name>
+                        saved the opera-singer's career. When Jenny returned to the stage, audiences
+                        were not fickle to their one-time favorite, but immediately embraced her
+                        again.</p>
 
                     <p>Not only was she appreciated in performance, but she was also welcomed in
                         literary and artistic circles of society. Though she lacked the beauty and
@@ -8688,10 +8690,10 @@
                         Carlo Dolce's St Cecilia [the patron saint of musicians]: and it was said
                         that she looked exceedingly like the picture: and she took special delight
                         in this personal resemblance to the Saint Cecilia; and after her death there
-                        was found, among her private stores of little mementoes [sic], the
-                        rouge-card used at the tableaux, with her own writing on the back to say
-                        that it had been given her by Fredrika Bremer as a memorial of that evening.
-                        (Holland and Rockstro 85)</p>
+                        was found, among her private stores of little mementoes [<hi rend="italics"
+                            >sic</hi>], the rouge-card used at the tableaux, with her own writing on
+                        the back to say that it had been given her by Fredrika Bremer as a memorial
+                        of that evening. (Holland and Rockstro 85)</p>
                     <p>Along with novelist <name>Fredrika Bremer</name>, Jenny was intimate with
                         many significant figures of literature and music, including <name>Hans
                             Christian Andersen</name>, sculptor <name>Georg Jensen</name>, and
@@ -8722,26 +8724,30 @@
                         concert tour of Denmark, prompting him to write two of his most famous
                         stories in her honor, <hi rend="italics">The Ugly Duckling</hi> and <hi
                             rend="italics">The Nightingale</hi>, the source of her stage name the
-                        “Swedish Nightingale.” She was also an inspiration for Mendelssohn as well
-                        as Chopin, both of whom composed operas with her voice in mind. While
-                        nineteenth century biographies acknowledge her professional relationships
-                        with these two men, a more intimate association was not considered until new
-                        biographical information surfaced that could unsettle some revered
-                        reputations. Professor <name>Curtis Price</name> (formerly of the Royal
-                        Academy of Music in London) claims in a recent biography on Mendelssohn that
-                        the married composer was desperately in love with the singer. Price alleges
-                        that in 1847, Mendelssohn begged her to elope with him and threatened
-                        suicide upon her refusal. A few months later, Mendelssohn was, in fact,
-                        dead; however, this scandal of musical history remains a speculation since
-                        the documents were sealed by an affidavit secured by Lind's husband in 1896.
-                        Jenny's requited romance with Chopin has been publicly substantiated, though
-                        only very recently has it been discussed in biography. Evidence shows that
-                        she obtained Queen Victoria's approval to marry him <date>1849</date>. The
+                        “Swedish Nightingale.” She was also an inspiration for
+                            <name>Mendelssohn</name> as well as <name>Chopin</name>, both of whom
+                        composed operas with her voice in mind. While nineteenth century biographies
+                        acknowledge her professional relationships with these two men, a more
+                        intimate association was not considered until new biographical information
+                        surfaced that could unsettle some revered reputations. Professor
+                            <name>Curtis Price</name> (formerly of the Royal Academy of Music in
+                        London) claims in a recent biography on Mendelssohn that the married
+                        composer was desperately in love with the singer. Price alleges that in
+                            <date>1847</date>, Mendelssohn begged her to elope with him and
+                        threatened suicide upon her refusal. A few months later, Mendelssohn was, in
+                        fact, dead; however, this scandal of musical history remains a speculation
+                        since the documents were sealed by an affidavit secured by Lind's husband in
+                            <date>1896</date>. Jenny's requited romance with Chopin has been
+                        publicly substantiated, though only very recently has it been discussed in
+                        biography. Evidence shows that she obtained <name corresp="QUEEN_VICTORIA"
+                            >Queen Victoria's</name> approval to marry him <date>1849</date>. The
                         union never occurred because Chopin was fatally ill, but Jenny is said to
-                        have sung at his bedside while the composer was dying. On February 5, 1852,
-                        while touring America, she married pianist Otto Goldschmidt (who had been
-                        one of Mendelssohn's pupils), becoming a new bride at the rather late age of
-                        thirty-one.</p>
+                        have sung at his bedside while the composer was dying. <milestone
+                            unit="subject" corresp="life_events" ana="marriage"/>On <date>February
+                            5, 1852</date>, while touring <rs corresp="places" ana="nation"
+                            >America</rs>, she married pianist <rs corresp="agents" ana="husband"
+                            >Otto Goldschmidt</rs> (who had been one of <name>Mendelssohn's</name>
+                        pupils), becoming a new bride at the rather late age of thirty-one.</p>
 
                     <p>Jenny's American concert tour greatly increased her fame, but her association
                         with <name>P.T. Barnum</name>, who financed the tour, had an unfortunate
@@ -8837,6 +8843,19 @@
                         alongside her male peers. <milestone unit="subject" corresp="life_events"
                             ana="memorial"/>Near Handel's statue in Poet's Corner at Westminster
                         Abbey, a plaque is dedicated in honor of her musical accomplishments. </p>
+                    <p>Works Cited</p>
+                    <note>Holland, Henry Scott, and William Smyth Rockstro. <title><hi
+                                rend="italics">Memoir of Madame Jenny Lind-Goldschmidt: Her Early
+                                Art-Life and Dramatic Career, 1820-1851</hi>.</title> Vol. I
+                        &amp; II. London: J. Murray, 1891. </note>
+                    <note>Lind-Goldschmidt, Johanna Maria. <title><hi rend="italics">Memoir of Jenny
+                                Lind</hi>.</title> London: John Olliver, 1847.</note>
+                    <note>Rosen, Carole. "Lind, Jenny (1820–1887)." <title><hi rend="italics">Oxford
+                                Dictionary of National Biography</hi>.</title> Ed. H. C. G. Matthew
+                        and Brian Harrison. Oxford: OUP, 2004. </note>
+                    <note>Willis, Nathaniel Parker. <title><hi rend="italics">Memoranda of the Life
+                                of Jenny Lind</hi>.</title> Philadelphia: Robert E. Peterson, 1851.
+                    </note>
                 </div2>
             </div1>
             <div1 id="ELIZABETH_BARRETT_BROWNING" ana="writer" type="nonfs">
