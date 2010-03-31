@@ -8466,11 +8466,14 @@
                     </list>
                 </div2>
                 <div2 n="1" id="CBW_TEAM_JENNY_LIND" type="bio">
-                    <docAuthor>Author's name</docAuthor>
-                    <docDate>date</docDate>
+                    <docAuthor>Julia Fuller</docAuthor>
+                    <docDate>March 31, 2010</docDate>
                     <head>
-                        <title>Title of article</title>
-                        <bibl>Short bibliographic/origin statement</bibl>
+                        <title>Forms of Biography: Material Culture Creates Mulitple Perspectives on
+                            the Life of the "Swedish Nightingale"</title>
+                        <bibl>A reading of the gender and class issues which intersect with Jenny
+                            Lind's life, based off of prosopography sources as well as nineteenth
+                            century popular-culture materials.</bibl>
                     </head>
                     <p>In daguerreotypes, <name corresp="JENNY_LIND">Jenny Lind</name> today strikes
                         us as unexceptional: modestly plain (if not homely), with a serene, even
@@ -8487,7 +8490,7 @@
                         indigenous treasure. On concert tours, overwhelming crowds thronged to greet
                         her arrival; and, after a show in London, even <name
                             corresp="QUEEN_VICTORIA">Queen Victoria</name> threw a bouquet down to
-                        her from the royal theater-box. She remained humble in the midst of
+                        her from the royal theater-box (Rosen). She remained humble in the midst of
                         celebrity and is esteemed alongside great women of prosopography for her
                         vocal talents as well as her <rs corresp="subject_type" ana="philanthropist"
                             >charitable</rs> example—after retiring professionally, she gave free
@@ -8711,16 +8714,17 @@
                         “Its peculiar force lay in this—that it held enthralled the highest and best
                         minds in Europe. It was the men of genius who recognized in her something
                         akin to themselves” (Holland and Rockstro 4). In her late twenties, she was
-                        inducted as the only female member of a student fraternity in Göttingen,
-                        Germany called Burschenschaft Hannovera. Amongst the men of this classical
-                        German organization she was fondly known as <name corresp="JENNY_LIND"
-                            >“Little Lady Jenny”</name>—endearing diminutives were attached to her
-                        name even as she was distinguished from a commonly recognized form of
-                        femininity (Rosen?).</p>
+                        inducted as the only female member of a student fraternity in <rs
+                            corresp="places" ana="city">Göttingen, Germany</rs> called
+                        Burschenschaft Hannovera. Amongst the men of this classical German
+                        organization she was fondly known as <name corresp="JENNY_LIND">“Little Lady
+                            Jenny”</name>—endearing diminutives were attached to her name even as
+                        she was distinguished from a commonly recognized form of femininity (Holland
+                        and Rockstro 375).</p>
 
                     <p>For some of those who knew Jenny, esteem for her rare character and intellect
                         developed into romantic interest. Her fine grey eyes and sincere nature
-                        captured the heart of Hans Christian Anderse?n when he met her during a
+                        captured the heart of Hans Christian Andersen when he met her during a
                         concert tour of Denmark, prompting him to write two of his most famous
                         stories in her honor, <hi rend="italics">The Ugly Duckling</hi> and <hi
                             rend="italics">The Nightingale</hi>, the source of her stage name the
