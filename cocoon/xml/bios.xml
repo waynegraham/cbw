@@ -6210,13 +6210,19 @@
                         </item>
                     </list>
                 </div2>
-                <div2 n="1" id="LOV_HANNAH_MORE_BIO" type="bio">
+                <div2 n="1" id="CBW_TEAM_HANNAH_MORE_BIO" type="bio">
                     <docAuthor>Michael Chambers</docAuthor>
                     <docDate>April 18, 2010</docDate>
                     <head>
                         <title>A Life of Hannah More</title>
-                        <bibl>A. J. Green-Armytage’s biography of Hannah More takes a sympathetic and admiring view of More’s religiosity and literary merits, while at the same time keeping with a largely traditional view of the role of the independent woman.  Additionally, Green-Armytage appears to have a personal quarrel with the criticism leveled by Augustine Birrell on Hannah More’s writing; he regards More as having a much higher degree of literary talent than does Birrell.</bibl>
+                        <bibl>A critical synopsis (excerpts and commentary) of "Hannah More" in A. J. Green-Armytage, <hi rend="italics">Maids of Honour: Twelve Descriptive 
+                            Sketches of Single Women Who Have Distinguished Themselves</hi> (1906), 1-40.</bibl>
                     </head>
+                    <p>Note: A. J. Green-Armytage’s biography of Hannah 
+                        More takes a sympathetic and admiring view of More’s religiosity and literary merits, while at the same time keeping with a largely 
+                        traditional view of the role of the independent woman.  Additionally, Green-Armytage appears to have a personal quarrel with the 
+                        criticism leveled by Augustine Birrell on Hannah More’s writing; he regards More as having a much higher degree of literary 
+                        talent than does Birrell.</p>
                     <p>Hannah More was the fourth daughter of Jacob More, village schoolmaster of Lord Bottelourt’s foundation-school at Stapleton, and his wife; but this same daughter was destined to become world-famous, and to bring countless visitors into the neighbourhood of Bristol, both during her life and after her death.  At eight years old we see little Hannah the happy possessor of a long-coveted "whole quire of writing-paper," which it had not needed much coaxing for her to obtain from her observant mother.  Mrs Jacob More was one of Nature's gentlewomen, and though only a farmer's daughter, she was a person of vigorous intellect, who fully appreciated the value of education, and had made the most of her own rather narrow possibilities.  Bearing in mind the efforts of her later years, it is interesting to notice that Hannah More's first attempts in religious literature were letters to imaginary people of depraved character and their replies thereto, full of contrition and promises of amendment!</p>
                     <p>The evangelical piety of Hannah More is rather remarkable, when one considers that her father was a staunch Tory and High Churchman.  Perhaps it would be more correct to say that it seems remarkable at first sight; for it has been noticed that a Nonconformist strain is frequently productive of conspicuous piety in the families of High Church religionists.  Three generations had passed since the time when Jacob More's ancestors had fought bravely as captains in Cromwell's army, and it is probable that the precocious child heard many stirring stories of their doings in the time of the Commonwealth, which intensified the personal and fiery interest with which she afterwards watched the Revolution of 1793.  "Coming events cast their shadows before," and the nursery floor was often the stage whereon, in carriages made of their high-backed chairs, the child played at excursions to London, and drove with her sisters "to see Bishops and Booksellers"—a curious combination, when one remembers the happy experiences which she subsequently enjoyed with Porteous and Cadell.</p>
                     <p>The following quaint advertisement occurs in the Bristol newspapers of March 11, 1758:—</p>
@@ -6269,7 +6275,7 @@
                     <p>…"Hannah More is incapable of a literary resurrection," says the Minister of Education….  It may be so, but when the struggle of 1906 is only remembered as one more illustration of the extraordinary bias which early training can give to the mind of a man learned in the Law and the Scriptures, the Church shall be quietly extending her boundaries throughout the world, and educating generations of children whose Imperial instincts shall march side by side with the principles and practices for which Hannah More pleaded more than a hundred years ago.</p>                    
                     <p>"Practical Piety" is going out of fashion quite fast enough: we do not want to ignore its Principles also.</p>                    
                     <p>Who knows but that the "ever-rolling waves" of Time may once again bear upon their crests the quaint old text-books of God-fearing Faith and Morality which were written—and acted upon—by the little lady of Barley Wood!</p>                    
-                    <p><hi rend="italics">A critical synopsis (excerpts and commentary) of "Hannah More" in A. J. Green-Armytage, </hi>Maids of Honour: Twelve Descriptive Sketches of Single Women Who Have Distinguished Themselves<hi rend="italics"> (1906), 1-40.</hi></p>
+                    <p></p>
                     
                 </div2>
             </div1>
@@ -8525,7 +8531,7 @@
                         <title>Multiple Perspectives on the Life of the "Swedish
                             Nightingale"</title>
                         <bibl>A reading of the gender and class issues which intersect with Jenny
-                            Lind's life, based off of prosopography sources as well as nineteenth
+                            Lind's life, based oN prosopography sources as well as nineteenth-
                             century popular-culture materials.</bibl>
                     </head>
                     <p>In daguerreotypes, <name corresp="JENNY_LIND">Jenny Lind</name> today strikes
