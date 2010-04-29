@@ -152,6 +152,7 @@
             <interp id="illness_or_health"
                 value="subject's or others' illness or health in general or event"/>
             <interp id="education" value="formal and informal education"/>
+            <interp id="suitors" value="one or more suitors welcome, unwelcome, arranged or not"/>
             <interp id="love"
                 value="subject's experience, expressions of love, romantic or bond with family, friend"/>
             <interp id="marriage" value="event and relationship"/>
@@ -1063,7 +1064,7 @@
                             1867</date>, the Baroness recalls "'some remarkable words of your
                         Majesty when only twelve years old, while the Regency Bill was still in
                             progress.<milestone unit="subject" corresp="history" ana="campaign"/> I
-                        then said to the <rs corresp="agents" key="mother">Duchess of Kent</rs> that
+                        then said to the <rs corresp="agents" ana="mother">Duchess of Kent</rs> that
                         now for the first time your Majesty ought to know your place in the
                             succession.'"<milestone unit="subject" corresp="life_events"
                             ana="vocation"/> The two older women agreed to place the genealogy in
@@ -1087,7 +1088,7 @@
                             corresp="narrative_rhetoric" ana="topos_recognition"/> A rigorously
                         rosy, royalist picture nevertheless reveals discord, even as Carey blends
                         the voices of biography, history, and fiction for girls. The Princess was
-                        presented at <rs corresp="places" key="court">Court</rs> on Queen Adelaide's
+                        presented at <rs corresp="places" ana="court">Court</rs> on Queen Adelaide's
                         birthday, on <date>February 24th, 1831</date> but was conspicuously absent
                         at the coronation of William IV. Carey perceives nothing controversial in
                         Parliament's designation of the Duchess of Kent as Regent,<milestone
@@ -1104,7 +1105,7 @@
                         for a visit of "nearly four weeks at Kensington Palace, and the cousins
                         spent delightful days together, playing duets on the piano, sketching,
                         walking and riding, and visiting the chief attractions of the <rs
-                            corresp="places" key="court">Metropolis</rs>," ostensibly without
+                            corresp="places" ana="court">Metropolis</rs>," ostensibly without
                         signalling to the young parties the well-known family matchmaking designs.
                         All parties wished the match to be, if possible, one of voluntary,
                         companionable love (24-25). Carey concludes her first chapter when Victoria
@@ -1127,7 +1128,7 @@
                             (<date>1840-1841</date>).</p>
                     <p>Carey retails the emblematic annunciation <milestone unit="subject"
                             corresp="narrative_elements" ana="episode"/>of the virgin princess's
-                        sovereignty. <rs corresp="narrative_rhetoric" key="direct_address"> We are
+                        sovereignty. <rs corresp="narrative_rhetoric" ana="direct_address"> We are
                             hailed as Victorian readers asking to hear a favorite story of childhood
                             once more: "A Royal Idyll indeed!—it reads to us still like a fairy
                             tale; we heard it first at our mother's knee"</rs> (28). The Angel
@@ -1143,7 +1144,7 @@
                         Victoria's own recollection of the news of her uncle's death has less of the
                         melodrama of her physical vulnerability, but emphasizes that she was sent
                         into see the Archbishop of Canterbury and the Lord Chamberlain <rs
-                            corresp="narrative_rhetoric" key="trope_alone">alone</rs>. </p>
+                            corresp="narrative_rhetoric" ana="trope_alone">alone</rs>. </p>
                     <p>Carey's Victoria is an animated model of noble demeanor and earnest
                         solemnity; private and public events in this transitional phase all confirm
                         that Victoria's (trained) character is providentially fit to the occasion.
@@ -1179,7 +1180,7 @@
                             ana="topos_recognition"/> while the band of the Royal Guards struck up
                         the National Anthem"; the proclamation is read aloud by the correct
                         functionaries. The collective gaze takes an impression of a sacrificial
-                        figure: <rs corresp="narrative_rhetoric" key="topos_appearance">"The Queen
+                        figure: <rs corresp="narrative_rhetoric" ana="topos_appearance">"The Queen
                             looked very pale and fatigued. She was dressed in deep mourning, with a
                             white tippet, white cuffs, and a border of white lace under a small
                             black bonnet, which was placed far back on her head, exhibiting her
@@ -7388,14 +7389,157 @@
                             Abbey </item>
                     </list>
                 </div2>
-                <div2 n="1" id="LOV_QUEEN_ELIZABETH_I_BIO" type="bio">
-                    <docAuthor>Author's name</docAuthor>
-                    <docDate>date</docDate>
+                <div2 n="1" id="CBW_TEAM_QUEEN_ELIZABETH_I_BIO" type="bio">
+                    <docAuthor>Alison Booth and Agnes Strickland</docAuthor>
+                    <docDate>April, 2010</docDate>
                     <head>
-                        <title>Title of article</title>
-                        <bibl>Short bibliographic/origin statement</bibl>
+                        <title>A Victorian's Realist Portrait of a Great Queen Before Victoria</title>
+                        <bibl>An interpretation of Strickland's influential biographical history, condensing the text of "Queen ELIZABETH I." from Agnes Strickland, <hi rend="italics">Queens of England</hi>. New York: Appleton, 1854.
+                            pp. 271-84.  The US edition significantly uses the term "from," and is itself probably abridged in ways it would be worthwhile to trace.</bibl>
                     </head>
-                    <p>Bio paragraphs.</p>
+                    <p>Agnes Strickland (a writing team that included her sister) entitles her chapter on Elizabeth I "SECOND QUEEN-REGNANT OF ENGLAND AND IRELAND" (Elizabeth's
+                        sister Mary being the first).  The student of queens cares a great deal about what power the women actually wielded; most were consorts and, far from reigning,
+                        found themselves pawns in political chess.  Alternatively, most queens encountered conflict between their voluntary liaisons and involuntary matrimony.  
+                        Strickland's narratives are notable for drawing on contemporary documents.</p>
+                        
+                        <p rend="block"><milestone unit="subject" corresp="life_events" ana="birth"/>Queen Elizabeth first saw the light at Greenwich Palace, 
+                            the favorite abode of her royal parents, 
+                            <name type="father">Henry Eighth</name> and <name type="mother">Anne Boleyn</name>. Her birth is thus quaintly but prettily recorded by the contemporary historian, Hall: 
+                            "On the 7th day of September, being Sunday, between three and four o'clock in the afternoon, the queen was delivered of a fine 
+                            lady, on which day the duke of Norfolk came home to the christening."</p>
+                    <p rend="block">The queen was desirous of nourishing her infant daughter from her own bosom, but Henry, with his characteristic selfishness, 
+                        forbade it, lest the frequent presence of the little princess in the chamber of her royal mother should be attended with inconvenience 
+                        to himself. Much of the future greatness of Elizabeth may reasonably be attributed to the judicious training of her 
+                        sensible and conscientious governess, combined with the salutary adversity, which deprived her of the pernicious pomp and luxury 
+                        that had surrounded her cradle while she was treated as the heiress of England.</p> 
+                        <p>Strickland, like most biographers, seeks to account for the subject's character in the parents' principles and early environment.  Also like 
+                            other narrators of biography, Strickland provides a childhood anecdote: "The first public act of Elizabeth's life, 
+                            was her carrying the chrisome of her infant brother, Edward VI., at the christening solemnity of that prince... when they left 
+                            the chapel, the train of her little grace, just four years old, was supported by lady Herbert, as, led by the hand of her elder 
+                            sister, the princess Mary, she walked with mimic dignity, in the returning procession, to the chamber of the dying queen."
+                        </p>
+                        <p rend="block">All Henry's matrimonial schemes for his children were doomed to remain unfulfilled, and Elizabeth, instead of being 
+                            sacrificed in her childhood in some political marriage, had the good fortune to complete a most <milestone unit="subject" corresp="life_events" ana="education"/>superior education, 
+                            under the auspices of the good and learned <name>Katharine Parr</name>, Henry's sixth queen.</p>
+                    <p rend="block">
+                        During the reign of <name type="sovereign">Edward</name>,
+                        her life was tranquil enough—the most exciting incident during it being the attempt of Lord Seymour, 
+                        the brother of the Duke of Somerset, the protector, to induce her to marry him, when she was only sixteen years of age. <milestone unit="subject" corresp="life_events" ana="suitors"/>
+                        Certainly the celibacy of the sovereign was not in consequence of a want of suitors; <rs corresp="narrative_rhetoric" ana="analogy_ancient_woman">excepting Penelope, never lady was 
+                            so pursued with matrimonial proposals.</rs> Courtenay, Earl of Devonshire, was a second pretender to the possession of her hand; 
+                        and then followed a proposition that she should unite herself to the king of Sweden. Subsequently, she was successively importuned 
+                        to wed Philip of Spain, the earl of Arran, the Dukes of Alencon and Anjou, the Archduke Charles a son of the Elector-Palatine, the Duke of Holstein, 
+                        the Earl of Arundel, Sir William Pickering, and, at last, any body; her parliament promising, in their own name, and that of the people, to serve, 
+                        honor and obey him faithfully, "whoever he might be." But Elizabeth rejected all their propositions, and asserted and verified in the sequel her 
+                        intention to die a spinster. For this strange determination, various and contradictory opinions are given. By many writers it is attributed to political 
+                        objects, not very obvious or intelligible; while others, with more appearance of probability, affirm it to have originated in a conscious corporeal 
+                        disqualification for the contingencies of matrimony and childbirth.</p>
+                        
+                        <p>In an extended chain of analogies, Elizabeth is compared to other queens, her elder sister and Mary Queen of Scots in particular.  Strickland presumes
+                            that Elizabeth is not only physically unsuited to a woman's biological destiny but mentally, with an "unfeminine mind."  Mary's reign "ceaseless 
+                            peril and adversity," but had the opposite of the usual "mollifying" effect; when "the energetic princess... in her turn," came to power, she exercised it with 
+                            "a far greater extent of hate and cruelty than she herself had ever experienced."  This is a standard view of Elizabeth, yet Strickland also admires her resistance to
+                        humiliation.  "To all the machinations of her enemies to entrap her into some act which might serve as a pretext for her condemnation, 
+                        she opposed an invincible prudence and discretion." Rather than escape into marriage with the king of Sweden, "she cautiously demanded 
+                        whether her sister had been made acquainted with it? This inquiry receiving an unsatisfactory reply, she desired that the matter might be 
+                        formally communicated to Mary, who, though doubtless previously possessed of the knowledge, feigned to thank her for her loyal 
+                        and dutiful information, and to permit her to decide according to her own inclination."  She was diplomatic, too, under religious inquisition, 
+                        and Strickland quotes a verse enigma that Elizabeth offered "respecting the doctrine of the real presence":</p>
+                        
+                    <l>Christ was the Word that spake it,</l>
+                    <l>He took the bread and brake it,</l>
+                    <l>And what the Word did make it</l>
+                    <l>That I believe and take it.</l>
+                        
+                        <p rend="block">This ingenious subterfuge and jargon seems to have completely perplexed and confounded her interrogators, 
+                        for we do not hear that they renewed their attempts to entrap her into some avowal which might have conducted her to the stake.</p>
+                    <p rend="block">We are indebted to the lively pen of Giovanni Michele, the Venetian ambassador, for the following graphic sketch of the person and 
+                        character of Elizabeth at this interesting period of her life. <milestone unit="subject" corresp="narrative_elements" ana="quotation_documentary"/>
+                        "Miladi Elizabeth," says he, "is a lady of <milestone unit="subject" corresp="narrative_elements" ana="topos_appearance"/>great elegance 
+                        both of body and mind, though her face may be called pleasing rather than beautiful. She is tall and well made, her complexion fine, 
+                        though rather sallow." Her bloom must have been prematurely faded by sickness and anxiety, for Elizabeth could not have been more than 
+                        three and twenty at this period." Her eyes, but above all her hands, which she takes care not to conceal, are of superior beauty. 
+                        In her knowledge of the Greek and Italian languages, she surpasses the queen, and takes so much pleasure in the latter, that she will 
+                        converse with Italians in no other tongue. She is proud and dignified in her manners; for, though she is well aware what sort of a mother 
+                        she had, she is also aware that this mother of hers was united to the king in wedlock, with the sanction of the church and 
+                        the concurrence of the primate of the realm. The queen, though she hates her most sincerely, yet treats her in public with every 
+                        outward sign of affection and regard, and never converses with her but on pleasing and agreeable subjects."</p>
+                        
+                        <p>Upon the death of Mary, November 17th, 1558, Elizabeth, being then only twenty-five years old, succeeded to the throne. A deputation from the late queen's council arrived at Hatfield to apprise her of the demise of her sister, and to offer their homage to her as their rightful sovereign. Though well prepared for the intelligence, she appeared at first amazed and overpowered at what she heard, and, drawing a deep respiration, she sank upon her knees and exclaimed, " It is the Lord's doing, it is marvellous in our eyes."
+                        
+                        Eight-and-twenty years afterwards Elizabeth, in a conversation with the envoys of France, spoke of the tears which she had shed on the death of her sister Mary, but she is the only person by whom they were ever recorded.
+                        
+                        Her first public acts were temperate and generous, for though determined to restore the Protestant religion, she showed no animosity to the Catholics, or vindictiveness to her own previous persecutors. Her toleration was general,—all the bishops she received with kindness and affability, with the sole exception of Bonner, from whom she indignantly turned with too well merited manifestations of her abhorrence and disgust. She then recalled her ambassador from Rome, prohibited preaching without license, and the elevation of the host, and in other ways displayed such an unequivocal determination to suppress the Catholic religion, that her ministers found great difficulty to obtain the assistance of a prelate to crown her. When, however, that ceremony had been performed, and her title to the throne confirmed by act of parliament, she confirmed all Edward's statutes relating to religion, appointed herself governess of the Church, and abolished the Mass, and restored the Liturgy. Those great and hazardous changes, the least of which in unskilful hands might have
+                        created a civil war and overthrown a dynasty, were effected by Elizabeth without any resort to violence on her part, or any agitation amount ing to disturbance on the part of her Catholic subjects. To complete fully his estimate of the difficulty of this vigorous and dexterous deed the reader must call to mind the years and sex of the perpetrator of it; and then, however distasteful may be the character of Elizabeth as a woman, he will readily admit that, as a ruler, she must have been endowed with many eminently appropriate qualities and talents.
+                        
+                        Lord Bacon relates that on the morrow after her coronation, "It being the custom to release prisoners at the inauguration of a prince, Elizabeth went to the chapel, and in the great chamber one of her courtiers, who was well known to her, either out of his own motion or by the instigation of a wiser man, presented her with a petition; and before a great number of courtiers besought her with a loud voice, ' That now this good time there might be four or five more principal prisoners released; those were the four Evangelists and the Apostle St. Paul, who had been long shut up in an unknown tongue, as it were, in a prison, so as they could not converse with the common people.' The queen answered very gravely, ' That it was first best to inquire of them whether they would be released or no.'"
+                        
+                        This was the character of all her alterations and amendments at the present and during a long subsequent period; she did nothing precipitately or capricicously; but before the enactment of any important measure, was always careful to learn whether the people " would, or no." This commendation, however, is very far from being intended to apply to the whole of her career, for many were the despotic acts she afterwards committed; and she burthened the action with the most distressing monopolies and patents, which was far more injurious to them than the heaviest taxes, and certainly without previously demanding their " yea or nay." Camden mentions, " that after the death of John Basilides, his son Theodore revoked the privilege which the English enjoyed as sole possessors of the Russian trade. When the queen remonstrated against this innovation, he told her ministers that princes must carry an indifferent hand as well between their subjects as between foreigners, and not convert trade, which by the laws of nations ought to be common to all, into a monopoly for the private gain of a few." To which statemerit Hume subjoins the following judicious remark:—" So much juster notions of commerce were entertained by this barbarian than appear in the conduct of the renowned queen Elizabeth !" But this impolicy originated in no want of circumspection or deliberation, but in the detestable egotism of her character. She felt that a frequent application to parliament for subsidies would give to that body an influence in her councils; and selfishly, therefore, she resolved to sacrifice the nation's interests to her own haughty and arrogant love of independence, even when disastrous and illegitimate.
+                        
+                        In the year 1559 occurred the commencement of Elizabeth's tyrannical intercourse with the unfortunate Mary queen of Scots. Originally, scarce foundation existed for an animosity which was afterwards, and for so many years, sustained by a sorry feminine spite and vanity. Mary had tolerated, if not encouraged, the asseverations of her partisans, that her claim to the throne of England was preferable to that of her masculine and powerful rival. She had also been weak enough to commit the still greater offence of assuming the arms of England, and quartering them upon all her equipages and liveries, and maintaining and justifying this act when remonstrances were addressed to her. Elizabeth clearly saw that it was personal to herself, or else, why had it not been perpetrated during the reign of her sister? consequently, it could only be viewed as an indication of an intention to question the legitimacy of her birth, on the first favorable opportunity, and to dispute her right to the throne.
+                        
+                        Thus, by personal rancor, public policy, and religious bias, she was incited to interfere in the affairs of Scotland, and to give her strongest support to the Protestants of that country. When, therefore, emissaries were dispatched to her by the leaders of the Congregation, to solicit from her succor, she gladly granted it, and equipped a fleet, which she ordered to co-operate with Mary's rebellious subjects. The result of this alliance was the defeat of the Scottish and French Catholics, and the execution of a treaty of peace, in which, among other important concessions, Mary was made to stipulate to abstain from wearing the arms of England. But Mary, as long as her husband Francis II. lived, refused to ratify the proceedings of her ambassadors, and though, after his death, she desisted from assuming any longer the arms, she refused to forego her claim to them.
+                        
+                        Our purpose is not historical, we merely select for narration such public acts as seem most suited to elucidate the intricate and inconsistent character of this anomalous princess. .
+                        
+                        The affair of Raleigh and his cloak is universally known, and we shall therefore prefer to relate some incidents connected with her partiality to Leicester, which are not equally generally notorious.
+                        
+                        Sir James Melville, the ambassador of Mary at the court of Elizabeth was an observing man, well skilled in the world, and an accomplished courtier. How competent he was for observation the following extracts from his works will show:
+                        
+                        " The ceremony of creating lord Robert Dudley earl of Leicester was performed at Westminster with great solemnity, the queen herself helping to put on his robes, he sitting with his knees before her with great gravity, but she could not refrain from putting her hand in his neck, smilingly tickling him; the French ambassador and I standing by." He subsequently adds, " The queen, my mistress, had instructed me to leave matters of gravity sometimes, and cast in merry purposes, lest otherwise I should be wearied, she being well informed of that queen's natural temper. Therefore, in declaring my observations of the customs of Dutchland, Poland, and Italy, the buskins of the women were not forgot, and what country weed I thought best becoming gentlewomen. The queen said she had clothes of every sort, which every day thereafter, so long as I was there, she changed. One day she had the English, weed, another the French, and another the Italian, and so forth. She asked me, which of them became her best ? I answered, in my judgment, the Italian dress; which answer I found pleased her well, for she delighted to show her golden colored hair, wearing a caul and bonnet as they do in Italy. Her hair was more reddish than yellow, and curled, in appearance, naturally. She desired to know of me, what colored hair was reputed best ? and whether my queen's hair or hers were best ? and which of them two was fairest ? I answered, the fairest of them both was not their worst faults. But she was ever earnest with me to declare which of them both was fairest ? I said that she was the fairest queen in England, and mine in Scotland; yet she appeared in earnest; I answered that they both were the fairest ladies in their countries, that her majesty was whiter, but my queen was very lovely. She inquired which of them was of higher stature ? I said, my queen. Then, said she, she is too high, for I myself am neither too high nor too low."
+                        
+                        In sir .Walter Scott s "History of Scotland," is a passage which records her vanity with such whimsical gravity, that it must be transferred to these pages in his own words:—
+                        
+                        "Throughout her whole reign, queen Elizabeth, pre-eminent as a sovereign, had never been able to forbear the assertion of her claims as a wit and a beauty. When verging to the extremity of life, her mirror presented her with hair too gray, and features too withered to reflect, even in her own opinion, the features of that fairy queen of immortal youth and beauty, in which she had been painted by one of the most charming poets of that poetic age. She avenged herself by discontinuing the consultation of her looking-glass, which no longer flattered her; and exchanged that monitor of the toilet, for the false, favorable, and pleasing reports of the ladies who attended her. This indulgence of vanity brought, as usual, its own punishment. The young females who waited upon her, turned her pretensions into ridicule; and if the report of the times be true, ventured even to personal insult, by misplacing the cosmetics which she used for the repair of her faded charms, sometimes daring to lay on the royal nose the carmine which ought to have embellished the cheeks."
+                        
+                        Scarcely can it be believed, that the individual exhibited in forms at once so ridiculous and repulsive, can, under another phase, have extorted from even a Jesuit, the following exalted praise:—
+                        
+                        " Elizabeth is one of those extraordinary persons, whose very name imprints in one's mind so great an idea, that the noblest descriptions that are given of her are much below it. Never crowned head understood better how to govern, nor made fewer false steps during a long reign. Charles the Fifth's friends could easily reckon his mistakes; but Elizabeth's foes were reduced to invent them for her. Elizabeth's design was to reign, govern, and be mistress; to keep her people in obedience and her neighbors in awe; affecting neither to weaken her subjects, nor to encroach on foreigners, yet never suffering any to lessen that supreme power, which she equally knew how to maintain by policy or by force; for none at that time had more wit, management, and penetration than she. She understood not the art of war; yet knew so well how to breed excellent soldiers, that England had never seen a greater number, or more experienced, than those which existed during her reign. Her conduct in relation to the marriage of herself with the two successive dukes of Anjou, was in complete accordance with the determination she expressed to Melville, and so many others, " that she was resolved to die a virgin." It is evident that she never had the smallest intention to unite herself to either of them; with regard to the elder duke, the whole negotiation was equally a stratagem both on the part of Catherine and Elizabeth; but with regard to the second, her affections were involved though the object of them was a " very ugly man." The most amusing feature of this grand contention of will between two such illustrious practitioners as the queen-mother of France and the maiden ruler of England is, that each being far too clever to fail, only succeeded by each cheating the other. The purposes of both the arch-deceivers were attained, and both therefore were mutual dupes.
+                        
+                        It was observed that after the death of Essex, the people ceased to greet the queen with the demonstrations of rapturous affection with which they had been accustomed to salute her when she appeared in public. They could not forgive the loss of that generous and gallant nobleman, the only popular object of her favor, whom she had cut off in the flower of his days; and now, whenever she was seen, a gloomy silence reigned in the streets through which she passed. These indications of the change in her subjects' feelings towards her are said to have sunk deeply into the mind of the aged queen, and occasioned that depression of spirits which preceded her death.
+                        
+                        A trifling incident is also supposed to have made a painful and ominous impression on her imagination. Her coronation ring, which she had worn night and day ever since her inauguration, having grown into her finger, it became necessary to have it filed off; and this was regarded by her as an evil portent.
+                        
+                        In the beginning of June, she confided to the French ambassador, Count de Beaumont, " that she was a-weary of life," and with sighs
+                        and tears, alluded to the death of Essex, that subject which appears to have been ever in her thoughts, and, when uuthought of, still the spring of thought. She said, " that being aware of the impetuosity of his temper and his ambitious character, she had warned him two years before to content himself with pleasing her, and not to show such insolent contempt for her as he did on some occasions, but to take care not to touch her sceptre, lest she should be compelled to punish him according to the laws of England, and not according to her own, which he had always found too mild and indulgent for him to fear any thing from them. His neglect of this caution," she added, " had caused his ruin."
+                        
+                        One of the members of Elizabeth's household gives the following account of the state of the queen's mind, in a letter to a confidential correspondent, in the service of her successor " Our queen is troubled with a rheum in her arm, which vexeth her very much, besides the grief she hath conceived for my lord of Essex's death. She sleepeth not so much by day as she used, neither taketh rest by night. Her delight is to sit in the dark, and sometimes with shedding tears, to bewail Essex."
+                        
+                        These fits of despondency occasionally cleared away; and we find Elizabeth exhibiting fits of active mirthfulness, especially at the expense of her dwarfish premier, Cecil, who habitually played the lover to her majesty. She sometimes so far forgot the dignity of her age and exalted station as to afford him a sort of whimsical encouragement by making a butt of him. A ludicrous instance of her coquetry is related by one of her courtiers, in a letter to the earl of Shrewsbury:—" I send your lordship here inclosed," writes he, "some verses compounded by Mr. Secretary, who got Hales to frame a ditty to it. The occasion was, I hear, that the young lady Derby, wearing about her neck and in her bosom, a dainty tablet, the queen, espying it, asked, ' What fine jewel that was ?' Lady Derby was anxious to excuse showing it; but the queen would have it. She opened it, and, finding it to be Mr. Secretary's picture, she snatched it from lady Derby's neck, and tied it upon her own shoe, and walked about with it there. Then she took it from thence, and pinned it on her elbow, and wore it some time there also. When Mr. Secretary Cecil was told of this, he made these verses, and caused Hales to sing them in his apartments. It was told her majesty that Mr. Secretary Cecil had rare music and songs in his chamber. She chose to hear them, and the ditty was sung." The poetry was not worth quoting; but the verses, it seems, expressed "that he repines not, though her majesty may please to grace others; for his part, he is content with the favor his picture received." This incident took place when the royal coquette was in her seventieth yeai. Strange scenes are occasionally revealed when the mystic curtain that veils the penetralia of kings and queens from vulgar curiosity is, after the lapse of centuries. withdrawn by the minuteness of biographical research. What a delicious subject for an " H. B." caricature would the stately Elizabeth and her pigmy secretary have afforded !
+                        
+                        Cecil was, however, at that time the creature of the expecting impatient heir to his royal mistress, with whom he maintained almost a daily correspondence. One day, a packet, from king James, was delivered to him in the presence of the queen, which he knew contained allusions to his secret practices with her successor. Elizabeth's quick eye, doubtless, detected the furtive glance which taught him to recognize that it was a dangerous missive; and she ordered him instantly to open and show the contents of his letters to her. A timely recollection of- one of her weak points saved the wily minister from detection. " This packet," said he, as he slowly drew forth his knife and prepared to cut the strings, which fastened it—" this packet has a strange and evil smell. Surely it has not been in contact with infected persons or goods ?" Elizabeth's dread of contagion prevailed over both curiosity and suspicion, and she hastily ordered Cecil to throw it at a distance, and not to bring it into her presence again till it had been thoroughly fumigated. He, of course, took care to purify it of the evidence of his own guilty deeds.
+                        
+                        The next anecdote, however, goes far beyond all our present discovery in optics:
+                        
+                        " Afterwards, in the melancholy of her sickness, she desired to see a true looking-glaas, which in twenty years before she had not seen, but only such a one as on purpose was made to deceive her sight, which true looking-glass being brought her, she presently fell exclaiming at all those flatterers which had so much commended her, and they durst not after come into her presence." Her attendants had doubtless left off painting her, and she happened to see her natural face in the glass.
+                        
+                        A fearful complication of complaints had settled on the queen, and began to draw visibly to a climax. She suffered greatly with the gout in her hands and fingers, but was never heard to complain of what she felt in the way of personal pain, but continued to talk of progresses and festivities, as though she expected her days to be prolonged through years to come.
+                        
+                        All contemporary writers bear witness to the increased dejection of her mind, after visiting her dying kinswoman, the countess of Nottingham ; but the particulars of that visit rest on historical tradition only. It is said that the countess, pressed in conscience on account of her detention of the ring, which Essex had sent to the queen as an appeal to her mercy, could not die in peace until she had revealed the truth to her majesty, and craved her pardon. But Elizabeth, in the transport of mingled grief and fury, shook, or, as others have said, struck the dying penitent in her bed, with these words, " God may forgive you, but I never can!"
+                        
+                        The death-bed confession of the countess of Nottingham gave a rude shock to the fast-ebbing saiuls of the sorrow-stricken queen. •
+                        
+                        It is almost a fearful task to trace the passage of the mighty Elizabeth through the " dark valley of the shadow of death." Many have been dazzled with the splendor of her life, but few even of her most ardent admirers, would wish their last end might be like hers.
+                        
+                        Robert Carey, afterwards earl of Monmouth, was admitted to the chamber of his royal kinswoman during her last illness, and has left the following pathetic record of the state in which he found her:—
+                        
+                        " When I came to court," says he, " I found the queen ill-disposed, and she kept her inner lodging; yet hearing of my arrival, she sent for me. I found her in one of her withdrawing chambers, sitting low upon her cushions. She called me to her; I kissed her hand, and told her it was "my chiefest happiness to see her in safety and health, which I hoped might long continue. She took me by the hand, and wrung it hard, and said, 'No, Robin, lam not well? and then discoursed to me of her indisposition, and that her heart had been sad and heavy for ten or twelve days, and in her discourse she fetched not so few as forty or fifty great sighs. I was grieved, at the first, to see her in this plight, for in all my lifetime before, I never saw her fetch a sigh, but when the queen of Scots was beheaded. Then, upon my knowledge, she shed many sighs and tears, manifesting her innocence that she never gave consent to the death of that queen. I used the best words I could to persuade her from this melancholy humor, but I found it was too deeprooted in her heart, and hardly to be removed. This was upon Saturday night, and she gave command that the great closet should be prepared for her to go to chapel the next morning. The next day, all things being in readiness, we long expected her coming.
+                        
+                        " After eleven o'clock, one of the grooms (of the chambers) came out, and bade make ready for the private closet for she would not go to the great There we stayed long for her coming; but at the last she had cushions laid for her at the privy-chamber, hard by the closet door, and there she heard the service. From that day forward she grew worse and worse; she remained upon her cushions four days and nights at the least. All about her could not persuade her either to take any sustenance or to go to bed."
+                        
+                        Beaumont, the French ambassador, affords a yet more gloomy picture of the sufferings of mind and body, which rendered the progress of the "dreaded and dreadful Elizabeth " to the tomb, an awful lesson on the vanity of all earthly distinctions and glories, in the closing stage of life, when nothing but the witness of a good conscience, and the holy reliance on the mercy of a Redeemer's love, can enable shrinking nature to contemplate, with hope and comfort, the dissolution of its earthly tabernacle.
+                        
+                        On the 24th of March, Beaumont made the following report of the state of the departing monarch:—" The queen was given up three days ago ; she had lain long in a cold sweat, and had not spoken. A short time previously she said, ' I wish not to live any longer, but desire to die.' Yesterday and the day before she began to rest, and found herself better after, having been greatly relieved by the bursting of a small swelling in the throat. She takes no medicine whatever, and has only kept her bed two days; before this she would on no account suffer it, for fear (as some suppose) of a prophecy that she should die in her bed. She is, moreover, said to be no longer in her right senses; this, however, is a mistake; she has only had some slight wanderings at intervals."
+                        
+                        Carey reports the last change for the worse to have taken place on "Wednesday, the previous day :—" That afternoon," says he, " she made signs for her council to be called, and, by putting her hand to her head, when the king of Scotland was named to succeed her, they all knew he was the man she desired should reign after her." By what logic the council were able to interpret this motion of the dying queen into an indication that such was her pleasure, they best could explain.
+                        
+                        The spirit of the mighty Elizabeth, after all, passed away so quietly, that the vigilance of the self-interested spies, by whom she was surrounded, was baffled, arid no one knew the moment of her departure. . Exhausted by her devotions, she had, after the archbishop left her, sunk into a deep sleep, from whence she never awoke; and, about three in the morning, it was discovered that she had ceased to breathe. Lady Scrope gave the first intelligence of this fact, by silently dropping a sapphire ring to her brother, who was lurking beneath the windows of the chamber of death at Richmond Palace. This ring, long after known in corfrt tradition as the " blue ring," had been confided to lady Scrope by James, as a certain signal which was to announce the decease of the queen. Sir Robert Carey caught the token, fraught with the destiny of the island empire, and departed, at fiery speed, to announce the tidings in Scotland.
+                        
+                        This great female sovereign died in the seventieth year of her age, and the forty-fourth of her reign. She was born on the day celebrated as the nativity of the Virgin Mary, and she died, March 24th, on the eve of the festival of the annunciation, called Lady-day. Among the complimentary epitaphs which were composed for her, and hung up in many churches, was one ending with the following couplet:—
+                        
+                        " She is, she was; what can there more be said ?
+                        On earth the first, in heaven the second maid."
+                    </p>
                 </div2>
             </div1>
             <div1 id="MADAME_ROLAND" ana="role_revolution">
