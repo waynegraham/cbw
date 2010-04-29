@@ -236,7 +236,7 @@
             <interp id="topos_appearance"
                 value="description of subject's physical persona, her own and others' response to it"/>
             <interp id="topos_dependency" value="subject's need for mentor, parent, partner"/>
-            <interp id="topos_loss" value="grief, loss of home, attachmen, support"/>
+            <interp id="topos_loss" value="grief, loss of home, attachment, support"/>
             <interp id="topos_doubt" value="loss of faith, lack of motivation"/>
             <interp id="topos_mission"
                 value="subject's activity troped as religious service to people"/>
@@ -7141,14 +7141,14 @@
                         somewhat, and he wielded a strange influence over her.... Her friends discouraged Rocca's attentions, but he
                         replied that "he would love her so much that he would finish by making her
                         marry him." </p>
-                    <p>Daffan believes Madame de Staël was weary of exile, starved for love; all her friends including fellow-subject of 
-                        Revolution Madame Recamier, were exiled.  She and Roca could not return to Paris on pain of death, so she made the arduous journey to England
+                    <p>Daffan believes Madame de Staël was weary of exile, starved for love; all her friends including fellow-heroine-of-
+                        Revolution Madame Recamier, were exiled.  She and Roca could not return to Paris on pain of death, so they and children made the arduous journey to England
                     "through Russia,
                         Austria and Sweden, everywhere being placed under greatest peril and
                         difficulty."  Recognition sweetened the journey, however: "Alexander, czar of Russia,
                         offered her courtesies, as did Bernadotte, the general who had become king
-                        of Sweden. Toward the end of this journey she became much "the woman of the
-                        hour," and in England was given an ovation." </p>
+                        of Sweden. Toward the end of this journey she became much 'the woman of the
+                        hour,' and in England was given an ovation." </p>
 
                     <p rend="block">The English people took special delight in entertaining her, ... and giving
                         her every opportunity to display her accomplishments and talents. They did
@@ -7156,27 +7156,23 @@
                         satisfaction of honoring one who was so antagonistic to their great enemy.
                         All of Europe knew of the continued exile ... and... watched with interest. </p>
 
-                    <p rend="block">In the meantime Napoleon had abdicated and was on his way to Elba. Europe
-                        looked on now, guessing at the next shift of scene. Her enemy being safely
-                        removed, Madame de Staël returned to her beloved Paris. As of old her salons
-                        were crowded with the representative men and women of Russia, England and
+                    <p>Daffan's narrative repeatedly personifies Europe as audience: "Europe
+                        looked on now, guessing at the next shift of scene," as Napoleon abdicated and went to Elba and "Madame de Staël returned 
+                        to her beloved Paris" to preside over "salons" starring "the representative men and women of Russia, England and
                         France. Alexander of Russia and the Duke of Wellington were constant and
-                        admiring visitors. </p>
+                        admiring visitors." </p>
                     <p rend="block">Her friends vied with each other to do her homage, and at this time she was
                         nearer being really happy than she had been since her father's death. She
                         glowed under the light of friendship and drew, as a magnet, all people of
                         her kind unto her. When Napoleon returned from Elba she fled again, fearing
                         him and never believing in him. </p>
-                    <p rend="block">He sent her with all formality an invitation asking her to return to the city
-                        to reside permanently, that he was "now living for the peace of Europe." But
-                        she could not bring herself to the point of believing him sincere, so she
-                        remained away from Paris until after his final defeat. </p>
-
-                    <p rend="block">When he was taken to St. Helena she came to Paris; but now she was wearied,
-                        broken in spirit.... When she no longer had to fight and force her way,
+                    <p>Although Napoleon invited a reconciliation, she "remained away from Paris until after his final defeat."  Napoleon at St. Helena 
+                        seems, in this account, to deprive his antagonist of purpose, in what ought to be a domestic idyll, reward for a life's
+                        principled struggle: "When she no longer had to fight and force her way,
                         somehow life lost zest and animation. She spent the days quietly with Rocca
                         and their children; his attentions and tenderness making life calm and
-                        sweet. </p>
+                        sweet."  Daffan's text appears to attempt closure several times in successive paragraphs, seeking the defining accomplishment or 
+                        attachment, including her writings.</p>
                     <p rend="block">In her last interview with Chateaubriand, when they were going over their
                         interesting lives together, their narrow escapes and wonderful experiences,
                         she told him that she had endured much, had tolerated many annoying, even
@@ -7191,7 +7187,7 @@
                         estimable father, M. Neckar. She was survived seven months by Rocca. </p>
                     <p rend="block">Napoleon was so dominant in his hostility and so continuous was her exile
                         that she embraced literature as a means of rescue from its monotony. </p>
-                    <p rend="block">After her death, July, 1817, her "Considerations on the French Revolution"
+                    <p rend="block">After her <rs corresp="life_events" ana="death">death, July, 1817,</rs> her "Considerations on the French Revolution"
                         and "Ten Years of Exile" were published. Her best work, "Corinne," is used
                         as a reading book in some of the French schools; as a work of art by many it
                         is not considered strong, but it abounds in admirable phrases, carefully
@@ -7202,18 +7198,18 @@
                         same time the books of Napoleon reappeared, both being widely read and
                         generously received. </p>
 
-                    <p rend="block">It is said that her tomb is more often visited than any woman's tomb in
+                    <p rend="block"><milestone unit="subject" corresp="narrative_elements" ana="recognition"/>It is said that her tomb is more often visited than any woman's tomb in
                         Europe. It bears a very unusual epitaph, "Hie tandem quiescat quae unquam
                         quierit" — "Here rests one who never rested." </p>
-                    <p rend="block">Madame de Staël had faults and committed errors, but withal she was a great
-                        woman. She was persecuted during the best years of her life, and this would
-                        have crushed the life out of some women. Her spirit and powers of resistance
+                    <p rend="block"><rs corresp="narrative_elements" ana="moral">Madame de Staël had faults and committed errors, but withal she was a great
+                        woman. She was persecuted during the best years of her life, and <rs corresp="narrative_rhetoric" ana="trope_difference_from_women">this would
+                            have crushed the life out of some women.</rs> Her spirit and powers of resistance
                         were wonderful; society and the association with people of her kind was a
                         necessity to her, just as friendship and affection were a necessity to her.
                         Her character and mind ...knew no repose, because she was ambitious....The
                         worst thing that can be said of her is that she was worldly and perhaps
                         vain. She had strong individuality, good nature, a marked power for
-                        friendship and a generous, loving heart. </p>
+                        friendship and a generous, loving heart.</rs> </p>
                 </div2>
             </div1>
             <div1 id="QUEEN_ELIZABETH_I" ana="queen_rank">
