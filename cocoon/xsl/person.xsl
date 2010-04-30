@@ -144,7 +144,7 @@
 			</xsl:if>
 			<xsl:apply-templates select="p[1]"/>
 			<div id="{generate-id(.)}_div" style="display:none;" class="hidden">
-				<xsl:apply-templates select="p | note"/>
+				<xsl:apply-templates select="p | note | lg"/>
 			</div>
 			<div class="attr">
 				<em>
@@ -190,11 +190,7 @@
 		</dl>
 	</xsl:template>
 
-	<xsl:template match="div2[@type='bio'] | div2[@type='essay']">
-		<xsl:apply-templates />
-	</xsl:template>
-	
-	<xsl:template match="p">
+	<xsl:template match="div2[@type='bio']/p | div2[@type='essay']/p">
 		<xsl:choose>
 			<xsl:when test="position() = 1">
 				<p id="{generate-id(parent::node())}_p" class="{@type}">
@@ -207,6 +203,7 @@
 				</p>
 			</xsl:otherwise>
 		</xsl:choose>
+
 	</xsl:template>
 
 	<xsl:template match="name">
