@@ -4592,7 +4592,7 @@
                             corresp="narrative_rhetoric" ana="topos_doubt"/>She sank into a deeper
                         sense of isolation and depression. The family was affected by her bouts of
                         extreme moodiness; consulting siblings’ journals, Rose finds an entry by
-                            <name corresp="agents" ana="sister">Louisa</name> that is indicative of
+                            <rs corresp="agents" ana="sister">Louisa</rs> that is indicative of
                         the tension in the Gurney household: <rs corresp="narrative_elements"
                             ana="quotation_documentary">"We are all afraid of her now, which is very
                             shocking...Dearest Betsy! <milestone unit="subject"
@@ -4600,7 +4600,7 @@
                             one for her friend, for none of us are intimate with her</rs> (12).
                         Betsy appears to have turned inward in her need for a confidante; her
                         journal records acute introspection. In part, this became an obsession with
-                        self-improvement. <name corresp="agents" ana="father">John Gurney</name> was
+                        self-improvement. <rs corresp="agents" ana="father">John Gurney</rs> was
                         particularly liberal as the single parent of his family, allowing his
                         children to engage in what entertainments they pleased and mix in
                         ideologically diverse company. <milestone unit="subject"
@@ -4659,8 +4659,8 @@
                         retained no unworthy qualities. </p>
                     <p><milestone unit="subject" corresp="life_events" ana="religion"/>One
                         significant figure in Betsy's path towards <rs corresp="history"
-                            ana="church">Plain Quakerism</rs> was <name corresp="agents"
-                            ana="superior">William Savery</name>, an American <rs corresp="history"
+                            ana="church">Plain Quakerism</rs> was <rs corresp="agents"
+                            ana="superior">William Savery</rs>, an American <rs corresp="history"
                             ana="church">Quaker</rs>minister. Hearing him preach was a revelatory
                         experience for the impressionable young woman:<rs
                             corresp="narrative_elements" ana="quotation_writing_by_subject"> “Today
@@ -4756,7 +4756,7 @@
                         devoted to philanthropic work, <rs corresp="genre_conventions"
                             ana="movement">frequently traveling abroad on her mission to reform
                             prison systems, Elizabeth left her family behind.</rs>
-                        <name corresp="agents" ana="husband">Joseph Fry</name>, weaker-willed than
+                        <rs corresp="agents" ana="husband">Joseph Fry</rs>, weaker-willed than
                         his determined wife, supervised the rearing of their youngest children while
                         the older ones where sent to live with relatives. The children were
                         ill-behaved and self-willed; later, Elizabeth would see all but one of them
@@ -4797,8 +4797,8 @@
                     <p><milestone unit="subject" corresp="subject_type" ana="philanthropist"/>The
                         development of others, especially of <rs corresp="agents" ana="female_below"
                             >female prison inmates</rs>, became Elizabeth's primary concern. In
-                            <date>1813</date>, accompanied by <name corresp="agents"
-                            ana="female_peer">Anna Buxton</name>, she first entered <rs
+                            <date>1813</date>, accompanied by <rs corresp="agents"
+                            ana="female_peer">Anna Buxton</rs>, she first entered <rs
                             corresp="places" ana="prison">Newgate Penitentiary</rs>, where she saw
                         women, both hardened criminals and minor offenders, detained together with
                         their innocent children. They perceived that the conditions—gambling,
@@ -4920,8 +4920,8 @@
                             corresp="life_events" ana="illness_or_health"/>on doctor’s orders, she
                         took opium and drank alcohol daily and by the end of her life seems to have
                         become heavily dependent; <milestone unit="subject" corresp="life_events"
-                            ana="ordeal"/>in <date>1828</date>, <name corresp="agents" ana="husband"
-                            >John Fry's</name>
+                            ana="ordeal"/>in <date>1828</date>, <rs corresp="agents" ana="husband"
+                            >John Fry's</rs>
                         <rs corresp="places" ana="commercial_setting">bank</rs> went under and he
                         was <milestone unit="subject" corresp="agents" ana="social_determination"
                         />disowned by the Society of Friends, while Elizabeth was accused of having
