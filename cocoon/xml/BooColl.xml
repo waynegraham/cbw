@@ -956,7 +956,7 @@
        <cell role="data" rows="1" cols="1">0</cell>
        <cell role="data" rows="1" cols="1">21</cell>
       </row>
-      <row role="body">
+      <row role="body" n="MADAME_ROLAND">
        <cell role="name" rows="1" cols="1">Madame Roland</cell>
        <cell role="data" rows="1" cols="1">Role in Revolution</cell>
        <cell role="datahi" rows="1" cols="1">11</cell>
