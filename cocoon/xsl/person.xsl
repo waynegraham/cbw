@@ -208,7 +208,7 @@
 
 	<xsl:template match="name">
 		<xsl:choose>
-			<xsl:when test="@corresp = $id or //interpGrp/@id">
+			<xsl:when test="@corresp = $id or not(string(@corresp))">
 				<xsl:value-of select="."/>
 			</xsl:when>
 			<xsl:otherwise>
@@ -228,6 +228,12 @@
 	<xsl:template match="label">
 		<div class="label">
 			<xsl:apply-templates/>
+		</div>
+	</xsl:template>
+	
+	<xsl:template match="figure">
+		<div class="bio-fig">
+			<img src="/images/bios/{@n}.jpg" alt=""/>
 		</div>
 	</xsl:template>
 	
