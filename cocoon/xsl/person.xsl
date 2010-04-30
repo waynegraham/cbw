@@ -239,6 +239,14 @@
 		</div>
 	</xsl:template>
 	
+	<xsl:template match="lg">
+		<div class="verse-group">
+		<xsl:for-each select="l">
+			<div class="verse-line"><xsl:value-of select="."/></div>
+		</xsl:for-each>
+		</div>
+	</xsl:template>
+	
 	<!--this choose statement is for highlight typography-->
 	<xsl:template match="hi">
 		<xsl:choose>
