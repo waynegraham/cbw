@@ -233,7 +233,9 @@
 	
 	<xsl:template match="figure">
 		<div class="bio-fig">
-			<img src="/images/bios/{@n}.jpg" alt=""/>
+			<a href="/bios/{@n}.jpg">
+				<img src="/bios/{@n}.jpg" alt=""/>
+			</a>
 		</div>
 	</xsl:template>
 	

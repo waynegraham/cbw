@@ -890,3 +890,16 @@ vertical-align:bottom;
 #subjects .subject-caption p {
 	margin: 5px 0;
 }
+
+.bio-fig {
+    border: 3px solid #DDD;
+    float: left;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.bio-fig img {
+   min-width: 200px;
+   height: 200px;
+}
