@@ -208,7 +208,7 @@
 
 	<xsl:template match="name">
 		<xsl:choose>
-			<xsl:when test="@corresp = $id or not(string(@corresp))">
+			<xsl:when test="@corresp = $id or //interpGrp/@id">
 				<xsl:value-of select="."/>
 			</xsl:when>
 			<xsl:otherwise>
