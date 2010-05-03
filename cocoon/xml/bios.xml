@@ -6220,13 +6220,19 @@
                             Twelve Descriptive Sketches of Single Women Who Have Distinguished Themselves</hi> 
                             (1906), 1-40.</bibl>
                     </head>
-                     <p>Hannah More was the fourth daughter of Jacob More, village schoolmaster of
-                        Lord Bottelourt’s foundation-school at Stapleton, and his wife; but this
-                        same daughter was destined to become world-famous, and to bring countless
-                        visitors into the neighbourhood of Bristol, both during her life and after
-                        her death. At eight years old we see little Hannah the happy possessor of a
+                     <p><rs corresp="genre_conventions" ana="stable_condition">Hannah More was 
+                         the fourth daughter of <rs corresp="agents" ana="father">
+                         Jacob More</rs>, village schoolmaster of
+                         Lord Bottelourt’s foundation-school at <rs corresp="places" ana="town">
+                             Stapleton</rs>, and his wife</rs>; <rs corresp=
+                             "narrative_rhetoric" ana="prophecy">but this
+                             same daughter was destined to become world-famous, and to bring countless
+                             visitors into the neighbourhood of Bristol, both during her life and after
+                             her death.</rs> At eight years old we see little Hannah the happy 
+                         possessor of a
                         long-coveted "whole quire of writing-paper," which it had not needed much
-                        coaxing for her to obtain from her observant mother. Mrs Jacob More was one
+                        coaxing for her to obtain from her observant mother. <rs corresp="agents" 
+                            ana="mother">Mrs Jacob More</rs> was one
                         of Nature's gentlewomen, and though only a farmer's daughter, she was a
                         person of vigorous intellect, who fully appreciated the value of education,
                         and had made the most of her own rather narrow possibilities. Bearing in
@@ -6234,8 +6240,9 @@
                         More's first attempts in religious literature were letters to imaginary
                         people of depraved character and their replies thereto, full of contrition
                         and promises of amendment!</p>
-                    <p>The evangelical piety of Hannah More is rather remarkable, when one considers
-                        that her father was a staunch Tory and High Churchman. Perhaps it would be
+                    <p><rs corresp="history" ana="church">The evangelical piety of Hannah More is 
+                        rather remarkable, when one considers
+                        that her father was a staunch Tory and High Churchman.</rs> Perhaps it would be
                         more correct to say that it seems remarkable at first sight; for it has been
                         noticed that a Nonconformist strain is frequently productive of conspicuous
                         piety in the families of High Church religionists. Three generations had
@@ -6243,30 +6250,36 @@
                         captains in Cromwell's army, and it is probable that the precocious child
                         heard many stirring stories of their doings in the time of the Commonwealth,
                         which intensified the personal and fiery interest with which she afterwards
-                        watched the Revolution of 1793. "Coming events cast their shadows before,"
+                        watched the Revolution of 1793. <rs corresp="narrative_rhetoric" ana=
+                            "advice">"Coming events cast their shadows before,"</rs>
                         and the nursery floor was often the stage whereon, in carriages made of
                         their high-backed chairs, the child played at excursions to London, and
                         drove with her sisters "to see Bishops and Booksellers"—a curious
                         combination, when one remembers the happy experiences which she subsequently
                         enjoyed with Porteous and Cadell.</p>
-                    <p>The following quaint advertisement occurs in the Bristol newspapers of March
-                        11, 1758:—</p>
-                    <p rend="block">"At No. 6 in Trinity St. near the College Green. On Monday after
+                    <p><rs corresp="narrative_elements" ana="quotation_documentary">The following 
+                        quaint advertisement occurs in the Bristol newspapers of March
+                        11, 1758:—</rs></p>
+                    <p rend="block"><rs corresp="narrative_elements" ana="quotation_documentary">
+                        "At No. 6 in Trinity St. near the College Green. On Monday after
                         Easter will be opened a School for young Ladies, by Mary More and Sisters,
                         where will be carefully taught French, Reading, Writing, Arithmetic, and
-                        Needlework. Young Ladies boarded on reasonable terms."</p>
-                    <p>A few weeks later an additional line appears—"A dancing master will properly
-                        attend."</p>
+                        Needlework. Young Ladies boarded on reasonable terms."</rs></p>
+                    <p><rs corresp="narrative_elements" ana="quotation_documentary">A few weeks 
+                        later an additional line appears—"A dancing master will properly
+                        attend."</rs></p>
                     <p>At this time Hannah More was only thirteen, so that the statements as to her
                         having been a chief promoter of the school are altogether incorrect and
-                        absurd. Mary More, then barely twenty-one, seems to have been one of those
+                        absurd. <rs corresp="agents" ana="sister">Mary More</rs>, then barely 
+                        twenty-one, seems to have been one of those
                         thoroughly unselfish women of whom there are but too few; and she delighted
                         in developing the taste for languages and literature which her more gifted
                         younger sister very early evinced. The school prospered from the first,—and
-                        no wonder, for the mistresses were no ordinary women; and from their wise
+                        no wonder, for the mistresses were no ordinary women; <rs corresp=
+                            "narrative_rhetoric" ana="topos_influence">and from their wise
                         teaching scores of girls went out, strengthened in principle as well as
                         richer in knowledge, into a world where "it was the fashion to be
-                        irreligious."</p>
+                        irreligious."</rs></p>
                     <p> Hannah took her share in the school duties when she was old enough to do so;
                         but at twenty-two years of age a wealthy but elderly admirer appeared upon
                         the scene, and her engagement, to Mr Turner of Wraxall, was doubtless a
@@ -6278,11 +6291,13 @@
                         matrimony, and, after compensating his Amaryllis for her "blighted hopes"
                         with an annuity variously computed at £200 and £400 per annum, he died a
                         bachelor. To the last this quaint pair entertained a "cordial respect" for
-                        each other, and by his will she found herself the possessor of a legacy of
-                        £1000. The annuity enabled her to feel independent and to devote herself to
+                        each other, and <rs corresp="narrative_elements" ana="discriminated_event">
+                            by his will she found herself the possessor of a legacy of
+                            £1000.</rs> <rs corresp="subject_type" ana="writer">The annuity enabled her 
+                                to feel independent and to devote herself to
                         the study of literature, for which she was really far more suited than to
                         the consideration of the "varying moods" of a middle-aged landowner. The
-                        literary world is distinctly the richer, so that we are able honestly to
+                        literary world is distinctly the richer</rs>, so that we are able honestly to
                         rejoice at the capricious conduct of the vacillating lover.</p>
                     <p> Her first work, 'The Search after Happiness,' published in 1773, was an
                         immediate success, and at once secured her a footing among the distinguished
@@ -6291,10 +6306,11 @@
                         those days. George Stephenson was still unborn, and the natural terrors of
                         the journey were increased by the hordes of highwaymen with which the roads
                         were infested.</p>
-                    <p>It is a red-letter day when, in 1773, Hannah More starts on her first
-                        pilgrimage to London. Every step of the way is fraught with interest to the
-                        young traveller, whose ideal, Samuel Johnson, looms in elephantine grandeur
-                        as at the farther side of a great gulf. She has heard of him, read of him,
+                    <p>It is a red-letter day when, <rs corresp="narrative_elements" ana="movement">
+                        in 1773, Hannah More starts on her first
+                        pilgrimage to London.</rs> Every step of the way is fraught with interest to the
+                        young traveller, whose ideal, <name>Samuel Johnson</name>, looms in elephantine 
+                        grandeur as at the farther side of a great gulf. She has heard of him, read of him,
                         dreamed of him, and now she is to see her hero—the scarred, uncouth scholar
                         whose brilliant intellect could make even his enemies admire and tremble and
                         who has had the solitary glory of creating a faithful biographer.</p>
@@ -6311,7 +6327,8 @@
                         humorist are, possibly, characterisations under which she has not appeared
                         upon any stage within the last fifty years. But this is a generation that
                         knows not Hannah! and certainly, whoever else knows anything about her, Mr
-                        Augustine Birrell does not. He may have read her Life and Works from cover
+                        <name>Augustine Birrell</name> does not. He may have read her Life and Works 
+                        from cover
                         to cover, but a man only gets out of a book that which he himself is capable
                         of assimilating, and Mr Birrell is evidently not en rapport with his
                         subject, and had better have left his unworthy Essay unwritten.</p>
@@ -6320,7 +6337,7 @@
                         with a condescending air of patronage and superiority which sits ill upon a
                         man who has not done, and could not do, one tithe of the work that was done
                         by this delicate woman.</p>
-                    <p>As Charles Lamb whimsically said, "She is not Hany More," and Mr Birrell can
+                    <p>As <name>Charles Lamb</name> whimsically said, "She is not Hany More," and Mr Birrell can
                         therefore criticize as harshly as he thinks fit; but with men like Johnson,
                         Garrick, Pitt, Wesley, and Macaulay as counsel for the defence, even her
                         greatest admirers of to-day can afford to smile. In his self-evident desire
@@ -6333,22 +6350,26 @@
                         acknowledges her lineaments to be "very pleasant" is almost comical, when
                         one looks at the strong sweet old face with its halo of silver curls, to
                         which Time has but added the beautiful serenity of a well-spent life.</p>
-                    <p> The Bristol election of 1774 was very hotly contested, and the intelligent
+                    <p> <rs corresp="history" ana="campaign">The Bristol election of 1774 was very 
+                        hotly contested, and the intelligent
                         and tactful sisters did their utmost to secure the return of the Whig
                         candidates, Cruger and Burke, who were triumphantly declared successful by a
                         large majority. This election, "the most interesting that ever took place in
                         Bristol," must have been a time of unwonted excitement for the quiet
-                        sisterhood…</p>
-                    <p>…From 1775 her time was largely spent in the very heart of London life, and
+                        sisterhood…</rs></p>
+                    <p>…From 1775 her time was largely spent in the very heart of <rs corresp="places" 
+                        ana="city">London</rs>life, and
                         amid all the social and intellectual gaieties which the best society
-                        afforded. Her account of the trial of Elizabeth, Countess of Bristol, is
+                        afforded. Her account of the trial of <name>Elizabeth, Countess of Bristol
+                        </name>, is
                         full of humour, and her letters are brimming with vivacity and observant
-                        shrewdness, verifying her own declaration in her seventy-first year, "My
-                        temper is naturally gay. This gayety even time and sickness have not much
-                        impaired. I have carried too much sail. Nothing but the grace of God and
-                        frequent attacks of very severe sickness could have kept me in tolerable
-                        order. If I am no better with all these visitations, what should I have been
-                        without them?"…</p>
+                        shrewdness, verifying her own declaration in her seventy-first year, 
+                        <rs corresp="narrative_elements" ana="speech_subject">"My
+                            temper is naturally gay. This gayety even time and sickness have not much
+                            impaired. I have carried too much sail. Nothing but the grace of God and
+                            frequent attacks of very severe sickness could have kept me in tolerable
+                            order. If I am no better with all these visitations, what should I have been
+                            without them?"</rs>…</p>
                     <p>Her tragedy of "Percy" was produced at Covent Garden Theatre in 1777. Four
                         thousand copies of the "book o' the words'' were sold in a fortnight, and
                         the play itself had an unusually long run, Garrick taking the principal
@@ -6360,9 +6381,10 @@
                         definitely secured. For several years she lived a life of adulation, but
                         throughout it all she held tight on to her Sundays, and maintained a degree
                         of real simpleness which could only be regarded as remarkable, were not her
-                        early influences taken into account. The Jesuits have a saying, "Give us a
-                        child to train until he be nine years old, and you may do what you like with
-                        him afterwards," and of the truth of this Hannah More is an example. The
+                        early influences taken into account. <rs corresp="narrative_elements" 
+                            ana="allusion">The Jesuits have a saying, "Give us a
+                            child to train until he be nine years old, and you may do what you like with
+                            him afterwards," and of the truth of this Hannah More is an example.</rs> The
                         purity of her life remained untouched, and if to our modern notions she
                         sometimes appears almost "priggish," it must be remembered that the line
                         between faith and unfaith was more sharply defined in her day than it is
@@ -6373,11 +6395,13 @@
                         and both she and Garrick succeeded, by ridiculing the prevailing fashion, in
                         putting a stop to the kitchen-gardens and flower-plots which ladies then
                         wore upon their heads.</p>
-                    <p>…Her Utopian schemes of reforming the character of theatrical representations
+                    <p>…<rs corresp="narrative_elements" ana="discriminated_event">Her Utopian schemes 
+                        of reforming the character of theatrical representations
                         seems to have died with Garrick, and the sight of his coffin in the same
                         room where she had but lately witnessed him performing as Macbeth, made her
-                        resolve definitely to devote her talents to higher uses. David Garrick was
-                        buried in 1779, amid great mourning and splendid pomp, in the great Abbey of
+                        resolve definitely to devote her talents to higher uses.</rs> <name>David 
+                            Garrick</name> 
+                        was buried in 1779, amid great mourning and splendid pomp, in the great Abbey of
                         Westminster, but on the very night of his funeral the play-houses were as
                         crowded as if no such thing had occurred, and the mourners of the day shared
                         in all the revelries of the night. Such a satire upon "the fashion of this
@@ -6386,14 +6410,15 @@
                         successes, seems to have palled upon her. With a woman of her nature this
                         was no mere "phase," resulting from the painful emotions of the time, but a
                         gradual deepening of an innate piety, for which thousands have had reason to
-                        be thankful. Never again did she enter a theatre, even when Sarah Siddons
+                        be thankful.  Never again did she enter a theatre, even when Sarah Siddons
                         was taking a prominent part in "Percy," and we cannot but admire the
                         consistent striving after the "highest," which is the keynote of all her
                         subsequent career.</p>
                     <p>In 1785 we see her installed as mistress of a tiny house called "Cowslip
                         Green," about ten miles from Cheddar; and when in 1789 her sisters gave up
                         the Park Street school and settled in Pulteney Street, Bath, she spent part
-                        of every winter with them, and part with Mrs Garrick, for whom she retained
+                        of every winter with them, and part with <rs corresp="agents" ana="friend">
+                            Mrs Garrick</rs>, for whom she retained
                         the greatest affection and respect. John Wesley much deprecated her
                         retirement to the country, and sent her a message more emphatic than
                         grammatical, which runs thus—</p>
@@ -6414,9 +6439,10 @@
                         writer, and, to her amusement and gratification, it was sent to her by every
                         post with laudatory reviews recommending its propagation in her own
                         neighbourhood. It sold by the thousands….</p>
-                    <p>It was in 1789 that William Wilberforce visited the sisters at Cowslip Green,
+                    <p><rs corresp="discriminated_event">It was in 1789 that William Wilberforce 
+                        visited the sisters at Cowslip Green,
                         and during his visit an immense impulse was given to their work among the
-                        poor of the neighbourhood. After visiting the magnificent gorge known as
+                        poor of the neighbourhood.</rs> After visiting the magnificent gorge known as
                         "Cheddar Cliffs" he was observed to be unusually silent, but in the evening
                         he exclaimed, a propos of the amazing ignorance of the people there, "Miss
                         Hannah, something must be done—if you will be at the trouble, I will be at
@@ -6425,8 +6451,10 @@
                         and abounding sympathy, enabled her to write as powerfully of "Tom White the
                         Postilion" and "Black Giles the Poacher," as she had written before in
                         'Hints to a Princess' and 'The Manners of the Great.'</p>
-                    <p>But the schemes of Wilberforce and the More sisters for benefiting the
-                        population met with no response from the people of that benighted region.
+                    <p><rs corresp="subject_type" ana="philanthropist">But the schemes of 
+                        Wilberforce and the More sisters for benefiting the
+                        population met with no response from the people of that benighted 
+                        region.</rs>
                         The very poor lived in a world of their own—less than half-civilised; and
                         even among the farmers, the only argument for the better education of the
                         children that had any effect was that "while they were at Sunday-school they
@@ -6447,7 +6475,8 @@
                         sisters repaired, living happily together as they had done in the old days,
                         to the admiring surprise of Dr Johnson, whose acquaintance she had so
                         coveted nearly thirty years before.</p>
-                    <p>The state of the villages round Bristol at that date seems almost
+                    <p>The state of the villages round <rs corresp="places" ana="city">Bristol</rs> 
+                        at that date seems almost
                         incredible.</p>
                     <p>"Thirteen adjoining parishes without so much as a resident curate. Mr G—,
                         incumbent of Axbridge, intoxicated about six times a-week, and frequently
@@ -6506,9 +6535,10 @@
                         of which she spoke in her seventy-first year never forsook her, and is not
                         one of the least charming traits in the character of this quiet
                         reformer.</p>
-                    <p>On the 7th of September the end came, and after lying in a semi-delirious
+                    <p><rs corresp="genre_conventions" ana="resolution">On the 7th of September 
+                        the end came, and after lying in a semi-delirious
                         state for many hours, she passed away, murmuring as her last conscious
-                        words, "Patty—joy."</p>
+                        words, "Patty—joy."</rs></p>
                     <p>There is a deep pathos in the association of the words. One could almost
                         believe that a glimpse of that beloved sister who had shared in so much of
                         her earthly happiness was vouchsafed to her, waiting perhaps to welcome her
@@ -6525,24 +6555,26 @@
                     <p>Phrases, too, which to us seem "stilted" almost to absurdity, were then only
                         the courtesies of everyday life—so much is the standard of politeness in its
                         decadence.</p>
-                    <p>But it is not too much to say that Hannah More will always be remembered with
+                    <p><rs corresp="narrative_rhetoric" ana="topos_influence">But it is not too 
+                        much to say that Hannah More will always be remembered with
                         respectful admiration, even by men of more literary culture than William
                         Wilberforce, who said that he would "rather appear in Heaven as the author
                         of 'The Shepherd of Salisbury Plain' than as the author of 'Peveril of the
-                        Peak.'"</p>
+                        Peak.'"</rs></p>
                     <p>Such men as the shepherd doubtless still exist, though their conditions may
                         be different; and among the many new editions that are continually cropping
                         up, perhaps "Coelebs" and "Will Chip" may yet appear with their wholesome
                         influences, to the displacement of some of our modern writers and the
                         benefit of the next generation.</p>
                     <p>Her large-heartedness is conspicuously evidenced in her life-long friendship
-                        with Mrs Garrick—née Eva Veigel—"La Violetta" of the Viennese ballet. The
-                        fact of a staunch Evangelical and a loyal Romanist being able to spend
-                        twenty winters together on terms of closest intimacy speaks for itself,
-                        though it is quite likely that in these days when the Italian Mission is
-                        becoming more and more realised as a proselytising agency, such an
-                        unfettered intercourse would be almost impossible, or at any rate
-                        impracticable.</p>
+                        with Mrs Garrick—née Eva Veigel—"La Violetta" of the Viennese ballet. 
+                        <rs corresp="narrative_elements" ana="allusion">The
+                            fact of a staunch Evangelical and a loyal Romanist being able to spend
+                            twenty winters together on terms of closest intimacy speaks for itself,
+                            though it is quite likely that in these days when the Italian Mission is
+                            becoming more and more realised as a proselytising agency, such an
+                            unfettered intercourse would be almost impossible, or at any rate
+                            impracticable.</rs></p>
                     <p>Hannah More says candidly, "We dispute like a couple of Jesuits"; but it is
                         clear that the love on either side was in no way affected, nor the
                         possibility of compromise entertained.</p>
@@ -6569,11 +6601,13 @@
                         educating generations of children whose Imperial instincts shall march side
                         by side with the principles and practices for which Hannah More pleaded more
                         than a hundred years ago.</p>
-                    <p>"Practical Piety" is going out of fashion quite fast enough: we do not want
-                        to ignore its Principles also.</p>
-                    <p>Who knows but that the "ever-rolling waves" of Time may once again bear upon
+                    <p><rs corresp="narrative_rhetoric" ana="moral">"Practical Piety" is going out 
+                        of fashion quite fast enough: we do not want
+                    to ignore its Principles also.</rs></p>
+                    <p><rs corresp="narrative_rhetoric" ana="moral">Who knows but that the "ever-
+                        rolling waves" of Time may once again bear upon
                         their crests the quaint old text-books of God-fearing Faith and Morality
-                        which were written—and acted upon—by the little lady of Barley Wood!</p>
+                        which were written—and acted upon—by the little lady of Barley Wood!</rs></p>
                     <p/>
 
                 </div2>
