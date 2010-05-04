@@ -5205,7 +5205,7 @@
                         Education (*Not an episode, just narrative presentation of the life
                         event)</p>
 
-                    <p rend="block">Mabie</p>
+                    <p>Mabie</p>
                     <p rend="block"><rs corresp="narrative_elements" ana="quotation_biography"
                             >"During her girlhood," says the lady who has written her life, "she was
                             chief almoner to the cottages around her home, and nursed all illnesses
@@ -5235,7 +5235,7 @@
                     <p rend="block">Ten years she had been serving apprenticeship for the great work
                         of her life, and now she was thirty-four years old. </p>
 
-                    <p rend="block">Carey</p>
+                    <p>Carey</p>
                     <p rend="block">And in another passage, <name type="presenter">Mrs.
                             Tooley</name> tells us, <rs corresp="narrative_elements"
                             ana="quotation_biography">"During her girlhood she was chief almoner to
@@ -5272,10 +5272,14 @@
                         then about thirty-four. </p>
 
 
-                    <p><milestone unit="subject" corresp="life_events" ana="vocation"/>EPISODE #3:
+                    <p><milestone unit="subject" corresp="life_events" ana="vocation"/>The Crimean
+                        War was the first field of action for Florence as a professional nurse. As
+                        the war waged on through the winter of 1854-1855, not only fighting on the
+                        battlefield, but also inadequate medical support threatened the lives of
+                        England's soldiers. EPISODE #3:
                         Vocation—Crimean War, Florence volunteers for service</p>
 
-                    <p rend="block">Mabie</p>
+                    <p>Mabie</p>
                     <p rend="block">In 1854 a war broke out between England and Russia. It is known
                         as the Crimean War. England sent her soldiers to the Black Sea in many
                         thousands. These soldiers were sadly clad and fed. Bad management seems to
@@ -5291,13 +5295,13 @@
                             ana="anecdote">By a strange coincidence Florence Nightingale had written
                             and offered her aid to the sick and wounded soldiers, and her letter
                             passed the letter from the Government.</rs></p>
-                    <p rend="block">It was an undertaking wholly new to English habits-—a band of
+                    <p rend="block">It was an undertaking wholly new to English habits—a band of
                         devoted women going to soften the horrors of war and save lives the war had
                         endeavoured to end. . . They sailed across the Mediterranean and in
                         November, 1854, reached Scutari, a town in Turkey in Asia, opposite
                         Constantinople. </p>
 
-                    <p rend="block">Carey</p>
+                    <p>Carey</p>
                     <p rend="block"><quote>"When war broke out between England and Russia, in March
                             1854, the hospital arrangements of the British army were in a very
                             imperfect state. The army while at Varna suffered from a deficient
@@ -5336,7 +5340,7 @@
                     <p>EPISODE #4: Ordeal (Hardships encountered/Conditions of hospitals)</p>
 
                     <p><milestone unit="subject" corresp="life_events" ana="ordeal"/>4.1</p>
-                    <p rend="block">Mabie</p>
+                    <p>Mabie</p>
                     <p rend="block">Four thousand sick and wounded soldiers lay in the hospitals
                         awaiting their ministrations. And still others from a great battle were
                         coming in. These hospitals were so filled that even in the corridors were
@@ -5360,7 +5364,7 @@
                             uttermost confusion among themselves, and they generally regarded these
                             gentle missionaries as a new element of anarchy."</rs></p>
 
-                    <p rend="block">Carey</p>
+                    <p>Carey</p>
                     <p rend="block">They reached Scutari on November 5th, in time to receive the
                         wounded from the Battle of Inkermann. On their arrival they set at once to
                         the performance of their arduous duties. Indescribably horrible was the
@@ -5398,7 +5402,7 @@
 
                     <p><milestone unit="subject" corresp="narrative_rhetoric"
                             ana="topos_nursing_dying_man"/>4.2</p>
-                    <p rend="block">Mabie</p>
+                    <p>Mabie</p>
                     <p rend="block">
                         <rs corresp="narrative_elements" ana="quotation_documentary">"The magic of
                             her power over men used often to be felt," wrote <name>Kinglake</name>
@@ -5418,7 +5422,7 @@
                         nurses, herself ministering to cholera and fever patients and distributing
                         stores. </p>
 
-                    <p rend="block">Carey</p>
+                    <p>Carey</p>
                     <p rend="block">There are some interesting passages in <name>Nolan's</name>
                         "History" <milestone unit="subject" corresp="narrative_elements"
                             ana="quotation_biography"/>which give us an idea of the work of this
@@ -5462,7 +5466,7 @@
                         (real/non-metaphorical bearing of lamp but other metaphors appear in
                         association—ministering angel)</p>
 
-                    <p rend="block">Mabie</p>
+                    <p>Mabie</p>
                     <p rend="block">
                         <milestone unit="subject" corresp="narrative_elements" ana="habit"/>
                         <rs corresp="narrative_elements" ana="quotation_letter">"As her slender form
@@ -5486,19 +5490,23 @@
                         <l>When e'er is spoken a noble thought,</l>
                         <l>Our hearts in glad surprise,</l>
                         <l>To higher levels rise. (Verse 1)</l>
+                    </lg>
 
+                    <lg>
                         <l>Lo! in that house of misery</l>
                         <l>A lady with a lamp I see</l>
                         <l>Pass through the glimmering gloom</l>
                         <l>And flit from room to room.</l>
+                    </lg>
 
+                    <lg>
                         <l>A Lady with a Lamp shall stand,</l>
                         <l>In the great history of the land,</l>
                         <l>A noble type of good,</l>
                         <l>Heroic womanhood.</l>
                     </lg>
 
-                    <p rend="block">Carey</p>
+                    <p>Carey</p>
                     <p rend="block">
                         <rs corresp="narrative_elements" ana="quotation_letter">"She is a
                             'ministering angel' without any exaggeration in these hospitals; and as
@@ -5533,7 +5541,7 @@
                         />EPISODE #6: Comforting/calming effect of Florence’s
                         appearance/presence</p>
 
-                    <p rend="block">Mabie</p>
+                    <p>Mabie</p>
                     <p rend="block">
                         <rs corresp="narrative_elements" ana="quotation_letter">"No one who has
                             observed her fragile figure and delicate health can avoid misgivings
@@ -5542,7 +5550,7 @@
                             and decision of character." </rs>
                     </p>
 
-                    <p rend="block">Carey</p>
+                    <p>Carey</p>
                     <p rend="block">
                         <rs corresp="narrative_elements" ana="quotation_letter">"No one who has
                             observed her fragile figure and delicate health can avoid misgivings
@@ -5576,7 +5584,7 @@
                         in connection with St. Thomas's Hospital. It is called the "Nightingale
                         Home." </p>
 
-                    <p rend="block">Carey</p>
+                    <p>Carey</p>
                     <p>At the end of six months the hospital arrangements had been brought into
                         order. Kitchens and laundries had been established. <rs
                             corresp="narrative_elements" ana="quotation_biography">"All England," as
