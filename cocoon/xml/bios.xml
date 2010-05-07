@@ -5201,9 +5201,14 @@
                         <bibl>Short bibliographic/origin statement</bibl>
                     </head>
 
-                    <p><milestone unit="subject" corresp="life_events" ana="education"/>EPISODE #2:
-                        Education (*Not an episode, just narrative presentation of the life
-                        event)</p>
+                    <p><milestone unit="subject" corresp="life_events" ana="education"/>Although
+                        Carey does not include the narrative of Florence and her first 'patient,'
+                        the subsequent impact of the episode on her choice of vocation is treated
+                        almost verbatum by Mabie and Carey. They rely on the same sources to present
+                        Florence's education; however, the discrepancy in Carey's final paragraph is
+                        a notable addition: "when the call came it found her ready." Carey not only
+                        forcasts Florence's heroism in the service of her countrymen, she also
+                        alludes to the potential for female energy in the field of action.</p>
 
                     <p>Mabie</p>
                     <p rend="block"><rs corresp="narrative_elements" ana="quotation_biography"
@@ -5212,8 +5217,9 @@
                             under the advice of her mother and the vicar."</rs> Her favourite books
                         were those that taught of helpfulness to the suffering and miserable, and it
                         seemed as if her whole nature was turning toward her great work. While still
-                        a young girl she became interested in what Elizabeth Fry had done in English
-                        prisons, and she paid an interested visit to Mrs. Fry.</p>
+                        a young girl she became interested in what <name corresp="ELIZABETH_FRY"
+                            >Elizabeth Fry</name> had done in English prisons, and she paid an
+                        interested visit to <name corresp="ELIZABETH_FRY">Mrs. Fry</name>.</p>
                     <p rend="block">When in London she would visit hospitals and kindred
                         institutions, and it is said that in the family travels in Egypt she nursed
                         to health several sick Arabs. Her tastes and time, it is evident, were
@@ -5244,8 +5250,9 @@
                             Her favourite books were those that dealt with the alleviation of human
                             suffering and misery, and it seemed as though her whole nature were
                             impelled in that direction. She became, while still a young girl,
-                            interested in the prison work of Elizabeth Fry, and paid a memorable
-                            visit to that veteran friend of humanity in her London home."</rs></p>
+                            interested in the prison work of <name corresp="ELIZABETH_FRY">Elizabeth
+                                Fry</name>, and paid a memorable visit to that veteran friend of
+                            humanity in her London home."</rs></p>
                     <p rend="block">The ordinary routine of London social life had few attractions
                         for Florence Nightingale. We hear that she and her sister were presented,
                         but very shortly afterwards she withdrew from all gaieties.<milestone
@@ -5274,10 +5281,10 @@
 
                     <p><milestone unit="subject" corresp="life_events" ana="vocation"/>The Crimean
                         War was the first field of action for Florence as a professional nurse. As
-                        the war waged on through the winter of 1854-1855, not only fighting on the
-                        battlefield, but also inadequate medical support threatened the lives of
-                        England's soldiers. EPISODE #3:
-                        Vocation—Crimean War, Florence volunteers for service</p>
+                        the war waged on through the winter of 1854-1855, fighting on the
+                        battlefield as well as inadequate medical support threatened the lives of
+                        England's soldiers. EPISODE #3: Vocation—Crimean War, Florence volunteers
+                        for service</p>
 
                     <p>Mabie</p>
                     <p rend="block">In 1854 a war broke out between England and Russia. It is known
