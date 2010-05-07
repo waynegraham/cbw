@@ -5209,9 +5209,12 @@
                         a notable addition: "when the call came it found her ready." Carey not only
                         forecasts Florence's heroism in the service of her countrymen, she also
                         alludes to the potential for female energy in the field of action: </p>
-
-                    <p>Mabie</p>
-                    <p rend="block"><rs corresp="narrative_elements" ana="quotation_biography"
+                    
+                    <p rend="block">
+                        <title type="author">Mabie</title>
+                    </p>
+                    <p rend="block">
+                        <rs corresp="narrative_elements" ana="quotation_biography"
                             >"During her girlhood," says the lady who has written her life, "she was
                             chief almoner to the cottages around her home, and nursed all illnesses
                             under the advice of her mother and the vicar."</rs> Her favourite books
@@ -5222,10 +5225,10 @@
                         interested visit to <name corresp="ELIZABETH_FRY">Mrs. Fry</name>.</p>
                     <p rend="block">When in London she would visit hospitals and kindred
                         institutions, and it is said that in the family travels in Egypt she nursed
-                        to health several sick Arabs. Her tastes and time, it is evident, were
+                        to health several sick Arabs. <seg id="nightingale.mabie.1" corresp="nightingale.carey.1">Her tastes and time, it is evident, were
                         turned toward a humane and benevolent rather than a social life. . . She had
                         withdrawn from gaieties to learn whatever she could of the hospitals of
-                        London, Edinburgh and Dublin, and indeed, of the civil and military
+                        London</seg>, Edinburgh and Dublin, and indeed, of the civil and military
                         hospitals of all Europe, and finally in 1851, she went into training as a
                         nurse in a famous institution at Kaiserwerth on the Rhine. Here, when she
                         had taken the course of instruction, she passed a distinguished
@@ -5246,9 +5249,9 @@
                             Tooley</name> tells us, <rs corresp="narrative_elements"
                             ana="quotation_biography">"During her girlhood she was chief almoner to
                             the cottages around her home, and nursed all illnesses under the advice
-                            of her mother and the vicar, who, in his youth, had studied medicine.
+                            of her mother and the vicar, <seg id="nightingale.carey.1" corresp="nightingale.mabie.1">who, in his youth, had studied medicine.
                             Her favourite books were those that dealt with the alleviation of human
-                            suffering and misery, and it seemed as though her whole nature were
+                            suffering and misery, and it seemed as</seg> though her whole nature were
                             impelled in that direction. She became, while still a young girl,
                             interested in the prison work of <name corresp="ELIZABETH_FRY">Elizabeth
                                 Fry</name>, and paid a memorable visit to that veteran friend of
@@ -5342,13 +5345,13 @@
                         accompanied by her friends, Mr. and Mrs. Bracebridge, of Atherstane Hall,
                         Yorkshire, and a band of thirty-eight nurses, she left England on her great
                         mission. </p>
-
-
-                    <p>EPISODE #4: Ordeal (Hardships encountered/Conditions of hospitals)</p>
-
-                    <p><milestone unit="subject" corresp="life_events" ana="ordeal"/>4.1</p>
-                    <p>Mabie</p>
-                    <p rend="block">Four thousand sick and wounded soldiers lay in the hospitals
+                    <p>
+                        <title type="episode">EPISODE #4: Ordeal (Hardships encountered/Conditions of hospitals)</title>
+                        <title type="section"><milestone unit="subject" corresp="life_events" ana="ordeal"/>4.1</title>
+                        <title type="author">Mabie</title>
+                    </p>
+                    <p rend="block">
+                        Four thousand sick and wounded soldiers lay in the hospitals
                         awaiting their ministrations. And still others from a great battle were
                         coming in. These hospitals were so filled that even in the corridors were
                         two rows of mattresses and so close together that two persons could barely
@@ -5371,7 +5374,7 @@
                             uttermost confusion among themselves, and they generally regarded these
                             gentle missionaries as a new element of anarchy."</rs></p>
 
-                    <p>Carey</p>
+                    <p><title type="author">Carey</title></p>
                     <p rend="block">They reached Scutari on November 5th, in time to receive the
                         wounded from the Battle of Inkermann. On their arrival they set at once to
                         the performance of their arduous duties. Indescribably horrible was the
