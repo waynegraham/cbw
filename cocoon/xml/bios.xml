@@ -4437,7 +4437,7 @@
                 </div2>
                 <div2 n="1" id="CBW_TEAM_ELIZABETH_FRY" type="bio">
                     <docAuthor>Julia Fuller</docAuthor>
-                    <docDate>January 11, 2010</docDate>
+                    <docDate>January, 2010</docDate>
                     <head>
                         <title>Biographical Crafting: Philanthropy Praised, But Complexity Quashed
                             in the Recorded Life of Elizabeth Fry</title>
@@ -5194,8 +5194,8 @@
                     </list>
                 </div2>
                 <div2 n="1" id="LOV_FLORENCE_NIGHTINGALE_BIO" type="bio">
-                    <docAuthor>Author's name</docAuthor>
-                    <docDate>date</docDate>
+                    <docAuthor>Julia Fuller</docAuthor>
+                    <docDate>May, 2010</docDate>
                     <head>
                         <title>Title of article</title>
                         <bibl>Short bibliographic/origin statement</bibl>
@@ -5211,18 +5211,19 @@
                         an old shepherd of her father's, named Roger, who had a favourite sheep-dog
                         called Cap. Roger had neither wife nor child, and Cap lived with him and
                         kept him. . . Cap was a very sensible dog; indeed people used to say he
-                        could do everything but speak. He kept the sheep in wonderfully good
-                        order.... One day as Florence and her old friend were out for a ride, they
-                        came to a field where they found the shepherd giving his sheep their night
-                        feed; but he was without the dog, and the sheep knew it, for they were
-                        scampering in every direction. . . . They stopped to ask what was the
-                        matter, and what had become of his dog.</p>
-                    <p rend="block">"Oh," said Roger, "Cap will never be of any more use to me; I'll
-                        have to hang him, poor fellow, as soon as I go home to-night. . . , one of
-                        the mischievous school boys throwed a stone at him yesterday and broke one
-                        of his legs." And the old shepherd's eyes filled with tears, which he wiped
-                        away with his shirt-sleeve, then he drove his spade deep in the ground to
-                        hide what he felt, for he did not like to be seen crying.</p>
+                        could do everything but speak. He kept the sheep in wonderfully good order.
+                        . . . One day as Florence and her old friend were out for a ride, they came
+                        to a field where they found the shepherd giving his sheep their night feed;
+                        but he was without the dog, and the sheep knew it, for they were scampering
+                        in every direction. . . . They stopped to ask what was the matter, and what
+                        had become of his dog.</p>
+                    <p rend="block"><milestone unit="subject" corresp="narrative_elements"
+                            ana="dialogue"/>"Oh," said Roger, "Cap will never be of any more use to
+                        me; I'll have to hang him, poor fellow, as soon as I go home to-night. . . ,
+                        one of the mischievous school boys throwed a stone at him yesterday and
+                        broke one of his legs." And the old shepherd's eyes filled with tears, which
+                        he wiped away with his shirt-sleeve, then he drove his spade deep in the
+                        ground to hide what he felt, for he did not like to be seen crying.</p>
                     <p rend="block">There on the bare brick floor lay the dog, his hair dishevelled,
                         and his eyes sparkling with anger at the intruders. When he looked at
                         Florence and heard her call him "poor Cap," he began to wag his short tail;
@@ -5283,26 +5284,27 @@
                         <title type="author">Mabie</title>
                     </p>
                     <p rend="block">
-                        <rs corresp="narrative_elements" ana="quotation_biography">"During her
-                            girlhood," says the lady who has written her life, "she was chief
-                            almoner to the cottages around her home, and nursed all illnesses under
-                            the advice of her mother and the vicar."</rs> Her favourite books were
-                        those that taught of helpfulness to the suffering and miserable, and it
-                        seemed as if her whole nature was turning toward her great work. While still
-                        a young girl she became interested in what <name corresp="ELIZABETH_FRY"
-                            >Elizabeth Fry</name> had done in English prisons, and she paid an
-                        interested visit to <name corresp="ELIZABETH_FRY">Mrs. Fry</name>.</p>
+                        <rs corresp="narrative_elements" ana="quotation_biography">
+                            <seg id="nightingale.mabie.1" corresp="nightingale.carey.1">"During her
+                                girlhood," says the lady who has written her life, "she was chief
+                                almoner to the cottages around her home, and nursed all illnesses
+                                under the advice of her mother and the vicar."</seg>
+                        </rs> Her favourite books were those that taught of helpfulness to the
+                        suffering and miserable, and it seemed as if her whole nature was turning
+                        toward her great work. While still a young girl she became interested in
+                        what <name corresp="ELIZABETH_FRY">Elizabeth Fry</name> had done in English
+                        prisons, and she paid an interested visit to <name corresp="ELIZABETH_FRY"
+                            >Mrs. Fry</name>.</p>
                     <p rend="block">When in London she would visit hospitals and kindred
                         institutions, and it is said that in the family travels in Egypt she nursed
-                        to health several sick Arabs. <seg id="nightingale.mabie.1"
-                            corresp="nightingale.carey.1">Her tastes and time, it is evident, were
-                            turned toward a humane and benevolent rather than a social life. . . She
-                            had withdrawn from gaieties to learn whatever she could of the hospitals
-                            of London</seg>, Edinburgh and Dublin, and indeed, of the civil and
-                        military hospitals of all Europe, and finally in 1851, she went into
-                        training as a nurse in a famous institution at Kaiserwerth on the Rhine.
-                        Here, when she had taken the course of instruction, she passed a
-                        distinguished examination.</p>
+                        to health several sick Arabs. Her tastes and time, it is evident, were
+                        turned toward a humane and benevolent rather than a social life. . . She had
+                        withdrawn from gaieties to learn whatever she could of the hospitals of
+                        London, Edinburgh and Dublin, and indeed, of the civil and military
+                        hospitals of all Europe, and finally in 1851, she went into training as a
+                        nurse in a famous institution at Kaiserwerth on the Rhine. Here, when she
+                        had taken the course of instruction, she passed a distinguished
+                        examination.</p>
                     <p rend="block">But at this time a hospital and home in London for sick and aged
                         governesses was about to fail from lack of means and lack of able direction.
                         To this Miss Nightingale gave herself with ardour, and so renewed its
@@ -5319,12 +5321,12 @@
                     </p>
                     <p rend="block">And in another passage, <name type="presenter">Mrs.
                             Tooley</name> tells us, <rs corresp="narrative_elements"
-                            ana="quotation_biography">"During her girlhood she was chief almoner to
-                            the cottages around her home, and nursed all illnesses under the advice
-                            of her mother and the vicar, <seg id="nightingale.carey.1"
-                                corresp="nightingale.mabie.1">who, in his youth, had studied
-                                medicine. Her favourite books were those that dealt with the
-                                alleviation of human suffering and misery, and it seemed as</seg>
+                            ana="quotation_biography"><seg id="nightingale.carey.1"
+                                corresp="nightingale.mabie.1">"During her girlhood she was chief
+                                almoner to the cottages around her home, and nursed all illnesses
+                                under the advice of her mother and the vicar,</seg> who, in his
+                            youth, had studied medicine. Her favourite books were those that dealt
+                            with the alleviation of human suffering and misery, and it seemed as
                             though her whole nature were impelled in that direction. She became,
                             while still a young girl, interested in the prison work of <name
                                 corresp="ELIZABETH_FRY">Elizabeth Fry</name>, and paid a memorable
@@ -5448,9 +5450,11 @@
                     <p rend="block">The head of the band, Miss Nightingale, began her work of
                         organization. She laboured with tireless energy and indomitable will. But
                         not without opposition. The military and medical officials, says one who was
-                        there, <rs corresp="narrative_elements" ana="speech_others">"were in the
-                            uttermost confusion among themselves, and they generally regarded these
-                            gentle missionaries as a new element of anarchy."</rs></p>
+                        there, <rs corresp="narrative_elements" ana="speech_others">
+                            <seg id="nightingale.mabie.2" corresp="nightingale.carey.2">"were in the
+                                uttermost confusion among themselves, and they generally regarded
+                                these gentle missionaries as a new element of anarchy."</seg>
+                        </rs></p>
 
                     <p rend="block">
                         <title type="author">Carey</title>
@@ -5467,14 +5471,14 @@
                     <p rend="block">From the first the indomitable will of "the Lady-in-chief," as
                         she was called, made itself felt in every department, which gradually broke
                         down all obstacles raised by the jealousy or bad tempers of the officials.
-                        As <name type="presenter">Nolan</name> tells us, <rs
-                            corresp="narrative_elements" ana="quotation_biography">"Doctors,
-                            purveyors, store-keepers, orderlies, inspectors, dispensers, and
-                            interpreters were in the uttermost confusion amongst themselves, and
-                            they generally regarded these gentle missionaries as a new element of
-                            anarchy."</rs></p>
-                    <p rend="block">As <name type="presenter">Kinglake</name> says most beautifully:
-                            <rs corresp="narrative_elements" ana="quotation_documentary">"It was not
+                        As <name>Nolan</name> tells us, <rs corresp="narrative_elements"
+                            ana="quotation_biography">"Doctors, purveyors, store-keepers, orderlies,
+                            inspectors, dispensers, and interpreters <seg id="nightingale.carey.2"
+                                corresp="nightingale.mabie.2">were in the uttermost confusion
+                                amongst themselves, and they generally regarded these gentle
+                                missionaries as a new element of anarchy."</seg></rs></p>
+                    <p rend="block">As <name>Kinglake</name> says most beautifully: <rs
+                            corresp="narrative_elements" ana="quotation_documentary">"It was not
                             only under her reign, but by force of her actual sway, that order sprang
                             out of chaos; that the hell she had found when she came knew at last the
                             blessing of cleanliness; that the administration of our Levantine
@@ -5498,17 +5502,20 @@
                         <title type="author">Mabie</title>
                     </p>
                     <p rend="block">
-                        <rs corresp="narrative_elements" ana="quotation_documentary">"The magic of
-                            her power over men used often to be felt," wrote <name>Kinglake</name>
-                            the historian, "in the room—-the dreaded, the blood-stained room-—where
-                            'operations' took place. There perhaps the maimed soldier, if not yet
-                            resigned to his fate, might at first be craving death rather than meet
-                            the knife of the surgeon; but when such a one looked and saw that the
-                            honoured lady-in-chief was patiently standing by him and, with lips
-                            closely set and hands folded, decreeing herself to go through the pain
-                            of witnessing pain, he used to fall into the mood of obeying the silent
-                            command, and, finding strange support in her presence, bring himself to
-                            submit and endure."</rs>
+                        <rs corresp="narrative_elements" ana="quotation_documentary">
+                            <seg id="nightingale.mabie.3" corresp="nightingale.carey.3">"The magic
+                                of her power over men used often to be felt," wrote
+                                    <name>Kinglake</name> the historian, "in the room—the dreaded,
+                                the blood-stained room—where 'operations' took place. There perhaps
+                                the maimed soldier, if not yet resigned to his fate, might at first
+                                be craving death rather than meet the knife of the surgeon; but when
+                                such a one looked and saw that the honoured lady-in-chief was
+                                patiently standing by him and, with lips closely set and hands
+                                folded, decreeing herself to go through the pain of witnessing pain,
+                                he used to fall into the mood of obeying the silent command, and,
+                                finding strange support in her presence, bring himself to submit and
+                                endure."</seg>
+                        </rs>
                     </p>
                     <p rend="block">Every fresh detachment of the wounded meant fresh work for the
                         band of devoted women. Miss Nightingale was always among the busiest and she
@@ -5545,16 +5552,19 @@
                         detractions, but one can hardly credit that there were tongues to find fault
                         with this brave woman; but no such censure was passed by those amongst whom
                         she worked. <name>Kinglake</name> tells us: <rs corresp="narrative_elements"
-                            ana="quotation_documentary">"The magic of her power over men used often
-                            to be felt in the room—the dreaded, the blood-stained room—where
-                            'operations' took place. There, perhaps, the maimed soldier, if not yet
-                            resigned to his fate, might at first be craving death rather than meet
-                            the knife of the surgeon; but when such a one looked and saw that the
-                            honoured Lady-in-chief was patiently standing by him and, with lips
-                            closely set and hands folded, decreeing herself to go through the pain
-                            of witnessing pain, he used to fall into the mood for obeying her silent
-                            command, and, finding strange support in her presence, bring himself to
-                            submit and endure."</rs></p>
+                            ana="quotation_documentary">
+                            <seg id="nightingale.carey.3" corresp="nightingale.mabie.3">"The magic
+                                of her power over men used often to be felt in the room—the dreaded,
+                                the blood-stained room—where 'operations' took place. There,
+                                perhaps, the maimed soldier, if not yet resigned to his fate, might
+                                at first be craving death rather than meet the knife of the surgeon;
+                                but when such a one looked and saw that the honoured Lady-in-chief
+                                was patiently standing by him and, with lips closely set and hands
+                                folded, decreeing herself to go through the pain of witnessing pain,
+                                he used to fall into the mood for obeying her silent command, and,
+                                finding strange support in her presence, bring himself to submit and
+                                endure."</seg>
+                        </rs></p>
 
 
                     <p rend="block">
@@ -5567,19 +5577,25 @@
                     </p>
                     <p rend="block">
                         <milestone unit="subject" corresp="narrative_elements" ana="habit"/>
-                        <rs corresp="narrative_elements" ana="quotation_letter">"As her slender form
-                            glided quietly along each corridor every poor fellow's face softens with
-                            gratitude at the sight of her," wrote another. "When all the medical
-                            officers have retired for the night and silence and darkness have
-                            settled down on the miles of prostrate sick, she may be observed alone
-                            with a little lamp in her hand making her solitary rounds."</rs>
+                        <rs corresp="narrative_elements" ana="quotation_letter">
+                            <seg id="nightingale.mabie.4" corresp="nightingale.carey.4">"As her
+                                slender form glided quietly along each corridor every poor fellow's
+                                face softens with gratitude at the sight of her," wrote another.
+                                "When all the medical officers have retired for the night and
+                                silence and darkness have settled down on the miles of prostrate
+                                sick, she may be observed alone with a little lamp in her hand
+                                making her solitary rounds."</seg>
+                        </rs>
                     </p>
                     <p rend="block">
-                        <rs corresp="narrative_elements" ana="speech_others">"To see her pass was
-                            happiness," one poor fellow said. "As she passed down the beds she would
-                            nod to one and smile at many more; but she could not do it to all, you
-                            know. We lay there by hundreds; but we could kiss her shadow as it fell,
-                            and lay our heads upon the pillows again, content."</rs>
+                        <rs corresp="narrative_elements" ana="speech_others">
+                            <seg id="nightingale.mabie.5" corresp="nightingale.carey.5">"To see her
+                                pass was happiness," one poor fellow said. "As she passed down the
+                                beds she would nod to one and smile at many more; but she could not
+                                do it to all, you know. We lay there by hundreds; but we could kiss
+                                her shadow as it fell, and lay our heads upon the pillows again,
+                                content."</seg>
+                        </rs>
                     </p>
                     <p rend="block">(*Mabie includes entire poem) Henry Wadsworth Longfellow, “Santa
                         Filomena”:</p>
@@ -5609,19 +5625,23 @@
                     </p>
                     <p rend="block">
                         <rs corresp="narrative_elements" ana="quotation_letter">"She is a
-                            'ministering angel' without any exaggeration in these hospitals; and as
-                            her slender form glides quietly along each corridor every poor fellow's
-                            face softens with gratitude at the sight of her. When all the medical
-                            officers have retired for the night, and silence and darkness have
-                            settled down on those miles of prostrate sick, she may be observed alone
-                            with a little lamp in her hand making her solitary rounds."</rs>
+                            'ministering angel' without any exaggeration in these hospitals; and
+                                <seg id="nightingale.carey.4" corresp="nightingale.mabie.4">as her
+                                slender form glides quietly along each corridor every poor fellow's
+                                face softens with gratitude at the sight of her. When all the
+                                medical officers have retired for the night, and silence and
+                                darkness have settled down on those miles of prostrate sick, she may
+                                be observed alone with a little lamp in her hand making her solitary
+                                rounds."</seg></rs>
                     </p>
-                    <p rend="block"><rs corresp="narrative_elements" ana="speech_others">"To see her
-                            pass was happiness," one poor fellow said. "As she passed down the beds
-                            she would nod to one and smile at many more; but she could not do it to
-                            all, you know. We lay there by hundreds; but we could kiss her shadow as
-                            it fell, and lay our heads upon the pillow again, content."</rs> What
-                        words could be more touching than those!</p>
+                    <p rend="block"><rs corresp="narrative_elements" ana="speech_others">
+                            <seg id="nightingale.carey.5" corresp="nightingale.mabie.5">"To see her
+                                pass was happiness," one poor fellow said. "As she passed down the
+                                beds she would nod to one and smile at many more; but she could not
+                                do it to all, you know. We lay there by hundreds; but we could kiss
+                                her shadow as it fell, and lay our heads upon the pillow again,
+                                content."</seg>
+                        </rs> What words could be more touching than those!</p>
                     <p rend="block">Well may the honoured name of Florence Nightingale be enshrined
                         in every English heart. In our generation there is no more noble example
                         than that of our dear <name corresp="FLORENCE_NIGHTINGALE">Lady of the
@@ -5645,19 +5665,22 @@
                         <title type="author">Mabie</title>
                     </p>
                     <p rend="block">
-                        <rs corresp="narrative_elements" ana="quotation_letter">"No one who has
-                            observed her fragile figure and delicate health can avoid misgivings
-                            lest these should fail. With the heart of a true woman and the manners
-                            of a lady she combines a surprising calmness of judgment and promptitude
-                            and decision of character." </rs>
+                        <rs corresp="narrative_elements" ana="quotation_letter">
+                            <seg id="nightingale.mabie.6" corresp="nightingale.carey.6">"No one who
+                                has observed her fragile figure and delicate health can avoid
+                                misgivings lest these should fail. With the heart of a true woman
+                                and the manners of a lady she combines a surprising calmness of
+                                judgment and promptitude and decision of character."</seg>
+                        </rs>
                     </p>
 
                     <p rend="block">
                         <title type="author">Carey</title>
                     </p>
                     <p rend="block">
-                        <rs corresp="narrative_elements" ana="quotation_letter">"No one who has
-                            observed her fragile figure and delicate health can avoid misgivings
+                        <rs corresp="narrative_elements" ana="quotation_letter"><seg
+                                id="nightingale.carey.6" corresp="nightingale.mabie.6"/>"No one who
+                            has observed her fragile figure and delicate health can avoid misgivings
                             lest these should fail. With the heart of a true woman and the manners
                             of a lady, accomplished and refined beyond most of her sex, she combines
                             a surprising calmness of judgment and promptitude and decision of
@@ -9572,7 +9595,7 @@
                 </div2>
                 <div2 n="1" id="CBW_TEAM_ANN_HASSELTINE_JUDSON" type="bio">
                     <docAuthor>Julia Fuller</docAuthor>
-                    <docDate>December 17, 2009</docDate>
+                    <docDate>December, 2009</docDate>
                     <head>
                         <title>Missionary Modeling: The First of the Mrs. Judsons</title>
                         <bibl>A synthesis of the biographical treatment of Ann Hasseltine Judson,
@@ -10283,7 +10306,7 @@
                 </div2>
                 <div2 n="1" id="CBW_TEAM_JENNY_LIND" type="bio">
                     <docAuthor>Julia Fuller</docAuthor>
-                    <docDate>March 31, 2010</docDate>
+                    <docDate>March, 2010</docDate>
                     <head>
                         <title>Multiple Perspectives on the Life of the "Swedish
                             Nightingale"</title>
