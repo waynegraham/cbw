@@ -5193,30 +5193,50 @@
                         </item>
                     </list>
                 </div2>
-                <div2 n="1" id="LOV_FLORENCE_NIGHTINGALE_BIO" type="bio">
+                <div2 n="1" id="CBW_TEAM_FLORENCE_NIGHTINGALE_BIO" type="bio">
                     <docAuthor>Julia Fuller</docAuthor>
                     <docDate>May, 2010</docDate>
                     <head>
-                        <title>Title of article</title>
-                        <bibl>Short bibliographic/origin statement</bibl>
+                        <title>Biography as Pastiche: Florence Nightingale's Life in
+                            Episodes</title>
+                        <bibl>A comparative synopsis of versions of Nightingale's life from two
+                            contemporary collected biographies. This presentation is deconstructed
+                            into episodes for the purpose of illuminating both her life and the
+                            techniques of prospobiography. Meta-critical commentary based on
+                            excerpts and condensed passages from Hamilton Wright Mabie and Kate
+                            Stephens's <hi rend="italics">Heroines That Every Child Should Know</hi>
+                            and Rosa Carey's <hi rend="italics">Twelve Notable Good
+                            Women.</hi></bibl>
                     </head>
+                    <p>Paragraph introducing FN, the episodes of her life presented in
+                        prospobiography, introduction of presenters Mabie and Carey (overlap between
+                        the two biographies)</p>
 
-                    <p rend="block">
+                    <p>
                         <title type="episode">Episode 1: Talent</title>
                         <title type="section"><milestone unit="subject" corresp="life_events"
-                                ana="talent"/>Heals dog with wounded leg</title>
+                                ana="talent"/>Florence's promise as a nurse revealed itself at an
+                            early age. The guidance of a sage "old friend" (the minister who became
+                            her mentor)supplemented an innate sympathetic interest in the well-being
+                            of others and led Florence to her first medical achievement: healing a
+                            dog's badly wounded leg. Mabie renders the episode in great detail,
+                            creating a vivid scene of narration The community collectively
+                            recognized her talent and thereafter depended upon her expertice for
+                            everyday ailments.</title>
+                    </p>
+                    <p rend="block">
                         <title type="author">Mabie</title>
                     </p>
                     <p rend="block">There lived in one of two or three solitary cottages in the wood
                         an old shepherd of her father's, named Roger, who had a favourite sheep-dog
                         called Cap. Roger had neither wife nor child, and Cap lived with him and
-                        kept him. . . Cap was a very sensible dog; indeed people used to say he
-                        could do everything but speak. He kept the sheep in wonderfully good order.
-                        . . . One day as Florence and her old friend were out for a ride, they came
-                        to a field where they found the shepherd giving his sheep their night feed;
-                        but he was without the dog, and the sheep knew it, for they were scampering
-                        in every direction. . . . They stopped to ask what was the matter, and what
-                        had become of his dog.</p>
+                        kept him company. . . Cap was a very sensible dog; indeed people used to say
+                        he could do everything but speak. He kept the sheep in wonderfully good
+                        order. . . . One day as Florence and her old friend were out for a ride,
+                        they came to a field where they found the shepherd giving his sheep their
+                        night feed; but he was without the dog, and the sheep knew it, for they were
+                        scampering in every direction. . . . They stopped to ask what was the
+                        matter, and what had become of his dog.</p>
                     <p rend="block"><milestone unit="subject" corresp="narrative_elements"
                             ana="dialogue"/>"Oh," said Roger, "Cap will never be of any more use to
                         me; I'll have to hang him, poor fellow, as soon as I go home to-night. . . ,
@@ -5270,6 +5290,7 @@
                         "that it became a custom when any one had a cut or bruise, or a sick animal,
                         to send for Miss Florence."</p>
 
+
                     <p rend="block">
                         <title type="episode">Episode 2: Education</title>
                         <title type="section"><milestone unit="subject" corresp="life_events"
@@ -5315,7 +5336,6 @@
                             performing all the duties of a hard-working matron."</rs></p>
                     <p rend="block">Ten years she had been serving apprenticeship for the great work
                         of her life, and now she was thirty-four years old. </p>
-
                     <p rend="block">
                         <title type="author">Carey</title>
                     </p>
@@ -5355,8 +5375,6 @@
                     <p rend="block">For ten years she had served her apprenticeship in preparation
                         for the work of her life; when the call came it found her ready. She was
                         then about thirty-four. </p>
-
-
                     <p rend="block">
                         <title type="episode">Episode 3: Vocation</title>
                         <title type="section"><milestone unit="subject" corresp="life_events"
@@ -5387,7 +5405,6 @@
                         endeavoured to end. . . They sailed across the Mediterranean and in
                         November, 1854, reached Scutari, a town in Turkey in Asia, opposite
                         Constantinople. </p>
-
                     <p rend="block">
                         <title type="author">Carey</title>
                     </p>
@@ -5424,7 +5441,6 @@
                         accompanied by her friends, Mr. and Mrs. Bracebridge, of Atherstane Hall,
                         Yorkshire, and a band of thirty-eight nurses, she left England on her great
                         mission. </p>
-
                     <p rend="block">
                         <title type="episode">Episode 4.1: Ordeal</title>
                         <title type="section"><milestone unit="subject" corresp="life_events"
@@ -5455,7 +5471,6 @@
                                 uttermost confusion among themselves, and they generally regarded
                                 these gentle missionaries as a new element of anarchy."</seg>
                         </rs></p>
-
                     <p rend="block">
                         <title type="author">Carey</title>
                     </p>
@@ -5493,7 +5508,6 @@
                         endurance, and it would be difficult to give any idea of their round of
                         daily and nightly duties. They had to do everything for themselves as well
                         as for the patients. </p>
-
                     <p rend="block">
                         <title type="episode">Episode 4.2: Ordeal</title>
                         <title type="section"><milestone unit="subject" corresp="narrative_rhetoric"
@@ -5522,7 +5536,6 @@
                         was known to stand for twenty hours assisting at operations, directing
                         nurses, herself ministering to cholera and fever patients and distributing
                         stores. </p>
-
                     <p rend="block">
                         <title type="author">Carey</title>
                     </p>
@@ -5565,8 +5578,6 @@
                                 finding strange support in her presence, bring himself to submit and
                                 endure."</seg>
                         </rs></p>
-
-
                     <p rend="block">
                         <title type="episode">Episode 5: 'Lady of the Lamp'</title>
                         <title type="section"><milestone unit="subject" corresp="narrative_rhetoric"
@@ -5605,21 +5616,18 @@
                         <l>Our hearts in glad surprise,</l>
                         <l>To higher levels rise. (Verse 1)</l>
                     </lg>
-
                     <lg>
                         <l>Lo! in that house of misery</l>
                         <l>A lady with a lamp I see</l>
                         <l>Pass through the glimmering gloom</l>
                         <l>And flit from room to room.</l>
                     </lg>
-
                     <lg>
                         <l>A Lady with a Lamp shall stand,</l>
                         <l>In the great history of the land,</l>
                         <l>A noble type of good,</l>
                         <l>Heroic womanhood.</l>
                     </lg>
-
                     <p rend="block">
                         <title type="author">Carey</title>
                     </p>
@@ -5655,8 +5663,6 @@
                         <l>A noble type of good,</l>
                         <l>Heroic womanhood.</l>
                     </lg>
-
-
                     <p rend="block">
                         <title type="episode">Episode 6: Appearance</title>
                         <title type="section"><milestone unit="subject" corresp="narrative_rhetoric"
@@ -5673,7 +5679,6 @@
                                 judgment and promptitude and decision of character."</seg>
                         </rs>
                     </p>
-
                     <p rend="block">
                         <title type="author">Carey</title>
                     </p>
@@ -5688,8 +5693,6 @@
                     </p>
                     <p rend="block">Her benignant presence is an influence for good comfort even
                         amid the struggles of expiring nature. </p>
-
-
                     <p rend="block">
                         <title type="episode">Episode 7: Recognition</title>
                         <title type="section"><milestone unit="subject" corresp="life_events"
@@ -5712,7 +5715,6 @@
                         was, at her request, given to the foundation of a training home for nurses
                         in connection with St. Thomas's Hospital. It is called the "Nightingale
                         Home." </p>
-
                     <p rend="block">
                         <title type="author">Carey</title>
                     </p>
@@ -5746,13 +5748,12 @@
                         but by her request this sum was devoted to the formation of a Training Home
                         for Nurses in connection with St. Thomas's Hospital. It is called "The
                         Nightingale Home," and has a reputation worthy of its founder. </p>
-
                     <p>
-                        <note>Hamilton Wright Mabie and Kate Stephens, eds., <hi rend="italics"
-                                >Heroines That Every Child Should Know</hi> (New York: Doubleday,
-                            1907).</note>
-                        <note>Rosa Nouchette Carey, <hi rend="italics">Twelve Notable Good Women of
-                                the XIX Century</hi> (London: Hutchinson, 1899).</note>
+                        <note>Carey, Rosa Nouchette. <hi rend="italics">Twelve Notable Good Women of
+                                the XIX Century.</hi> London: Hutchinson, 1899.</note>
+                        <note>Mabie, Hamilton Wright, and Kate Stephens, eds. <hi rend="italics"
+                                >Heroines That Every Child Should Know.</hi> New York: Doubleday,
+                            1907.</note>
                     </p>
                 </div2>
             </div1>
