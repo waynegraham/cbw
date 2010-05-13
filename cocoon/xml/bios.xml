@@ -5236,12 +5236,14 @@
                         writers compose her story in episodes that are lifted verbatim or
                         nearly-verbatim from other sources. As these narratives are repeated
                         consistently throughout biographies, they become naturalized in the popular
-                        imagination and together contribute to figuring her as the “Lady with the
-                        Lamp”—an archetypal image for the ministering woman which presenters also
-                        used in depictions of Elizabeth Fry’s life. In these prosopographies, we can
-                        rediscover one of the ways that Nightingale's persona was transmitted as an
-                        example for later generations, not least for skeptical interpreters of the
-                        Victorian age from Lytton Strachey to Mary Poovey.</p>
+                        imagination and together contribute to figuring her as the <rs
+                            corresp="narrative_rhetoric" ana="trope_light_into_darkness">“Lady with
+                            the Lamp”</rs>—an archetypal image for the ministering woman which
+                        presenters also used in depictions of Elizabeth Fry’s life. In these
+                        prosopographies, we can rediscover one of the ways that Nightingale's
+                        persona was transmitted as an example for later generations, not least for
+                        skeptical interpreters of the Victorian age from <name>Lytton
+                            Strachey</name> to <name>Mary Poovey</name>.</p>
 
                     <p>Here, excerpts from two biographies—Hamilton Wright Mabie and Kate Stephens's
                             <hi rend="italics">Heroines That Every Child Should Know</hi> and Rosa
@@ -5437,11 +5439,13 @@
                     <p rend="block">
                         <title type="episode">Episode 3: Vocation</title>
                         <title type="section"><milestone unit="subject" corresp="life_events"
-                                ana="vocation"/>The Crimean War was the first field of action for
-                            Florence as a professional nurse. As the war waged on through the winter
-                            of 1854-1855, fighting on the battlefield as well as inadequate medical
-                            support threatened the lives of England's soldiers. Florence volunteers
-                            for service.</title>
+                                ana="vocation"/>The Crimean War was Florence's most famous field of
+                            action and her work as a professional nurse during this period made her
+                            a public sensation. As the war waged on through the winter of 1854-1855,
+                            fighting on the battlefield as well as inadequate medical support
+                            threatened the lives of England's soldiers. Florence's readiness to
+                            commit herself to service even before "the call came" is evidenced by
+                            Mabie and Carey with the same providential happenstance:</title>
                         <title type="author">Mabie</title>
                     </p>
                     <p rend="block">In 1854 a war broke out between England and Russia. It is known
