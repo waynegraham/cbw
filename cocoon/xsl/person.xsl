@@ -240,11 +240,17 @@
 	</xsl:template>
 	
 	<xsl:template match="lg">
-		<div class="verse-group">
+		<span class="verse-group">
 		<xsl:for-each select="l">
-			<div class="verse-line"><xsl:value-of select="."/></div>
+			<span class="verse-line"><xsl:value-of select="."/></span>
 		</xsl:for-each>
-		</div>
+		</span>
+	</xsl:template>
+	
+	<xsl:template match="title">
+		<span class="subtitle {@type}">
+			<xsl:apply-templates />
+		</span>
 	</xsl:template>
 	
 	<!--this choose statement is for highlight typography-->
