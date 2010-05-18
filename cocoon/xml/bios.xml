@@ -6636,24 +6636,25 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label ana="birth">Birth</label>
-                            <date>1537</date> Father is Duke of Suffolk, mother is royal descendant </item>
-                        <item>
-                            <label>Talent</label> Writing; languages; music
+                            <label ana="birth">Birth</label> Father is Duke of Suffolk, mother is 
+                            royal descendant <date>1537</date>
                         </item>
                         <item>
-                            <label>Vocation</label> 10 July, proclaimed Queen; 19 July, proclamation
-                            revoked <date>1553</date>
+                            <label ana="talent">Talent</label> Writing; languages; music
                         </item>
                         <item>
-                            <label>Ordeal</label> Imprisoned in Tower of London by Queen Mary I
-                                <date>1553</date>
+                            <label ana="vocation">Vocation</label> 10 July, proclaimed Queen; 19 
+                            July, proclamation revoked <date>1553</date>
                         </item>
                         <item>
-                            <label>Religion</label> Protestant; Wyatt's Rebellion precipitated her
-                            execution</item>
+                            <label ana="ordeal">Ordeal</label> Imprisoned in Tower of London by 
+                            Queen Mary I <date>1553</date>
+                        </item>
                         <item>
-                            <label>Death</label> Execution, Tower of London <date>1554</date>
+                            <label ana="religion">Religion</label> Protestant; Wyatt's Rebellion 
+                            precipitated her execution</item>
+                        <item>
+                            <label ana="death">Death</label> Execution, Tower of London <date>1554</date>
                         </item>
                     </list>
                 </div2>
@@ -6668,7 +6669,7 @@
                     </head>
                     <p>Jane was the eldest daughter of Henry Grey, third Marquis of Dorset, and 
                         of Frances, daughter of Charles Brandon, Duke of Suffolk.  Her date of birth 
-                        is not known precisely, but it is believed by most to be sometime in the 
+                        is not known precisely, but it is now believed to be sometime in the 
                         year 1536, at her father's stately mansion of Bradgate, near Leicester.  
                         Her father provided her with 
                         two learned tutors in his two chaplains, Thomas Harding and John Aylmer. 
@@ -6733,8 +6734,8 @@
                         pleasures in very deed be but trifles and troubles unto me."</p>
                         
                         <p>A passage from Roger Ascham’s “Schoolmaster,” describing his visit to Bradgate 
-                        in the summer of 1550, gives us a colorful rendition of Lady Jane Grey at the 
-                        age of about 14.  Upon arriving at the house, he had found everyone out hunting
+                        in the summer of 1550, gives us a colorful rendition of Lady Jane Grey at about 
+                        14 years of age.  Upon arriving at the house, he had found everyone out hunting
                         —except for the young Jane, who was “calmly studying the pages of Plato’s immortal 
                         ‘Phaedon’ in the original Greek.”  When, surprised, he asks why she had not gone 
                         along with the others, she responds:</p>
@@ -6843,7 +6844,7 @@
                         <l><hi rend="italics">Endless all malice, if our God is nigh:</hi></l> 
                         <l><hi rend="italics">Fruitless all pains, if He His help deny,</hi></l> 
                         <l><hi rend="italics">Patient I pass these gloomy hours away,</hi></l> 
-                        <l><hi rend="italics">And wait the morning of eternal day."</hi></l>
+                        <l><hi rend="italics">And wait the morning of eternal day.</hi></l>
                         
                         </lg>
                         
