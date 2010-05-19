@@ -5729,18 +5729,36 @@
                             tribute to Florence—excerpts of which are included in both Mabie and
                             Carey: </title>
                     </p>
-                    <lg>
-                        <l>Lo! in that house of misery</l>
-                        <l>A lady with a lamp I see</l>
-                        <l>Pass through the glimmering gloom</l>
-                        <l>And flit from room to room.</l>
-                    </lg>
 
                     <lg>
-                        <l>A Lady with a Lamp shall stand,</l>
-                        <l>In the great history of the land,</l>
-                        <l>A noble type of good,</l>
-                        <l>Heroic womanhood.</l>
+                        <l>
+                            <title type="section">Lo! in that house of misery</title>
+                        </l>
+                        <l>
+                            <title type="section">A lady with a lamp I see</title>
+                        </l>
+                        <l>
+                            <title type="section">Pass through the glimmering gloom</title>
+                        </l>
+                        <l>
+                            <title type="section">And flit from room to room.</title>
+                        </l>
+                    </lg>
+                    <p/>
+
+                    <lg>
+                        <l>
+                            <title type="section">A Lady with a Lamp shall stand,</title>
+                        </l>
+                        <l>
+                            <title type="section">In the great history of the land,</title>
+                        </l>
+                        <l>
+                            <title type="section">A noble type of good,</title>
+                        </l>
+                        <l>
+                            <title type="section">Heroic womanhood.</title>
+                        </l>
                     </lg>
 
                     <p>
@@ -5788,28 +5806,7 @@
                                 content."</seg>
                         </rs>
                     </p>
-                    <p rend="block">(*Mabie includes entire poem) Henry Wadsworth Longfellow, “Santa
-                        Filomena”:</p>
-                    <lg>
-                        <l>When e'er a noble deed is wrought,</l>
-                        <l>When e'er is spoken a noble thought,</l>
-                        <l>Our hearts in glad surprise,</l>
-                        <l>To higher levels rise. (Verse 1)</l>
-                    </lg>
-                    <lg>
-                        <l>Lo! in that house of misery</l>
-                        <l>A lady with a lamp I see</l>
-                        <l>Pass through the glimmering gloom</l>
-                        <l>And flit from room to room.</l>
-                    </lg>
-                    <lg>
-                        <l>A Lady with a Lamp shall stand,</l>
-                        <l>In the great history of the land,</l>
-                        <l>A noble type of good,</l>
-                        <l>Heroic womanhood.</l>
-                    </lg>
-                    <p>Like the presenters of prospograhy, Longfellow's use of the trope contributes
-                        to defining the Victorian ideal for "womanhood."</p>
+
                     <p rend="block">
                         <title type="author">Carey</title>
                     </p>
@@ -5836,15 +5833,7 @@
                         in every English heart. In our generation there is no more noble example
                         than that of our dear <name corresp="FLORENCE_NIGHTINGALE">Lady of the
                             Lamp,</name> "the Queen of Nurses, and the Soldiers' Friend."</p>
-                    <p rend="block">(*Carey uses poem for one of the chapter titles, and
-                        specifically the verses with lamp image) CHAPTER I: "THE LADY WITH THE
-                        LAMP":</p>
-                    <lg>
-                        <l>A Lady with a Lamp shall stand</l>
-                        <l>In the great history of the land,</l>
-                        <l>A noble type of good,</l>
-                        <l>Heroic womanhood.</l>
-                    </lg>
+
                     <p rend="block">
                         <title type="episode">Episode 6: Appearance</title>
                         <title type="section"><milestone unit="subject" corresp="narrative_rhetoric"
