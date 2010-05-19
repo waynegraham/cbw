@@ -6725,7 +6725,7 @@
                     <list>
                         <item>
                             <label ana="birth">Birth</label> Father is Duke of Suffolk, mother is
-                            royal descendant <date>1537</date>
+                            royal descendant <date>1536</date>
                         </item>
                         <item>
                             <label ana="talent">Talent</label> Writing; languages; music </item>
@@ -6750,27 +6750,35 @@
                     <docAuthor>Michael Chambers</docAuthor>
                     <docDate>May 17, 2010</docDate>
                     <head>
-                        <title>Lady Jane Grey: An Endearing Portrait</title>
+                        <title>"The Nine Days' Queen": An Endearing Portrait</title>
                         <bibl>Biographical information and all quoted material are taken from
                             Hamilton Wright Mabie and Kate Stephens, Heroines Every Child Should
                             Know (1908).</bibl>
                     </head>
-                    <p>Jane was the eldest daughter of Henry Grey, third Marquis of Dorset, and of
+                    <p><milestone unit="subject" corresp="life_events" ana="birth"/>Jane was the 
+                        eldest daughter of Henry Grey, third Marquis of Dorset, and of
                         Frances, daughter of Charles Brandon, Duke of Suffolk. Her date of birth is
                         not known precisely, but it is now believed to be sometime in the year 1536,
-                        at her father's stately mansion of Bradgate, near Leicester. Her father
+                        at her father's stately mansion of <rs corresp="places" ana="home">Bradgate
+                        </rs>, near Leicester. Her father
                         provided her with two learned tutors in his two chaplains, Thomas Harding
-                        and John Aylmer. The majority of her charge being given to Aylmer, Lady Jane
+                        and John Aylmer. The majority of her charge being given to Aylmer, 
+                        <milestone unit="subject" corresp="life_events" ana="talent"/>Lady Jane
                         soon gained a thorough acquaintance with Latin and Greek, and also some
-                        degree of proficiency in Hebrew, Arabic, Chaldaic, French and Italian. These
+                        degree of proficiency in Hebrew, Arabic, Chaldaic, French and Italian. 
+                        <milestone unit="subject" corresp="life_events" ana="religion"/>These
                         tutors also served as her religious instructors, and Jane became a devout
-                        Protestant. In addition to her incredible linguistic achievements, she
+                        Protestant. In addition to her incredible linguistic achievements, 
+                        <milestone unit="subject" corresp="life_events" ana="talent"/>she
                         possessed wonderful musical and vocal talents; excelled in needlework and
                         embroidery; was skilled in the culinary arts; and was gifted in calligraphy.
                         At an early age, then, she stood out amongst her peers.</p>
 
-                    <p>In 1546, After King Henry VIII’s death, Jane was sent to live as a ward of
-                        the widowed Queen Catherine Parr; and when she married Lord Thomas Seymour
+                    <p>In 1546, After <rs corresp="history" ana="leader">King Henry VIII</rs>’s 
+                        death, Jane was sent to live as a ward of
+                        the widowed <rs corresp="agents" ana="superior">Queen Catherine Parr</rs>; 
+                        and when she married <rs corresp="agents" ana="superior">Lord Thomas Seymour
+                        </rs>
                         of Dudley, Jane accompanied them to Hanworth in Middlesex, the palace which
                         Henry VIII had bestowed upon Catherine as dowry. The Queen died not long
                         afterwards, in 1548; and at her funeral it was Lady Jane who acted as chief
@@ -6782,7 +6790,8 @@
                     </p>
 
                     <p rend="block">
-                        <hi rend="italics">My duty to your lordship, in most humble wise remembered,
+                        <hi rend="italics"><rs corresp="narrative_elements" ana="quotation_letter">
+                            My duty to your lordship, in most humble wise remembered,
                             with no less thanks for the gentle letters which I received from you.
                             Thinking myself so much bound to your lordship for your great goodness
                             towards me from time to time, that I cannot by any means be able to
@@ -6794,7 +6803,7 @@
                             ready to obey your godly monitions and good instructions, as becometh
                             one upon whom you have heaped so many benefits. And thus, fearing lest I
                             should trouble your lordship too much, I must humbly take my leave of
-                            your good lordship.</hi>
+                            your good lordship.</rs></hi>
                     </p>
 
                     <p rend="block">
@@ -6805,9 +6814,10 @@
                         <hi rend="italics">Jane Grey.</hi>
                     </p>
 
-                    <p>Jane’s time spent at Dudley Castle with the Queen Consort and her husband
-                        Lord Thomas Seymour comprised, it seems, some of the happiest moments of her
-                        life. Mabie and Stephens write:</p>
+                    <p><rs corresp="narrative_elements" ana="episode">Jane’s time spent at 
+                        Dudley Castle with the Queen Consort and her husband
+                        Lord Thomas Seymour comprised, it seems, some of the happiest moments 
+                        of her life.</rs> Mabie and Stephens write:</p>
 
                     <p rend="block">Her parents acted upon the maxim that to spare the rod is to
                         spoil the child; and notwithstanding her amiability and honourable
@@ -6822,28 +6832,34 @@
                     <p rend="block">In the pages of the wise she met with divine words of
                         encouragement and consolation; they soothed her sorrows, they taught her the
                         heroism of endurance, they lifted her into that serene realm where dwelt the
-                        Immortals—the glorious minds of old. "Thus," says she, "my book hath been so
+                        Immortals—the glorious minds of old. <rs corresp="narrative_elements" 
+                            ana="speech_subject">"Thus," says she, "my book hath been so
                         much my pleasure, and bringeth daily to me more and more pleasure, that in
                         respect of it all other pleasures in very deed be but trifles and troubles
-                        unto me."</p>
+                        unto me."</rs></p>
 
-                    <p>A passage from Roger Ascham’s “Schoolmaster,” describing his visit to
+                    <p><rs corresp="narrative_elements" ana="episode">A passage from 
+                        <rs corresp="agents" ana="superior">Roger Ascham</rs>’s 
+                        “Schoolmaster,” describing his visit to
                         Bradgate in the summer of 1550, gives us a colorful rendition of Lady Jane
                         Grey at about 14 years of age. Upon arriving at the house, he had found
                         everyone out hunting —except for the young Jane, who was “calmly studying
                         the pages of Plato’s immortal ‘Phaedon’ in the original Greek.” When,
                         surprised, he asks why she had not gone along with the others, she
-                        responds:</p>
+                        responds:</rs></p>
 
-                    <p rend="block">"I wis," she replied, smiling, "all their sport in the park is
+                    <p rend="block"><rs corresp="narrative_elements" ana="speech_subject">
+                        "I wis," she replied, smiling, "all their sport in the park is
                         but a shadow to that pleasure that I find in Plato. Alas! good folk, they
-                        never felt what true pleasure meant."</p>
+                        never felt what true pleasure meant."</rs></p>
 
-                    <p rend="block">"And how came you, madam," quoth he, "to this deep knowledge of
+                    <p rend="block"><rs corresp="narrative_elements" ana="speech_others">"And how 
+                        came you, madam," quoth he, "to this deep knowledge of
                         pleasure? And what did chiefly allure you unto it, seeing not many women,
-                        but very few men, have attained thereunto?"</p>
+                        but very few men, have attained thereunto?"</rs></p>
 
-                    <p rend="block">"I will tell you," quoth she, "and tell you a truth which,
+                    <p rend="block"><rs corresp="narrative_elements" ana="speech_subject">"I will 
+                        tell you," quoth she, "and tell you a truth which,
                         perchance, ye will marvel at. One of the greatest benefits that ever God
                         gave me is that He sent me so sharp and severe parents and so gentle a
                         schoolmaster. For when I am in presence either of father or mother, whether
@@ -6857,26 +6873,30 @@
                         so gently, so pleasantly, with such fair allurements to learning, that I
                         think all the time nothing whiles I am with him. And when I am called from
                         him, I fall on weeping, because, whatever I do else but learning is full of
-                        grief, trouble, fear and whole misliking unto me."</p>
+                        grief, trouble, fear and whole misliking unto me."</rs></p>
 
                     <p rend="block">Ascham did not see her again after this memorable interview. "I
                         remember this talk gladly," he wrote, "both because it is so worthy of
                         memory and because also it was the last talk that ever I had and the last
                         time that ever I saw that noble and worthy lady."</p>
 
-                    <p rend="block">In his letters to his learned friends, however, he frequently
+                    <p rend="block"><rs corresp="narrative_rhetoric" ana="example">In his letters 
+                        to his learned friends, however, he frequently
                         commented on the sweetness of her character and the depth of her erudition.
                         He spoke of Lady Mildred Cooke and the Lady Jane Grey as the two most
                         learned women in England; and summed up his praises of the latter in the
                         remark that "however illustrious she was by her fortune and royal
                         extraction, this bore no proportion to the accomplishments of her mind,
-                        adorned with the doctrine of Plato and the eloquence of Demosthenes."</p>
+                        adorned with the doctrine of Plato and the eloquence of Demosthenes."</rs>
+                    </p>
 
                     <p>Her high rank, strong piety, and precociousness caused Lady Jane to have
                         great attention paid to her by leaders of the Reformed Church in England and
                         abroad. Among the principal Reformers to have contact with and influence on
-                        her were Martin Bruce, whom Edward VI had made chair of the divinity at
-                        Cambridge, and Heinrich Bullinger, a Swiss reformer and head of the Zurich
+                        her were <rs corresp="agents" ana="superior">Martin Bruce</rs>, whom Edward 
+                        VI had made chair of the divinity at
+                        Cambridge, and <rs corresp="agents" ana="superior">Heinrich Bullinger</rs>, 
+                        a Swiss reformer and head of the Zurich
                         church.</p>
 
                     <p>In October of 1551, Jane’s father, then Marquis of Dorset, was given the
@@ -6886,27 +6906,33 @@
                         always by a remarkable plainness of apparel.” The biographers give us a
                         further illustration of Jane’s austerity:</p>
 
-                    <p rend="block">On one occasion the Princess Mary presented her with a sumptuous
+                    <p rend="block"><rs corresp="narrative_elements" ana="anecdote">On one occasion the Princess Mary presented her with a sumptuous
                         robe, which she was desired to wear in recognition of the donor's
                         generosity. "Nay," she replied, "that were a shame, to follow my Lady Mary,
                         who leaveth God's word, and leave my Lady Elizabeth who followeth God's
-                        word." A speech which the Lady Mary doubtless remembered.</p>
+                        word." A speech which the Lady Mary doubtless remembered.</rs></p>
 
                     <p>In 1553, as the fifteen-year old Edward VI lay dying, a series of events were
                         engineered to install Lady Jane Grey as heiress to the throne. At the time,
                         Edward’s legitimate successor was his older sister Mary, but her devotion to
                         the Catholic Church caused the Reformers in and around the court much
-                        anxiety. John Dudley, the Duke of Northumberland, had aspirations for
-                        raising his son to the throne, and arranged a marriage between Jane and his
-                        son Guilford Dudley. The wedding took place in June at Northumberland’s
+                        anxiety. <rs corresp="genre_conventions" ana="discriminated_event"><name>
+                            John Dudley, the Duke of Northumberland</name>, had aspirations for
+                            raising his son to the throne, and arranged a marriage between Jane and his
+                        son <rs corresp="agents" ana="husband">Guilford Dudley</rs>. The wedding took 
+                            place in June at Northumberland’s
                         palace in the Strand, and the Duke then persuaded Edward to exclude his two
                         sisters Mary and Elizabeth from the throne via letters patent—and thus Jane
-                        became next in line for the crown.</p>
+                        became next in line for the crown.</rs></p>
 
-                    <p>A few days afterwards the young Edward died, and on the 9th of July she was
+                    <p>A few days afterwards the young Edward died, and 
+                        <milestone unit="subject" corresp="life_events" ana="vocation"/>on the 9th 
+                        of July she was
                         asked to assume the throne. Her acceptance is recorded in her own words:</p>
 
-                    <p rend="block">"How I was beside myself, stupefied and troubled, I will leave
+                    <p rend="block"><rs corresp="narrative_elements" ana="speech_subject">
+                        <rs corresp="narrative_rhetoric" ana="topos_affect">"How I 
+                        was beside myself, stupefied and troubled, I will leave
                         it to those lords who were present to testify, who saw me overcome by sudden
                         and unexpected grief, fall on the ground, weeping very bitterly; and then
                         declaring to them my insufficiency, I greatly bewailed myself for the death
@@ -6914,17 +6940,21 @@
                         praying and beseeching Him that if what was given to me was rightly and
                         lawfully mine, His divine Majesty would grant me such grace and spirit that
                         I might govern it to His glory and service and to the advantage of this
-                        realm."</p>
+                        realm."</rs></rs></p>
 
                     <p>But the reign of Queen Jane Grey would be short-lived. On the 19th of July,
-                        Edward’s sister Mary, who had previously been heiress to the throne, rode
-                        into London with a large number of supporters. Her claim to the throne was
+                        Edward’s sister <rs corresp="agents" ana="female_peer">Mary</rs>, who had 
+                        previously been heiress to the throne, rode
+                        into London with a large number of supporters. 
+                        <milestone unit="subject" corresp="life_events" ana="ordeal"/>
+                        <rs corresp="genre_conventions" ana="adversity">Her claim 
+                        to the throne was
                         revoked, and, having been tried and found guilty of high treason, Mary
-                        imprisoned both her and her husband in the Tower of London.</p>
+                        imprisoned both her and her husband in the Tower of London.</rs></p>
 
-                    <p>While being held captive in the Tower, she engraved on the walls of her
+                    <p><rs corresp="narrative_elements" ana="quotation_writing_by_subject">While being held captive in the Tower, she engraved on the walls of her
                         prison--with a pin--the following text in Latin, translated by Mabie and
-                        Stephens:</p>
+                        Stephens:</rs></p>
 
                     <lg>
 
@@ -6961,13 +6991,14 @@
                         and subdues the exhortations of a dying saint":</p>
 
                     <p rend="block">
-                        <hi rend="italics">The Lord comfort Your Grace, and that in His Word,
+                        <hi rend="italics"><rs corresp="narrative_elements" ana="quotation_letter">
+                            The Lord comfort Your Grace, and that in His Word,
                             wherein all creatures only are to be comforted; and though it hath
                             pleased God to take away two of your children, yet think not, I most
                             humbly beseech Your Grace, that you have lost them; but trust that we,
                             by leaving this mortal life, have won an immortal life. And I, for my
                             part, as I have honoured Your Grace in this life, will pray for you in
-                            another life.—Your Grace's humble daughter,</hi>
+                            another life.—Your Grace's humble daughter,</rs></hi>
                     </p>
 
                     <p rend="block">
@@ -6977,7 +7008,8 @@
                     <p>Mabie and Stephens give an endearing account of Lady Jane Grey’s final hours—
                         an anecdote worth reprinting and with which we end.</p>
 
-                    <p rend="block">Mary and her advisers had originally intended that both Lady
+                    <p rend="block"><milestone unit="subject" corresp="life_events" ana="death"/>
+                        Mary and her advisers had originally intended that both Lady
                         Jane and her husband should be executed together on Tower Hill; but
                         reflection convinced them that the spectacle of so comely and youthful a
                         pair suffering for what was rather the crime of others than their own, might
@@ -7009,7 +7041,8 @@
                         fear or grief could be perceived either in her speech or motions; she was
                         like one going to be united to her heart's best and longest beloved."</p>
 
-                    <p rend="block">So, like a martyr, crowned with glory, she went unto her death.
+                    <p rend="block"><rs corresp="subject_type" ana="heroine_of_religion">
+                        So, like a martyr, crowned with glory, she went unto her death.</rs>
                         Her serene composure was scarcely shaken when, through an unfortunate
                         misunderstanding of the officer in command, she met on her way her husband's
                         headless trunk being borne to its last resting-place.</p>
@@ -7017,15 +7050,17 @@
                     <p rend="block">"Oh Guilford! Guilford!" she exclaimed; "the ante-past is not so
                         bitter that you have tasted, and that I shall soon taste, as to make my
                         flesh tremble; it is nothing compared to the feast that you and I shall this
-                        day partake of in heaven." This thought renewed her strength and sustained
+                        day partake of in heaven." <rs corresp="genre_conventions" ana="triumph">This 
+                            thought renewed her strength and sustained
                         and consoled, we might almost believe, by ministering angels, she proceeded
                         to the scaffold with as much grace and dignity as if it were a wedding
-                        banquet that awaited her.</p>
+                        banquet that awaited her.</rs></p>
 
                     <p rend="block">She was conducted by Sir John Brydges, the Lieutenant of the
                         Tower, and attended by her two waiting-women, Mrs. Elizabeth Tylney and Mrs.
-                        Ellen. While these wept and sobbed bitterly, her eyes were dry, and her
-                        countenance shone with the light of a sure and certain hope. She read
+                        Ellen. While these wept and sobbed bitterly, her eyes were dry, and 
+                        <rs corresp="narrative_rhetoric" ana="trope_light">her
+                        countenance shone with the light of a sure and certain hope.</rs> She read
                         earnestly her manual of prayers. On reaching the place of execution she
                         saluted the lords and gentlemen present with unshaken composure and infinite
                         grace. No minister of her own Church had been allowed to attend her, and she
@@ -7040,7 +7075,8 @@
                     <p rend="block">To the spectators she addressed a few gentle words, in admirable
                         keeping with the gentle tenor of her life.</p>
 
-                    <p rend="block">"Good people," she exclaimed, "I am come hither to die, and by
+                    <p rend="block"><rs corresp="narrative_elements" ana="speech_subject">"Good 
+                        people," she exclaimed, "I am come hither to die, and by
                         law I am condemned to the same. My offence to the Queen's Highness was only
                         in consent to the device of others, which now is deemed treason; but it was
                         never my seeking, but by counsel of those who should seem to have further
@@ -7053,7 +7089,7 @@
                         or punishment is happily and worthily happened unto me for my sins; and yet
                         I thank God of His goodness, that He hath thus given me a time and respite
                         to repent. And now, good people, while I am alive, I pray you to assist me
-                        with your prayers."</p>
+                        with your prayers."</rs></p>
 
                     <p rend="block">She knelt to her devotions, and turning to Feckenham, inquired
                         whether she should repeat the Miserere psalm (the fifty-first, "Have mercy
@@ -7093,23 +7129,27 @@
                         involuntary groan from the assembled multitude seemed to acknowledge that
                         vengeance had been satisfied, but justice outraged.</p>
 
-                    <p rend="block">Lady Jane—or Queen Jane, as she should more properly be called
+                    <p rend="block"><rs corresp="narrative_rhetoric" ana="prophecy">Lady Jane—or 
+                        Queen Jane, as she should more properly be called
                         —was little more than seventeen years old when she thus fell a victim to
                         Mary's jealous fears and hate. She had hardly entered upon womanhood, and
                         the promise of her young life had had no time to ripen into fruition. We may
                         well believe, however, that she would not have disappointed the hopes which
-                        that promise had awakened. Her heroic death showed how well she had profited
-                        by the lessons she had imbibed in her early years.</p>
+                        that promise had awakened.</rs> <rs corresp="narrative_rhetoric" ana="moral">
+                            Her heroic death showed how well she had profited
+                        by the lessons she had imbibed in her early years.</rs></p>
 
                     <p rend="block">There was no affectation, no exaggeration, in her conduct upon
                         the scaffold; but she bore herself with serene dignity and with true
-                        courage. It was worthy of her life—which, brief as an unhappy fortune made
+                        courage. It was worthy of her life—which, brief as 
+                        <rs corresp="agents" ana="fate_or_design">an unhappy fortune</rs> made
                         it, was full of beauty, full of calmness, and truth, and elevation and
-                        modest piety. The impression which it made upon her contemporaries, an
+                        modest piety. <rs corresp="narrative_rhetoric" ana="topos_influence">
+                            The impression which it made upon her contemporaries, an
                         impression taken up and retained by posterity, is visible in the fact to
                         this hour we speak of her as she was in her sweet simple maidenhood—we pass
                         over her married name and her regal title, and love to honour her, not as
-                        Lady Jane Dudley, or Queen Jane, but as Lady Jane Grey.</p>
+                        Lady Jane Dudley, or Queen Jane, but as Lady Jane Grey.</rs></p>
                 </div2>
             </div1>
             <div1 id="HANNAH_MORE" ana="phil_reform">
