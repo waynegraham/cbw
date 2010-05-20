@@ -5734,35 +5734,19 @@
                             Carey: </title>
                     </p>
 
-                    <lg>
-                        <l>
-                            <title type="section">Lo! in that house of misery</title>
-                        </l>
-                        <l>
-                            <title type="section">A lady with a lamp I see</title>
-                        </l>
-                        <l>
-                            <title type="section">Pass through the glimmering gloom</title>
-                        </l>
-                        <l>
-                            <title type="section">And flit from room to room.</title>
-                        </l>
+                    <lg type="section">
+                        <l> Lo! in that house of misery </l>
+                        <l> A lady with a lamp I see </l>
+                        <l> Pass through the glimmering gloom </l>
+                        <l> And flit from room to room. </l>
                     </lg>
                     <p/>
 
-                    <lg>
-                        <l>
-                            <title type="section">A Lady with a Lamp shall stand,</title>
-                        </l>
-                        <l>
-                            <title type="section">In the great history of the land,</title>
-                        </l>
-                        <l>
-                            <title type="section">A noble type of good,</title>
-                        </l>
-                        <l>
-                            <title type="section">Heroic womanhood.</title>
-                        </l>
+                    <lg type="section">
+                        <l> A Lady with a Lamp shall stand, </l>
+                        <l> In the great history of the land, </l>
+                        <l> A noble type of good, </l>
+                        <l> Heroic womanhood. </l>
                     </lg>
 
                     <p>
