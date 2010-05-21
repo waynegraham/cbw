@@ -240,7 +240,7 @@
 	</xsl:template>
 	
 	<xsl:template match="lg">
-		<span class="verse-group">
+		<span class="verse-group {@type}">
 		<xsl:for-each select="l">
 			<span class="verse-line"><xsl:value-of select="."/></span>
 		</xsl:for-each>
