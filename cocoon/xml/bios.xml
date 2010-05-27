@@ -5694,20 +5694,28 @@
                     </p>
                     <p>
                         <title type="section"><milestone unit="subject" corresp="narrative_rhetoric"
-                                ana="trope_light_into_darkness"/>Another topos element repeated in
-                            biographies which demonstrates Florence's dedication to her patients is
-                            a description of her making rounds in the hospital at Scutari. By habit,
-                            she walked the corridors late into the night, lighting her way and
-                            signaling her reassuring presence with a lamp. The topos event—included
-                            as a part of her life-story by Mabie as well as Carey—is familarized for
-                            Victorian readers with a conventional trope: the ministering angel on a
-                            quest to bear the light of hope into darkness. The troping of female
-                            vocation as the bearing of a beacon is a rhetorical device used across
-                            many genres in the nineteenth-century, contributing to the fullness of a
-                            narrative pastiche which transforms living women into cultural lengend.
-                            Henry Wadsworth Longfellow applies the same rhetoric in verse form to
-                            present Florence as a luminous subject—excerpts of the poem he wrote for
-                            her appear in both Mabie and Carey: </title>
+                                ana="topos_mission"/><milestone unit="subject"
+                                corresp="narrative_rhetoric" ana="trope_light_into_darkness"
+                            />Another topos element that presenters repeat to demonstrate Florence's
+                            heroic dedication is a description of her making rounds among the
+                            wounded soldiers under her care at Scutari. As a practice, she walked
+                            the hospital corridors late into the night, lighting the way with a lamp
+                            which also signaled her reassuring presence to the many suffering
+                            patients. Mabie and Carey rely upon the same source material for an
+                            account of Florence's nocturnal habit, reproducing the episode as a
+                            topos event which represents her mission of service. This topos of
+                            mission, duplicated across several sketches of her life's work,
+                            narratively goes hand-in-hand with a trope: the ministering angel on a
+                            quest to bear the light of hope into darkness. The socially-constructed
+                            rhetoric of female vocation as the bearing of a beacon mythologized
+                            Victorian women's public service. We find the light-into-darkness trope
+                            in multiple biographies about one subject also being applied to link
+                            several subjects within one collected biography. In fact, this trope
+                            appears across many genres in the nineteenth-century, contributing to the fullness of a narrative
+                            pastiche which transforms living women into cultural lengend. Henry
+                            Wadsworth Longfellow reiterates the rhetoric in verse form to present
+                            Florence as a luminous subject—excerpts of the poem he wrote for her
+                            appear in both Mabie and Carey: </title>
                     </p>
                     <lg type="section">
                         <l> Lo! in that house of misery </l>
@@ -5727,9 +5735,9 @@
                             of the light-into-darkness trope contributes to defining the ideal form
                             of "womanhood," which was not the listless and marginalized figure
                             skeptical critics have associated with Victorian femininity. Longfellow
-                            depicts Florence as both ethereal and steadfast; the beacon in a
-                            desolate house and a pillar of social good; a ministering angel
-                            diffusing her energy in service to others even as she reifies her
+                            depicts Florence as both ethereal and steadfast; the comforting beacon
+                            in a desolate house as well as a pillar of social good; a ministering
+                            angel diffusing her energy in service to others even as she reifies her
                             legendary self.</title>
                     </p>
                     <p>
@@ -5908,11 +5916,12 @@
                         Nightingale Home," and has a reputation worthy of its founder. </p>
                     <p>Notes</p>
                     <note n="1" id="FLORENCE_NIGHTINGALE_NOTE_1">Henry Wadsworth Longfellow, "Santa
-                        Filomena" (1857). Mabie transcribes the entire poem at the end of Florence's
-                        biography and notes: "Longfellow gave the name Filomena (saint of the sick
-                        and maimed) to Florence Nightingale partly because of her labours. . . at
-                        Scutari, and partly on account of the resemblance between Filomena and the
-                        Latin Philomela (nightingale)."—-Brewer. </note>
+                        Filomena" (1857). In <hi rend="italics">Heroines That Every Child Should
+                            Know</hi>, the entire poem appears at the end of Florence's short
+                        biography, along with the following note: "Longfellow gave the name Filomena
+                        (saint of the sick and maimed) to Florence Nightingale partly because of her
+                        labours. . . at Scutari, and partly on account of the resemblance between
+                        Filomena and the Latin Philomela (nightingale)."—-Brewer. </note>
                     <p>Condensed Works</p>
                     <note>Carey, Rosa Nouchette. <hi rend="italics">Twelve Notable Good Women of the
                             XIX Century.</hi> London: Hutchinson, 1899.</note>
