@@ -183,7 +183,7 @@
 						<xsl:value-of select="date"/>
 					</dt>
 					<dd>
-						<span class="ms-desc"><xsl:apply-templates select="text()"/></span>
+						<span class="ms-desc"><xsl:apply-templates select="."/></span>
 					</dd>
 				</div>
 			</xsl:for-each>
@@ -251,6 +251,10 @@
 		<span class="subtitle {@type}">
 			<xsl:apply-templates />
 		</span>
+	</xsl:template>
+	
+	<xsl:template match="div2[@type='milestones']//date">
+		
 	</xsl:template>
 	
 	<!--this choose statement is for highlight typography-->
