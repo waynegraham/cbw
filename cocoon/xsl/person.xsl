@@ -183,7 +183,7 @@
 						<xsl:value-of select="date"/>
 					</dt>
 					<dd>
-						<span class="ms-desc"><xsl:apply-templates select="."/></span>
+						<span class="ms-desc"><xsl:apply-templates select="text()"/></span>
 					</dd>
 				</div>
 			</xsl:for-each>

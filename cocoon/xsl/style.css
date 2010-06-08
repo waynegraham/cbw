@@ -352,6 +352,8 @@ div.illus {
 p.block {
 	padding-left: 5em;
 	padding-right: 5em;
+	font-size: 13px;
+	font-family: Georgia, "Times New Roman", times, serif;
 }
 p.indent {
 	text-indent: 5em;
@@ -903,3 +905,5 @@ vertical-align:bottom;
    min-width: 200px;
    height: 200px;
 }
+
+.subtitle.author
