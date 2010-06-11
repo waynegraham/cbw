@@ -3567,7 +3567,7 @@
                         publication. She even submitted her poetry to <name>Dickens’</name>
                         publication, Household Words, under the pseudonym “<name>Miss
                         Berwick</name>” (2). Her use of a female name (unlike authors such as
-                            <name>Marian Evans</name> and the <name corresp="CHARLOTTE_Brontë"
+                            <name>Marian Evans</name> and the <name corresp="CHARLOTTE_BRONTE"
                             >Brontë</name> sisters who used masculine pen names) can be seen as an
                         early indication of her later campaigns for women’s rights, becaue she
                         promoted women’s entrance into the male-dominated sphere of publication.
@@ -5711,11 +5711,11 @@
                             Victorian women's public service. We find the light-into-darkness trope
                             in multiple biographies about one subject also being applied to link
                             several subjects within one collected biography. In fact, this trope
-                            appears across many genres in the nineteenth-century, contributing to the fullness of a narrative
-                            pastiche which transforms living women into cultural lengend. Henry
-                            Wadsworth Longfellow reiterates the rhetoric in verse form to present
-                            Florence as a luminous subject—excerpts of the poem he wrote for her
-                            appear in both Mabie and Carey: </title>
+                            appears across many genres in the nineteenth-century, contributing to
+                            the fullness of a narrative pastiche which transforms living women into
+                            cultural lengend. Henry Wadsworth Longfellow reiterates the rhetoric in
+                            verse form to present Florence as a luminous subject—excerpts of the
+                            poem he wrote for her appear in both Mabie and Carey: </title>
                     </p>
                     <lg type="section">
                         <l> Lo! in that house of misery </l>
@@ -5930,7 +5930,7 @@
                         1907.</note>
                 </div2>
             </div1>
-            <div1 id="CHARLOTTE_Brontë" ana="literature">
+            <div1 id="CHARLOTTE_BRONTE" ana="literature">
                 <head>
                     <name type="full">Charlotte Brontë</name>
                     <name type="search">Charlotte Brontë</name>
@@ -6095,16 +6095,18 @@
                     <docDate>May, 2010</docDate>
                     <head>
                         <title>Charlotte Brontë's Life and Afterlife</title>
-                        <bibl>Drawing from Oxford Dictionary of National Biography and Juliet Barker's biography of the Brontë sisters, informed
-                            and guided by Lucasta Miller's "meta-biography," The Brontë Myth.</bibl>
+                        <bibl>Drawing from Oxford Dictionary of National Biography and Juliet
+                            Barker's biography of the Brontë sisters, informed and guided by Lucasta
+                            Miller's "meta-biography," The Brontë Myth.</bibl>
                     </head>
-                    <p><milestone unit="subject" corresp="subject_type" ana="writer"/>Charlotte
-                        Brontë is one of the few writers whose life has assumed as great a presence
-                        in the popular imagination as her works themselves. As Lucasta Miller
-                        observes in her book <hi rend="italics">The Brontë Myth</hi>, a study of the
-                        various afterlives of the Brontë sisters through biography, “the sisters
-                        themselves, plus their entire family, have become mythic figures in their
-                        own right. Since 1857, when Elizabeth Gaskell published her famous <hi
+                    <p><milestone unit="subject" corresp="subject_type" ana="writer"/><name
+                            corresp="CHARLOTTE_BRONTE">Charlotte Brontë</name> is one of the few
+                        writers whose life has assumed as great a presence in the popular
+                        imagination as her works themselves. As Lucasta Miller observes in her book
+                            <hi rend="italics">The Brontë Myth</hi>, a study of the various
+                        afterlives of the Brontë sisters through biography, “the sisters themselves,
+                        plus their entire family, have become mythic figures in their own right.
+                        Since 1857, when <name>Elizabeth Gaskell</name> published her famous <hi
                             rend="italics">Life of Charlotte Brontë</hi>, hardly a year has gone by
                         without some form of biographical material on the Brontës appearing—from
                         articles in newspapers to full-length lives, from images on tea towels to
@@ -7905,7 +7907,7 @@
                     <p>Bio paragraphs.</p>
                 </div2>
             </div1>
-            <div1 id="MADAME_DE_Staël" ana="role_revolution">
+            <div1 id="MADAME_DE_STAEL" ana="role_revolution">
                 <head>
                     <name type="full">Madame de Staël</name>
                     <name type="search">Madame de Staël</name>
@@ -9277,13 +9279,254 @@
                     </list>
                 </div2>
                 <div2 n="1" id="LOV_MADAME_ROLAND_BIO" type="bio">
-                    <docAuthor>Author's name</docAuthor>
-                    <docDate>date</docDate>
+                    <docAuthor>Alison Booth</docAuthor>
+                    <docDate>June, 2010</docDate>
                     <head>
                         <title>Title of article</title>
                         <bibl>Short bibliographic/origin statement</bibl>
                     </head>
-                    <p>Bio paragraphs.</p>
+                    <p>William Russell’s short biography of <name corresp="MADAME_ROLAND">Madame
+                            Roland</name> begins with a nightmare parade of the Terror that followed
+                        the French Revolution, in which Madame Roland stands out as “one white-robed
+                        figure in the doleful procession, with pale, bright, classic face, mantled
+                        with dark silken hair, and illumined by deep blue, transparent eyes, kindled
+                        to indignant flame by the hootings and curses of the multitude” (that is, a
+                        scenario that blends “light into darkness,” the heroine’s appearance, and a
+                        lady’s confrontation of the mob). This heroine’s sacrifice collapses into
+                        that of <name>Marie Antoinette</name>: the image “dwells in the gazer's
+                        memory long after it has disappeared from the scaffold still wet with the
+                        blood of a queen, and been flung, as carrion, into the common <hi
+                            rend="italics">fosse</hi> at Glamart” (R 39). Wilmot-Dixon, too,
+                        interlinks Marie-Jeanne or Manon Philipon Roland and Marie Antoinette, the
+                        subject of his preceding chapter: “life-stories…so unlike…so absolutely
+                        opposed politically, become curiously intermingled…and in the end are merged
+                        into the same common fate” (WD 137). The horrors of the Revolution stain the
+                        image of Madame Roland’s heroism, as they curdle Russell’s prose: her “clear
+                        conscience” largely seems to shine in “an atmosphere of light and purity”
+                        because of the “the contrastive foil afforded by [her] grimed, blood-spotted
+                        companions”; her “courage, energy, devotion” and “cruel and untimely
+                        death…excite the unbounded sympathy and compassion of all” who consider that
+                        she was led astray by “sinister influences surrounding her youth, and the
+                        false lights” that she later followed into “an impassable abyss”(R
+                        39-40).</p>
+                    <p>Both narratives soon open a paragraph with the heroine’s birth in March, 1754
+                        (“a year after Marie Antoinette” WB 137), in Paris, daughter of an engraver.
+                        For Russell, the young girl represents a lesson in ideology, a tug-of-war
+                        between her mother’s Christianity and her father’s “gospel according to
+                        Voltaire and Rousseau.” The father, “Gratien Philipon,…held the idea of God
+                        to be an illusion; Church and State confederate despotisms, cemented by
+                        force and hypocrisy; the unequal distribution of wealth a crime against
+                        humanity…” Both Russell and Wilmot-Buxton appear to regard the father’s bad
+                        character as the root cause of the subject’s suffering heroism: “the alchemy
+                        of a morose and envious spirit” turned all circumstances into “witnesses
+                        against the providence of God and the justice of man” for this bad father (R
+                        40): M Philipon’s resentment of social inequality combined with greed,
+                        intemperance, and speculation led to poverty. His beautiful and intelligent
+                        daughter, the only surviving child of eight, had no future without “rank and
+                        wealth” (R 40-1). Like many a hypocritical politician, M Philipon was a
+                        domestic despot who wasted family resources in “low debauchery” (R 41); only
+                        his wife Margaret Binant, prudent, faithful, beautiful, stayed the family’s
+                        “downward progress” and protected the precocious daughter from evil
+                        influence. Having established the parental characters, Russell turns to the
+                        topic of talent: </p>
+                    <p rend="block">Jeanne Manon's educational progress was singularly rapid. At
+                        four years of age she read perfectly, without clearly remembering, she says,
+                        the process by which that faculty was acquired; and, assisted by competent
+                        instructors, she became, whilst yet the merest girl, sufficiently mistress
+                        of the ordinary accomplishments, as well useful as ornamental, that made up
+                        the education of a carefully-nurtured daughter of a Paris shopkeeper.
+                        Mademoiselle Philipon had a finely-toned, vibrating voice, and was
+                        passionately fond of choral harmony, a power and taste which led to her
+                        constant attendance at church, where the imposing pomp of the Catholic
+                        worship, with its effective accessories of magnificent music, illuminated
+                        altars, gorgeous processions, aided by the constraining example of her
+                        mother's blameless life, gave a strong but ephemeral bias to the as yet
+                        ductile mind of the enthusiastic young maiden. Writing nearly thirty years
+                        afterwards in her prison-cell at Ste. Pelagie, Madame Roland says, "At
+                        eleven I found myself deeply religious; at sixteen I was a philosopher; at
+                        twenty a sceptic.” (R 41-2)</p>
+                    <p>Russell illustrates the bad tone of Catholic practice as well as bohemian
+                        irreverence in society of France at that period. He describes a mock
+                        catechism of the little girl by an artist in her father’s studio, and an
+                        incident when the girl took a translation of Plutarch to church during Lent:
+                        “To her girlish, undisciplined apprehension, the heroes of the classic
+                        biographer were incarnations of the loftiest attributes of humanity; the
+                        despotic democracies which they championed, communities of freemen—model
+                        republics!” This love of classical ideals shows that “this young person”
+                        could not have felt “true reverence” for the far different ethos of “the
+                        religion of humility and compassion, which teaches, in precise opposition to
+                        the Greek and Roman morality, that meekness, not pride—mercy, not
+                        vengeance…” (R 43). Wilmot-Buxton, who places discussion of Manon’s reading
+                        after the episode of illness that we turn to next, regards Plutarch is a
+                        high point of the girl’s avid reading of any books she can get in her hands:
+                        “This book, with its series of noble lives, its vivid pictures of Greece and
+                        Rome, not only opened a new world to the little maiden; it made her a
+                        Republican” (WD 140).</p>
+                    <p>Wilmot-Buxton is less the advocate of Christian moral progress, and cuts
+                        quickly to the anecdote that Russell in due course relates as well: an
+                        illness that defines character. “One of the scenes which the woman of forty,
+                        waiting for death in her wretched cell, remembered most clearly was an early
+                        contest of will between her father and herself” (WD 138). “Whilst her brain
+                        was still throbbing with the fresh enthusiasm kindled by the magic pages of
+                        Plutarch, an illness, requiring to be promptly dealt with, attacked her, and
+                        she was ordered to take some extremely nauseous medicine: she refused to do
+                        so, and twice her father, spite of Madame Philipon's remonstrances, severely
+                        whipped her” (R 43). Wilmot-Dixon presents a scene in which Manon is trying
+                        to swallow the smelly dose when her father flies into a rage at her
+                        “obstinacy” and whips her. When Manon “hardened herself and declared amidst
+                        sobs and tears that she would try no more to swallow it,” the father whipped
+                        her the second time. It was the threat of a third whipping that roused the
+                        Spartan spirit, in both versions: “As the threat left M. Philipon's lips,
+                        the resolution of the imitative Spartan girl was taken; her cries and tears
+                        ceased instantly, and turning towards her father, with a look of calm
+                        disdain, she deliberately repeated her refusal to swallow the medicine,
+                        lifted her clothes with her own hand, and invited him to fulfil his threat!
+                        Madame Philipon now resolutely interposed…” (R 43). Russell’s version ends
+                        in a reconciliation of the nurturing mother and docile six-year-old patient.
+                        Wilmot-Dixon concludes with direct quotation of the common source, Madame
+                        Roland’s own memoir: “’They might have killed me on the spot’…’without my
+                        uttering so much as a sigh; nor will it cost me more to-day to ascend the
+                        guillotine than it did then to yield to a barbarous treatment which might
+                        have but not conquered me” (WD 138).</p>
+                    <p>In both narratives, the father is conquered by this incident; the mother is
+                        allowed to manage the girl’s upbringing: “Madame Philipon's precepts and
+                        example must about this time have obtained a signal ascendancy” (R 44) over
+                        her daughter's mind. In both narratives, Manon becomes a devout Christian,
+                        her vocation confirmed when as her first communion approached in 1764, she
+                        begged to be allowed to enter a convent: she spent a year as a lay boarder
+                        at the “Convent of the Congregation, a building which stood next the prison
+                        in which she was afterwards to be confined” (WD 141). A child given to
+                        religious raptures, she turned her passions in more “natural channels,”
+                        friendships with another girl pupil and a lay nun (WD 142). From the convent
+                        she went, in the following year, to live with her grandmother and aunt. For
+                        Russell, this is from the frying pan into the fire, from torrid saints’
+                        legends to Voltaire and Rousseau, reading “by the aid whereof the Christian
+                        maiden rapidly grew—or ought I to write, shrank?—into a strong-minded <hi
+                            rend="italics">jeune philosophe</hi>, with a strong tendency, helped by
+                        the unquiet spirit of the time, towards ultra-democratic theories of civil
+                        polity” (R 45). Manon recalled taking offense at the patronizing treatment
+                        of grandes dames and the familiarity of servants when she was taken on
+                        visits to great houses. A visit to Versailles “inflamed” her republicanism,
+                        her desire for “freedom and equality”; Russell exclaims: “Error!
+                        Mademoiselle Philipon! Illusion ! <hi rend="italics">jeune philosophe</hi>,
+                        and of a gross and very common-place kind.” Not only were the Romans and
+                        “aristocratic despots,” but someone of her rare talent should never aspire
+                        to be equal to the ordinary crowd (R 46).</p>
+                    <p>Both Russell and Wilmot-Dixon turn to the description of the young
+                        marriageable woman, Russell emphasizing her influence on all who beheld her,
+                        including merchants and suitors. She rejected a prosperous butcher: "What!
+                        shall I, who have lived with Plato ; with all the philosophers, unite myself
+                        with a shopkeeper!" Russell compares various descriptions of Manon’s beauty,
+                        “with considerable diversity of colouring…. Lamartine says she was of tall,
+                        lithe figure, had black silken hair, blue eyes, the nose of a Greek statue,
+                        superb teeth, a beautiful smile, and a melodious voice. The pen-and-ink
+                        sketch drawn by her own hand is a curious specimen of self-painting:—‘I am
+                        five feet five inches in height, have a well-made leg, and my foot is well
+                        set on; my chest is broad and nobly decorated . My carriage is graceful, and
+                        my face has a great deal of colour, with much softness and expression. No
+                        single feature, perhaps, is strictly beautiful, but taken together could not
+                        but please. My mouth is a little wide, you may see a prettier every day, but
+                        not one with a smile more tender and engaging. My eyes are fine and well
+                        opened, and the colour of the iris is hazel; and my look is open, frank,
+                        tender, varying in expression with the emotions of the affectionate heart of
+                        which it indicates the movements, and if, serene and lofty, it sometimes
+                        astonishes, it charms much more. My hair is dark brown; my nose I used to
+                        think too full at the end, but taken with the rest, especially in profile,
+                        it is not amiss’" (R 48). </p>
+                    <p>Manon lost the protection and guidance of her mother, who had held the family
+                        business together. Her father brought his mistress into the home, and Manon
+                        sought some dignity and independence in the convent. Her old friend from
+                        Amiens introduced M. Roland, “a well-descended gentleman of ability,
+                        fortune, and literary tastes, who had long held the important post of
+                        Inspector of Manufactures” (R 49), who impressed Manon with his easy manners
+                        and learning, in spite of his age. Roland proposed marriage, but was
+                        discouraged by M. Philipon’s refusal to give his daughter’s hand to someone
+                        who openly disapproved of M. Philipon’s irregular living arrangement. Manon
+                        was disillusioned and embittered when M. Roland accepted this rejection and
+                        went away, but in due course he returned to the convent and urged Manon to
+                        marry him; the wedding took place in 1780; they had one daughter, Eudora.
+                        “The wedding tour of M. and Madame Roland extended to Switzerland and
+                        England, with which last-named country and its institutions Madame was upon
+                        the whole reasonably satisfied, seeing ‘that in England man at least was
+                        something’" (R 51).</p>
+                    <p>From Roland’s estate in Amiens, and then near Lyons (Russell and
+                        Wilmot-Buxton differ in their accounts of the estate and the political
+                        developments), and in recurrent trips to Paris, Madame Roland participated
+                        in the political changes that led to the Revolution. M. Roland was elected
+                        to the newly revived National Assembly and became Minister of the Interior,
+                        and Madame Roland actively hosted salons and wrote for the Girondists.
+                        Wilmot-Buxton follows closely the stages of the catastrophe, with excerpts
+                        from Madame Roland’s correspondence, detailing her personal conflicts with
+                        Danton—“her <hi rend="italics">bête noir</hi> Danton exclaim[ed], ‘Why not
+                        invite Madame Roland to the Ministry too? Everyone knows that Roland is not
+                        alone in office’”—and Marat—“the envenomed eyes of Marat and his friends
+                        were on her with no friendly gaze,” ready to seize evidence that they were
+                        traitors to the cause against the King (WD 156). </p>
+                    <p>Russell is less interested in the political history, emphasizing rather the
+                        erring heroine’s drama: </p>
+                    <p rend="block">Madame herself was the real minister whose hand traced the
+                        official letters, dispatches, the telling reports and speeches, which her
+                        husband copied and read; albeit Madame herself only modestly claims "to have
+                        infused into her husband's writings that union of gentleness, of reasoning
+                        and sentiment, which only a woman can combine." That troubled and fantastic
+                        dream has passed away; and now, towards the close of 1793, the deputies of
+                        the Gironde, having celebrated their last supper—a profuse banquet,
+                        brilliant with lights and flowers, and enlivened by wine and eloquent
+                        speeches, to be thereafter carefully reported, touching the possibility of
+                        God and Immortality,—have followed Louis to the scaffold; and Madame Roland
+                        herself, who might, like her husband, have escaped the clutch of the
+                        assassins, but disdained to do so, has been arrested, and awaits in St.
+                        Pelagie the purely formal and inevitable decree of death, amusing herself
+                        meanwhile in writing memoirs, and passionate appeals to the Terrorists for
+                        justice in the name—poor prisoned maniac!— of the sacred principles
+                        consecrated by the Revolution! Riouffe and other prisoners were enthusiastic
+                        in their admiration of the unquailing courage of the queenly woman. " Ah,"
+                        sadly replied her female attendant, "you do not know all: before you, Madame
+                        calls up all her courage, but when in her own room, she sometimes stands for
+                        hours together, leaning against the window and weeping bitterly." (R 52)</p>
+                    <p>Wilmot-Buxton’s vivid, detailed account of the events of this period, which
+                        included repeated imprisonment and release of Madame Roland, interconnects
+                        this heroine with the story of Charlotte Corday, whose assassination of
+                        Marat sealed the fate of the imprisoned Girondistes. Russell appears eager
+                        to get to the climax of execution:</p>
+                    <p rend="block">At length, on the 9th November, 1793, Madame Roland stood before
+                        Fouquier Tinville's tribunal; was not, of course, permitted to be heard, and
+                        received sentence, which, upon returning to the prison, she communicated to
+                        her fellow captives by passing her hand sharply across her throat. Early on
+                        the following morning, the still beautiful woman—she was in her thirty-ninth
+                        year only, and the peculiar character of her physiognomy reduced her
+                        apparent age by at least ten years—was bound in a cart, and slowly conveyed
+                        to execution. She was habited in a white muslin robe, her dark abundant
+                        tresses waved freely in the wind, and a smile of haughty scorn curled her
+                        finely-chiseled lips as they murmured, in reply to the hooting crowd who
+                        continued to shout "<hi rend="italics">A la guillotine ! a la
+                            guillotine!</hi>"—"I am going to the guillotine; they who send me there
+                        will soon follow, and you will hoot them also." Lamarche, an old man,
+                        fettered in the same cart, was overwhelmed with terror, which Madame Roland
+                        strove vainly to dispel, and passing a tall column, on the summit of which a
+                        statue of Liberty had been placed, she exclaimed, "0 Liberty, what crimes
+                        are committed in thy name!" Another expression, of much greater significance
+                        and interest, in not so well known:— "Can I have pen and paper?” she said,
+                        addressing the official who received her at the foot of the scaffold ; “I
+                        would, if possible, write down the strange thoughts that are rising in my
+                        mind." The request was brutally refused, and a few moments afterwards Madame
+                        Roland had thought her last on earth!</p>
+                    <p rend="block">The best evidence of the true womanly worth of Madame Roland is
+                        seen in the effect which her execution produced upon the minds of her
+                        husband and servants. M. Roland, as his wife predicted he would, slew
+                        himself a few hours after the intelligence reached him, "finding it
+                        impossible to live in a world where such a crime was permitted." Two
+                        servants, a man and woman, burst, in a paroxysm of grief and rage, into
+                        Fouquier Tinville's hall of doom, and denounced him and his myrmidons to
+                        their faces as villains and murderers. The woman was held to be insane, and
+                        dimwitted; the man's audacious tongue was silenced by the guillotine! (R
+                        53)</p>
+                    <p>Wilmot-Buxton repeats Madame Roland’s last words about liberty. “So died the
+                        heroine of the Revolution, the representative of all that was fin and pure
+                        and good in that great movement towards liberty and the rights of Man.” Her
+                        name is “spoken of with awe and gratitude in the country which owes so much
+                        to her generous devotion, her single-hearted love, her untiring patriotism”
+                        (WD 163).</p>
                 </div2>
             </div1>
             <div1 id="POCAHONTAS" ana="rescue_advent_exhib">
