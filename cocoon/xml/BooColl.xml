@@ -4451,10 +4451,11 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>T. Nelson,</publisher>
-       <date>1877.</date>
+       <date>1877;</date>
        <date>1880;</date>
-       <date>1882.</date>
-       <date>[1911].</date>
+       <date>1882;</date>
+       <date>[1911];</date>
+       <date>1904.</date>
       </imprint>
       <xref targOrder="U" from="ROOT" to="DITTO">Riches.</xref>
       <note type="toc">
@@ -15492,6 +15493,8 @@
        <publisher>Dutton,</publisher>
        <date>1907.</date>
       </imprint>
+      <note>Fyvie also wrote <hi rend="italics">Noble Dames and Notable Men of the Georgian Era</hi> (London: Constable, 1910).  Its subjects include Lady Mary Coke,
+      the Countess of Strathmore, and Elizabeth, Lady Holland.</note>
       <note type="toc">
        <list>
         <item>Lavinia Fenton, Duchess of Bolton (1708-1760)</item>
@@ -24177,6 +24180,39 @@
        <date>1914.</date>
       </imprint>
       <note place="unspecified" anchored="yes">NOT:=literary heroines.</note>
+     </bibl>
+     <bibl id="a558A" default="NO">
+      <ref targOrder="U">558A.</ref>
+      <idno>a558A</idno>
+      <author><name type="last">McNeill</name>, <name type="first">William</name>.</author>
+      <title type="ref"><hi rend="italics">The Noble Women of the Staircase and Atrium Windows in the Lady Chapel of the Liverpool Cathedral</hi>.</title>
+      <imprint>
+       <pubPlace>Liverpool:</pubPlace>
+       <publisher>Daily Post,</publisher>
+       <date>1915.</date>
+      </imprint>
+      <note>A 176-pp. illustrated book about the Noble Women windows installed in the Lady Chapel, the first portion of the cathedral to be completed; a prosopography 
+       funded by the Liverpool Diocesan Girls Friendly Society, designed by J. W. Brown, and installed in 1910.  The windows were damaged in World War II.  
+       This book recalls catalogues of portrait galleries. Val Jackson, Cathedral Archivist, considers the idea of a series of Noble Women to be 
+       "forward-thinking" in 1910 (Liverpool Cathedral, "Lady Chapel Archive Exhibition," http://www.liverpoolcathedral.org.uk/, 16 June 2010),
+       but it was a standard phrase and concept.</note>
+       <note place="unspecified" anchored="yes">
+        <ref target="a160" targOrder="U">See Jennie Chappell's works of that period.</ref>
+       </note>
+      <note type="toc">
+       <list>
+       <item n="QUEEN_VICTORIA">Queen Victoria</item>
+       <item>Elizabeth Barrett Browning</item>
+       <item>Christina Rossetti</item>
+       <item n="ELIZABETH_FRY">Elizabeth Fry</item>
+       <item n="GRACE_DARLING">Grace Darling</item>
+       <item>Catherine Gladstone</item>
+       <item>Susanna Wesley</item> 
+        <item>Josephine Butler</item>
+       <item>Agnes Jones</item>
+       <item>Kitty Wilkinson</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a559" default="NO">
       <ref targOrder="U">559.</ref>
