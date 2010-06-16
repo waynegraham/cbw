@@ -220,7 +220,7 @@
 	</xsl:template>
 
 	<xsl:template match="note">
-		<div class="endnote">
+		<div class="endnote" id="@id">
 			<xsl:apply-templates/>
 		</div>
 	</xsl:template>
@@ -236,7 +236,12 @@
 			<a href="/bios/{@n}.jpg">
 				<img src="/bios/{@n}.jpg" alt=""/>
 			</a>
+			<p><xsl:value-of select="figDesc"/></p>
 		</div>
+	</xsl:template>
+	
+	<xsl:template match="ref">
+		<a href="#{@target}">[<xsl:value-of select="substring-after(@target, 'NOTE_')"/>]</a>
 	</xsl:template>
 	
 	<xsl:template match="lg">
