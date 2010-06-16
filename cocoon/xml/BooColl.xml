@@ -4164,19 +4164,27 @@
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 206.</xref>
       <note place="unspecified" anchored="yes">Borrows from <ref target="a362" targOrder="U"
-        >Hale;</ref> British Library lists it under Hale. Frontispiece: vignettes of <list>
-        <item n="LADY_JANE_GREY">Lady Jane Grey,</item>
-       </list>
+        >Hale;</ref> British Library lists it under Hale. Frontispiece: vignettes of Lady Jane Grey, Lady Russell, Hannah More, and Felicia Hemans, cluster around a doubly
+       crowned Queen Victoria.  Many standard subjects form an encyclopedic group.  
+       Some subjects, such as Anna Jameson, Grace Aguilar, Sarah Hale, Elizabeth Ellet, and Agnes Strickland, are also presenters.  A sample of the contents is listed here.
+      </note>
+      <note type="toc">
        <list>
-        <item n="LADY_RACHEL_RUSSELL">"Lady W. Russell,"</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>      
+        <item n="LADY_RACHEL_RUSSELL">"Lady W. Russell"</item>
+               <item n="HANNAH_MORE">Hannah More</item>
+        <item>Felicia Hemans</item> 
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
+        <item>Anna Jameson</item> <item>Grace Aguilar</item> 
+        <item>Sarah Hale</item> 
+        <item>Elizabeth Ellet</item> <item>Agnes
+        Strickland</item> 
+        <item>Margaret Fuller</item>
+        <item>Harriet Martineau</item><item>Sarah Martin</item>
+        <item n="ANN_HASSELTINE_JUDSON">Ann Judson</item>
+        <item>the Maid of Saragossa</item>
        </list>
-       <list>
-        <item n="HANNAH_MORE">Hannah More,</item>
-       </list> and Felicia Hemans cluster around a doubly crowned Victoria. Includes many standard
-       subjects; presenters such as Anna Jameson, Grace Aguilar, Sarah Hale, Elizabeth Ellet, Agnes
-       Strickland; and Fuller, Martineau, a lengthy biography of Sarah Martin, <list>
-        <item n="ANN_HASSELTINE_JUDSON">Ann Judson,</item>
-       </list> the Maid of Saragossa, etc. </note>
+      </note>
      </bibl>
      <bibl id="a006" default="NO">
       <ref targOrder="U">6.</ref>
@@ -4854,14 +4862,15 @@
         <item>Sara Bernhardt</item>
         <item>Josephine Bonaparte</item>
         <item>Rosa Bonheur</item>
-        <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë</item>
         <item>Elizabeth B. Browning</item>
         <item>Alice Cary</item>
         <item>Phoebe Cary</item>
         <item>Cleopatra</item>
-        <item>Fanny Crosby -- Charlotte Cushman</item>
+        <item>Fanny Crosby</item>
+        <item>Charlotte Cushman</item>
         <item>Virginia Dare</item>
-        <item n="MADAME_DE_STAEL">Madam De Stael</item>
+        <item n="MADAME_DE_STAEL">Madam De Staël</item>
         <item>Mary Baker Eddy</item>
         <item>George Eliot</item>
         <item>Esther</item>
