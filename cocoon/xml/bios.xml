@@ -5343,9 +5343,10 @@
                             episode on her choice of vocation is treated almost verbatim by Mabie
                             and Carey. They rely on the same sources to present Nightingale's
                             education and both include a reference to her sober tastes in reading as
-                            a testament to her dedication. The young nurse's reading habits were
-                            self-edifying and led her to Elizabeth Fry's philanthropic ideology as a
-                            model for public reform work.</title>
+                            a testament to her dedication.<ref target="FLORENCE_NIGHTINGALE_NOTE_1"
+                            /> The young nurse's reading habits were self-edifying and led her to
+                            Elizabeth Fry's philanthropic ideology as a model for public reform
+                            work.</title>
                     </p>
                     <p>
                         <title type="section">The presenters' final paragraphs contain a discrepancy
@@ -5582,11 +5583,12 @@
                         she was called, made itself felt in every department, which gradually broke
                         down all obstacles raised by the jealousy or bad tempers of the officials.
                         As <name>Nolan</name> tells us, <rs corresp="narrative_elements"
-                            ana="quotation_biography">"Doctors, purveyors, store-keepers, orderlies,
-                            inspectors, dispensers, and interpreters <seg id="nightingale.carey.2"
-                                corresp="nightingale.mabie.2">were in the uttermost confusion
-                                amongst themselves, and they generally regarded these gentle
-                                missionaries as a new element of anarchy."</seg></rs></p>
+                            ana="quotation_documentary">"Doctors, purveyors, store-keepers,
+                            orderlies, inspectors, dispensers, and interpreters <seg
+                                id="nightingale.carey.2" corresp="nightingale.mabie.2">were in the
+                                uttermost confusion amongst themselves, and they generally regarded
+                                these gentle missionaries as a new element of
+                            anarchy."</seg></rs><ref target="FLORENCE_NIGHTINGALE_NOTE_2"/></p>
                     <p rend="block">As <name>Kinglake</name> says most beautifully: <rs
                             corresp="narrative_elements" ana="quotation_documentary">"It was not
                             only under her reign, but by force of her actual sway, that order sprang
@@ -5595,7 +5597,7 @@
                             hospitals began to seem almost perfect. . . . She brought to her
                             self-imposed task that forethought, that agile brain-power, that
                             organising and governing faculty of which our country had
-                        need."</rs></p>
+                            need."</rs><ref target="FLORENCE_NIGHTINGALE_NOTE_3"/></p>
                     <p rend="block">A further staff of fifty trained female nurses had been sent
                         from England to help Miss Nightingale and assistants. There was plenty of
                         work for all. One can only imagine what privations and discomforts those
@@ -5730,7 +5732,7 @@
                         <l> A Lady with a Lamp shall stand, </l>
                         <l> In the great history of the land, </l>
                         <l> A noble type of good, </l>
-                        <l> Heroic womanhood.<ref target="FLORENCE_NIGHTINGALE_NOTE_1"/></l>
+                        <l> Heroic womanhood.<ref target="FLORENCE_NIGHTINGALE_NOTE_4"/></l>
                     </lg>
                     <p>
                         <title type="section">Like the presenters of prosopography, Longfellow's use
@@ -5995,13 +5997,23 @@
                             misery in Scutari.</title>
                     </p>
                     <p>Notes</p>
-                    <note n="1" id="FLORENCE_NIGHTINGALE_NOTE_1">Henry Wadsworth Longfellow, "Santa
+                    <note n="1" id="FLORENCE_NIGHTINGALE_NOTE_1">Mabie and Carey quote directly from
+                        Mrs. Tooley, or "the lady who has written her (Nightingale's) life." See:
+                        Sarah A. Tooley, <hi rend="italics">The Life of Florence Nightingale</hi>
+                        (New York: Macmillan, 1905). </note>
+                    <note n="2" id="FLORENCE_NIGHTINGALE_NOTE_2">Most likely from Edward Henry
+                        Nolan, <hi rend="italics">The Illustrated History of the War Against
+                            Russia</hi> (J.S. Virtue, 1857).</note>
+                    <note n="3" id="FLORENCE_NIGHTINGALE_NOTE_3">From Alexander William Kinglake's
+                        eight-volume history, <hi rend="italics">Invasion of the Crimea</hi> (ca.
+                        1863).</note>
+                    <note n="4" id="FLORENCE_NIGHTINGALE_NOTE_4">Henry Wadsworth Longfellow, "Santa
                         Filomena" (1857). In <hi rend="italics">Heroines That Every Child Should
                             Know</hi>, the entire poem appears at the end of Florence's short
                         biography, along with the following note: "Longfellow gave the name Filomena
                         (saint of the sick and maimed) to Florence Nightingale partly because of her
                         labours. . . at Scutari, and partly on account of the resemblance between
-                        Filomena and the Latin Philomela (nightingale)."—-Brewer. </note>
+                        Filomena and the Latin Philomela (nightingale)" (281).</note>
 
                     <p>Images (listed in order of appearance)</p>
                     <note>"Florence Nightingale and the Injured Collie Dog." From an engraving in
@@ -6010,8 +6022,8 @@
                             Nightingale: As Seen in Her Portraits</hi> (ca. 1916).</note>
                     <note>"One of the wards of the hospital at Scutari." W. Simpson, del.; E.
                         Walker, lith. (Day &amp; Son, Lithrs. to the Queen, 1856).</note>
-                    <note>"Miss Nightingale in the hospital at Scutari" <hi rend="italics">The Illustrated London
-                        News</hi> 24 Feb. 1855.</note>
+                    <note>"Miss Nightingale in the hospital at Scutari" <hi rend="italics">The
+                            Illustrated London News</hi> 24 Feb. 1855.</note>
 
                     <p>Condensed Works</p>
                     <note>Carey, Rosa Nouchette. <hi rend="italics">Twelve Notable Good Women of the
