@@ -221,7 +221,7 @@
 
 	<xsl:template match="note">
 		<div class="endnote" id="{@id}">
-			<xsl:apply-templates/>
+			[<xsl:value-of select="@id"/>] <xsl:apply-templates/>
 		</div>
 	</xsl:template>
 	
@@ -241,7 +241,7 @@
 	</xsl:template>
 	
 	<xsl:template match="ref">
-		<a href="#{@target}">[<xsl:value-of select="substring-after(@target, 'NOTE_')"/>]</a>
+		<a class="inline-note" href="#{@target}"><xsl:value-of select="substring-after(@target, 'NOTE_')"/></a>
 	</xsl:template>
 	
 	<xsl:template match="lg">
