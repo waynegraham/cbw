@@ -17971,6 +17971,29 @@
        </list>
       </note>
      </bibl>
+     <bibl id="a379A" default="NO">
+      <ref targOrder="U">379A</ref>
+      <idno>a379A</idno>
+      <author><name type="last">Hardy,</name><name type="first">Florence Emily</name>.</author>
+      <title type="ref"><hi rend="italics">Eminent Women: Coloured Illustrations and Six Portraits and Pictures.</hi></title>
+      <imprint>
+       <pubPlace>Glasgow:</pubPlace>
+       <publisher>Collins' Clear-Type Press,</publisher>
+       <date>[1900?].</date>
+      </imprint>
+      <note place="unspecified" anchored="yes">
+      Juvenile audience.  a 190-pp. book in the Noble Lives series edited by Herbert Haytens.  Florence Dugdale married Thomas Hardy.</note>
+      <note type="toc">
+       <list>
+        <item n="CAROLINE_HERSCHEL">Caroline Herschel</item>
+        <item>The Princess de Lamballe</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
+        <item>Elizabeth Barrett Browning</item>
+        <item>Rosa Bonheur</item>
+        <item>Agnes Weston</item>
+       </list>
+      </note>
+     </bibl>
      <bibl id="a380" default="NO">
       <ref targOrder="U">380.</ref>
       <idno>a380</idno>
