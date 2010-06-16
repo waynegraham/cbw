@@ -220,7 +220,7 @@
 	</xsl:template>
 
 	<xsl:template match="note">
-		<div class="endnote" id="@id">
+		<div class="endnote" id="{@id}">
 			<xsl:apply-templates/>
 		</div>
 	</xsl:template>
