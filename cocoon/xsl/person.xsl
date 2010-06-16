@@ -221,7 +221,7 @@
 
 	<xsl:template match="note">
 		<div class="endnote" id="{@id}">
-			[<xsl:value-of select="substring-after(@id, 'NOTE_')"/>] <xsl:apply-templates/>
+			<xsl:value-of select="substring-after(@id, 'NOTE_')"/> <xsl:apply-templates/>
 		</div>
 	</xsl:template>
 	
