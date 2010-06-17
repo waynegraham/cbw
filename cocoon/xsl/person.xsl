@@ -241,7 +241,7 @@
 	</xsl:template>
 	
 	<xsl:template match="ref">
-		<a class="note-link" href="#{@target}">[<xsl:value-of select="substring-after(@target, 'NOTE_')"/>]</a>
+		<xsl:text> </xsl:text><a class="note-link" href="#{@target}">[<xsl:value-of select="substring-after(@target, 'NOTE_')"/>]</a>
 	</xsl:template>
 	
 	<xsl:template match="lg">
