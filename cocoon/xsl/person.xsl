@@ -241,13 +241,13 @@
 	</xsl:template>
 	
 	<xsl:template match="ref">
-		<a class="inline-note" href="#{@target}"><xsl:value-of select="substring-after(@target, 'NOTE_')"/></a>
+		<a class="note-link" href="#{@target}">[<xsl:value-of select="substring-after(@target, 'NOTE_')"/>]</a>
 	</xsl:template>
 	
 	<xsl:template match="lg">
 		<span class="verse-group {@type}">
 		<xsl:for-each select="l">
-			<span class="verse-line"><xsl:value-of select="."/></span>
+			<span class="verse-line"><xsl:apply-templates/></span>
 		</xsl:for-each>
 		</span>
 	</xsl:template>
