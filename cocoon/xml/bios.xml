@@ -9754,50 +9754,60 @@
                         <bibl>From William Russell, Extraordinary Women, and Ethel Mary
                             Wilmot-Buxton, A Book of Noble Women.</bibl>
                     </head>
-                    <p>William Russell’s short biography of <name corresp="MADAME_ROLAND">Madame
-                            Roland</name> begins with a nightmare parade of the Terror that followed
-                        the French Revolution, in which Madame Roland stands out as “one white-robed
-                        figure in the doleful procession, with pale, bright, classic face, mantled
-                        with dark silken hair, and illumined by deep blue, transparent eyes, kindled
-                        to indignant flame by the hootings and curses of the multitude” (that is, a
+                    <p><name type="presenter">William Russell’s</name> short biography of <name
+                            corresp="MADAME_ROLAND">Madame Roland</name><milestone unit="subject"
+                            corresp="subject_type" ana="heroine_of_war"/> begins with a nightmare
+                        parade of the Terror that followed the <rs corresp="history" ana="civil_war"
+                            >French Revolution</rs>, in which Madame Roland stands out as <rs
+                            corresp="narrative_elements" ana="description">“one white-robed figure
+                            in the doleful procession, with pale, bright, classic face, mantled with
+                            dark silken hair, and illumined by deep blue, transparent eyes, kindled
+                            to indignant flame by the hootings and curses of the
+                            multitude”</rs><milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="trope_light_into_darkness"/><milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="topos_appearance"/> (that is, a
                         scenario that blends “light into darkness,” the heroine’s appearance, and a
-                        lady’s confrontation of the mob). This heroine’s sacrifice collapses into
-                        that of <name>Marie Antoinette</name>: the image “dwells in the gazer's
-                        memory long after it has disappeared from the scaffold still wet with the
-                        blood of a queen, and been flung, as carrion, into the common <hi
-                            rend="italics">fosse</hi> at Glamart” (R 39). Wilmot-Buxton, too,
-                        interlinks Marie-Jeanne or Manon Philipon Roland and Marie Antoinette, the
-                        subject of her preceding chapter: “life-stories…so unlike…so absolutely
-                        opposed politically, become curiously intermingled…and in the end are merged
-                        into the same common fate” (WB 137). The horrors of the Revolution stain the
-                        image of Madame Roland’s heroism, as they curdle Russell’s prose: her “clear
-                        conscience” largely seems to shine in “an atmosphere of light and purity”
-                        because of the “the contrastive foil afforded by [her] grimed, blood-spotted
-                        companions”; her “courage, energy, devotion” and “cruel and untimely
-                        death…excite the unbounded sympathy and compassion of all” who consider that
-                        she was led astray by “sinister influences surrounding her youth, and the
-                        false lights” that she later followed into “an impassable abyss” (R
-                        39-40).</p>
+                        lady’s confrontation of the mob). <milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="analogy_contemporary_woman"/>This
+                        heroine’s sacrifice collapses into that of <name>Marie Antoinette</name>:
+                        the image “dwells in the gazer's memory long after it has disappeared from
+                        the scaffold still wet with the blood of a queen, and been flung, as
+                        carrion, into the common <hi rend="italics">fosse</hi> at Glamart” (R 39).
+                            <name type="presenter">Wilmot-Buxton</name>, too, interlinks <name
+                            corresp="MADAME_ROLAND">Marie-Jeanne</name> or <name
+                            corresp="MADAME_ROLAND">Manon Philipon Roland</name> and <name>Marie
+                            Antoinette</name>, the subject of her preceding chapter:
+                        “life-stories…so unlike…so absolutely opposed politically, become curiously
+                        intermingled…and in the end are merged into the same common fate” (WB 137).
+                        The horrors of the Revolution stain the image of Madame Roland’s heroism, as
+                        they curdle Russell’s prose: her “clear conscience” largely seems to shine
+                        in “an atmosphere of light and purity” because of the “the contrastive foil
+                        afforded by [her] grimed, blood-spotted companions”; her “courage, energy,
+                        devotion” and “cruel and untimely death…excite the unbounded sympathy and
+                        compassion of all” who consider that she was led astray by “sinister
+                        influences surrounding her youth, and the false lights” that she later
+                        followed into “an impassable abyss” (R 39-40).</p>
                     <p>Both narratives soon open a paragraph with the heroine’s birth in March, 1754
                         (“a year after Marie Antoinette” [WB 137]), in Paris, daughter of an
                         engraver. For Russell, the young girl represents a lesson in ideology, a
                         tug-of-war between her mother’s Christianity and her father’s “gospel
-                        according to Voltaire and Rousseau.” The father, “Gratien Philipon,…held the
-                        idea of God to be an illusion; Church and State confederate despotisms,
-                        cemented by force and hypocrisy; the unequal distribution of wealth a crime
-                        against humanity…” Both Russell and Wilmot-Buxton appear to regard the
-                        father’s bad character as the root cause of the subject’s suffering heroism:
-                        “the alchemy of a morose and envious spirit” turned all circumstances into
-                        “witnesses against the providence of God and the justice of man” for this
-                        bad father (R 40): M.Philipon’s resentment of social inequality combined
-                        with greed, intemperance, and speculation led to poverty. His beautiful and
-                        intelligent daughter, the only surviving child of eight, had no future
-                        without “rank and wealth” (R 40-1). Like many a hypocritical politician,
-                        M.Philipon was a domestic despot who wasted family resources in “low
-                        debauchery” (R 41); only his wife Margaret Binant, prudent, faithful,
-                        beautiful, stayed the family’s “downward progress” and protected the
-                        precocious daughter from evil influence. Having established the parental
-                        characters, Russell turns to the topic of talent: </p>
+                        according to <name>Voltaire</name> and <name>Rousseau</name>.” <milestone
+                            unit="subject" corresp="agents" ana="father"/>The father, “<name>Gratien
+                            Philipon</name>,…held the idea of God to be an illusion; Church and
+                        State confederate despotisms, cemented by force and hypocrisy; the unequal
+                        distribution of wealth a crime against humanity…” Both Russell and
+                        Wilmot-Buxton appear to regard the father’s bad character as the root cause
+                        of the subject’s suffering heroism: “the alchemy of a morose and envious
+                        spirit” turned all circumstances into “witnesses against the providence of
+                        God and the justice of man” for this bad father (R 40): M.Philipon’s
+                        resentment of social inequality combined with greed, intemperance, and
+                        speculation led to poverty. His beautiful and intelligent daughter, the only
+                        surviving child of eight, had no future without “rank and wealth” (R 40-1).
+                        Like many a hypocritical politician, M.Philipon was a domestic despot who
+                        wasted family resources in “low debauchery” (R 41); only his wife Margaret
+                        Binant, prudent, faithful, beautiful, stayed the family’s “downward
+                        progress” and protected the precocious daughter from evil influence. Having
+                        established the parental characters, Russell turns to the topic of talent: </p>
                     <p rend="block">Jeanne Manon's educational progress was singularly rapid. At
                         four years of age she read perfectly, without clearly remembering, she says,
                         the process by which that faculty was acquired; and, assisted by competent
