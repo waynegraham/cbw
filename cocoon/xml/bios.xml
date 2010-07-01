@@ -10178,8 +10178,8 @@
                         were romanticized in Smith’s account of the episode, which was not written
                         until much later. Nonetheless, his crafted rendering was reproduced as fact
                         in a long line of tributes, which together have contributed to mythologizing
-                        her role in America’s foundation. Yet even as what is known about her
-                        changes, our notion of Pocahontas persists. </p>
+                        her role in <rs corresp="places" ana="nation">America’s</rs> foundation. Yet
+                        even as what is known about her changes, our notion of Pocahontas persists. </p>
                     <p>This elusive figure is known to history by several aliases: her Indian name
                             <name corresp="POCAHONTAS">Metoake</name>, her adopted name Pocahontas,
                         and her Christian name <name corresp="POCAHONTAS">Rebecca</name>. Because
@@ -10191,12 +10191,13 @@
                             >Pocahontas</hi> by <name type="presenter">Elizabeth Eggleston
                             Seelye</name>), they already are aware that the popular legend had begun
                         to be destabilized: </p>
-                    <p rend="block">Men in England in her time idealised her into a princess and
-                        fine lady. In our time historians have been surprised and indignant at
-                        finding that she was not a heroine of romance, but simply an Indian maiden.
-                        Such as her life made her she was—in her manners an untrained savage. But
-                        she was also the steadfast friend and helper of the feeble colony, and that
-                        is why her life is heroic and full of interest. (148) </p>
+                    <p rend="block">Men in <rs corresp="places" ana="nation">England</rs> in her
+                        time idealised her into a princess and fine lady. In our time historians
+                        have been surprised and indignant at finding that she was not a heroine of
+                        romance, but simply an Indian maiden. Such as her life made her she was—in
+                        her manners an untrained savage. But she was also the steadfast friend and
+                        helper of the feeble colony, and that is why her life is heroic and full of
+                        interest. (148) </p>
                     <p>While critical of contemporary constructions, the presenters indicate that
                         the discrediting of popular idealizations of Pocahontas caused historians to
                         be upset, even “indignant.” But they leave us to wonder why knowing more
@@ -10214,26 +10215,28 @@
                         well, she was a Native American woman who had the appearance of gentility—as
                         she does in the image <name>Simon de Passe</name> engraved in
                             <date>1616</date>. In their text, Mabie and Stephens include the “Indian
-                        maiden” as a heroine because she facilitated England’s hold in the New World
-                        and exhibited successful assimilation between the two cultures. They endorse
-                        those details considered to be of “interest” in a narrative which tells us
-                        more about the presenters’ perceptions than it does about Pocahontas
-                        herself. Their biographical characterization is distinctive as a compilation
-                        of types of womanhood including the exotic native and the steadfast helpmate
-                        to men. Phrases like “as she is styled in the quaint narrative” and “the
-                        romantic story” frequently appear in the sketch of her life in <title><hi
-                                rend="italics">Heroines Every Child Should Know</hi></title>,
-                        signaling Mabie and Stephens’s intention to undermine certain legends. They
-                        provide us with an identity which is purported to be a more accurate notion
-                        of who she was; however, many of the episodes in her life-story are colored
-                        by a practice of crafting the information at hand.</p>
-                    <p>The entry begins not with Pocahontas, but with an extended discussion about
-                        her father, Indian chief <milestone unit="subject" corresp="agents"
-                            ana="father"/><name>Powhatan</name>. When she is introduced, as well as
-                        throughout Mabie and Stephens’s short biography, her life is recorded in the
-                        context of male authority: “Pocahontas was Powhatan's favourite daughter.
-                            <milestone unit="subject" corresp="life_events" ana="birth"/>She was
-                        born in <date>1594</date> or <date>1595</date>. <milestone unit="subject"
+                        maiden” as a heroine because she facilitated England’s hold in the <rs
+                            corresp="places" ana="region">New World</rs> and exhibited successful
+                        assimilation between the two cultures. They endorse those details considered
+                        to be of “interest” in a narrative which tells us more about the presenters’
+                        perceptions than it does about Pocahontas herself. Their biographical
+                        characterization is distinctive as a compilation of types of womanhood
+                        including the exotic native and the steadfast helpmate to men. Phrases like
+                        “as she is styled in the quaint narrative” and “the romantic story”
+                        frequently appear in the sketch of her life in <title><hi rend="italics"
+                                >Heroines Every Child Should Know</hi></title>, signaling Mabie and
+                        Stephens’s intention to undermine certain legends. They provide us with an
+                        identity which is purported to be a more accurate notion of who she was;
+                        however, many of the episodes in her life-story are colored by a practice of
+                        crafting the information at hand.</p>
+                    <p><milestone unit="subject" corresp="life_events" ana="family"/>The entry
+                        begins not with Pocahontas, but with an extended discussion about her
+                        father, Indian chief <milestone unit="subject" corresp="agents" ana="father"
+                            /><name>Powhatan</name>. When she is introduced, as well as throughout
+                        Mabie and Stephens’s short biography, her life is recorded in the context of
+                        male authority: “Pocahontas was Powhatan's favourite daughter. <milestone
+                            unit="subject" corresp="life_events" ana="birth"/>She was born in
+                            <date>1594</date> or <date>1595</date>. <milestone unit="subject"
                             corresp="agents" ana="mother"/>Of her mother nothing is known. Powhatan
                         had many wives; when he tired of them he would present them to those of his
                         subjects whom he considered the most deserving” (147). However, the
@@ -10249,22 +10252,29 @@
                         appears to be racially unsettling for our presenters to acknowledge that
                         these white male explorers relied upon a female who was as “untrained,” or
                         uncivilized, as the rest of her tribe: </p>
-                    <p rend="block">It was a barbarous life in which the little Pocahontas was bred.
-                        Her people always washed their young babies in the river on the coldest
-                        mornings to harden them. She was accustomed to see her old father sitting at
-                        the door of his cabin regarding with grim pleasure a string of his enemy's
-                        scalps, suspended from tree to tree, and waving in the breeze. (148)</p>
-                    <p>As far as conventional narratives for the childhood of heroines go in
+                    <p rend="block"><milestone unit="subject" corresp="life_events" ana="childhood"
+                        />It was a barbarous life in which the little Pocahontas was bred.
+                            <milestone unit="subject" corresp="narrative_elements" ana="description"
+                        />Her people always washed their young babies in the river on the coldest
+                        mornings to harden them. <rs corresp="narrative_elements" ana="habit">She
+                            was accustomed to see her old father sitting at the door of his cabin
+                            regarding with grim pleasure a string of his enemy's scalps, suspended
+                            from tree to tree, and waving in the breeze. (148)</rs></p>
+                    <p><milestone unit="subject" corresp="genre_conventions" ana="stable_condition"
+                        />As far as conventional narratives for the childhood of heroines go in
                         nineteenth-century collective biographies, that of Pocahontas is certainly
                         exceptional. </p>
-                    <p>The famous story concerning the salvation of John Smith has been ritualized
-                        by biographers into an act of saving which stands in for the whole colony of
+                    <p><milestone unit="subject" corresp="narrative_elements" ana="episode"/>The
+                        famous story concerning the salvation of John Smith has been ritualized by
+                        biographers into an act of saving which stands in for the whole colony of
                         settlers Pocahontas preserved as “the steadfast friend of all white men”
-                        (Mabie and Stephens 154). Mabie and Stephens adhere to the standard version
-                        as it was presented in Smith’s record of the event and preface the narrative
-                        in the context of Powhatan’s ambitions. Again, they distinguish between the
-                        brutal nature of Native American culture and the sympathetic character of
-                        Pocahontas, citing pity as the motive for her actions:</p>
+                        (Mabie and Stephens 154). <milestone unit="subject"
+                            corresp="narrative_elements" ana="quotation_documentary"/>Mabie and
+                        Stephens adhere to the standard version as it was presented in Smith’s
+                        record of the event and preface the narrative in the context of Powhatan’s
+                        ambitions. Again, they distinguish between the brutal nature of Native
+                        American culture and the sympathetic character of Pocahontas, citing pity as
+                        the motive for her actions:</p>
                     <p rend="block">Powhatan, sensible of the pomp and dignity proper to his
                         position as a great warrior, particularly desired to impress the English who
                         were settling at Jamestown. A member of the colony, Captain Smith had been
@@ -10274,18 +10284,21 @@
                         and a council was held to decide his fate. This debate lasted a long time,
                         but the conclusion could hardly have been favourable to Captain Smith, since
                         Powhatan was jealous of the white colony already encroaching upon his
-                        seclusion at Werowocomoco.</p>
+                        seclusion at <rs corresp="places" ana="kingdom">Werowocomoco.</rs></p>
                     <p rend="block">During this solemn debate Captain Smith must have felt anything
                         but comfortable. He did not know his doom until two stones were brought in
                         and placed before Powhatan. Then as many as could lay hands on him dragged
                         him to the feet of the chief and laid his head upon the stones. The
                         executioners raised their clubs to beat out his brains. Such a scene was not
                         uncommon in this forest court. From childhood these savage men and women
-                        were accustomed to exult in the most barbarous tortures and executions. It
-                        is then the more wonderful that the heart of a little Indian maiden should
-                        have been touched with pity for the doomed white man. Pocahontas, a child of
-                        ten or twelve, and "the king's dearest daughter," pleaded for the life of
-                        the captive. But "no entreaty could prevail" with the stern Powhatan.</p>
+                        were accustomed to exult in the most barbarous tortures and executions.
+                            <milestone unit="subject" corresp="narrative_elements"
+                            ana="focalization"/>It is then the more wonderful that the heart of a
+                        little Indian maiden should have been touched with pity for the doomed white
+                        man. <milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="topos_affect"/>Pocahontas, a child of ten or twelve, and "the
+                        king's dearest daughter," pleaded for the life of the captive. But "no
+                        entreaty could prevail" with the stern Powhatan.</p>
                     <p rend="block">The warriors were ready to strike the blow, when the child flew
                         to the side of Captain Smith, took "his head in her arms and laid her own
                         upon his to save him from death, whereat," says the narrative "the Emperor
@@ -10301,64 +10314,75 @@
                         commerce with the colony to acquire ascendancy over other Indian tribes.
                         (148-50)</p>
                     <p>The detail about Smith being made to produce decorative objects for
-                        Pocahontas—what in Victorian England would have been considered an
-                        occupation for females—does not appear in most collective biographies of the
-                        period. A narrative about the Anglicization of an Indian woman undergirds
-                        her legend as a heroine as well as the sketch of her life in our featured
-                        text; however, Mabie and Stephens also tell us of a mutual attempt by the
-                        Native Americans to assimilate a white man into their culture.</p>
+                        Pocahontas—what in <rs corresp="history" ana="era">Victorian</rs> England
+                        would have been considered an occupation for females—does not appear in most
+                        collective biographies of the period. A narrative about the <rs
+                            corresp="history" ana="church">Anglicization</rs> of an Indian woman
+                        undergirds her legend as a heroine as well as the sketch of her life in our
+                        featured text; however, Mabie and Stephens also tell us of a mutual attempt
+                        by the Native Americans to assimilate a white man into their culture.</p>
                     <p>Repeatedly, Mabie and Stephens represent Pocahontas as an intercessor, even a
                         pawn, between Powhatan and Smith, between the Indian tribes and the English,
                         both in the New World and abroad. When hostilities led to the detainment of
                         prisoners on either side, “Pocahontas presently came to Jamestown,
                         accompanied by Indian messengers. Her father had sent them with presents,
-                        and a message excusing ‘the injuries done by some rash, untoward captains,
-                        his subjects, desiring their liberties for this time with the assurance of
-                        his love forever’” (153). Yet in the following passage (another famous
+                        and a message excusing <rs corresp="narrative_elements" ana="speech_others"
+                            >‘the injuries done by some rash, untoward captains, his subjects,
+                            desiring their liberties for this time with the assurance of his love
+                            forever’</rs>” (153). Yet in the following passage (another famous
                         episode in biographical tributes), our presenters reveal the contradiction
                         between the real Pocahontas and the stylized figure of “the quaint
                         narrative.” The real woman took agency for herself and risked her own life
                         by acting in subversion of male authority—radical behavior for her sex by
                         the standards of either Native American culture or the late-Victorian
                         readers’ notions of gender codes:</p>
-                    <p rend="block">Powhatan was gathering his forces and planning the certain
-                        destruction of his visitors. The English were alone in the Indian cabins.
-                        Suddenly Pocahontas, Powhatan's "dearest jewel and daughter," as she is
-                        styled in the quaint narrative, appeared before Captain Smith. She had come
-                        this dark night through the "irksome woods" alone from her father's
+                    <p rend="block"><milestone unit="subject" corresp="narrative_elements"
+                            ana="episode"/>Powhatan was gathering his forces and planning the
+                        certain destruction of his visitors. The English were alone in the Indian
+                        cabins. Suddenly Pocahontas, Powhatan's "dearest jewel and daughter," as she
+                        is styled in the quaint narrative, appeared before Captain Smith. She had
+                        come this dark night through the "irksome woods" alone from her father's
                         cabin.</p>
-                    <p rend="block">"Captain Smith," said she, "great cheer will be sent you by and
-                        by; but Powhatan and all the power he can make will after come and kill you
-                        all, if they that bring you the cheer do not kill you with your own weapons
-                        when you are at supper. Therefore, if you would live, I wish you presently
-                        to be gone."</p>
+                    <p rend="block"><rs corresp="narrative_elements" ana="speech_subject">"Captain
+                            Smith," said she, "great cheer will be sent you by and by; but Powhatan
+                            and all the power he can make will after come and kill you all, if they
+                            that bring you the cheer do not kill you with your own weapons when you
+                            are at supper. Therefore, if you would live, I wish you presently to be
+                            gone."</rs></p>
                     <p rend="block">Captain Smith wished to give Pocahontas presents of those
                         trifles dear to the heart of an Indian, and such as Pocahontas most
                         delighted in.</p>
-                    <p rend="block">"I dare not," said the girl, with tears running down her cheeks,
-                        "be seen to have any, for if Powhatan should know it, I am but dead."</p>
+                    <p rend="block"><rs corresp="narrative_elements" ana="speech_subject">"I dare
+                            not," said the girl, <milestone unit="subject"
+                                corresp="narrative_rhetoric" ana="topos_affect"/>with tears running
+                            down her cheeks, "be seen to have any, for if Powhatan should know it, I
+                            am but dead."</rs></p>
                     <p rend="block">She then ran away into the woods as she had come. Within less
                         than an hour, eight or ten savages came, bringing great platters of venison
                         and other food. They begged the Englishmen to put out the matches of their
                         guns, for the "smoke made them sick," and to sit down to eat. But the
                         Captain was vigilant. . . . (160-1)</p>
-                    <p>Mabie and Stephens’s reference to Pocahontas as her father’s “dearest jewel”
-                        ironically accentuates her value as an asset to his adversaries. In a letter
-                        Smith later wrote to Queen Anne, his endearing account of Pocahontas’s
-                        heroics defines her resolve as a form of angelic ministry: “When inconstant
-                        fortune turned our peace to war, this tender virgin would still not spare to
-                        dare to visit us, and by her our jars have been oft appeased, and our wants
-                        still supplied.”<ref target="POCAHONTAS_NOTE_1"/> Yet our presenters’
-                        skepticism complicates her characterization in the “quaint narrative,”
-                        leaving us desirous to know more about the real individual who had
-                        determined upon this intrepid mission to preserve the settlers.</p>
+                    <p>Here, Mabie and Stephens’s reference to Pocahontas as her father’s “dearest
+                        jewel” ironically accentuates her value as an asset to his adversaries. In a
+                        letter Smith later wrote to <name>Queen Anne</name>, his endearing account
+                        of Pocahontas’s heroics defines her resolve as a form of angelic
+                            ministry:<milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="topos_mission"/>
+                        <rs corresp="narrative_elements" ana="quotation_letter">“When inconstant
+                            fortune turned our peace to war, this tender virgin would still not
+                            spare to dare to visit us, and by her our jars have been oft appeased,
+                            and our wants still supplied.”</rs><ref target="POCAHONTAS_NOTE_1"/> Yet
+                        our presenters’ skepticism complicates her characterization in the “quaint
+                        narrative,” leaving us desirous to know more about the real individual who
+                        had determined upon this intrepid mission to preserve the settlers.</p>
                     <p>In the endeavor to better know Pocahontas, it is problematic that Mabie and
                         Stephens give less consideration than Smith did to the question of her true
                         motive for assisting the foreign adventurers at Jamestown. In the same
                         letter to Queen Anne, Smith suggests several possibilities but endorses
-                        none: “Were it the policy of her father thus to employ her, or the ordinance
-                        of God thus to make her his instrument, or her extraordinary affection to
-                        our nation, I know not.” Mabie and Stephens simply postulate that the latter
+                        none: <rs corresp="narrative_elements" ana="quotation_letter">“Were it the
+                            policy of her father thus to employ her, or the ordinance of God thus to
+                            make her his instrument, or her extraordinary affection to our nation, I
+                            know not.”</rs> Mabie and Stephens simply postulate that the latter
                         reason is correct (usually adding a racial component to her affection for
                         the English) and are satisfied with this extraordinary unknown. Now, of
                         course, it is impossible to know why Pocahontas was so eager to help the
@@ -10366,28 +10390,31 @@
                         tools but sought a less confrontational means to acquire the new technology.
                         Or was she in fact the devoted helpmate, moved by feminine emotion to
                         prevent their suffering? Then again, Smith implies that she was not
-                        submissive to the Englishmen: “Jamestown with her wild train she as freely
-                        frequented, as her father’s habitation.” We see self-possession in this
-                        depiction as Pocahontas becomes an exotic queen with her native courtiers. </p>
+                        submissive to the Englishmen: <rs corresp="narrative_elements"
+                            ana="quotation_letter">“Jamestown with her wild train she as freely
+                            frequented, as her father’s habitation.”</rs> We see self-possession in
+                        this depiction as Pocahontas becomes an exotic queen with her native
+                        courtiers. </p>
                     <p>Years later, Pocahontas was caught up in a captivity narrative of her own
-                        when the English Captain Argall formulated a plan to take her hostage.
-                        According to Mabie and Stephens, “the following story is told of the manner
-                        in which Pocahontas was betrayed” (162). Her characteristic role as a
-                        helpmate is highlighted once again in this anecdote, but we see it being
+                        when the English <name>Captain Argall</name> formulated a plan to take her
+                        hostage. According to Mabie and Stephens, “the following story is told of
+                        the manner in which Pocahontas was betrayed” (162). Her characteristic role
+                        as a helpmate is highlighted once again in this story, but we see it being
                         used to manipulate her. The narrative Mabie and Stephens include about their
                         heroine also gives readers the impression that the indigenous population the
                         English met with was corruptible:</p>
-                    <p rend="block">The Indian girl manifested no desire to go aboard Captain
+                    <p rend="block"><milestone unit="subject" corresp="narrative_elements"
+                            ana="episode"/>The Indian girl manifested no desire to go aboard Captain
                         Argall's vessels, having many a time been on English vessels, in her
                         friendly relations with the whites. Captain Argall offered an old Indian
-                        named Japazaws the irresistible bribe of a copper kettle if he would betray
-                        Pocahontas into his power. Japazaws undertook to do this with the assistance
-                        of his wife. This wife became immediately possessed with an intense desire
-                        to visit the English ship, which she said had been there three or four times
-                        and she had never been aboard it. She begged her husband to allow her to go
-                        aboard, but Japazaws sternly refused, saying she could not go unless she had
-                        some woman to accompany her. He at last threatened to beat her for her
-                        persistence.</p>
+                        named <name>Japazaws</name> the irresistible bribe of a copper kettle if he
+                        would betray Pocahontas into his power. Japazaws undertook to do this with
+                        the assistance of his wife. This wife became immediately possessed with an
+                        intense desire to visit the English ship, which she said had been there
+                        three or four times and she had never been aboard it. She begged her husband
+                        to allow her to go aboard, but Japazaws sternly refused, saying she could
+                        not go unless she had some woman to accompany her. He at last threatened to
+                        beat her for her persistence.</p>
                     <p rend="block">The tender heart of Pocahontas was moved with pity; she offered
                         to accompany the woman on board the English vessel. Japazaws and his wife
                         with the chief's daughter were taken on to the ship, where they were well
@@ -10397,20 +10424,24 @@
                         gun-room while he pretended to have a private conversation with Japazaws. He
                         presently recalled her, and told her that she must remain with him, and that
                         she should not again see Powhatan until she had served to bring about a
-                        peace between her father and the English. Immediately Japazaws and his wife
-                        set up "a howl and cry," and Pocahontas began to be "exceedingly pensive and
-                        discontented." The old people were rowed to shore, happy in the possession
-                        of their copper kettle and some trinkets. (162-3)</p>
+                        peace between her father and the English. <milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="topos_affect"/>Immediately Japazaws
+                        and his wife set up "a howl and cry," and Pocahontas began to be
+                        "exceedingly pensive and discontented." The old people were rowed to shore,
+                        happy in the possession of their copper kettle and some trinkets.
+                        (162-3)</p>
                     <p>Pocahontas remained a prisoner at Jamestown for nearly a year; however, her
                         captivity helped to improve relations between the English and the Native
                         Americans. “There can be no doubt that she was treated with the greatest
-                        friendliness by the colonists. Her feelings had always been warm for the
-                        white strangers. Now that she was an innocent and interesting young prisoner
-                        among them, what more natural than that she should be honoured and petted?”
-                        (165-6). Here, she is described as an endearing ‘other’ even as she becomes
-                        more acclimated to life among her captors.</p>
-                    <p>Mabie and Stephens include a brief illustration of Pocahontas’s appearance at
-                        the time: “Pocahontas was now a woman, being about eighteen to nineteen
+                        friendliness by the colonists. <rs corresp="narrative_elements"
+                            ana="focalization">Her feelings had always been warm for the white
+                            strangers.</rs> Now that she was an innocent and interesting young
+                        prisoner among them, what more natural than that she should be honoured and
+                        petted?” (165-6). Here, she is described as an endearing ‘other’ even as she
+                        becomes more acclimated to life among her captors.</p>
+                    <p><milestone unit="subject" corresp="narrative_rhetoric" ana="topos_appearance"
+                        />Mabie and Stephens include a brief illustration of Pocahontas’s appearance
+                        at the time: “Pocahontas was now a woman, being about eighteen to nineteen
                         years of age. To judge from her portrait she could not have had the beauty
                         with which tradition has invested her, but she had at least a pleasant and
                         interesting face, and there must have been some charm in her large black
@@ -10420,7 +10451,8 @@
                         heritage make her attractive. Pocahontas’s romanticized persona developed in
                         part from others’ response to her racial identity; as well, it is the main
                         category of analysis Mabie and Stephens use to discuss her relationship with
-                        John Rolfe—who had been sent as a representative of the colonists to
+                            <milestone unit="subject" corresp="agents" ana="husband"/><name>John
+                            Rolfe</name>—who had been sent as a representative of the colonists to
                         negotiate with Powhatan for his daughter’s release. Alternately, it is
                         implied that she is attracted to Rolfe’s cultural identity as the presenters
                         emphasize his Englishness:</p>
@@ -10431,57 +10463,69 @@
                         natural than that the constant friend of the white men should love an
                         Englishman? (166)</p>
                     <p/>
-                    <p>As Pocahontas’s relationship with Rolfe developed at Jamestown, she underwent
-                        a process of Anglicization: “The subject of the conversion of Pocahontas had
-                        weighed heavily upon the mind of Mr. Rolfe. He accordingly attempted to
-                        convert her to Christianity, and in doing so fell in love with her” (166).
-                        The religious conversion of the Indian princess altered perceptions about
-                        her identity; it also became a racial conversion of the exotic native to
-                        ideal English womanhood. “It was deemed necessary to give her a Christian
-                        name at her baptism. She was christened Rebecca, and as a king's daughter
-                        she was known after this as the Lady Rebecca, and sometimes as the Lady
-                        Pocahontas” (166-7). With a more genteel stature, she became an acceptable
-                        bride for an English gentleman and Sir Thomas Dale, governor of the Virginia
-                        colony, consented to a union between Rolfe and Pocahontas. Mabie and
-                        Stephens describe their wedding both as a cultural assimilation and as a
-                        spectacle of the ‘other’:</p>
-                    <p rend="block">In April, 1614, the odd bridal procession moved up the little
-                        church with its wide-open windows and its cedar pews. The bridegroom was a
-                        young Englishman, the bride an Indian chief's daughter, accompanied by two
-                        red-skinned warriors, her brothers. Before the altar with its canoe-like
-                        front Pocahontas repeated in imperfect English her marriage vows, and
-                        received her wedding ring. The wedding is briefly mentioned by the old
-                        recorders only as something bearing upon the welfare of the colony. It was
-                        the first union between the people who were to possess the land and the
-                        natives. The colonists doubtless regarded it as a most auspicious event,
-                        binding as it did the most powerful chief in Virginia to their
-                        interests.</p>
+                    <p><milestone unit="subject" corresp="life_events" ana="religion"/>As
+                        Pocahontas’s relationship with Rolfe developed at Jamestown, she underwent a
+                        process of <rs corresp="history" ana="church">Anglicization</rs>: <milestone
+                            unit="subject" corresp="narrative_elements" ana="focalization"/>“The
+                        subject of the conversion of Pocahontas had weighed heavily upon the mind of
+                        Mr. Rolfe. He accordingly attempted to convert her to <rs corresp="history"
+                            ana="church">Christianity</rs>, and in doing so fell in love with her”
+                        (166). The religious conversion of the Indian princess altered perceptions
+                        about her identity; it also became a racial conversion of the exotic native
+                        to ideal English womanhood. “It was deemed necessary to give her a Christian
+                        name at her baptism. She was christened <name corresp="POCAHONTAS"
+                            >Rebecca</name>, and as a king's daughter she was known after this as
+                        the <name corresp="POCAHONTAS">Lady Rebecca</name>, and sometimes as the
+                            <name corresp="POCAHONTAS">Lady Pocahontas</name>” (166-7). With a more
+                        genteel stature, she became an acceptable bride for an English gentleman and
+                            <name>Sir Thomas Dale</name>, governor of the Virginia colony, consented
+                        to a union between Rolfe and Pocahontas. Mabie and Stephens describe their
+                        wedding both as a cultural assimilation and as a spectacle of the
+                        ‘other’:</p>
+                    <p rend="block"><milestone unit="subject" corresp="life_events" ana="marriage"
+                            /><milestone unit="subject" corresp="narrative_elements"
+                            ana="description"/>In <date>April, 1614</date>, the odd bridal
+                        procession moved up the little church with its wide-open windows and its
+                        cedar pews. The bridegroom was a young Englishman, the bride an Indian
+                        chief's daughter, accompanied by <milestone unit="subject" corresp="agents"
+                            ana="brother"/>two red-skinned warriors, her brothers. Before the altar
+                        with its canoe-like front Pocahontas repeated in imperfect English her
+                        marriage vows, and received her wedding ring. The wedding is briefly
+                        mentioned by the old recorders only as something bearing upon the welfare of
+                        the colony. It was the first union between the people who were to possess
+                        the land and the natives. The colonists doubtless regarded it as a most
+                        auspicious event, binding as it did the most powerful chief in Virginia to
+                        their interests.</p>
                     <p rend="block">From this day friendly intercourse and trade were again
                         established with Powhatan and his people. To the day of his death the old
                         chief never violated the peace which was thus brought about. (167)</p>
                     <p>The remainder of the biography focuses on Pocahontas’s acquired Englishness
                         and her ability to shed an identity which bespoke of her “savage” origins. </p>
-                    <p>In 1616, an envoy which included Sir Thomas Dale, the Rolfes and their young
-                        son, Thomas, and several Powhatan Indians sailed from Virginia for England.
-                        Mabie and Stephens note that one of the natives “had been charged by
-                        Powhatan to count the people in England and give him an exact idea of their
-                        strength” (168); yet, they do not spell out the strategic function Lady
-                        Pocahontas, as a Native American who had been civilized, served for the
-                        English Empire. She became a marketing tool for the Virginia Company which
-                        sought additional funding to expand the Jamestown colony. In London, she was
-                        received by the Queen at Whitehall and was entertained in the highest
-                        circles of society. A curious public that had read about the New World in
-                        the accounts written by Captain Smith welcomed her as a popular sensation.
-                        It must have been astonishing to reconcile the romantically ‘othered’ Indian
-                        maiden of his narratives with the actual woman who spoke fluent English,
-                        wore the latest fashions, and commanded the mannerisms of the genteel class. </p>
+                    <p>In <date>1616</date>, an envoy which included <name>Sir Thomas Dale</name>,
+                        the Rolfes and their young son, <milestone unit="subject" corresp="agents"
+                            ana="child_children"/><name>Thomas</name>, and several Powhatan Indians
+                        sailed from Virginia for England. Mabie and Stephens note that one of the
+                        natives “had been charged by Powhatan to count the people in England and
+                        give him an exact idea of their strength” (168); yet, they do not spell out
+                        the strategic function Lady Pocahontas, as a Native American who had been
+                        civilized, served for the <rs corresp="places" ana="kingdom">English
+                            Empire</rs>. She became a marketing tool for the Virginia Company which
+                        sought additional funding to expand the Jamestown colony. In <rs
+                            corresp="places" ana="city">London</rs>, she was received by the Queen
+                        at Whitehall and was entertained in the highest circles of society. A
+                        curious public that had read about the New World in the accounts written by
+                        Captain Smith welcomed her as a popular sensation. It must have been
+                        astonishing to reconcile the romantically ‘othered’ Indian maiden of his
+                        narratives with the actual woman who spoke fluent English, wore the latest
+                        fashions, and commanded the mannerisms of the genteel class. </p>
                     <p>Smith, who had left Jamestown when Pocahontas was still a young adolescent,
                         came to see her in London. The following conversation which Mabie and
                         Stephens record from this meeting gives us a rare glimpse at their subject’s
                         sense of individualism:</p>
-                    <p rend="block">"You did promise Powhatan," said Pocahontas, "what was yours
-                        should be his, and he the like to you. You called him father, being in his
-                        land a stranger, and by the same reason so must I do to you."</p>
+                    <p rend="block"><milestone unit="subject" corresp="narrative_elements"
+                            ana="dialogue"/>"You did promise Powhatan," said Pocahontas, "what was
+                        yours should be his, and he the like to you. You called him father, being in
+                        his land a stranger, and by the same reason so must I do to you."</p>
                     <p rend="block">Captain Smith tried to excuse himself from this honour. He
                         "durst not allow that title because she was a king's daughter."</p>
                     <p rend="block">"Were you not afraid," said Pocahontas, with a look of
@@ -10497,22 +10541,29 @@
                         foreign land. She charges both her father and Smith with letting fear of the
                         ‘other’ dictate their politics—a scathing indictment of the two male figures
                         who loom large in the legend of Pocahontas.</p>
-                    <p>The Rolfes intended to return to Virginia in March of 1617, but Pocahontas
-                        was too ill to survive the journey, likely suffering from tuberculosis or
-                        pneumonia. She disembarked at Gravesend, Kent and soon after died. She was
-                        buried on 21 March 1617 in the chancel of St George's Church. The notice of
-                        Pocahontas’s death which Mabie and Stephens quote from Smith characterizes
-                        their biographical endeavor in ‘knowing’: the real woman’s experiences are
-                        framed by our desire for a heroic ideal: “It pleased God at Gravesend to
-                        take this young lady to His mercy, where she made not more sorrow for her
-                        unexpected death than joy to the beholders to hear and see her make so
-                        religious and godly an end” (172).</p>
+                    <p><milestone unit="subject" corresp="life_events" ana="illness_or_health"
+                            /><milestone unit="subject" corresp="life_events" ana="death"/>The
+                        Rolfes intended to return to Virginia in <date>March of 1617</date>, but
+                        Pocahontas was too ill to survive the journey, likely suffering from
+                        tuberculosis or pneumonia. She disembarked at <rs corresp="places"
+                            ana="town">Gravesend, Kent</rs> and soon after died. <milestone
+                            unit="subject" corresp="life_events" ana="memorial"/>She was buried on
+                            <date>21 March 1617</date> in the <rs corresp="places" ana="shrine"
+                            >chancel of St George's Church</rs>. The notice of Pocahontas’s death
+                        which Mabie and Stephens quote from Smith characterizes their biographical
+                        endeavor in ‘knowing’: the real woman’s experiences are framed by our desire
+                        for a heroic ideal: <rs corresp="narrative_elements"
+                            ana="quotation_documentary">“It pleased God at Gravesend to take this
+                            young lady to His mercy, where she made not more sorrow for her
+                            unexpected death than joy to the beholders to hear and see her make so
+                            religious and godly an end” (172).</rs></p>
                     <p>As significant as Pocahontas was to England’s efforts to dominate the global
-                        stage and spread their cultural influence during the Colonial period, she
-                        has been embraced more fervently in the annals of American history. In a
-                        nation which formed out of the convergence of many different cultural
-                        traditions, perhaps we cherish this heroine because we see a reflection of
-                        ourselves in the liminal aspects of Pocahontas’s identity.</p>
+                        stage and spread their cultural influence during the <rs corresp="history"
+                            ana="era">Colonial period</rs>, she has been embraced more fervently in
+                        the annals of American history. In a nation which formed out of the
+                        convergence of many different cultural traditions, perhaps we cherish this
+                        heroine because we see a reflection of ourselves in the liminal aspects of
+                        Pocahontas’s identity.</p>
                     <p>Notes</p>
                     <note n="1" id="POCAHONTAS_NOTE_1">See John Smith’s letter to Queen Anne of
                         Great Britain (1616), accessible in the ‘Links’ section of our featured
