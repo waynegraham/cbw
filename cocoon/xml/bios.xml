@@ -9845,6 +9845,7 @@
                         that period. He describes a mock catechism of the little girl by an artist
                         in her father’s studio, and an incident when the girl took a translation of
                             <name>Plutarch</name> to church during Lent: <milestone unit="subject"
+                            corresp="narrative_elements" ana="anecdote"/><milestone unit="subject"
                             corresp="narrative_elements" ana="focalization"/>“To her girlish,
                         undisciplined apprehension, the heroes of the classic biographer were
                         incarnations of the loftiest attributes of humanity; the despotic
@@ -9856,23 +9857,32 @@
                         Wilmot-Buxton, who places discussion of Manon’s reading after the episode of
                         illness that we turn to next, regards Plutarch as a high point of the girl’s
                         avid reading rather than a corrupting influence: “This book, with its series
-                        of noble lives, its vivid pictures of Greece and Rome, not only opened a new
-                        world to the little maiden; it made her a Republican” (WB 140).</p>
-                    <p>Wilmot-Buxton is less the advocate of Christian moral progress, and cuts
+                        of noble lives, its vivid pictures of <rs corresp="places" ana="nation"
+                            >Greece</rs> and <rs corresp="places" ana="nation">Rome</rs>, not only
+                        opened a new world to the little maiden; it made her a <rs corresp="history"
+                            ana="government">Republican</rs>” (WB 140).</p>
+                    <p><milestone unit="subject" corresp="life_events" ana="illness_or_health"
+                        />Wilmot-Buxton is less the advocate of Christian moral progress, and cuts
                         quickly to the anecdote that Russell in due course relates as well: an
-                        illness that defines character. “One of the scenes which the woman of forty,
-                        waiting for death in her wretched cell, remembered most clearly was an early
-                        contest of will between her father and herself” (WB 138). “Whilst her brain
-                        was still throbbing with the fresh enthusiasm kindled by the magic pages of
-                        Plutarch, an illness, requiring to be promptly dealt with, attacked her, and
-                        she was ordered to take some extremely nauseous medicine: she refused to do
-                        so, and twice her father, in spite of Madame Philipon's remonstrances,
-                        severely whipped her” (R 43). Wilmot-Buxton presents a scene in which Manon
-                        is trying to swallow the smelly dose when her father flies into a rage at
-                        her “obstinacy” and whips her. When Manon “hardened herself and declared
-                        amidst sobs and tears that she would try no more to swallow it,” the father
-                        whipped her the second time. It was the threat of a third whipping that
-                        roused the Spartan spirit, in both versions: “As the threat left M.
+                        illness that defines character. <milestone unit="subject"
+                            corresp="narrative_elements" ana="temporal_effects"/>“One of the scenes
+                        which the woman of forty, waiting for death in her wretched cell, remembered
+                        most clearly was an early contest of will between her father and herself”
+                        (WB 138).<milestone unit="subject" corresp="narrative_elements"
+                            ana="focalization"/> “Whilst her brain was still throbbing with the
+                        fresh enthusiasm kindled by the magic pages of Plutarch, an illness,
+                        requiring to be promptly dealt with, attacked her, and she was ordered to
+                        take some extremely nauseous medicine: she refused to do so, and twice her
+                        father, in spite of Madame Philipon's remonstrances, severely whipped her”
+                        (R 43). <milestone unit="subject" corresp="narrative_elements" ana="episode"
+                        />Wilmot-Buxton presents a scene in which Manon is trying to swallow the
+                        smelly dose when her father flies into a rage at her “obstinacy” and whips
+                        her. <milestone unit="subject" corresp="narrative_elements"
+                            ana="speech_subject"/>When Manon “hardened herself and declared amidst
+                        sobs and tears that she would try no more to swallow it,” the father whipped
+                        her the second time. It was the threat of a third whipping that roused the
+                        Spartan spirit, in both versions:<milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="topos_affect"/> “As the threat left M.
                         Philipon's lips, the resolution of the imitative Spartan girl was taken; her
                         cries and tears ceased instantly, and turning towards her father, with a
                         look of calm disdain, she deliberately repeated her refusal to swallow the
@@ -9880,34 +9890,42 @@
                         his threat! Madame Philipon now resolutely interposed…” (R 43). Russell’s
                         version ends in a reconciliation of the nurturing mother and docile
                         six-year-old patient. Wilmot-Buxton concludes with direct quotation of the
-                        common source, Madame Roland’s own memoir: “’They might have killed me on
-                        the spot’…’without my uttering so much as a sigh; nor will it cost me more
+                        common source, Madame Roland’s own memoir: <rs corresp="narrative_elements"
+                            ana="quotation_writing_by_subject"/>“’They might have killed me on the
+                        spot’…’without my uttering so much as a sigh; nor will it cost me more
                         to-day to ascend the guillotine than it did then to yield to a barbarous
                         treatment” (WB 138).</p>
                     <p>In both narratives, the father rather than the child is conquered by this
                         incident; the mother is allowed to manage the girl’s upbringing: “Madame
                         Philipon's precepts and example must about this time have obtained a signal
-                        ascendancy” (R 44) over her daughter's mind. In both narratives, Manon
-                        becomes a devout Christian, her vocation confirmed when, as her first
-                        communion approached in 1764, she begged to be allowed to enter a convent:
-                        she spent a year as a lay boarder at the “Convent of the Congregation, a
-                        building which stood next the prison in which she was afterwards to be
-                        confined” (WB 141). A child given to religious raptures, she turned her
-                        passions in more “natural channels,” friendships with another girl pupil and
-                        a lay nun (WB 142). From the convent she went, in the following year, to
-                        live with her grandmother and aunt. For Russell, this is from the frying pan
-                        into the fire, from torrid saints’ legends to Voltaire and Rousseau, reading
-                        “by the aid whereof the Christian maiden rapidly grew—or ought I to write,
-                        shrank?—into a strong-minded <hi rend="italics">jeune philosophe</hi>, with
-                        a strong tendency, helped by the unquiet spirit of the time, towards
-                        ultra-democratic theories of civil polity” (R 45). Manon recalled taking
-                        offense at the patronizing treatment of grandes dames and the familiarity of
-                        servants when she was taken on visits to great houses. A visit to Versailles
-                        “inflamed” her republicanism, her desire for “freedom and equality”; Russell
-                        exclaims: “Error! Mademoiselle Philipon! Illusion ! <hi rend="italics">jeune
-                            philosophe</hi>, and of a gross and very common-place kind.” Not only
-                        were the Romans “aristocratic despots,” but someone of her rare talent
-                        should never aspire to be equal to the ordinary crowd (R 46).</p>
+                        ascendancy” (R 44) over her daughter's mind. <milestone unit="subject"
+                            corresp="life_events" ana="vocation"/><milestone unit="subject"
+                            corresp="life_events" ana="religion"/>In both narratives, Manon becomes
+                        a devout Christian, her vocation confirmed when, as her first communion
+                        approached in <date>1764</date>, she begged to be allowed to enter a
+                        convent: she spent a year as a lay boarder at the <rs corresp="places"
+                            ana="shrine">“Convent of the Congregation</rs>, a building which stood
+                        next the prison in which she was afterwards to be confined”<milestone
+                            unit="subject" corresp="narrative_elements" ana="temporal_effects"/> (WB
+                        141). A child given to religious raptures, she turned her passions in more
+                        “natural channels,” friendships with another girl pupil and a lay nun (WB
+                        142). From the convent she went, in the following year, to live with her
+                        grandmother and aunt. For Russell, this is from the frying pan into the
+                        fire, from torrid saints’ legends to <name>Voltaire</name> and
+                            <name>Rousseau</name>, reading “by the aid whereof the Christian maiden
+                        rapidly grew—or ought I to write, shrank?—into a strong-minded <hi
+                            rend="italics">jeune philosophe</hi>, with a strong tendency, helped by
+                        the unquiet spirit of the time, towards ultra-democratic theories of civil
+                        polity” (R 45). Manon recalled taking offense at the patronizing treatment
+                        of grandes dames and the familiarity of servants when she was taken on
+                        visits to great houses. A visit to <rs corresp="places" ana="city"
+                            >Versailles</rs> “inflamed” her republicanism, her desire for “freedom
+                        and equality”; Russell exclaims:<milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="emphasis"/> “Error! Mademoiselle
+                        Philipon! Illusion ! <hi rend="italics">jeune philosophe</hi>, and of a
+                        gross and very common-place kind.” Not only were the Romans “aristocratic
+                        despots,” but someone of her rare talent should never aspire to be equal to
+                        the ordinary crowd (R 46).</p>
                     <p>Both Russell and Wilmot-Buxton turn to the description of the young
                         marriageable woman, Russell emphasizing her influence on all who beheld her,
                         including merchants and suitors. She rejected a prosperous butcher: "What!
