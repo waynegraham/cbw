@@ -10032,51 +10032,66 @@
                             her own room, she sometimes stands for hours together, leaning against
                             the window and weeping bitterly."<milestone unit="subject"
                                 corresp="narrative_rhetoric" ana="topos_affect"/></rs> (R 52)</p>
-                    <p>Wilmot-Buxton’s vivid, detailed account of the events of this period, which
-                        included Madame Roland's repeated imprisonment and release, interconnects
-                        this heroine with the story of <name>Charlotte Corday,</name><milestone
-                            unit="subject" corresp="narrative_rhetoric"
+                    <p><milestone unit="subject" corresp="narrative_elements" ana="description"
+                            /><milestone unit="subject" corresp="life_events" ana="ordeal"
+                        />Wilmot-Buxton’s vivid, detailed account of the events of this period,
+                        which included Madame Roland's repeated imprisonment and release,
+                        interconnects this heroine with the story of <name>Charlotte
+                            Corday,</name><milestone unit="subject" corresp="narrative_rhetoric"
                             ana="analogy_contemporary_woman"/> whose assassination of
                             <name>Marat</name> sealed the fate of the imprisoned Girondistes.
                         Russell appears eager to get to the climax of execution:</p>
-                    <p rend="block">At length, on the 9th November, 1793, Madame Roland stood before
-                        Fouquier Tinville's tribunal; was not, of course, permitted to be heard, and
-                        received sentence, which, upon returning to the prison, she communicated to
-                        her fellow captives by passing her hand sharply across her throat. Early on
-                        the following morning, the still beautiful woman—she was in her thirty-ninth
-                        year only, and the peculiar character of her physiognomy reduced her
-                        apparent age by at least ten years—was bound in a cart, and slowly conveyed
-                        to execution. She was habited in a white muslin robe, her dark abundant
-                        tresses waved freely in the wind, and a smile of haughty scorn curled her
-                        finely-chiseled lips as they murmured, in reply to the hooting crowd who
-                        continued to shout "<hi rend="italics">A la guillotine ! a la
-                            guillotine!</hi>"—"I am going to the guillotine; they who send me there
-                        will soon follow, and you will hoot them also." Lamarche, an old man,
-                        fettered in the same cart, was overwhelmed with terror, which Madame Roland
-                        strove vainly to dispel, and passing a tall column, on the summit of which a
-                        statue of Liberty had been placed, she exclaimed, "O Liberty, what crimes
-                        are committed in thy name!" Another expression, of much greater significance
-                        and interest, is not so well known:— "Can I have pen and paper?” she said,
-                        addressing the official who received her at the foot of the scaffold; “I
-                        would, if possible, write down the strange thoughts that are rising in my
-                        mind." The request was brutally refused, and a few moments afterwards Madame
-                        Roland had thought her last on earth!</p>
+                    <p rend="block"><milestone unit="subject" corresp="agents"
+                            ana="social_determination"/>At length, on the <date>9th November,
+                            1793</date>, Madame Roland stood before <name>Fouquier Tinville's</name>
+                        tribunal; was not, of course, permitted to be heard, and received sentence,
+                        which, upon returning to the prison, she communicated to her fellow captives
+                        by passing her hand sharply across her throat. <milestone unit="subject"
+                            corresp="life_events" ana="death"/>Early on the following morning, the
+                        still beautiful woman—she was in her thirty-ninth year only, and the
+                        peculiar character of her physiognomy reduced her apparent age by at least
+                        ten years<milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="topos_appearance"/>—was bound in a cart, and slowly conveyed to
+                        execution. She was habited in a white muslin robe, her dark abundant tresses
+                        waved freely in the wind, and a smile of haughty scorn curled her
+                            finely-<milestone unit=""/>chiseled lips as they murmured, in reply to
+                        the hooting crowd who continued to shout "<rs corresp="narrative_elements"
+                            ana="speech_others"><hi rend="italics">A la guillotine ! a la
+                                guillotine!</hi>"</rs>—<rs corresp="narrative_elements"
+                            ana="speech_subject">"I am going to the guillotine; they who send me
+                            there will soon follow, and you will hoot them also."</rs>
+                        <name>Lamarche</name>, an old man, fettered in the same cart, was
+                        overwhelmed with terror, which Madame Roland strove vainly to dispel, and
+                        passing a tall column, on the summit of which a statue of Liberty had been
+                        placed, she exclaimed, <rs corresp="narrative_elements" ana="speech_subject"
+                            >"O Liberty, what crimes are committed in thy name!"</rs> Another
+                        expression, of much greater significance and interest, is not so well
+                        known:— <rs corresp="narrative_elements" ana="speech_subject">"Can I have
+                            pen and paper?” she said, addressing the official who received her at
+                            the foot of the scaffold; “I would, if possible, write down the strange
+                            thoughts that are rising in my mind."</rs> The request was brutally
+                        refused, and a few moments afterwards Madame Roland had thought her last on
+                        earth!</p>
                     <p rend="block">The best evidence of the true womanly worth of Madame Roland is
                         seen in the effect which her execution produced upon the minds of her
-                        husband and servants. M. Roland, as his wife predicted he would, slew
-                        himself a few hours after the intelligence reached him, "finding it
-                        impossible to live in a world where such a crime was permitted." Two
-                        servants, a man and woman, burst, in a paroxysm of grief and rage, into
-                        Fouquier Tinville's hall of doom, and denounced him and his myrmidons to
-                        their faces as villains and murderers. The woman was held to be insane, and
-                        dimwitted; the man's audacious tongue was silenced by the guillotine! (R
-                        53)</p>
-                    <p>Wilmot-Buxton repeats Madame Roland’s last words about liberty. “So died the
-                        heroine of the Revolution, the representative of all that was fine and pure
-                        and good in that great movement towards liberty and the rights of Man.” Her
-                        name is “spoken of with awe and gratitude in the country which owes so much
-                        to her generous devotion, her single-hearted love, her untiring patriotism”
-                        (WB 163).</p>
+                        husband and servants. <milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="topos_influence"/><milestone unit="subject" corresp="life_events"
+                            ana="death"/><rs corresp="agents" ana="husband">M. Roland</rs>, as his
+                        wife predicted he would, slew himself a few hours after the intelligence
+                        reached him, "finding it impossible to live in a world where such a crime
+                        was permitted." Two servants, a man and woman, burst, in a paroxysm of grief
+                        and rage, into <name>Fouquier Tinville's</name> hall of doom, and denounced
+                        him and his myrmidons to their faces as villains and murderers. The woman
+                        was held to be insane, and dimwitted; the man's audacious tongue was
+                        silenced by the guillotine! (R 53)</p>
+                    <p>Wilmot-Buxton repeats Madame Roland’s last words about liberty. <rs
+                            corresp="narrative_elements" ana="quotation_writing_by_subject">“So died
+                            the heroine of the Revolution, the representative of all that was fine
+                            and pure and good in that great movement towards liberty and the rights
+                            of Man.”</rs> Her name is <milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="trope_national_spirit"/>“spoken of
+                        with awe and gratitude in the country which owes so much to her generous
+                        devotion, her single-hearted love, her untiring patriotism” (WB 163).</p>
                 </div2>
             </div1>
             <div1 id="POCAHONTAS" ana="rescue_advent_exhib">
@@ -11712,17 +11727,17 @@
                             learnt to lisp the name of my mother?</rs> (qtd. in Bolton, 279)</p>
                     <p>In Burma, she would learn a different language altogether. The four-month
                         voyage at sea tested her endurance for a life that guaranteed hardships. At
-                        least one other female did accompany Ann: <name corresp="HARRIET_NEWELL"
-                            >Harriet Newell</name>,<milestone unit="subject" corresp="agents"
-                            ana="friend"/> wife of missionary <name>Samuel Newell</name>, though the
-                        party split ways upon arrival in India. Both left <rs corresp="places"
-                            ana="nation">America</rs> together; however, Ann was the first to commit
-                        herself to the missionary work of spreading the Gospel amongst the native
-                        people. But her friend would be the first to die in the service of this
-                        Christian calling, succumbing to illness, along with her newborn child, only
-                        a few months after arriving on land. In the pattern of modeling that
-                        collected biographers reproduce, several writers held <name>Harriet</name>
-                        up as <quote>"the proto-martyr of American missions"</quote> (Goodrich, 350;
+                        least one other female did accompany Ann: <name>Harriet
+                            Newell</name>,<milestone unit="subject" corresp="agents" ana="friend"/>
+                        wife of missionary <name>Samuel Newell</name>, though the party split ways
+                        upon arrival in India. Both left <rs corresp="places" ana="nation"
+                            >America</rs> together; however, Ann was the first to commit herself to
+                        the missionary work of spreading the Gospel amongst the native people. But
+                        her friend would be the first to die in the service of this Christian
+                        calling, succumbing to illness, along with her newborn child, only a few
+                        months after arriving on land. In the pattern of modeling that collected
+                        biographers reproduce, several writers held <name>Harriet</name> up as
+                            <quote>"the proto-martyr of American missions"</quote> (Goodrich, 350;
                         Wyeth, 4).</p>
                     <p>Even before arriving at their final destination, Ann encountered situations
                         that were completely alien to the experiences of her former life. <milestone
@@ -11928,9 +11943,8 @@
                         ministry for other women to follow.<milestone unit="subject"
                             corresp="narrative_rhetoric" ana="topos_influence"/> The success of this
                         enterprise in biographical patterning is immediately apparent in relation to
-                        Ann Judson: after her death, two more women, <name
-                            corresp="SARAH_BOARDMAN_JUDSON">Sarah Boardman Judson</name> and in turn
-                            <name corresp="EMILY_CHUBBUCK_JUDSON">Emily Chubbuck Judson</name> would
+                        Ann Judson: after her death, two more women, <name>Sarah Boardman
+                            Judson</name> and in turn <name>Emily Chubbuck Judson</name> would
                         directly emulate her missionary footsteps as wives of <name type="agents"
                             key="husband">Adoniram Judson</name>.</p>
                     <p>Works Cited</p>
@@ -12537,28 +12551,7 @@
                 </head>
                 <bibl>Pop chart but not featured subject</bibl>
             </div1>
-            <div1 id="HARRIET_NEWELL" ana="heroine_of_religion" type="nonfs">
-                <head>
-                    <name type="full">Harriet Atwood Newell</name>
-                    <name type="search">Harriet Newell</name>
-                </head>
-                <bibl>CBW subject of interest but not pop chart or featured subject</bibl>
-            </div1>
-            <div1 id="SARAH_BOARDMAN_JUDSON" ana="missionary" type="nonfs">
-                <head>
-                    <name type="full">Sarah Boardman Judson</name>
-                    <name type="search">Sarah Judson</name>
-                </head>
-                <bibl>CBW subject of interest but not pop chart or featured subject</bibl>
-            </div1>
-            <div1 id="EMILY_CHUBBUCK_JUDSON" ana="missionary" type="nonfs">
-                <head>
-                    <name type="full">Emily Chubbuck Judson</name>
-                    <name type="search">Emily Judson</name>
-                    <name type="alias">Fanny Forester</name>
-                </head>
-                <bibl>CBW subject of interest but not pop chart or featured subject</bibl>
-            </div1>
+
             <div1 id="MAID_OF_SARAGOSSA" ana="heroine_of_war" type="nonfs">
                 <head>
                     <name type="full">The Maid of Saragossa</name>
