@@ -7690,27 +7690,27 @@
                         and both she and <name>Garrick</name> succeeded, by ridiculing the
                         prevailing fashion, in putting a stop to the kitchen-gardens and
                         flower-plots which ladies then wore upon their heads.</p>
-                    <p>…<rs corresp="narrative_elements" ana="discriminated_event"><milestone
-                                unit="subject" corresp="life_events" ana="death"/>Her Utopian
-                            schemes of reforming the character of theatrical representations seems
-                            to have died with Garrick, and the sight of his coffin in the same room
-                            where she had but lately witnessed him performing as Macbeth, made her
-                            resolve definitely to devote her talents to higher uses.</rs>
-                        <name>David Garrick</name> was buried in <date>1779</date>, amid great
-                        mourning and splendid pomp, in the great <rs corresp="places" ana="shrine"
-                            >Abbey of Westminster</rs>, but on the very night of his funeral the
-                        play-houses were as crowded as if no such thing had occurred, and the
-                        mourners of the day shared in all the revelries of the night. Such a satire
-                        upon "the fashion of this world" helped no doubt to intensify the sadness of
-                        his sudden death, and from that time the brilliant life of London, with all
-                        its triumphs and successes, seems to have palled upon her. <milestone
-                            unit="subject" corresp="life_events" ana="religion"/>With a woman of her
-                        nature this was no mere "phase," resulting from the painful emotions of the
-                        time, but a gradual deepening of an innate piety, for which thousands have
-                        had reason to be thankful. <milestone unit="subject" corresp="life_events"
-                            ana="vocation"/>Never again did she enter a theatre, even when
-                            <name>Sarah Siddons</name> was taking a prominent part in <hi
-                            rend="italics">Percy</hi>, and we cannot but admire the consistent
+                    <p>…<milestone unit="subject" corresp="genre_conventions"
+                            ana="discriminated_event"/><milestone unit="subject"
+                            corresp="life_events" ana="death"/>Her Utopian schemes of reforming the
+                        character of theatrical representations seems to have died with Garrick, and
+                        the sight of his coffin in the same room where she had but lately witnessed
+                        him performing as Macbeth, made her resolve definitely to devote her talents
+                        to higher uses. <name>David Garrick</name> was buried in <date>1779</date>,
+                        amid great mourning and splendid pomp, in the great <rs corresp="places"
+                            ana="shrine">Abbey of Westminster</rs>, but on the very night of his
+                        funeral the play-houses were as crowded as if no such thing had occurred,
+                        and the mourners of the day shared in all the revelries of the night. Such a
+                        satire upon "the fashion of this world" helped no doubt to intensify the
+                        sadness of his sudden death, and from that time the brilliant life of
+                        London, with all its triumphs and successes, seems to have palled upon her.
+                            <milestone unit="subject" corresp="life_events" ana="religion"/>With a
+                        woman of her nature this was no mere "phase," resulting from the painful
+                        emotions of the time, but a gradual deepening of an innate piety, for which
+                        thousands have had reason to be thankful. <milestone unit="subject"
+                            corresp="life_events" ana="vocation"/>Never again did she enter a
+                        theatre, even when <name>Sarah Siddons</name> was taking a prominent part in
+                            <hi rend="italics">Percy</hi>, and we cannot but admire the consistent
                         striving after the "highest," which is the keynote of all her subsequent
                         career.</p>
                     <p>In <date>1785</date> we see her installed as mistress of a tiny house called
@@ -7748,18 +7748,24 @@
                         suspicion from its writer, and, to her amusement and gratification, it was
                         sent to her by every post with laudatory reviews recommending its
                         propagation in her own neighbourhood. It sold by the thousands….</p>
-                    <p><rs corresp="discriminated_event">It was in 1789 that William Wilberforce
-                            visited the sisters at Cowslip Green, and during his visit an immense
-                            impulse was given to their work among the poor of the
-                            neighbourhood.</rs> After visiting the magnificent gorge known as
-                        "Cheddar Cliffs" he was observed to be unusually silent, but in the evening
-                        he exclaimed, a propos of the amazing ignorance of the people there, "Miss
-                        Hannah, something must be done—if you will be at the trouble, I will be at
-                        the expense." This was practically another turning-point in the life of Mrs
-                        Hannah More; and her familiarity with the cottagers, her own tireless energy
-                        and abounding sympathy, enabled her to write as powerfully of "Tom White the
-                        Postilion" and "Black Giles the Poacher," as she had written before in
-                        'Hints to a Princess' and 'The Manners of the Great.'</p>
+                    <p><milestone unit="subject" corresp="genre_conventions"
+                            ana="discriminated_event"/><milestone unit="subject"
+                            corresp="life_events" ana="vocation"/>It was in <date>1789</date> that
+                            <name>William Wilberforce</name><milestone unit="subject"
+                            corresp="agents" ana="superior"/> visited the sisters at <rs
+                            corresp="places" ana="home">Cowslip Green</rs>, and during his visit an
+                        immense impulse was given to their work among the poor of the neighbourhood.
+                        After visiting the magnificent gorge known as "Cheddar Cliffs" he was
+                        observed to be unusually silent, but in the evening he exclaimed, <hi
+                            rend="italics">a propos</hi> of the amazing ignorance of the people
+                        there, <rs corresp="narrative_elements" ana="speech_others">"Miss Hannah,
+                                <hi rend="italics">something must be done</hi>—if you will be at the
+                            trouble, I will be at the expense."</rs> This was practically another
+                        turning-point in the life of Miss Hannah More; and her familiarity with the
+                        cottagers, her own tireless energy and abounding sympathy, enabled her to
+                        write as powerfully of "Tom White the Postilion" and "Black Giles the
+                        Poacher," as she had written before in 'Hints to a Princess' and 'The
+                        Manners of the Great.'</p>
                     <p><rs corresp="subject_type" ana="philanthropist">But the schemes of
                             Wilberforce and the More sisters for benefiting the population met with
                             no response from the people of that benighted region.</rs> The very poor
