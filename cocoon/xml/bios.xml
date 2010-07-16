@@ -7466,9 +7466,9 @@
                     <docDate>April 18, 2010</docDate>
                     <head>
                         <title>A Life of Hannah More</title>
-                        <bibl> From "Hannah More" in A. J. Green-Armytage, <hi rend="italics">Maids
-                                of Honour: Twelve Descriptive Sketches of Single Women Who Have
-                                Distinguished Themselves</hi> (1906), 1-40.</bibl>
+                        <bibl> A From "Hannah More" in A. J. Green-Armytage, <hi rend="italics"
+                                >Maids of Honour: Twelve Descriptive Sketches of Single Women Who
+                                Have Distinguished Themselves</hi> (1906), 1-40.</bibl>
                     </head>
                     <p>
                         <milestone unit="subject" corresp="life_events" ana="family"/><name
@@ -7750,8 +7750,9 @@
                         propagation in her own neighbourhood. It sold by the thousands….</p>
                     <p><milestone unit="subject" corresp="genre_conventions"
                             ana="discriminated_event"/><milestone unit="subject"
-                            corresp="life_events" ana="vocation"/>It was in <date>1789</date> that
-                            <name>William Wilberforce</name><milestone unit="subject"
+                            corresp="life_events" ana="vocation"/><milestone unit="subject"
+                            corresp="subject_type" ana="philanthropist"/>It was in <date>1789</date>
+                        that <name>William Wilberforce</name><milestone unit="subject"
                             corresp="agents" ana="superior"/> visited the sisters at <rs
                             corresp="places" ana="home">Cowslip Green</rs>, and during his visit an
                         immense impulse was given to their work among the poor of the neighbourhood.
@@ -7760,42 +7761,52 @@
                             rend="italics">a propos</hi> of the amazing ignorance of the people
                         there, <rs corresp="narrative_elements" ana="speech_others">"Miss Hannah,
                                 <hi rend="italics">something must be done</hi>—if you will be at the
-                            trouble, I will be at the expense."</rs> This was practically another
-                        turning-point in the life of Miss Hannah More; and her familiarity with the
-                        cottagers, her own tireless energy and abounding sympathy, enabled her to
-                        write as powerfully of "Tom White the Postilion" and "Black Giles the
-                        Poacher," as she had written before in 'Hints to a Princess' and 'The
-                        Manners of the Great.'</p>
-                    <p><rs corresp="subject_type" ana="philanthropist">But the schemes of
-                            Wilberforce and the More sisters for benefiting the population met with
-                            no response from the people of that benighted region.</rs> The very poor
-                        lived in a world of their own—less than half-civilised; and even among the
-                        farmers, the only argument for the better education of the children that had
-                        any effect was that "while they were at Sunday-school they could not be
-                        robbing orchards."</p>
-                    <p>But these women worked on undauntedly—through evil and good report—with the
-                        energy of the Old and the sweetness of the New Dispensation, until schools
-                        and scholars were alike established, and out of a seeming Chaos order and
-                        discipline were evolved.</p>
-                    <p>"Something must be done," Wilberforce had said, and "Miss Hannah" did it. She
-                        aimed at the highest, but protested most strongly against making the poor
-                        into philosophers. Her desire to keep them in their proper place is now out
-                        of fashion, and the School Boards of 1906 would scoff at the short and
-                        simple lessons of 1799. Her theory was, "suitable education for each and
-                        Christian education for all," and the wedding-present for a girl who was
-                        married from Hannah More's schools was "a pair of white stockings knitted by
-                        herself, five shillings, and a Bible."…</p>
-                    <p>In 1802 the house now known as Barley Wood was finished, and thither the five
-                        sisters repaired, living happily together as they had done in the old days,
-                        to the admiring surprise of Dr Johnson, whose acquaintance she had so
-                        coveted nearly thirty years before.</p>
+                            trouble, I will be at the expense."</rs>
+                        <milestone unit="subject" corresp="life_events" ana="talent"/>This was
+                        practically another turning-point in the life of Miss Hannah More; and her
+                        familiarity with the cottagers, her own tireless energy and abounding
+                        sympathy, enabled her to write as powerfully of "Tom White the Postilion"
+                        and "Black Giles the Poacher," as she had written before in <hi
+                            rend="italics">Hints to a Princess</hi> and <hi rend="italics">The
+                            Manners of the Great.</hi></p>
+                    <p>But the schemes of Wilberforce and the More sisters for benefiting the
+                        population met with no response from the people of that benighted region.
+                        The very poor lived in a world of their own—less than half-civilised; and
+                        even among the farmers, the only argument for the better education of the
+                        children that had any effect was that "while they were at Sunday-school they
+                        could not be robbing orchards."</p>
+                    <p><milestone unit="subject" corresp="narrative_rhetoric" ana="topos_influence"
+                        />But these women worked on undauntedly—through evil and good report—with
+                        the energy of the Old and the sweetness of the New Dispensation, until
+                        schools and scholars were alike established, and out of a seeming Chaos
+                        order and discipline were evolved.</p>
+                    <p><rs corresp="narrative_elements" ana="speech_others">"Something must be
+                            done,"</rs> Wilberforce had said, and "Miss Hannah" did it. She aimed at
+                        the highest, but protested most strongly against making the poor into
+                        philosophers. <rs corresp="history" ana="progress">Her desire to keep them
+                            in their proper place is now out of fashion, and the School Boards of
+                                <date>1906</date> would scoff at the short and simple lessons of
+                                <date>1799</date>.</rs>
+                        <milestone unit="subject" corresp="narrative_rhetoric" ana="moral"/>Her
+                        theory was, <rs corresp="narrative_elements"
+                            ana="quotation_writing_by_subject">"suitable education for each and
+                            Christian education for all," and the wedding-present for a girl who was
+                            married from <rs corresp="places" ana="school">Hannah More's
+                                schools</rs> was "a pair of white stockings knitted by herself, five
+                            shillings, and a Bible."…</rs></p>
+                    <p>In <date>1802</date> the house now known as <rs corresp="places" ana="home"
+                            >Barley Wood</rs> was finished, and thither the five sisters repaired,
+                        living happily together as they had done in the old days, to the admiring
+                        surprise of <name>Dr Johnson</name>, whose acquaintance she had so coveted
+                        nearly thirty years before.</p>
                     <p>The state of the villages round <rs corresp="places" ana="city">Bristol</rs>
                         at that date seems almost incredible.</p>
-                    <p>"Thirteen adjoining parishes without so much as a resident curate. Mr G—,
-                        incumbent of Axbridge, intoxicated about six times a-week, and frequently
-                        prevented from preaching by two black eyes—honestly earned by fighting."
-                        …Bristol itself was stigmatised by Horace Walpole as "the dirtiest great
-                        shop I ever saw"…</p>
+                    <p><milestone unit="subject" corresp="narrative_elements"
+                            ana="quotation_documentary"/>"Thirteen adjoining parishes without so
+                        much as a resident curate. Mr G—, incumbent of Axbridge, intoxicated about
+                        six times a-week, and frequently prevented from preaching by two black
+                        eyes—honestly earned by fighting." …Bristol itself was stigmatised by
+                            <name>Horace Walpole</name> as "the dirtiest great shop I ever saw"…</p>
                     <p>To Barley Wood often resorted many leaders of the "Clapham sect." Henry
                         Thornton, Zachary Macaulay, Wilberforce, and others were gladly welcomed to
                         its old-fashioned hospitalities by the five ladies, now no longer young, who
@@ -10248,7 +10259,7 @@
                                 Oxford: OUP, 2004. </label>
                             <p><title>
                                     <hi rend="italics">Oxford Dictionary of National Biography</hi>
-                                </title> entry on Pocohontas written by Alden T. Vaughan. Includes a
+                                </title> entry on Pocahontas written by Alden T. Vaughan. Includes a
                                 detailed biography as well as a list of portraits and other source
                                 materials related to Pocahontas.</p>
                             <address><addrLine>http://www.oxforddnb.com/view/article/22418</addrLine></address>
@@ -10272,7 +10283,7 @@
                             <p>From the University of Virginia's American Studies Group, this
                                 webpage about Pocahontas focuses on how her life has been
                                 interpreted through the lens of race and gender. Webpage discusses
-                                representations of Pacohontas in art and literature and well as
+                                representations of Pocahontas in art and literature and well as
                                 provides a list of sources for further reading.</p>
                             <address><addrLine>http://xroads.virginia.edu/~CAP/POCA/POC-home.html</addrLine></address>
                         </item>
