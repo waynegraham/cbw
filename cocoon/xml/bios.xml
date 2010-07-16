@@ -10336,23 +10336,22 @@
                         subject of biography; however, presentations of her ‘life story’ record a
                         few verifiable milestones (birth, religious conversion, marriage, death)
                         within the context of popular legends about her, repeated so often that they
-                        have become reified in the figure we imagine as ‘Pocahontas.’ Today,
-                        historians suggest that the narrative by which she is characterized as a
-                            heroine—<milestone unit="subject" corresp="subject_type" ana="rescuer"
-                        />her rescue of <name>Captain John Smith</name>—was actually a Native
-                        American ritual or a mock execution and deliverance, performed to foster
-                        relations with the English settlers. It now is believed that her actions
-                        were romanticized in Smith’s account of the episode, which was not written
-                        until much later. Nonetheless, his crafted rendering was reproduced as fact
-                        in a long line of tributes, which together have contributed to mythologizing
-                        her role in <rs corresp="places" ana="nation">America’s</rs> foundation. Yet
-                        even as what is known about her changes, our notion of Pocahontas persists. </p>
+                        have crystallized in a mythic figure. Today, historians suggest that the
+                        narrative by which she is characterized as a heroine—<milestone
+                            unit="subject" corresp="subject_type" ana="rescuer"/>her rescue of
+                            <name>Captain John Smith</name>—was actually a Native American ritual or
+                        a mock execution and deliverance, performed to foster relations with the
+                        English settlers. It now is believed that her actions were romanticized in
+                        Smith’s account of the episode, which was not written until much later.
+                        Nonetheless, his crafted rendering was reproduced as fact in a long line of
+                        tributes, which together have contributed to mythologizing her role in <rs
+                            corresp="places" ana="nation">America’s</rs> foundation. Yet even as
+                        what is known about her changes, our notion of 'Pocahontas' persists. </p>
                     <p>This elusive figure is known to history by several aliases: her Indian name
                             <name corresp="POCAHONTAS">Metoake</name>, her adopted name Pocahontas,
                         and her Christian name <name corresp="POCAHONTAS">Rebecca</name>. Because
                         her identity is so unstable, biographers are continuously involved in a
-                        process of making her persona and she has been subject to narrative
-                        practices of romanticizing, ‘othering’ and type-casting. In
+                        process of making her exotic persona in the context of romance. In
                             <date>1908</date>, when Mabie and Stephens include a sketch of her life
                         in their collective biography (a short adaptation of <hi rend="italics"
                             >Pocahontas</hi> by <name type="presenter">Elizabeth Eggleston
@@ -10393,34 +10392,32 @@
                         narrative” and “the romantic story” frequently appear in the sketch of her
                         life in <title>
                             <hi rend="italics">Heroines Every Child Should Know</hi>
-                        </title>, signaling Mabie and Stephens’s intention to undermine certain
-                        legends. They provide us with an identity which is purported to be a more
-                        accurate notion of who she was; however, many of the episodes in her
-                        life-story are colored by a practice of crafting the information at
-                        hand.</p>
+                        </title>, signaling Seelye's or Mabie and Stephens’s intention to undermine
+                        certain legends. They provide us with a purportedly more accurate notion of
+                        Pocahontas, although episodes in her life story clearly have been crafted
+                        for effect.</p>
                     <p><milestone unit="subject" corresp="life_events" ana="family"/>The entry
                         begins not with Pocahontas, but with an extended discussion about her
                         father, Indian chief <milestone unit="subject" corresp="agents" ana="father"
-                            /><name>Powhatan</name>. When she is introduced, as well as throughout
-                        Mabie and Stephens’s short biography, her life is recorded in the context of
-                        male authority: “Pocahontas was Powhatan's favourite daughter. <milestone
-                            unit="subject" corresp="life_events" ana="birth"/>She was born in
-                            <date>1594</date> or <date>1595</date>. <milestone unit="subject"
-                            corresp="agents" ana="mother"/>Of her mother nothing is known. Powhatan
-                        had many wives; when he tired of them he would present them to those of his
-                        subjects whom he considered the most deserving” (147). However, the
-                        ‘othering’ of Native Americans here as morally backwards (and later as
-                        dangerous) develops in contrast with the character of Pocahontas. Mabie and
-                        Stephens want to reveal the real woman behind the heroine, yet they dispel
-                        romanticized notions with reluctance—“It is a disappointment to learn that
-                        the name which the romantic story of this Indian princess has made so famous
-                        was not her real name”—an inclination, perhaps, to maintain a distinction
-                        between the “barbarous” native population which colonialists had to subdue
-                        and the young Indian woman whose assistance was critical to preserving the
-                        Jamestown colony and facilitating England’s hold in the New World (147). It
-                        appears to be racially unsettling for our presenters to acknowledge that
-                        these white male explorers relied upon a female who was as “untrained,” or
-                        uncivilized, as the rest of her tribe: </p>
+                            /><name>Powhatan</name>. Throughout, Pocahontas's life is recorded in
+                        the context of male authority: “Pocahontas was Powhatan's favourite
+                        daughter. <milestone unit="subject" corresp="life_events" ana="birth"/>She
+                        was born in <date>1594</date> or <date>1595</date>. <milestone
+                            unit="subject" corresp="agents" ana="mother"/>Of her mother nothing is
+                        known. Powhatan had many wives; when he tired of them he would present them
+                        to those of his subjects whom he considered the most deserving” (147).
+                        However, the ‘othering’ of Native Americans here as morally backwards (and
+                        later as dangerous) develops in contrast with the character of Pocahontas.
+                        Mabie and Stephens want to reveal the real woman behind the heroine, yet
+                        they dispel romanticized notions with reluctance—“It is a disappointment to
+                        learn that the name which the romantic story of this Indian princess has
+                        made so famous was not her real name”—an inclination, perhaps, to maintain a
+                        distinction between the “barbarous” native population which colonialists had
+                        to subdue and the young Indian woman whose assistance was critical to
+                        preserving the Jamestown colony and facilitating England’s hold in the New
+                        World (147). It appears to be racially unsettling for our presenters to
+                        acknowledge that these white male explorers relied upon a female who was as
+                        “untrained,” or uncivilized, as the rest of her tribe: </p>
                     <p rend="block"><milestone unit="subject" corresp="life_events" ana="childhood"
                         />It was a barbarous life in which the little Pocahontas was bred.
                             <milestone unit="subject" corresp="narrative_elements" ana="description"
