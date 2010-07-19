@@ -2014,9 +2014,9 @@
                 <head>
                     <name type="full">Frances Trollope</name>
                     <name type="search">Frances Trollope</name>
-                    <note type="caption">The prolific novelist and travel writer <name>Frances
-                            Trollope</name> was the venturesome provider for her husband and sons,
-                        including Anthony, also a novelist.</note>
+                    <note type="caption"><name>Frances Trollope,</name> prolific novelist and travel
+                        writer, was the venturesome provider for her husband and sons, including
+                        Anthony, also a novelist.</note>
                 </head>
                 <div2 type="images">
                     <list>
@@ -2574,7 +2574,7 @@
                     </list>
                 </div2>
                 <div2 n="1" id="LOV_FRANCES_COBBE_BIO" type="bio">
-                    <docAuthor/>
+                    <docAuthor>Brittany Lamb and Nneoma Amadi-Obi</docAuthor>
                     <docDate>November 17, 2008</docDate>
                     <head>
                         <title>
@@ -5872,12 +5872,12 @@
                     </p>
                     <p rend="block">
                         <rs corresp="narrative_elements" ana="quotation_letter"><seg
-                                id="nightingale.carey.6" corresp="nightingale.mabie.6"/>"No one who
-                            has observed her fragile figure and delicate health can avoid misgivings
-                            lest these should fail. With the heart of a true woman and the manners
-                            of a lady, accomplished and refined beyond most of her sex, she combines
-                            a surprising calmness of judgment and promptitude and decision of
-                            character."</rs>
+                                id="nightingale.carey.6" corresp="nightingale.mabie.6">"No one who
+                                has observed her fragile figure and delicate health can avoid
+                                misgivings lest these should fail. With the heart of a true woman
+                                and the manners of a lady, accomplished and refined beyond most of
+                                her sex, she combines a surprising calmness of judgment and
+                                promptitude and decision of character."</seg></rs>
                     </p>
                     <p rend="block">Her benignant presence is an influence for good comfort even
                         amid the struggles of expiring nature. </p>
@@ -6037,8 +6037,8 @@
                 <head>
                     <name type="full">Charlotte Brontë</name>
                     <name type="search">Charlotte Brontë</name>
-                    <note type="caption">The famous novelist <name>Charlotte Brontë</name> became a
-                        Victorian ideal of self-sacrificing yet triumphant feminine genius, in
+                    <note type="caption"><name>Charlotte Brontë</name>, the famous novelist, became
+                        a Victorian ideal of self-sacrificing yet triumphant feminine genius, in
                         contrast with sister Emily.</note>
                 </head>
                 <div2 type="images">
@@ -7300,9 +7300,9 @@
                 <head>
                     <name type="full">Hannah More</name>
                     <name type="search">Hannah More</name>
-                    <note type="caption">The bluestocking, the eminent conservative educator,
-                            <name>Hannah More</name> by any lights was a model for
-                        nineteenth-century women writers.</note>
+                    <note type="caption"><name>Hannah More</name>, bluestocking and eminent
+                        conservative educator, by any lights was a model for nineteenth-century
+                        women writers.</note>
                 </head>
                 <div2 type="images">
                     <list>
@@ -7466,9 +7466,10 @@
                     <docDate>April 18, 2010</docDate>
                     <head>
                         <title>A Life of Hannah More</title>
-                        <bibl> A From "Hannah More" in A. J. Green-Armytage, <hi rend="italics"
-                                >Maids of Honour: Twelve Descriptive Sketches of Single Women Who
-                                Have Distinguished Themselves</hi> (1906), 1-40.</bibl>
+                        <bibl> An abridgment of "Hannah More" in A. J. Green-Armytage, <hi
+                                rend="italics">Maids of Honour: Twelve Descriptive Sketches of
+                                Single Women Who Have Distinguished Themselves</hi> (1906),
+                            1-40.</bibl>
                     </head>
                     <p>
                         <milestone unit="subject" corresp="life_events" ana="family"/><name
@@ -7807,86 +7808,110 @@
                         six times a-week, and frequently prevented from preaching by two black
                         eyes—honestly earned by fighting." …Bristol itself was stigmatised by
                             <name>Horace Walpole</name> as "the dirtiest great shop I ever saw"…</p>
-                    <p>To Barley Wood often resorted many leaders of the "Clapham sect." Henry
-                        Thornton, Zachary Macaulay, Wilberforce, and others were gladly welcomed to
-                        its old-fashioned hospitalities by the five ladies, now no longer young, who
-                        had permanently fixed their abode within its walls.</p>
+                    <p>To <rs corresp="places" ana="home">Barley Wood</rs> often resorted many
+                        leaders of the "Clapham Sect." <name>Henry Thornton</name>, <name>Zachary
+                            Macaulay</name>, <name>Wilberforce</name>, and others were gladly
+                        welcomed to its old-fashioned hospitalities by the five ladies, now no
+                        longer young, who had permanently fixed their abode within its walls.</p>
                     <p>Thence issued the series of "Cheap Repository Tracts" published by the
-                        S.P.C.K., which had an enormous circulation, and which show that "Patty"
-                        also had a sprightly fancy and a ready pen. This sister we may fairly
-                        suppose to have been the most akin to "Miss Hannah," as hers is the name
-                        which occurs most frequently in connection with the social and literary
-                        interests of the latter; but all the five, in their devotion to one another,
-                        are perhaps unique in domestic annals. Of these tracts the most popular was
-                        'The Shepherd of Salisbury Plain,' the hero of which was modelled on a man
-                        whom she herself had met. The extraordinary sale of 1,000,000 copies shows
-                        its admirable suitability to, and popularity with, the class for whom it, as
-                        well as the other tracts, was written.</p>
-                    <p>The atmosphere of Barley Wood was often enlivened by visits from Zachary
-                        Macaulay's son, little Thomas Babington, afterwards Lord Macaulay…</p>
+                        S.P.C.K., which had an enormous circulation, and which show that
+                            <name>"Patty"</name><milestone unit="subject" corresp="agents"
+                            ana="sister"/> also had a sprightly fancy and a ready pen. This sister
+                        we may fairly suppose to have been the most akin to "Miss Hannah," as hers
+                        is the name which occurs most frequently in connection with the social and
+                        literary interests of the latter; but all the five, in their devotion to one
+                        another, are perhaps unique in domestic annals. Of these tracts the most
+                        popular was <hi rend="italics">The Shepherd of Salisbury Plain</hi>, the
+                        hero of which was modelled on a man whom she herself had met. <milestone
+                            unit="subject" corresp="life_events" ana="talent"/>The extraordinary
+                        sale of 1,000,000 copies shows its admirable suitability to, and popularity
+                        with, the class for whom it, as well as the other tracts, was written.</p>
+                    <p>The atmosphere of Barley Wood was often enlivened by visits from
+                            <name>Zachary Macaulay's</name> son, little <name>Thomas
+                            Babington</name>, afterwards Lord Macaulay…</p>
                     <p>It was Hannah More who first started Lord Macaulay's library, writing to
-                        advise him, when only six years old, to "lay a little tiny corner-stone" for
-                        the same. She was said to have had the rare gift of knowing how to live with
+                        advise him, when only six years old, to <rs corresp="narrative_elements"
+                            ana="quotation_letter">"lay a little tiny corner-stone"</rs> for the
+                        same. She was said to have had the rare gift of knowing how to live with
                         both young and old, and she often kept Macaulay with her for weeks together,
                         the youthful prodigy meanwhile declaiming poetry and reading prose by the
                         hour. His subsequent appreciation of moral goodness and his persevering
                         energy in acquiring knowledge may be fairly traced to the influences of his
                         childhood; but his "negativism" on religious subjects is a matter of
                         surprise and regret, and his old friend of Barley Wood so deeply felt his
-                        defection "from the party of the saints to the party of the Whigs," as Mr
-                        Maurice significantly says, that she changed her intention of leaving him
-                        her own valuable library, as a testimony of her disapproval.</p>
-                    <p>With little outward eventfulness flowed on those next few years, save for the
-                        inevitable visits of death, until in 1819 the last blow was struck in the
-                        passing away of Patty, whose loving co-operation and care had cheered every
+                        defection <rs corresp="narrative_elements" ana="speech_others">"from the
+                            party of the saints to the party of the Whigs,"</rs> as <name>Mr
+                            Maurice</name> significantly says, that she changed her intention of
+                        leaving him her own valuable library, as a testimony of her disapproval.</p>
+                    <p><milestone unit="subject" corresp="life_events" ana="death"/>With little
+                        outward eventfulness flowed on those next few years, save for the inevitable
+                        visits of death, until in <date>1819</date> the last blow was struck in the
+                        passing away of <name>Patty</name><milestone unit="subject" corresp="agents"
+                            ana="sister"/>, whose loving co-operation and care had cheered every
                         step of her career from the time when the little sisters had sung themselves
-                        to sleep in the nursery bed at Stapleton…</p>
+                        to sleep in the nursery bed at <rs corresp="places" ana="town"
+                            >Stapleton</rs>…</p>
                     <p>Unfitted by ill-health, temperament, and having to cope with the
-                        deceitfulness of servants, she determined to move into Clifton, and in a
-                        smaller house, with a fresh staff of servants, to begin another chapter of
-                        her life—at eighty-three years of age. Three days a-week, from twelve to
-                        three o'clock, were set apart for the reception of visitors, and when
-                        remonstrated with for thus fatiguing herself, the unselfish old lady had
-                        always four reasons ready, which she considered unanswerable—If old, she saw
-                        them "out of respect; if young, hoping to do them good; if from a distance,
-                        because they had come from far; if from near home, because neighbours would
-                        be naturally aggrieved at being excluded when she was open to receiving
-                        strangers."</p>
-                    <p>As her strength for earthly journeyings declined, her thoughts centred more
-                        and more on the "land of far distances," and she realised fully that the
-                        time of her departure was at hand. Her final illness lasted for eleven
-                        months—long enough for a whole treasury of dying sayings; but the "gayety"
-                        of which she spoke in her seventy-first year never forsook her, and is not
-                        one of the least charming traits in the character of this quiet
-                        reformer.</p>
+                        deceitfulness of servants, she determined to move into <rs corresp="places"
+                            ana="town">Clifton</rs>, and in a smaller house, with a fresh staff of
+                        servants, to begin another chapter of her life—at eighty-three years of age.
+                        Three days a-week, from twelve to three o'clock, were set apart for the
+                        reception of visitors, and when remonstrated with for thus fatiguing
+                        herself, the unselfish old lady had always four reasons ready, which she
+                        considered unanswerable—If old, she saw them <rs
+                            corresp="narrative_elements" ana="speech_subject">"out of respect; if
+                            young, hoping to do them good; if from a distance, because they had come
+                            from far; if from near home, because neighbours would be naturally
+                            aggrieved at being excluded when she was open to receiving
+                            strangers."</rs></p>
+                    <p><milestone unit="subject" corresp="life_events" ana="illness_or_health"/>As
+                        her strength for earthly journeyings declined, her thoughts centred more and
+                        more on the <rs corresp="narrative_elements"
+                            ana="quotation_writing_by_subject">"land of far distances,"</rs> and she
+                        realised fully that the time of her departure was at hand. Her final illness
+                        lasted for eleven months—long enough for a whole treasury of dying sayings;
+                        but the "gayety" of which she spoke in her seventy-first year never forsook
+                        her, and is not one of the least charming traits in the character of this
+                        quiet reformer.</p>
                     <p>
-                        <rs corresp="genre_conventions" ana="resolution">On the 7th of September the
-                            end came, and after lying in a semi-delirious state for many hours, she
-                            passed away, murmuring as her last conscious words, "Patty—joy."</rs>
+                        <milestone unit="subject" corresp="life_events" ana="death"/>On the
+                            <date>7th of September</date> the end came, and after lying in a
+                        semi-delirious state for many hours, she passed away, murmuring as her last
+                        conscious words, <rs corresp="narrative_elements" ana="speech_subject"
+                            >"Patty—joy."</rs>
                     </p>
-                    <p>There is a deep pathos in the association of the words. One could almost
+                    <p><milestone unit="subject" corresp="narrative_elements" ana="focalization"
+                        />There is a deep pathos in the association of the words. One could almost
                         believe that a glimpse of that beloved sister who had shared in so much of
                         her earthly happiness was vouchsafed to her, waiting perhaps to welcome her
-                        within the golden gates of that beautiful country wherein is "fulness of
-                        joy, and pleasures for evermore."</p>
-                    <p>On the 13th of September 1833, every church in Bristol rang a muffled peal,
-                        and the tired body of Hannah More was laid to rest in Wrington churchyard,
-                        amid every manifestation of respectful mourning. There lie the five More
-                        sisters, of whom Johnson had said, "I love you all!"…</p>
-                    <p>Judged by the present pyrotechnic style of literary composition, the success
-                        of her work seems phenomenal; but in her day books were not so much a matter
-                        of daily outputting as now, and for a publisher to be delivered into the
-                        hands of a woman was a welcome novelty.</p>
+                        within the golden gates of that beautiful country wherein is <rs
+                            corresp="narrative_elements" ana="allusion">"fulness of joy, and
+                            pleasures for evermore."</rs></p>
+                    <p><milestone unit="subject" corresp="life_events" ana="memorial"/>On the
+                            <date>13th of September 1833</date>, every church in <rs
+                            corresp="places" ana="city">Bristol</rs> rang a muffled peal, and the
+                        tired body of Hannah More was laid to rest in <rs corresp="places"
+                            ana="shrine">Wrington churchyard</rs>, <milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="topos_recognition"/>amid every
+                        manifestation of respectful mourning. There lie the five More sisters, of
+                        whom <name>Johnson</name> had said, <rs corresp="narrative_elements"
+                            ana="speech_others">"I love you all!"</rs>…</p>
+                    <p><milestone unit="subject" corresp="life_events" ana="talent"/>Judged by the
+                        present pyrotechnic style of literary composition, the success of her work
+                        seems phenomenal; but in her day books were not so much a matter of daily
+                        outputting as now, and for a publisher to be delivered into the hands of a
+                        woman was a welcome novelty.</p>
                     <p>Phrases, too, which to us seem "stilted" almost to absurdity, were then only
                         the courtesies of everyday life—so much is the standard of politeness in its
-                        decadence.</p>
-                    <p>
-                        <rs corresp="narrative_rhetoric" ana="topos_influence">But it is not too
-                            much to say that Hannah More will always be remembered with respectful
-                            admiration, even by men of more literary culture than William
-                            Wilberforce, who said that he would "rather appear in Heaven as the
-                            author of 'The Shepherd of Salisbury Plain' than as the author of
-                            'Peveril of the Peak.'"</rs>
+                        decadence. <milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="topos_influence"/><milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="example"/>But it is not too much to
+                        say that Hannah More will always be remembered with respectful admiration,
+                        even by men of more literary culture than <name>William Wilberforce</name>,
+                        who said that he would <rs corresp="narrative_elements" ana="speech_others"
+                            >"rather appear in Heaven as the author of <hi rend="italics">The
+                                Shepherd of Salisbury Plain</hi> than as the author of <hi
+                                rend="italics">Peveril of the Peak</hi>."</rs>
                     </p>
                     <p>Such men as the shepherd doubtless still exist, though their conditions may
                         be different; and among the many new editions that are continually cropping
