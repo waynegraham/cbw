@@ -47,7 +47,7 @@
 							'bPaginate': false,
 							'bAutoWidth': false
 						});
-						$('a[name*='+window.location.hash.substring(1)+']').addClass('hilite');
+						$('a[name*='+window.location.hash.substring(1)+']').closest('tr').addClass('hilite');
 					} );
 				</script>
             </body>
