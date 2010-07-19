@@ -218,6 +218,10 @@
 			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
+	
+	<xsl:template match="seg[@corresp and @id]">
+		<span id="{@id}" class="corresp"><a href="#{@corresp}"><xsl:apply-templates/></a></span>
+	</xsl:template>
 
 	<xsl:template match="note">
 		<div class="endnote" id="{@id}">
