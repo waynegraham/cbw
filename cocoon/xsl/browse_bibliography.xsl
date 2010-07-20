@@ -14,7 +14,7 @@
 	<xsl:variable name="entries" select="//text/body//div2"/>
 	<xsl:variable name="count" select="count($entries)"/>	
 	<xsl:variable name="apos"><xsl:text>'</xsl:text></xsl:variable>
-	<xsl:variable name="aposfix"><xsl:text>&apos;</xsl:text></xsl:variable>
+	<xsl:variable name="aposfix"><xsl:text>&#39;</xsl:text></xsl:variable>
 
 	<xsl:param name="searchstring"/>
 
