@@ -138,7 +138,7 @@
 												<ul class="image-carousel jcarousel-skin-tango">
 													<xsl:for-each select="image">
 														<li>
-															<a title="{./imgDesc}" onclick="displayIllus('{@n}', '{replace(./@imgDesc,'&#34;',&quot;'&quot;)}')">
+															<a title="{./imgDesc}" onclick='displayIllus("{@n}", "{./@imgDesc}")'>
 																<img src="thumbs/{@n}.jpg" alt="{./@imgDesc}"/>
 																<div class="illus"><xsl:value-of select="./imgName"/></div>
 															</a>
