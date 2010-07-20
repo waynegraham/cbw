@@ -939,22 +939,21 @@
                     <p><name type="presenter">Rosa Nouchette Carey</name> begins her four-chapter,
                         seventy-seven page biography of "Her Majesty the Queen"<milestone
                             unit="subject" corresp="subject_type" ana="royalty"/> with excessive
-                        signals of warranted authority. First, an epigraph by
+                        signals of authority. After redundant chapter titles, "Childhood and Youth," "Victoria the Good," comes 
+                        an epigraph by
                             <name>Wordsworth</name>, praising the auspicious <milestone
                             unit="subject" corresp="life_events" ana="birth"/>birth of <name
                             corresp="QUEEN_VICTORIA">Victoria</name>. It is actually an
                         excerpt&mdash;ten tetrameter lines of the "Quartet"&mdash;of Wordsworth's
                         "Ode on the Installation of His Royal Highness Prince Albert as Chancellor
                         of the University of Cambridge in 1847," a kind of fairytale musical (15).
-                        The "Quartet" ends with Time's prophecy that Victoria will be that rare
-                        sovereign who enjoys the blessing of love. Carey's unimaginatively
-                        chronological and royalist biography wishes to maintain the tone of
+                        <milestone unit="subject" corresp="narrative_elements" ana="allusion"/>The "Quartet" ends with Time's <rs corresp="narrative_rhetoric" ana="prophecy">prophecy that Victoria will be that rare
+                            sovereign who enjoys the blessing of love.</rs> 
                         Wordsworth's occasional poem,<milestone unit="subject" corresp="history"
-                            ana="festival"/> a court masque guided by divine allegories, but it must
-                        also attend to recent national history. Wordsworth's endorsement, following
-                        redundant chapter titles characteristic of the subject and design of this
-                        lengthy short biography, "Childhood and Youth," "Victoria the Good," leads
-                        to a citation of <name>Thomas Macaulay</name>: <quote>"When the time comes
+                            ana="festival"/> a court masque guided by divine allegories, anticipates the spirit of this 
+                        ponderous, royalist biography. But this is also a biography set in recent national history, as signalled by
+                        a second epigraph,<milestone unit="subject" corresp="narrative_elements" ana="allusion"/> from the historian <name>Thomas Macaulay</name>:</p> 
+                        <p rend="block">When the time comes
                             for the history of the <milestone unit="subject" corresp="history"
                                 ana="leader"/>reign of <name corresp="QUEEN_VICTORIA">Queen
                                 Victoria</name> to be written, it will be found that no equal
@@ -962,14 +961,12 @@
                             the commencement of the Christian era&mdash;except, perhaps, that which
                             includes the discovery of America, the invention of printing, and the
                             Reformation&mdash; has been so full of important events, affecting the
-                            condition and progress of the human race."</quote>
-                        <name>Macaulay</name> alludes to <milestone unit="subject" corresp="history"
-                            ana="progress"/> the progress of science, technology, <quote>"the
-                            subjugation of nature to the use of man,"</quote> and the general
-                        advancement of society in education, morals, and religion (15). This
-                        characterization of the eponymous era of Victorian progress in turn is
-                        linked to a history of the British monarchy, specifically the precedent of a
-                        queen in command: <name type="presenter">Carey</name> approvingly cites
+                            condition and progress of the human race.</p>
+                        <p><name>Macaulay</name> alludes to <milestone unit="subject" corresp="history"
+                            ana="progress"/> the progress of science, technology, "the
+                            subjugation of nature to the use of man," and the general
+                        advancement of society in education, morals, and religion (15). Victoria's progress is linked to
+                        a tradition of the English queen regnant: <name type="presenter">Carey</name> approvingly cites
                             <name>Lord Macaulay's</name> analogy <milestone unit="subject"
                             corresp="narrative_rhetoric" ana="analogy_historical_woman"
                         />representing <name corresp="QUEEN_VICTORIA">Victoria</name> as "a wiser,
@@ -989,21 +986,15 @@
                             key="court">palace at Kensington</rs> the girl baby <rs
                             type="life_events" key="birth">opened her blue eyes first on this
                             world</rs>. <milestone unit="subject" corresp="life_events" ana="family"
-                        />The only child of the popular <name>Duke of Kent</name><milestone
-                            unit="subject" corresp="agents" ana="father"/> and his wife, the widowed
-                        and charming <name>Princess of Leiningen</name><milestone unit="subject"
-                            corresp="agents" ana="mother"/>, great was her father's rejoicing at her
+                            />The only child of the popular <rs corresp="agents" ana="father">Duke of Kent</rs> and his wife, the widowed
+                        and charming <rs corresp="agents" ana="mother">Princess of Leiningen</rs>, great was her father's rejoicing at her
                         birth. <rs type="narrative_elements" key="speech_others">'Take care of her,
                             for she will be Queen of England,'</rs><milestone unit="subject"
                             corresp="narrative_rhetoric" ana="prophecy"/> he would say, with fond
                         pride....(16)</p>
-                    <p>A tale of royal progress can have the stilted pace of a processional, as the
-                        presenter lines up events and sources. But grand proceeding is belied by the
-                        indiscriminate accumulation of details and unidentified quotations.
-                        according to a leveling standard of relevance or significance. Thus Thus
-                            <name>Carey</name> signals no modification of interest or affect when
-                        running through her information: the baptism of Princess Alexandrina
-                        Victoria on <date> June 24, 1819</date>, the infant's distinction as the
+                    <p>A tale of royal progress can have the stilted pace of a processional, but the grandeur may be
+                        belied by a leveling tendency to include indiscriminate details and to mix emotional registers. The account runs through                        running through her information: the baptism of Princess Alexandrina
+                        Victoria's baptism on <date> June 24, 1819</date>, the infant's distinction as the
                         first British royal person to be vaccinated, and the family holiday to
                         Sidmouth, "where the little one thrived in the health-giving Devonshire
                             air;<milestone unit="subject" corresp="life_events"
@@ -1021,10 +1012,8 @@
                         anecdote uncannily anticipates many public spectacles of Victoria's joy and
                         grief, and even anticipates something of the disproportion between occasion
                         and feeling that many witnessed in her later life.</p>
-                    <p>Carey makes her own public display of disproportionate affect in the effort
-                        to shape a narrative about the living Queen. She frequently relies on direct
-                        address, emphasis, cliched tropes and topoi, and other narrative rhetoric
-                        and conventions of biography as a genre. Thus, the fifth and sixth
+                    <p>As if struggling to shape a narrative about the living Queen, Carey relies on a range of emphatic 
+                        conventions of biography as a genre. Thus, the fifth and sixth
                         paragraphs, each a sentence long:</p>
                     <p rend="block"> As we follow the footsteps<milestone unit="subject"
                             corresp="narrative_rhetoric" ana="direct_address"/> of the Royal child
@@ -1046,10 +1035,11 @@
                         quote anecdotes by eminent witnesses of the royal childhood. "The great
                         philanthropist <name>William Wilberforce</name> writes to <name
                             corresp="HANNAH_MORE">Hannah More</name>, on <date>July 21st,
-                            1820</date>" of an invitation to wait on the Duchess of Kent. "'She
+                            1820</date>" of an invitation to wait on the Duchess of Kent. <rs corresp="narrative_elements" 
+                                ana="quotation_letter">"'She
                         received me with her fine animated child on the floor beside her with her
                         playthings, of which I soon became one.' The life at Kensington Palace was
-                        as simple as that of any English household" (18). The future queen is
+                        as simple as that of any English household" (18).</rs> The future queen is
                         capable of making fond fools of statesmen, it seems&mdash;or of making a
                         domestic scene a model of the nation. This national home is at once cosy
                         (Princess and mother always share a bedroom) and bucolic (on summer days,
@@ -11331,7 +11321,7 @@
 
                     <p rend="block">
                         <rs corresp="narrative_elements" ana="quotation_writing_by_subject">"About
-                            fifty books, and a few tea-hings."</rs>
+                            fifty books, and a few tea-things."</rs>
                     </p>
 
                     <p>
