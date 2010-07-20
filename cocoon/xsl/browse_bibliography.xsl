@@ -14,7 +14,7 @@
 	<xsl:variable name="entries" select="//text/body//div2"/>
 	<xsl:variable name="count" select="count($entries)"/>	
 	<xsl:variable name="apos"><xsl:text>'</xsl:text></xsl:variable>
-	<xsl:variable name="aposfix">&#x27;</xsl:variable>
+	<xsl:variable name="aposfix"><xsl:text>&#x27;</xsl:text></xsl:variable>
 
 	<xsl:param name="searchstring"/>
 
@@ -197,7 +197,7 @@
 										<ul class="image-carousel jcarousel-skin-tango">
 											<xsl:for-each select="//bibl[@id=$bibl_id]/image">
 												<li>
-													<xsl:variable name="imageDesc"><xsl:value-of select="./imgDesc"/></xsl:variable>
+													<xsl:variable name="imageDesc"><xsl:value-of select=" translate(./imgDesc,$apos,$aposfix)"/></xsl:variable>
 													<a title="{./imgDesc}" onclick="displayIllus('{@n}', '{$imageDesc}')">
 														<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
 														<div class="illus"><xsl:value-of select="./imgName"/></div>
