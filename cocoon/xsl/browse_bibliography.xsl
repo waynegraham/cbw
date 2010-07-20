@@ -197,7 +197,7 @@
 										<ul class="image-carousel jcarousel-skin-tango">
 											<xsl:for-each select="//bibl[@id=$bibl_id]/image">
 												<li>
-													<xsl:variable name="imageDesc"><xsl:value-of select=" translate(./imgDesc,$apos,'')"/></xsl:variable>
+													<xsl:variable name="imageDesc"><xsl:value-of select="replace(./imgDesc,'&#34;',&quot;\'&quot;)"/></xsl:variable>
 													<a title="{./imgDesc}" onclick="displayIllus('{@n}', '{$imageDesc}')">
 														<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
 														<div class="illus"><xsl:value-of select="./imgName"/></div>
