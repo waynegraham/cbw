@@ -21,7 +21,7 @@
                         <td class="subnav">
                             <a href="#about">About</a> |
                             <a href="#userguide">User's Guide</a> | 
-                            <a href="#dimens">Dimensions</a>
+                            <a href="#dimens">Dimensions</a> | 
                             <a href="#acknowledgments">Acknowledgments</a>
                         </td>
                     </tr>
