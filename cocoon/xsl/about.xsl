@@ -22,24 +22,27 @@
                             <a href="#about">About</a> |
                             <a href="#userguide">User's Guide</a> | 
                             <a href="#dimens">Dimensions</a>
+                            <a href=""></a>
                         </td>
                     </tr>
                     <tr>
-                        <td class="about-content">
-                            <a name="about"></a>
+                        <td class="about-content" id="about">
                             <xsl:apply-templates select="/TEI.2/text/front/div1[@type='about']"/>
                         </td>
                     </tr>
                     <tr>
-                        <td class="about-content">
-                            <a name="userguide"></a>
+                        <td class="about-content" id="userguide">
                             <xsl:apply-templates select="/TEI.2/text/front/div1[@type='userguide']"/>
                         </td>
                     </tr>
                     <tr>
-                        <td class="about-content">
-                            <a name="dimens"></a>
+                        <td class="about-content" id="dimens">
                             <xsl:apply-templates select="/TEI.2/text/front/div1[@type='dimens']"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="about-content" id="acknowledgments">
+                            <xsl:apply-templates select="/TEI.2/text/front/div1[@type='acknowledgments']"/>
                         </td>
                     </tr>
                 </table>
