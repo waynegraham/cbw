@@ -140,7 +140,8 @@
 												<ul class="image-carousel jcarousel-skin-tango">
 													<xsl:for-each select="image">
 														<li>
-															<a title="{./imgDesc}" onclick='displayIllus("{@n}", "{./imgDesc}")'>
+															<xsl:variable name="imageDescFull"><xsl:value-of select="normalize-space(translate(./imgDesc,$apos,$aposfix))"/></xsl:variable>
+															<a title="{./imgDesc}" onclick='displayIllus("{@n}", "{$imageDescFull}")'>
 																<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
 																<div class="illus"><xsl:value-of select="./imgName"/></div>
 															</a>
@@ -197,7 +198,7 @@
 										<ul class="image-carousel jcarousel-skin-tango">
 											<xsl:for-each select="//bibl[@id=$bibl_id]/image">
 												<li>
-													<xsl:variable name="imageDesc"><xsl:value-of select=" translate(./imgDesc,$apos,$aposfix)"/></xsl:variable>
+													<xsl:variable name="imageDesc"><xsl:value-of select="normalize-space(translate(./imgDesc,$apos,$aposfix))"/></xsl:variable>
 													<a title="{./imgDesc}" onclick="displayIllus('{@n}', '{$imageDesc}')">
 														<img src="thumbs/{@n}.jpg" alt="{./imgDesc}"/>
 														<div class="illus"><xsl:value-of select="./imgName"/></div>
