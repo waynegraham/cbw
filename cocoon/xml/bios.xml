@@ -928,13 +928,13 @@
                 </div2>
                 <div2 n="1" id="CBW_TEAM_QUEEN_VICTORIA" type="bio">
                     <docAuthor>Alison Booth</docAuthor>
-                    <docDate>October 28, 2009</docDate>
+                    <docDate>July 22, 2010</docDate>
                     <head>
-                        <title>Queen Victoria: Reigning Subject, Dull Biography</title>
+                        <title>Queen Victoria: Performing Mixed Emotions Again and Again</title>
                         <bibl>Interpretive version of Rosa Nouchette Carey's short biography
                             informed by essays in <title>
-                                <hi rend="italics">Remaking Queen Victoria</hi>
-                            </title>.</bibl>
+                                <hi rend="italics">Remaking Queen Victoria.</hi>
+                            </title></bibl>
                     </head>
                     <p><name type="presenter">Rosa Nouchette Carey</name> begins her four-chapter,
                         seventy-seven page biography of "Her Majesty the Queen"<milestone
@@ -960,7 +960,7 @@
                                 <milestone unit="subject" corresp="history" ana="era"/>epoch since
                             the commencement of the Christian era&mdash;except, perhaps, that which
                             includes the discovery of America, the invention of printing, and the
-                            Reformation&mdash; has been so full of important events, affecting the
+                            Reformation&mdash;has been so full of important events, affecting the
                             condition and progress of the human race.</p>
                         <p><name>Macaulay</name> alludes to <milestone unit="subject" corresp="history"
                             ana="progress"/> the progress of science, technology, "the
@@ -993,9 +993,10 @@
                             corresp="narrative_rhetoric" ana="prophecy"/> he would say, with fond
                         pride....(16)</p>
                     <p>A tale of royal progress can have the stilted pace of a processional, but the grandeur may be
-                        belied by a leveling tendency to include indiscriminate details and to mix emotional registers. The account runs through                        running through her information: the baptism of Princess Alexandrina
-                        Victoria's baptism on <date> June 24, 1819</date>, the infant's distinction as the
-                        first British royal person to be vaccinated, and the family holiday to
+                        belied by a leveling tendency to include indiscriminate details and to mix emotional registers. The account 
+                        runs through her information: the baptism of Princess Alexandrina
+                        Victoria on <date> June 24, 1819</date>; the infant's distinction as the
+                        first British royal person to be vaccinated; the family holiday to
                         Sidmouth, "where the little one thrived in the health-giving Devonshire
                             air;<milestone unit="subject" corresp="life_events"
                             ana="illness_or_health"/> but alas!" her father caught a fatal chill.
@@ -1006,17 +1007,18 @@
                             carriage window to bid the assembled population of Sidmouth farewell,
                             sported and laughed joyously, and patted the glass with her pretty
                             dimpled hands, in happy unconsciousness of her melancholy
-                            bereavement.'...how vividly one seems to see it!"</rs>(18).</p>
+                            bereavement.'...how vividly one seems to see it!"</rs><milestone unit="subject"
+                                corresp="narrative_rhetoric" ana="direct_address"/>(18).</p>
                     <p>
-                        <milestone unit="subject" corresp="narrative_rhetoric" ana="emphasis"/> The
-                        anecdote uncannily anticipates many public spectacles of Victoria's joy and
-                        grief, and even anticipates something of the disproportion between occasion
-                        and feeling that many witnessed in her later life.</p>
-                    <p>As if struggling to shape a narrative about the living Queen, Carey relies on a range of emphatic 
-                        conventions of biography as a genre. Thus, the fifth and sixth
+                        <milestone unit="subject" corresp="narrative_rhetoric" ana="emphasis"/>As the biography proceeds, the reader
+                        will become familiar with Carey's preference for such 
+                        word pictures, emblems, or narrative paintings contrasting innocent youth with warnings of death; there will
+                        be many similar public spectacles of Victoria's emotion. Often the scene
+                        seems to value the royal capacity to override the more natural affect of an occasion.</p>
+                    <p>Carey almost admits that it is difficult to write an interesting narrative about the living
+                        queen, about whom we know everything but may actually have little to say. Thus, on the task of biography, the fifth and sixth
                         paragraphs, each a sentence long:</p>
-                    <p rend="block"> As we follow the footsteps<milestone unit="subject"
-                            corresp="narrative_rhetoric" ana="direct_address"/> of the Royal child
+                    <p rend="block"> As we follow the footsteps of the Royal child
                         from infancy to <rs type="life_events" key="childhood"/>childhood, and on
                         through her early youth,<milestone unit="subject"
                             corresp="genre_conventions" ana="movement"/> the curtain seems to rise
@@ -1027,8 +1029,7 @@
                             episodes,<milestone unit="subject" corresp="narrative_elements"
                             ana="episode"/> which seem to stand out with cameo-like clearness, and
                         one by one to reproduce them. (18) </p>
-                    <p>Biographers hungry for incident find these cameos nevertheless difficult to
-                        arrange and display. Each treasured event hints that it might have been mass
+                    <p>Each of these cameos hints that it might have been mass
                         produced. How to avoid the effect of a curtain rising again and again? The
                         national audience rehearses and performs sentiments memorized over a
                         collective lifetime of the Queen's reign. But Carey finds it worthwhile to
@@ -1071,10 +1072,10 @@
                         since the queen was so fond of children. Carey concurs with the queen's former 
                         governess that Victoria was promising, in every sense: "One must surely allow that these were remarkable
                         words to be spoken by a child of twelve" (21).</p>
-                    <p>A rosy, royalist picture of the Duchess of Kent's plans to raise a thoroughly English princess cannot
+                    <p>A rosy picture of the Duchess of Kent's nurture of a thoroughly English princess cannot
                         hide some conflicts. In a tone that blends biography, history, and fiction for girls, Carey recounts that the Princess was
                         presented at <rs corresp="places" ana="court">Court</rs> on Queen Adelaide's
-                        birthday, on <date>February 24th, 1831</date> but was conspicuously absent
+                        birthday, on <date>February 24th, 1831,</date> but was conspicuously absent
                         at the coronation of William IV. Carey perceives nothing controversial in
                         Parliament's designation of the Duchess of Kent as Regent<milestone
                             unit="subject" corresp="history" ana="government"/> with annual
@@ -1126,7 +1127,7 @@
                         Victoria's own recollection of the news of her uncle's death is less melodramatic, but emphasizes that she was sent
                         into see the Archbishop of Canterbury and the Lord Chamberlain <rs
                             corresp="narrative_rhetoric" ana="trope_alone">alone</rs>. </p>
-                    <p>Carey's Victoria is model providentially fit for a national destiny, yet full of
+                    <p>Carey's Victoria is a model providentially fit for a national destiny, yet full of
                         repressed emotion natural to a young girl. <milestone unit="subject" corresp="narrative_elements" 
                             ana="episode"/> As a "'multitude of men'" swear allegiance to her in the first Privy Council
                         <milestone
@@ -1146,7 +1147,7 @@
                         and Ireland'" (30), yet we are not to imagine she pronounced it aloud. Her letter of condolence 
                         to William's widow was addressed to "Her
                         Majesty the Queen": "'I will not be the first
-                        person to remind her of it'" (30)&mdash;another of the speeches<milestone
+                        person to remind her of it'" (30)&mdash;another of the speeches or reticences<milestone
                             unit="subject" corresp="narrative_elements" ana="speech_subject"/>
                         displayed like gems on velvet.</p>
                     <p>Carey's narrative follows day by day and hour by hour the test<milestone
@@ -1154,8 +1155,8 @@
                             monarch<milestone unit="subject" corresp="narrative_elements"
                             ana="temporal_effects"/>: "On the following morning, June 21st, the
                         Queen, accompanied by her mother, drove in state to St. James's Palace. The
-                        guns in the Park fired a salute at ten o'clock, and immediately the "little
-                        Queen" stood at the window of the Presence Chamber in full view of the
+                        guns in the Park fired a salute at ten o'clock, and immediately the 'little
+                        Queen' stood at the window of the Presence Chamber in full view of the
                             crowd,<milestone unit="subject" corresp="narrative_rhetoric"
                             ana="topos_recognition"/> while the band of the Royal Guards struck up
                         the National Anthem"; the proclamation is read aloud by the correct
@@ -1191,25 +1192,24 @@
                         excellent utterance than that of the <milestone unit="subject"
                             corresp="narrative_rhetoric" ana="trope_national_spirit"/>Queen's
                         English by the English Queen."</p>
-                    <p>This young woman's every utterance has become performative&amp;documented and
+                    <p>This young woman's every utterance has become performative&mdash;documented and
                         carrying the force of a vow or a law. Thus, Carey recounts Victoria's first
-                        of "many deeds of mercy," the pardon of a deserter (32), followed by the vow
-                        to perform a daughter's "'sacred duty'": <milestone unit="subject"
+                        of "many deeds of mercy," the pardon of a deserter (32), followed by the resolve of "'sacred duty'": <milestone unit="subject"
                             corresp="narrative_elements" ana="speech_subject"/>"'I want to pay all
                         that remains of my father's debts,' she said to the Prime Minister" (32).
                             <rs corresp="agents" key="superior">
-                            <name>Lord Melbourne</name>
-                        </rs>, now in loco parentis, devotes himself "to educate, instruct and form
+                            <name>Lord Melbourne,</name>
+                        </rs> now in loco parentis, devotes himself "to educate, instruct and form
                         the most interesting mind and character in the world," writes George
                         Villiers to Greville, in turn quoted by Carey (33). <milestone
                             unit="subject" corresp="life_events" ana="talent"/>
                         <milestone unit="subject" corresp="narrative_elements" ana="habit"/> With
                         Melbourne's guidance, Victoria "showed that untiring industry and remarkable
                         aptitude for business that was to set such a noble example to her subjects"
-                        (33). The girl who vowed to be good institutes a daily routine the nation
+                        (33).</p>
+                    <p>The girl who vowed to be good institutes a daily routine the nation
                         might safely follow (or envy).<milestone unit="subject"
-                            corresp="narrative_rhetoric" ana="example"/> Carey copies "a very
-                        interesting account that may be quoted with profit," outlining the Queen's
+                            corresp="narrative_rhetoric" ana="example"/> Carey quotes an outline of the Queen's
                         day in present tense that shifts to past in Carey's own words: She "'gets up
                         soon after eight o'clock, breakfasts in her own room, and is employed the
                         whole morning in transacting business....and has every matter of interest
@@ -1231,28 +1231,26 @@
                             events,<milestone unit="subject" corresp="narrative_elements"
                             ana="episode"/> the most notable being the Queen's coronation <milestone
                             unit="subject" corresp="history" ana="festival"/><date>June 28th,
-                            1838</date> and wedding on <date>February 10, 1840.</date> But the
-                        familiar events consume seven remaining pages of the chapter, the details
-                        relished for their pomp, romance, weight. The coronation is "a magnificent
+                            1838</date> and wedding on <date>February 10, 1840,</date> events relished in detail
+                        for their pomp, romance, weight. The coronation is "a magnificent
                         and soul-stirring spectacle"; witnesses weep "during the long wearisome
                         ceremonial," and choirboys shout "'Vivat Victoria Regina!," trumpets, drums,
                         and guns resound, and the Queen and her mother are nearly overcome with
                             emotion.<milestone unit="subject" corresp="narrative_rhetoric"
                             ana="topos_affect"/> The emotion did not, for some time, extend to a
-                        passionate urge to marry Albert. Carey approves of Victoria's retrospective
+                        passionate urge to marry Albert.</p> <p> Carey approves of Victoria's retrospective
                         self-reproach for having kept the prince in suspense for years: Victoria
                         writes, <rs corresp="narrative_elements" key="quotation_writing_by_subject"
                             >"'The only excuse the Queen can make for herself is in the fact, that
                             the sudden change from the secluded life at Kensington to the
                             independence of her position as Queen Regnant at the age of eighteen,
                             put all idea of marriage out of her mind, which she now most bitterly
-                            repents.' All these maidenly doubts and scruples were to vanish,
-                            however, before the irresistible feeling inspired by the Prince when
-                            they met again" </rs>(35). Carey relies on Victoria's letters to King
+                            repents'"</rs> (35).  But the sight of Albert overcame all resistance.</p>  
+                    <p>Carey relies on Victoria's letters to King
                         Leopold and Baron Stockmar, statements of private feeling clearly
                         communicating a matter of international political concern. The young woman
                         feels guilty for her recent resolution not to marry, but confesses <rs
-                            corresp="narrative_elements" key="quotation_letter">"'Albert has
+                            corresp="narrative_elements" key="quotation_writing_by_subject">"'Albert has
                             completely won my heart, and all was settled between us this morning.
                             ... I feel certain he will make me very happy. I wish I could say I felt
                             as certain of making him happy, but I shall do my best'"</rs> (36).
@@ -1260,31 +1258,27 @@
                         love was mutual; Carey interrupts excerpts of it to exclaim, "Could anything
                         be more idyllic in its simplicity and guileless reality than this betrothal
                         of the 'sweet Flower of May' to the princely Sir Galahad, so true to the
-                        motto of his house, '<hi rend="italics">Treu und Fest</hi>'" (37). After an
-                        idyllic month at <rs corresp="places" key="court">Windsor Castle</rs>,
-                        Albert and his brother returned home, and Victoria is reported, in
+                        motto of his house, '<hi rend="italics">Treu und Fest</hi>'" (37).</p>
+                    <p>When the princes returned home, Victoria is reported, in
                         correspondence between royal families, to be disconsolate. <milestone
                             unit="subject" corresp="narrative_rhetoric" ana="topos_affect"/>
                         <milestone unit="subject" corresp="narrative_elements"
-                            ana="quotation_letter"/> "There is a touching sentence in a letter of
-                        the Prince to the Duchess of Kent. 'What you say about my poor little bride
-                        sitting all alone in her room, sad and silent, has touched me to the heart.
-                        Oh, that I might fly to her side to cheer her!' And the Queen herself
-                        afterwards wrote: 'For '"the poor little bride" there was no lack of those
-                        sweet words, touched with the grateful humility of a manly love, to receive
-                        which was a precious foretaste to her of the happiness of the years to
-                        come.' Very lover-like were the letters that came to her" (37-38). The
-                        publication of private correspondence in biography appears to have been the
-                        condition of Victoria's life, well before posthumous recognition (Carey's
-                        subject is still alive). Similarly, Victoria had to declare her feelings and
+                            ana="quotation_letter"/> Albert wrote to the Duchess of Kent, "'What you say about my poor little bride
+                        sitting all alone in her room, sad and silent, has touched me to the heart," and Victoria
+                        later reflected on this epistolary consolation: "For 'the poor little bride' there was no lack of those
+                        sweet words, touched with the grateful humility of a manly love,...a precious foretaste to 
+                        her of the happiness of the years to
+                        come" (37-38). There are several frames to this quotation of correspondence, Carey quoting the living queen's
+                        own written rereading of well-publicized exchanges of feeling years before. The romance was
+                        never a private affair. Victoria had to declare her feelings and
                         marital intentions to Government, always manifesting her sensibility as well
                         as her command of the performance. <rs corresp="narrative_elements"
                             key="quotation_writing_by_subject">"'I felt my hand shake, but I did not
                             make one mistake,'"</rs> she wrote in her journal (38). </p>
-                    <p>Although Carey endorses the guileless romance of the two lovers, the marriage
-                        is excessively procedural, and the biography covers Albert's title and
-                        annuity, the question of the wedding liturgy (to retain the word
-                        "obedience"), the matter of the wedding gown's Honiton lace, her train
+                    <p>For a guileless romance, the marriage is excessively procedural; questions must be settled
+                        of Albert's title and
+                        annuity, the wedding liturgy (to retain the word
+                        "obedience"), the wedding gown's Honiton lace, how her train is to be
                         "borne by twelve...daughters of well-known peers" (39). <milestone
                             unit="subject" corresp="life_events" ana="marriage"/> Witnesses
                         described her attire and her expressions of tearful happiness and
@@ -1311,14 +1305,14 @@
                             <milestone unit="subject" corresp="narrative_rhetoric" ana="example"/>in
                         their "industry" as well as "their method of utilising their moments of
                             leisure"<milestone unit="subject" corresp="narrative_elements"
-                            ana="habit"/> (42). As in the depictions of a quasi-pastoral life at the
-                        palace with the happy princess, here Carey imports eyewitness testimony, a
+                            ana="habit"/> (42). As in the depictions of the quasi-pastoral childhood at the palace, Carey imports 
+                        eyewitness testimony, a
                         letter quoted in a biography of Prince Albert, written by "one of the
                         artists employed in decorating a pavilion in the garden of Buckingham
                         Palace." <milestone unit="subject" corresp="narrative_elements"
                             ana="quotation_letter"/>The artist can attest to Victoria and Albert's
-                        superioriity to other royalty for whom he has worked. They win "'admiration
-                        and love. In many things they are an example to the age. They have
+                            superioriity to other royalty for whom he has worked.</p>
+                    <p rend="block"> They have
                         breakfasted, had morning prayers with the household in the private chapel,
                         and are out some distance from the Palace, talking to us in the
                         summer-house, before half-past nine o'clock, sometimes earlier. After the
@@ -1326,40 +1320,38 @@
                         evidently delighted to get away from the bustle of the world to enjoy each
                         other's society in the solitude of the garden.... Here, too, the royal
                         children are brought out by their nurses, and the whole arrangement seems
-                        like real domestic pleasure.' <rs corresp="narrative_rhetoric" ana="example"
-                            >Could any description be more idyllic in its sweet simplicity? What an
+                        like real domestic pleasure.</p>
+                    <p><rs corresp="narrative_rhetoric" ana="example"
+                            >Carey confirms this idyll as a reproach to common upper classes: "What an
                             example to those frivolous butterflies of fashion always seeking after
                             pleasure, and frittering away precious time and strength in their search
                             for what they call happiness"</rs> (43-44). </p>
-                    <p>Chronology motivates Carey's text to move from one line to the next, but the
-                        theme of Victoria's supreme virtues in contrast to "jaded worldlings" (44)
-                        brings to mind, abruptly in the next paragraph, the moral improvements of
+                    <p>Abruptly the
+                        theme of Victoria's virtues in contrast to "jaded worldlings" (44)
+                        leads Carey to the moral improvements of
                         the entire Victorian age. "The Queen's influence on the stage was
                         wonderfully beneficial; as <name>Mrs. Oliphant</name> observes, <rs
                             corresp="narrative_elements" key="quotation_documentary">"she was in the
                             foreground of the national life, affecting it always for good....The
                             theatres to which she went, and which both she and her husband enjoyed,
                             were purified by her presence; evils which had been the growth of years
-                            disappearing before the face of the young Queen"</rs> (44). This point
-                        affirmed, the text moves to the birth of <rs corresp="agents"
+                            disappearing before the face of the young Queen"</rs> (44). The new era then 
+                            leads Carey back to the biographer's chronological responsibilities.</p>
+                    <p>The next event is the birth of <rs corresp="agents"
                             key="child_children">
-                            <name>the Princess Royal</name>
-                        </rs>, on <date>November 21, 1840</date>. This event invites a description
-                        of the way the Prince attended to his wife,<milestone unit="subject"
+                            <name>the Princess Royal,</name>
+                    </rs> on <date>November 21, 1840</date>. Childbearing become a habit with 
+                        this couple; the Prince would always attend to his wife,<milestone unit="subject"
                             corresp="agents" ana="husband"/> moving her from bed to sofa during her
-                        confinements. "As years went on, and he became overwhelmed with work
-                            <milestone unit="subject" corresp="narrative_elements" ana="habit"/>(for
-                        his attentions were the same in all the Queen's subsequent confinements),
+                        confinements. "As years went on, and he became overwhelmed with work...
+                            <milestone unit="subject" corresp="narrative_elements" ana="habit"/>,
                         this was often done at much inconvenience to himself; but he ever came with
                         a sweet smile on his face. In short, his care of her was like that of a
                         mother, nor could there have been a kinder, wiser, or more judicious nurse"
                         (45). </p>
                     <p>Knowing that the royal family is prolific and that Victoria and Albert are
-                        happy until his unexpected death, the reader begins to feel that the
-                        biography of this monarch is more wearying than the duties and ceremonies of
-                        court. But perhaps contemporaries took personal interest in the annals of
-                        childbirth and holidays for this family of celebrities. The text draws on
-                        correspondence and journals for glimpses of domestic life. The <rs
+                        happy until his unexpected death, the reader anticipates a kind of lulling effect in this biography, perhaps
+                        to be enjoyed like a real-life fairy tale. The <rs
                             corresp="agents" key="child_children">
                             <name>Prince of Wales</name>
                         </rs> was born <date>November 9, 1841</date>, and christened the following
@@ -1377,18 +1369,17 @@
                         consitute "history." This is characteristic of contemporary short
                         biographies of the Queen, which credit her with the spirit of her age but
                         reduce that age to a few outline events. Rather abruptly, Victoria's
-                        domestic idyll gains a background of conditions of some but not all
-                        "troubles" of <date>1842</date> (famine being unmentioned). "There was
+                        domestic idyll gains a background of the "troubles" of <date>1842.</date> "There was
                         terrible news from <rs corresp="places" key="nation">Afghanistan</rs>, and
                         though the <milestone unit="subject" corresp="history"
                             ana="international_war"/>British arms ultimately conquered, there were
                         fearfully heavy losses.... There was also war with <rs corresp="places"
                             key="nation">China</rs>, and the condition of things at home was most
                         unsatisfactory, and a growing agitation on account of the corn
-                            laws.<milestone unit="subject" corresp="history" ana="mass_action"/> T
-                        here were fears of a Chartist rising, and to offer a stimulus to trade the
+                            laws.<milestone unit="subject" corresp="history" ana="mass_action"/> There were 
+                        fears of a Chartist rising, and to offer a stimulus to trade the
                         Queen gave a <hi rend="italics">bal masque</hi> at <rs corresp="places"
-                            key="court">Buckingham Palace</rs>, always mentioned as 'The Queen's
+                            key="court">Buckingham Palace</rs>, ...'The Queen's
                         Plantagenet Ball.'" The impertinence of a festival of consumption (and
                         anachronism) to address an economic crisis persists in the life of Queen
                         Victoria, with Carey's stamp of approval. </p>
@@ -1399,18 +1390,18 @@
                         born and relatives died. Once the text has identified the complete series of
                         royal children, Carey devotes some paragraphs to the theme of child-rearing
                         and education, largely through extended quotation of other biographies. Thus
-                        "that charming book, 'The Private Life of the Queen,' by one of Her
+                        <rs corresp="narrative_elements" ana="quotation_biography">"that charming book, 'The Private Life of the Queen,' by one of Her
                         Majesty's servants, tells us that the Queen 'always made time in her busy
-                        life to bathe with her own hands the last new baby'" (49). <rs
+                        life to bathe with her own hands the last new baby'" (49).</rs> <rs
                             corresp="life_events" key="education">Predictably, Victoria repeats the
                             principles of her own upbringing, "simplicity," "discipline,"
                             sequestration from "Court life," along with the employment of first-rate
                             instructors in languages and arts, and conscientious religious training
                             (49).</rs>
                     </p>
-                    <p>Carey's attention seems surprisingly occupied by biographies of Prince
+                    <p>Carey's seems surprisingly preoccupied by biographies of Prince
                         Albert, as if sharing the Queen's infatuation. He was the Queen's "truest
-                        advisor and counsellor," and she camed to "lean more on that strong arm and
+                        advisor and counsellor," and she came to "lean more on that strong arm and
                         bright intellect" (50). It was Albert who oversaw the design and growth of
                         the island home, Osborne. And of course it was Albert who devised the
                             <milestone unit="subject" corresp="history" ana="festival"/>Great
@@ -1419,13 +1410,10 @@
                         only event it in the slightest degree reminded me of was the coronation, but
                         this day's festival was a thousand times superior." Victoria's writing calls
                         the opening of the Exhibition "The proudest and happiest day of... my happy
-                        life. . . . To see this great conception of my beloved husband's mind, which
-                        is always labouring for the good of others, to see this great thought and
-                        work crowned with triumphant success" (52-53).</p>
-                    <p>The awkward intermingling of family events and historical events continues.
+                        life. . . . To see this great conception of my beloved husband's mind...crowned with triumphant success" (52-53).</p>
+                    <p>The awkward intermingling of family and historical events continues.
                         In <date>1854</date>, Victoria declared <rs corresp="history"
-                            key="international_war">war with Russia</rs>, a source of "consuming
-                        anxiety" (54). "The Queen suffered so keenly for her soldiers, that one of
+                            key="international_war">war with Russia</rs>. "The Queen suffered so keenly for her soldiers, that one of
                         the Royal children said to Lord Cardigan, when he came to Windsor, <rs
                             corresp="narrative_elements" key="speech_others">'You must hurry back to
                             Sebastopol and take it, else it will kill mamma'"</rs> (54). The
@@ -1439,21 +1427,18 @@
                         nervous'" (54). Perhaps biography must commit such solecisms of scale and
                         perspective. The subject's life necessarily comes to the fore; the births of
                         children or the emotions when these children are wed inevitably claim
-                        importance, even if the subject should also care about a war, a massacre and
-                        its genocidal revenge. It is neither the Queen's nor Carey's job to tell the
+                        importance, even if the subject should also care about war and genocide. It is neither the Queen's nor Carey's job to tell the
                         complete public story.</p>
                     <p>Carey's narrative raises more than one glaring mystery in spite of its polite
-                        veneer. Why did Prince Albert fail? The explanation, that he was strained by
-                        overwork, "the sense of his responsibility as private adviser to Her
-                        Majesty," and the "'pressure which constantly compelled him to do in one day
+                        veneer. Why did Prince Albert fail? Carey shifts among explanations: he was strained by
+                        "his responsibility as private adviser to Her
+                        Majesty" and the "'pressure which constantly compelled him to do in one day
                         what would have been more than ample work for two'" (unidentified source;
-                        55-56), leaves doctors at the time convinced that typhoid fever, contracted
-                        in a visit to a military academy in torrential rain, caused the illness. But
-                        "he had no strong yearning for life.... Not long before his fatal illness,
+                        55-56); the doctors' diagnosed typhoid fever, contracted
+                        in a visit to a military academy in torrential rain; and yet, "Not long before his fatal illness,
                         in speaking to the Queen, he said: 'I do not cling to life; you do, but I
-                        set no store by it'" (56). Could he have wished, like many a literary if not
-                        actual wife, to fade from a condition of emotional strain, living up to
-                        being the parent/spouse/advisor/friend of an imperial sovereign? Carey
+                        set no store by it'" (56). Could he have wished to fade out of a wife-like role as helpmeet to an 
+                        imperial sovereign? Carey
                         synthesizes the many famous accounts of Prince Albert's illness by Victoria,
                         Princess Alice, and other witnesses. The chapter concludes with a verse by
                         "our glorious Poet Laureate" and these words: "'Their works do follow them.'
@@ -1469,49 +1454,44 @@
                         A thrill ran through the church" (62). The congregation's mingled prayers
                         give way to the narrative of the queen's illness and grief, and the scene of
                         the funeral. The loss was collective: "Throughout the country there was long
-                        and genuine mourning for the 'blameless Prince.' 'There is no one to call me
-                        Victoria now,' the Queen is said to have exclaimed, the morning of her
+                        and genuine mourning....<rs corresp="narrative_elements" ana="speech_subject">'There is no one to call me
+                            Victoria now,'</rs> the Queen is said to have exclaimed, the morning of her
                         bereavement,—and perhaps no words could have expressed more strongly the
-                        sense of her great loneliness" (63). Carey quotes letters and poems about
-                        the episode and Victoria's continuing period of mourning. "'For some years
+                        sense of her great loneliness" (63).</p>
+                    <p> Carey quotes letters and poems about
+                        the episode and Victoria's continuing period of mourning. <rs corresp="narrative_elements" ana="quotation_biography">
+                            
+                        "'For some years
                         after the death of the Prince Consort,' as Dr. Macaulay tells us, 'the Queen
-                        appeared very little in public'" although "'no official duty as neglected.'
+                        appeared very little in public'" although "'no official duty as neglected.'</rs>
                         Neither did she forget the troubles of others; for when that terrible
                         Hartley colliery disaster occurred, by which 204 miners lost their lives,
                         Her Majesty sent a message to the effect 'that her tenderest sympathy is
                         with the poor widows and mothers, and that her own misery only makes her
                         feel the more for them'" (65). In response to complaints, Victoria had a
-                        letter sent to the <hi rend="italics">Times</hi> to the effect that she will
-                        submit to public appearances that clearly serve "'the good of her people,'"
-                        but that "there are other and higher duties than those of mere
-                        representation which are now thrown on the Queen alone and unassisted,'"
-                        work that has worn her down, at the risk of making her incapable of
-                        fulfilling fundamental responsibilities. The people will not demand that she
-                        appear at every ceremony. </p>
+                        letter sent to the <hi rend="italics">Times</hi> to the effect that "there are other 
+                        and higher duties than those of mere
+                        representation which are now thrown on the Queen alone and unassisted.'"
+                        The people will not demand that she wear herself out appearing at every ceremony. </p>
                     <p>And yet much of the remaining narrative is a series of ceremonies, some
                         family weddings, some visits to hospitals, and some consecrations of statues
-                        or memorials to Albert. Meanwhile, the Queen "Queen showed her deep
+                        or memorials to Albert. Meanwhile, the "Queen showed her deep
                         solicitude for her subjects by causing a letter to be written to the various
                         directors of the railway companies, calling their attention to the
                         increasing number of serious accidents" (68), and instituted the Albert
                         Medal for those who saved, or endeavoured to save, the lives of others from
                         shipwreck or other perils of the sea" (69). She opened waterworks in
                         Aberdeen and "laid the first stone" of what became the Royal Albert Hall and
-                        for St. Thomas's Hospital, as well as attending the opening of a bridge over
-                        the Thames and new buildings for the University of London (69-70). The
-                        staging of ceremonial appearances plays an increasing role in Carey's
-                        narrative, in keeping with the technological and institutional expansion of
-                        the age. The pages of this chapter begin to resemble a log or list, often in
-                        paragraphs of a single sentence. Children and grandchildren are married,
+                        for St. Thomas's Hospital, among other sites (69-70).</p> 
+                    <p>The log of
+                        ceremonial appearances and events accumulates, sometimes in paragraphs of a single sentence. 
+                        Children and grandchildren are married,
                         fall ill, recover, or die; buidings are opened or memorials dedicated. Then,
                         Carey shifts tactics, condensing good deeds and years in one paragraph,
                         quoted in part here: "There were numerous other good works inaugurated by
                         the Queen during the next few years: the laying of the foundation stone of
                         the new Medical Examination Hall of the Royal College of Physicians and
-                        Surgeons on the Thames Embankment; the opening of the Colonial and Indian
-                        Exhibition at South Kensington, the Liverpool Exhibition, and the Royal
-                        Holloway College for Women at Mount Lee, Egham; and also of the People's
-                        Palace at the East End, in the May preceding Jubilee Day. There have been
+                        Surgeons...[etc.]. There have been
                         three royal jubilees in the history of England, but none of them can compare
                         with the Jubilee of June 21st, 1887, unless it be the Jubilee of 1897, when
                         our beloved Sovereign commemorated the sixtieth year of her reign. It was a
@@ -1520,36 +1500,38 @@
                         and grandsons, on her way to Westminster Abbey. The fair young Queen of
                         fifty years before was now a grey-haired woman, but the loving heart still
                         responded to her faithful subjects' acclamations" (74). </p>
-                    <p>Here Carey returns to her earlier method of splicing together other
-                        biographical sources, as she winds up the account of the elderly Queen's
-                        life. "There can be little doubt, as Barnett Smith tells us, that 'Her
+                    <p>Here Carey returns to her method of splicing biographical sources. 
+                        "There can be little doubt, as Barnett Smith tells us, that <rs corresp="narrative_elements" ana="quotation_biography">
+                            
+                       'Her
                         Majesty has outlived all her early friends and faithful servants. All who
                         officiated at her coronation have passed into the land of shadows. If she
                         has tasted all the happiness of life, she has tasted likewise its
-                        bitterness, for death has ever been busy laying his finger here and there
-                        upon her beloved friends, relatives and associates. . . . The Queen's reign
+                        bitterness, for death has ever been busy laying his finger here and there. . . . The Queen's reign
                         is coincident with the most surprising progress at home and abroad. It has
                         been the age of railways, of trans-oceanic steamers and of the telegraph, of
-                        free trade, parliamentary reform, and the abolition of the corn laws'" (75).
+                        free trade, parliamentary reform, and the abolition of the corn laws'" (75).</rs>
                         Her "firm serene rule, keen intellect, and wide sympathies" have guided an
                         age of enlightened progress and imperial expansion. </p>
                     <p>Carey repeatedly emphasizes the image of Victoria as elderly and frail. For
                         the sake of fresh air, she sets up an outdoor office. The book "The Private
-                        Life of the Queen" is quoted as before: "'At Windsor the little Frogmore
+                        Life of the Queen" is quoted as before: <rs corresp="narrative_elements" ana="quotation_biography">"'At Windsor the little Frogmore
                         tea-house, with its lovely surroundings, is the chosen spot; and here,
                         beneath the shade of two magnificent evergreen oaks, the Queen's
                         writing-table and despatch-boxes are set out on fine mornings, while two
                         mounted messengers keep up perpetual communication with the telegraph office
                         and telephones at the Castle; and the attendant secretary stands at her
                         side. ... In addition to the public work, the self-imposed private work done
-                        by Her Majesty is extraordinary'" (76). Unsurpassable as correspondent, the
+                        by Her Majesty is extraordinary'" (76).</rs> Unsurpassable as correspondent, the
                         Queen makes her presence felt in letters of sympathy to the survivors of any
                         disaster. Further, she studies Hindustani and "the Empress of India writes
                         her diary in that language. It has been said, 'that if the Queen had been
                         destined to write in lieu of ruling, she must have left a great mark on the
-                        literature of the country'" (76). Carey, perhaps less certain of power of
+                        literature of the country'" (76). Carey, perhaps less certain of the power of
                         writing unless supported by many excerpts from others' texts, concludes
-                        characteristically with a poem that is also a prayer. </p>
+                        characteristically with a poem that is also a prayer. Unlike most biographies, this one
+                        defers the expected ending, which will grant a whole nation a sense of closure in the
+                        emotionally mixed performance of a state funeral.</p>
                 </div2>
             </div1>
             <div1 id="JOAN_OF_ARC" ana="paragon">
