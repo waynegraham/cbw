@@ -231,19 +231,21 @@
     </div2>
    </div1>
    <div1 type="about" org="uniform" sample="complete" part="N">
+    <p><hi rend="bold">Reconstructing a Genre of Publication.  Rediscovering Histories of Women.  Transforming Digital Studies of Biography.</hi></p>
     <p>The core of the Collective Biographies of Women project, from the beginning, has been the <hi rend="bold">annotated bibliography
      of English-language books that collect three or more short biographies of women</hi> only: a forgotten British and American publishing tradition
      that provided a surprisingly ample and wide-ranging biographical history of women. Alison
      Booth published a study of this archive and its implications for all kinds of recognition: <hi rend="italics">How to Make It as a Woman: Collective Biographical History from
-     Victoria to the Present</hi> (Chicago: University of Chicago Press, 2004).  The book included the bibliography as of 2003, without its annotations; a chart 
+     Victoria to the Present</hi> (Chicago: University of Chicago Press, 2004).  The book included the bibliography as of 2003, omitting the
+     growing annotations; a chart 
      of rates of publication 1830-1940; and the Pop Chart based on samples of non-specialized collective biographies in three periods.  
      Since 2003, Alison Booth has worked with a team of colleagues and assistants
     (see acknowledgments) in the University of Virginia Libraries and the Department of English at the University of Virginia, and in 
     recent years
     the Scholars' Lab, Digital Scholarly Services, Special Collections, the Institute for Advanced Technology in the Humanities, and NINES. We hope to
-    provide data and access to all books in this genre; the bibliography is exhaustive from 1830-1950 at this point.  The project has expanded
+    provide data and access to all books in this genre.  The project has expanded
     into studies of the biographies of individuals and groups of women.</p>  
-    <p>A first step has been a set of <hi rend="bold">Featured Subjects</hi>: gateways
+    <p>A first step in the move from bibliography to biographical studies has been a set of <hi rend="bold">Featured Subjects</hi>: gateways
     for studying well-known historical women who appear in many books (scoring high in the Pop Chart) or who flourished in the Victorian period;
 we provide short critical biographies written
 in collaboration with students and assistants.  The plan is to expand Featured Subject, and we encourage new 
@@ -276,10 +278,12 @@ in collaboration with students and assistants.  The plan is to expand Featured S
     Georgia or Illinois) or in new careers such as 
     medicine, business, academia, design (from fashion to landscape architecture), and in due course, journalism, 
     film, aviation, sports, and others.</p>
+    <p><hi rend="bold">This is not a digital literary project on women writers or on fiction or
+    poetry.</hi>  Women writers are frequent subjects in collections of biographies after 1750.  Certain women specialized in compiling biographical
+    histories of women such as queens of England or women of the American Revolution. But presenters were more often men than women.</p>
     <p><hi rend="bold">Unexpected models for gender roles, and astounding access to forgotten as well as famous women.</hi> Studies of nineteenth-century advice
-     literature or novels have for the most part perceived that restrictive gender ideology 
-     prevailed in the Victorian period.
-     The books gathered in this project do tend to dictate a different destiny for women than men&mdash;in their 
+     literature or novels for the most part presume that these texts endorse conservative gender ideology.
+     The nonfiction books gathered in this project do tend to dictate a different destiny for women than men&mdash;in their 
      prefaces or narrative asides.  But in part because the biographical and historical narratives have some factual fidelity to 
      noteworthy actions, personalities, and circumstances, these narratives stretch what twenty-first-century readers have come to expect of proper women in the past. 
      The standards of feminine conduct are waived for the saints, queens,
@@ -294,7 +298,7 @@ in collaboration with students and assistants.  The plan is to expand Featured S
      descent. Religious nonconformists and various minorities nevertheless began to use this tool of
      recognition. The collections camouflage or accept some examples of diverse sexuality and same-sex relationships and many
      examples of single or old women. It is high-ranking women who pursue heterosexual affairs who get censured in
-     these books. The limitations of the lists—and any canons or
+     these books&mdash;but not always or not with conviction. Some books celebrate opposites of the "good woman" type.  The limitations of the lists—and any canons or
      lists—notwithstanding, a search through this bibliography and the books it registers helps to
      correct some distorted generalizations about the lack of records of women in the past.</p>
      
@@ -317,11 +321,11 @@ in collaboration with students and assistants.  The plan is to expand Featured S
    <div1 type="dimens" org="uniform" sample="complete" part="N">
     <head>The Dimensions of the Bibliography</head>
     <p><hi rend="bold">This bibliography lists all books published in English between 1830
-    and 1950 that present three or more women's biographies in some narrative detail, and many before and after these dates: approximately 
+    and 1950 that present three or more women's biographies in some narrative detail, as well as many before and after these dates: approximately 
     1200 items.</hi> 
      Although collections of women’s 
-     lives often appeared in serial publication or in
-     reference works, such sources are not included. We do list a few exceptions: a book featuring men as well as women; a work of
+     lives often appeared in periodicals, reference works, or series of monographs, such sources are generally excluded. 
+     We do list a few exceptions: a book featuring men as well as women; a work of
      poetry, drama, lectures or essays, even historical fiction; a few early or specialized encyclopedias or histories; some 
      self-help. Each of these exceptions has been admitted for a reason: perhaps the history, poem, pageant, or advice book features a series of
      named women; perhaps the work affirms a new constituency (e.g. a "Who's Who" of the women of a region or organization); a collection
@@ -335,9 +339,9 @@ in collaboration with students and assistants.  The plan is to expand Featured S
      increased in the 1830s and boomed by the later
      nineteenth century. Rates of publication increased after World War II, and especially
      with the second wave of the feminist movement.  The exhaustive bibliography originally ended at 1940 for that reason. 
-     More recently, the list is as complete as possible through 1950, and we plan to gather as much
-     bibliographical data as possible on all book publications in this genre. The project is international (largely transatlantic) because
-     these publications often were reprinted or imitated in Britain and the United States, and because the discourse of women's education, social
+     More recently, the list is as complete as possible through 1950, with plans to round out the listings of later decades. The project is international (largely transatlantic) because
+     these publications often were reprinted or imitated in Britain and the United States; because many European and North American women
+     were internationally celebrated and some lectured or campaigned abroad; and because the discourse of women's education, social
      progress, and cultural achievement was shared in various colonies and former colonies of the British Empire. Spanning the centuries of
      this genre helps us reveal fascinating trends in the models for women and in representation of various careers and individuals.  Women who stood out in the nineteenth-century panorama fell behind the scenes
      in the new era and were supplanted by more recent counterparts.</p>
@@ -356,9 +360,7 @@ in collaboration with students and assistants.  The plan is to expand Featured S
      collections.</p>
     <p>Before and after the main bibliography are selective lists: first, a <hi rend="bold"
       >chronological selection of female prosopographies in earlier centuries</hi>, and second, an
-      <hi rend="bold">alphabetical selection of books collecting women's lives published since
-      1940</hi>. The bibliography is intended to be exhaustive through 1950. New items continue to
-     be added. These separate selective bibliographies may be brought up from the "Earlier and Later
+      <hi rend="bold">alphabetical selection of books collecting women's lives published from 1941 through the present.</hi> These separate selective bibliographies may be brought up from the "Earlier and Later
      Examples" tab on the Browse page and are integrated in any searches. Various collections
      published after 1940 first appeared before that date, and their entries appear in the main
      list.</p>
