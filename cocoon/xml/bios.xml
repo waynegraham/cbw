@@ -536,7 +536,7 @@
                         between the nine sisters at home and this supposed Papist infection, though
                         Mark fostered Dorothy's <rs corresp="life_events" ana="education">education</rs> and she was often his companion on
                         holidays and visits.  <milestone unit="subject" corresp="life_events" ana="religion"/>The tension between father and son set the stage for Dorothy's non-dogmatic religious fervor, but in her 
-                        career she broke away from both father and brother. 
+                        career she broke away from both father and brother.<milestone unit="subject" corresp="subject_type" ana="medical"/> 
                     </p> 
                     <p>Many biographies depict a happy childhood for the
                         somewhat frail but beautiful child whom her father's called his <rs corresp="narrative_rhetoric" ana="trope_light">"Little
@@ -8638,17 +8638,16 @@
                                 <hi rend="italic">Woman in History</hi>
                             </title> 254-69.</bibl>
                     </head>
-                    <p> Daffan has a fondness for redundancy, lavishing strings of adjectives in a
-                        eulogy that purports to focus on character, particularly the character of
-                        brilliant intelligence and insight that saw through the hero Napoleon and
-                        withstood his hostility. Assuming there were no other learned women writers
-                        of the day, and indicating that women have no sense of justice, Daffan lauds
-                        de Staël as exceptional celebrity. Frequently the life is characterized as a
-                        spectacle with surprising turns of events, all eyes on the heroine. Madame
-                        de Staël's many distinguished friends and visitors add to the theme of
-                        recognition. Daffan begins with high praise for genius, which cannot be
-                        suppressed: a fitting theme for the enemy whom Napoleon sought to
-                        extinguish. </p>
+                    <p> Katie Daffan intends to write a eulogy of a woman who had the brilliance and courage to withstand 
+                        the heroism and hostility of <name>Napoleon</name>.  As presenter, Daffan loves redundant adjectives and fauns over historical
+                        celebrity; her heroine is an exception rather than a demonstration of women's equality with men (she
+                        asserts, for instance, that there were no other learned women writers at that time, and that women
+                        in general have no sense of justice). This short biography belongs in a chronological series of queens and 
+                        female leaders, beginning with Cleopatra and including <name corresp="JOAN_OF_ARC">Joan of Arc</name>, <name corresp="QUEEN_ELIZABETH_I">Queen Elizabeth I,
+                        </name><name corresp="MADAME_ROLAND">Madame Roland</name>, and <name corresp="QUEEN_VICTORIA">Queen Victoria</name>.  
+                        <name corresp="MADAME_DE_STAEL">Madame de Staël's</name><milestone unit="subject" corresp="subject_type" ana="writer"/> life is characterized as a
+                        spectacle with surprising turns of events, all eyes on the heroine. <rs corresp="life_events" ana="recognition">Her many admirers and distinguished friends and visitors add to the theme of
+                        recognition.</rs> Writing in the early twentieth century (1908), Daffan subscribes to a belief in genius, and begins with high praise for it:</p>
                     <p rend="block">Genius is a combination of native strength and will power. A
                         "genius" is sure to accomplish something, his presence will be felt, and his
                         influence exerted....through years and years which follow his brief
@@ -8660,26 +8659,26 @@
                         combination is invincible and brings in its train acuteness, observation,
                         and impressiveness.</p>
 
-                    <p>Daffan recounts the birth of "Madame Anna L. de Staël" in Paris, April 22,
-                        1766: "In the inquiring, infidel, though certainly brilliant age, the eve of
-                        the French revolution, there appeared a genius...recognized then as now....
+                    <p>Daffan recounts the <rs corresp="life_events" ana="birth">birth</rs> of "Madame Anna L. de Staël" in Paris, April 22,
+                        1766: <rs corresp="history" ana="civil_war">"In the inquiring, infidel, though certainly brilliant age, the eve of
+                            the French revolution,</rs> there appeared a genius...recognized then as now....
                         Up to the time of Madame de Staël letter-writing was the only literary
                         accomplishment attained by women, but to such a degree was it attained, as
                         specimens still extant show, that it was considered a very decided literary
                         accomplishment." </p>
 
-                    <p rend="block">She was the first woman to make a place for herself In the
-                        literary world; she stood far ahead of any woman of her time. By her pen,
+                    <p rend="block"><rs corresp="narrative_rhetoric" ana="trope_difference_from_women">She was the first woman to make a place for herself in the
+                        literary world; she stood far ahead of any woman of her time.</rs> By her pen,
                         which was always brilliant, though sometimes sarcastic, she pleaded for that
                         which was true and permanent, and condemned the false and unstable. Her
                         charm, manner, and wonderful power in conversation brought to her side many
                         who were first admirers and later sympathizers. </p>
-                    <p rend="block">"As a rule conversation as an accomplishment or an art develops
+                    <p rend="block">As a rule conversation as an accomplishment or an art develops
                         in middle life, after the mind is enriched by reading and travel and
                         broadened by experience; but to this pretty general rule Madame de Staël was
-                        an exception; as a young girl, even as a child, her conversation was
-                        remarkable for command of words and beautiful sentiment. </p>
-                    <p rend="block">Napoleon Bonaparte paid few compliments; ...he usually demanded
+                        an exception; <rs corresp="life_events" ana="talent">as a young girl, even as a child, her conversation was
+                            remarkable for command of words and beautiful sentiment.</rs> </p>
+                    <p rend="block"><rs corresp="agents" ana="superior">Napoleon Bonaparte</rs> paid few compliments; ...he usually demanded
                         that they be paid to him. But the highest compliment a man ever paid a woman
                         was the one which he, in the zenith of his power, paid to this woman. </p>
                     <p rend="block">He was the monarch of the world ... except the part to be
@@ -8693,13 +8692,12 @@
                         of the great leader, the only one who could persuade others that "it was
                         selfishness and love of personal power that moved the new hero....She and
                         Bonaparte crossed swords and were avowed antagonists. Both were
-                        foreigners...." The woman of "discerning powers" in reading character had
-                        known Napoleon long and recognized his "indomitable force and courage" and
-                        ambition; he in turn "knew that she understood him; he recognized her power
+                        foreigners...." The conflict seems to have the potential to be a Darcy-Elizabeth Bennet or Tracy-Hepburn 
+                        romance with its emphasis on how they understand each other: he "knew that she understood him; he recognized her power
                         and influence, the magnetic qualities which she exerted upon all who came
                         near her...." Napoleon's emnity and efforts to banish her should be
                         understood as a "compliment."</p>
-                    <p rend="block">When he came into power one of his first official acts was to
+                    <p rend="block"><milestone unit="subject" corresp="narrative_elements" ana="episode"/>When he came into power one of his first official acts was to
                         exile her, ... one hundred and twenty miles from Paris under police guard,
                         with instructions "to keep that bird of ill-omen; her appearance bodes
                         mischief." He said of her: "The arrows of Madame de Staël could reach a man
@@ -8708,15 +8706,15 @@
                     <p>Daffan deems it a coup to make "the greatest man of his time...ill at ease."
                         The biography abruptly turns to the task of telling the subject's life: of
                         this woman with the capacity to bother the emperor, "a few items are very
-                        interesting. Her mother, <name type="mother">Madame Neckar</name>, was an
+                        interesting. Her mother, <rs corresp="agents" ana="mother">Madame Neckar</rs>, was an
                         unusual and most interesting woman, though severe....She had been a teacher,
                         and her habits of precision and systematic work clung to her; she rarely
                         commended her daughter's work, the nearest approach to approval being: "In
                         time I think you may do very well." </p>
-                    <p>"Gibbon the great historian had been in their youth greatly attached to
+                    <p><milestone unit="subject" corresp="narrative_elements" ana="quotation_biography"/>"Gibbon the great historian had been in their youth greatly attached to
                         Madame Neckar" and remained an admirer and frequent visitor; "he said she
-                        was the most learned women he had ever known and entirely free from
-                        pedantry."</p>
+                        was <rs corresp="narrative_rhetoric" ana="trope_difference_from_women">the most learned women he had ever known and entirely free from
+                            pedantry."</rs></p>
 
                     <p rend="block">The daughter stood in great awe of the mother...; <milestone
                             unit="subject" corresp="life_events" ana="talent"/>when a child she
@@ -8725,13 +8723,13 @@
                         so it was to her father that she went for sympathy and encouragement, and to
                         whom she was the more deeply attached. </p>
 
-                    <p rend="block">Her father, <name type="father">M. Neckar</name>, was resident
-                        minister from Geneva at the court of Versailles, and later minister of
-                        finance under Louis XVI. He was a man of integrity, enjoying the esteem and
+                    <p rend="block"><rs corresp="agents" ana="father">Her father, M. Neckar</rs>, was resident
+                        minister from Geneva at <rs corresp="places" ana="court">the court of Versailles,</rs> and later minister of
+                        finance under <name>Louis XVI.</name> He was a man of integrity, enjoying the esteem and
                         confidence of the French people, and his culture was very broad. During his
                         residence in Paris his home was the resort of philosophers, orators and
                         artists. </p>
-                    <p rend="block">The Bourbon throne was tottering because of the vices of the
+                    <p rend="block"><milestone unit="subject" corresp="history" ana="mass_action"/>The Bourbon throne was tottering because of the vices of the
                         nobles, the impurity of the clergy, the literature of the infidel writers,
                         ..., and the weakness... of Louis. Taxation was heavy, and the people
                         clamored and rebelled against the tyrannical rule, and their children "cried
@@ -8750,30 +8748,29 @@
                     <p rend="block"><name>Mlle. Neckar</name>
                         <rs corresp="narrative_rhetoric" ana="topos_appearance">was not considered
                             beautiful</rs>; she was impressive and fascinating, astonishing; she
-                        understood the art of complimenting, and she was cordial and generous. While
+                        understood the art of complimenting, and she was cordial and generous.<milestone unit="subject" corresp="life_events"
+                        ana="talent"/> While
                         a brilliant conversationalist, she drew to herself the thoughts and
                         confidences of others.... She enjoyed the confidence of all of her friends.
                         She was charitable in speech, leaving unkind things unsaid, and this alone
                         won for her the respect of those who knew her. </p>
 
-                    <p rend="block">She was, altogether, a gracious, delightful woman, lending
-                        herself to any condition, and ever showing her good breeding by her ready
-                        adaptability and consideration of others. She was sought in marriage by many
+                    <p rend="block">She was, altogether, a gracious, delightful woman....<rs corresp="life_events" ana="suitors">She was sought in marriage by many
                         of the best men in Europe. William Pitt, the minister of England, paid her
                         repeated visits and asked her father's permission to pay his addresses to
                         her, as did Count Fersen of Switzerland. Her parents were very exacting in
                         regard to her marriage and were ready to find fault with each suitor in his
-                        turn. </p>
+                        turn. </rs></p>
                     <p>Here Daffan establishes the desirable qualities of her subject through the
-                        prestigious suitors and parents' discrimination of the eligible. The
+                        prestigious suitors and parents' discrimination. The
                         presenter has already tied her subject to historical events and great men
                         while disposing of the issue of beauty and playing up the childhood or
                         youthful promise, the social talent. Daffan follows custom in identifying
                         parental influence, religion, and the careful upbringing; the subject is
                         herself not ambitious, vain, or husband-hunting:</p>
 
-                    <p rend="block">Her mother was much prejudiced against Catholics and exacted a
-                        promise from her daughter that she would marry a Protestant. Her father
+                    <p rend="block"><rs corresp="life_events" ana="religion">Her mother was much prejudiced against Catholics and exacted a
+                        promise from her daughter that she would marry a Protestant.</rs> Her father
                         inquired minutely into the private life and family heritage of each, and
                         there were few young men, though many were considered eligible, whose
                         characters could bear the scrutiny. She was certainly not concerned or
@@ -8784,16 +8781,16 @@
                         minister to Paris, a nobleman of good standing at court, and a Protestant,
                         so her parents decided that he was a proper suitor. In a mechanical sort of
                         way, realizing that her social position was being enhanced, and glad that
-                        her parents approved, she became his wife. Her dowry was two million francs
-                        a year ; she became the center of a brilliant, intellectual circle in Paris,
+                        her parents approved, <rs corresp="life_events" ana="marriage">she became his wife.</rs> Her dowry was two million francs
+                        a year; she became the center of a brilliant, intellectual circle in Paris,
                         the toast of princes, princesses and noblemen. Later she became a good
                         friend to brave Marie Antoinette. </p>
 
-                    <p>Daffan's account highlights the topos of recognition, in this instance
+                    <p>Daffan's account highlights the topos of <milestone unit="subject" corresp="life_events" ana="recognition"/>recognition, in this instance
                         friendship with a queen: "The queen received her at court, giving special
                         entertainments in her honor, and invited her to visit at the royal country
                         houses." The friendship was rewarded when "in the dark days of the
-                        revolution" (note the trope of darkness) the queen was defended and
+                        revolution" (note the trope of darkness)<milestone unit="subject" corresp="narrative_rhetoric" ana="trope_dark"/> the queen was defended and
                         comforted by Mme. de Staël. This benevolent picture contrasts sharply with
                         the next relationship, her marriage. Daffan is direct: "it was not a happy
                         one." The fault is his character and their incompatibility: "He was
@@ -8809,21 +8806,21 @@
                         of the day in a manner all her own, and with all of its sparkle and
                         brilliancy her mind was fundamental, practical and far-seeing. </p>
                     <p rend="block">She understood people, she could draw them out and anticipate
-                        them; her knowledge of character was wonderful; she could put herself in
-                        another's place and feel and know a condition; her idea of justice was clear
+                        them; ... her idea of justice was clear
                         and true; and how many women — the best women — have any conception of
                         justice? They can condemn a wrong, sustain a right, love their own, and some
                         have toleration; but how many women are just? </p>
-                    <p rend="block">Many are merciful, to be sure; they tip the scale of justice in
-                        favor of mercy; but well defined justice, is it a feminine virtue? </p>
+                    
                     <p>This extensive eulogy to her ability to engage and understand the interests
-                        of great men leads to a gratuitous swipe at women in general. This grasp of
+                        of great men leads to a gratuitous swipe (which continues by rephrasing the rhetorical question yet again)
+                        at women in general. The heroine's grasp of
                         masculine moral code is confirmed by her writing like and with a man: "She
                         wrote Talleyrand's report on public instruction in 1790, which is said to
                         have been the best exhibit of its kind ever published." Further, she managed
                         the careers and promotions of Narbonne, Talleyrand and other ministers, as
-                        she shaped "public opinion." </p>
-                    <p rend="block">The entire burden of her thought was "Liberty." She ...never
+                        she shaped "public opinion." <milestone unit="subject" corresp="narrative_rhetoric" ana="topos_influence"/></p>
+                    <p rend="block">The entire burden of her thought was "Liberty." <milestone unit="subject" corresp="life_events" ana="vocation"/>
+                        She ...never
                         ceased her efforts for the cause of the people, risking her health, often
                         her life, in her efforts to save Robespierre's victims. During his
                         ascendancy she published many powerful defenses advocating liberty, and her
@@ -8831,11 +8828,11 @@
 
                     <p>During <milestone unit="subject" corresp="history" ana="mass_action"/>the
                         Reign of Terror, she "saved the lives of many. She had many miraculous
-                        escapes from assassination; upon one occasion her carriage was held eight
+                        escapes from assassination; <milestone unit="subject" corresp="narrative_elements" ana="episode"/>upon one occasion her carriage was held eight
                         hours by the assembly, while she waited for the decision of the council."
                         This is an exception in Daffan's narrative, when fabula (or baseline story)
                         and story (or discourse, the way it is told) share the same time or
-                        duration; that is, a scene or episode. As in many women's biographies, it is
+                        duration; that is, a scene or episode. <milestone unit="subject" corresp="narrative_rhetoric" ana="topos_confronting_working_class"/>As in many women's biographies, it is
                         a kind of threatened captivity narrative in which the heroine brings out
                         virtue in one of the most unredeemable men in a lower class mob.</p>
                     <p rend="block">Employed assassins, their arms and bodies covered with blood,
@@ -8855,7 +8852,7 @@
                         French Revolution. "Sauterre had seen M. Neckar distribute corn to the poor
                         in Paris"; Sauterre's "bloodthirstiness" could nevertheless be controlled by
                         "gratitude," an example that no one is entirely evil (and an opportunity to
-                        turn the narrative to instructive purpose). </p>
+                        turn the narrative to instructive purpose).<milestone unit="subject" corresp="narrative_rhetoric" ana="example"/> </p>
                     <p>At this time, Madame de Staël fled to Geneva, "from the horrors of the
                         commune...to the quiet retreat" with friends. "Hospitality was extended to
                         ...every traveler who asked for shelter...; this home was a refuge to the
