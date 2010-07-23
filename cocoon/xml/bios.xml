@@ -5246,7 +5246,7 @@
                         similarity in treatment used by many of the presenters, these personal
                         stories overlap to create a narrative for the nineteenth-century woman of
                         action. Since about 1980, studies of the Victorian period have rediscovered
-                        the many ways that Florence Nightingale was represented as a paragon of
+                        the many ways that <name corresp="FLORENCE_NIGHTINGALE">Florence Nightingale</name> was represented as a paragon of
                         female vocation and service. Contemporary biographies provide a measure of
                         this remarkably collaborative process of representation, as if making a
                         classic legend out of a living contemporary. After all, Nightingale outlived
@@ -5254,11 +5254,11 @@
                         when suffragettes mobbed the Prime Minister and broke windows in the
                         Colonial Office government buildings, Miss Nightingale, long an advisor on
                         foreign policy, had only been dead a few months.</p>
-                    <p>Nightingale, a heroine of nursing during the Crimean War and a hospital
+                    <p><rs corresp="subject_type" ana="nurse_reform">Nightingale,</rs> a heroine of nursing during the Crimean War and a hospital
                         reformer, was an extremely popular subject of prosopographies written prior
                         to 1930, outnumbered in appearances only by <name corresp="JOAN_OF_ARC">Joan
                             of Arc</name> and philanthropist <name corresp="ELIZABETH_FRY">Elizabeth
-                            Fry</name>. Comparing presentations of Nightingale’s life in different
+                            Fry</name>, according to our samples in the Pop Chart. Comparing presentations of Nightingale’s life in different
                         works reveals nineteenth-century biography as a form of pastiche. Various
                         writers compose her story in episodes that are lifted verbatim or
                         nearly-verbatim from other sources. As these narratives are repeated
@@ -5304,7 +5304,7 @@
                     <p rend="block">There lived in one of two or three solitary cottages in the wood
                         an old shepherd of her father's, named Roger, who had a favourite sheep-dog
                         called Cap. Roger had neither wife nor child, and Cap lived with him and
-                        kept him company. . . Cap was a very sensible dog; indeed people used to say
+                        kept him company. . . . Cap was a very sensible dog; indeed people used to say
                         he could do everything but speak. He kept the sheep in wonderfully good
                         order. . . . One day as Florence and her old friend were out for a ride,
                         they came to a field where they found the shepherd giving his sheep their
@@ -5466,9 +5466,9 @@
                         <title type="section"><milestone unit="subject" corresp="life_events"
                                 ana="vocation"/>The Crimean War was Nightingale's most famous field
                             of action and her work as a professional nurse during this period made
-                            her a public sensation. As the war waged on through the winter of
+                            her a public sensation. As the war raged on through the winter of
                             1854-1855, fighting on the battlefield as well as inadequate medical
-                            support threatened the lives of England's soldiers. Mabie and Stephens
+                            support threatened heavy casualties among England's soldiers. Mabie and Stephens
                             as well as Carey repeat the same anecdote of a prophetic coincidence as
                             evidence of Nightingale's readiness to commit herself to service even
                             before "the call came" in a letter from the head of the War Department.
@@ -5649,11 +5649,11 @@
                             ordeal she prepares to face, "patiently standing by him and, with lips
                             closely set and hands folded, decreeing herself to go through the pain
                             of witnessing pain." The narrative episode becomes a testament to
-                            Nightingale's metal. Through a meta-critical lens on the legend-making
-                            of heroines in collective biographies of women, the topos element
-                            repeated in the following passages suggests that the ministering angel
-                            possesses a fortitude which is particular to females. At the same time,
-                            this topos description of a woman reflects (so as to reinforce) a man's
+                            Nightingale's mettle. Taking a meta-critical perspective on the generic conventions of
+                            collective biographies of women, we can see that
+                            the topos repeated in the following passages suggests that the ministering angel
+                            possesses a fortitude which is peculiar to females. At the same time,
+                            this portrayal of a woman reflects (so as to reinforce) a man's
                             strength to endure painful trials:</title>
                     </p>
                     <p rend="block">
@@ -5701,7 +5701,7 @@
                         concerning this queen of nurses: "Wherever there is disease in its most
                         dangerous form, and the hand of the spoiler distressingly nigh, there is
                         this incomparable woman sure to be seen. Her benignant presence is an
-                        influence for good comfort even amid the struggles of expiring nature.</p>
+                        influence for good comfort even amid the struggles of expiring nature."</p>
                     <p rend="block">When fresh detachments of the wounded were brought in, she had
                         been known to stand for twenty hours, distributing stores, directing nurses,
                         assisting at operations, and ministering to cholera and fever patients.</p>
@@ -5723,7 +5723,7 @@
                                 endure."</seg>
                         </rs></p>
                     <p>
-                        <title type="episode">Episode 5: "Lady of the Lamp"</title>
+                        <title type="episode">Episode 5: "The Lady with the Lamp"</title>
                     </p>
                     <p>
                         <title type="section"><milestone unit="subject" corresp="narrative_rhetoric"
@@ -5733,18 +5733,26 @@
                             repeat to demonstrate Nightingale's heroic dedication is a description
                             of her making rounds among the wounded soldiers under her care at
                             Scutari. As a practice, she walked the hospital corridors late into the
-                            night, lighting the way with a lamp which also signaled her reassuring
+                            night, lighting the way with a lamp that also signaled her reassuring
                             presence to the many suffering patients. Mabie and Stephens as well as
                             Carey rely upon the same source material for an account of Nightingale's
                             nocturnal habit, reproducing the episode as a topos event which
-                            represents her mission of service. This topos of mission, duplicated
-                            across several sketches of her life's work, narratively goes
-                            hand-in-hand with a trope: the ministering angel on a quest to bear the
-                            light of hope into darkness. The socially-constructed rhetoric of female
+                            represents her mission of service. This topos (scene of interaction) of mission, duplicated
+                            across several sketches of her life's work, also entails a trope (figure of speech or image): 
+                            the mission brings light into darkness, as a metaphor for bringing hope or relief
+                            to the suffering as well as civilization or order to settings of violence or disorder. Curiously, in Nightingale's
+                            iconography, she herself brings light but also shadow, an intangible image that the men
+                            each may kiss.
+                            The socially-constructed rhetoric of female
                             vocation as the bearing of a beacon mythologized Victorian women's
-                            public service. We find the light-into-darkness trope in multiple
+                            public service, serving at the same time to reinforce an individual woman's status above 
+                            a certain class of men (often conscripted men) as well as her difference from other women. 
+                            Often the beacon or light-into-darkness imagery is associated with the trope that we call "alone," the idea that
+                            the heroine braves the darkness in solitude or without protection, whether or not she was
+                            accompanied by assistants or male peers or authorities who ensure her safety or success.
+                       We find the light-into-darkness trope in multiple
                             biographies about one subject also being applied to link several
-                            subjects within one collected biography. In fact, this trope appears
+                            subjects within one collective biography. In fact, this trope appears
                             across many genres in the nineteenth-century, contributing to the
                             fullness of a narrative pastiche which transforms living women into
                             cultural lengend. Henry Wadsworth Longfellow reiterates the rhetoric in
@@ -5769,7 +5777,7 @@
                         <title type="section">Like the presenters of prosopography, Longfellow's use
                             of the light-into-darkness trope contributes to defining the ideal form
                             of "womanhood," which was not the listless and marginalized figure
-                            skeptical critics have associated with Victorian femininity. Longfellow
+                            later critics have associated with Victorian femininity. Longfellow
                             depicts Nightingale as both ethereal and steadfast; the comforting
                             beacon in a desolate house as well as a pillar of social good; a
                             ministering angel diffusing her energy in service to others even as she
@@ -5781,7 +5789,8 @@
                                 >Times</hi> recorded an account of Nightingale's nursing habits,
                             which Mabie and Stephens as well as Carey reproduce: "When all the
                             medical officers have retired for the night and silence and darkness has
-                            settled down on the miles of prostrate sick, she may be observed alone
+                            settled down on the miles of prostrate sick, she may be observed <milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="trope_alone"/>alone
                             with a little lamp in her hand making her solitary rounds." In a
                             pastiche between journalism and biography, each presenter appropriates
                             the eye-witness news report for his own narrative form.</title>
@@ -5790,13 +5799,12 @@
                         <title type="section">By duplicating conventional rhetorical tropes,
                             presenters of collective biography shaped a subject's life story in the
                             popular imagination. In the passages below, the enduring figure of
-                            Nightingale as a "Lady of the Lamp" adds to her legend and demonstrates
-                            how her work to reform nursing is collected through metaphor with <name
+                            Nightingale as "Lady with the Lamp" adds to her legend and demonstrates
+                            how her work to reform nursing is aligned through metaphor with <name
                                 corresp="ELIZABETH_FRY">Elizabeth Fry's</name> entrance into the
                             notorious women's prison at Newgate, as well as <name
                                 corresp="ANN_HASSELTINE_JUDSON">Ann Judson's</name> (American
-                            pioneer for female missionaries) journey to convert "heathens" in the
-                            jungles of Burma:</title>
+                            pioneer for female missionaries) journey to convert "heathens" in Burma, among others:</title>
                     </p>
                     <p rend="block">
                         <title type="author">Mabie &amp; Stephens</title>
@@ -5878,7 +5886,7 @@
                             recovered, but the illness, along with over-exertion, compromised her
                             health. On returning to England in 1856 after the war's end, she spent
                             much of the rest of her life as an invalid and became an adept woman of
-                            letters. Although she physically was unable to continue her nursing
+                            letters, statistician, and government advisor. Although she physically was unable to continue her nursing
                             work, she still had a public presence in the medical field, writing
                             reports, dictating official correspondence and advising on health care
                             reforms from her bed. The legend of the ministering angel of the Crimean
@@ -5996,7 +6004,7 @@
                             the public professions and argued for the social benefit of giving
                             educated women paid work as nurses and midwives. She challenged male
                             medical authorities and governmental policy makers, pushing for reform
-                            in England’s health system. As well, she insisted upon society’s
+                            in England’s health system and sanitation in India. As well, she insisted upon society’s
                             responsibility to care for the poor, and in her hospital reports
                             demonstrated that mortality rates could be significantly reduced through
                             the practices of the newly emerging sanitary sciences. The “Nightingale
@@ -6015,16 +6023,16 @@
                                 rend="italics">Eminent Victorians</hi>, <name>Lytton Strachey</name>
                             asserted that the real Florence Nightingale was "more interesting than
                             the legendary one though less agreeable" (qtd. in ODNB). At the same
-                            time however, the legendary "Lady of the Lamp"—or as Mabie and Stephens
+                            time however, the legendary "Lady with the Lamp"—or as Mabie and Stephens
                             coin her, the "Angel of the Crimea"—provided the real Florence
-                            Nightingale with a position of public prominence which was not usually
-                            afforded to Victorian women, what she referred to as having an "office."
-                            The popular narratives of her heroism which make up the pastiche of
+                            Nightingale with a position of public prominence unusual for women in most eras of history, 
+                            what she referred to as having an "office."
+                            The popular narratives of her heroism that form the pastiche of
                             biographical tributes from the nineteenth- and early twentieth-century
                             assisted the determined nurse as she undertook the colossal task of
                             reforming England’s inadequate hospital system. Florence Nightingale
                             became a trusted advisor for the health of the nation just as the "Lady
-                            of the Lamp" was the trusted bearer of hope through the darkened halls
+                            with the Lamp" was the trusted bearer of hope through the darkened halls
                             of misery in Scutari.</title>
                     </p>
                     <p>Notes</p>
