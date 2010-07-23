@@ -4383,7 +4383,7 @@
                 <div2 type="milestones">
                     <list>
                         <item>
-                            <label ana="birth">Birth</label> to Quaker parents <date>1780</date>
+                            <label ana="birth">Birth</label> To Quaker parents <date>1780</date>
                         </item>
                         <item>
                             <label ana="vocation">Marriage</label> Joseph Fry, a Quaker banker
@@ -7528,22 +7528,23 @@
                         scene, and her engagement, to <name>Mr Turner</name> of Wraxall, was
                         doubtless a source of much satisfaction to the little circle, who in
                             <date>1762</date> had moved to a large house in <rs corresp="places"
-                            ana="street">Park Street</rs>.</p>
-                    <p>The street still remains, and the house is now known as <rs corresp="places"
-                            ana="home">"Hannah More Hall</rs>." …For six years the curious courtship
-                        continued; but at the last moment the gentleman decided that he did not feel
-                        equal to the responsibilities of matrimony, and, after compensating his
-                        Amaryllis for her "blighted hopes" with an annuity variously computed at
-                        £200 and £400 per annum, he died a bachelor. To the last this quaint pair
-                        entertained a "cordial respect" for each other, and by his will she found
-                        herself the possessor of a legacy of £1000. <milestone unit="subject"
-                            corresp="life_events" ana="vocation"/>The annuity enabled her to feel
-                        independent and to devote herself to the study of literature, for which she
-                        was really far more suited than to the consideration of the "varying moods"
-                        of a middle-aged landowner. <rs corresp="narrative_elements"
-                            ana="direct_address">The literary world is distinctly the richer, so
-                            that we are able honestly to rejoice at the capricious conduct of the
-                            vacillating lover</rs>.</p>
+                            ana="street">Park Street</rs>.<milestone unit="subject" corresp="places"
+                            ana="shrine"/>The street still remains, and the house is now known as
+                            <rs corresp="places" ana="home">"Hannah More Hall</rs>.". . . For six
+                        years the curious courtship continued; but at the last moment the gentleman
+                        decided that he did not feel equal to the responsibilities of matrimony,
+                        and, after compensating his Amaryllis for her "blighted hopes" with an
+                        annuity variously computed at £200 and £400 per annum, he died a
+                            bachelor.<milestone unit="subject" corresp="life_events" ana="death"/>
+                        To the last this quaint pair entertained a "cordial respect" for each other,
+                        and by his will she found herself the possessor of a legacy of £1000.
+                            <milestone unit="subject" corresp="life_events" ana="vocation"/>The
+                        annuity enabled her to feel independent and to devote herself to the study
+                        of literature, for which she was really far more suited than to the
+                        consideration of the "varying moods" of a middle-aged landowner. <rs
+                            corresp="narrative_elements" ana="direct_address">The literary world is
+                            distinctly the richer, so that we are able honestly to rejoice at the
+                            capricious conduct of the vacillating lover</rs>.</p>
                     <p>
                         <milestone unit="subject" corresp="subject_type" ana="writer"/>Her first
                         work, <title><hi rend="italics">The Search after Happiness</hi></title>,
@@ -7555,8 +7556,8 @@
                             corresp="places" ana="city">Bristol</rs> to <rs corresp="places"
                             ana="city">London</rs> in those days. <name>George Stephenson</name> was
                         still unborn, and the natural terrors of the journey were increased by the
-                        hordes of highwaymen with which the roads were infested.</p>
-                    <p><milestone unit="subject" corresp="genre_conventions" ana="movement"/>It is a
+                        hordes of highwaymen with which the roads were infested. <milestone
+                            unit="subject" corresp="genre_conventions" ana="movement"/>It is a
                         red-letter day when, in <date>1773</date>, Hannah More starts on her first
                         pilgrimage to London. <milestone unit="subject" corresp="narrative_elements"
                             ana="focalization"/>Every step of the way is fraught with interest to
@@ -7578,27 +7579,28 @@
                         it might." This now "unconsidered trifle" was then much praised—and, what is
                         still more remarkable, and certainly not in the very least a matter of
                         sequence, it was also much read.</p>
-                    <p> (The following are <name type="presenter">Green-Armytage’s</name> personal
-                        assessments, in <date>1908</date>, of <name>Augustine Birrell’s</name>
-                        criticism of Hannah More in Birrell’s <hi rend="italics">Collected Essays:
-                            Res Judicatae</hi> (1892).) <milestone unit="subject"
-                            corresp="life_events" ana="recognition"/>Hannah More among the prophets
-                        and Hannah More as a humorist are, possibly, characterisations under which
-                        she has not appeared upon any stage within the last fifty years. <milestone
-                            unit="subject" corresp="narrative_rhetoric" ana="emphasis"/>But this is
-                        a generation that knows not Hannah! and certainly, whoever else knows
-                        anything about her, <name>Mr Augustine Birrell</name> does not. He may have
-                        read her <hi rend="italics">Life and Works</hi> from cover to cover, but a
-                        man only gets out of a book that which he himself is capable of
-                        assimilating, and Mr Birrell is evidently not en rapport with his subject,
-                        and had better have left his unworthy <hi rend="italics">Essay</hi>
-                        unwritten.</p>
-                    <p> It has a spurious smartness about it which makes its misstatements all the
-                        more distasteful to an earnest student of her time, especially when coupled
-                        with a condescending air of patronage and superiority which sits ill upon a
-                        man who has not done, and could not do, one tithe of the work that was done
-                        by this delicate woman.</p>
-                    <p>As <name>Charles Lamb</name> whimsically said, <rs
+                    <p>
+                        <hi rend="italics">(The following are <name type="presenter"
+                                >Green-Armytage’s</name> personal assessments, in <date>1908</date>,
+                            of <name>Augustine Birrell’s</name> criticism of Hannah More in
+                            Birrell’s <hi rend="italics">Collected Essays: Res Judicatae</hi>
+                            (1892).)</hi>
+                        <milestone unit="subject" corresp="life_events" ana="recognition"/>Hannah
+                        More among the prophets and Hannah More as a humorist are, possibly,
+                        characterisations under which she has not appeared upon any stage within the
+                        last fifty years. <milestone unit="subject" corresp="narrative_rhetoric"
+                            ana="emphasis"/>But this is a generation that knows not Hannah! and
+                        certainly, whoever else knows anything about her, <name>Mr Augustine
+                            Birrell</name> does not. He may have read her <hi rend="italics">Life
+                            and Works</hi> from cover to cover, but a man only gets out of a book
+                        that which he himself is capable of assimilating, and Mr Birrell is
+                        evidently not en rapport with his subject, and had better have left his
+                        unworthy <hi rend="italics">Essay</hi> unwritten. . . . It has a spurious
+                        smartness about it which makes its misstatements all the more distasteful to
+                        an earnest student of her time, especially when coupled with a condescending
+                        air of patronage and superiority which sits ill upon a man who has not done,
+                        and could not do, one tithe of the work that was done by this delicate
+                        woman. . . . As <name>Charles Lamb</name> whimsically said, <rs
                             corresp="narrative_elements" ana="speech_others">"She is not Hany
                             More,"</rs> and Mr Birrell can therefore criticize as harshly as he
                         thinks fit; but with men like <name>Johnson</name>, <name>Garrick</name>,
@@ -7898,28 +7900,34 @@
                         benefit of the next generation.</p>
                     <p>Her large-heartedness is conspicuously evidenced in her life-long friendship
                         with <name>Mrs Garrick</name><milestone unit="subject" corresp="agents"
-                            ana="friend"/>—née Eva Veigel—"La Violetta" of the Viennese ballet. <rs
-                            corresp="narrative_elements" ana="allusion">The fact of a staunch
-                            Evangelical and a loyal Romanist being able to spend twenty winters
-                            together on terms of closest intimacy speaks for itself, though it is
-                            quite likely that in these days when the Italian Mission is becoming
-                            more and more realised as a proselytising agency, such an unfettered
-                            intercourse would be almost impossible, or at any rate
-                            impracticable.</rs> Hannah More says candidly, <rs
-                            corresp="narrative_elements" ana="speech_subject">"We dispute like a
-                            couple of Jesuits"</rs>; but it is clear that the love on either side
-                        was in no way affected, nor the possibility of compromise entertained.</p>
-                    <p>The versatility which shows itself in Hannah More's handwriting is manifested
-                        by the readiness with which she devoted the ambitions, which had been
-                        fostered under Garrick's guidance, to other interests; and what dramatic
+                            ana="friend"/>—née Eva Veigel—"La Violetta" of the Viennese ballet.
+                            <milestone unit="subject" corresp="narrative_elements" ana="allusion"
+                            /><milestone unit="subject" corresp="history" ana="church"/>The fact of
+                        a staunch Evangelical and a loyal Romanist being able to spend twenty
+                        winters together on terms of closest intimacy speaks for itself, though it
+                        is quite likely that in these days when the Italian Mission is becoming more
+                        and more realised as a proselytising agency, such an unfettered intercourse
+                        would be almost impossible, or at any rate impracticable. Hannah More says
+                        candidly, <rs corresp="narrative_elements" ana="speech_subject">"We dispute
+                            like a couple of Jesuits"</rs>; but it is clear that the love on either
+                        side was in no way affected, nor the possibility of compromise
+                        entertained.</p>
+                    <p><milestone unit="subject" corresp="life_events" ana="talent"/><milestone
+                            unit="subject" corresp="narrative_rhetoric" ana="example"/><milestone
+                            unit="subject" corresp="subject_type" ana="writer"/><milestone
+                            unit="subject" corresp="subject_type" ana="philanthropist"/>The
+                        versatility which shows itself in Hannah More's handwriting is manifested by
+                        the readiness with which she devoted the ambitions, which had been fostered
+                        under <name>Garrick's</name> guidance, to other interests; and what dramatic
                         powers she possessed were quickly overshadowed by the characteristic
                         enthusiasm with which she threw herself into religious and philanthropic
                         reforms.</p>
-                    <p>This divine enthusiasm, however, never waned, as her last book on <title><hi
+                    <p><milestone unit="subject" corresp="life_events" ana="religion"/>This divine
+                        enthusiasm, however, never waned, as her last book on <title><hi
                                 rend="italics">The Spirit of Prayer</hi></title> clearly shows. It
                         proclaims, in tones as distinct, though less forcible,
                             <name>Carlyle's</name> solemn message to the world—<rs
-                            corresp="narrative_elements" ana="quotation_documentary">"No prayer, no
+                            corresp="narrative_elements" ana="quotation_letter">"No prayer, no
                             religion, or at least only a dumb and lamed one! Prayer is and remains
                             always a native and deepest impulse of the soul of man; and, correctly
                             gone about, is of the very highest benefit (nay, one might say
@@ -7936,15 +7944,18 @@
                         Scriptures, the Church shall be quietly extending her boundaries throughout
                         the world, and educating generations of children whose Imperial instincts
                         shall march side by side with the principles and practices for which Hannah
-                        More pleaded more than a hundred years ago.</p>
+                        More pleaded more than a hundred years ago.<milestone unit="subject"
+                            corresp="narrative_rhetoric" ana="example"/></p>
                     <p>
-                        <rs corresp="narrative_rhetoric" ana="moral"><title><hi rend="italics"
-                                    >Practical Piety</hi></title> is going out of fashion quite fast
-                            enough: we do not want to ignore its Principles also.</rs>
-                    </p>
+                        <milestone unit="subject" corresp="narrative_rhetoric" ana="moral"
+                                /><title><hi rend="italics">Practical Piety</hi></title> is going
+                        out of fashion quite fast enough: we do not want to ignore its Principles
+                        also. </p>
                     <p>
-                        <rs corresp="narrative_rhetoric" ana="moral">Who knows but that the "ever-
-                            rolling waves" of Time may once again bear upon their crests the quaint
+                        <rs corresp="narrative_rhetoric" ana="moral"><milestone unit="subject"
+                                corresp="narrative_rhetoric" ana="prophecy"/>Who knows but that the
+                                <rs corresp="narrative_elements" ana="allusion">"ever- rolling
+                                waves"</rs> of Time may once again bear upon their crests the quaint
                             old text-books of God-fearing Faith and Morality which were written—and
                             acted upon—by the little lady of <rs corresp="places" ana="home">Barley
                                 Wood</rs>!</rs>
