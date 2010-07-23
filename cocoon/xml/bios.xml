@@ -2121,18 +2121,18 @@
                         <bibl>From 'Lives of the Victorians' blog at Wordpress.com</bibl>
                     </head>
                     <p>"<name corresp="FRANCES_TROLLOPE">Frances Trollope’s</name> nature was such
-                        that welcomed every ray of sunshine, and diffused it again liberally around
-                        her. To her children no holiday was preferable to a tete-a-tete with her”
+                        that <rs corresp="narrative_rhetoric" ana="trope_light">welcomed every ray of sunshine, and diffused it again liberally around
+                            her.</rs> To her children no holiday was preferable to a tete-a-tete with her”
                             (<name>Trollope</name>, 47), <name>Frances Eleanor Trollope</name>
                         writes of her husband <name>Thomas Adolphus Trollope’s</name> mother, famed
                         novelist and travel writer <name corresp="FRANCES_TROLLOPE">Frances Milton
-                            Trollope</name>. Best known for her unflattering portrayal of young <rs
+                            Trollope</name>. <milestone unit="subject" corresp="subject_type" ana="writer"/>Best known for her unflattering portrayal of young <rs
                             type="place" key="country">American</rs> democracy and “civilization” in
-                        Domestic Manners of the <rs type="place" key="country">Americans</rs>
+                        <hi rend="italics">Domestic Manners of the Americans</hi>
                             (<dateRange from="1832-01-01" to="1832-12-21">1832</dateRange>), "<name
                             corresp="FRANCES_TROLLOPE">Fanny</name>” was best recognized in her
                         family for her loving nature, great intelligence, and delightful sense of
-                        humor. Ironically, however, <rs type="place" key="country">Americans</rs> of
+                        humor. Ironically, however, Americans of
                         the period found <name corresp="FRANCES_TROLLOPE">Mrs. Trollope</name> to be
                         every bit as crass as the backward peoples she described. <name
                             corresp="FRANCES_TROLLOPE">Fanny</name>, for her part, entered <rs
@@ -2158,18 +2158,18 @@
                             <name>Mary</name> was during those five years, the majority of family
                         friends remembered <name corresp="FRANCES_TROLLOPE">Fanny</name> as bearing
                         the closest resemblance of her two siblings to her father
-                            (<name>Neville-Sington</name>, <rs type="place" key="city">Oxford</rs>
-                        Dictionary). A vicar by trade, <name>William</name> possessed a keen
+                            (<name>Neville-Sington</name>, <hi rend="italics">Oxford
+                                Dictionary</hi>). A vicar by trade, <name>William</name> possessed a keen
                         predilection for science, mathematics, and inventing, and he “preferred
-                        inventing gadgets to saving souls” (<name>Neville-Sington</name>, <rs
-                            type="place" key="city">Oxford</rs> Dictionary). Both <name
+                        inventing gadgets to saving souls” (<name>Neville-Sington</name>, <hi rend="italics">Oxford
+                            Dictionary</hi>). Both <name
                             corresp="FRANCES_TROLLOPE">Fanny</name> and her father shared an
                         incapacity for idleness, an inclination for math and mending, and a certain
                         rashness. While other girls were busy sewing, <name
                             corresp="FRANCES_TROLLOPE">Fanny</name> was indulging in the works of
                             <name>Shakespeare</name>, <name>Milton</name>, and <name>Petrarch</name>
-                            (<name>Neville-Sington</name>, <name corresp="FRANCES_TROLLOPE">Fanny
-                            Trollope</name>, 7). These cerebral qualities, along with her bright and
+                            (<name>Neville-Sington</name>, <hi rend="italics">Fanny
+                            Trollope</hi>, 7). <milestone unit="subject" corresp="life_events" ana="talent"/>These cerebral qualities, along with her bright and
                         pleasant persona, made her a delight in society, among friends, and to her
                         beloved mother.</p>
                     <p><name corresp="FRANCES_TROLLOPE">Fanny’s</name> family with
@@ -2178,11 +2178,12 @@
                         with her brother and sister in <dateRange from="1803-01-01" to="1803-12-31"
                             >1803</dateRange>, <name corresp="FRANCES_TROLLOPE">Fanny</name> met
                         barrister <name>Thomas Trollope</name>, and in <dateRange from="1809-01-01"
-                            to="1809-12-31">1809</dateRange>, she became <name
-                            corresp="FRANCES_TROLLOPE">Frances Trollope</name>. Living at first on
+                            to="1809-12-31">1809</dateRange>, they <rs corresp="life_events" ana="marriage">married.</rs>
+                        Living at first on
                             <rs type="place" key="street">Keppel Street</rs>, the same street where
                         she had shared a house with her siblings a few years prior, the
-                            <name>Trollopes</name> immediately began their family, first with <name
+                            <name>Trollopes</name> immediately began their family, <milestone unit="subject" corresp="life_events" 
+                                ana="family"/>first with <name
                             corresp="FRANCES_TROLLOPE">Fanny’s</name> beloved son <name>Thomas
                             Adolphus (Tom)</name> in <dateRange from="1810-01-01" to="1810-12-31"
                             >1810</dateRange>. Over the next eight years <name
@@ -2199,8 +2200,8 @@
                         agricultural expertise, along with the unexpected denial of his uncle’s
                         inheritance and the strain of sending five sons to <rs type="place"
                             key="city">Winchester</rs> for schooling, slowing crippled the family’s
-                        finances (<name>Neville-Sington</name>, <rs type="place" key="city"
-                            >Oxford</rs> Dictionary).</p>
+                        finances (<name>Neville-Sington</name>, <hi rend="italics">Oxford
+                            Dictionary</hi>).</p>
                     <p><name corresp="FRANCES_TROLLOPE">Fanny</name> maintained her Victorian
                         stoicism in her lack of outward reaction to their dire circumstances. In her
                         vast collection of correspondence, she makes only one reference to
@@ -2218,8 +2219,8 @@
                         first time of falling into anger, may also be an important epoch, and
                         produce a great change.” Through a rather cathartic writing style, <name
                             corresp="FRANCES_TROLLOPE">Fanny</name> drew strength from her anger
-                            (<name>Neville-Sington</name>, <name corresp="FRANCES_TROLLOPE">Fanny
-                            Trollope</name>, 111). <name corresp="FRANCES_TROLLOPE">Fanny</name>
+                            (<name>Neville-Sington</name>, <hi rend="italics">Fanny
+                            Trollope</hi>, 111). <name corresp="FRANCES_TROLLOPE">Fanny</name>
                         also proved she could think independently from her husband, and relied upon
                         her female friends as her husband became more of a distant stranger. The
                         friendships <name corresp="FRANCES_TROLLOPE">Fanny</name> developed at <rs
@@ -2250,7 +2251,7 @@
                         position for <name>Henry</name> in a <rs type="place" key="city"
                             >Parisian</rs> office. However, the city proved too much for
                             <name>Henry</name> alone, and a new solution was required
-                            (<name>Trollope</name>, 77-85).</p>
+                            (<hi rend="italics">Trollope</hi>, 77-85).</p>
                     <p><name>Fanny</name> came to view <rs type="place" key="country">America</rs>
                         as an opportunity to mend multiple issues: in <rs type="place" key="country"
                             >America</rs> she could cheaply educate <name>Henry</name> (as well as
@@ -2259,18 +2260,16 @@
                             >Fanny</name> believed <rs type="place" key="country">America</rs> to be
                         an easy money-making venture, and she and <name>Mr. Trollope</name> devised
                         plans to establish a bazaar or emporium for imported fancy goods in <rs
-                            type="place" key="city">Cincinnati</rs> (<name>Trollope</name>, 99).
+                            type="place" key="city">Cincinnati</rs> (<hi rend="italics">Trollope</hi>, 99).
                             <name>Wright</name> wrote and encouraged <name
                             corresp="FRANCES_TROLLOPE">Fanny</name> to bring <name>Henry</name> to
                             <rs type="place" key="country">America</rs>; <name>Henry</name> also
                         added pressure by constantly telling <name corresp="FRANCES_TROLLOPE"
                             >Fanny</name> that his future was in <rs type="place" key="country"
-                            >America</rs> (<name>Neville-Sington</name>, <name
-                            corresp="FRANCES_TROLLOPE">Fanny Trollope</name>, 109). <name
+                            >America</rs> (<name>Neville-Sington</name>, <hi rend="italics">Fanny Trollope</hi>, 109). <name
                             corresp="FRANCES_TROLLOPE">Fanny’s</name> devotion to <name>Henry</name>
                         was very closely linked to the loss of her son <name>Arthur</name>, who died
-                        of consumption at age twelve (<name>Neville-Sington</name>, <name
-                            corresp="FRANCES_TROLLOPE">Fanny Trollope</name>, 105). <name
+                        of consumption at age twelve (<name>Neville-Sington</name>, <hi rend="italics">Fanny Trollope</hi>, 105). <name
                             corresp="FRANCES_TROLLOPE">Fanny</name> poured much of herself into
                         bettering <name>Henry</name> and providing the clearest and safest path to a
                         secure future. Self-reliant and courageous as always, <name
@@ -2310,8 +2309,8 @@
                             (<name>Pope-Hennessy</name>, 16). Her reputation and persona, created in
                             <hi rend="italics">Domestic Manners</hi>, superseded her, and many who
                         met her were surprised to find her a “most elegant and agreeable woman”
-                            (<name>Neville-Sington</name>, <name corresp="FRANCES_TROLLOPE">Fanny
-                            Trollope</name>, 342). If taken alone, <hi rend="italics">Domestic
+                            (<name>Neville-Sington</name>, <hi rend="italics">Fanny
+                            Trollope</hi>, 342). If taken alone, <hi rend="italics">Domestic
                             Manners</hi> presents a somewhat different understanding of her journey
                         than the reality. <name corresp="FRANCES_TROLLOPE">Trollope</name> excludes
                         all details that do not reflect solely on the <rs type="place" key="country"
@@ -2337,19 +2336,19 @@
                         maintained that the standard of moral character in the <rs type="place"
                             key="country">United States</rs> was greatly lower than that of <rs
                             type="place" key="continent">Europe</rs>, she herself was considered
-                        something of a profligate woman” (<name>Farewell</name>). Her book received
+                        something of a profligate woman” (Farewell). Her book received
                         both praise and abuse, but above all it saved her family and made her
                         famous.</p>
                     <p>From the age of fifty until her death thirty years later, <name
                             corresp="FRANCES_TROLLOPE">Trollope</name> published thirty-five novels
                         and six travel books, enabling her to support her family through her writing
-                            (<name>Neville-Sington</name>, <rs type="place" key="city">Oxford</rs>
-                        Dictionary). Travel writing had proved a popular and profitable form;
+                        (<name>Neville-Sington</name>, <hi rend="italics">Oxford
+                            Dictionary</hi>). Travel writing had proved a popular and profitable form;
                         Captain <name>Basil Hall’s</name>
                         <hi rend="italics">Travels In North America</hi> had created a feeling of
                         ill-feeling towards <rs type="place" key="country">America</rs>, fostering a
                         hungry market anticipating the next anti-<rs type="place" key="country"
-                            >American</rs> literature (<name>Farewell</name>). Unfortunately, debt
+                            >American</rs> literature (Farewell). Unfortunately, debt
                         quickly swallowed the vast majority of <name corresp="FRANCES_TROLLOPE"
                             >Trollope’s</name> earnings. In the decade following the publication of
                             <hi rend="italics">Domestic Manners</hi>, the <name>Trollopes</name>
@@ -2361,16 +2360,15 @@
                             Green</name> (<name>Samuel Taylor Coleridge’s</name> literary executor),
                         as well as Reverend <name>R.W. Thackeray</name> (<name>William
                             Thackeray’s</name> relative) and his family
-                            (<name>Neville-Sington</name>, <name corresp="FRANCES_TROLLOPE">Fanny
-                            Trollope</name>, 253). <name corresp="FRANCES_TROLLOPE">Trollope</name>
+                            (<name>Neville-Sington</name>, <hi rend="italics">Fanny
+                            Trollope</hi>, 253). <name corresp="FRANCES_TROLLOPE">Trollope</name>
                         often worked on multiple books at once, and continued to write through the
                         deaths of her son <name>Henry</name>, her husband, and her daughter
                             <name>Emily</name> between <dateRange from="1834-01-01" to="1834-12-31"
                             >1834</dateRange> and <dateRange from="1836-01-01" to="1836-12-31"
                             >1836</dateRange>. Even in the midst of such heartbreak, her literary
                         works “never bore the shadow of her circumstances. They were as bright at
-                        the first as when, later, circumstances brightened” (<rs type="place"
-                            key="city">Glasgow</rs> Herald).</p>
+                        the first as when, later, circumstances brightened” (<hi rend="italics">Glasgow Herald</hi>).</p>
                     <p>Self-disciplined as always, she managed to maintain her writing schedule. As
                         she continued to travel, she wrote of her experiences on the <rs
                             type="place" key="continent">European</rs> continent and of the affluent
@@ -2394,8 +2392,7 @@
                             >Fanny</name> also appeared partial. <name corresp="FRANCES_TROLLOPE"
                             >Trollope</name> was fond of including allusions to
                             <name>Dickens’s</name> works within her own novels, showing admiration
-                        and respect for her fellow author (<name>Neville-Sington</name>, <name
-                            corresp="FRANCES_TROLLOPE">Fanny Trollope</name>, 315). During this
+                        and respect for her fellow author (<name>Neville-Sington</name>, <hi rend="italics">Fanny Trollope</hi>, 315). During this
                         time, in <dateRange from="1849-01-01" to="1849-12-31">1849</dateRange>, she
                         lost <name>Cecilia</name> to tuberculosis, the same cause of death as for
                         her other family members. Remaining in <rs type="place" key="city"
@@ -2403,9 +2400,8 @@
                         son <name>Anthony</name> and his wife from <dateRange from="1850-01-01"
                             to="1850-12-31">1850</dateRange> on. Her health steadily deteriorated
                         and she died peacefully in bed on <date>October 6, 1863</date>
-                            (<name>Neville-Sington</name>, <title>
-                            <hi rend="italics">Oxford Dictionary</hi>
-                        </title>).</p>
+                            (<name>Neville-Sington</name>, <hi rend="italics">Oxford Dictionary.</hi>
+                        </p>
                     <p>Works Cited:</p>
                     <note><name>Farewell, Jeanne.</name> "<name corresp="FRANCES_TROLLOPE">Mrs.
                             Trollope’s</name> Vituperative View of <rs type="place" key="country"
