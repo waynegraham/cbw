@@ -9180,7 +9180,7 @@
                     <docAuthor>Alison Booth and Agnes Strickland</docAuthor>
                     <docDate>April, 2010</docDate>
                     <head>
-                        <title>A Victorian's Critique of a Powerful, Self-Serving Queen Before
+                        <title>A Victorian Critique of a Powerful Queen Before
                             Victoria</title>
                         <bibl>An interpretation of Strickland's influential biographical history,
                             condensing the text of "Queen ELIZABETH I." from Agnes Strickland, <hi
@@ -9188,9 +9188,9 @@
                             271-84. The US edition significantly uses the term "from," and is itself
                             probably abridged in ways it would be worthwhile to trace.</bibl>
                     </head>
-                    <p>Agnes Strickland (a writing team that included her sister) entitles her
-                        chapter on Elizabeth I "SECOND QUEEN-REGNANT OF ENGLAND AND IRELAND"
-                        (Elizabeth's sister Mary being the first). The student of queens cares a
+                    <p><name>Agnes Strickland</name> (a writing team that included her sister) entitles her
+                        chapter on <name corresp="QUEEN_ELIZABETH_I">Elizabeth I</name> "SECOND QUEEN-REGNANT OF ENGLAND AND IRELAND"
+                        (Elizabeth's sister Mary being the first).<milestone unit="subject" corresp="subject_type" ana="queen_rank"/> The student of queens cares a
                         great deal about what power the women actually wielded; most were consorts
                         and, far from reigning, found themselves pawns in political chess.
                         Alternatively, most queens encountered conflict between their voluntary
@@ -9201,10 +9201,10 @@
                         />Queen Elizabeth first saw the light at Greenwich Palace, the favorite
                         abode of her royal parents, <name type="father">Henry Eighth</name> and
                             <name type="mother">Anne Boleyn</name>. Her birth is thus quaintly but
-                        prettily recorded by the contemporary historian, Hall: "On the 7th day of
+                        prettily recorded by <rs corresp="narrative_elements" ana="quotation_documentary">the contemporary historian, Hall: "On the 7th day of
                         September, being Sunday, between three and four o'clock in the afternoon,
                         the queen was delivered of a fine lady, on which day the duke of Norfolk
-                        came home to the christening."</p>
+                        came home to the christening."</rs></p>
                     <p rend="block">The queen was desirous of nourishing her infant daughter from
                         her own bosom, but Henry, with his characteristic selfishness, forbade it,
                         lest the frequent presence of the little princess in the chamber of her
@@ -9231,13 +9231,13 @@
                             <name>Katharine Parr</name>, Henry's sixth queen.</p>
                     <p rend="block"> During the reign of <name type="sovereign">Edward</name>, her
                         life was tranquil enough—the most exciting incident during it being the
-                        attempt of Lord Seymour, the brother of the Duke of Somerset, the protector,
+                        attempt of <rs corresp="agents" ana="male_peer">Lord Seymour,</rs> the brother of the Duke of Somerset, the protector,
                         to induce her to marry him, when she was only sixteen years of age.
                             <milestone unit="subject" corresp="life_events" ana="suitors"/>
                         Certainly the celibacy of the sovereign was not in consequence of a want of
                         suitors; <rs corresp="narrative_rhetoric" ana="analogy_ancient_woman"
                             >excepting Penelope, never lady was so pursued with matrimonial
-                            proposals.</rs> Courtenay, Earl of Devonshire, was a second pretender to
+                            proposals.</rs> <rs corresp="agents" ana="male_peer">Courtenay, Earl of Devonshire,</rs> was a second pretender to
                         the possession of her hand; and then followed a proposition that she should
                         unite herself to the king of Sweden. Subsequently, she was successively
                         importuned to wed Philip of Spain, the earl of Arran, the Dukes of Alencon
@@ -9256,12 +9256,12 @@
                     <p>In an extended chain of analogies, Elizabeth is compared to other queens, her
                         elder sister and Mary Queen of Scots in particular. Strickland presumes that
                         Elizabeth is not only physically unsuited to a woman's biological destiny
-                        but mentally, with an "unfeminine mind." Mary's reign "ceaseless peril and
+                        but also mentally, with an "unfeminine mind." Mary's reign brought "ceaseless peril and
                         adversity," but had the opposite of the usual "mollifying" effect; when "the
                         energetic princess... in her turn," came to power, she exercised it with "a
                         far greater extent of hate and cruelty than she herself had ever
                         experienced." This is a standard view of Elizabeth, yet Strickland also
-                        admires her resistance to humiliation. "To all the machinations of her
+                        admires her subject's resistance to humiliation. "To all the machinations of her
                         enemies to entrap her into some act which might serve as a pretext for her
                         condemnation, she opposed an invincible prudence and discretion." Rather
                         than escape into marriage with the king of Sweden, "she cautiously demanded
@@ -9270,12 +9270,13 @@
                         communicated to Mary, who, though doubtless previously possessed of the
                         knowledge, feigned to thank her for her loyal and dutiful information, and
                         to permit her to decide according to her own inclination." She was
-                        diplomatic, too, under religious inquisition, and Strickland quotes a verse
+                        diplomatic, too, under religious inquisition, and Strickland <milestone unit="subject" 
+                            corresp="narrative_elements" ana="speech_subject"/>
+                            quotes a verse
                         enigma that Elizabeth offered "respecting the doctrine of the real
                         presence":</p>
 
                     <lg>
-
                         <l>Christ was the Word that spake it,</l>
                         <l>He took the bread and brake it,</l>
                         <l>And what the Word did make it</l>
