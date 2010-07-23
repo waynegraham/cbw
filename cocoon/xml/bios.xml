@@ -7958,21 +7958,22 @@
                     <p><milestone unit="subject" corresp="life_events" ana="talent"/><milestone
                             unit="subject" corresp="narrative_rhetoric" ana="example"/><milestone
                             unit="subject" corresp="subject_type" ana="writer"/><milestone
-                            unit="subject" corresp="subject_type" ana="philanthropist"/>The
-                        versatility which shows itself in Hannah More's handwriting is manifested by
-                        the readiness with which she devoted the ambitions, which had been fostered
-                        under <name>Garrick's</name> guidance, to other interests; and what dramatic
-                        powers she possessed were quickly overshadowed by the characteristic
-                        enthusiasm with which she threw herself into religious and philanthropic
-                        reforms. <milestone unit="subject" corresp="life_events" ana="religion"
-                        />This divine enthusiasm, however, never waned, as her last book on
-                                <title><hi rend="italics">The Spirit of Prayer</hi></title> clearly
-                        shows. It proclaims, in tones as distinct, though less forcible,
-                            <name>Carlyle's</name> solemn message to the world—<rs
-                            corresp="narrative_elements" ana="quotation_letter">"No prayer, no
-                            religion, or at least only a dumb and lamed one! Prayer is and remains
-                            always a native and deepest impulse of the soul of man; and, correctly
-                            gone about, is of the very highest benefit (nay, one might say
+                            unit="subject" corresp="subject_type" ana="philanthropist"/><hi
+                            rend="italics">Of More's character as exhibited by her handwriting,
+                            Green-Armytage concludes:</hi> The versatility which shows itself in
+                        Hannah More's handwriting is manifested by the readiness with which she
+                        devoted the ambitions, which had been fostered under <name>Garrick's</name>
+                        guidance, to other interests; and what dramatic powers she possessed were
+                        quickly overshadowed by the characteristic enthusiasm with which she threw
+                        herself into religious and philanthropic reforms. <milestone unit="subject"
+                            corresp="life_events" ana="religion"/>This divine enthusiasm, however,
+                        never waned, as her last book on <title><hi rend="italics">The Spirit of
+                                Prayer</hi></title> clearly shows. It proclaims, in tones as
+                        distinct, though less forcible, <name>Carlyle's</name> solemn message to the
+                            world—<rs corresp="narrative_elements" ana="quotation_letter">"No
+                            prayer, no religion, or at least only a dumb and lamed one! Prayer is
+                            and remains always a native and deepest impulse of the soul of man; and,
+                            correctly gone about, is of the very highest benefit (nay, one might say
                             indispensability) to every man aiming morally high in this world. Prayer
                             is a turning of one's soul in heroic reverence, in infinite desire and
                             endeavour, towards the Highest, the All Excellent, Omnipotent,
@@ -7993,7 +7994,7 @@
                                 /><title><hi rend="italics">Practical Piety</hi></title> is going
                         out of fashion quite fast enough: we do not want to ignore its Principles
                         also. </p>
-                    <p rend="block">
+                    <p>
                         <rs corresp="narrative_rhetoric" ana="moral"><milestone unit="subject"
                                 corresp="narrative_rhetoric" ana="prophecy"/>Who knows but that the
                                 <rs corresp="narrative_elements" ana="allusion">"ever- rolling
@@ -8009,8 +8010,8 @@
                             largely traditional view of the role of the independent woman.
                             Additionally, Green-Armytage appears to have a personal quarrel with the
                             criticism leveled by <name>Augustine Birrell</name> on Hannah More’s
-                            writing; he regards More as having a much higher degree of literary
-                            talent than does Birrell.</hi>
+                            writing; Green-Armytage regards More as having a much higher degree of
+                            literary talent than does Birrell.</hi>
                     </p>
                 </div2>
             </div1>
