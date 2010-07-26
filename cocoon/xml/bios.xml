@@ -8153,7 +8153,7 @@
                     <head>
                         <title>Lady Rachel Russell, Defender of England against Catholic
                             Monarchs</title>
-                        <bibl>From Charles Bruce, The Book of Noble Englishwomen, 111-22, as well as
+                        <bibl>An interpretation focusing on the biography of Russell by Charles Bruce, The Book of Noble Englishwomen, 111-22, as well as
                             Oxford Dictionary of National Biography.</bibl>
                     </head>
                     <p> In the Pop Chart, sampling the unspecialized collections of women’s
@@ -8162,9 +8162,9 @@
                         category “role in revolution.” Whereas <name corresp="MADAME_DE_STAEL"
                             >Madame de Staël</name> and <name corresp="MADAME_ROLAND">Madame
                             Roland</name> contend with male leaders and mobs during the French
-                        Revolution, Lady Rachel plays a role in the civil and religious conflicts in
+                        Revolution, <milestone unit="subject" corresp="subject_type" ana="role_revolution"/>Lady Rachel plays a role in the civil and religious conflicts in
                         England. Many biographies of Lady Russell emphasize her talent as a writer,
-                        her piety, and her exemplary performance as wife. For Lydia Maria Child,
+                        her piety, and her <milestone unit="subject" corresp="subject_type" ana="wife"/>exemplary performance as wife. For Lydia Maria Child,
                         Sarah Hale, Mrs. Newton Crosland, and other presenters, Lady Russell figures
                         prominently in the cohort of patriotic wives, historic actors in national
                         events with their husbands. The <hi rend="italics">Oxford Dictionary of
@@ -8199,7 +8199,8 @@
                         conduct, resplendent alike in her happiness and in her sorrow, which, as the
                         ages glide away, live and brighter grow: time can never dim them.</p>
 
-                    <p rend="block">How purely bright her story shines out amid the darkness of the
+                    <p rend="block">How purely <rs corresp="narrative_rhetoric" ana="trope_light_into_darkness">bright 
+                        her story shines out amid the darkness</rs> of the
                         reigns of the worthless Charles II and his brother James! That was an evil
                         period of national transition from the cruel despotism of the Stuarts
                         towards constitutional government.</p>
@@ -8214,9 +8215,10 @@
                         loving marriage. Bruce's biography passes quickly through an arranged
                         marriage, at seventeen (Bruce says she was eighteen), to Lord Vaughan, the
                         elder son of the Earl of Carbery, though this amicable union was an
-                        opportunity for a broad education at the Carbery estate in Wales. The
+                        opportunity for a broad education at the Carbery estate in Wales.</p>
+                    <p> The
                         Restoration in 1660 brought political power back to the loyal nobility, and
-                        more access to London. In 1670 high-ranked, wealthy, beautiful and charming
+                        hence more access to London for those in that party. In 1670 the high-ranked, wealthy, beautiful, and charming
                         young widow married William Russell, handsome, ambitious younger son of the
                         first Duke of Bedford. Collective biographies celebrate the union as a model
                         of companionate marriage based on love and mutual understanding. "How
@@ -8230,7 +8232,7 @@
                         the fashionable world of that time; the gossips, frivolities, and follies of
                         the court of the King...." </p>
 
-                    <p> Bruce quotes from Lady Russell's letters: she prays, for example, that God
+                    <p> Bruce quotes from Lady Russell's letters<milestone unit="subject" corresp="narrative_elements" ana="quotation_writing_by_subject"/>: she prays, for example, that God
                         "will continue to me all these joys," or give "strength to submit without
                         murmuring to His wise arrangements.... He knows better than we, at what
                         moment we have obtained and enjoyed enough here below. That which I
@@ -8291,7 +8293,7 @@
                         tenderest affection for her lord, she was desirous of being present at the
                         trial, that she might support him by her sympathy, and assist him by taking
                         notes of the evidence; and she writes to him to obtain his permission,
-                        saying, 'Your friends, believing I can do you some service at your trial, I
+                        saying, "Your friends, believing I can do you some service at your trial, I
                         am extremely willing to try; my resolution will hold out—pray let yours. But
                         it may be the Court will not let me; however, do you let me try. I think,
                         however, to meet you at Richardson's, and then resolve. Your brother Ned
@@ -8310,7 +8312,7 @@
                         permission to use such papers as he had with him; and these requests being
                         granted, he, wishing to have notes of the evidence taken, asked whether he
                         might have somebody to write for him...." He was allowed to have a servant
-                        assist him, and to everyone's surprise he announces, "'My wife is here ready
+                        assist him, and to everyone's surprise he announced, "'My wife is here ready
                         to do it.' 'If her ladyship will take the trouble, she can do so,' said the
                         judge; and the thronging spectators could not refrain from expressions of
                         sympathy and admiration, when the noble woman, calm, self-possessed, and
@@ -8341,7 +8343,7 @@
                         would not advise me to pardon a man who would have given me no quarter; I do
                         not wish to prevent M. de Ruvigny from coming here, but my Lord Russell will
                         be beheaded before he arrives. I owe this example both for my own safety and
-                        the good of my kingdom."</p>
+                        the good of my kingdom.'"</p>
 
                     <p>Lady Russell next hoped to delay the execution, and Lady Ranelagh recommended
                         that she petition the king in person; many classic narratives include the
@@ -8384,7 +8386,7 @@
                     <p>Bruce's account continues to follow a kind of screenplay dictated by Burnet.
                         Again in a classic topos of presentation of children, Lady Russell with
                         their three children comes to the Tower on the eve of the execution,"that he
-                        might give them his blessing and take his last farewell of them. "'I saw him
+                        might give them his blessing and take his last farewell of them. 'I saw him
                         receive them,' says Burnet, 'with his ordinary serenity.' After conversing
                         with them for some time, of their education and their future, he gave them
                         his parting blessing, and dismissed them tenderly.'" Then husband and wife
@@ -8398,26 +8400,26 @@
                         too deep for tears.'"</p>
 
                     <p rend="block">When his wife had disappeared, Lord Russell turned to Burnet,
-                        and said, 'Now the bitterness of death is past;' adding at intervals, in his
-                        grief, 'What a blessing she has been to me! God has shown me remarkable
+                        and said, "Now the bitterness of death is past;" adding at intervals, in his
+                        grief, "What a blessing she has been to me! God has shown me remarkable
                         mercy in giving me such a wife — birth, fortune, great intellect, great
                         piety, great love for me; it has been all that! And, above all, her conduct
                         in this extremity! It is a great consolation to me to leave my children in
                         the hands of such a mother: she has promised me to take care of herself on
-                        their account, and she will do it.</p>
+                        their account, and she will do it."</p>
 
                     <p rend="block">While the affectionate wife was doubtless spending her night in
                         tears, her noble husband was preparing himself for death. To Dr. Burnet he
-                        said, 'What an immense change death must make in us! what new and marvellous
+                        said, "What an immense change death must make in us! what new and marvellous
                         scenes must open before our soul! I have heard it said of men who were born
                         blind, that they were stricken with stupor when, after the cataract had
                         fallen from their eyes, they were able to see; how great would this have
-                        been if the first object they had looked upon had been the rising sun!' At
+                        been if the first object they had looked upon had been the rising sun!" At
                         one o'clock he sank into a sound and refreshing sleep, from which his
                         servant awoke him at four in the morning. He desired Burnet to convey to his
                         wife his most affectionate remembrance, and to tell her that she would have
-                        a place in his last prayers. He then wound up his watch, saying 'I have done
-                        with time; eternity is at hand.' He was executed at Lincoln's Inn Fields on
+                        a place in his last prayers. He then wound up his watch, saying "I have done
+                        with time; eternity is at hand." He was executed at Lincoln's Inn Fields on
                         the morning of July 21, 1683, in the forty-fourth year of his age. To the
                         very last moment he exhibited an unwavering calmness and fortitude, a
                         Christian stedfastness and heroism, which, combined with the principles for
@@ -8469,19 +8471,19 @@
                         charitable as to believe that he, who in all his life was observed to act
                         with the greatest clearness and sincerity, would not, at the point of death,
                         do so disingenuous and false a thing as to deliver for his own what was not
-                        properly and expressly so."</p>
+                        properly and expressly so.'"</p>
 
 
                     <p rend="block">Soon after her husband's death she removed to Woburn, and there
                         resolved personally to apply herself to the task of conducting the education
                         of her children. And this resolution she carried out with her usual
-                        promptitude, energy, and perseverance ; and it is pleasing to think that her
+                        promptitude, energy, and perseverance; and it is pleasing to think that her
                         labours were not in vain, but were crowned with success. She appears to have
-                        been her accomplished daughters' sole in structress. Her chief aim in
+                        been her accomplished daughters' sole instructress. Her chief aim in
                         training them was to make them good rather than great. To the Earl of
-                        Rochester she said, 'I do assure your lordship I have much more care to make
+                        Rochester she said, "I do assure your lordship I have much more care to make
                         my children worthy to be great than to see them so. I will do what I can
-                        that they may deserve to be so, and then quietly wait what will follow.' And
+                        that they may deserve to be so, and then quietly wait what will follow." And
                         this intention is fully borne out by the contents of a long letter addressed
                         to her children, discovered and published in 1850. It is full of tenderness,
                         wisdom, and earnest exhortations to follow the noble pathway of duty.
