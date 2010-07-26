@@ -152,11 +152,9 @@
     </docTitle>
     <byline>
      <docAuthor>Alison Booth</docAuthor>
-
      <seg part="N">Includes Volumes of Three or More Female Biographies<lb/> Published in English
       1830-1940<lb/> With Selected Bibliographies of Collections Published Before 1830 and After
       1940 </seg>
-
      <seg part="N">Compiled with the assistance of Christopher Jackson, Karen Dietz, Erin O'Connor,
       Sarah Whitney, Christine Bayles-Korstch, Margaret Cooke</seg>
     </byline>
@@ -209,7 +207,8 @@
       bibliography, and will find there discussions many of the items collected here
       (cross-references to these pages in the book appear in the entries). We have adapted from the
       book both the <ref type="popchart" targOrder="U">"Pop Chart"</ref>—comparing the popularity of
-      frequently-represented subjects—and the chart of the Number of Collective Biographies per Year. </p>
+      frequently-represented subjects—and the chart of the Number of Collective Biographies per
+      Year. </p>
     </div2>
     <div2 org="uniform" sample="complete" part="N">
      <head>The CBW Project</head>
@@ -2770,9 +2769,9 @@ in collaboration with students and assistants.  The plan is to expand Featured S
        <hi rend="italics">Eccentric Biography; or, Memoirs of Remarkable Female Characters, Ancient
         and Modern. Including Actresses, Adventurers, Authoresses, Fortune-Tellers, Gipsies, Dwarfs,
         Swindlers and Vagrants: Also Many Others who Have Distinguished Themselves by Their
-        Chastity, Dissipation, Intrepidity, Learning, Abstinence, Credulity, &amp;c.,
-        &amp;c.: Alphabetically Arranged: Forming a Pleasing Mirror of Reflection to the Female
-        Mind. Ornamented with Portraits of the Most Singular Characters in the Work.</hi>
+        Chastity, Dissipation, Intrepidity, Learning, Abstinence, Credulity, &amp;c., &amp;c.:
+        Alphabetically Arranged: Forming a Pleasing Mirror of Reflection to the Female Mind.
+        Ornamented with Portraits of the Most Singular Characters in the Work.</hi>
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
@@ -3110,8 +3109,8 @@ in collaboration with students and assistants.  The plan is to expand Featured S
         for the Fair Sex. In Two Parts. Containing: 1. A Variety of Entertaining and Moral
         Dialogues, Partly Original, Calculated for Misses from Eight to Twelve Years. A Collection
         of Useful Rules Relative to Genteel Behaviour, and a Polite Address. Poetic Pieces.
-        Devotional Poems, Writing Pieces, &amp;c.. 2. Miscellaneous Essays, Worthy the Perusal
-        of Women, at any Period of Life. To Which Are Added, Interesting Sketches of Female
+        Devotional Poems, Writing Pieces, &amp;c.. 2. Miscellaneous Essays, Worthy the Perusal of
+        Women, at any Period of Life. To Which Are Added, Interesting Sketches of Female
         Biography... </hi>
       </title>
       <imprint>
@@ -3906,12 +3905,6 @@ in collaboration with students and assistants.  The plan is to expand Featured S
         <item n="JOAN_OF_ARC">Joan of Arc. *Pop Chart</item>
        </list>
       </note>
-      <image n="no397">
-       <imgName>Madame Roland. Painter Unknown.</imgName>
-      </image>
-      <image n="no398">
-       <imgName>Queen Victoria</imgName>
-      </image>
       <image n="no516.Cleopatra">
        <imgName>Cleopatra</imgName>
        <imgDesc>From the painting by Guido Reni, Pitti Palace, Florence.</imgDesc>
@@ -3930,7 +3923,8 @@ in collaboration with students and assistants.  The plan is to expand Featured S
       </image>
       <image n="no520.MarieAntoinetteguillotine">
        <imgName>Marie Antoinette</imgName>
-       <imgDesc>Marie Antoinette on her way to the guillotine.  From the painting by F. Flemeng.</imgDesc>
+       <imgDesc>Marie Antoinette on her way to the guillotine. From the painting by F.
+        Flemeng.</imgDesc>
       </image>
       <image n="no521.CharlotteCorday">
        <imgName>Charlotte Corday</imgName>
@@ -3965,11 +3959,13 @@ in collaboration with students and assistants.  The plan is to expand Featured S
       </image>
       <image n="no529.MadamedeStael">
        <imgName>Madame de Staël</imgName>
-       <imgDesc>From the painting by F. Gerard in the possession of M. de Broglie at Paris.</imgDesc>
+       <imgDesc>From the painting by F. Gerard in the possession of M. de Broglie at
+        Paris.</imgDesc>
       </image>
       <image n="no530.SarahDuchessofMarlborough">
        <imgName>Sarah, Duchess of Marlborough</imgName>
-       <imgDesc>From the painting by Sir Godfrey Kneller in the collection of Earl Spencer at Althorp.</imgDesc>
+       <imgDesc>From the painting by Sir Godfrey Kneller in the collection of Earl Spencer at
+        Althorp.</imgDesc>
       </image>
       <image n="no531.LouisedelaValliere">
        <imgName>Louise de la Valliere</imgName>
@@ -4229,23 +4225,26 @@ in collaboration with students and assistants.  The plan is to expand Featured S
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 206.</xref>
       <note place="unspecified" anchored="yes">Borrows from <ref target="a362" targOrder="U"
-        >Hale;</ref> British Library lists it under Hale. Frontispiece: vignettes of Lady Jane Grey, Lady Russell, Hannah More, and Felicia Hemans, cluster around a doubly
-       crowned Queen Victoria.  Many standard subjects form an encyclopedic group.  
-       Some subjects, such as Anna Jameson, Grace Aguilar, Sarah Hale, Elizabeth Ellet, and Agnes Strickland, are also presenters.  A sample of the contents is listed here.
-      </note>
+        >Hale;</ref> British Library lists it under Hale. Frontispiece: vignettes of Lady Jane Grey,
+       Lady Russell, Hannah More, and Felicia Hemans, cluster around a doubly crowned Queen
+       Victoria. Many standard subjects form an encyclopedic group. Some subjects, such as Anna
+       Jameson, Grace Aguilar, Sarah Hale, Elizabeth Ellet, and Agnes Strickland, are also
+       presenters. A sample of the contents is listed here. </note>
       <note type="toc">
        <list>
-        <item n="LADY_JANE_GREY">Lady Jane Grey</item>      
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item n="LADY_RACHEL_RUSSELL">"Lady W. Russell"</item>
-               <item n="HANNAH_MORE">Hannah More</item>
-        <item>Felicia Hemans</item> 
+        <item n="HANNAH_MORE">Hannah More</item>
+        <item>Felicia Hemans</item>
         <item n="QUEEN_VICTORIA">Queen Victoria</item>
-        <item>Anna Jameson</item> <item>Grace Aguilar</item> 
-        <item>Sarah Hale</item> 
-        <item>Elizabeth Ellet</item> <item>Agnes
-        Strickland</item> 
+        <item>Anna Jameson</item>
+        <item>Grace Aguilar</item>
+        <item>Sarah Hale</item>
+        <item>Elizabeth Ellet</item>
+        <item>Agnes Strickland</item>
         <item>Margaret Fuller</item>
-        <item>Harriet Martineau</item><item>Sarah Martin</item>
+        <item>Harriet Martineau</item>
+        <item>Sarah Martin</item>
         <item n="ANN_HASSELTINE_JUDSON">Ann Judson</item>
         <item>the Maid of Saragossa</item>
        </list>
@@ -7684,7 +7683,6 @@ in collaboration with students and assistants.  The plan is to expand Featured S
        <publisher>Kennikat,</publisher>
        <date>1969?</date>
       </imprint>
-
       <note type="toc">
        <list>
         <item>I. Eve in the Apple-Orchard: Ninon de Lenclos</item>
@@ -10927,7 +10925,6 @@ in collaboration with students and assistants.  The plan is to expand Featured S
       <image n="no301">
        <imgName>Frances Cobbe</imgName>
       </image>
-
      </bibl>
      <bibl id="a186" default="NO">
       <ref targOrder="U">186.</ref>
@@ -10977,11 +10974,11 @@ in collaboration with students and assistants.  The plan is to expand Featured S
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Riches. San Jose State Library copy of NY edition:
-       On final page: “Edinburgh: Printed by W. &amp; R. Chambers, Limited.” “The present
-       century” (81) and “this century” (113) refer to the nineteenth. Victoria still alive.
-       Commendation of activities for <date>1887</date> Jubilee; mention of biography of Stowe
-       published in <date>1889</date>. Frontis: Nightingale “after a portrait pub: by Colnaghi
-        <date>1854</date>” [reading, flower in hair, crucifix necklace, reversed from other copies];
+       On final page: “Edinburgh: Printed by W. &amp; R. Chambers, Limited.” “The present century”
+       (81) and “this century” (113) refer to the nineteenth. Victoria still alive. Commendation of
+       activities for <date>1887</date> Jubilee; mention of biography of Stowe published in
+        <date>1889</date>. Frontis: Nightingale “after a portrait pub: by Colnaghi
+       <date>1854</date>” [reading, flower in hair, crucifix necklace, reversed from other copies];
        titlepage, “Lea Hurst, Florence Nightingale's Early Home”; illustrations include images of
        Balmoral and Windsor Castle; Elizabeth Fry's oval portrait surrounded by scenes of Newgate,
        Earlham Hall, and “Addressing the Meeting at Plaistow”; “Sarah Martin in Yarmouth Jail”
@@ -11704,21 +11701,24 @@ in collaboration with students and assistants.  The plan is to expand Featured S
      </bibl>
      <bibl id="a207A" default="NO"><ref targOrder="U">207A.</ref>
       <idno>a207A</idno>
-      <author><name type="last">Creasy</name>, <name type="first">Sir Edward Shepherd</name>.</author>
+      <author><name type="last">Creasy</name>, <name type="first">Sir Edward
+       Shepherd</name>.</author>
       <title type="ref">
-       <hi rend="italics">For God and the King, and other true stories of heroic women, noble mothers, chivalrous wives and devoted 
-        daughters.</hi>
-      </title> <imprint>
+       <hi rend="italics">For God and the King, and other true stories of heroic women, noble
+        mothers, chivalrous wives and devoted daughters.</hi>
+      </title>
+      <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>S.H. Bousefiled,</publisher>
        <date>190o.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> A title formula used in various early-twentieth-century publications, based
-       perhaps on Henry Burton's sermons, <title>
+      <note place="unspecified" anchored="yes"> A title formula used in various
+       early-twentieth-century publications, based perhaps on Henry Burton's sermons, <title>
         <hi rend="italics">For God and the King</hi>
-       </title>, 1636.  Some books of this or similar title address women's war efforts in Canada or Australia, or training and recruitment of soldiers,
-       circa World War I.  In 1995, Marjorie Bowen published an historical novel on William and Mary with this title.</note>
-      </bibl>
+       </title>, 1636. Some books of this or similar title address women's war efforts in Canada or
+       Australia, or training and recruitment of soldiers, circa World War I. In 1995, Marjorie
+       Bowen published an historical novel on William and Mary with this title.</note>
+     </bibl>
      <bibl id="a207" default="NO"><ref targOrder="U">207.</ref>
       <idno>a207</idno>
       <author><name type="last">Creighton</name>, <name type="first">Louise</name>.</author>
@@ -12092,7 +12092,7 @@ in collaboration with students and assistants.  The plan is to expand Featured S
      <bibl id="a214" default="NO">
       <ref targOrder="U">214.</ref>
       <idno>a214</idno>
-        <author><name type="last">Daffan</name>, <name type="first">Katie</name>.</author>
+      <author><name type="last">Daffan</name>, <name type="first">Katie</name>.</author>
       <title type="ref">
        <hi rend="italics">Woman in History.</hi>
       </title>
@@ -12348,8 +12348,8 @@ in collaboration with students and assistants.  The plan is to expand Featured S
       </imprint>
       <edition>Title variant:</edition>
       <title type="ref">
-       <hi rend="italics">Heroism of Christian Women of Our Own Time, what rhey have done &amp;
-        are doing, embracing their early training and inner life.</hi>
+       <hi rend="italics">Heroism of Christian Women of Our Own Time, what rhey have done &amp; are
+        doing, embracing their early training and inner life.</hi>
       </title>
       <pubPlace>London:</pubPlace>
       <publisher>Swan,</publisher>
@@ -14458,7 +14458,6 @@ in collaboration with students and assistants.  The plan is to expand Featured S
         <item>The American Abolitionists: Prudence Crandall and Lucretia Mott. *Pop Chart</item>
        </list>
       </note>
-
       <note place="unspecified" anchored="yes"> British Library. </note>
       <note place="unspecified" anchored="yes">Preface dated London 1889: "written for <hi
         rend="italics">The Mothers' Companion</hi>" in monthly installments 1887-1888; reprinted
@@ -14476,7 +14475,6 @@ in collaboration with students and assistants.  The plan is to expand Featured S
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 142.</xref>
-
       <note place="unspecified" anchored="yes"> British Library. </note>
      </bibl>
      <bibl id="a283" default="NO">
@@ -14555,7 +14553,6 @@ in collaboration with students and assistants.  The plan is to expand Featured S
        <publisher>Books for Libraries,</publisher>
        <date>1972.</date>
       </imprint>
-
       <note type="toc"> TOC: First Series: <list>
         <item>Faustina Bordoni</item>
         <item>Catarina Gabrielli</item>
@@ -14778,9 +14775,8 @@ in collaboration with students and assistants.  The plan is to expand Featured S
        <publisher>Ward, Lock,</publisher>
        <date>[1879],</date>
        <date>[1881].</date>
-       
+
       </imprint>
-     
       <edition>Title variant:</edition>
       <title type="ref">
        <hi rend="italics">Fifty Famous Women, Their Virtues and Failings and the Lessons of Their
@@ -14791,9 +14787,7 @@ in collaboration with students and assistants.  The plan is to expand Featured S
        <date>1864;</date>
        <date>1876.</date>
       </imprint>
-      
-      
-          <note type="toc">
+      <note type="toc">
        <list>
         <item>Madame de Lavalette</item>
         <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
@@ -14943,10 +14937,9 @@ in collaboration with students and assistants.  The plan is to expand Featured S
       <image n="no515.AnneBoleyn">
        <imgName>Anne Boleyn</imgName>
       </image>
-      <note type="toc">
-       Contents of [1881] edition (University of Western Ontario copy), the first sixteen names identical to above, but 
-       varying after Madame D'Arblay with some of the same figures amid new names:
-       <list>
+      <note type="toc"> Contents of [1881] edition (University of Western Ontario copy), the first
+       sixteen names identical to above, but varying after Madame D'Arblay with some of the same
+       figures amid new names: <list>
         <item>Madame de Lavalette</item>
         <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
         <item>the Empress Josephine</item>
@@ -14997,54 +14990,60 @@ in collaboration with students and assistants.  The plan is to expand Featured S
         <item>Mrs. Elizabeth Carter</item>
         <item>Mrs. Siddons.</item>
        </list>
-       </note>
-        <note place="unspecified" anchored="yes">  
-        <p>British Library copy with the first title, likely to be circa 1870.  See title 678 (Mrs. Clyde Robertson, 1936). One catalogue has
-         “1830-1850?,” unlikely dates given Charlotte Bronte's presence in the known tables of contents (famous
-         after 1847, but entering biographies after her death and Gaskell's biography 1855-1857).
-         “Sketches,” including some negative examples: “many a wasted life, and many a career
-         exhibiting only mistaken activity . . . carries with it its lesson” (iii-iv). First-person
-         anonymous introduction offers the collection as answer to the question, “What is really
-         woman's work?”(2). The subjects show that heriosm belongs “with duty and work”
-        they are “types of a class--chosen representatives. . . from the mass of that great
-         army of female heroism, whose rank and file lie buried, unremembered and unchronicled, in
-         nameless graves beneath the quiet churchyard grass”(4).  </p>
-         <p>In the edition owned by University of Western Ontario, significant variation appears: a different TOC (as noted), and the following two-page
-          Preface: </p><p>"In this gallery of “Fifty Famous Women,” it is intended to present lifelike sketches, if not finished portraits, 
-          of those who have attained celebrity by their own talents or been born to emininent positions, and have exhibited qualities which 
-          made them memorable.  Varied in character as in the positions occupied, the fifty shosen are representatives of the large 
-          number who as princesses, authoresses, philanthropists, or leaders of society have done honour to their sex; and representatives
-          too of those whose sad histories ecited universal interest, although their own characters may have been marked by errors and 
-          weaknesses.</p>
-          <p>"Humanity is never perfect, and to find fifty persons of either sex for whom we must feel unqualified admiration would be difficult;
-          but the lives we have selected for illustration are those of women whose careers may be profitably studied, and many of whom 
-          may be takene as models to be studied and imitated by the young.</p>
-          <p>"In these days, when the claim of women to a larger share in public and professional duties is so earnestly advanced, 
-          and their social and intellectual position is so warmly discussed, it will probably be interesting to note the abilities or 
-          virtues, the genius or enterprise of Fifty Famous Women, who may be considered as representatives of their sex.  
-          Among them we shall find illustrations of talent, devotion, liberality, and thoughtfulness, which entitle them to a place
-          in the ranks of those whom all the world honour."
-         </p>
-         <p>The U Western Ontario copy indicates its later-Victorian origon with is blue cloth cover stamped with black and red geometric patterns 
-          intertwined with red-blossomed black branches.  On the spine the title and publisher’s name appear in gold bands; on the front cover, the title only, 
-          with the sort of art-nouveau detailing that might border a Beardsley print.  The frontispiece is an engraving, "Mrs. Siddons as the Tragic Muse."   The type
-          and illustrations are of poor quality; wood-engraved headpieces and tailpieces appear in most chapters, some of the standard-issue irrelevant sort.
-          Some illustrations feature biographical scenes or places, and there are some  full-page portraits or historic scenes (rotated) throughout.  
-          Some chapters have no portrait.  The most telling feature is a book catalogue at the back, by price; first, “The Cheapest Standard Books Published”  
-          "Ward &amp; Lock’s Shilling Library of Famous Books for All Time” (1 page), including  <name>J.C. Watt’s</name> 
-          <title><hi rend="italics">Great Novelists</hi></title>, of 1880, and H. J. Nicoll’s <title><hi rend="italics">
-           Life of Thomas Carlyle</hi>
-          </title>, first published in <date>1881</date> (the year of Carlyle's death).   A second section features “Gift Books at Three Shillings &amp; Sixpence” 
-          in two lists: “The Home Treasure Library” (1 page, mostly with coloured illustrations, fiction)  and “The Good Worth Library” (2 pages), including 
-          most relevantly, Fifty Celebrated Women: Their Virtues and Failings, and the Lessons of Their Lives” and Fifty Celebrated Men:Their Lives and Trials, and the Deeds that Made Them Famous.
-          Some fiction, some other bio collections: Famous Boys.
-          Mary Bunyan, the Daughter of John Bunyan, by Sallie Rochester Ford
-          Bios of President Garfield, of General Gordon; lots of advice and self help
-          “Famous People and Famous Places”
-          “Sacred Heroes and Martyrs” by JT Headley
-          
-         </p>
-      
+      </note>
+      <note place="unspecified" anchored="yes">
+       <p>British Library copy with the first title, likely to be circa 1870. See title 678 (Mrs.
+        Clyde Robertson, 1936). One catalogue has “1830-1850?,” unlikely dates given Charlotte
+        Bronte's presence in the known tables of contents (famous after 1847, but entering
+        biographies after her death and Gaskell's biography 1855-1857). “Sketches,” including some
+        negative examples: “many a wasted life, and many a career exhibiting only mistaken activity
+        . . . carries with it its lesson” (iii-iv). First-person anonymous introduction offers the
+        collection as answer to the question, “What is really woman's work?”(2). The subjects show
+        that heriosm belongs “with duty and work” they are “types of a class--chosen
+        representatives. . . from the mass of that great army of female heroism, whose rank and file
+        lie buried, unremembered and unchronicled, in nameless graves beneath the quiet churchyard
+        grass”(4). </p>
+       <p>In the edition owned by University of Western Ontario, significant variation appears: a
+        different TOC (as noted), and the following two-page Preface: </p><p>"In this gallery of
+        “Fifty Famous Women,” it is intended to present lifelike sketches, if not finished
+        portraits, of those who have attained celebrity by their own talents or been born to
+        emininent positions, and have exhibited qualities which made them memorable. Varied in
+        character as in the positions occupied, the fifty shosen are representatives of the large
+        number who as princesses, authoresses, philanthropists, or leaders of society have done
+        honour to their sex; and representatives too of those whose sad histories ecited universal
+        interest, although their own characters may have been marked by errors and weaknesses.</p>
+       <p>"Humanity is never perfect, and to find fifty persons of either sex for whom we must feel
+        unqualified admiration would be difficult; but the lives we have selected for illustration
+        are those of women whose careers may be profitably studied, and many of whom may be takene
+        as models to be studied and imitated by the young.</p>
+       <p>"In these days, when the claim of women to a larger share in public and professional
+        duties is so earnestly advanced, and their social and intellectual position is so warmly
+        discussed, it will probably be interesting to note the abilities or virtues, the genius or
+        enterprise of Fifty Famous Women, who may be considered as representatives of their sex.
+        Among them we shall find illustrations of talent, devotion, liberality, and thoughtfulness,
+        which entitle them to a place in the ranks of those whom all the world honour." </p>
+       <p>The U Western Ontario copy indicates its later-Victorian origon with is blue cloth cover
+        stamped with black and red geometric patterns intertwined with red-blossomed black branches.
+        On the spine the title and publisher’s name appear in gold bands; on the front cover, the
+        title only, with the sort of art-nouveau detailing that might border a Beardsley print. The
+        frontispiece is an engraving, "Mrs. Siddons as the Tragic Muse." The type and illustrations
+        are of poor quality; wood-engraved headpieces and tailpieces appear in most chapters, some
+        of the standard-issue irrelevant sort. Some illustrations feature biographical scenes or
+        places, and there are some full-page portraits or historic scenes (rotated) throughout. Some
+        chapters have no portrait. The most telling feature is a book catalogue at the back, by
+        price; first, “The Cheapest Standard Books Published” "Ward &amp; Lock’s Shilling Library of
+        Famous Books for All Time” (1 page), including <name>J.C. Watt’s</name>
+        <title><hi rend="italics">Great Novelists</hi></title>, of 1880, and H. J. Nicoll’s
+          <title><hi rend="italics"> Life of Thomas Carlyle</hi>
+        </title>, first published in <date>1881</date> (the year of Carlyle's death). A second
+        section features “Gift Books at Three Shillings &amp; Sixpence” in two lists: “The Home
+        Treasure Library” (1 page, mostly with coloured illustrations, fiction) and “The Good Worth
+        Library” (2 pages), including most relevantly, Fifty Celebrated Women: Their Virtues and
+        Failings, and the Lessons of Their Lives” and Fifty Celebrated Men:Their Lives and Trials,
+        and the Deeds that Made Them Famous. Some fiction, some other bio collections: Famous Boys.
+        Mary Bunyan, the Daughter of John Bunyan, by Sallie Rochester Ford Bios of President
+        Garfield, of General Gordon; lots of advice and self help “Famous People and Famous Places”
+        “Sacred Heroes and Martyrs” by JT Headley </p>
       </note>
      </bibl>
      <bibl id="a294" default="NO">
@@ -15558,8 +15557,9 @@ in collaboration with students and assistants.  The plan is to expand Featured S
        <publisher>Dutton,</publisher>
        <date>1907.</date>
       </imprint>
-      <note>Fyvie also wrote <hi rend="italics">Noble Dames and Notable Men of the Georgian Era</hi> (London: Constable, 1910).  Its subjects include Lady Mary Coke,
-      the Countess of Strathmore, and Elizabeth, Lady Holland.</note>
+      <note>Fyvie also wrote <hi rend="italics">Noble Dames and Notable Men of the Georgian Era</hi>
+       (London: Constable, 1910). Its subjects include Lady Mary Coke, the Countess of Strathmore,
+       and Elizabeth, Lady Holland.</note>
       <note type="toc">
        <list>
         <item>Lavinia Fenton, Duchess of Bolton (1708-1760)</item>
@@ -18040,14 +18040,15 @@ in collaboration with students and assistants.  The plan is to expand Featured S
       <ref targOrder="U">379A</ref>
       <idno>a379A</idno>
       <author><name type="last">Hardy,</name><name type="first">Florence Emily</name>.</author>
-      <title type="ref"><hi rend="italics">Eminent Women: Coloured Illustrations and Six Portraits and Pictures.</hi></title>
+      <title type="ref"><hi rend="italics">Eminent Women: Coloured Illustrations and Six Portraits
+        and Pictures.</hi></title>
       <imprint>
        <pubPlace>Glasgow:</pubPlace>
        <publisher>Collins' Clear-Type Press,</publisher>
        <date>[1900?].</date>
       </imprint>
-      <note place="unspecified" anchored="yes">
-      Juvenile audience.  a 190-pp. book in the Noble Lives series edited by Herbert Haytens.  Florence Dugdale married Thomas Hardy.</note>
+      <note place="unspecified" anchored="yes"> Juvenile audience. a 190-pp. book in the Noble Lives
+       series edited by Herbert Haytens. Florence Dugdale married Thomas Hardy.</note>
       <note type="toc">
        <list>
         <item n="CAROLINE_HERSCHEL">Caroline Herschel</item>
@@ -19119,7 +19120,6 @@ in collaboration with students and assistants.  The plan is to expand Featured S
         <item>“The White House”</item>
        </list>
       </note>
-
       <author>
        <abbr expan="Holloway, Laura Carter [Langford].">---.</abbr>
       </author>
@@ -19133,7 +19133,6 @@ in collaboration with students and assistants.  The plan is to expand Featured S
        <publisher>Bradley,</publisher>
        <date>1880.</date>
       </imprint>
-
       <author>
        <abbr expan="Holloway, Laura Carter [Langford].">---.</abbr>
       </author>
@@ -19147,7 +19146,6 @@ in collaboration with students and assistants.  The plan is to expand Featured S
        <publisher>Bradley,</publisher>
        <date>1881.</date>
       </imprint>
-
       <author>
        <abbr expan="Holloway, Laura Carter [Langford].">---.</abbr>
       </author>
@@ -19162,7 +19160,6 @@ in collaboration with students and assistants.  The plan is to expand Featured S
        <date>1883;</date>
        <date>1884.</date>
       </imprint>
-
       <author>
        <abbr expan="Holloway, Laura Carter [Langford].">---.</abbr>
       </author>
@@ -19420,13 +19417,12 @@ in collaboration with students and assistants.  The plan is to expand Featured S
        <publisher>Scribner's,</publisher>
        <date>n.d.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> WorldCat: London, Field &amp; Tuer [etc.]; New
-       York, Scribner &amp; Welford, <date>n.d.</date> See <ref target="a883" targOrder="U"
-        >Willing</ref>. Hoppner (<date>1758-1810</date>) emulated Reynolds, popular portrait
-       painter. Reproducing his “A Select Series of Poratirs of Ladies of Rank and Fashion” (n.p.),
-       engraved by Wilkins and issued in five numbers, <date>1797-1803</date>, purchased
-        (<date>1883?</date>) as part of Hoare's Stourhead Library (n.p. prefatory text by Tuer,
-       expert on engraving). </note>
+      <note place="unspecified" anchored="yes"> WorldCat: London, Field &amp; Tuer [etc.]; New York,
+       Scribner &amp; Welford, <date>n.d.</date> See <ref target="a883" targOrder="U">Willing</ref>.
+       Hoppner (<date>1758-1810</date>) emulated Reynolds, popular portrait painter. Reproducing his
+       “A Select Series of Poratirs of Ladies of Rank and Fashion” (n.p.), engraved by Wilkins and
+       issued in five numbers, <date>1797-1803</date>, purchased (<date>1883?</date>) as part of
+       Hoare's Stourhead Library (n.p. prefatory text by Tuer, expert on engraving). </note>
      </bibl>
      <bibl id="a417" default="NO">
       <ref targOrder="U">417.</ref>
@@ -22515,7 +22511,6 @@ in collaboration with students and assistants.  The plan is to expand Featured S
        <date>1894;</date>
        <date>1895.</date>
       </imprint>
-
       <note place="unspecified" anchored="yes"> Compare the version of <ref target="a762"
         targOrder="U">Strickland's <title>
          <hi rend="italics">Queens of England</hi>
@@ -23180,8 +23175,8 @@ in collaboration with students and assistants.  The plan is to expand Featured S
        <hi rend="italics">Great Women.</hi>
       </title> Vol. 5 of <title type="series">
        <hi rend="italics">Beacon Lights of History</hi>
-      </title> by John Lord. 10 vols. New York: Ford, Howard &amp; Hulbert, 1883?-1896?. vol. 7
-      of <title type="series">
+      </title> by John Lord. 10 vols. New York: Ford, Howard &amp; Hulbert, 1883?-1896?. vol. 7 of
+       <title type="series">
        <hi rend="italics">Beacon Lights of History</hi>
       </title> by John Lord. <imprint>
        <pubPlace>New York:</pubPlace>
@@ -23382,8 +23377,8 @@ in collaboration with students and assistants.  The plan is to expand Featured S
         <hi rend="italics">Heroes Every Child Should Know</hi>
        </title> (New York: Doubleday, <date>1913</date>). Cf. Mabie and Stephens, <title>
         <hi rend="italics">Famous Stories Every Child Should Know</hi>
-       </title>. London &amp; New York: Doubleday, <date>1907</date>. Kate Stephens is also
-       author of <title>
+       </title>. London &amp; New York: Doubleday, <date>1907</date>. Kate Stephens is also author
+       of <title>
         <hi rend="italics">American Thumb-Prints and Workfellows in Social Progression</hi>
        </title> (New York, <date>1916</date>). Contributors include: Alfred J. Church, Margaret
        Oliphant and Mrs. E. Rundle Charles, Janet Tuckey, Dante G. Rossetti, W.H.D. Adams; Elizabeth
@@ -24273,32 +24268,36 @@ in collaboration with students and assistants.  The plan is to expand Featured S
       <ref targOrder="U">558A.</ref>
       <idno>a558A</idno>
       <author><name type="last">McNeill</name>, <name type="first">William</name>.</author>
-      <title type="ref"><hi rend="italics">The Noble Women of the Staircase and Atrium Windows in the Lady Chapel of the Liverpool Cathedral</hi>.</title>
+      <title type="ref"><hi rend="italics">The Noble Women of the Staircase and Atrium Windows in
+        the Lady Chapel of the Liverpool Cathedral</hi>.</title>
       <imprint>
        <pubPlace>Liverpool:</pubPlace>
        <publisher>Daily Post,</publisher>
        <date>1915.</date>
       </imprint>
-      <note>A 176-pp. illustrated book about the Noble Women windows installed in the Lady Chapel, the first portion of the cathedral to be completed; a prosopography 
-       funded by the Liverpool Diocesan Girls Friendly Society, designed by J. W. Brown, and installed in 1910.  The windows were damaged in World War II.  
-       This book recalls catalogues of portrait galleries. Val Jackson, Cathedral Archivist, considers the idea of a series of Noble Women to be 
-       "forward-thinking" in 1910 (Liverpool Cathedral, "Lady Chapel Archive Exhibition," http://www.liverpoolcathedral.org.uk/, 16 June 2010),
-       but it was a standard phrase and concept.</note>
-       <note place="unspecified" anchored="yes">
-        <ref target="a160" targOrder="U">See Jennie Chappell's works of that period.</ref>
-       </note>
+      <note>A 176-pp. illustrated book about the Noble Women windows installed in the Lady Chapel,
+       the first portion of the cathedral to be completed; a prosopography funded by the Liverpool
+       Diocesan Girls Friendly Society, designed by J. W. Brown, and installed in 1910. The windows
+       were damaged in World War II. This book recalls catalogues of portrait galleries. Val
+       Jackson, Cathedral Archivist, considers the idea of a series of Noble Women to be
+       "forward-thinking" in 1910 (Liverpool Cathedral, "Lady Chapel Archive Exhibition,"
+       http://www.liverpoolcathedral.org.uk/, 16 June 2010), but it was a standard phrase and
+       concept.</note>
+      <note place="unspecified" anchored="yes">
+       <ref target="a160" targOrder="U">See Jennie Chappell's works of that period.</ref>
+      </note>
       <note type="toc">
        <list>
-       <item n="QUEEN_VICTORIA">Queen Victoria</item>
-       <item>Elizabeth Barrett Browning</item>
-       <item>Christina Rossetti</item>
-       <item n="ELIZABETH_FRY">Elizabeth Fry</item>
-       <item n="GRACE_DARLING">Grace Darling</item>
-       <item>Catherine Gladstone</item>
-       <item>Susanna Wesley</item> 
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
+        <item>Elizabeth Barrett Browning</item>
+        <item>Christina Rossetti</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
+        <item n="GRACE_DARLING">Grace Darling</item>
+        <item>Catherine Gladstone</item>
+        <item>Susanna Wesley</item>
         <item>Josephine Butler</item>
-       <item>Agnes Jones</item>
-       <item>Kitty Wilkinson</item>
+        <item>Agnes Jones</item>
+        <item>Kitty Wilkinson</item>
        </list>
       </note>
      </bibl>
@@ -24649,7 +24648,6 @@ in collaboration with students and assistants.  The plan is to expand Featured S
        </list>
       </note>
       <note place="unspecified" anchored="yes">Cambridge University Library.</note>
-
      </bibl>
      <bibl id="a569" default="NO"><ref targOrder="U">569.</ref>
       <idno>a569</idno>
@@ -25292,7 +25290,8 @@ in collaboration with students and assistants.  The plan is to expand Featured S
       </note>
       <image n="no472">
        <imgName>Elizabeth Fry</imgName>
-       <imgDesc>The silence was profound when Mrs. Fry opened her Bible and in a clear audible voice read a portion from it.</imgDesc>
+       <imgDesc>The silence was profound when Mrs. Fry opened her Bible and in a clear audible voice
+        read a portion from it.</imgDesc>
       </image>
       <note place="unspecified" anchored="yes"> Frontispiece of undated Edinburgh edition: Madame de
        Staël questioning Napoleon about the merits of women. <date>1870</date> London edition:
@@ -25393,7 +25392,6 @@ in collaboration with students and assistants.  The plan is to expand Featured S
        <date>1877;</date>
        <date>[1887?]</date>
       </imprint>
-
      </bibl>
      <bibl id="a594" default="NO">
       <ref targOrder="U">594.</ref>
@@ -25721,12 +25719,13 @@ in collaboration with students and assistants.  The plan is to expand Featured S
        <date>1933.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> Author of biography of Florence Nightingale,
-        <date>1931</date>. Possibly the same as a collection of the same title by M.B. Synge (London: Bell, 1911).  
-Synge is identified as author of "Great Englishmen."   The Baldwin Project: Bringing Yesterday's Classics to 
-Today's Children: Table of Contents: Queen Bertha; Maude the Good; Eleanor of Aquitaine; Philippa of Hainault;
-Margaret of Anjou; The Lady Margaret; Margaret Roper; Lady Jane Grey; Princess Elizabeth; Lady Rachel Russell; Angelica Kaufmann; 
-Hannah More; Elizabeth Fry; Mary Somerville; Elizabeth Barrett Browning; Florence Nightingale.
-	 </note>
+        <date>1931</date>. Possibly the same as a collection of the same title by M.B. Synge
+       (London: Bell, 1911). Synge is identified as author of "Great Englishmen." The Baldwin
+       Project: Bringing Yesterday's Classics to Today's Children: Table of Contents: Queen Bertha;
+       Maude the Good; Eleanor of Aquitaine; Philippa of Hainault; Margaret of Anjou; The Lady
+       Margaret; Margaret Roper; Lady Jane Grey; Princess Elizabeth; Lady Rachel Russell; Angelica
+       Kaufmann; Hannah More; Elizabeth Fry; Mary Somerville; Elizabeth Barrett Browning; Florence
+       Nightingale. </note>
      </bibl>
      <bibl id="a610" default="NO">
       <ref targOrder="U">610.</ref>
@@ -25928,8 +25927,7 @@ Hannah More; Elizabeth Fry; Mary Somerville; Elizabeth Barrett Browning; Florenc
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
-       <publisher>Carlton &amp; Phillips; Cincinnati, OH: Hitchcock &amp;
-        Walden,</publisher>
+       <publisher>Carlton &amp; Phillips; Cincinnati, OH: Hitchcock &amp; Walden,</publisher>
        <date>1854;</date>
        <date>1856.</date>
       </imprint>
@@ -26253,13 +26251,93 @@ Hannah More; Elizabeth Fry; Mary Somerville; Elizabeth Barrett Browning; Florenc
         <item>George Sand. *Pop Chart</item>
        </list>
       </note>
+      <image n="no548">
+       <imgName>Josephine</imgName>
+       <imgDesc>Josephine</imgDesc>
+      </image>
+      <image n="no549">
+       <imgName>Sally Bush</imgName>
+       <imgDesc>Sally Bush</imgDesc>
+      </image>
+      <image n="no550">
+       <imgName>Sally Bush, Saturday Night</imgName>
+       <imgDesc>Sally Bush, Saturday Night</imgDesc>
+      </image>
+      <image n="no551">
+       <imgName>Queen Victoria</imgName>
+       <imgDesc>Queen Victoria</imgDesc>
+      </image>
+      <image n="no552">
+       <imgName>Mrs. Harriet Beecher Stowe</imgName>
+       <imgDesc>Mrs. Harriet Beecher Stowe</imgDesc>
+      </image>
+      <image n="no553">
+       <imgName>Miss Louisa M. Alcott</imgName>
+       <imgDesc>Miss Louisa M. Alcott</imgDesc>
+      </image>
+      <image n="no554">
+       <imgName>Princess Louise</imgName>
+       <imgDesc>Princess Louise</imgDesc>
+      </image>
+      <image n="no555">
+       <imgName>Queen Elizabeth</imgName>
+       <imgDesc>Queen Elizabeth</imgDesc>
+      </image>
       <image n="no381">
        <imgName>Adelaide Procter</imgName>
        <imgDesc>Adelaide Procter</imgDesc>
       </image>
+      <image n="no556">
+       <imgName>The Mother of Victor Hugo</imgName>
+       <imgDesc>The Mother of Victor Hugo</imgDesc>
+      </image>
       <image n="no382">
        <imgName>Madame de Stael</imgName>
        <imgDesc>Madame de Stael</imgDesc>
+      </image>
+      <image n="no557">
+       <imgName>Wife of Frederick the Great</imgName>
+       <imgDesc>Wife of Frederick the Great</imgDesc>
+      </image>
+      <image n="no558">
+       <imgName>Charlotte Cushman</imgName>
+       <imgDesc>Charlotte Cushman</imgDesc>
+      </image>
+      <image n="no559">
+       <imgName>Maria Mitchell</imgName>
+       <imgDesc>Maria Mitchell</imgDesc>
+      </image>
+      <image n="no560">
+       <imgName>Adelaide Phillips</imgName>
+       <imgDesc>Adelaide Phillips</imgDesc>
+      </image>
+      <image n="no561">
+       <imgName>Maria Theresa</imgName>
+       <imgDesc>Maria Theresa</imgDesc>
+      </image>
+      <image n="no562">
+       <imgName>Lady Franklin</imgName>
+       <imgDesc>Lady Franklin</imgDesc>
+      </image>
+      <image n="no563">
+       <imgName>Joan of Arc</imgName>
+       <imgDesc>Joan of Arc</imgDesc>
+      </image>
+      <image n="no564">
+       <imgName>Harriet Martineau</imgName>
+       <imgDesc>Harriet Martineau</imgDesc>
+      </image>
+      <image n="no565">
+       <imgName>Betsey Patterson</imgName>
+       <imgDesc>Betsey Patterson</imgDesc>
+      </image>
+      <image n="no566">
+       <imgName>Toru Dutt and Sister</imgName>
+       <imgDesc>Toru Dutt and Sister</imgDesc>
+      </image>
+      <image n="no567">
+       <imgName>George Sand</imgName>
+       <imgDesc>George Sand</imgDesc>
       </image>
       <note place="unspecified" anchored="yes"> A series of close editions begins with <ref
         target="a628" targOrder="U">
@@ -26284,10 +26362,6 @@ Hannah More; Elizabeth Fry; Mary Somerville; Elizabeth Barrett Browning; Florenc
        </title>, <date>1868</date>; <title>
         <hi rend="italics">A History of the Sewing Machine</hi>
        </title>, <date>1867</date>). </note>
-      <image n="no01">
-       <imgName>Queen Elizabeth I</imgName>
-       <imgDesc>Queen Elizabeth. By Edward Corbould, engraved by William Holl.</imgDesc>
-      </image>
      </bibl>
      <bibl id="a625" default="NO"><ref targOrder="U">625.</ref>
       <idno>a625</idno>
@@ -29485,8 +29559,7 @@ Hannah More; Elizabeth Fry; Mary Somerville; Elizabeth Barrett Browning; Florenc
       </image>
       <image n="no155">
        <imgName>Madame Roland</imgName>
-       <imgDesc>From the painting by Heinsius at
-        Versailles.</imgDesc>
+       <imgDesc>From the painting by Heinsius at Versailles.</imgDesc>
       </image>
       <image n="no156">
        <imgName>Lady Hamilton</imgName>
@@ -30878,7 +30951,7 @@ Hannah More; Elizabeth Fry; Mary Somerville; Elizabeth Barrett Browning; Florenc
         <item>Jane Seymour, Third Queen of Henry VIII</item>
         <item>Katharene Parr, Sixth Queen of Henry VIII</item>
         <item>Mary, First Queen Regnant</item>
-        <item>Elizabeth, Second Queen Regnant</item>
+        <item n="QUEEN_ELIZABETH_I">Elizabeth, Second Queen Regnant</item>
         <item>Anne, Queen-Consort of James I</item>
         <item>Henrietta Maria, Queen of Charles I</item>
         <item>Caroline, Queen of George II</item>
@@ -31771,7 +31844,6 @@ Hannah More; Elizabeth Fry; Mary Somerville; Elizabeth Barrett Browning; Florenc
         <item>Frances, Countesss of Hertford and Henrietta Louisa, Countess of Pomfret</item>
        </list>
       </note>
-
      </bibl>
      <bibl id="a799" default="NO">
       <ref targOrder="U">799.</ref>
@@ -32064,8 +32136,7 @@ Hannah More; Elizabeth Fry; Mary Somerville; Elizabeth Barrett Browning; Florenc
       </note>
       <note place="unspecified" anchored="yes"> Author of <title>
         <hi rend="italics">Memoirs of Mrs. Elizabeth Fry</hi>
-       </title> (same publisher, and New York: Stanford &amp; Swords, <date>1847</date>).
-      </note>
+       </title> (same publisher, and New York: Stanford &amp; Swords, <date>1847</date>). </note>
      </bibl>
      <bibl id="a807" default="NO">
       <ref targOrder="U">807.</ref>
@@ -32407,9 +32478,9 @@ Hannah More; Elizabeth Fry; Mary Somerville; Elizabeth Barrett Browning; Florenc
       <note place="unspecified" anchored="yes"> Author of <title>
         <hi rend="italics">Earnest Men, Their Life and Work, Daily Duty: A Book for Girls</hi>
        </title>, and several historical geographies of the Bible, among other works. “The late Rev.
-       W. K. Tweedie, D.D., Author of ‘Seed-Time and Harvest,’ &amp;c.” Frontispiece: a medley
-       of images of babies “Learning to See,” “to Grasp,” etc. Pref. “This volume, in this edition,
-       has been to a great extent re-written, and four new chapters have been added. It is chiefly
+       W. K. Tweedie, D.D., Author of ‘Seed-Time and Harvest,’ &amp;c.” Frontispiece: a medley of
+       images of babies “Learning to See,” “to Grasp,” etc. Pref. “This volume, in this edition, has
+       been to a great extent re-written, and four new chapters have been added. It is chiefly
        designed for the young. . . to train them to connect happiness or sorrow with conduct and
        character” (iii). </note>
       <image n="no211">
@@ -32903,8 +32974,6 @@ Hannah More; Elizabeth Fry; Mary Somerville; Elizabeth Barrett Browning; Florenc
       <ref targOrder="U">835.</ref>
       <idno>a835</idno>
       <author><name type="last">Walford</name>, <name type="first">Lucy Bethia</name>.</author>
-
-
       <title type="ref">
        <hi rend="italics">Twelve English Authoresses.</hi>
       </title>
@@ -36235,7 +36304,6 @@ Hannah More; Elizabeth Fry; Mary Somerville; Elizabeth Barrett Browning; Florenc
 
 
      <bibl id="p024" default="NO">
-
       <idno>p024</idno>
       <author>
        <name type="last">Coxhead</name>, <name type="first">Elizabeth</name>. </author>
@@ -37314,7 +37382,6 @@ Hannah More; Elizabeth Fry; Mary Somerville; Elizabeth Barrett Browning; Florenc
        <date>1983.</date>
       </imprint>
       <note type="toc">
-
        <list>
         <item>A circle of women: the first Utopia, 1798-1824 </item>
         <item>Frances Wright and the second Utopia, 1825-1827</item>
@@ -37432,8 +37499,8 @@ Hannah More; Elizabeth Fry; Mary Somerville; Elizabeth Barrett Browning; Florenc
       <idno>p048B</idno>
       <author><name type="last">Hull</name>, <name type="first">Gloria T.</name></author>
       <title type="ref">
-       <hi rend="italics">Color, Sex &amp; Poetry: Three Women Writers of the Harlem
-        Renaissance. </hi>
+       <hi rend="italics">Color, Sex &amp; Poetry: Three Women Writers of the Harlem Renaissance.
+       </hi>
       </title>
       <imprint>
        <pubPlace>Bloomington, IN:</pubPlace>
@@ -40496,7 +40563,6 @@ Hannah More; Elizabeth Fry; Mary Somerville; Elizabeth Barrett Browning; Florenc
         </item>
        </list>
       </note>
-
      </bibl>
      <bibl id="p132" default="NO">
       <idno>p132</idno>
