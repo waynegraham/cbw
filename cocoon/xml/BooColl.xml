@@ -26818,7 +26818,7 @@
       <imprint/>
       <note type="toc">
        <list>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGTINGALE">Florence Nightingale</item>
         <item>Lydia Maria Child</item>
         <item>Fanny Fern, Mrs. Parton</item>
         <item>Lydia H. Sigourney</item>
@@ -26829,7 +26829,7 @@
         <item>Margaret Fuller Ossoli</item>
         <item>Gail Hamilton, Miss Dodge</item>
         <item>Elizabeth Barrett Browning</item>
-        <item>Jenny Lind Goldschmidt</item>
+        <item n="JENNY_LIND">Jenny Lind Goldschmidt</item>
         <item>Mrs. Emma Willard</item>
         <item>Mrs. Marianne P. Dascomb</item>
         <item>Harriet Beecher Stowe</item>
@@ -26848,7 +26848,7 @@
         <item>Mrs. C. I. H. Nichols</item>
         <item>Susan B. Anthony</item>
         <item>Olympia Brown</item>
-        <item>Victoria, Queen of England</item>
+        <item n="QUEEN_VICTORIA">Victoria, Queen of England</item>
         <item>Adelaide Ristori</item>
         <item>Euphrosyne Parepa Rosa</item>
         <item>Ellen Tree, Mrs. Charles Kean</item>
@@ -26876,6 +26876,54 @@
       <image n="no06">
        <imgName>Rosa Bonheur</imgName>
        <imgDesc>Rosa Bonheur by Edouard Dubuffe (or Dubufe), engraved by Augustus Robin</imgDesc>
+      </image>
+      <image n="no572">
+       <imgName>Florence Nightingale</imgName>
+       <imgDesc>Florence Nightingale</imgDesc>
+      </image>
+      <image n="no573">
+       <imgName>Lydia H. Sigourney</imgName>
+       <imgDesc>Lydia H. Sigourney</imgDesc>
+      </image>
+      <image n="no574">
+       <imgName>Eugenie, Empress of the French</imgName>
+       <imgDesc>Eugenie, Empress of the French</imgDesc>
+      </image>
+      <image n="no575">
+       <imgName>Margaret Fuller Ossoli</imgName>
+       <imgDesc>Margaret Fuller Ossoli</imgDesc>
+      </image>
+      <image n="no576">
+       <imgName>Elizabeth Barrett Browning</imgName>
+       <imgDesc>Elizabeth Barrett Browning</imgDesc>
+      </image>
+      <image n="no577">
+       <imgName>Mrs. Emma Willard</imgName>
+       <imgDesc>Mrs. Emma Willard</imgDesc>
+      </image>
+      <image n="no578">
+       <imgName>Mrs. Elizabeth Cady Stanton</imgName>
+       <imgDesc>Mrs. Elizabeth Cady Stanton</imgDesc>
+      </image>
+      <image n="no579">
+       <imgName>Lucretia Mott</imgName>
+       <imgDesc>Lucretia Mott</imgDesc>
+      </image>
+      <image n="no580">
+       <imgName>Victoria, Queen of England</imgName>
+      <imgDesc>Victoria, Queen of England</imgDesc>
+      </image>
+      <image n="no581">
+       <imgName>Adelaide Ristori</imgName>
+       <imgDesc>Adelaide Ristori</imgDesc>
+      </image>
+      <image n="no582">
+       <imgName>Anna E. Dickinson</imgName>
+       <imgDesc>Anna E. Dickinson</imgDesc>
+      </image>
+      <image n="no583">
+       <imgName>Mrs. C. S. Lozier, M.D.</imgName>
+       <imgDesc>Mrs. C. S. Lozier, M.D.</imgDesc>
       </image>
       <image n="no07">
        <imgName>Harriet Hosmer</imgName>
