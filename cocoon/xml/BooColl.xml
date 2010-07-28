@@ -13746,9 +13746,11 @@
       </note>
       <image n="no594">
        <imgName>Letitia Bonaparte</imgName>
+       <imgDesc>Letitia Bonaparte, Mother of Napoleon</imgDesc>
       </image>
       <image n="no595">
        <imgName>Jeanne D'Albret</imgName>
+       <imgDesc>Jeanne D'Albret, Queen of Navarre</imgDesc>
       </image>
      </bibl>
      <bibl id="a263" default="NO">
@@ -17784,7 +17786,7 @@
        <imgDesc>Madame de Stael</imgDesc>
       </image>
       <image n="no584">
-       <imgName>Miss Burney in attendance on the Royal Family</imgName>
+       <imgName>Miss Burney</imgName>
        <imgDesc>Miss Burney in attendance on the Royal Family</imgDesc>
       </image>
       <image n="no585">
@@ -17804,7 +17806,7 @@
        <imgDesc>Joanna Baillie</imgDesc>
       </image>
       <image n="no588">
-       <imgName>Maria Edgeworth and her Father</imgName>
+       <imgName>Maria Edgeworth</imgName>
        <imgDesc>Maria Edgeworth and her Father</imgDesc>
       </image>
       <image n="no589">
@@ -19316,9 +19318,73 @@
         <item>Abigail Adams. *Pop Chart</item>
        </list>
       </note>
+      <image n="no596">
+       <imgName>Mary, the Mother of Jesus</imgName>
+       <imgDesc>Mary and the Child Jesus, from Raphael's Painting in the Dresden Gallery</imgDesc>
+      </image>
+      <image n="no597">
+       <imgName>Leah Mendelssohn Bartholdy</imgName>
+       <imgDesc>Leah Mendelssohn Bartholdy</imgDesc>
+      </image>
+      <image n="no598">
+       <imgName>The Mother of Napoleon</imgName>
+       <imgDesc>The Mother of Napoleon</imgDesc>
+      </image>
+      <image n="no599">
+       <imgName>The Mother of St. Augustine</imgName>
+       <imgDesc>St. Augustine and his Mother</imgDesc>
+      </image>
+      <image n="no600">
+       <imgName>Sally Bush</imgName>
+       <imgDesc>The Mother of President Lincoln</imgDesc>
+      </image>
+      <image n="no601">
+       <imgName>Susannah Wesley</imgName>
+       <imgDesc>Susannah Wesley and her Children, John, Charles, and Others</imgDesc>
+      </image>
+      <image n="no602">
+       <imgName>Cornelia</imgName>
+       <imgDesc>Cornelia, the Mother of the Gracchi</imgDesc>
+      </image>
+      <image n="no603">
+       <imgName>Luther at Home</imgName>
+       <imgDesc>Luther at Home</imgDesc>
+      </image>
+      <image n="no604">
+       <imgName>Goethe's Mother</imgName>
+       <imgDesc>Goethe's Mother</imgDesc>
+      </image>
+      <image n="no605">
+       <imgName>Goethe's Mother Telling Stories</imgName>
+       <imgDesc>Goethe's Mother Telling Stories to her Children</imgDesc>
+      </image>
+      <image n="no606">
+       <imgName>Suzanne Necker</imgName>
+       <imgDesc>Suzanne Necker, the Mother of Madame de Staël</imgDesc>
+      </image>
+      <image n="no607">
+       <imgName>Marie Antoinette</imgName>
+       <imgDesc>Marie Antoinette</imgDesc>
+      </image>
+      <image n="no608">
+       <imgName>The Mother of President Garfield</imgName>
+       <imgDesc>The Mother of President Garfield</imgDesc>
+      </image>
       <image n="no378">
        <imgName>Lady Rachel Russell</imgName>
        <imgDesc>Madame Russell</imgDesc>
+      </image>
+      <image n="no609">
+       <imgName>The Mother of Lamartine</imgName>
+       <imgDesc>The Mother of Lamartine</imgDesc>
+      </image>
+      <image n="no603">
+       <imgName>Marie Antoinette</imgName>
+       <imgDesc>Marie Antoinette and her Children</imgDesc>
+      </image>
+      <image n="no604">
+       <imgName>The Mother of John Q. Adams</imgName>
+       <imgDesc>The Mother of John Q. Adams</imgDesc>
       </image>
      </bibl>
      <bibl id="a412" default="NO">
@@ -26953,7 +27019,7 @@
       </image>
       <image n="no580">
        <imgName>Victoria, Queen of England</imgName>
-      <imgDesc>Victoria, Queen of England</imgDesc>
+       <imgDesc>Victoria, Queen of England</imgDesc>
       </image>
       <image n="no581">
        <imgName>Adelaide Ristori</imgName>
