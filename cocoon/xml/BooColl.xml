@@ -4436,6 +4436,27 @@
         <item>Eugenie de Guerin. *Pop Chart</item>
        </list>
       </note>
+      <image n="no615">
+       <imgName>Charlotte Bronte</imgName>
+      </image>
+      <image n="no616">
+       <imgName>Mary Russell Mitford</imgName>
+      </image>
+      <image n="no617">
+       <imgName>Lady Morgan</imgName>
+      </image>
+      <image n="no618">
+       <imgName>Lady Jane Grey</imgName>
+      </image>
+      <image n="no619">
+       <imgName>Lady Mary Wortley Montagu</imgName>
+      </image>
+      <image n="no620">
+       <imgName>Caroline Herschel</imgName>
+      </image>
+      <image n="no621">
+       <imgName>Madame Roland</imgName>
+      </image>
       <note place="unspecified" anchored="yes">British Library.</note>
      </bibl>
      <bibl id="a009" default="NO">
@@ -4464,6 +4485,39 @@
         <item>Woman as Enthusiast and Social Reformer</item>
        </list>
       </note>
+      <image n="no622">
+       <imgName>Florence Nightingale</imgName>
+       <imgDesc>Self-Denial and Devotion: Florence Nightingale’s Hospital Labours</imgDesc>
+      </image>
+      <image n="no623">
+       <imgName>Monnica, St. Augustine’s Mother</imgName>
+       <imgDesc>An Encouragement to Mothers: Monnica and St. Augustine</imgDesc>
+      </image>
+      <image n="no624">
+       <imgName>Madame Roland</imgName>
+       <imgDesc>Elevating and Ennobling a Husband’s Life: The Story of Madame Roland</imgDesc>
+      </image>
+      <image n="no625">
+       <imgName>Mrs. Thrale Piozzi</imgName>
+       <imgDesc>A Woman of Mark and Literary Taste: Mrs. Thrale Piozzi, Who Cheered Dr. Johnson’s
+        Life</imgDesc>
+      </image>
+      <image n="no626">
+       <imgName>Lady Jane Grey</imgName>
+       <imgDesc>Woman in the World of Letters: Lady Jane Grey and Roger Ascham</imgDesc>
+      </image>
+      <image n="no627">
+       <imgName>Angelina Kaufman</imgName>
+       <imgDesc>"Genius is Patience": Angelina Kaufman, A Woman of Many Accomplishments</imgDesc>
+      </image>
+      <image n="no628">
+       <imgName>Joan of Arc</imgName>
+       <imgDesc>Feminine Heroism and Enthusiasm: Jeanne Darc, The Deliverer of France</imgDesc>
+      </image>
+      <image n="no629">
+       <imgName>Elizabeth Fry</imgName>
+       <imgDesc>Woman as Social Reformer: Elizabeth Fry, The Prison Reformer</imgDesc>
+      </image>
      </bibl>
      <bibl id="a010" default="NO">
       <ref targOrder="U">10.</ref>
@@ -5189,6 +5243,30 @@
       </imprint>
       <note place="unspecified" anchored="yes">See <ref target="a141" targOrder="U">Cameron,</ref>
        <date>1904.</date></note>
+      <image n="no630">
+       <imgName>Mrs. Henry Baldwin</imgName>
+       <imgDesc>Mrs. Henry Baldwin and Child</imgDesc>
+      </image>
+      <image n="no631">
+       <imgName>Miss Adelia Hoyt</imgName>
+      </image>
+      <image n="no632">
+       <imgName>Miss Caroline Harriette Tyndal</imgName>
+      </image>
+      <image n="no633">
+       <imgName>Miss Jane Spalding</imgName>
+      </image>
+      <image n="no634">
+       <imgName>Mrs. Verschoyle</imgName>
+       <imgDesc>Mrs. Verschoyle of Baltimore</imgDesc>
+      </image>
+      <image n="no635">
+       <imgName>Miss Ketchum</imgName>
+       <imgDesc>Miss Ketchum of Boston</imgDesc>
+      </image>
+      <image n="no636">
+       <imgName>The Countess de Calabrella</imgName>
+      </image>
      </bibl>
      <bibl id="a026" default="NO">
       <ref targOrder="U">26.</ref>
