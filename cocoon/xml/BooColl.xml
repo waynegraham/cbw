@@ -5992,7 +5992,7 @@
       </image>
       <image n="no646">
        <imgName>Mrs. Margaret Walker</imgName>
-       </image>
+      </image>
       <image n="no647">
        <imgName>Miss Bacon</imgName>
       </image>
@@ -6353,10 +6353,10 @@
        English clergyman (M.A. Oxford 1860) who traveled to and wrote about Iceland, he wrote many
        books on myth, church history, and medieval and regional histories. His version of Sister
        Dora is largely reprinted in <xref targOrder="U" from="ROOT" to="DITTO"><ref target="a527"
-         targOrder="U">Mabie and Stephens,</ref>, <hi rend="italics">Heroines Every Child Should
-         Know</hi>. Viewing Sister Dora as a "double" of Saint Theresa with more practical
-        achievement, Baring-Gould weighs the evidence for Sister Dora's sanctity in various
-        accounts, including Lonsdale's biography.</xref></note>
+         targOrder="U">Mabie and Stephens,</ref>
+        <hi rend="italics">Heroines Every Child Should Know</hi>. Viewing Sister Dora as a "double"
+        of Saint Theresa with more practical achievement, Baring-Gould weighs the evidence for
+        Sister Dora's sanctity in various accounts, including Lonsdale's biography.</xref></note>
      </bibl>
      <bibl id="a053" default="NO">
       <ref targOrder="U">53.</ref>
@@ -6775,6 +6775,72 @@
       </imprint>
       <note place="unspecified" anchored="yes"> [French, Italian, Spanish subjects, no duplication
        of above]. </note>
+      <image n="no680">
+       <imgName>Marie Adelaide de Savoie</imgName>
+       <imgDesc>Marie Adelaide de Savoie, Duchess of Burgundy</imgDesc>
+      </image>
+      <image n="no681">
+       <imgName>Louise de la Valliere</imgName>
+       <imgDesc>Louise de la Valliere</imgDesc>
+      </image>
+      <image n="no682">
+       <imgName>Elisabeth Charlotte</imgName>
+       <imgDesc>Elisabeth Charlotte, Palatine du Rhin, Duchesse d’Orleans, wife of Philippe, Brother
+        of Louis XIV</imgDesc>
+      </image>
+      <image n="no683">
+       <imgName>Athenais de la Rochechouart</imgName>
+       <imgDesc>Athenais de la Rochechouart, Marquise de Montespan</imgDesc>
+      </image>
+      <image n="no684">
+       <imgName>Louise Elisabeth</imgName>
+       <imgDesc>Louise Elisabeth, eldest daughter of Louis XV., wife of Felipe, Infant of Spain,
+        Duke of Parma. By Nattier.</imgDesc>
+      </image>
+      <image n="no685">
+       <imgName>Marie Anne de Nesle</imgName>
+       <imgDesc>Marie Anne de Nesle, Marquise de Mailly</imgDesc>
+      </image>
+      <image n="no686">
+       <imgName>Marie Leczinska</imgName>
+       <imgDesc>Marie Leczinska, wife of Louis XV., Queen of France</imgDesc>
+      </image>
+      <image n="no687">
+       <imgName>Anne Henriette Marie</imgName>
+       <imgDesc>Anne Henriette Marie, second daughter of Louis XV. By Nattier.</imgDesc>
+      </image>
+      <image n="no688">
+       <imgName>Adelaide, Victoire and Sophie</imgName>
+       <imgDesc>Adelaide, Victoire and Sophie, third, fourth, and fifth daughters of Louis XV. By
+        Drouais.</imgDesc>
+      </image>
+      <image n="no689">
+       <imgName>Louise</imgName>
+       <imgDesc>Louise, sixth daughter of Louis XV.</imgDesc>
+      </image>
+      <image n="no690">
+       <imgName>Maria Luisa</imgName>
+       <imgDesc>Maria Luisa, daughter of Carlos IV., King of Spain, Queen of Etruria, Duchess of
+        Lucca</imgDesc>
+      </image>
+      <image n="no691">
+       <imgName>Maria Luisa, Infanta of Parma</imgName>
+       <imgDesc>Maria Luisa, Infanta of Parma, Queen of Spain, wife of Carlos IV. By Goya.</imgDesc>
+      </image>
+      <image n="no692">
+       <imgName>Marie Amelie</imgName>
+       <imgDesc>Marie Amelie, daughter of Ferdinand I., King of the Two Sicilies, wife of Louis
+        Philippe</imgDesc>
+      </image>
+      <image n="no693">
+       <imgName>Louise Marie Adelaide de Bourbon-Penthievre</imgName>
+       <imgDesc>Louise Marie Adelaide de Bourbon-Penthievre, Duchesse d’Orleans, wife of Philippe
+        Egalite</imgDesc>
+      </image>
+      <image n="no694">
+       <imgName>Adelaide</imgName>
+       <imgDesc>Adelaide, daughter of Philippe Egalite, Duc d’Orleans</imgDesc>
+      </image>
      </bibl>
      <bibl id="a067" default="NO">
       <ref targOrder="U">67.</ref>
