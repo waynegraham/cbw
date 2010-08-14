@@ -6468,10 +6468,6 @@
       <note place="unspecified" anchored="yes"> NOT:=biographical fiction. Preface: “The aim of
        these stories is not historical accuracy. . . . rather . . . to re-create the personalities
        of a succession of charming women. . . . as I have imagined them” (n.p.). </note>
-      <image n="no650">
-       <imgName>Caroline Herschel</imgName>
-       <imgDesc>Study and Work</imgDesc>
-      </image>
       <image n="no656">
        <imgName>Elizabeth Gunning</imgName>
        <imgDesc>Portrait by Catherine Reed</imgDesc>
@@ -6653,6 +6649,56 @@
         <item>Madame de Genlis</item>
        </list>
       </note>
+      <image n="no664">
+       <imgName>Madame Le Brun</imgName>
+       <imgDesc>Painted by Herself; Uffisi, Florence</imgDesc>
+      </image>
+      <image n="no665">
+       <imgName>Marie Antoinette, Queen of France</imgName>
+       <imgDesc>By Mme. Vigee Le Brun</imgDesc>
+      </image>
+      <image n="no666">
+       <imgName>Madame Le Brun</imgName>
+       <imgDesc>Madame Le Brun et sa Fille; Painted by Herself</imgDesc>
+      </image>
+      <image n="no667">
+       <imgName>Catherine II, Empress of Russia</imgName>
+       <imgDesc>By Schebanoff</imgDesc>
+      </image>
+      <image n="no668">
+       <imgName>Comtesse D’Andlau</imgName>
+       <imgDesc>By Mme. Vigee Le Brun</imgDesc>
+      </image>
+      <image n="no669">
+       <imgName>Madame Adelaide</imgName>
+       <imgDesc>By Nattier</imgDesc>
+      </image>
+      <image n="no670">
+       <imgName>Madame Sophie</imgName>
+       <imgDesc>By Nattier</imgDesc>
+      </image>
+      <image n="no671">
+       <imgName>Marie Antoinette</imgName>
+       <imgDesc>By Paul Delaroche</imgDesc>
+      </image>
+      <image n="no672">
+       <imgName>Marie de Vichy-Chambron, Marquise du Deffand</imgName>
+      </image>
+      <image n="no673">
+       <imgName>La Marquise de Pompadour</imgName>
+       <imgDesc>By Boucher</imgDesc>
+      </image>
+      <image n="no674">
+       <imgName>Madame Royale</imgName>
+       <imgDesc>By Mme. Vigee Le Brun</imgDesc>
+      </image>
+      <image n="no675">
+       <imgName>Judith Pasta</imgName>
+       <imgDesc>By Gerard</imgDesc>
+      </image>
+      <image n="no676">
+       <imgName>Malibran</imgName>
+      </image>
      </bibl>
      <bibl id="a064" default="NO"><ref targOrder="U">64.</ref>
       <idno>a064</idno>
