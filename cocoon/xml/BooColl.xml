@@ -9163,9 +9163,45 @@
         <item>Madame de Rémusat</item>
        </list>
       </note>
-      <image n="no450">
+      <image n="no841">
+       <imgName>Madame de La Fayette</imgName>
+       <imgDesc>From a portrait by Bouterwek</imgDesc>
+      </image>
+      <image n="no842">
+       <imgName>Madame Geoffrin</imgName>
+       <imgDesc>From a painting by Staal</imgDesc>
+      </image>
+      <image n="no843">
+       <imgName>Mademoiselle de Lespinasse</imgName>
+       <imgDesc>From a painting by Carmontelle</imgDesc>
+      </image>
+      <image n="no844">
        <imgName>Madame Roland</imgName>
-       <imgDesc>Madame Roland. From a painting by Goupil.</imgDesc>
+       <imgDesc>From a painting by Goupil</imgDesc>
+      </image>
+      <image n="no845">
+       <imgName>Madame Roland</imgName>
+       <imgDesc>Madame Roland at the Guillotine. From a painting by Royer</imgDesc>
+      </image>
+      <image n="no846">
+       <imgName>Madame Le Brun</imgName>
+       <imgDesc>From the painting by herself</imgDesc>
+      </image>
+      <image n="no847">
+       <imgName>Madame Le Brun</imgName>
+       <imgDesc>Madame Le Brun and Her Daughter. From the painting by herself</imgDesc>
+      </image>
+      <image n="no848">
+       <imgName>Madame de Stael</imgName>
+       <imgDesc>From the painting by Mlle. Godefroy</imgDesc>
+      </image>
+      <image n="no849">
+       <imgName>Madame Recamier</imgName>
+       <imgDesc>From a painting by David, in the Louvre</imgDesc>
+      </image>
+      <image n="no850">
+       <imgName>Madame Valmore</imgName>
+       <imgDesc>From an etching by Monzies</imgDesc>
       </image>
      </bibl>
      <bibl id="a118" default="NO">
