@@ -8427,7 +8427,7 @@
       </image>
       <image n="no812">
        <imgName>Clara Barton</imgName>
-       <imgDesc>Clara Barton</imgDesc>
+       <imgDesc>Elizabeth Fry</imgDesc>
       </image>
      </bibl>
      <bibl id="a100" default="NO"><ref targOrder="U">100.</ref>
@@ -8522,7 +8522,7 @@
       <note type="toc">
        <list>
         <item>Abigail Smith Adams</item>
-        <item>Sarah Alden Riplye</item>
+        <item>Sarah Alden Ripley</item>
         <item>Mary Lyon</item>
         <item>Harriet Beecher Stowe</item>
         <item>Margaret Fuller Ossoli</item>
@@ -8537,6 +8537,38 @@
        </title>, xi, re <title>
         <hi rend="italics">Portraits of American Women</hi>
        </title>). </note>
+      <image n="no813">
+       <imgName>Abigail Smith Adams</imgName>
+       <imgDesc>Abigail Smith Adams</imgDesc>
+      </image>
+      <image n="no814">
+       <imgName>Sarah Alden Ripley</imgName>
+       <imgDesc>Sarah Alden Ripley</imgDesc>
+      </image>
+      <image n="no815">
+       <imgName>Mary Lyon</imgName>
+       <imgDesc>Mary Lyon</imgDesc>
+      </image>
+      <image n="no816">
+       <imgName>Harriet Beecher Stowe</imgName>
+       <imgDesc>Harriet Beecher Stowe</imgDesc>
+      </image>
+      <image n="no817">
+       <imgName>Margaret Fuller Ossoli</imgName>
+       <imgDesc>Margaret Fuller Ossoli</imgDesc>
+      </image>
+      <image n="no818">
+       <imgName>Louisa May Alcott</imgName>
+       <imgDesc>Louisa May Alcott</imgDesc>
+      </image>
+      <image n="no819">
+       <imgName>Frances Willard</imgName>
+       <imgDesc>Frances Willard</imgDesc>
+      </image>
+      <image n="no820">
+       <imgName>Emily Dickinson</imgName>
+       <imgDesc>Emily Dickinson</imgDesc>
+      </image>
      </bibl>
      <bibl id="a103" default="NO">
       <ref targOrder="U">103.</ref>
