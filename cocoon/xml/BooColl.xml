@@ -9087,7 +9087,7 @@
         <item>Theresa of Avila</item>
         <item>Elizabeth of Tudor</item>
         <item>Christina of Sweden</item>
-        <item>Ma-ta-oka of Powha-tan. *Pop Chart</item>
+        <item n="POCAHONTAS">Ma-ta-oka of Powha-tan. *Pop Chart</item>
        </list>
       </note>
      </bibl>
@@ -9634,6 +9634,150 @@
         <item>Lady Hobhouse</item>
        </list>
       </note>
+      <image n="no851">
+       <imgName>Countess Gower</imgName>
+       <imgDesc>Painted by Sir T. Lawrence, P.R.A., engraved by T. A. Dean</imgDesc>
+      </image>
+      <image n="no852">
+       <imgName>Countess of Charleville</imgName>
+       <imgDesc>Painted by Hamilton, engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no853">
+       <imgName>Anne Beckett</imgName>
+       <imgDesc>Painted by Mrs. Mee, engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no854">
+       <imgName>Lady Dover</imgName>
+       <imgDesc>Painted by J. Jackson, R.A., engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no855">
+       <imgName>Lady John Thynne</imgName>
+       <imgDesc>Painted by Robinson, engraved by T. A. Dean</imgDesc>
+      </image>
+      <image n="no856">
+       <imgName>Lady J. A. Brydges</imgName>
+       <imgDesc>Painted by Mrs. Mee, engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no857">
+       <imgName>Countess of Belfast</imgName>
+       <imgDesc>Painted by Mrs. Mee, engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no858">
+       <imgName>Lady Sophia Gresley</imgName>
+       <imgDesc>Painted by W. I. Newton, engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no859">
+       <imgName>Miss Georgiana Harcourt</imgName>
+       <imgDesc>Painted by Miss Beaumont, engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no860">
+       <imgName>Marchioness of Londonderry</imgName>
+       <imgDesc>Painted by Sir T. Lawrence, P.R.A., engraved by J. Cochran</imgDesc>
+      </image> 
+      <image n="no861">
+       <imgName>Countess of Guilford</imgName>
+       <imgDesc>Painted by A. Robertson, engraved by Thomas Wright</imgDesc>
+      </image>
+      <image n="no862">
+       <imgName>Lady Alicia J. Peel</imgName>
+       <imgDesc>Painted by Mrs. Green, engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no863">
+       <imgName>Lady Elizabeth Wathen</imgName>
+       <imgDesc>Painted by W. Delacour, engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no864">
+       <imgName>Honorable Mrs. Charles Lindsay</imgName>
+       <imgDesc>Painted by Mrs. J. Robertson, engraved by Thomas Wright</imgDesc>
+      </image>
+      <image n="no865">
+       <imgName>Lady W. H. Cholmondeley</imgName>
+       <imgDesc>Painted by C. Ross, engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no866">
+       <imgName>Mrs. George Lane-Fox</imgName>
+       <imgDesc>Painted by Mrs. Mee, engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no867">
+       <imgName>Viscountess Eastnor</imgName>
+       <imgDesc>Painted by Mrs. Carpenter, engraved by Scriven</imgDesc>
+      </image>
+      <image n="no868">
+       <imgName>Countess of Denbigh</imgName>
+       <imgDesc>Painted by T. Kirby, engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no869">
+       <imgName>Dowager Countess of Errol</imgName>
+       <imgDesc>Painted by Conway, engraved by T. A. Dean</imgDesc>
+      </image>
+      <image n="no870">
+       <imgName>Lady Burke</imgName>
+       <imgDesc>Painted by W. E. West, engraved by T. A. Dean</imgDesc>
+      </image> 
+      <image n="no871">
+       <imgName>Lady Emily Fielding</imgName>
+       <imgDesc>Painted by Kirby, engraved by J. Cochran</imgDesc>
+      </image>
+      <image n="no872">
+       <imgName>Dowager Countess Grey</imgName>
+       <imgDesc>Engraved by T. A. Dean</imgDesc>
+      </image>
+      <image n="no873">
+       <imgName>Lady Charlotte Bury</imgName>
+       <imgDesc>Painted by Sir T. Lawrence, engraved by T. Wright</imgDesc>
+      </image>
+      <image n="no874">
+       <imgName>Viscountess Ebrington</imgName>
+       <imgDesc>Painted by Linnell, engraved by J. Cochran</imgDesc>
+      </image>
+      <image n="no875">
+       <imgName>Duchess of Northumberland</imgName>
+       <imgDesc>Painted by Mrs. J. Robertson, engraved by T. A. Dean</imgDesc>
+      </image>
+      <image n="no876">
+       <imgName>Mrs. Fitzgerald</imgName>
+       <imgDesc>Painted by A. E. Chalon, R.A., engraved by T. Wright</imgDesc>
+      </image>
+      <image n="no877">
+       <imgName>Lady Rodney</imgName>
+       <imgDesc>Painted by Pickersgill, R.A., engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no878">
+       <imgName>Viscountess Stormont</imgName>
+       <imgDesc>Painted by Mrs. J. Robertson, engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no879">
+       <imgName>Duchess of Sutherland</imgName>
+       <imgDesc>Painted by Sir T. Lawrence, P.R.A., engraved by T. A. Dean</imgDesc>
+      </image>
+      <image n="no880">
+       <imgName>Countess of Surrey</imgName>
+       <imgDesc>Painted by Sir T. Lawrence, engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no881">
+       <imgName>Marchioness of Wellesley</imgName>
+       <imgDesc>Painted by Mrs. J. Robertson, engraved by T. A. Dean</imgDesc>
+      </image>
+      <image n="no882">
+       <imgName>Marchioness of Winchester</imgName>
+       <imgDesc>Painted by Stewardson, engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no883">
+       <imgName>Lady Katherine Stewart</imgName>
+       <imgDesc>Painted by Mrs. Mee, engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no884">
+       <imgName>Viscountess Dillon</imgName>
+       <imgDesc>Painted by Mrs. Mee, engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no885">
+       <imgName>Countess Manvers</imgName>
+       <imgDesc>Painted by Mrs. Mee, engraved by J. Thomson</imgDesc>
+      </image>
+      <image n="no886">
+       <imgName>Lady Hobhouse</imgName>
+       <imgDesc>Painted by J. Jackson, R.A., engraved by J. Thomson</imgDesc>
+      </image>
      </bibl>
      <bibl id="a135" default="NO">
       <ref targOrder="U">135.</ref>
