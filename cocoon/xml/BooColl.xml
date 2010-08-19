@@ -4618,10 +4618,11 @@
         <item>Mary Countess of Pembroke</item>
         <item>Queen Jeanne d'Albret</item>
         <item n="MADAME_ROLAND">Mme Roland</item>
-        <item n="CHARLOTTE_BRONTE">Charlotte Bronte. Bodleian. Same contents as Adams, The Sunshine,
-         with the addition of Charlotte Brontë</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes">Bodleian. Same contents as Adams, <hi rend="italics">The Sunshine</hi>, with
+       the addition of Charlotte Brontë</note>
      </bibl>
      <bibl id="a013" default="NO">
       <ref targOrder="U">13.</ref>
@@ -7728,7 +7729,8 @@
       </image>
       <image n="no760">
        <imgName>Gertrude Mahon</imgName>
-       <imgDesc>The Bird of Paradise. From the <hi rend="italics">Town and Country Magazine</hi></imgDesc>
+       <imgDesc>The Bird of Paradise. From the <hi rend="italics">Town and Country
+        Magazine</hi></imgDesc>
       </image>
      </bibl>
      <bibl id="a090" default="NO"><ref targOrder="U">90.</ref>
@@ -7892,6 +7894,22 @@
         <item>Eleanora of Castile</item>
        </list>
       </note>
+      <image n="no887">
+       <imgName>Adela of Blois</imgName>
+       <imgDesc>Adela of Blois</imgDesc>
+      </image>
+      <image n="no888">
+       <imgName>Eleanor of Aquitaine</imgName>
+       <imgDesc>Eleanor of Aquitaine</imgDesc>
+      </image>
+      <image n="no889">
+       <imgName>Berengaria of Navarre</imgName>
+       <imgDesc>Berengaria of Navarre</imgDesc>
+      </image>
+      <image n="no890">
+       <imgName>Isabella of Angouleme</imgName>
+       <imgDesc>Isabella of Angouleme</imgDesc>
+      </image>
      </bibl>
      <bibl id="a092" default="NO">
       <ref targOrder="U">92.</ref>
@@ -8028,7 +8046,7 @@
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Of 16 collections by Bolton listed in Riches, 4 are
-      all-female. </note>
+       all-female. </note>
       <image n="no773">
        <imgName>Julia Ward Howe</imgName>
        <imgDesc>Julia Ward Howe</imgDesc>
@@ -9673,7 +9691,7 @@
       <image n="no860">
        <imgName>Marchioness of Londonderry</imgName>
        <imgDesc>Painted by Sir T. Lawrence, P.R.A., engraved by J. Cochran</imgDesc>
-      </image> 
+      </image>
       <image n="no861">
        <imgName>Countess of Guilford</imgName>
        <imgDesc>Painted by A. Robertson, engraved by Thomas Wright</imgDesc>
@@ -9713,7 +9731,7 @@
       <image n="no870">
        <imgName>Lady Burke</imgName>
        <imgDesc>Painted by W. E. West, engraved by T. A. Dean</imgDesc>
-      </image> 
+      </image>
       <image n="no871">
        <imgName>Lady Emily Fielding</imgName>
        <imgDesc>Painted by Kirby, engraved by J. Cochran</imgDesc>
