@@ -4621,8 +4621,8 @@
         <item n="CHARLOTTE_BRONTE">Charlotte Brontë</item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes">Bodleian. Same contents as Adams, <hi rend="italics">The Sunshine</hi>, with
-       the addition of Charlotte Brontë</note>
+      <note place="unspecified" anchored="yes">Bodleian. Same contents as Adams, <hi rend="italics"
+        >The Sunshine</hi>, with the addition of Charlotte Brontë</note>
      </bibl>
      <bibl id="a013" default="NO">
       <ref targOrder="U">13.</ref>
@@ -5350,11 +5350,29 @@
        </list>
       </note>
      </bibl>
+     <bibl id="a028A" default="NO">
+      <ref targOrder="U">28A.</ref>
+      <idno>a028A</idno>
+      <author><name type="last">Anderson</name>, <name type="first">James Henry</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Ten Women of the Olden Days: Who Have Influenced History to the End of
+        Time.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Salt Lake City, Utah:</pubPlace>
+       <publisher>n.p.,</publisher>
+       <date>1929.</date>
+      </imprint>
+      <note place="unspecified" anchored="yes"> Also found under the expanded title, "Ten women of
+       the olden days who have influenced history to the end of time: God's story in mothers from
+       Eden's garden till warring nations sink to rise no more; dedicated to those noble women in
+       Israel whose blissful sway in Y.L.M.I.A. extends to every land and clime."</note>
+     </bibl>
      <bibl id="a029" default="NO">
       <ref targOrder="U">29.</ref>
       <idno>a029</idno>
       <author><name type="last">Anderson</name>, <name type="title">Rev.</name>
-       <name type="first">James</name>[of Edinburgh].</author>
+       <name type="first">James</name> [of Edinburgh].</author>
       <title type="ref">
        <hi rend="italics">The Ladies of the Covenant: Memoirs of Distinguished Scottish Female
         Characters, Embracing the Period of the Covenant and the Persecution.</hi>
@@ -8794,6 +8812,19 @@
         <item>Mrs. Baillie-Reynolds</item>
        </list>
       </note>
+     </bibl>
+     <bibl id="a109A" default="NO">
+      <ref targOrder="U">109A.</ref>
+      <idno>a109A</idno>
+      <author><name type="last">Bretherton</name>, <name type="first">Margaret</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Ten Noble Women.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Madras &amp; Colombo:</pubPlace>
+       <publisher>Christian Literature Society for India,</publisher>
+       <date>1913.</date>
+      </imprint>
      </bibl>
      <bibl id="a110" default="NO">
       <ref targOrder="U">110.</ref>
@@ -12818,8 +12849,8 @@
        <ref target="a883" targOrder="U">T. Willing.</ref>
       </note>
      </bibl>
-     <bibl id="a207A" default="NO"><ref targOrder="U">207A.</ref>
-      <idno>a207A</idno>
+     <bibl id="a206A" default="NO"><ref targOrder="U">206A.</ref>
+      <idno>a206A</idno>
       <author><name type="last">Creasy</name>, <name type="first">Sir Edward
        Shepherd</name>.</author>
       <title type="ref">
@@ -12829,7 +12860,7 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>S.H. Bousefiled,</publisher>
-       <date>190o.</date>
+       <date>1901.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> A title formula used in various
        early-twentieth-century publications, based perhaps on Henry Burton's sermons, <title>
