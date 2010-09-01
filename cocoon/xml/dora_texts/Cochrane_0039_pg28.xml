@@ -26,6 +26,171 @@
 </publicationStmt>
 <sourceDesc><bibl/></sourceDesc>
 </fileDesc>
+    <encodingDesc>
+        <classDecl>
+            <taxonomy id="paragraph_function">
+                <category id="setting">
+                    <catDesc>Specifying time and or place.</catDesc>
+                    <category id="orientation">
+                        <catDesc>Signifying audience proximity or distance from setting.</catDesc>
+                    </category>
+                </category>
+                <category id="home">
+                    <catDesc>Description of home.</catDesc>
+                    <category id="home_childhood">
+                        <catDesc>Description of childhood home.</catDesc>
+                    </category>
+                    <category id="home_adulthood">
+                        <catDesc>Description of person's later home(s).</catDesc>
+                    </category>
+                    
+                    
+                </category>
+                
+            </taxonomy>
+        </classDecl>
+    </encodingDesc>
+    <encodingDesc>
+        <classDecl>
+            <taxonomy id="paragraph_type">
+    <category id="beginning">
+        <catDesc>Introducing narrative.</catDesc>
+        <category id="beginning_protagonist">
+            <catDesc>Bio begins with subject of biography.</catDesc>
+        </category>
+        <category id="beginning_family">
+            <catDesc>Bio begins with reference to relatives.</catDesc>
+        </category>
+        <category id="beginning_historical">
+            <catDesc>Bio begins with reference to era, not persons.</catDesc>
+        </category>
+        
+        
+        
+    </category>
+            </taxonomy>
+        </classDecl>
+    </encodingDesc>
+    <encodingDesc>
+        <classDecl>
+            <taxonomy>
+                <category id="person">
+                    <catDesc>Any actual human being specified in narrative.</catDesc>
+                    <category id="person_family">
+                        <catDesc>Family member by name or role.</catDesc>
+                        <category id="father">
+                            <catDesc>Protagonist's father.</catDesc>
+                        </category>
+                        <category id="mother">
+                            <catDesc>Protagonist's mother.</catDesc>
+                        </category>
+                        <category id="brother">
+                            <catDesc>Protagonist's brother or brothers.</catDesc>
+                        </category>
+                        <category id="sister">
+                            <catDesc>Protagonist's sister or sisters.</catDesc>
+                        </category>
+                        <category id="partner">
+                            <catDesc>Husband or life companion.</catDesc>
+                        </category>
+                        <category id="child">
+                            <catDesc>Child or children of protagonist.</catDesc>
+                        </category>
+                        
+                        
+                        
+                        
+                        
+                    </category>
+                    <category id="person_nonfamily">
+                        <catDesc>Specific non-relatives.</catDesc>
+                        <category id="intimate">
+                            <catDesc>Non-relatives who are close to protagonist.</catDesc>
+                            <category id="lover">
+                                <catDesc>Person loved by or who loves protagonist.</catDesc>
+                            </category>
+                            <category id="suitor">
+                                <catDesc>Person who seeks marriage with protagonist.</catDesc>
+                            </category>
+                            <category id="fiance">
+                                <catDesc>Person who is engaged to marry protagonist.</catDesc>
+                            </category>
+                            <category id="protege">
+                                <catDesc>A non-family non-sexual intimate of less power e.g. foster child or favorite assistant.</catDesc>
+                            </category>
+                           <category id="friend">
+                               <catDesc>Non-family non-sexual intimate peer</catDesc>
+                           </category>
+                            
+                            
+                            
+                            
+                        </category>
+                        <category id="associate">
+                            <catDesc>Non-family non-intimate adult persons who work with or frequently associate with protagonist.</catDesc>
+                            <category id="peer">
+                                <catDesc>Associates of equal status (class, occupation, power) to protagonist</catDesc>
+                                <category id="female_peer">
+                                    <catDesc>female associates of equal status (class, occupation, power) to protagonist</catDesc>
+                                </category>
+                                <category id="male_peer">
+                                    <catDesc>male associates of equal status (class, occupation, power) to protagonist</catDesc>
+                                </category>
+                            </category>
+                            <category id="subordinate">
+                                <catDesc>Associates of lesser status, dependents, assistants</catDesc>
+                                <category id="female_subordinate">
+                                    <catDesc>Female subordinate associates.</catDesc>
+                                    <category id="girl">
+                                        <catDesc>Associate female children of any class.</catDesc>
+                                    </category>
+                                    
+                                </category>
+                                </category>
+                                <category id="male_subordinate">
+                                    <catDesc>Male subordinate associates.</catDesc>
+                                    <category id="boy">
+                                        <catDesc>Associate male children of any class.</catDesc>
+                                    </category>
+                                    
+                                    
+                                </category>
+                                
+                                
+                            </category>
+                            
+                          <category id="superior">
+                              <catDesc>Associate (non-family) who has authority, mentor, model, employer.</catDesc>
+                              <category id="superior_female">
+                                  <catDesc>female authority figure</catDesc>
+                              </category>
+                              <category id="superior_male">
+                                  <catDesc>male authority figure</catDesc>
+                              </category>
+                              
+                              
+                          </category>
+                        
+                        </category>
+                        
+                        
+                     
+                    </category>
+                    
+
+                
+            </taxonomy>
+        </classDecl>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </encodingDesc>
 <revisionDesc>
 <change>
 <date value="2009-09-29">September 29, 2009</date>
@@ -46,8 +211,8 @@ WALSALL'S TRUEST AND BEST FRIEND.</head>
 <div2 type="chapter" n="I" id="d4">
 <head>CHAPTER I.</head>
 <div3 type="section" id="d5">
-<head>childhood.</head>
-<p><hi rend="small-caps">Some</hi> eighty odd years ago the rector of <lb/>
+<head>Childhood.</head>
+<p corresp="setting orientation beginning_family"><hi rend="small-caps">Some</hi> eighty odd years ago the rector of <lb/>
 Hauxwell, a lonely village near Richmond, <lb/>
 in the North Riding of Yorkshire, was the <lb/>
 Rev. Mark James Pattison, a man of much <reg orig="learn-|ing">learning</reg>, <lb/>
