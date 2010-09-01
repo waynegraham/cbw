@@ -26,6 +26,21 @@
 </publicationStmt>
 <sourceDesc><bibl/></sourceDesc>
 </fileDesc>
+    <encodingDesc>
+        <classDecl>
+            <taxonomy id="life_events">
+                <category id="death">
+                    <catDesc>The subject dies.</catDesc>
+                    <category id="accidental_death">
+                        <catDesc>Death by misadventure</catDesc>
+                    </category>
+                </category>
+                <category id="conversion">
+                    <catDesc>Religious conversion</catDesc>
+                </category>
+            </taxonomy>
+        </classDecl>
+    </encodingDesc>
 <revisionDesc>
 <change>
 <date value="2009-09-29">September 29, 2009</date>
@@ -61,9 +76,9 @@ with life which hides itself under an appearance of indifference."&mdash;</q>
 <bibl><author><hi rend="italic">Amiel's Journal.</hi></author></bibl>
 </cit>
 </epigraph>
-<p><hi rend="small-caps">In</hi> this great world of living, teeming human beings, all <lb/>
+<p corresp="life_events death conversion"><hi rend="small-caps">In</hi> this great world of living, teeming human beings, all <lb/>
 hurrying to and fro on the mighty ant-hill of existence, <lb/>
-each bent on his or her little fraction of business, there <lb/>
+each bent on his or her <anchor corresp="life_events death" type="" subtype="" id="carey_" />little fraction of business, there <lb/>
 sometimes emerges from the shifting crowd some strong, <lb/>
 distinct personality whose influence makes itself felt from <lb/>
 the first, and who, by sheer force of will, seems to dominate <lb/>
