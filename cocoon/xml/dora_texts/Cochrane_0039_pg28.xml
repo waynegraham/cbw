@@ -43,6 +43,10 @@
                     <category id="home_adulthood">
                         <catDesc>Description of person's later home(s).</catDesc>
                     </category>
+                    <category id="characteristics_protagonist">
+                        <catDesc></catDesc>
+                    </category>
+                    
                     
                     
                 </category>
@@ -191,6 +195,29 @@
         
         
     </encodingDesc>
+    <encodingDesc>
+        <classDecl>
+            <taxonomy id="social_status">
+                <category id="genealogy">
+                    <catDesc>Information about ancestry.</catDesc>
+                    <category id="origins_upper_class">
+                        <catDesc>Indications of higher status or wealth in family history.</catDesc>
+                    </category>
+                
+                <category id="origins_lower_class">
+                    <catDesc>Indications of lower status or wealth in family history.</catDesc>
+                    
+                    </category>
+                    
+                    </category>
+                 <category id="quality">
+                     <catDesc>Non-genealogical signs of class or status.</catDesc>
+                 </category>
+                
+                
+            </taxonomy>
+        </classDecl>
+    </encodingDesc>
 <revisionDesc>
 <change>
 <date value="2009-09-29">September 29, 2009</date>
@@ -212,7 +239,7 @@ WALSALL'S TRUEST AND BEST FRIEND.</head>
 <head>CHAPTER I.</head>
 <div3 type="section" id="d5">
 <head>Childhood.</head>
-<p corresp="setting orientation beginning_family"><hi rend="small-caps">Some</hi> eighty odd years ago the rector of <lb/>
+<p corresp="setting orientation beginning_family home_childhood"><hi rend="small-caps">Some</hi> eighty odd years ago the rector of <lb/>
 Hauxwell, a lonely village near Richmond, <lb/>
 in the North Riding of Yorkshire, was the <lb/>
 Rev. Mark James Pattison, a man of much <reg orig="learn-|ing">learning</reg>, <lb/>
