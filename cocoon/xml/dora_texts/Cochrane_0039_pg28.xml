@@ -72,6 +72,14 @@
         
         
     </category>
+                <category id="introducing_protagonist">
+                    <catDesc>Second or subsequent paragraph, first mention of protagonist.</catDesc>
+                </category>
+                <category id="characterization">
+                    <catDesc>Paragraph primarily devoted to describing protagonist's character.</catDesc>
+                </category>
+                
+                
             </taxonomy>
         </classDecl>
     </encodingDesc>
@@ -81,7 +89,7 @@
                 <category id="person">
                     <catDesc>Any actual human being specified in narrative.</catDesc>
                     <category id="person_family">
-                        <catDesc>Family member by name or role.</catDesc>
+                        <catDesc>Family member or members by name or role.</catDesc>
                         <category id="father">
                             <catDesc>Protagonist's father.</catDesc>
                         </category>
@@ -218,6 +226,135 @@
             </taxonomy>
         </classDecl>
     </encodingDesc>
+    <encodingDesc>
+        <classDecl>
+            <taxonomy id="life_phases">
+                <category id="birth">
+                    <catDesc>The protagonist's birth as event.</catDesc>
+                </category>
+                <category id="childhood">
+                    <catDesc>Narrative phase of protagonist's childhood.</catDesc>
+                </category>
+             <category id="illness_episode">
+                 <catDesc>Protagonist's illness as event.</catDesc>
+             </category>
+                <category id="recuperation">
+                    <catDesc>Phase of improved health.</catDesc>
+                </category>
+                
+                <category id="education">
+                    <catDesc>Instruction received at home or school.</catDesc>
+                </category>
+                <category id="relationship">
+                    <catDesc>Chosen attachment outside kin, to friend, mentor, lover, partner.</catDesc>
+                </category>
+                <category id="vocation">
+                    <catDesc>The event or phase of deciding on and pursuing a career or calling.</catDesc>
+                </category>
+                <category id="conversion">
+                    <catDesc>Turning point in religion, including crisis of doubt, revelation, vows.</catDesc>
+                </category>
+                
+                <category id="love_or_courtship">
+                    <catDesc>Episodes of romantic attachment or relationship, offers of marriage.</catDesc>
+                </category>
+                <category id="engagement">
+                    <catDesc>Protagonist is engaged to marry.</catDesc>
+                </category>
+                <category id="marriage">
+                    <catDesc>Wedding as event, phase of being married.</catDesc>
+                </category>
+                <category id="motherhood">
+                    <catDesc>Childbirth or childrearing event or phase.</catDesc>
+                </category>
+                <category id="training">
+                    <catDesc>Early experience in the occupation or position that built the reputation.</catDesc>
+                </category>
+                <category id="test_or_ordeal">
+                    <catDesc>Episode of adversity that makes success doubtful.</catDesc>
+                </category>
+                <category id="grief">
+                    <catDesc>Protagonist's loss of a loved one as event and as phase of grieving.</catDesc>
+                </category>
+                
+                <category id="deed_or_achievement">
+                    <catDesc>Success, action, triumph over adversity, phase of good work.</catDesc>
+                </category>
+                <category id="recognition">
+                    <catDesc>Living or posthumous testimony or tribute to protagonist's achievement
+                    or eminence.</catDesc>
+                </category>
+                <category id="death">
+                    <catDesc>Final illness, deathbed scene, event itself.</catDesc>
+                </category>
+                
+                <category id="memorial">
+                    <catDesc>As event such as funeral or erecting a statue.</catDesc>
+                </category>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            </taxonomy>
+        </classDecl>
+        
+    </encodingDesc>
+    <encodingDesc>
+        <classDecl>
+            <taxonomy id="characteristics">
+                <category id="health">
+                    <catDesc>Protagonist's tendency to health or illness.</catDesc>
+                </category>
+                <category id="temperament">
+                    <catDesc>Protagonist's tendencies of affect (characterization).</catDesc>
+                </category>
+                <category id="talent">
+                    <catDesc>anecdotes or remarks on promise or achievement</catDesc>
+                </category>
+                <category id="habits">
+                    <catDesc>Activities or usual behaviors.</catDesc>
+                </category>
+                <category id="religion">
+                    <catDesc>As identity and as faith or belief, not as crisis, conversion.</catDesc>
+                </category>
+                <category id="appearance">
+                    <catDesc>Information about the physical traits of protagonist.</catDesc>
+                </category>
+                <category id="eminence_or_worth">
+                    <catDesc>Qualities of protagonist as superior of her kind, inherent or proven, apart from events of 
+                    recognition.</catDesc>
+                </category>
+                
+                
+            </taxonomy>
+        </classDecl>
+        
+    </encodingDesc>
+    <encodingDesc>
+        <classDecl>
+            <taxonomy id="Topos_or_typical_scene">
+                <category id="charity">
+                    <catDesc>Narrative or summary of giving to or aiding poor.</catDesc>
+                </category>
+                <category id="nursing">
+                    <catDesc>Narration or summary of nursing one or more patients.</catDesc>
+                </category>
+                
+            </taxonomy>
+        </classDecl>
+        
+    </encodingDesc>
+    
+    
+    
+    
+        
+    
 <revisionDesc>
 <change>
 <date value="2009-09-29">September 29, 2009</date>
@@ -243,7 +380,7 @@ WALSALL'S TRUEST AND BEST FRIEND.</head>
 Hauxwell, a lonely village near Richmond, <lb/>
 in the North Riding of Yorkshire, was the <lb/>
     <anchor corresp="father"/>Rev. <name>Mark James Pattison</name>, a man of much <reg orig="learn-|ing">learning</reg>, <lb/>
-and descended <lb/>
+and <anchor corresp="origins_upper_class"/>descended <lb/>
 from a very old <lb/>
 Devonshire family. <lb/>
 The rectory, a <reg orig="charm-|ing">charming</reg> <lb/>
@@ -254,17 +391,17 @@ happiest homesteads <lb/>
 in that remote little <lb/>
 parish.</p>
 <figure id="f1" rend="block"/>
-<p>All day long, laugh <lb/>
+<p corresp="beginning_family home_childhood">All day long, laugh <lb/>
 and song and the <lb/>
 patter of childish feet could be heard within its <lb/>
 walls, and of the little Pattisons perhaps the <lb/>
-gayest and most winsome was Dorothy. The <lb/>
+    gayest and most winsome was <name>Dorothy</name>. The <lb/>
 children were carefully trained by their parents <lb/>
 to be kind and helpful to those in need, to be <lb/>
 obedient and dutiful at home, and courteous to all.</p>
-<p>Now Dorothy, as a young child, being far from <lb/>
-strong, was never given any regular instruction, <lb/>
-but, being most observant, she <hi rend="italic">thought</hi> about all <lb/>
+<p corresp="introducing_protagonist childhood">Now Dorothy, as a young child,<anchor corresp="education"/> being far from <lb/>
+strong,<anchor corresp="health"/> was never given any regular instruction, <lb/>
+    but, <anchor corresp="characteristics_protagonist"/>being most observant, she <hi rend="italic">thought</hi> about all <lb/>
 that she saw, and thus learned much more than <lb/>
 might have been expected. These thoughtful <lb/>
 <pb n="29"/>
@@ -272,19 +409,19 @@ moods were noticeable only when Dorothy was <lb/>
 not feeling well, for at other times she was full <lb/>
 of fun and frolic, and never so happy as when <lb/>
 devising some bit of mischief.</p>
-<p>One point in her character became clear when <lb/>
+<p corresp="characterization childhood">One point in her character became clear when <lb/>
 she was still young. If she made up her mind <lb/>
 to do a certain thing, nothing turned her from her <lb/>
 purpose; she made no fuss when opposed, but, in <lb/>
 a quiet way, managed to attain her end.</p>
-<p>Many children would have been very much <lb/>
+<p corresp="illness_episode characterization">Many children would have been very much <lb/>
 cast down by so much illness; but Dorothy <lb/>
 Pattison had the happy faculty of always looking <lb/>
 on the bright side of things, so that an illness <lb/>
 over was soon forgotten. When about fourteen <lb/>
 years of age, she was so dangerously ill that it <lb/>
 was a long time before she fully recovered.</p>
-<p>During this time she suffered intense pain, but <lb/>
+<p corresp="illness_episode characterization">During this time she suffered intense pain, but <lb/>
 she bore it with so much patience and sweetness as <lb/>
 to win golden opinions from her nurses. The <reg orig="self-|control">self-control</reg> <lb/>
 and power of endurance thus early shown <lb/>
@@ -292,18 +429,18 @@ she retained to the end of her life, and there is no <lb/>
 doubt that these characteristics helped her through <lb/>
 trials which repelled those unfortunate enough to <lb/>
 lack them.</p>
-<p>From this time Dorothy's health improved <lb/>
+<p corresp="recuperation">From this time Dorothy's health improved <lb/>
 wonderfully, and she was able to take her share <lb/>
-of the duties that all the Pattison children were <lb/>
+of the duties that <anchor corresp="person_family"/>all the Pattison children were <lb/>
 taught they owed to their poorer neighbours. <lb/>
 Fortunately, they had the means to do a great <lb/>
-deal of good, for their mother was the daughter <lb/>
-of a Richmond banker, named Winn, whose <lb/>
-family was noted for great liberality.</p>
-<p>Dorothy and her sisters felt that to give away <lb/>
+deal of good, for their <anchor corresp="mother"/>mother was the daughter <lb/>
+    of a Richmond banker,<anchor corresp="genealogy"/> named <name>Winn</name>, whose <lb/>
+family was noted for great liberality.<anchor corresp="origins_upper_class"/></p>
+<p corresp="charity home_childhood">Dorothy and <anchor corresp="sister"/>her sisters felt that to give away <lb/>
 <pb n="30"/>
 what needed no sacrifice on their part was not <lb/>
-true giving; so they frequently wore their clothes <lb/>
+true giving; <anchor corresp="habits"/>so they frequently wore their clothes <lb/>
 till quite shabby in order to give the money thus <lb/>
 saved to the poor. It is also said that they <lb/>
 sometimes ate bread and cheese themselves so as <lb/>
@@ -312,8 +449,8 @@ common thing to see them carrying tins of hot <lb/>
 soup to the poor cottagers in the winter-time. <lb/>
 Indeed, they spared neither bodily effort nor <lb/>
 power of mind, in their anxiety to do good, and <lb/>
-the people of the village grew to love them.</p>
-<p>Once, when Dorothy was away from home, one <lb/>
+the people of the village <anchor corresp="subordinate"/>grew to love them.</p>
+<p corresp="talent nursing">Once, when Dorothy was away from home, one <lb/>
 of the village boys fell ill with typhoid fever. His <lb/>
 one wish was to see "Miss Dora," as he called her, <lb/>
 and the poor child listened anxiously every day <lb/>
@@ -321,13 +458,13 @@ for her carriage wheels. At last she came, and he <lb/>
 was the first to hear her. "There's Miss Dora! <lb/>
 There she is!" he cried, and, exhausted by the <lb/>
 effort, fell back on his pillow.</p>
-<p>She went to him at once and remained to the <lb/>
+<p corresp="talent nursing">She went to him at once and remained to the <lb/>
 end, nursing him with loving care, and cheering <lb/>
 him with her bright smile and comforting words. <lb/>
 This was the first time she had done anything of <lb/>
 the sort, and even then she was more influenced by <lb/>
 the desire to be kind than by the child's suffering.</p>
-<p>She was now growing tall and strong like her <lb/>
+<p corresp="characterization appearance genealogy childhood">She was now growing tall and strong like her <lb/>
 father, and beautiful of face like her mother. <lb/>
 She delighted in games of all kinds, but <reg orig="par-|ticularly">particularly</reg> <lb/>
 those best suited to boys. Nothing <lb/>
