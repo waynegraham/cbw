@@ -19,21 +19,21 @@
     <author> </author>
     <editor role="editor"> </editor>
     <respStmt>
-     <resp>Compiler </resp>
-     <name>Booth, Alison </name>
+     <resp>Compiler</resp>
+     <name>Booth, Alison</name>
      <resp>Creation of machine-readable version: </resp>
-     <name>Amanda French </name>
+     <name>Amanda French</name>
      <resp>Conversion to TEI.2-conformant markup: </resp>
      <name>University of Virginia Library Electronic Text Center. </name>
     </respStmt>
    </titleStmt>
-   <extent>ca. xxx kilobytes </extent>
+   <extent>ca. xxx kilobytes</extent>
    <publicationStmt>
     <publisher>University of Virginia Library </publisher>
     <pubPlace>Charlottesville, Virginia </pubPlace>
     <idno type="ETC">Modern English, BooColl </idno>
     <availability>
-     <p>Publicly accessible </p>
+     <p>Publicly accessible</p>
      <p n="public">URL: http://etext.lib.virginia.edu/WomensBios/ </p>
      <p>copyright 2003, by the Rector and Visitors of the University of Virginia </p>
     </availability>
