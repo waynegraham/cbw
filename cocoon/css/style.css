@@ -349,9 +349,14 @@ div.illus {
 	height: 70px;
 	overflow: visible;
 }
+.bio .verse-group, .bio .verse-line {
+	display: block;
+	padding-left: 8em;
+	padding-right: 8em;
+}
 p.block {
-	padding-left: 5em;
-	padding-right: 5em;
+	padding-left: 8em;
+	padding-right: 8em;
 }
 p.indent {
 	text-indent: 5em;
@@ -496,6 +501,7 @@ td.mosaic img {
 	max-height: 75px;
 	max-width: 75px;
 	border: none;
+	cursor: pointer;
 }
 #TB_overlay {
 	background: #DDD;
@@ -579,12 +585,12 @@ td.mosaic img {
 	display: block;
 	margin: 20px 0 0;
 	border-bottom:1px dotted gray;
-	padding:10px;
+	padding:20px;
 	background: #fffffc;
 }
 #links {
 	background: #fffffc;
-	padding: 10px;
+	padding: 20px;
 }
 .endnote {
 	margin-bottom:20px;
@@ -616,10 +622,10 @@ dl>div {
 dt {
 	font-style:italic;
 	float:left;
-	width:70px;
+	width:95px;
 }
 dd {
-	margin-left:70px;
+	margin-left:95px;
 }
 #intro .jcarousel-skin-tango .jcarousel-container-horizontal, #intro .jcarousel-skin-tango .jcarousel-clip-horizontal{
     width: 240px;
@@ -632,10 +638,12 @@ dd {
 #milestones .ms-desc {
     font-size: 12px;
     display: block;
+    color: #676767;
 }
 #milestones .ms-desc .label {
 	font-size: 15px;
 	display: block;
+        color: #000;
 }
 
 #intro .carousel img {
@@ -646,6 +654,7 @@ dd {
 #intro .carousel li {
     margin-right: 5px;
     overflow: hidden;
+    cursor: pointer;
 }
 .dataTables_info {
 	font-size: 80%;
@@ -658,6 +667,7 @@ dd {
 #featured-container .jcarousel-skin-tango .jcarousel-item {
 	height: auto !important;
 	width: auto !important;
+	cursor:pointer;
 }
 #featured-container .jcarousel-skin-tango .jcarousel-clip-horizontal {
 	height: 550px !important;
@@ -889,4 +899,59 @@ vertical-align:bottom;
 
 #subjects .subject-caption p {
 	margin: 5px 0;
+}
+
+.bio-fig {
+    border: 3px solid #B39B95;
+    float: left;
+    width: 8em;
+    height: 8em;
+    overflow: hidden;
+    margin-right: 1em;
+}
+
+.bio-fig a {
+    border: none;
+    cursor:pointer;
+}
+
+.bio-fig img {
+   min-width: 200px;
+   height: 200px;
+   margin: 0;
+   border:none;
+}
+
+.inline-note {
+	vertical-align: super;
+	font-size: 11px;
+}
+
+.subtitle.episode {
+	display: block;
+	font-size: 18px;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-transform: lowercase;
+}
+.subtitle.author {
+	display: block;
+	font-weight: bold;
+	font-size: 16px;
+	border-bottom: 1px dotted #baa;
+	padding-bottom: 4px;
+}
+
+.attr {
+  margin-top: 3em;
+}
+
+.corresp a{
+  color: #222;
+  background-color: #ffc;
+  text-decoration: none;
+}
+
+#popMarkup tr.hilite {
+  background-color: #ffc !important;
 }
