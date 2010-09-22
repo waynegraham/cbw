@@ -6,6 +6,7 @@
 <!ENTITY % ISOpub SYSTEM "tei/ISOpub.pen"> %ISOpub; 
 <!ENTITY % ISOtech SYSTEM "tei/ISOtech.pen"> %ISOtech;
 ]> 
+
 <TEI.2 id="BooColl">
 	<!-- comment here -->
  <teiHeader type="aacr2" status="new">
@@ -13386,7 +13387,7 @@
       <ref targOrder="U">219.</ref>
       <idno>a219</idno>
       <author>
-       <abbr expan="Dark, Sidney">---.</abbr>
+       <name type="last">Dark</name>, <name type="first">Sidney</name>.
       </author>
       <title type="ref">
        <hi rend="italics">Twelve More Ladies; Good, Bad and Indifferent.</hi>
