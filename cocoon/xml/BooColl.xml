@@ -14421,7 +14421,7 @@
         <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Louisa May Alcott</item>
         <item>Harriet Hosmer</item>
-        <item>Elizabeth Blackwell. *Pop Chart</item>
+        <item>Elizabeth Blackwell.</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Author of <title>
@@ -14430,6 +14430,7 @@
        “The Girl Who . . .” Thus, the chapter on Mary Slessor is entitled “The Girl Who Taught the
        ‘Jesus Way’ to Savages”; the one on Helen Keller is called “The Girl Who Fought Her Way
        through Darkness and Silence to Fame.” </note>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a252" default="NO">
       <ref targOrder="U">252.</ref>
@@ -15135,7 +15136,7 @@
         <item>Mary Moffat by Alex H. Japp</item>
         <item>Mrs. Sewell by Elizabeth Boyd Bayly</item>
         <item>Mrs. Carlyle by Alex H. Japp</item>
-        <item>Baroness Bunsen by Professor Simon. *Pop Chart</item>
+        <item>Baroness Bunsen by Professor Simon.</item>
        </list>
       </note>
       <image n="no21">
@@ -15146,6 +15147,7 @@
        <imgName>Sarah Martin</imgName>
        <imgDesc>Sarah Martin at the Door of Yarmouth Prison by unidentified artist ("W")</imgDesc>
       </image>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a270A" default="NO">
       <ref targOrder="U">270A.</ref>
@@ -15341,9 +15343,10 @@
         <item>Susan B. Anthony</item>
         <item>Catharine Breshkovskaya</item>
         <item>Jeanette Rankin</item>
-        <item>Countess Sophie Panin. *Pop Chart 16 pp</item>
+        <item>Countess Sophie Panin.</item>
        </list>
       </note>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a276" default="NO">
       <ref targOrder="U">276.</ref>
@@ -15628,7 +15631,7 @@
         <item>Mrs. Barbauld</item>
         <item>Joanna Baillie</item>
         <item n="HANNAH_MORE">Hannah More</item>
-        <item>The American Abolitionists: Prudence Crandall and Lucretia Mott. *Pop Chart</item>
+        <item>The American Abolitionists: Prudence Crandall and Lucretia Mott.</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> British Library. </note>
@@ -15649,6 +15652,7 @@
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 142.</xref>
       <note place="unspecified" anchored="yes"> British Library. </note>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a283" default="NO">
       <ref targOrder="U">283.</ref>
@@ -15783,12 +15787,13 @@
         <item>Alice Foote MacDougail</item>
         <item>Mary Kingsbury Simkhovitch</item>
         <item>Maria Jeritza</item>
-        <item>You. *Pop Chart</item>
+        <item>You.</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"><xref targOrder="U" from="ROOT" to="DITTO">Inez
         Haynes Irwin</xref> is the author of <ref target="a443" targOrder="U"/><hi rend="italics"
         >Angels and Amazons</hi> (1933).</note>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a287" default="NO">
       <ref targOrder="U">287.</ref>
@@ -15831,11 +15836,12 @@
         <item>Janet Scudder</item>
         <item>Marie Curie</item>
         <item>Jane Addams</item>
-        <item>Etsu Inagaki Sugimoto. *Pop Chart</item>
+        <item>Etsu Inagaki Sugimoto.</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Note comparable collection with different contents.
       </note>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a289" default="NO">
       <ref targOrder="U">289.</ref>
@@ -15859,9 +15865,10 @@
         <item>Louise de Koven Bowen</item>
         <item>Josephine De Mott Robinson</item>
         <item>Elisabeth Marbury</item>
-        <item>Marine, Grand Duchess of Russia. *Pop Chart</item>
+        <item>Marine, Grand Duchess of Russia.</item>
        </list>
       </note>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a290" default="NO">
       <ref targOrder="U">290.</ref>
