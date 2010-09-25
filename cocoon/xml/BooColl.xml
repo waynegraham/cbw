@@ -10966,6 +10966,7 @@
        <date>1885;</date>
        <date>1886;</date>
        <date>1887;</date>
+       <date>1889;</date>
        <date>1891;</date>
        <date>1895;</date>
        <date>1899;</date>
@@ -10991,6 +10992,9 @@
        <pubPlace>London:</pubPlace>
        <publisher>Seeley, Jackson &amp; Halliday,</publisher>
        <date>1868.</date>
+       <pubPlace>New York:</pubPlace>
+       <publisher>M.W. Dodd</publisher>
+       <date>1870.</date>
       </imprint>
      </bibl>
      <bibl id="a167" default="NO"><ref targOrder="U">167.</ref>
@@ -11022,11 +11026,13 @@
        <list>
         <item>Anne Askew</item>
         <item>Elizabeth Pepper</item>
-        <item>The Quernsey Victims</item>
+        <item>Katherine Hut- Joan Horns- Elizabeth Thackvel</item>
+        <item>The Guernsey Victims</item>
         <item>Alice Benden</item>
         <item>Joyce Lewes</item>
         <item>Cicely Ormes</item>
         <item>Margaret Mearing</item>
+        <item>Margaret Thurston – Agnes Bongeor</item>
        </list>
       </note>
      </bibl>
@@ -11117,7 +11123,7 @@
        <list>
         <item>Lady Ackland</item>
         <item>Queen Anne</item>
-        <item>Arria, Wife of Poctus</item>
+        <item>Arria, Wife of Poetus</item>
         <item>Lady Biron, Wife of Sir John Biron</item>
         <item>Mrs. Blackwell</item>
         <item>Mrs. Blake</item>
@@ -11145,7 +11151,7 @@
         <item>Queen Mary</item>
         <item>Countess of Nithsdale</item>
         <item>Mme Oberlin</item>
-        <item>Panthea, Wife of Abradates</item>
+        <item>Panthea, Wife of Abradatas</item>
         <item>Baroness Reidesel</item>
         <item>Mme Reiske</item>
         <item>Mrs. Ross</item>
@@ -11505,6 +11511,7 @@
       <note type="toc">
        <list>
         <item>Warlike Goddesses</item>
+        <item>The Amazons</item>
         <item>The Sarmatians</item>
         <item>The Machyes and Auses</item>
         <item>The Zaveces</item>
@@ -11540,7 +11547,7 @@
         <item>Ayesha, Widow of the Prophet</item>
         <item>Cabina the Sorceress, Queen of the Berbers</item>
         <item>Saidet, Queen of Persia</item>
-        <item>Turkhan-Khatan, Sultana of Kharezme</item>
+        <item>Turkhan-Khatun, Sultana of Kharezme</item>
         <item>Hadee’yah</item>
         <item>Libyssa and Valasca, Queens of Bohemia</item>
         <item>Wanda, Queen of Poland</item>
@@ -11582,7 +11589,7 @@
         <item>Dona Aldonza de Castillo</item>
         <item>and Dofia Maria Sarmiento</item>
         <item>Isabel the Catholic</item>
-        <item>Caterine Sforza</item>
+        <item>Caterina Sforza</item>
         <item>Maria d’Estrada</item>
         <item>Catalina de Erauso, the Monja Alferez</item>
         <item>Dona Maria Pacheco</item>
@@ -11591,7 +11598,7 @@
         <item>Jewess at Buda</item>
         <item>Bravery of the Women of Temesvar, Erlau, Valpon, Agria, and Szigeth in Hungary, and of
          Famagosta in Cyprus</item>
-        <item>Louise Labe</item>
+        <item>Louise Labé</item>
         <item>Mary of Hungary</item>
         <item>Granu Weal</item>
         <item>Kenan Simonz Hasselaar</item>
@@ -11795,7 +11802,7 @@
         <item>Intrepidy of Mrs. Israel</item>
         <item>Incident in Missionary Life</item>
         <item>A Kind-hearted Chippewa</item>
-        <item>Humanitty of a Cheroikee</item>
+        <item>Humanity of a Cherokee</item>
         <item>Salf-sacrificing Spirit of the Missionary</item>
         <item>Daring Exploit of Two Rebels</item>
         <item>Elizabeth Martin</item>
@@ -11834,7 +11841,7 @@
         <item>Patriotism of 1770</item>
         <item>Mrs. Spaulding</item>
         <item>Mrs. Dillard</item>
-        <item>Pheobe Phillips</item>
+        <item>Phoebe Phillips</item>
         <item>Example of a Poor Widow</item>
         <item>Elizabeth Estaugh</item>
         <item>Kate Moore</item>
@@ -11856,7 +11863,7 @@
         <item>Influence of a Faithful Teacher</item>
         <item>Wife of Thomas Heyward</item>
         <item>Noble Decision</item>
-        <item>A Tennesse Heroine</item>
+        <item>A Tennessee Heroine</item>
         <item>Mrs. M’Kay</item>
         <item>Heroic Conduct of a Daughter</item>
         <item>Heroic Decision</item>
@@ -11884,7 +11891,7 @@
         <item>A Pioneer Settler’s Adventure</item>
         <item>Mrs. McKenney</item>
         <item>The Fisherman’s Heroic Wife</item>
-        <item>Mrs. James K. Pok</item>
+        <item>Mrs. James K. Polk</item>
         <item>Widow Jenkins</item>
         <item>Faithful Little Girl</item>
         <item>Hospitality of California Women</item>
@@ -12031,7 +12038,7 @@
         <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Mrs. Isabel Reaney</item>
         <item>Mary Ann Rogers</item>
-        <item n="FRANCES_COBBE">Frances Power Cobbe. </item>
+        <item n="FRANCES_COBBE">Frances Power Cobbe.</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes">Refers to Victoria's funeral, the
@@ -12170,6 +12177,25 @@
        <publisher>Macmillan,</publisher>
        <date>1929.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item> Mother D’Youvile</item>
+        <item>Mother Clare Joseph Dickinson</item>
+        <item>Mother Elizabeth Ann Seton</item>
+        <item>Mother Mary Rhodes</item>
+        <item>Mother Catherine Spalding</item>
+        <item>Mother Teresa Lalor</item>
+        <item>Mother Philippine Duchesne</item>
+        <item>Mother Angela Sansbury</item>
+        <item>Mother Mary Francis Clarke</item>
+        <item>Mother Theodore Guérin</item>
+        <item>Mother Gamelin</item>
+        <item>Mother Mary Xavier Warde</item>
+        <item>Mother Mary Rose Durocher</item>
+        <item>Mother Cornelius Connelly</item>
+        <item>Mother Mary Amadeus of the Heart of Jesus </item>
+        <item>Mother Alphonsa Lathrop</item>
+       </list> </note>
       <note place="unspecified" anchored="yes"> Re Catholic sisterhoods; ample list of Mother
        Superiors. </note>
      </bibl>
@@ -12558,7 +12584,7 @@
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Mentor Assoc.,</publisher>
-       <date>1920.</date>
+       <date>1919.</date>
       </imprint>
      </bibl>
      <bibl id="a198" default="NO">
@@ -12619,6 +12645,7 @@
         <item>Arabella Stuart</item>
         <item>Catherine Grey</item>
         <item>Mary Sidney, Countess of Pembroke</item>
+        <item>Penelope, Lady Rich</item>
         <item>Magdalen Herbert</item>
         <item>Frances Howard, Duchess of Richmond.</item>
         <item>Vol. 2: Elizabeth Stuart, Queen of Bohemia</item>
@@ -12656,7 +12683,8 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Chapman &amp; Hall,</publisher>
-       <date>1931.</date>
+       <date>1931</date>
+       <date>1936.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -13105,14 +13133,23 @@
       <note type="toc">
        <list>
         <item>Eliza R. Snow Smith</item>
+        <item>Zina D.H. Young</item>
+        <item>Mary Isabela Horne</item>
+        <item>Sarah M. Kimball</item>
+        <item>Prescendia L. Kimball</item>
         <item>Phoebe W. Carter Woodruff</item>
         <item>Bathsheeba W. Smith</item>
         <item>Elizabeth Howard</item>
         <item>Elmina S. Taylor</item>
         <item>Mary A. Freeze</item>
         <item>Ellen C. S. Clawson</item>
+        <item>Emmeline B. Wells</item>
+        <item>Romania B. Pratt</item>
         <item>Dr. Elvira S. Barney</item>
+        <item>Emily Hill Woodmansee</item>
         <item>Hannah T. King</item>
+        <item>Augusta Joyce Crocheron</item>
+        <item>Helen Mar Whitney</item>
         <item>Zina Y. Williams</item>
         <item>Louise M. Wells</item>
        </list>
