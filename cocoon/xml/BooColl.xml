@@ -10190,9 +10190,7 @@
      <bibl id="a145" default="NO">
       <ref targOrder="U">145.</ref>
       <idno>a145</idno>
-      <author>
-       <abbr expan="Carr, Kent">---.</abbr>
-      </author>
+      <author><name type="last">Carr</name>, <name type="first">Kent</name>.</author>
       <title type="ref">
        <hi rend="italics">Women Who Dared: Heroines of the Great War.</hi>
       </title>
@@ -10291,7 +10289,8 @@
        <pubPlace>New York and</pubPlace>
        <pubPlace>London:</pubPlace>
        <publisher>Century,</publisher>
-       <date>1924.</date>
+       <date>1924</date>
+         <date>1937.</date>
       </imprint>
       <note place="unspecified" anchored="yes">
        <hi rend="bold">*Pop Chart</hi>
@@ -10366,9 +10365,8 @@
      </bibl>
      <bibl id="a152" default="NO"><ref targOrder="U">152.</ref>
       <idno>a152</idno>
-      <author>
-       <abbr expan="Challice, Annie Emma Armstrong">---.</abbr>
-      </author>
+      <author><name type="last">Challice</name>, <name type="first">Annie Emma
+       Armstrong</name>.</author>
       <title type="ref">
        <hi rend="italics">Illustrious Women of France <date>1790-1873</date>.</hi>
       </title> Illustrated. <imprint>
@@ -10396,9 +10394,8 @@
      <bibl id="a153" default="NO">
       <ref targOrder="U">153.</ref>
       <idno>a153</idno>
-      <author>
-       <abbr expan="Challice, Annie Emma Armstrong">---.</abbr>
-      </author>
+      <author><name type="last">Challice</name>, <name type="first">Annie Emma
+       Armstrong</name>.</author>
       <title type="ref">
        <hi rend="italics">The Sister of Charity; or, From Bermendsey to Belgravia.</hi>
       </title>
@@ -10452,7 +10449,7 @@
      </bibl>
      <bibl id="a155" default="NO"><ref targOrder="U">155.</ref>
       <idno>a155</idno>
-      <author><name type="last">Chapin</name>, <name type="first">Clara Christiana Morgan</name>
+      <author><name type="last">Chapin</name>,<name type="first">Clara Christiana Morgan</name>
       </author>, ed. <title type="ref">
        <hi rend="italics">Thumb Nail Sketches of White Ribbon Women.</hi>
       </title>
@@ -10483,7 +10480,7 @@
         <item>1. Introduction</item>
         <item>2. The Pundita Ramabai Sarasvati</item>
         <item>3. Dr. Anandibai Joshee</item>
-        <item>4. The Maharani of Kuch Dehav</item>
+        <item>4. The Maharani of Kuch Behar</item>
         <item>5. Toru Dutt</item>
         <item>6. Cornelia Sorabji</item>
        </list>
@@ -10535,9 +10532,7 @@
      <bibl id="a158" default="NO">
       <ref targOrder="U">158.</ref>
       <idno>a158</idno>
-      <author>
-       <abbr expan="Chapman, William">---.</abbr>
-      </author>
+      <author><name type="last">Chapman</name>, <name type="first">William</name>.</author>
       <title type="ref">
        <hi rend="italics">Notable Women of the Puritan Times.</hi>
       </title>
@@ -10554,9 +10549,7 @@
      <bibl id="a159" default="NO">
       <ref targOrder="U">159.</ref>
       <idno>a159</idno>
-      <author>
-       <abbr expan="Chapman, William">---.</abbr>
-      </author>
+      <author><name type="last">Chapman</name>, <name type="first">William</name>.</author>
       <title type="ref">
        <hi rend="italics">Notable Women of the Reformation: The Lives and Times.</hi>
       </title>
@@ -10699,9 +10692,7 @@
      <bibl id="a161" default="NO">
       <ref targOrder="U">161.</ref>
       <idno>a161</idno>
-      <author>
-       <abbr expan="Chappell, Jennie">---.</abbr>
-      </author>
+      <author><name type="last">Chappell</name>, <name type="first">Jennie</name>.</author>
       <title type="ref">
        <hi rend="italics">Noble Work by Noble Women: Sketches of the Lives of Baroness
         Burdett-Coutts, Lady Henry Somerset, Miss Sarah Robinson, Mrs. Fawcett, Mrs. Gladstone.</hi>
@@ -10721,9 +10712,7 @@
      <bibl id="a162" default="NO">
       <ref targOrder="U">162.</ref>
       <idno>a162</idno>
-      <author>
-       <abbr expan="Chappell, Jennie">---.</abbr>
-      </author>
+      <author><name type="last">Chappell</name>, <name type="first">Jennie</name>.</author>
       <title type="ref">
        <hi rend="italics">Noble Workers: Sketches of the Life-Work of Frances Willard, Agnes Weston,
         Sister Dora, Catherine Booth, the Baroness Burdett-Coutts, Lady Henry Somerset, Sarah
@@ -10863,9 +10852,7 @@
      </bibl>
      <bibl id="a163" default="NO"><ref targOrder="U">163.</ref>
       <idno>a163</idno>
-      <author>
-       <abbr expan="Chappell, Jennie">---.</abbr>
-      </author>
+      <author><name type="last">Chappell</name>, <name type="first">Jennie</name>.</author>     
       <title type="ref">
        <hi rend="italics">Women Who Have Worked and Won: The Life-Story of Mrs. Spurgeon, Mrs.
         Booth-Tucker, F. R. Havergal, and Pandita Ramabai.</hi>
@@ -10889,9 +10876,7 @@
      <bibl id="a163A" default="NO">
       <ref targOrder="U">163A.</ref>
       <idno>a163A</idno>
-      <author>
-       <abbr expan="Chappell, Jennie">---.</abbr>
-      </author>
+      <author><name type="last">Chappell</name>, <name type="first">Jennie</name>.</author>    
       <title type="ref">
        <hi rend="italics">Women of Worth: Sketches of the Lives of Carmen Silva, Frances Power
         Cobbe, Isabella Bird Bishop, and Mrs. Bramwell Booth.</hi>
@@ -10967,9 +10952,8 @@
      </bibl>
      <bibl id="a165" default="NO"><ref targOrder="U">165.</ref>
       <idno>a165</idno>
-      <author>
-       <abbr expan="Charles, Elizabeth Rundle. [Mrs. Rundle].">---. [Mrs. Rundle].</abbr>
-      </author>
+      <author>[<name type="last">Charles</name>, <name type="first">Elizabeth
+       Rundle</name>].</author>
       <title type="ref">
        <hi rend="italics">Three Martyrs of the Nineteenth Century: Studies from the Lives of
         Livingstone, Gordon, and Patteson.</hi>
@@ -10997,9 +10981,8 @@
      </bibl>
      <bibl id="a166" default="NO"><ref targOrder="U">166.</ref>
       <idno>a166</idno>
-      <editor role="editor">
-       <abbr expan="Charles, Elizabeth Rundle">---,</abbr>
-      </editor> ed. <title type="ref">
+      <author>[<name type="last">Charles</name>, <name type="first">Elizabeth
+       Rundle</name>].</author> ed. <title type="ref">
        <hi rend="italics">The Women of the Gospels: Meditations on Some Traits of Feminine Character
         Recorded by the Evangelists: Selected from the Works of Chrysostom, Augustine, Calvin,
         Jeremy Taylor, and Other Writers.</hi>
@@ -11070,9 +11053,8 @@
      </bibl>
      <bibl id="a169" default="NO"><ref targOrder="U">169.</ref>
       <idno>a169</idno>
-      <author>
-       <abbr expan="Child, Lydia Maria Francis">---.</abbr>
-      </author>
+      <author><name type="last">Child</name>, <name type="first">Lydia Maria
+       Francis</name>.</author>
       <title type="ref">
        <hi rend="italics">Biographies of Lady Russell and Mme. Guyon.</hi>
       </title> Ladies' Family Library, ed. Lydia Child, vol. 2. <imprint>
@@ -11090,9 +11072,8 @@
      </bibl>
      <bibl id="a170" default="NO"><ref targOrder="U">170.</ref>
       <idno>a170</idno>
-      <author>
-       <abbr expan="Child, Lydia Maria Francis">---.</abbr>
-      </author>
+      <author><name type="last">Child</name>, <name type="first">Lydia Maria
+       Francis</name>.</author>
       <title type="ref">
        <hi rend="italics">Good Wives.</hi>
       </title> Ladies' Family Library vol. 3. <imprint>
@@ -11182,9 +11163,8 @@
      </bibl>
      <bibl id="a171" default="NO"><ref targOrder="U">171.</ref>
       <idno>a171</idno>
-      <author>
-       <abbr expan="Child, Lydia Maria Francis">---.</abbr>
-      </author>
+      <author><name type="last">Child</name>, <name type="first">Lydia Maria
+       Francis</name>.</author>
       <title type="ref">
        <hi rend="italics">The History of the Condition of Women, in Various Ages and Nations.</hi>
       </title> Ladies' Family Library vols. 4-5. <imprint>
@@ -11462,9 +11442,8 @@
      <bibl id="a176" default="NO">
       <ref targOrder="U">176.</ref>
       <idno>a176</idno>
-      <author>
-       <abbr expan="Clayton, Ellen Creathorne [afterward Needham]">---.</abbr>
-      </author>
+      <author><name type="last">Clayton</name>, <name type="first">Ellen Creathorne</name>
+       [afterward <name type="aka">Needham</name>].</author>
       <title type="ref">
        <hi rend="italics">English Female Artists.</hi>
       </title>
@@ -11511,9 +11490,8 @@
      <bibl id="a177" default="NO">
       <ref targOrder="U">177.</ref>
       <idno>a177</idno>
-      <author>
-       <abbr expan="Clayton, Ellen Creathorne [afterward Needham]">---.</abbr>
-      </author>
+      <author><name type="last">Clayton</name>, <name type="first">Ellen Creathorne</name>
+       [afterward <name type="aka">Needham</name>].</author>
       <title type="ref">
        <hi rend="italics">Female Warriors: Memorials of Female Valour and Heroism, from the
         Mythological Ages to the Present Era.</hi>
@@ -11641,9 +11619,8 @@
      <bibl id="a178" default="NO">
       <ref targOrder="U">178.</ref>
       <idno>a178</idno>
-      <author>
-       <abbr expan="Clayton, Ellen Creathorne [afterward Needham]">---.</abbr>
-      </author>
+      <author><name type="last">Clayton</name>, <name type="first">Ellen Creathorne</name>
+       [afterward <name type="aka">Needham</name>].</author>
       <title type="ref">
        <hi rend="italics">Notable Women: Stories of Their Lives and Characters: A Book for Young
         Ladies.</hi>
@@ -11682,9 +11659,8 @@
      <bibl id="a179" default="NO">
       <ref targOrder="U">179.</ref>
       <idno>a179</idno>
-      <author>
-       <abbr expan="Clayton, Ellen Creathorne [afterward Needham]">---.</abbr>
-      </author>
+      <author><name type="last">Clayton</name>, <name type="first">Ellen Creathorne</name>
+       [afterward <name type="aka">Needham</name>].</author>
       <title type="ref">
        <hi rend="italics">Queens of Song: Being Memoirs of Some of the Most Celebrated Female
         Vocalists who have Performed on the Lyric Stage from the Earliest Days of Opera to the
@@ -11710,9 +11686,8 @@
      <bibl id="a180" default="NO">
       <ref targOrder="U">180.</ref>
       <idno>a180</idno>
-      <author>
-       <abbr expan="Clayton, Ellen Creathorne [afterward Needham]">---.</abbr>
-      </author>
+      <author><name type="last">Clayton</name>, <name type="first">Ellen Creathorne</name>
+       [afterward <name type="aka">Needham</name>].</author>
       <title type="ref">
        <hi rend="italics">Women of the Reformation: Their Lives, Faith and Trials.</hi>
       </title>
@@ -12492,9 +12467,7 @@
      <bibl id="a193" default="NO">
       <ref targOrder="U">193.</ref>
       <idno>a193</idno>
-      <author>
-       <abbr expan="Concannon, Helena [Walsh]">---.</abbr>
-      </author>
+      <author><name type="last">Concannon</name>, <name type="first">Helena [Walsh]</name>.</author>
       <title type="ref">
        <hi rend="italics">Irish Nuns in Penal Days.</hi>
       </title>
@@ -12507,9 +12480,7 @@
      <bibl id="a194" default="NO">
       <ref targOrder="U">194.</ref>
       <idno>a194</idno>
-      <author>
-       <abbr expan="Concannon, Helena [Walsh]">---.</abbr>
-      </author>
+      <author><name type="last">Concannon</name>, <name type="first">Helena [Walsh]</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of ‘Ninety-Eight.”</hi>
       </title>
@@ -12702,9 +12673,8 @@
      <bibl id="a202" default="NO">
       <ref targOrder="U">202.</ref>
       <idno>a202</idno>
-      <author>
-       <abbr expan="Courtney, Janet Elizabeth Hogarth">---.</abbr>
-      </author>
+      <author><name type="last">Courtney</name>, <name type="first">Janet Elizabeth
+       Hogarth</name>.</author>
       <title type="ref">
        <hi rend="italics">The Women of My Time.</hi>
       </title>
