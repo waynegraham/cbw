@@ -10136,7 +10136,7 @@
         <item n="GRACE_DARLING">Grace Darling</item>
         <item>The Princess Alice</item>
         <item>Lady Henry Somerset</item>
-        <item>Frances Ridley Havergal. *Pop Chart</item>
+        <item>Frances Ridley Havergal. </item>
        </list>
       </note>
       <image n="no287">
@@ -10159,6 +10159,7 @@
        <imgName>Queen Victoria</imgName>
        <imgDesc>Her Majesty the Queen. From a photograph by Hughes &amp; Mullins</imgDesc>
       </image>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a144" default="NO"><ref targOrder="U">144.</ref>
       <idno>a144</idno>
@@ -10354,7 +10355,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>TOC : Madame Tallien</item>
+        <item>Madame Tallien</item>
         <item>Empress Joséphine, Queen Hortense, and Caroline Bonaparte</item>
         <item>Duchesse d'Angoulême and Duchesse de Berri</item>
         <item>Queen Marie Amélie and Duchesse d'Orléans</item>
@@ -10410,8 +10411,9 @@
         <item>Helen Gray</item>
         <item>The Sister of Rembrandt</item>
         <item n="MADAME_ROLAND">Madame Roland. Illustrated at head and foot of chapters</item>
-        <item>pagination resumes repeatedly (prob. issues bound together). *Pop Chart</item>
+        <item>pagination resumes repeatedly (prob. issues bound together).</item>
        </list>
+       <hi rend="bold">*Pop Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> British Library. Univ. of Georgia copy: bookplate:
        “Royal School,/ Dunkeld./ Session <date>1897-1898</date>./Standard III/Isobel
@@ -10619,8 +10621,8 @@
         Weston.) (From "The Quiver")</imgDesc>
       </image>
       <image n="no358">
-       <imgName>Devonport</imgName>
-       <imgDesc>The Devonport Sailors' Rest</imgDesc>
+       <imgName>Davonport</imgName>
+       <imgDesc>The Davonport Sailors' Rest</imgDesc>
       </image>
       <image n="no359">
        <imgName>Refreshment Bar</imgName>
@@ -10744,8 +10746,8 @@
         Weston.) (From "The Quiver")</imgDesc>
       </image>
       <image n="no358">
-       <imgName>Devonport</imgName>
-       <imgDesc>The Devonport Sailors' Rest</imgDesc>
+       <imgName>Davonport</imgName>
+       <imgDesc>The Davonport Sailors' Rest</imgDesc>
       </image>
       <image n="no359">
        <imgName>Refreshment Bar</imgName>
@@ -10924,11 +10926,12 @@
         <item>Mlle Legras</item>
         <item n="HANNAH_MORE">Hannah More</item>
         <item>Sarah Martin</item>
-        <item n="ELIZABETH_FRY">Elizabeth Fry. *Pop Chart</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry.</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Author of at least 12 vols. for Nelson, advertised
        in Thayer, <date>1897</date>. </note>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a165" default="NO"><ref targOrder="U">165.</ref>
       <idno>a165</idno>
@@ -11140,8 +11143,9 @@
         <item>Baroness von der Wart</item>
         <item>Mrs. West</item>
         <item>Mme Wieland</item>
-        <item>Mrs. Winthrop. *Pop Chart</item>
+        <item>Mrs. Winthrop</item>
        </list>
+       <hi rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
      <bibl id="a171" default="NO"><ref targOrder="U">171.</ref>
@@ -11270,8 +11274,9 @@
         <item>The Wife of Napoleon—Josephine</item>
         <item>The Champion of Freedom—Harriet Beecher Stowe</item>
         <item>The Female Sculptor—Harriet E. Hosmer</item>
-        <item>The Female Painter—Rosa Bonheur. *Pop Chart</item>
+        <item>The Female Painter—Rosa Bonheur.</item>
        </list>
+       <hi rend="bold">*Pop Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> The Rev. D.W. Clark was the editor of <title>
         <hi rend="italics">Ladies' Repository</hi>
@@ -11366,8 +11371,9 @@
         <item>La Vallière</item>
         <item>Maria Theresa</item>
         <item>Catherine II</item>
-        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale. *Pop Chart</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale.</item>
        </list>
+       <hi rend="bold">*Pop Chart</hi>
       </note>
       <image n="no383">
        <imgName>Florence Nightingale</imgName>
@@ -11416,8 +11422,9 @@
         <item>Charlotte Elizabeth</item>
         <item>Mary Russell Mitford</item>
         <item>Sarah Trimmer</item>
-        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell. *Pop Chart</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell.</item>
        </list>
+       <hi rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
      <bibl id="a176" default="NO">
@@ -11633,9 +11640,10 @@
         <item>Lucy Hutchinson, the Perfect Wife</item>
         <item>Elizabeth Bunyan, the Faithful Helpmate</item>
         <item>Selina, Countess of Huntingdon, the Servant of God</item>
-        <item>Anne Clifford, Countess of Dorset and Pembroke, the Dispenser of Charity. *Pop Chart
+        <item>Anne Clifford, Countess of Dorset and Pembroke, the Dispenser of Charity.
         </item>
        </list>
+       <hi rend="bold">*Pop Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> Bodleian British Library. </note>
      </bibl>
@@ -12019,7 +12027,7 @@
         <item n="FRANCES_COBBE">Frances Power Cobbe. </item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes"> *Pop Chart. Refers to Victoria's funeral, the
+      <note place="unspecified" anchored="yes">Refers to Victoria's funeral, the
        anniversary of Scutari (Nightingale still living) in <date>1903</date>, and the death of
        Frances Power Cobbe in <date>1904</date>; thus, published <date>1904-1911</date>. </note>
       <image n="no377">
@@ -12078,6 +12086,7 @@
       <image n="no301">
        <imgName>Frances Cobbe</imgName>
       </image>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a186" default="NO">
       <ref targOrder="U">186.</ref>
@@ -12436,7 +12445,7 @@
         <item>“Two Schoolgirl Diarists of the Eighteenth Century: Hélène Massalska, Paris</item>
         <item>Anna Green Winslow, Boston”</item>
         <item>“Pamela at Bellechasse: The Schooldays of Lady Edward Fitzgerald”</item>
-        <item>“Marjorie Fleming: Sir Walter Scott's ‘Pet Marjorie.’” *Pop Chart</item>
+        <item>“Marjorie Fleming: Sir Walter Scott's ‘Pet Marjorie.’”</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Endorsed by Catholic authorities. A mixture of
@@ -12445,6 +12454,7 @@
        next division of my subject” (medieval schoolchildren were made to cut the rods used to
        punish themselves) (43); “Those who visit Mantua to-day may see...” (49); “What was to become
        of Elizabeth?” (47). </note>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a193" default="NO">
       <ref targOrder="U">193.</ref>
@@ -12899,7 +12909,7 @@
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Isabella Bird (Mrs. Bishop)</item>
         <item n="SISTER_DORA">Sister Dora</item>
-        <item n="QUEEN_VICTORIA">Queen Victoria. *Pop Chart</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria.</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Author of children's histories of England and
@@ -13074,6 +13084,7 @@
        <imgName>Victoria's Jubilee</imgName>
        <imgDesc>Queen Victoria's Jubilee, 1897. Photo: London Stereoscopic Co.</imgDesc>
       </image>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a208" default="NO">
       <ref targOrder="U">208.</ref>
@@ -13155,7 +13166,7 @@
         <item>Mary L. Ware</item>
         <item>Mrs. Hutchinson and Lady Fanshawe</item>
         <item>Margaret Fuller, Marchesa Ossoli</item>
-        <item>Lady Sale. *Pop Chart</item>
+        <item>Lady Sale.</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Bodleian Author of a biography of Mrs. Blake
@@ -13164,6 +13175,7 @@
        </title> (<date>1847</date>), <title>
         <hi rend="italics">Stories of the City of London, Retold for Youthful Readers</hi>
        </title> (<date>1880</date>), etc. </note>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a210" default="NO">
       <ref targOrder="U">210.</ref>
