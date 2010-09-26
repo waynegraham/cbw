@@ -14243,6 +14243,7 @@
        <publisher>Houghton, Mifflin/Riverside,</publisher>
        <date>1895;</date>
        <date>1896;</date>
+       <date>1900;</date>
        <date>1904;</date>
        <date>1924.</date>
       </imprint>
@@ -14261,10 +14262,11 @@
        <hi rend="italics">Daughters of the Cross; or, Woman's Mission.</hi>
       </title>
       <imprint>
-       <pubPlace>New York:</pubPlace>
+       <pubPlace>Boston and New York:</pubPlace>
        <publisher>Dayton &amp; Wentworth,</publisher>
        <date>1854;</date>
-       <date>1855.</date>
+       <date>1855;</date>
+       <date>1856.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> This and two following Eddy collections closely
        similar with different titles, acc. to Brumberg, <title>
@@ -14287,9 +14289,7 @@
      </bibl>
      <bibl id="a248" default="NO"><ref targOrder="U">248.</ref>
       <idno>a248</idno>
-      <author>
-       <abbr expan="Eddy, Daniel Clarke">---.</abbr>
-      </author>
+      <author><name type="last">Eddy</name>, <name type="first">Daniel Clarke</name>.</author>
       <title type="ref">
        <hi rend="italics">Heroines of the Missionary Enterprise, or Sketches of Prominent Female
         Missionaries.</hi>
@@ -14349,9 +14349,7 @@
      <bibl id="a249" default="NO">
       <ref targOrder="U">249.</ref>
       <idno>a249</idno>
-      <author>
-       <abbr expan="Eddy, Daniel Clarke">---.</abbr>
-      </author>
+      <author><name type="last">Eddy</name>, <name type="first">Daniel Clarke</name>.</author>
       <title type="ref">
        <hi rend="italics">The Three Mrs. Judsons, and Other Daughters of the Cross.</hi>
       </title>
@@ -14373,7 +14371,7 @@
         <item>Harriet B. Stewart</item>
         <item>Sarah L. Smith</item>
         <item>Eleanor Macomber</item>
-        <item>Sarah Comstock</item>
+        <item>Sarah D. Comstock</item>
         <item>Henrietta Shuck</item>
         <item>Sarah B. Judson</item>
         <item>Mary. E. Van Lennep</item>
@@ -14397,11 +14395,12 @@
        <pubPlace>London and</pubPlace>
        <pubPlace>Edinburgh:</pubPlace>
        <publisher>Gall &amp; Inglis,</publisher>
+       <date>1864</date>
        <date>1870.</date>
       </imprint>
       <note type="toc">
        <list>
-        <item>TOC (Edinburgh n.d.): Isabel the Fair, Queen of England</item>
+        <item>(Edinburgh n.d.): Isabel the Fair, Queen of England</item>
         <item>Philippa of Hainault, Queen of England</item>
         <item>Katherine, Countess of Salisbury</item>
         <item>Joan, Countess of Montfort</item>
@@ -14557,9 +14556,8 @@
      <bibl id="a256" default="NO">
       <ref targOrder="U">256.</ref>
       <idno>a256</idno>
-      <author>
-       <abbr expan="Ellet, Elizabeth Fries Lummis">---.</abbr>
-      </author>
+      <author><name type="last">Ellet</name>, <name type="first">Elizabeth Fries
+       Lummis</name>.</author>
       <title type="ref">
        <hi rend="italics">[The] Pioneer Women of the West.</hi>
       </title>
@@ -14651,9 +14649,8 @@
      <bibl id="a257" default="NO">
       <ref targOrder="U">257.</ref>
       <idno>a257</idno>
-      <author>
-       <abbr expan="Ellet, Elizabeth Fries Lummis">---.</abbr>
-      </author>
+      <author><name type="last">Ellet</name>, <name type="first">Elizabeth Fries
+       Lummis</name>.</author>
       <title type="ref">
        <hi rend="italics">The Queens of American Society.</hi>
       </title>
@@ -14676,9 +14673,8 @@
      <bibl id="a258" default="NO">
       <ref targOrder="U">258.</ref>
       <idno>a258</idno>
-      <author>
-       <abbr expan="Ellet, Elizabeth Fries Lummis">---.</abbr>
-      </author>
+      <author><name type="last">Ellet</name>, <name type="first">Elizabeth Fries
+       Lummis</name>.</author>
       <title type="ref">
        <hi rend="italics">Women Artists in All Ages and Countries.</hi>
       </title>
@@ -14706,9 +14702,8 @@
      <bibl id="a259" default="NO">
       <ref targOrder="U">259.</ref>
       <idno>a259</idno>
-      <author>
-       <abbr expan="Ellet, Elizabeth Fries Lummis">---.</abbr>
-      </author>
+      <author><name type="last">Ellet</name>, <name type="first">Elizabeth Fries
+       Lummis</name>.</author>
       <title type="ref">
        <hi rend="italics">The Women of the American Revolution.</hi>
       </title>
@@ -14776,6 +14771,82 @@
       </image>
       <note type="toc">
        <list>
+        <item>Vol. 2: Martha Washington</item>
+        <item>Abigail Adams</item>
+        <item>Mrs. Smith</item>
+        <item>Mrs. Shaw</item>
+        <item>Mrs. Cranch</item>
+        <item>Elizabeth Clay</item>
+        <item>Martha Wilson</item>
+        <item>Rebecca Motte</item>
+        <item>Barbara McKenny</item>
+        <item>Mrs. Brewton</item>
+        <item>Susannah Elliott</item>
+        <item> Sabina Elliott</item>
+        <item>Mrs. Lewis Morris</item>
+        <item>Jane Washington</item>
+        <item>Anna Elliott</item>
+        <item>Sarah Hopton</item>
+        <item>Behethland Foote Butler</item>
+        <item>Hannah Caldwell</item>
+        <item>Susan Livingston</item>
+        <item>Catharine Livingston</item>
+        <item>Susannah Livingston</item>
+        <item>Lady Stirling</item>
+        <item>Flora M’Donald</item>
+        <item>Rachel Caldwell</item>
+        <item>Mary Long</item>
+        <item>Mrs. Jones </item>
+        <item>The Women of Wyoming</item>
+        <item>Mrs. Skinner</item>
+        <item>Mrs. Myers</item>
+        <item>Mrs. Ives</item>
+        <item>Mrs. Bidlack—Mrs. Young</item>
+        <item>Mrs. Dana—Frances Slocum</item>
+        <item>Women of Wawasink</item>
+        <item>Mrs. Bevier</item>
+        <item>Catharine Vernooy</item>
+        <item>Jane Campbell</item>
+        <item>Cornelia Beekman</item>
+        <item>Frances Allen</item>
+        <item>Margaret Arnold</item>
+        <item>Jane M’Crea</item>
+        <item>Nancy Hart</item>
+        <item>Rebecca Biddle</item>
+        <item>Mrs. Graydon</item>
+        <item>Ann Eliza Bleecker</item>
+        <item>Margaretta Faugeres</item>
+        <item>Alice Izard</item>
+        <item>Mrs. Ralph Izard</item>
+        <item>Anna Bailey</item>
+        <item>Mrs. Wright—Mrs. Shattuck</item>
+        <item>Rebecca Barlow</item>
+        <item>The Women of Kentucky </item>
+        <item>Mrs. Boone</item>
+        <item>Mrs. Whitley</item>
+        <item>Mrs. Harvey</item>
+        <item>Mrs. Daviess</item>
+        <item>Mrs. Russell</item>
+        <item>Mrs. Woods</item>
+        <item>Mrs. Merrill</item>
+        <item>Elizabeth Zane</item>
+        <item>Margaret Morris</item>
+        <item>Mrs. Maxwell</item>
+        <item>Mrs. Dissosway</item>
+        <item>Mrs. Jackson</item>
+        <item>Mary Bowen</item>
+        <item>Mrs. Walker</item>
+        <item>Emily Geiger</item>
+        <item>Mrs. Griswold</item>
+        <item>Hannah Mooney</item>
+        <item>Mrs. Wadsworth</item>
+        <item>Mrs. Munro</item>
+        <item>Mrs. Borden</item>
+        <item>Mrs. Heyward</item>
+        <item>Mrs. Shubrick</item>
+        <item>Mrs. Hall</item>
+        <item>Mrs. Conyngham</item>   
+        
         <item>Vol. 3: Annis Stockton</item>
         <item>Lucy Knox</item>
         <item>Margaret Whetten</item>
@@ -14826,9 +14897,8 @@
      </bibl>
      <bibl id="a260" default="NO"><ref targOrder="U">260.</ref>
       <idno>a260</idno>
-      <author>
-       <abbr expan="Ellet, Elizabeth Fries Lummis">---.</abbr>
-      </author>
+      <author><name type="last">Ellet</name>, <name type="first">Elizabeth Fries
+       Lummis</name>.</author>
       <title type="ref">
        <hi rend="italics">The Eminent and Heroic Women of America.</hi>
       </title> Illustrated. <imprint>
@@ -14901,6 +14971,8 @@
       <imprint>
        <pubPlace>Edinburgh:</pubPlace>
        <publisher>Nimmo,</publisher>
+       <date>1883;</date>
+       <date>1892</date>
        <date>1902.</date>
       </imprint>
       <note type="toc">
@@ -14932,9 +15004,7 @@
      <bibl id="a263" default="NO">
       <ref targOrder="U">263.</ref>
       <idno>a263</idno>
-      <author>
-       <abbr expan="Ellis, Sarah Stickney">---.</abbr>
-      </author>
+      <author><name type="last">Ellis</name>, <name type="first">Sarah Stickney</name>.</author>
       <title type="ref">
        <hi rend="italics">The Women of England: Their Social Duties, and Domestic Habits.</hi>
       </title>
@@ -15246,13 +15316,13 @@
         <item>Women Made Famous by the Voice of the People: Filial Daughters</item>
         <item>Devoted Sisters</item>
         <item>Young Ladies</item>
-        <item>Courtessans</item>
+        <item>Courtesans</item>
         <item>Intriguing Women</item>
         <item>Empresses</item>
         <item>Good Wives</item>
         <item>Bad Wives</item>
         <item>Good Mothers</item>
-        <item>Bad Motjhers</item>
+        <item>Bad Mothers</item>
         <item>Widows</item>
         <item>Authoresses</item>
         <item>Artists</item>
@@ -15462,9 +15532,7 @@
      </bibl>
      <bibl id="a277" default="NO"><ref targOrder="U">277.</ref>
       <idno>a277</idno>
-      <editor role="editor">
-       <abbr expan="Farmer, Lydia Hoyt">---,</abbr>
-      </editor> ed. <title type="ref">
+      <author><name type="last">Farmer</name>, <name type="first">Lydia Hoyt</name>.</author> ed. <title type="ref">
        <hi rend="italics">The National Exposition Souvenir: What America Owes to Woman.</hi>
       </title> Introduction by <editor role="editor"><name type="first">Julia Ward</name>
        <name type="last">Howe</name>.</editor>
@@ -15855,9 +15923,7 @@
      <bibl id="a288" default="NO">
       <ref targOrder="U">288.</ref>
       <idno>a288</idno>
-      <author>
-       <abbr expan="Ferris, Helen Josephine et al.">--- et al.</abbr>
-      </author>
+      <author><name type="last">Ferris</name>, <name type="first">Helen Josephine</name>.</author>
       <title type="ref">
        <hi rend="italics">When I Was a Girl: The Stories of Five Famous Women, as Told by
         Themselves.</hi>
@@ -15886,9 +15952,7 @@
      <bibl id="a289" default="NO">
       <ref targOrder="U">289.</ref>
       <idno>a289</idno>
-      <author>
-       <abbr expan="Ferris, Helen Josephine">---.</abbr>
-      </author>
+      <author><name type="last">Ferris</name>, <name type="first">Helen Josephine</name>.</author>
       <title type="ref">
        <hi rend="italics">Five Girls Who Dared: The Girlhood Stories of Five Courageous Girls as
         Told by Themselves.</hi>
@@ -16323,9 +16387,7 @@
      <bibl id="a296" default="NO">
       <ref targOrder="U">296.</ref>
       <idno>a296</idno>
-      <author>
-       <abbr expan="Finden, William">---.</abbr>
-      </author>
+      <author><name type="last">Finden</name>, <name type="first">W[illiam]</name>.</author>
       <title type="ref">
        <hi rend="italics">Gallery of the Graces: A Series of Portrait Illustrations of British
         Poets. From paintings designed expressly for this work by the most eminent British
@@ -16807,9 +16869,7 @@
      <bibl id="a308" default="NO">
       <ref targOrder="U">308.</ref>
       <idno>a308</idno>
-      <author>
-       <abbr expan="Fyvie, John">---.</abbr>
-      </author>
+      <author><name type="last">Fyvie</name>, <name type="first">John</name>.</author>
       <title type="ref">
        <hi rend="italics">Some Famous Women of Wit and Beauty: A Georgian Galaxy.</hi>
       </title>
@@ -16836,9 +16896,7 @@
      <bibl id="a309" default="NO">
       <ref targOrder="U">309.</ref>
       <idno>a309</idno>
-      <author>
-       <abbr expan="Fyvie, John">---.</abbr>
-      </author>
+      <author><name type="last">Fyvie</name>, <name type="first">John</name>.</author>
       <title type="ref">
        <hi rend="italics">Tragedy Queens of the Georgian Era.</hi>
       </title>
