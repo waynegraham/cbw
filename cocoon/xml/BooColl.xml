@@ -26798,7 +26798,7 @@
     </div2>
     <div2 type="letter" n="N" org="uniform" sample="complete" part="N">
      <head>N Entries</head>
-     <bibl id="a594A" default="NO"><ref targOrder="U">594A.</ref>
+     <bibl id="a594A" default="NO"><ref targOrder="U"></ref>
       <idno>594A</idno>
       <author>National Council of Women in Canada.</author><title type="ref">
        <hi rend="italics">Women of Canada: Their Life and Work. Compiled by the National Council of
