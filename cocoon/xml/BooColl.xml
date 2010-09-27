@@ -10449,7 +10449,7 @@
      </bibl>
      <bibl id="a155" default="NO"><ref targOrder="U">155.</ref>
       <idno>a155</idno>
-      <author><name type="last">Chapin</name>,<name type="first">Clara Christiana Morgan</name>
+      <author><name type="last">Chapin</name>,<name type="first"> Clara Christiana Morgan</name>
       </author>, ed. <title type="ref">
        <hi rend="italics">Thumb Nail Sketches of White Ribbon Women.</hi>
       </title>
@@ -15744,7 +15744,7 @@
        </list>
       </note>
       <note place="unspecified" anchored="yes"> British Library. </note>
-      <note place="unspecified" anchored="yes">Preface dated London 1889: "written for <hi
+      <note place="unspecified" anchored="yes">Preface dated London 1889: "Written for <hi
         rend="italics">The Mothers' Companion</hi>" in monthly installments 1887-1888; reprinted
        with permission of Messrs. Partridge, in chronological order of first publication (v-vi).
        "The sketches were intended chiefly for working women and young people; it was hoped it would
@@ -15760,7 +15760,6 @@
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 142.</xref>
-      <note place="unspecified" anchored="yes"> British Library. </note>
       <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a283" default="NO">
@@ -15792,7 +15791,7 @@
         <item>Nell Gwyn</item>
         <item>The Countess of Shrewsbury</item>
         <item>Anne Temple, Frances Jennings, and Goditha Price</item>
-        <item>The beautiful Myddelton</item>
+        <item>The beautiful Myddeltons</item>
         <item>The Countesses of Chesterfield and Southesk</item>
         <item>The Misses Brooke, Miss Fraser, and Miss Lawson</item>
         <item>Mademoiselle de La Vallière, and the Marchioness de Montespan</item>
@@ -15828,7 +15827,9 @@
        <date>1880-1881;</date>
        <date>1882;</date>
        <date>1888;</date>
+       <date>1889;</date>
        <date>1892;</date>
+       <date>1893;</date>
        <date>1894;</date>
        <date>1895;</date>
        <date>1897;</date>
@@ -15873,7 +15874,8 @@
        <pubPlace>New York:</pubPlace>
        <publisher>Dutton,</publisher>
        <date>1927;</date>
-       <date>1933.</date>
+       <date>1933;</date>
+       <date>1937.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -16001,9 +16003,7 @@
      <bibl id="a291" default="NO">
       <ref targOrder="U">291.</ref>
       <idno>a291</idno>
-      <author>
-       <abbr expan="Festing, Gabrielle">---.</abbr>
-      </author>
+      <author><name type="last">Festing</name>, <name type="first">Gabrielle</name>.</author>
       <title type="ref">
        <hi rend="italics">Unstoried in History: Portraits of Some Famous Women of the 16th, 17th,
         and 18th Centuries.</hi>
@@ -16330,6 +16330,7 @@
         Garfield, of General Gordon; lots of advice and self help “Famous People and Famous Places”
         “Sacred Heroes and Martyrs” by JT Headley </p>
       </note>
+      
      </bibl>
      <bibl id="a294" default="NO">
       <ref targOrder="U">294.</ref>
@@ -16485,7 +16486,8 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Paisley/Gardner,</publisher>
-       <date>1889.</date>
+       <date>1889;</date>
+       <date>1899.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -16655,6 +16657,7 @@
        <date>1878;</date>
        <date>1879;</date>
        <date>1880;</date>
+       <date>1882;</date>
        <date>1881;</date>
        <date>1883;</date>
        <date>1886;</date>
@@ -21415,9 +21418,8 @@
      <bibl id="a436" default="NO">
       <ref targOrder="U">436.</ref>
       <idno>a436</idno>
-      <author>
-       <abbr expan="Imbert de Saint-Amand, Arthur Leon, Baron">---.</abbr>
-      </author>
+      <author><name type="last">Imbert de Saint-Amand</name>, <name type="first">Arthur Léon</name>,
+       <name type="title">Baron</name>.</author>
       <title type="ref">
        <hi rend="italics">Marie Louise and the Decadence of the Empire.</hi>
       </title>
@@ -21435,7 +21437,8 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Hutchinson,</publisher>
-       <date>1890.</date>
+       <date>1890;</date>
+       <date>1892.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> NOT:=auto/biography. Marie Louise, Empress, Consort
        of Napoleon I. </note>
@@ -21458,7 +21461,7 @@
         <item>Mayence</item>
         <item>The Last Festivities</item>
         <item>The Resumption of Hostilities</item>
-        <item>The End of 181</item>
+        <item>The End of 1813</item>
         <item>The Beginning of 1814</item>
         <item>Marie Louise’s Farewell</item>
        </list>
@@ -21466,9 +21469,8 @@
      </bibl>
      <bibl id="a437" default="NO"><ref targOrder="U">437.</ref>
       <idno>a437</idno>
-      <author>
-       <abbr expan="Imbert de Saint-Amand, Arthur Leon, Baron">---.</abbr>
-      </author>
+      <author><name type="last">Imbert de Saint-Amand</name>, <name type="first">Arthur Léon</name>,
+       <name type="title">Baron</name>.</author>
       <title type="ref">
        <hi rend="italics">The Revolution of <date>1848</date>.</hi>
       </title>
@@ -21493,9 +21495,8 @@
      <bibl id="a438" default="NO">
       <ref targOrder="U">438.</ref>
       <idno>a438</idno>
-      <author>
-       <abbr expan="Imbert de Saint-Amand, Arthur Leon, Baron">---.</abbr>
-      </author>
+      <author><name type="last">Imbert de Saint-Amand</name>, <name type="first">Arthur Léon</name>,
+       <name type="title">Baron</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of the Valois Court.</hi>
       </title>
@@ -21512,12 +21513,14 @@
        <date>1898;</date>
        <date>1899;</date>
        <date>1900;</date>
+       <date>1904;</date>
        <date>1909.</date>
       </imprint>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Hutchinson,</publisher>
-       <date>1893.</date>
+       <date>1893;</date>
+       <date>1894.</date>
       </imprint>
       <note place="unspecified" anchored="yes">NOT:=auto/biography.</note>
       <image n="no94">
@@ -21544,6 +21547,8 @@
         <item>Catherine De’ Medici and her Contemporaries at the French Court: Diana of
          Poitiers</item>
         <item>Mary Stuart</item>
+        <item>Diana of Poiters</item>
+        <item>Mary Stuart</item>
         <item>Catherine de Medici Regent</item>
         <item>Elisabeth of France</item>
         <item>Jeanne d’Albret</item>
@@ -21557,9 +21562,8 @@
      <bibl id="a439" default="NO">
       <ref targOrder="U">439.</ref>
       <idno>a439</idno>
-      <author>
-       <abbr expan="Imbert de Saint-Amand, Arthur Leon, Baron">---.</abbr>
-      </author>
+      <author><name type="last">Imbert de Saint-Amand</name>, <name type="first">Arthur Léon</name>,
+       <name type="title">Baron</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of Versailles: The Court of Louis XIV.</hi>
       </title>
@@ -21570,9 +21574,17 @@
        <pubPlace>New York:</pubPlace>
        <publisher>Scribner,</publisher>
        <date>1893;</date>
+       <date>1894;</date>
+       <date>1898;</date>
        <date>1900;</date>
        <date>1901;</date>
+       <date>1906;</date>
        <date>1911.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <date>1894;</date>
+       <date>1894.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -21584,9 +21596,8 @@
      <bibl id="a440" default="NO">
       <ref targOrder="U">440.</ref>
       <idno>a440</idno>
-      <author>
-       <abbr expan="Imbert de Saint-Amand, Arthur Leon, Baron">---.</abbr>
-      </author>
+      <author><name type="last">Imbert de Saint-Amand</name>, <name type="first">Arthur Léon</name>,
+       <name type="title">Baron</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of Versailles: The Court of Louis XV.</hi>
       </title>
@@ -21624,9 +21635,8 @@
      <bibl id="a441" default="NO">
       <ref targOrder="U">441.</ref>
       <idno>a441</idno>
-      <author>
-       <abbr expan="Imbert de Saint-Amand, Arthur Leon, Baron">---.</abbr>
-      </author>
+      <author><name type="last">Imbert de Saint-Amand</name>, <name type="first">Arthur Léon</name>,
+       <name type="title">Baron</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of Versailles: Last Years of Louis XV.</hi>
       </title>
@@ -21722,7 +21732,7 @@
         <item>Mrs. Giles and Her Circle</item>
         <item>Mrs. Macpherson</item>
         <item>Georgiana McCrae</item>
-        <item n="GRACE_DARLING">“Grace Darling”. of Western Australia</item>
+        <item n="GRACE_DARLING">“Grace Darling” of Western Australia</item>
         <item>Mrs. Frances</item>
         <item>Lucy Osburn</item>
         <item>Lady Murray</item>
