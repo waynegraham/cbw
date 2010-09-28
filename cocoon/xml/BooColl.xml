@@ -34262,6 +34262,21 @@
        <publisher>Somerby,</publisher>
        <date>1876.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Madame Roland (Marie Jeanne Phlipon)</item>
+        <item>Mary Wollstonecraft Godwin </item>
+        <item>Mary W. Godwin Shelley</item>
+        <item>George Sand (A.L. Aurore Dudevant)</item>
+        <item> Harriet Martineau</item>
+        <item> Frances Wright D’Arusmont </item>
+        <item>Emma Martin</item>
+        <item>Margaret Reynolds Chappellsmith</item>
+        <item>Ernestine L. Rose</item>
+        <item>Frances Power Cobbe</item>
+        <item>George Eliot (Marian Evens Lewes.</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a825" default="NO">
       <ref targOrder="U">825.</ref>
@@ -34280,6 +34295,7 @@
        <publisher>McClurg,</publisher>
        <date>1886;</date>
        <date>1889;</date>
+       <date>1890;</date>
        <date>1892;</date>
        <date>1895;</date>
        <date>1899.</date>
@@ -34361,9 +34377,8 @@
      <bibl id="a828" default="NO">
       <ref targOrder="U">828.</ref>
       <idno>a828</idno>
-      <author>
-       <abbr expan="Villiers, Elizabeth [i.e. Isabel Mary Thorne]">---.</abbr>
-      </author>
+      <author><name type="last">Villiers</name>, <name type="first">Elizabeth</name> [i.e., <name
+       type="aka">Isabel Mary Thorne</name>].</author>
       <title type="ref">
        <hi rend="italics">Our Queen Mothers.</hi>
       </title>
@@ -34375,9 +34390,8 @@
      </bibl>
      <bibl id="a829" default="NO"><ref targOrder="U">829.</ref>
       <idno>a829</idno>
-      <author>
-       <abbr expan="Villiers, Elizabeth [i.e. Isabel Mary Thorne]">---.</abbr>
-      </author>
+      <author><name type="last">Villiers</name>, <name type="first">Elizabeth</name> [i.e., <name
+       type="aka">Isabel Mary Thorne</name>].</author>
       <title type="ref">
        <hi rend="italics">Women of the Dawn: A Sketch of Early British History.</hi>
       </title> Illustrated. <imprint>
@@ -34420,8 +34434,10 @@
         <item>W.G. Waters: Elizabeth Canning, Imposter</item>
         <item>W.G. Waters: Elizabeth Chudleigh, Duchess of Kingston</item>
         <item>A. Vincent: Mary Bateman, “The Yorkshire Witch"</item>
-        <item>W.G. Waters: Mary A. Clarke. *Pop Chart</item>
+        <item>W.G. Waters: Mary A. Clarke.</item>
        </list>
+       <hi
+        rend="bold">*Pop Chart</hi>
       </note>
       <image n="no213">
        <imgName>The Countess of Somerset</imgName>
