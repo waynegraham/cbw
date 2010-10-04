@@ -13572,12 +13572,15 @@
      <bibl id="a221" default="NO">
       <ref targOrder="U">221.</ref>
       <idno>a221</idno>
-      <author>
-       <abbr expan="Darton, John Maw">---.</abbr>
-      </author>
+      <author><name type="last">Darton</name>, <name type="first">John Maw</name>.</author>
       <title type="ref">
        <hi rend="italics">The Heroism of Christian Women of Our Own Time.</hi>
       </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>np,</publisher>
+       <date>1880</date>
+      </imprint>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Carter,</publisher>
@@ -13589,12 +13592,12 @@
       </imprint>
       <edition>Title variant:</edition>
       <title type="ref">
-       <hi rend="italics">Heroism of Christian Women of Our Own Time, what rhey have done &amp; are
+       <hi rend="italics">Heroism of Christian Women of Our Own Time, what they have done &amp; are
         doing, embracing their early training and inner life.</hi>
       </title>
       <pubPlace>London:</pubPlace>
       <publisher>Swan,</publisher>
-      <date>n.d.</date>
+      <date>[1880]</date>
       <note type="toc">
        <list>
         <item>H.R.H. Princess Louise</item>
@@ -13625,28 +13628,26 @@
        <publisher>Connecticut Chapter, DAR,</publisher>
        <date>1904.</date>
       </imprint>
+      <note place="unspecified" anchored="yes"> Each chapter contains biographies of a DAR chapter with subsections devoted to each daughter.
+      </note>
      </bibl>
      <bibl id="a223" default="NO"><ref targOrder="U">223.</ref>
       <idno>a223</idno>
-      <author>
-       <abbr expan="Daughters of the American Revolution">---.</abbr>
-      </author>
+      <author><name type="org">Daughters of the American Revolution</name>.</author>
       <title type="ref">
        <hi rend="italics">Chapter Sketches: Patron Saints.</hi>
       </title> Edited by <editor role="editor"><name type="first">Mary Philotheta</name>
        <name type="last">Root</name>.</editor>
       <imprint>
        <pubPlace>New Haven:</pubPlace>
-       <publisher>Connecticut Chapters, DAR,</publisher>
+       <publisher>Connecticut Chapter, DAR,</publisher>
        <date>1901.</date>
       </imprint>
      </bibl>
      <bibl id="a224" default="NO">
       <ref targOrder="U">224.</ref>
       <idno>a224</idno>
-      <author>
-       <abbr expan="Daughters of the American Revolution">---.</abbr>
-      </author>
+      <author><name type="org">Daughters of the American Revolution</name>.</author>
       <title type="ref">
        <hi rend="italics">Outstanding Iowa Women.</hi>
       </title>
@@ -13658,9 +13659,7 @@
      </bibl>
      <bibl id="a225" default="NO"><ref targOrder="U">225.</ref>
       <idno>a225</idno>
-      <author>
-       <abbr expan="Daughters of the American Revolution">---.</abbr>
-      </author>
+      <author><name type="org">Daughters of the American Revolution</name>.</author>
       <title type="ref">
        <hi rend="italics">The Pioneer Women of Wyoming: An Address Before the Wyoming Valley
         Chapter, D.A.R.</hi>
@@ -13674,9 +13673,7 @@
      </bibl>
      <bibl id="a226" default="NO"><ref targOrder="U">226.</ref>
       <idno>a226</idno>
-      <author>
-       <abbr expan="Daughters of the American Revolution">---.</abbr>
-      </author>
+      <author><name type="org">Daughters of the American Revolution</name>.</author>
       <title type="ref">
        <hi rend="italics">Some North Carolina Heroines of the Revolution.</hi>
       </title> By <editor role="editor"><name type="first">Richard</name>
