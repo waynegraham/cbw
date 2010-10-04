@@ -13367,7 +13367,8 @@
       <imprint>
        <pubPlace>Washington, DC:</pubPlace>
        <publisher>Associated Publishers,</publisher>
-       <date>1931.</date>
+       <date>1931;</date>
+       <date>1970.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -13381,7 +13382,25 @@
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Sketches of seven African American women; part of
-       the Black Biographical Dictionary series of over 200 titles. </note>
+       the Black Biographical Dictionary series of over 200 titles.
+1970 ed. enlarged by Charles H Wesley and Thelma D Perry. 1970 TOC below. 
+      </note>
+       <note type="toc">
+       <list>
+        <item>Lucy Craft Laney</item>
+        <item>Maggie Lena Walker</item>
+        <item>Julie Porter Barrett</item>
+        <item>Mary McLeod Bethune</item>
+        <item>Nannie Helen Burroughs</item>
+        <item>Charlotte Hawkins Brown</item>
+        <item>Jane Edna Hunter</item>
+        <item>Harriet Ross Tubman</item>
+        <item>Fannie Muriel Jackson Coppin</item>
+        <item>Maria Louise Baldwin</item>
+        <item>Ida B. Wells Barnett</item>
+        <item>Hallie Quinn Brown</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a217" default="NO">
       <ref targOrder="U">217.</ref>
