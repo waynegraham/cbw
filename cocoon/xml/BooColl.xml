@@ -13421,9 +13421,10 @@
         <item>Miriam, or Social Sins</item>
         <item>Ruth, the Type of Industry</item>
         <item>Abigail, the Churl's Wife</item>
-        <item>Elizabeth, or a Model Household. Another biblical group</item>
+        <item>Elizabeth, or a Model Household</item>
        </list>
       </note>
+      <note> A biblical group</note>
      </bibl>
      <bibl id="a218" default="NO">
       <ref targOrder="U">218.</ref>
@@ -13451,9 +13452,11 @@
         <item>Catherine the Great</item>
         <item>Marie Antoinette</item>
         <item>Josephine de Beauharnais</item>
-        <item>Caroline of Brunswick. *Pop Chart</item>
+        <item>Caroline of Brunswick</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a219" default="NO">
       <ref targOrder="U">219.</ref>
@@ -13510,6 +13513,18 @@
        <hi rend="italics">Famous Girls Who Have Become Illustrious Women of Our Time: Models for
         Imitation by the Young Women of England,</hi>
       </title>
+      <edition>6th ed.</edition>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Darton &amp; Co.</publisher>
+       <date>[187?]</date>
+      </imprint>
+      <edition>9th ed.</edition>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>J. Kempster</publisher>
+       <date>[19??]</date>
+      </imprint>
       <edition>17th &amp; 18th eds.</edition>
       <imprint>
        <pubPlace>London:</pubPlace>
@@ -13551,6 +13566,8 @@
         <hi rend="italics">Brave Boys Who Have Become Illustrious Men of Our Time</hi>
        </title> (<date>1880</date>). Twenty subjects, primarily from nineteenth-century Europe.
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a221" default="NO">
       <ref targOrder="U">221.</ref>
