@@ -24798,7 +24798,8 @@
         <item n="MADAME_ROLAND">Mme Roland</item>
         <item n="GRACE_DARLING">Grace Darling</item>
         <item n="SISTER_DORA">Sister Dora</item>
-        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale. *Pop Chart</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale. <hi rend="bold">*Pop
+         Chart</hi> </item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Preface: “The Book of Heroes should never be
@@ -24832,9 +24833,7 @@
      <bibl id="a529" default="NO">
       <ref targOrder="U">529.</ref>
       <idno>a529</idno>
-      <author>
-       <abbr expan="McCabe, Joseph">---.</abbr>
-      </author>
+      <author><name type="last">McCabe</name>, <name type="first">Joseph</name>.</author>
       <title type="ref">
        <hi rend="italics">The Empresses of Rome.</hi>
       </title>
@@ -24937,7 +24936,8 @@
        <pubPlace>New York and</pubPlace>
        <pubPlace>London:</pubPlace>
        <publisher>Macmillan,</publisher>
-       <date>1904.</date>
+       <date>1904;</date>
+       <date>1905.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> NOT:=typology. Collective portraits of types: “The
        pioneer woman of the West. The woman in the small town. The southern woman and
@@ -24957,6 +24957,7 @@
        <pubPlace>Dublin:</pubPlace>
        <publisher>Talbot,</publisher>
        <date>1913;</date>
+       <date>19</date>
        <date>1930.</date>
       </imprint>
       <imprint>
@@ -25079,9 +25080,8 @@
      <bibl id="a538" default="NO">
       <ref targOrder="U">538.</ref>
       <idno>a538</idno>
-      <author>
-       <abbr expan="Macurdy, G[race] H[arriet]">---.</abbr>
-      </author>
+      <author><name type="last">Macurdy</name>, <name type="first">G[race]
+       H[arriet]</name>.</author>
       <title type="ref">
        <hi rend="italics">Vassal-Queens and Some Contemporary Women in the Roman Empire.</hi>
       </title>
@@ -25247,7 +25247,8 @@
       <imprint>
        <pubPlace>Nashville:</pubPlace>
        <publisher>Southern Methodist,</publisher>
-       <date>1887.</date>
+       <date>1887;</date>
+       <date>1890.</date>
       </imprint>
       <edition>Reprint.</edition>
       <imprint>
@@ -25290,9 +25291,7 @@
      <bibl id="a548" default="NO">
       <ref targOrder="U">548.</ref>
       <idno>a548</idno>
-      <author>
-       <abbr expan="Martyn, Sarah Towne Smith">---.</abbr>
-      </author>
+      <author><name type="last">Martyn</name>, <name type="first">Sarah Towne Smith</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of the Bible.</hi>
       </title>
@@ -25301,6 +25300,39 @@
        <publisher>American Tract Society,</publisher>
        <date>1868.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Eve, the Mother of Mankind </item>
+        <item>Sarah, the Wife of Abraham </item>
+        <item>Sarah and Hagar </item>
+        <item>Sarah, and the Angel Visitants </item>
+        <item>Sarah and Isaac, the Heir of Promise </item>
+        <item>Rebekah of Mesopotamia</item>
+        <item>Rebekah as Wife and Mother</item>
+        <item>Miriam, the Sister of Moses and Aaron</item>
+        <item>Deborah, the Wife of Lapidoth</item>
+        <item>Hannah, the Mother of the Prophet Samuel</item>
+        <item>Ruth of the Moabites, Great-grandmother of David</item>
+        <item>Abigail, the Wife of David</item>
+        <item>Jezebel, the Heathen Queen of Israel</item>
+        <item>The Woman of Shunem</item>
+        <item>Esther, the Jewish Qeen of Abasuerus</item>
+        <item>The Women of the New Testament</item>
+        <item>Elizabeth, Mother of John the Baptist</item>
+        <item>Mary, the Mother of our Lord</item>
+        <item>Anna, the Widowed Prophetess</item>
+        <item>Heordias, Wife of the Tetrach of Galilee</item>
+        <item>The Woman of Syrophenicia</item>
+        <item>Mary of Magdala</item>
+        <item>Martha and Mary</item>
+        <item>The Sisters of Lazarus at Bethany</item>
+        <item>Sapphira</item>
+        <item>The False Witness</item>
+        <item>Dorcas, the Benevolent Disciple</item>
+        <item>Lydia, the Hospitable Hostess</item>
+        <item>Priscilla, Paul’s Helper in Christ</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a549" default="NO">
       <ref targOrder="U">549.</ref>
@@ -25480,7 +25512,7 @@
         <item>Louisa Jane Hall</item>
         <item>Mrs. Swift</item>
         <item>Mrs. E. C. Kinney</item>
-        <item>Marguierite St. Leon Loud</item>
+        <item>Marguerite St. Leon Loud</item>
         <item>Luella J. Case</item>
         <item>Elizabeth Bogart</item>
         <item>A. D. Woodbridge</item>
@@ -25492,7 +25524,7 @@
         <item>Mary E. Brooks</item>
         <item>Lucretia and Margaret Davidson</item>
         <item>Sarah Louisa P. Smith</item>
-        <item>Lydia Jane Pierson</item>
+        <item>Lydia Jane Peirson</item>
         <item>Julia H. Scott</item>
         <item>Ann S. Stephens</item>
         <item>Caroline M. Sawyer</item>
@@ -25660,7 +25692,8 @@
         <item n="JENNY_LIND">Jenny Lind. The “Egeria”: Teresa Gamba Guiccioli</item>
         <item>Evelina Hanska</item>
         <item>Mathilde Mirat (Madame Heine)</item>
-        <item>Adah Isaacs Menken. *Pop Chart</item>
+        <item>Adah Isaacs Menken.</item>
+   
        </list>
       </note>
       <image n="no410">
@@ -25674,9 +25707,7 @@
      <bibl id="a558" default="NO">
       <ref targOrder="U">558.</ref>
       <idno>a558</idno>
-      <author>
-       <abbr expan="Mayne, Ethel Colburn">---.</abbr>
-      </author>
+      <author><name type="last">Mayne</name>, <name type="first">Ethel Colburn</name>.</author>
       <title type="ref">
        <hi rend="italics">Browning's Heroines.</hi>
       </title>
@@ -25797,9 +25828,9 @@
      <bibl id="a561" default="NO">
       <ref targOrder="U">561.</ref>
       <idno>a561</idno>
-      <author>
-       <abbr expan="Melville, Lewis [i.e. Lewis Saul Benjamin 1874-1932]">---.</abbr>
-      </author>
+      <author><name type="last">Melville</name>, <name type="first">Lewis</name> [i.e., <name
+       type="aka">Lewis Saul Benjamin;</name>
+       <date>1874-1932</date>].</author>
       <title type="ref">
        <hi rend="italics">More Stage Favourites of the Eighteenth Century.</hi>
       </title>
@@ -25821,9 +25852,9 @@
      <bibl id="a562" default="NO">
       <ref targOrder="U">562.</ref>
       <idno>a562</idno>
-      <author>
-       <abbr expan="Melville, Lewis [i.e. Lewis Saul Benjamin 1874-1932]">---.</abbr>
-      </author>
+      <author><name type="last">Melville</name>, <name type="first">Lewis</name> [i.e., <name
+       type="aka">Lewis Saul Benjamin;</name>
+       <date>1874-1932</date>].</author>
       <title type="ref">
        <hi rend="italics">Regency Ladies.</hi>
       </title>
@@ -25865,9 +25896,9 @@
      <bibl id="a563" default="NO">
       <ref targOrder="U">563.</ref>
       <idno>a563</idno>
-      <author>
-       <abbr expan="Melville, Lewis [i.e. Lewis Saul Benjamin 1874-1932]">---.</abbr>
-      </author>
+      <author><name type="last">Melville</name>, <name type="first">Lewis</name> [i.e., <name
+       type="aka">Lewis Saul Benjamin;</name>
+       <date>1874-1932</date>].</author>
       <title type="ref">
        <hi rend="italics">Stage Favourites of the Eighteenth Century.</hi>
       </title>
@@ -25897,9 +25928,9 @@
      <bibl id="a564" default="NO">
       <ref targOrder="U">564.</ref>
       <idno>a564</idno>
-      <author>
-       <abbr expan="Melville, Lewis [i.e. Lewis Saul Benjamin 1874-1932]">---.</abbr>
-      </author>
+      <author><name type="last">Melville</name>, <name type="first">Lewis</name> [i.e., <name
+       type="aka">Lewis Saul Benjamin;</name>
+       <date>1874-1932</date>].</author>
       <title type="ref">
        <hi rend="italics">The Windsor Beauties.</hi>
       </title>
@@ -25927,6 +25958,19 @@
        <publisher>Bell,</publisher>
        <date>1880.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Niobe</item>
+        <item>Alcestis </item>
+        <item>Atalanta </item>
+        <item>Klytemnaestra </item>
+        <item>Helene</item>
+        <item>Penelope</item>
+        <item>Iphigeneia</item>
+        <item>Kassandra</item>
+        <item>Laodameia</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a566" default="NO">
       <ref targOrder="U">566.</ref>
@@ -25963,9 +26007,8 @@
      <bibl id="a567" default="NO">
       <ref targOrder="U">567.</ref>
       <idno>a567</idno>
-      <author>
-       <abbr expan="Menzies, Sutherland [i.e. Elizabeth Stone]">---.</abbr>
-      </author>
+      <author><name type="last">Menzies</name>, <name type="first">Sutherland</name> [i.e., <name
+       type="aka">Elizabeth Stone</name>].</author>
       <title type="ref">
        <hi rend="italics">Royal Favourites.</hi>
       </title>
@@ -26125,8 +26168,10 @@
         <item>George Eliot</item>
         <item>Martha Washington</item>
         <item>Eugenie</item>
-        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale. *Pop Chart</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale.</item>
        </list>
+       <hi rend="bold">*Pop
+        Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> See <ref target="a174" targOrder="U">Mary Cowden
         Clarke</ref> and <ref target="a331" targOrder="U">Frank B. Goodrich.</ref>
@@ -26169,8 +26214,10 @@
         <item>Elizabeth Woodcock (Buried in Snow Near Cambridge)</item>
         <item>Bessie Frampton (Shipwrecked Returning from Canada)</item>
         <item>Milkmaid of Dort (Foiled Attack by Spaniards)</item>
-        <item>Margaret and May Brown, Isabella Armstrong (Fishergirls). *Pop Chart</item>
+        <item>Margaret and May Brown, Isabella Armstrong (Fishergirls).</item>
        </list>
+       <hi rend="bold">*Pop
+        Chart</hi>
       </note>
       <image n="no143">
        <imgName>Florence Nightingale</imgName>
@@ -26224,8 +26271,10 @@
         <item>Jane Taylor</item>
         <item>Mrs. Mary Martha Sherwood</item>
         <item n="HANNAH_MORE">Hannah More</item>
-        <item n="ELIZABETH_FRY">Elizabeth Fry. *Pop Chart</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry.</item>
        </list>
+       <hi rend="bold">*Pop
+        Chart</hi>
       </note>
      </bibl>
      <bibl id="a573" default="NO"><ref targOrder="U">573.</ref>
@@ -26288,8 +26337,10 @@
         <item>In the Social Maze, Alison Cockburn</item>
         <item>A Genius Wasted, Fanny Mendelssohn</item>
         <item n="CAROLINE_HERSCHEL">Only a Satellite, Caroline Herschel</item>
-        <item>A Great Woman Traveller, Ida Pfeiffer. *Pop Chart</item>
+        <item>A Great Woman Traveller, Ida Pfeiffer.</item>
        </list>
+       <hi rend="bold">*Pop
+        Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> Author of <title>
         <hi rend="italics">Harriet Martineau</hi>
@@ -26298,9 +26349,7 @@
      <bibl id="a576" default="NO">
       <ref targOrder="U">576.</ref>
       <idno>a576</idno>
-      <author>
-       <abbr expan="Miller, Florence Fenwick">---.</abbr>
-      </author>
+      <author><name type="last">Miller</name>, <name type="first">Florence Fenwick</name>.</author>
       <title type="ref">
        <hi rend="italics">Portraits of Women of the New Testament.</hi>
       </title>
@@ -26466,7 +26515,8 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Religious Tract Society,</publisher>
-       <date>[1903].</date>
+       <date>[1903];</date>
+       <date>1905.</date>
       </imprint>
       <note place="unspecified" anchored="yes">British Library.</note>
      </bibl>
@@ -26714,8 +26764,10 @@
         <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
         <item>Elizabeth of Siberia</item>
         <item>Anne Askew</item>
-        <item>Madame Guyon. *Pop Chart</item>
+        <item>Madame Guyon.</item>
        </list>
+       <hi rend="bold">*Pop
+        Chart</hi>
       </note>
       <image n="no472">
        <imgName>Elizabeth Fry</imgName>
