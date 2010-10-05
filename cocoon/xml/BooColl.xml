@@ -21862,6 +21862,7 @@
       <imprint>
        <pubPlace>Austin, TX:</pubPlace>
        <publisher>Steck,</publisher>
+       <date>1900;</date>
        <date>1915.</date>
       </imprint>
      </bibl>
@@ -21934,7 +21935,9 @@
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Appleton,</publisher>
-       <date>1855.</date>
+       <date>1855;</date>
+       <date>1856;</date>
+       <date></date>
       </imprint>
       <imprint>
        <pubPlace>London:</pubPlace>
@@ -21949,9 +21952,7 @@
      <bibl id="a450" default="NO">
       <ref targOrder="U">450.</ref>
       <idno>a450</idno>
-      <author>
-       <abbr expan="Jameson, Anna Brownell">---.</abbr>
-      </author>
+      <author><name type="last">Jameson</name>, <name type="first">Anna Brownell</name>.</author>
       <title type="ref">
        <hi rend="italics">Characteristics of Women, Moral, Poetical, and Historical.</hi>
       </title>
@@ -22128,9 +22129,7 @@
      <bibl id="a451" default="NO">
       <ref targOrder="U">451.</ref>
       <idno>a451</idno>
-      <author>
-       <abbr expan="Jameson, Anna Brownell">---.</abbr>
-      </author>
+      <author><name type="last">Jameson</name>, <name type="first">Anna Brownell</name>.</author>
       <title type="ref">
        <hi rend="italics">Legends of the Madonna: As Represented in the Fine Arts.</hi>
       </title>
@@ -22183,9 +22182,7 @@
      <bibl id="a452" default="NO">
       <ref targOrder="U">452.</ref>
       <idno>a452</idno>
-      <author>
-       <abbr expan="Jameson, Anna Brownell">---.</abbr>
-      </author>
+      <author><name type="last">Jameson</name>, <name type="first">Anna Brownell</name>.</author>
       <title type="ref">
        <hi rend="italics">Memoirs of the Beauties of the Court of Charles II. With Their Portraits,
         after Sir Peter Lely and Other Eminent Painters: Illustrating the Diaries of Pepys, Evelyn,
@@ -22260,9 +22257,7 @@
      </bibl>
      <bibl id="a453" default="NO"><ref targOrder="U">453.</ref>
       <idno>a453</idno>
-      <author>
-       <abbr expan="Jameson, Anna Brownell">---.</abbr>
-      </author>
+      <author><name type="last">Jameson</name>, <name type="first">Anna Brownell</name>.</author>
       <title type="ref">
        <hi rend="italics">Memoirs of Celebrated Female Sovereigns.</hi>
       </title>
@@ -22343,9 +22338,7 @@
      </bibl>
      <bibl id="a454" default="NO"><ref targOrder="U">454.</ref>
       <idno>a454</idno>
-      <author>
-       <abbr expan="Jameson, Anna Brownell">---.</abbr>
-      </author>
+      <author><name type="last">Jameson</name>, <name type="first">Anna Brownell</name>.</author>
       <title type="ref">
        <hi rend="italics">Lives of Celebrated Female Sovereigns and Illustrious Women.</hi>
       </title> Edited by <editor role="editor"><name type="first">Mary E.</name>
@@ -22407,9 +22400,7 @@
      </bibl>
      <bibl id="a455" default="NO"><ref targOrder="U">455.</ref>
       <idno>a455</idno>
-      <author>
-       <abbr expan="Jameson, Anna Brownell">---.</abbr>
-      </author>
+      <author><name type="last">Jameson</name>, <name type="first">Anna Brownell</name>.</author>
       <title type="ref">
        <hi rend="italics">Memoirs of the Loves of the Poets.</hi>
       </title>
@@ -22542,9 +22533,7 @@
      <bibl id="a456" default="NO">
       <ref targOrder="U">456.</ref>
       <idno>a456</idno>
-      <author>
-       <abbr expan="Jameson, Anna Brownell">---.</abbr>
-      </author>
+      <author><name type="last">Jameson</name>, <name type="first">Anna Brownell</name>.</author>
       <title type="ref">
        <hi rend="italics">Sacred and Legendary Art.</hi>
       </title>
@@ -22587,9 +22576,7 @@
      <bibl id="a457" default="NO">
       <ref targOrder="U">457.</ref>
       <idno>a457</idno>
-      <author>
-       <abbr expan="Jameson, Anna Brownell">---.</abbr>
-      </author>
+      <author><name type="last">Jameson</name>, <name type="first">Anna Brownell</name>.</author>
       <title type="ref">
        <hi rend="italics">Sisters of Charity: Catholic and Protestant; and The Communion of
         Labour.</hi>
@@ -22612,9 +22599,7 @@
      </bibl>
      <bibl id="a458" default="NO"><ref targOrder="U">458.</ref>
       <idno>a458</idno>
-      <author>
-       <abbr expan="Jameson, Anna Brownell">---.</abbr>
-      </author>
+      <author><name type="last">Jameson</name>, <name type="first">Anna Brownell</name>.</author>
       <title type="ref">
        <hi rend="italics">Visits and Sketches at Home and Abroad: With tales and miscellanies now
         first collected, and a new edition of the “Diary of an Ennuyee.”</hi>
@@ -22663,9 +22648,7 @@
      <bibl id="a459" default="NO">
       <ref targOrder="U">459.</ref>
       <idno>a459</idno>
-      <author>
-       <abbr expan="Jameson, Anna Brownell">---.</abbr>
-      </author>
+      <author><name type="last">Jameson</name>, <name type="first">Anna Brownell</name>.</author>
       <title type="ref">
        <hi rend="italics">Winter Studies and Summer Rambles in Canada.</hi>
       </title>
@@ -22744,6 +22727,7 @@
        <publisher>Wandser, Beardsley,</publisher>
        <date>1851;</date>
        <date>1852;</date>
+       <date>1855;</date>
        <date>1853;</date>
        <date>1857.</date>
       </imprint>
@@ -22776,6 +22760,8 @@
       <imprint>
        <pubPlace>Hartford, CT:</pubPlace>
        <publisher>J. Betts,</publisher>
+       <date>1874;</date>
+       <date>1879;</date>
        <date>1879.</date>
       </imprint>
       <note type="toc">
@@ -22791,6 +22777,9 @@
         <item>Marie Antoinette</item>
         <item n="MADAME_ROLAND">Madame Roland. *Pop Chart</item>
        </list>
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
      <bibl id="a462" default="NO">
@@ -22837,9 +22826,7 @@
      <bibl id="a464" default="NO">
       <ref targOrder="U">464.</ref>
       <idno>a464</idno>
-      <author>
-       <abbr expan="Jerrold, Walter and Clare">---.</abbr>
-      </author>
+    
       <title type="ref">
        <hi rend="italics">Five Queer Women.</hi>
       </title>
@@ -22875,10 +22862,9 @@
      </bibl>
      <bibl id="a465" default="NO"><ref targOrder="U">465.</ref>
       <idno>a465</idno>
-      <author><name type="last">Johnson</name>, <name type="first">Joseph</name></author>. <title
-       type="ref">
+      <author><name type="last">Johnson</name>, <name type="first">Joseph</name></author>
+     <author><name type="last">Johnson</name>, <name type="first">Joseph</name></author>  type="ref">
        <hi rend="italics">Brave Women and Their Deeds of Heroism.</hi>
-      </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Gall &amp; Inglis,</publisher>
@@ -22907,8 +22893,11 @@
         <item n="HANNAH_MORE">Mrs. Hannah More</item>
         <item n="POCAHONTAS">Pocahontas</item>
         <item>Lydia Sellon</item>
-        <item>Elizabeth Blackwell. *Pop Chart</item>
+        <item>Elizabeth Blackwell.</item>
        </list>
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> Bodleian &amp; Oldf. Bodleian also attributes to
        Jos. Johnson, b. <date>1822</date>, <title>
@@ -22921,9 +22910,7 @@
      <bibl id="a466" default="NO">
       <ref targOrder="U">466.</ref>
       <idno>a466</idno>
-      <author>
-       <abbr expan="Johnson, Joseph">---.</abbr>
-      </author>
+      <author><name type="last">Johnson</name>, <name type="first">Joseph</name></author>. 
       <title type="ref">
        <hi rend="italics">Clever Girls of Our Time and How They Became Famous Women; Whose Lives
         Furnish an Incentive and Encouragement to Effort and Endurance, and Whose Example Stimulates
@@ -22979,9 +22966,7 @@
      <bibl id="a467" default="NO">
       <ref targOrder="U">467.</ref>
       <idno>a467</idno>
-      <author>
-       <abbr expan="Johnson, Joseph">---.</abbr>
-      </author>
+      <author><name type="last">Johnson</name>, <name type="first">Joseph</name></author>. 
       <title type="ref">
        <hi rend="italics">Heroines of Our Time: Being Sketches of the Lives of Eminent Women: With
         Examples of Their Benevolent Works, Truthful Lives and Noble Deeds.</hi>
@@ -23005,16 +22990,17 @@
         <item n="HANNAH_MORE">Hannah More</item>
         <item>Mrs. (Mary Martha) Sherwood</item>
         <item n="JENNY_LIND">Jenny Lind</item>
-        <item n="CHARLOTTE_BRONTE">Charlotte Brontë. *Pop Chart</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë.</item>
        </list>
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
      <bibl id="a468" default="NO">
       <ref targOrder="U">468.</ref>
       <idno>a468</idno>
-      <author>
-       <abbr expan="Johnson, Joseph">---.</abbr>
-      </author>
+      <author><name type="last">Johnson</name>, <name type="first">Joseph</name></author>. 
       <title type="ref">
        <hi rend="italics">Noble Women of Our Time.</hi>
       </title>
@@ -23031,7 +23017,8 @@
        <pubPlace>New York:</pubPlace>
        <publisher>Nelson,</publisher>
        <date>1889;</date>
-       <date>1891.</date>
+       <date>1891;</date>
+       <date>1898.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -23039,7 +23026,7 @@
         <item>Mary Lyon</item>
         <item>Fidelia Fiske</item>
         <item>Miss de Broen</item>
-        <item>Miss Whatley</item>
+        <item>Miss Whately</item>
         <item>Miss Carpenter</item>
         <item>Mrs. Bowen Thompson</item>
         <item>Miss Macpherson</item>
@@ -23048,17 +23035,18 @@
         <item>Frances Ridley Havergal</item>
         <item>Catharine Tait</item>
         <item>Baroness Bunsen</item>
-        <item>Mrs. Augustus W. Hare. *Pop Chart</item>
+        <item>Mrs. Augustus W. Hare.</item>
        </list>
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> Bodleian </note>
      </bibl>
      <bibl id="a469" default="NO">
       <ref targOrder="U">469.</ref>
       <idno>a469</idno>
-      <author>
-       <abbr expan="Johnson, Joseph">---.</abbr>
-      </author>
+      <author><name type="last">Johnson</name>, <name type="first">Joseph</name></author>. 
       <title type="ref">
        <hi rend="italics">Willing Hearts and Ready Hands: or, The Labours and Triumphs of Earnest
         Women.</hi>
@@ -23069,7 +23057,8 @@
        <pubPlace>New York:</pubPlace>
        <publisher>Nelson,</publisher>
        <date>1869;</date>
-       <date>1873.</date>
+       <date>1873;</date>
+       <date>1922.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> Bodleian “Author of Living in Earnest.” Eighteen
        chapters in the “Deeds” manner, with collective-anonymous titles: 1. “In Filial Affection,”
@@ -29213,7 +29202,7 @@
         <item>Hannah F. Gould</item>
         <item>Lydia H. Sigourney</item>
         <item>Louisa Jane Hall</item>
-        <item>Lydia Jane Peirson</item>
+        <item>Lydia Jane Pierson</item>
         <item>Frances Sargent Osgood</item>
         <item>Emma O. Embury</item>
         <item>Caroline Gilman</item>
@@ -29222,6 +29211,7 @@
         <item>Luella J. B. Case</item>
         <item>Elizabeth S. Swift</item>
         <item>Elizabeth F. Ellet</item>
+        <item>Mary E. Lee</item>
         <item>Sarah O Mayo</item>
         <item>Mary E. Hewitt</item>
         <item>Lucy Hooper</item>
@@ -29273,7 +29263,7 @@
         <item>Mary L. Lawson</item>
         <item>Mrs. M. St. Leon Loud</item>
         <item>Cornelia da Ponte</item>
-        <item>Anna Cora Mowatt</item>
+        <item>Anna Cora Mowatt Ritchie</item>
         <item>Charlotte Cushman</item>
         <item>Charlotte M. S. Barnes</item>
         <item>Catharine E. Beecher</item>
@@ -29285,6 +29275,9 @@
         <item>Elizabeth Lloyd</item>
         <item>Blanchee Bennairde</item>
         <item>Mary J. Reed</item>
+        <item>Caroline Howard</item>
+        <item>Mrs. C. W. Du Bose</item>
+        <item>Essie B. Cheesborough</item>
        </list>
       </note>
      </bibl>
@@ -29320,9 +29313,7 @@
      <bibl id="a664" default="NO">
       <ref targOrder="U">664.</ref>
       <idno>a664</idno>
-      <author>
-       <abbr expan="Reed, Myrtle">---.</abbr>
-      </author>
+      <author><name type="last">Reed</name>, <name type="first">Myrtle</name> [1874-1911].</author>
       <title type="ref">
        <hi rend="italics">Happy Women.</hi>
       </title>
@@ -29343,9 +29334,11 @@
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item n="SISTER_DORA">Sister Dora</item>
         <item n="JENNY_LIND">Jenny Lind</item>
-        <item>Louisa Alcott</item>
-        <item n="QUEEN_VICTORIA">Queen Victoria. *Pop Chart</item>
+        <item>Louisa May Alcott</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria.</item>
        </list>
+       <hi rend="bold">*Pop
+        Chart</hi>
       </note>
       <image n="no413">
        <imgName>Queen Victoria</imgName>
@@ -29413,8 +29406,10 @@
         <item>Angelica Kauffmann</item>
         <item>Mary Baker</item>
         <item>Pope Joan</item>
-        <item n="JOAN_OF_ARC">Joan of Arc. *Pop Chart</item>
+        <item n="JOAN_OF_ARC">Joan of Arc.</item>
        </list>
+       <hi rend="bold">*Pop
+        Chart</hi>
       </note>
      </bibl>
      <bibl id="a668" default="NO">
@@ -29511,10 +29506,8 @@
      <bibl id="a672" default="NO">
       <ref targOrder="U">672.</ref>
       <idno>a672</idno>
-      <author>
-       <abbr expan="Richardson, Jerusha D[avidson Hunting] [Mrs. Aubrey Richardson]">---.
-        Mrs.</abbr>
-      </author>
+      <author><name type="last">Richardson</name>, <name type="first">Jerusha D[avidson
+       Hunting]</name> [<name type="aka">Mrs. Aubrey Richardson</name>].</author>
       <title type="ref">
        <hi rend="italics">Women of the Church of England.</hi>
       </title>
@@ -29542,7 +29535,8 @@
        <publisher>Phillips &amp; Hunt;</publisher>
        <pubPlace>Cincinnati, OH:</pubPlace>
        <publisher>Cranston &amp; Stowe,</publisher>
-       <date>1887.</date>
+       <date>1887;</date>
+       <date>1891.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -29609,8 +29603,10 @@
         <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
         <item>Agnes E. Jones</item>
         <item>Harriet Beecher Stowe</item>
-        <item>Harriet Hosmer. *Pop Chart</item>
+        <item>Harriet Hosmer.</item>
        </list>
+       <hi rend="bold">*Pop
+        Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> Making “no claim to originality,” the volumes
        testify to “the power of woman for good or evil,” and to the fact that “intellect has no sex”
@@ -29722,7 +29718,8 @@
        <pubPlace>Paris, and</pubPlace>
        <pubPlace>New York:</pubPlace>
        <publisher>Cassell,</publisher>
-       <date>1883.</date>
+       <date>1883;</date>
+       <date>1900.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -29839,8 +29836,10 @@
         <item>The Last Valois</item>
         <item>Study of an Actress [Adrienne Lecouvreur]</item>
         <item>The Queen of Cabals [Marie de Rohan]</item>
-        <item>Calamity Jane. *Pop Chart</item>
+        <item>Calamity Jane.</item>
        </list>
+       <hi rend="bold">*Pop
+        Chart</hi>
       </note>
      </bibl>
      <bibl id="a682" default="NO">
@@ -29888,9 +29887,7 @@
      <bibl id="a684" default="NO">
       <ref targOrder="U">684.</ref>
       <idno>a684</idno>
-      <author>
-       <abbr expan="Rolt-Wheeler, Ethel">---.</abbr>
-      </author>
+      <author><name type="last">Rolt-Wheeler</name>, <name type="first">Ethel</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of the Cell and Cloister.</hi>
       </title>
@@ -29968,6 +29965,7 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Unwin,</publisher>
+       <date>1892;</date>
        <date>1893.</date>
       </imprint>
       <note type="toc">
@@ -30038,7 +30036,7 @@
         <item>Miss Anne Killigrew</item>
         <item>Anne, Marchioness of Wharton</item>
         <item>Mrs. Taylor</item>
-        <item>Mrs. Aphara Behn</item>
+        <item>Mrs. Aphra Behn</item>
         <item>Lady Mary Chudleigh</item>
         <item>The Honorable Mary Monl</item>
         <item>Anne, Countess of Winchelsea</item>
@@ -30052,7 +30050,7 @@
         <item>Miss Mary Chandler</item>
         <item>Miss Eliza Heywood</item>
         <item>Miss Elizabeth Tollet</item>
-        <item>Mrs. Latettitia Pilkington</item>
+        <item>Mrs. Latetitia Pilkington</item>
         <item>Mrs. Mary Leapor</item>
         <item>Henrietta, Lady Lexborough</item>
         <item>Mrs. Pennington</item>
@@ -30203,9 +30201,7 @@
      <bibl id="a692" default="NO">
       <ref targOrder="U">692.</ref>
       <idno>a692</idno>
-      <author>
-       <abbr expan="Russell, William">---.</abbr>
-      </author>
+      <author><name type="last">Russell</name>, <name type="first">William</name>.</author>
       <title type="ref">
        <hi rend="italics">Extraordinary Women: Their Girlhood and Early Life.</hi>
       </title>
@@ -30251,8 +30247,9 @@
         <item>Madame de Genlis</item>
         <item>Catherine II, Empress of Russia</item>
         <item>Mrs. Opie</item>
-        <item>Maria-Theresa. *Pop Chart</item>
+        <item>Maria-Theresa.</item>
        </list>
+       
       </note>
       <note place="unspecified" anchored="yes"> Not to be associated with Compton MacKenzie's novel
        about lesbians, <title>
