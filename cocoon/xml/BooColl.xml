@@ -13579,7 +13579,7 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>np,</publisher>
-       <date>1880</date>
+       <date>1880;</date>
       </imprint>
       <imprint>
        <pubPlace>New York:</pubPlace>
@@ -13701,9 +13701,8 @@
      </bibl>
      <bibl id="a228" default="NO"><ref targOrder="U">228.</ref>
       <idno>a228</idno>
-      <author>
-       <abbr expan="Davis, Elizabeth [Lindsay]">---.</abbr>
-      </author>
+      <author><name type="last">Davis</name>, <name type="first">Elizabeth
+       [Lindsay]</name>.</author>
       <title type="ref">
        <hi rend="italics">The Story of the Illinois Federation of Colored Women's Clubs,
          <date>1900-1922</date>.</hi>
@@ -13732,16 +13731,23 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Seeley,</publisher>
+       <date>1903;</date>
        <date>1908;</date>
        <date>1909;</date>
        <date>1917;</date>
        <date>1919;</date>
-       <date>[1930?];</date>
+       <date>1925;</date>
+       <date>1930;</date>
       </imprint>
       <imprint>
        <pubPlace>Philadelphia:</pubPlace>
        <publisher>Lippincott,</publisher>
        <date>1909.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Ohio:</pubPlace>
+       <publisher>Schmul</publisher>
+       <date>1979</date>
       </imprint>
       <note type="toc">
        <list>
@@ -13777,9 +13783,7 @@
      </bibl>
      <bibl id="a230" default="NO"><ref targOrder="U">230.</ref>
       <idno>a230</idno>
-      <author>
-       <name type="last">Dawson</name>, <name type="first">Edwin Collas</name>.
-      </author>
+      <author><name type="last">Dawson</name>, <name type="first">Edwin Collas</name>.</author>
       <title type="ref">
        <hi rend="italics">Missionary Heroines in Many Lands.</hi>
       </title> [Extracted from <title type="source">
@@ -13816,6 +13820,7 @@
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Brentano's,</publisher>
+       <date>1909;</date>
        <date>1910.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> British Library. Author of series of tales of famous
@@ -14004,6 +14009,19 @@
         <item>Lady Mackintosh. *Pop Chart</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> Chapter Titles: Mary Washington, the Illustrious Matron; Martha Washington, the True Wife; 
+       Charlotte Bronte, the Worthy Daughter; Elizabeth Fry, the Newgate School-Mistress; Sarah Martin, the Jail Missionary; Margaret Mercer, the
+       Worker of Charity; Sarah Boardman Judson, the Teacher in the Wilds; Lady Russell, the Noble Dame;
+       Lucy Hutchinson, the Pattern of Domestic Virtue; Isabel the Catholic, the Friend of Columbus; Mrs. 
+       Elizabeth Rowe, the Earnest Christian; Maria Theresa, the Star of Australia; Madame Oberlin, the 
+       Pastor's Helpmate; Ann Letitia Barbauld, the Children's Favorite; Rebecca Motte, the Devoted Patriot; 
+       Madame Necker, the Estimable Governess; Caroline L. Herschel, the Patient Astronomer; Hannah More, the Quiet Reformer;
+       Anne Flaxmen, the Sculptor's Assistant; Mrs. Wordsworth, the Poet's Companion; Harriet Newell, the
+       Christian Heroine; Sarah Lanman Smith, the Missionary's Wife; Lady Warwick, the Laborer in the Vineyard;
+       Lady Mackintosh, the Guardien Angel       
+      </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <image n="no379">
        <imgName>Charlotte Bronte</imgName>
        <imgDesc>The Worthy Daughter.</imgDesc>
