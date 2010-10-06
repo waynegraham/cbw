@@ -10723,15 +10723,6 @@
        <publisher>Partridge,</publisher>
        <date>1910.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">A re-issue of <ref target="a160" targOrder="U">
-        <title>
-         <hi rend="italics">Four Noble Women and Their Work</hi>
-        </title>
-       </ref> and <ref target="a161" targOrder="U">
-        <title>
-         <hi rend="italics">Noble Work by Noble Women.</hi>
-        </title>
-       </ref></note>
       <note type="toc">
        <list>
         <item>Frances Willard</item>
@@ -10745,6 +10736,15 @@
         <item>Mrs. Gladstone</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes">A re-issue of <ref target="a160" targOrder="U">
+       <title>
+        <hi rend="italics">Four Noble Women and Their Work</hi>
+       </title>
+      </ref> and <ref target="a161" targOrder="U">
+       <title>
+        <hi rend="italics">Noble Work by Noble Women.</hi>
+       </title>
+      </ref></note>
       <image n="no298">
        <imgName>Frances Willard</imgName>
        <imgDesc>Frances Willard, Photo by Russell &amp; Sons</imgDesc>
@@ -14319,10 +14319,6 @@
        <date>1855;</date>
        <date>1856.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> This and two following Eddy collections closely
-       similar with different titles, acc. to Brumberg, <title>
-        <hi rend="italics">Mission for Life</hi>
-       </title>, 15. </note>
       <note type="toc">
        <list>
         <item>Harriet Newell</item>
@@ -14337,6 +14333,10 @@
         <item>Mary E. Van Lennep</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> This and two following Eddy collections closely
+       similar with different titles, acc. to Brumberg, <title>
+        <hi rend="italics">Mission for Life</hi>
+       </title>, 15. </note>
      </bibl>
      <bibl id="a248" default="NO"><ref targOrder="U">248.</ref>
       <idno>a248</idno>
@@ -15592,16 +15592,6 @@
        <publisher>Charles Wells Moulton; Buffalo, NY: n.p.,</publisher>
        <date>1893.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> Multiple female contributors, including Lucy Larcom,
-       Mrs. Ulysses S. Grant, Linda T. Guilford. “Some Women in American History”: Isabella of
-       Castile and Madame de Lafayette. Some collective-anonymous chapters: “The Women of Plymouth
-       Colony”; “Puritan Womanhood: A Power in America”; “Women in the Home”; “Women in Literature”;
-       “Women in Education and Science”; “Women in Philanthropy, Church Work, Home Missions, and
-       Charities”; "Women in Professions, Business, and Trade." Like <ref target="a245"
-        targOrder="U">Eagle, <title>
-         <hi rend="italics">The Congress of Women</hi>
-        </title> (<date>1894</date>)</ref>, a record associated with World's Columbian Exposition in
-       Chicago. </note>
       <note type="toc">
        <list>
         <item>What America Owes to Isabella of Castile and Madame La Fayette</item>
@@ -15664,6 +15654,16 @@
         <item>Exhibits by Women</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> Multiple female contributors, including Lucy Larcom,
+       Mrs. Ulysses S. Grant, Linda T. Guilford. “Some Women in American History”: Isabella of
+       Castile and Madame de Lafayette. Some collective-anonymous chapters: “The Women of Plymouth
+       Colony”; “Puritan Womanhood: A Power in America”; “Women in the Home”; “Women in Literature”;
+       “Women in Education and Science”; “Women in Philanthropy, Church Work, Home Missions, and
+       Charities”; "Women in Professions, Business, and Trade." Like <ref target="a245"
+        targOrder="U">Eagle, <title>
+         <hi rend="italics">The Congress of Women</hi>
+        </title> (<date>1894</date>)</ref>, a record associated with World's Columbian Exposition in
+       Chicago. </note>
      </bibl>
      <bibl id="a278" default="NO">
       <ref targOrder="U">278.</ref>
@@ -16174,8 +16174,11 @@
         <item>Catherine of Arragon</item>
         <item>Mrs. Elizabeth Carter</item>
         <item>Lady Pakington</item>
-        <item>Anne Countess of Winchelsea. *Pop Chart</item>
+        <item>Anne Countess of Winchelsea.</item>
        </list>
+       <note place="unspecified" anchored="yes">
+        <hi rend="bold">*Pop Chart</hi>
+       </note>
       </note>
       <image n="no485.CharlotteCorday">
        <imgName>Charlotte Corday</imgName>
@@ -22841,8 +22844,11 @@
         <item>Mary de la Riviere Manley</item>
         <item>Susanna Centlivre</item>
         <item>Eliza Haywood</item>
-        <item>Letitia Pilkington. *Pop Chart</item>
+        <item>Letitia Pilkington.</item>
        </list>
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
      <bibl id="a464A" default="NO"><ref targOrder="U">464A.</ref>
@@ -22956,8 +22962,11 @@
         <item>Ida Pfeiffer</item>
         <item>Mary Thorneycroft</item>
         <item>Mrs. Grant</item>
-        <item>Sarah Martin. *Pop Chart</item>
+        <item>Sarah Martin.</item>
        </list>
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> Bodleian Oldfield, Bodleian variously list
         <date>1875</date>, <date>1888</date>, <date>1890</date>, and same title, ed. J. Johnson and
@@ -24798,9 +24807,11 @@
         <item n="MADAME_ROLAND">Mme Roland</item>
         <item n="GRACE_DARLING">Grace Darling</item>
         <item n="SISTER_DORA">Sister Dora</item>
-        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale. <hi rend="bold">*Pop
-         Chart</hi> </item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale.</item>
        </list>
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> Preface: “The Book of Heroes should never be
        separated from the Book of Heroines” (vii), i.e. Mabie, <title>
@@ -26394,8 +26405,11 @@
         <item>Elizabeth Monroe</item>
         <item>Louisa Catherine Adams</item>
         <item>Rachel Jackson</item>
-        <item>Peggy Eaton. *Pop Chart</item>
+        <item>Peggy Eaton.</item>
        </list>
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
      <bibl id="a579" default="NO">
