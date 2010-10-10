@@ -14006,7 +14006,7 @@
         <item>Harriet Newell</item>
         <item>Sarah Lanman Smith</item>
         <item>Lady Warwick</item>
-        <item>Lady Mackintosh. *Pop Chart</item>
+        <item>Lady Mackintosh.</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Chapter Titles: Mary Washington, the Illustrious Matron; Martha Washington, the True Wife; 
@@ -17464,9 +17464,11 @@
         <item>Pauline Bonaparte</item>
         <item>Mademoiselle Georges</item>
         <item>Marquise de Paiva</item>
-        <item>The Red Tsaritza. *Pop Chart</item>
+        <item>The Red Tsaritza. </item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a327" default="NO"><ref targOrder="U">327.</ref>
       <idno>a327</idno>
@@ -17479,6 +17481,7 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Hutchinson,</publisher>
+       <date>1927;</date>
        <date>1928.</date>
       </imprint>
      </bibl>
@@ -17521,6 +17524,9 @@
        <pubPlace>New York:</pubPlace>
        <publisher>Longmans, Green,</publisher>
        <date>1932.</date>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Negro Universities,</publisher>
+       <date>1969.</date>
       </imprint>
      </bibl>
      <bibl id="a330" default="NO">
@@ -17576,8 +17582,11 @@
         <item n="ANN_HASSELTINE_JUDSON">Anne Hasseltine Judson</item>
         <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
         <item n="QUEEN_VICTORIA">Victoria</item>
-        <item>Eugenie. *Pop Chart Nineteen illustrations. and subjects</item>
+        <item>Eugenie. </item>
        </list>
+       <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
+       <note place="unspecified" anchored="yes"> Nineteen illustrations and subjects</note>
       </note>
       <note place="unspecified" anchored="yes"> Also published as <title>
         <hi rend="italics">World-Famous Women</hi>
@@ -17721,8 +17730,10 @@
         <item>Mary, Queen of Scots</item>
         <item n="QUEEN_ELIZABETH_I">Elizabeth, Queen of England</item>
         <item>Isabella of Spain</item>
-        <item n="JOAN_OF_ARC">Joan of Arc. *Pop Chart</item>
+        <item n="JOAN_OF_ARC">Joan of Arc. </item>
        </list>
+       <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+        Chart</hi></note>
       </note>
       <image n="no391">
        <imgName>Joan of Arc</imgName>
@@ -17884,9 +17895,8 @@
      <bibl id="a337" default="NO">
       <ref targOrder="U">337.</ref>
       <idno>a337</idno>
-      <author>
-       <abbr expan="Gracey, Annie Ryder [“Mrs. J. T. Gracey”]">---.</abbr>
-      </author>
+      <author><name type="last">Gracey</name>, <name type="first">Annie Ryder</name> [“<name
+       type="aka">Mrs. J. T. Gracey</name>”].</author>
       <title type="ref">
        <hi rend="italics">Medical Work of the Woman's Foreign Missionary Society: Methodist
         Episcopal Church.</hi>
@@ -17895,6 +17905,10 @@
        <pubPlace>Dansville, NY:</pubPlace>
        <publisher>Bunnell,</publisher>
        <date>1881.</date>
+       <pubPlace>Boston:</pubPlace>
+       <publisher>Women's Foreign Missionary Society,</publisher>
+       <date>1888.</date>
+       
       </imprint>
       <note place="unspecified" anchored="yes">NOT:=religious miscellany. Partially
        biographical.</note>
