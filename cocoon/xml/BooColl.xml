@@ -17233,23 +17233,21 @@
      <bibl id="a316" default="NO">
       <ref targOrder="U">316.</ref>
       <idno>a316</idno>
-      <author>
-       <abbr expan="Gearey, Caroline">---.</abbr>
-      </author>
+      <author><name type="last">Gearey</name>, <name type="first">Caroline</name></author>
       <title type="ref">
        <hi rend="italics">Three Empresses.</hi>
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Digby &amp; Long,</publisher>
-       <date>1893.</date>
+       <date>1893;</date>
+       <date>1894.</date>
       </imprint>
      </bibl>
      <bibl id="a317" default="NO">
       <ref targOrder="U">317.</ref>
       <idno>a317</idno>
-      <author>
-       <abbr expan="Gearey, Caroline">---.</abbr>
+      <author><name type="last">Gearey</name>, <name type="first">Caroline</name>
       </author>
       <title type="ref">
        <hi rend="italics">Two French Queens, and Other Sketches.</hi>
@@ -17296,9 +17294,7 @@
      <bibl id="a319" default="NO">
       <ref targOrder="U">319.</ref>
       <idno>a319</idno>
-      <author>
-       <abbr expan="Gerard, Frances A">---.</abbr>
-      </author>
+      <author><name type="last">Gerard</name>, <name type="first">Frances A.</name></author>
       <title type="ref">
        <hi rend="italics">Some Fair Hibernians: Being a Supplementary Volume to Some Celebrated
         Irish Beauties of the Last Century.</hi>
@@ -17370,7 +17366,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>TOC : From Priestess to Prostitute: The Greek and Roman Stage</item>
+        <item>From Priestess to Prostitute: The Greek and Roman Stage</item>
         <item>Hrotsvitha, A Tenth-Century Nun: the First Woman Playwright</item>
         <item>The Commedian Appears: The First Actresses in Italy</item>
         <item>Isabella Andreini: Europe’s Prima Donna Innamorata</item>
@@ -17405,7 +17401,9 @@
      <bibl id="a324" default="NO">
       <ref targOrder="U">324.</ref>
       <idno>a324</idno>
-      <author><name type="last">Gilman</name>, <name type="first">Agness Geneva</name>.</author>
+      <author><name type="last">Gilman</name>, <name type="first">Agness Geneva</name>, <name
+       type="first">Gertrude Marcelle</name>
+       <name type="last">Gilman</name> </author>
       <title type="ref">
        <hi rend="italics">Who's Who in Illinois: Women-Makers of History.</hi>
       </title>
