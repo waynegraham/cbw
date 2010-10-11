@@ -17960,7 +17960,9 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Marshall Japp,</publisher>
-       <date>1880.</date>
+       <date>1880;</date>
+       <publisher>n.p.,</publisher>
+       <date>1883.</date>
       </imprint>
       <imprint>
        <pubPlace>New York:</pubPlace>
@@ -17978,9 +17980,11 @@
         <item>Baroness Bunsen</item>
         <item>Amelia Sieveking</item>
         <item>Mary Carpenter</item>
-        <item>Catherine Tait. *Pop Chart</item>
+        <item>Catherine Tait.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <image n="no419">
        <imgName>Mary Somerville</imgName>
        <imgDesc>Mary Somerville</imgDesc>
