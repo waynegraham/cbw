@@ -18108,9 +18108,8 @@
      <bibl id="a342" default="NO">
       <ref targOrder="U">342.</ref>
       <idno>a342</idno>
-      <author>
-       <abbr expan="Green, Mary Anne Everett [Wood]">---.</abbr>
-      </author>
+      <editor role="editor"><name type="last">Green</name>, <name type="first">Mary Anne
+       Everett</name> [<name type="aka">Wood</name>],</editor> ed.
       <title type="ref">
        <hi rend="italics">Lives of the Princesses of England from the Norman Conquest [to
          <date>1670</date>].</hi>
@@ -18158,7 +18157,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>1. Sophia Dorothea of Celle, Wife of George I</item>
+        <item>Sophia Dorothea of Celle, Wife of George I</item>
         <item>Caroline of Ansach, Queen of George II. Amelia Elizabeth Caroline of Brunswick, Queen
          of George IV. Adelaide of Saxe-Meiningen, Queen of William IV</item>
        </list>
@@ -18188,6 +18187,24 @@
        <date>1901;</date>
        <date>1905.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Saint Agnes</item>
+        <item>Saint Gertrude</item>
+        <item>Saint Rose of Lima</item>
+        <item>Saint Katharine of Siena</item>
+        <item>Saint Genevieve</item>
+        <item>Saint Martina</item>
+        <item>Saint Clara</item>
+        <item>Saint Bibiana</item>
+        <item>Blessed Marguerite Marie</item>
+        <item>Saint Barbara</item>
+        <item>Saint Zita</item>
+        <item>Saint Cecilia</item>
+        <item>Saint Teresa</item>
+        <item>Conclusion</item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes">Women saints.</note>
       <image n="no353">
        <imgName>The Dawn of Holiness</imgName>
@@ -18426,9 +18443,7 @@
      <bibl id="a350" default="NO">
       <ref targOrder="U">350.</ref>
       <idno>a350</idno>
-      <author>
-       <abbr expan="Griswold, Rufus Wilmot">---.</abbr>
-      </author>
+      <author><name type="last">Griswold</name>, <name type="first">Rufus Wilmot</name>.</author>
       <title type="ref">
        <hi rend="italics">The Republican Court; or, American Society in the Days of Washington. With
         Twenty-One Portraits of Distinguished Women, Engraved from Original Pictures by Woolaston,
@@ -18507,9 +18522,11 @@
         <item>Emily Palmerston</item>
         <item>Ideal: Lady Muriel James</item>
         <item>Sophia Swinburne</item>
-        <item>Julie de Goncourt. *Pop Chart</item>
+        <item>Julie de Goncourt.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a353" default="NO">
       <ref targOrder="U">353.</ref>
