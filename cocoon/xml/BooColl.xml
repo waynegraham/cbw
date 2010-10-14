@@ -10246,7 +10246,7 @@
        <date>1859;</date>
        <date>1861.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Eras in Woman’s Life </item>
         <item>Josephine</item>
@@ -10996,6 +10996,31 @@
        <publisher>M.W. Dodd</publisher>
        <date>1870.</date>
       </imprint>
+      <note type="Chapter Titles">
+       <list>
+        <item>Ministry</item>
+        <item>Mary, the Mother of Our Lord</item>
+        <item>Mary Magdalene</item>
+        <item>Salome</item>
+        <item>The Window of Nain</item>
+        <item>The Syrophenician</item>
+        <item>The Sisters of Bethany</item>
+        <item>The Unnamed Women</item>
+        <item>The Two Alabaster Boxes</item>
+        <item>The Three Wakings</item>
+        <item>The Golden Age in the Present</item>
+        <item>The Poet's Food</item>
+        <item>A True Dream</item>
+        <item>The Apline Gentian</item>
+        <item>The Forget-Me-Not</item>
+        <item>To A Redbreast</item>
+        <item>Canticum Solis</item>
+        <item>Nature No Self-Acting Instrument</item>
+        <item>On the Grave of a Faithful Dog</item>
+        <item>The Three Trances</item>
+        <item>On the Death of the Prince Consort</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a167" default="NO"><ref targOrder="U">167.</ref>
       <idno>a167</idno>
@@ -11194,7 +11219,7 @@
        <date>1845;</date>
        <date>1849.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>I. Comprising the Women of Asia and Africa</item>
         <item>II. Comprising the Women of Europe, America, and South Sea Islands</item>
@@ -11263,7 +11288,7 @@
        <publisher>Poe &amp; Hitchcock,</publisher>
        <date>1863.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>The Mother of Reformers—Susannah Wesley</item>
         <item>The Wife of Luther—Catherine von Bora</item>
@@ -11508,7 +11533,7 @@
        <publisher>Tinsley,</publisher>
        <date>1879.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Warlike Goddesses</item>
         <item>The Amazons</item>
@@ -11646,7 +11671,7 @@
        <pubPlace>London,</pubPlace>
        <date>1875.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale, the Soldier's Friend</item>
         <item n="ELIZABETH_FRY">Elizabeth Fry, the Earnest Philanthropist</item>
@@ -11766,7 +11791,7 @@
       </imprint>
       <note place="unspecified" anchored="yes">
       </note>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Mother of Washington</item>
         <item>Wife of Washington</item>
@@ -12423,7 +12448,7 @@
        <publisher>Collins's Clear-Type Press,</publisher>
        <date>[1909].</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item n="CAROLINE_HERSCHEL">British Library. No. 6: Eminent Women . TOC: Caroline
          Herschel</item>
@@ -12469,7 +12494,7 @@
        <publisher>Benziger,</publisher>
        <date>1928.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>“Darlugdacha: A Little Schoolgirl of Saint Brigid (Circa A.D. 490)”</item>
         <item>“Saint Elizabeth: A Little German Schoolgirl of the Middle Ages”</item>
@@ -12522,6 +12547,32 @@
        <date>1920;</date>
        <date>1930.</date>
       </imprint>
+      <note type="Chapter Titles">
+       <list>
+        <item>The Mothers of 'Nintey-Eight</item>
+        <item>The Mother of the Emmets</item>
+        <item>The Mother of Lord Edward Fitzgerald</item>
+        <item>The Mother of the Sheareses</item>
+        <item>The Mother of the Teelings</item>
+        <item>The Wives of 'Ninety-Eight</item>
+        <item>The Wife of Theobold Wolfe Tone</item>
+        <item>The Wife of Thomas Addis Emmet</item>
+        <item>The Wife of Samuel Neilson</item>
+        <item>The Wife of Lord Edward Fitzgerald</item>
+        <item>The Sister of Henry Joy McCracken</item>
+        <item>Some Other Sisters of 'Ninety-Eight</item>
+        <item>Mary Anne Emmet</item>
+        <item>Mary Tone</item>
+        <item>Lady Lucy Fitzgerald</item>
+        <item>Julia Sheares</item>
+        <item>Miss Byrne</item>
+        <item>Miss Teeling</item>
+        <item>Miss Hazlett</item>
+        <item>Sarah Curran and Anne Devlin</item>
+        <item>Some Other Romances of 'Ninety-Eight</item>
+        <item>Some Heroines of 'Ninety-Eight</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a195" default="NO"><ref targOrder="U">195.</ref>
       <idno>a195</idno>
@@ -12825,7 +12876,7 @@
        <date>1852.</date>
       </imprint>
       <note place="unspecified" anchored="yes">Bodleian</note>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Vol. 1: Eve</item>
         <item>Sarah</item>
@@ -12873,7 +12924,7 @@
        <publisher>James Pott,</publisher>
        <date>1907.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Introduction: Fashion in Femininity</item>
         <item>Barbara, Duchess of Cleveland</item>
@@ -14418,6 +14469,22 @@
        <date>1895;</date>
        <date>1924.</date>
       </imprint>
+      <note type="Chapter Titles">
+       <list>
+        <item>Consorts and Relicts</item>
+        <item>Women of Affairs</item>
+        <item>"Double-Tongued and Naughty Women"</item>
+        <item>Boston Neighbors</item>
+        <item>A Fearfull Female Travailler</item>
+        <item>Two Colonial Adventuresses</item>
+        <item>The Universal Friend</item>
+        <item>Eighteenth-Century Manners</item>
+        <item>Their Amusements and Accomplishments</item>
+        <item>Daughters of Liberty</item>
+        <item>A Revolutionary Housewife</item>
+        <item>Fireside Industries.</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a247" default="NO">
       <ref targOrder="U">247.</ref>
@@ -14563,7 +14630,7 @@
        <date>1864</date>
        <date>1870.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>(Edinburgh n.d.): Isabel the Fair, Queen of England</item>
         <item>Philippa of Hainault, Queen of England</item>
@@ -14834,6 +14901,23 @@
       <note place="unspecified" anchored="yes"> The table of contents mixes general section titles
        (“The Early Aristocracy of New England”) with named biographical subjects (some men): Mrs.
        Jay, Mrs. Adams, etc. </note>
+      <note type="List of Portraits">
+       <list>
+        <item>Mrs. J.J. Roosevelt</item>
+        <item>Mrs. John Jay</item>
+        <item>Mrs. John Hancock</item>
+        <item>Mrs. Benjamin H. Field</item>
+        <item>Mrs. President Polk</item>
+        <item>Mrs. Sallie Ward Hunt</item>
+        <item>Mrs. Harrison Gray Otis</item>
+        <item>Mrs. Senator Crittenden</item>
+        <item>Mrs. James W. White</item>
+        <item>Mrs. Coventry Waddell</item>
+        <item>Madame Le Vert</item>
+        <item>Mrs. W. A. Cheatham</item>
+        <item>Mrs. Jessie Benton Frémont</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a258" default="NO">
       <ref targOrder="U">258.</ref>
@@ -14853,7 +14937,7 @@
        <date>1859.</date>
       </imprint>
       <note place="unspecified" anchored="yes">Bodleian unseen</note>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>The Early Ages</item>
         <item>The Fifteenth Century</item>
@@ -15094,7 +15178,7 @@
        <publisher>Root &amp; Smith,</publisher>
        <date>1869.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Women of Fashion</item>
         <item>Women of Pleasure</item>
@@ -15140,7 +15224,7 @@
        <date>1892</date>
        <date>1902.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Introductory remarks</item>
         <item>Natural Evidence</item>
@@ -15181,7 +15265,7 @@
       </imprint>
       <note place="unspecified" anchored="yes">NOT:=advice. Part of Ellis's bestselling series of
        guides for women in domestic roles.</note>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Characteristics of the Women of England</item>
         <item>Influence of the Women of England</item>
@@ -15380,6 +15464,18 @@
        <publisher>Bell,</publisher>
        <date>1905.</date>
       </imprint>
+      <note type="Chapter Titles">
+       <list>
+        <item>The Courts of Henry VIII</item>
+        <item>Mary Stuart and Some of Her Contemporaries</item>
+        <item>The Luck of the Stuarts</item>
+        <item>Cavalier and Jacobite Beauties</item>
+        <item>Some Beautiful Frenchwomen</item>
+        <item>Heroines of the French Revolution and Empire</item>
+        <item>Beautiful Actresses</item>
+        <item>Powder and Patches</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a270" default="NO"><ref targOrder="U">270.</ref>
       <idno>a270</idno>
@@ -15398,7 +15494,7 @@
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 153-156, 201.</xref>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Introduction by Henry C. Ewart</item>
         <item n="QUEEN_VICTORIA">Queen Victoria by Donald MacLeod</item>
@@ -15475,7 +15571,7 @@
         targOrder="U">Williams, <title>
          <hi rend="italics">Heroines of India</hi>
         </title></ref>, published in London (<date>n.d.</date>). </note>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Women Made Famous by Imperial Decree: Suicides, Widows, Filial Daughters</item>
         <item>Women Made Famous by the Voice of the People: Filial Daughters</item>
@@ -15574,6 +15670,32 @@
       <note place="unspecified" anchored="yes"><xref targOrder="U" from="ROOT" to="DITTO"
         >Riches;</xref> not British Library. or WorldCat. Possibly by <ref target="a220"
         targOrder="U">John Maw Darton?</ref></note>
+      <note type="Darton's Chapter Titles">
+       <list>
+        <item>Margaret Roper, Daughter of Sir Thomas More</item>
+        <item>"Little Miss Burney"</item>
+        <item>Laura Bridgman</item>
+        <item>Felicia Hemans</item>
+        <item>Harriet Martineau</item>
+        <item>Harriet Beecher Stowe</item>
+        <item>Elizabeth Le Brun</item>
+        <item>Madame Guyon</item>
+        <item>Madame de Stael</item>
+        <item>The Queen</item>
+        <item>Princess Charlotte</item>
+        <item>Miss Frederika Bremer</item>
+        <item>Margaret, Duchess of Newcastle</item>
+        <item>Miss Marsh</item>
+        <item>Caroline Chisholm</item>
+        <item>Miss Lydia Child</item>
+        <item>Dowager Duchess of Sutherland</item>
+        <item>Jenny Lind</item>
+        <item>Princess of Wales</item>
+        <item>Princess Louise</item>
+        <item>Mrs. C. L. Balfour</item>
+        <item>Baroness Burdett Coutts</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a274" default="NO">
       <ref targOrder="U">274.</ref>
@@ -15706,7 +15828,7 @@
        <publisher>Charles Wells Moulton; Buffalo, NY: n.p.,</publisher>
        <date>1893.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>What America Owes to Isabella of Castile and Madame La Fayette</item>
         <item>Columbus at Sante Fe</item>
@@ -15941,7 +16063,7 @@
        <date>1906;</date>
        <date>1907.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>The Duchess of Mazarin</item>
         <item>Henrietta, Duchess of Orleans</item>
@@ -16178,7 +16300,7 @@
        <publisher>Nisbet,</publisher>
        <date>1901.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Preface</item>
         <item>Introduction</item>
@@ -16577,18 +16699,44 @@
         Blessington</ref>, <ref target="a134" targOrder="U">Burke</ref>, and <ref target="a452"
         targOrder="U">Jameson</ref>. "Gallery" is a literal and figurative premise for at least
        seventeen collections in this bibliography</note>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
-        <item>Julia</item>
-        <item>Marianne</item>
-        <item>Nature’s Favourrite</item>
+        <item>Quiet Like a Nun</item>
+        <item>A Thing to Bless</item>
+        <item>When to the Session of Sweet Silent Thoughts</item>
+        <item>With Eyes Bright in the Lustre</item>
+        <item>They That My Trust Must Grow</item>
+        <item>On Thy Sweet Brow Is Sorrow</item>
+        <item>Some Please Page Shall Charm</item>
+        <item>A Creature Not Too Bright or Good</item>
+        <item>That Piece of Song, That Old and Antique Song</item>
+        <item>The Young Olympia</item>
+        <item>The Widow</item>
+        <item>The May Queen</item>
+        <item>The Ladye Adeline</item>
+        <item>Medora</item>
+        <item>Aurora</item>
+        <item>The Fair Patrician</item>
+        <item>Nature's Favorite</item>
+        <item>Eleanore</item>
         <item>Genevieve</item>
+        <item>Ruth</item>
         <item>The Maid of Lismore</item>
         <item>The Spirit of Norman Abbey</item>
+        <item>Erinna</item>
+        <item>Caroline</item>
+        <item>The Gondola</item>
+        <item>The Pleasing Thought</item>
+        <item>Isabel</item>
+        <item>The Shade of Sadness</item>
         <item>The Passion Flower</item>
-        <item>Gertrude of Wyoming</item>
+        <item>The Wild Flower</item>
+        <item>Gertude of Wyoming</item>
+        <item>Margarita</item>
         <item>Edderline</item>
+        <item>The Gleaner</item>
         <item>The Dreamer</item>
+        <item>Emily</item>
        </list>
       </note>
      </bibl>
@@ -16643,6 +16791,19 @@
        <publisher>Dutton,</publisher>
        <date>1902.</date>
       </imprint>
+      <note type="Chapter Titles">
+       <list>
+        <item>The Songstress in Exile:Lady Grisell Hume</item>
+        <item>The Songstress in Social Life: Mrs. Alison Cockburn</item>
+        <item>The Songstress of Flodden Field: Miss Jean Elliot</item>
+        <item>The Songstress of Sentiment: Miss Susanna Blamire</item>
+        <item>Singers of Heather and Hearth:Jean Glover and Elizabeth Hamilton</item>
+        <item>The Songstress Incognita:Lady Anne Lindsay</item>
+        <item>The Queen of Songstresses:Carolina, Baroness Nairne</item>
+        <item>The Blue-Stocking Songstress: Miss Joanna Baillie</item>
+        <item>The Singer of the Swan-Song of the Spindle-Side: Janet Hamilton</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a299" default="NO">
       <ref targOrder="U">299.</ref>
@@ -16849,7 +17010,7 @@
        similar publication histories, and compare those by <ref target="a305" targOrder="U">John
         Frost</ref> between <date>1854-1869</date>. Various editions widely available, with several
        reprints in the <date>1990s</date>. </note>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Woman as Pioneer</item>
         <item>Woman’s Work in Floods and Storms</item>
@@ -16943,7 +17104,7 @@
        Evans in <date>1859</date> in Pennsylvania. Its first page and running headers read: “Heroic
        Women of the West.” Compare title variations of this collection with those by Fowler from
         <date>1876</date> on. Frost [<date>1800-1859</date>], “LL.D.,” prolific writer of histories. </note>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Woman as Pioneer</item>
         <item>Woman’s Work in Floods and Storms</item>
@@ -17052,7 +17213,7 @@
        <publisher>Constable,</publisher>
        <date>1905.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>The Unacknowledged Wife of George IV (Mrs. Fitzherbert)</item>
         <item>Nelson's Lady Hamilton</item>
@@ -21611,6 +21772,43 @@
        <date>1888;</date>
        <date>1892.</date>
       </imprint>
+      <note type="Chapter Titles">
+       <list>
+        <item>MThe Installation at the Tuileries</item>
+        <item>A Visit from the National Assembly</item>
+        <item>Paris at the Close of 1789</item>
+        <item>The Execution of the Marquis de Favras</item>
+        <item>The Dauphin and Madame Royale</item>
+        <item>The Royal Family at Saint Cloud</item>
+        <item>Marie Antoinette's Interview with Mirabeau</item>
+        <item>The Festival of the Federation</item>
+        <item>Mirabeau's Double Role</item>
+        <item>The Departure of the King's Aunts</item>
+        <item>The Knights of the Poniard</item>
+        <item>The Death of Mirabeau</item>
+        <item>The Religious Question</item>
+        <item>The Holy Week of 1791</item>
+        <item>Preparation for Flight</item>
+        <item>June Twentieth,1791</item>
+        <item>The Departure</item>
+        <item>June Twentieth, 1791,in Paris</item>
+        <item>The Journey</item>
+        <item>The Arrest</item>
+        <item>The Night at Varennes</item>
+        <item>The Departure from Varennes</item>
+        <item>The Return</item>
+        <item>Marie Antoinette and Barnave</item>
+        <item>Pétion's Account</item>
+        <item>The Return to the Tulieries</item>
+        <item>The Captivity in the Tuileries</item>
+        <item>Paris During the Suspension of Royalty</item>
+        <item>The Emigration</item>
+        <item>Acceptance of the Constitution</item>
+        <item>Marie Antoinette's Last Evening at the Theatre</item>
+        <item>The Duke of Orleans in 1791</item>
+        <item>The Return of the Princess de Lamballe to the Tuileries</item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes"> NOT:=auto/biography. Note series of associated
        titles: <title>
         <hi rend="italics">Famous Women of the French Court</hi>
@@ -21643,7 +21841,7 @@
       </imprint>
       <note place="unspecified" anchored="yes"> NOT:=auto/biography. Marie Louise, Empress, Consort
        of Napoleon I. </note>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Marie Louise at Saint Cloud</item>
         <item>Moscow</item>
@@ -21787,10 +21985,24 @@
        <date>1894;</date>
        <date>1894.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
-        <item>Marguerite, Queen, Consort of Henry II of Navarre</item>
-        <item>Catherine de Medicis, Queen, Consort of Henry II of France</item>
+        <item>The Chateau of Versailles</item>
+        <item>Louis XIV and His Court in 1682</item>
+        <item>Queen Marie Thérèse</item>
+        <item> Madame de Montespan in 1682</item>
+        <item>Madame de Maintenon in 1682</item>
+        <item>The Bavarian Dauphiness</item>
+        <item>The Marriage of Madame de Maintenon</item>
+        <item>Madame de Maintenon's Apartment</item>
+         <item>The Marquise de Caylus</item>
+         <item>Madame de Maintenon and the Gentlewomen of Saint-Cyr</item>
+         <item>The Duchess of Orleans</item>
+         <item>Madame de Maintenon As A Political Woman</item>
+         <item>Madame de Maintenon's Letters</item>
+         <item>The Old Age of Madame de Montespan</item>
+         <item>The Daughters of Louis XIV</item>
+         <item>The Ducess of Burgundy </item>
        </list>
       </note>
      </bibl>
@@ -21859,7 +22071,7 @@
         <item>Carmelite Novice</item>
         <item>Marie Antoinette</item>
         <item>Madame Du Babry</item>
-        <item>The Daughiness and Maria Theresa</item>
+        <item>The Dauphiness and Maria Theresa</item>
        </list>
       </note>
      </bibl>
@@ -21933,7 +22145,7 @@
         <item>Mrs. Giles and Her Circle</item>
         <item>Mrs. Macpherson</item>
         <item>Georgiana McCrae</item>
-        <item n="GRACE_DARLING">“Grace Darling” of Western Australia</item>
+        <item n="GRACE_DARLING">“Grace Darling" Western Australia</item>
         <item>Mrs. Frances</item>
         <item>Lucy Osburn</item>
         <item>Lady Murray</item>
