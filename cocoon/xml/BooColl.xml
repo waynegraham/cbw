@@ -23164,6 +23164,25 @@
         targOrder="U">Burke</ref>, and <ref target="a452" targOrder="U">Jameson</ref>. "Gallery" is
        a literal and figurative premise for at least seventeen collections in this bibliography.
        Clare Jerrold also wrote three individual biographies of Victoria. </note>
+      <note type="Chapter Titles">
+       <list>
+        <item>Princess Victoria's Relatives</item>
+        <item>Princess Victoria's Mother and Uncle</item>
+        <item>Princess Victoria's Tuition in Politics</item>
+        <item>Princess Victoria's Suitors</item>
+        <item>Queen Victoria's Accession</item>
+        <item>Queen Victoria's Advisers</item>
+        <item>Queen Victoria's Circle</item>
+        <item>Queen Victoria's Prime Minister</item>
+        <item>Queen Victoria's Ladies and Lovers</item>
+        <item>Queen Victoria's Disloyal Subjects</item>
+        <item>Queen Victoria's Tragic Mistake</item>
+        <item>Queen Victoria's Love</item>
+        <item>Queen Victoria's Early Married Life</item>
+        <item>Queen Victoria's Tory Ministry</item>
+        <item>Queen Victoria's Home</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a463" default="NO">
       <ref targOrder="U">463.</ref>
@@ -23428,10 +23447,28 @@
        <date>1873;</date>
        <date>1922.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> Bodleian “Author of Living in Earnest.” Eighteen
-       chapters in the “Deeds” manner, with collective-anonymous titles: 1. “In Filial Affection,”
-       2. “In Sisterly Affection,” 3. “In Wifely Companionship,” 6. “In Growth and Culture,” 11. “In
-       Deprivation,” 14. “In New Fields of Labour.” </note>
+      <note type="Chapter Titles">
+       <list>
+        <item>In Filial Affection</item>
+        <item>In Sisterly Affection</item>
+        <item>In Wifely Companionship</item>
+        <item>In Maternal Solicitude</item>
+        <item>In Loving and Serving</item>
+        <item>In Growth and Culture</item>
+        <item>In Thought and Imagination</item>
+        <item>In Effort and Struggle</item>
+        <item>In Courage and Bravery</item>
+        <item>In Sickness and Suffering</item>
+        <item>In Deprivation</item>
+        <item>In Depressing Labour</item>
+        <item>In "Savage" Life</item>
+        <item>In New Fields of Labour</item>
+        <item>In Influence and Discipline</item>
+        <item>In Taste</item>
+        <item>In Victory and Acvievement</item>
+        <item>In the Higher and Holier Life</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a470" default="NO">
       <ref targOrder="U">470.</ref>
@@ -23486,7 +23523,7 @@
       </imprint>
       <note place="unspecified" anchored="yes"> Various chapters feature “The first woman novelist:
        Fanny Burney,” Austen, Charlotte Brontë, Eliot: “The Great Four.” </note>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Introduction: Before Miss Burney</item>
         <item>The First Woman Novelist: Fanny Burney</item>
@@ -25214,6 +25251,30 @@
        <publisher>Holt,</publisher>
        <date>1911.</date>
       </imprint>
+      <note type="Chapter Titles">
+       <list>
+        <item>The Making of an Empress</item>
+        <item>The End of the Golden Age</item>
+        <item>The Wives of Caligula</item>
+        <item>Valeria Messalina</item>
+        <item>The Mother of Nero</item>
+        <item>The Wives of Nero</item>
+        <item>The Empresses of the Transition</item>
+        <item>Plotina</item>
+        <item>Sabrina, the Wife of Hadrian</item>
+        <item>The Wives of the Stoics</item>
+        <item>The Wives of Sybarites</item>
+        <item>Julia Domna</item>
+        <item>In the Days of Elagabalus</item>
+        <item>Another Syrian Empress</item>
+        <item>Zenobia and Victoria</item>
+        <item>The Wife and Daughter of Diocletian</item>
+        <item>The First Christian Empresses</item>
+        <item>The Wives of Constantius and Julian</item>
+        <item>The Romance of Eudoxia and Eudocia</item>
+        <item>The Last Empresses of the West</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a530" default="NO">
       <ref targOrder="U">530.</ref>
@@ -25228,7 +25289,7 @@
        <date>1900;</date>
        <date>1905.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Eve, the Ideal Woman</item>
         <item>Sarah, the Wife</item>
@@ -25478,7 +25539,7 @@
        <publisher>Revell,</publisher>
        <date>1919.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Her Majesty, Haruko, the Meiji Era Empress</item>
         <item>Miss Ume Tsuda Educator</item>
@@ -25505,7 +25566,7 @@
        <publisher>Dail; Macveagh,</publisher>
        <date>1927.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>The Ideal Woman</item>
         <item>The Forerunners</item>
@@ -25565,7 +25626,15 @@
        <publisher>McClurg,</publisher>
        <date>1913.</date>
       </imprint>
-      <note type="toc">
+      <note type="TOC">
+       <list>
+        <item>Elizabeth</item>
+        <item>Mary Queen of Scots</item>
+        <item>Marie Antoinette</item>
+        <item>Josephine</item>
+       </list>
+      </note>
+      <note type="Chapter Titles">
        <list>
         <item>The Last of the Tudors, Elizabeth of England</item>
         <item>Crown and Thistle, Mary Queen of Scots</item>
@@ -25648,7 +25717,17 @@
        <pubPlace>New York:</pubPlace>
        <publisher>American Tract Society,</publisher>
        <date>1868.</date>
-      </imprint> Also published anonymously. <note type="toc">
+      </imprint> Also published anonymously. 
+      <note type="TOC">
+       <list>
+        <item>Monica</item>
+        <item>Elizabeth</item>
+        <item>Rosa Govona</item>
+        <item>Mrs. Margaret Godolphin</item>
+        <item>Maria Mathsdotter</item>
+       </list>
+      </note>
+      <note type="Chapter Titles">
        <list>
         <item>Monica, the Mother of St. Augustine</item>
         <item>Elizabeth of Hungary</item>
@@ -25670,7 +25749,7 @@
        <publisher>American Tract Society,</publisher>
        <date>1868.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Eve, the Mother of Mankind </item>
         <item>Sarah, the Wife of Abraham </item>
@@ -26059,11 +26138,11 @@
         <item>Maria-Felicita Garcia, “Malibran”</item>
         <item>Giulia Grisi</item>
         <item>Marie Taglioni</item>
-        <item n="JENNY_LIND">Jenny Lind. The “Egeria”: Teresa Gamba Guiccioli</item>
+        <item n="JENNY_LIND">Jenny Lind.</item>
+        <item>The “Egeria”: Teresa Gamba Guiccioli</item>
         <item>Evelina Hanska</item>
         <item>Mathilde Mirat (Madame Heine)</item>
         <item>Adah Isaacs Menken.</item>
-   
        </list>
       </note>
       <image n="no410">
@@ -27167,7 +27246,7 @@
        <date>1913.</date>
       </imprint>
       <note place="unspecified" anchored="yes">NOT:=history.</note>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Woman’s Long Struggle for Things of the Mind</item>
         <item>Woman’s Capacity for Scientific Pursuit</item>
@@ -27280,6 +27359,24 @@
        <date>1900;</date>
        <date>1901.</date>
       </imprint>
+      <note type="Chapter Titles">
+       <list>
+        <item>Introduction by Mrs. G. A. Drummond</item>
+        <item>Past and Present of Canadian Women</item>
+        <item>Legal and Political Status</item>
+        <item>Professions and Careers</item>
+        <item>Trade and Industries</item>
+        <item>Education</item>
+        <item>Literature</item>
+        <item>Arts, Handicrafts, Music and the Drama</item>
+        <item>Nationally Organized Societies</item>
+        <item>Church Work</item>
+        <item>Charities and Reform</item>
+        <item>Social Life</item>
+        <item>Immigration</item>
+        <item>Indian Women</item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes"> Also published as <title type="ref">
         <hi rend="italics">Les Femmes du Canada: leur vie et leurs œuvres</hi>
        </title> (Montréal?, <date>1900</date>). </note>
@@ -27354,6 +27451,20 @@
        <publisher>Nevin,</publisher>
        <date>1888.</date>
       </imprint>
+      <note type="Chapter Titles">
+       <list>
+        <item>Beauty</item>
+        <item>Gifted Women</item>
+        <item>For Sweet Charity's Sake</item>
+        <item>Musical</item>
+        <item>Women of Wealth</item>
+        <item>Artists</item>
+        <item>Ministers' Wives</item>
+        <item>Temperance Workers</item>
+        <item>Society</item>
+        <item>Society in the Suburbs</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a599" default="NO"><ref targOrder="U">599.</ref>
       <idno>a599</idno>
