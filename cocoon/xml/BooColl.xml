@@ -15714,7 +15714,7 @@
         <item>Susan B. Anthony</item>
         <item>Catharine Breshkovskaya</item>
         <item>Jeanette Rankin</item>
-        <item>Countess Sophie Panin.</item>
+        <item>Countess Sophie Panin</item>
        </list>
       </note>
       <hi rend="bold">*Pop Chart</hi>
@@ -16052,8 +16052,8 @@
         <item>Nell Gwyn</item>
         <item>The Countess of Shrewsbury</item>
         <item>Anne Temple, Frances Jennings, and Goditha Price</item>
-        <item>The beautiful Myddeltons</item>
-        <item>The Countesses of Chesterfield and Southesk</item>
+        <item>The Beautiful Myddeltons</item>
+        <item>The Countesses of Chesterfield and Southes</item>
         <item>The Misses Brooke, Miss Fraser, and Miss Lawson</item>
         <item>Mademoiselle de La Vallière, and the Marchioness de Montespan</item>
        </list>
@@ -16384,7 +16384,7 @@
         <item>Catherine of Arragon</item>
         <item>Mrs. Elizabeth Carter</item>
         <item>Lady Pakington</item>
-        <item>Anne Countess of Winchelsea.</item>
+        <item>Anne Countess of Winchelsea</item>
        </list>
        <note place="unspecified" anchored="yes">
         <hi rend="bold">*Pop Chart</hi>
@@ -16537,7 +16537,7 @@
         <item>Queen Anne</item>
         <item>Carolina, Baroness Nairne</item>
         <item>Mrs. Elizabeth Carter</item>
-        <item>Mrs. Siddons.</item>
+        <item>Mrs. Siddons</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes">
@@ -21748,7 +21748,7 @@
       </imprint>
       <note type="Chapter Titles">
        <list>
-        <item>MThe Installation at the Tuileries</item>
+        <item>The Installation at the Tuileries</item>
         <item>A Visit from the National Assembly</item>
         <item>Paris at the Close of 1789</item>
         <item>The Execution of the Marquis de Favras</item>
@@ -22244,7 +22244,7 @@
        Maria Pacheco was the wife of Padilla of Toledo, a Castilian leader of the rebellion against
        Charles V; after his execution, she led pageantry to oppose the king and defended her city
        under siege, finally fleeing to Portugal in disguise. Queen Elizabeth's biography is the
-       longest in the volume. British Library stamp 15 OC 75. Illustrations consist of 1) Frontis.:
+       longest in the volume. British Library stamp 15 OC 75. Illustrations consist of 1) Frontis:
        Ghoulish George Cruikshank engraving of “The Execution of Jane”: hatchet raised over the head
        of a bug-eyed, masked executioner, blindfolded woman kneeling, neck exposed, in mid-Victorian
        dress, as Elizabethan soldiers watch ; 2) “Execution of Joan of Arc” (58); 3) “Margaret of
@@ -22827,7 +22827,7 @@
         <item>Dante and Beatrice Portinari</item>
         <item>Chaucer and Philippa Picard</item>
         <item>King James and Lady Jane Beaufort</item>
-        <item>Lorenzo de’ Medici and Lucretia Donati</item>
+        <item>Lorenzo de Medici and Lucretia Donati</item>
         <item>The Fair Geraldine</item>
         <item>Ariosto, Ginevra, and Alessandra Strozzi</item>
         <item>Spenser’s Rosalind</item>
@@ -23111,7 +23111,7 @@
         <item>Mary of Scotland</item>
         <item>Catherine of Russia</item>
         <item>Marie Antoinette</item>
-        <item n="MADAME_ROLAND">Madame Roland. *Pop Chart</item>
+        <item n="MADAME_ROLAND">Madame Roland.</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes">
@@ -23381,6 +23381,7 @@
        <date>1891;</date>
        <date>1898.</date>
       </imprint>
+      <note place="unspecified" anchored="yes"> Bodleian </note>
       <note type="toc">
        <list>
         <item>Agnes Jones</item>
@@ -23402,7 +23403,6 @@
       <note place="unspecified" anchored="yes">
        <hi rend="bold">*Pop Chart</hi>
       </note>
-      <note place="unspecified" anchored="yes"> Bodleian </note>
      </bibl>
      <bibl id="a469" default="NO">
       <ref targOrder="U">469.</ref>
@@ -23478,9 +23478,7 @@
      <bibl id="a471" default="NO">
       <ref targOrder="U">471.</ref>
       <idno>a471</idno>
-      <author>
-       <abbr expan="Johnson, Reginald Brimley">---.</abbr>
-      </author>
+      <author><name type="last">Johnson</name>, <name type="first">Reginald Brimley</name>.</author>
       <title type="ref">
        <hi rend="italics">The Women Novelists.</hi>
       </title>
@@ -34906,7 +34904,7 @@
       <note type="toc">
        <list>
         <item>Madame Roland (Marie Jeanne Phlipon)</item>
-        <item>Mary Wollstonecraft Godwin </item>
+        <item>Mary Wollstonecraft Godwin</item>
         <item>Mary W. Godwin Shelley</item>
         <item>George Sand (A.L. Aurore Dudevant)</item>
         <item> Harriet Martineau</item>
@@ -34915,7 +34913,7 @@
         <item>Margaret Reynolds Chappellsmith</item>
         <item>Ernestine L. Rose</item>
         <item>Frances Power Cobbe</item>
-        <item>George Eliot (Marian Evens Lewes.</item>
+        <item>George Eliot (Marian Evens Lewes)</item>
        </list>
       </note>
      </bibl>
@@ -37653,11 +37651,11 @@
       <note type="toc">
        <list>
         <item>From the Apocrypha: Judith</item>
-        <item>The Mother of the Seven Martyrs. The Graeco-Roman Period: Queen Salome
+        <item>The Mother of the Seven Martyrs.The Graeco-Roman Period:Queen Salome
          Alexandra</item>
         <item>Mariamne, the Hasmonean</item>
         <item>Helena, Queen and Proselyte</item>
-        <item>Berenice. The Talmudic Age: Martha, Daughter of Boethus</item>
+        <item>Berenice.The Talmudic Age:Martha, Daughter of Boethus</item>
         <item>Ima Shalom</item>
         <item>Rachel, Rabbi Akiba’s Wife</item>
         <item>Beruria</item>
