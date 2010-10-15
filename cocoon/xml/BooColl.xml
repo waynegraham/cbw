@@ -29560,7 +29560,7 @@
        <publisher>Westminster,</publisher>
        <date>1922.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Mary, Princess Royal of England, 1631-1660</item>
         <item>Henriette-Anne, Duchesse d'Orléans</item>
@@ -29616,7 +29616,7 @@
        <publisher>Macmillan,</publisher>
        <date>1918.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>The Eternal Feminine</item>
         <item>A Woman Critic of Women: Arvède Barine</item>
@@ -29697,6 +29697,72 @@
         <item>Mrs. Mary A. McCrimmon</item>
         <item>Mrs. Agnes Jean Stibbes</item>
         <item>Miss Fanny Andrews</item>
+        <item>Alabama: Mrs. Adelaide de Vendel Chaudron</item>
+        <item>Miss Kate Cumming</item>
+        <item>Laura S. Webb</item>
+        <item>Mrs. Annie Creight Lloyd</item>
+        <item>Mrs. E. W. Bellamy</item>
+        <item>Miss Mary A. Cruse</item>
+        <item>Lilian Rozell Messenger</item>
+        <item>Sarah E. Peck</item>
+        <item>Julia L. Keyes</item>
+        <item>Augusta J. Evans</item>
+        <item>I.M. Porter Henry</item>
+        <item>Catherine W. Towles</item>
+        <item>Mrs. Julia Shelton</item>
+        <item>Mississippi: Sallie Ada Vance</item>
+        <item>Mrs. Mary Stanford</item>
+        <item>Mrs. S.B. Cox</item>
+        <item>Eliza Poitevent</item>
+        <item>Florida: Mary E. Bryan</item>
+        <item>Fanny E. Herron</item>
+        <item>Augusta de Milly</item>
+        <item>Mrs. M. Louise Crossley</item>
+        <item>Tennessee: Mrs. L. Virginia French</item>
+        <item>Mrs. Annie Chamber Kethcum</item>
+        <item>Mrs. Clara Colres</item>
+        <item>Adelia C. Graves</item>
+        <item>Mrs. Mary E. Pope</item>
+        <item>Virginia: Mrs. Margaret J. Preston</item>
+        <item>Mrs. S.A. Weiss</item>
+        <item>Mrs. Constance Cary Harrison</item>
+        <item>M. J. Haw</item>
+        <item>Mrs. Mary Wiley</item>
+        <item>Miss Virginia E. Davidson</item>
+        <item>Miss Sallie A. Brock</item>
+        <item>Miss Sue. C. Hooper</item>
+        <item>Matilda S. Edwards</item>
+        <item>Mary J.S. Upshur</item>
+        <item>Martha Haines Butt Bennett</item>
+        <item>Miss Sarah J.C. Whittlesey</item>
+        <item>Helen G. Beale</item>
+        <item>Mrs. Cornelia J.M. Jordan</item>
+        <item>Laura R. Fewell</item>
+        <item>Mrs. Lizzie Petit Cutler</item>
+        <item>North Carolina: Mary Bayard Clarke</item>
+        <item>Mary Mason</item>
+        <item>Cornelia Phillips Spencer</item>
+        <item>Fanny Murdaugh Downing</item>
+        <item>Mrs. Mary Ayer Miller</item>
+        <item>Mrs. Susan J. Hancock</item>
+        <item>South Carolina: Sue Petigru King</item>
+        <item>Mrs. Caroline H. Jervey</item>
+        <item>Caroline A. Ball</item>
+        <item>Mrs. Mary S.B. Shindler</item>
+        <item>Miss Essie B. Cheesborough</item>
+        <item>Mary Scrimzeour Whitaker</item>
+        <item>Margaret Maxwell Martin</item>
+        <item>Mrs. Catharine Ladd</item>
+        <item>Clara V. Dargan</item>
+        <item>Annie M. Barnwell</item>
+        <item>Mary Caroline Griswold</item>
+        <item>Miss Julia C. Mintzing</item>
+        <item>Maryland: Anne Moncure Crane</item>
+        <item>Lydia Crane</item>
+        <item>Georgie A. Hulse McLeod</item>
+        <item>Texas: Mrs. Fannie A. D. Darden</item>
+        <item>Mrs. Maud J. Young</item>
+        <item>Miss Mollie E. Moore</item>   
        </list>
       </note>
      </bibl>
@@ -29961,7 +30027,7 @@
        <publisher>Houghton Mifflin,</publisher>
        <date>1920.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Titles">
        <list>
         <item>Learned Ladies in England Before 1650</item>
         <item>Learned Ladies in England from 1650 to 1760</item>
@@ -30361,7 +30427,7 @@
        <publisher>Harcourt Brace,</publisher>
        <date>1928.</date>
       </imprint>
-      <note type="toc">
+      <note type="Chapter Title">
        <list>
         <item>Mata Hari</item>
         <item>Mary Read and Anne Bonny</item>
@@ -30673,6 +30739,23 @@
       <imprint>
        <date>1905.</date>
       </imprint>
+      <note type="Chapter Titles">
+       <list>
+        <item>Three Generations of Fascinating Women</item>
+        <item>A Gipsy Prediction Fulfilled</item>
+        <item>More About the Gunnings</item>
+        <item>The Maid of the Oaks</item>
+        <item>A Canny Scot</item>
+        <item>A Bygone Beauty</item>
+        <item>'N or M'</item>
+        <item>Strange Vicissitudes of a Highland Lady of Quality in the Eighteenth Century</item>
+        <item>An Empress of Fashion</item>
+        <item>A Duke 'Born in a Barn, and Died in a Barn'</item>
+        <item>Thomas Scot, The Regicide</item>
+        <item>The Two Lords Whitworth</item>
+        <item>Gunning Pedigree</item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes"> The Gunning family. </note>
      </bibl>
      <bibl id="a690" default="NO">
