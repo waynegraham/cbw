@@ -10970,7 +10970,7 @@
        <publisher>M.W. Dodd</publisher>
        <date>1870.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Ministry</item>
         <item>Mary, the Mother of Our Lord</item>
@@ -11262,7 +11262,7 @@
        <publisher>Poe &amp; Hitchcock,</publisher>
        <date>1863.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter-titles">
        <list>
         <item>The Mother of Reformers—Susannah Wesley</item>
         <item>The Wife of Luther—Catherine von Bora</item>
@@ -11507,7 +11507,7 @@
        <publisher>Tinsley,</publisher>
        <date>1879.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Warlike Goddesses</item>
         <item>The Amazons</item>
@@ -11645,7 +11645,7 @@
        <pubPlace>London,</pubPlace>
        <date>1875.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale, the Soldier's Friend</item>
         <item n="ELIZABETH_FRY">Elizabeth Fry, the Earnest Philanthropist</item>
@@ -11765,7 +11765,7 @@
       </imprint>
       <note place="unspecified" anchored="yes">
       </note>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Mother of Washington</item>
         <item>Wife of Washington</item>
@@ -12422,7 +12422,7 @@
        <publisher>Collins's Clear-Type Press,</publisher>
        <date>[1909].</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item n="CAROLINE_HERSCHEL">British Library. No. 6: Eminent Women . TOC: Caroline
          Herschel</item>
@@ -12468,7 +12468,7 @@
        <publisher>Benziger,</publisher>
        <date>1928.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>“Darlugdacha: A Little Schoolgirl of Saint Brigid (Circa A.D. 490)”</item>
         <item>“Saint Elizabeth: A Little German Schoolgirl of the Middle Ages”</item>
@@ -12521,7 +12521,7 @@
        <date>1920;</date>
        <date>1930.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>The Mothers of 'Nintey-Eight</item>
         <item>The Mother of the Emmets</item>
@@ -12850,7 +12850,7 @@
        <date>1852.</date>
       </imprint>
       <note place="unspecified" anchored="yes">Bodleian</note>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Vol. 1: Eve</item>
         <item>Sarah</item>
@@ -12898,7 +12898,7 @@
        <publisher>James Pott,</publisher>
        <date>1907.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Introduction: Fashion in Femininity</item>
         <item>Barbara, Duchess of Cleveland</item>
@@ -14443,7 +14443,7 @@
        <date>1895;</date>
        <date>1924.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Consorts and Relicts</item>
         <item>Women of Affairs</item>
@@ -14604,7 +14604,7 @@
        <date>1864</date>
        <date>1870.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>(Edinburgh n.d.): Isabel the Fair, Queen of England</item>
         <item>Philippa of Hainault, Queen of England</item>
@@ -14875,7 +14875,7 @@
       <note place="unspecified" anchored="yes"> The table of contents mixes general section titles
        (“The Early Aristocracy of New England”) with named biographical subjects (some men): Mrs.
        Jay, Mrs. Adams, etc. </note>
-      <note type="List of Portraits">
+      <note type="list_of_portraits">
        <list>
         <item>Mrs. J.J. Roosevelt</item>
         <item>Mrs. John Jay</item>
@@ -14911,7 +14911,7 @@
        <date>1859.</date>
       </imprint>
       <note place="unspecified" anchored="yes">Bodleian unseen</note>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>The Early Ages</item>
         <item>The Fifteenth Century</item>
@@ -15152,7 +15152,7 @@
        <publisher>Root &amp; Smith,</publisher>
        <date>1869.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Women of Fashion</item>
         <item>Women of Pleasure</item>
@@ -15198,7 +15198,7 @@
        <date>1892</date>
        <date>1902.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Introductory remarks</item>
         <item>Natural Evidence</item>
@@ -15239,7 +15239,7 @@
       </imprint>
       <note place="unspecified" anchored="yes">NOT:=advice. Part of Ellis's bestselling series of
        guides for women in domestic roles.</note>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Characteristics of the Women of England</item>
         <item>Influence of the Women of England</item>
@@ -15438,7 +15438,7 @@
        <publisher>Bell,</publisher>
        <date>1905.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>The Courts of Henry VIII</item>
         <item>Mary Stuart and Some of Her Contemporaries</item>
@@ -15468,7 +15468,7 @@
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 153-156, 201.</xref>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Introduction by Henry C. Ewart</item>
         <item n="QUEEN_VICTORIA">Queen Victoria by Donald MacLeod</item>
@@ -15545,7 +15545,7 @@
         targOrder="U">Williams, <title>
          <hi rend="italics">Heroines of India</hi>
         </title></ref>, published in London (<date>n.d.</date>). </note>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Women Made Famous by Imperial Decree: Suicides, Widows, Filial Daughters</item>
         <item>Women Made Famous by the Voice of the People: Filial Daughters</item>
@@ -15644,7 +15644,7 @@
       <note place="unspecified" anchored="yes"><xref targOrder="U" from="ROOT" to="DITTO"
         >Riches;</xref> not British Library. or WorldCat. Possibly by <ref target="a220"
         targOrder="U">John Maw Darton?</ref></note>
-      <note type="Darton's Chapter Titles">
+      <note type="chapter_itles">
        <list>
         <item>Margaret Roper, Daughter of Sir Thomas More</item>
         <item>"Little Miss Burney"</item>
@@ -15802,7 +15802,7 @@
        <publisher>Charles Wells Moulton; Buffalo, NY: n.p.,</publisher>
        <date>1893.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>What America Owes to Isabella of Castile and Madame La Fayette</item>
         <item>Columbus at Sante Fe</item>
@@ -16037,7 +16037,7 @@
        <date>1906;</date>
        <date>1907.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>The Duchess of Mazarin</item>
         <item>Henrietta, Duchess of Orleans</item>
@@ -16274,7 +16274,7 @@
        <publisher>Nisbet,</publisher>
        <date>1901.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Preface</item>
         <item>Introduction</item>
@@ -16673,7 +16673,7 @@
         Blessington</ref>, <ref target="a134" targOrder="U">Burke</ref>, and <ref target="a452"
         targOrder="U">Jameson</ref>. "Gallery" is a literal and figurative premise for at least
        seventeen collections in this bibliography</note>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Quiet Like a Nun</item>
         <item>A Thing to Bless</item>
@@ -16765,7 +16765,7 @@
        <publisher>Dutton,</publisher>
        <date>1902.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>The Songstress in Exile:Lady Grisell Hume</item>
         <item>The Songstress in Social Life: Mrs. Alison Cockburn</item>
@@ -16984,7 +16984,7 @@
        similar publication histories, and compare those by <ref target="a305" targOrder="U">John
         Frost</ref> between <date>1854-1869</date>. Various editions widely available, with several
        reprints in the <date>1990s</date>. </note>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Woman as Pioneer</item>
         <item>Woman’s Work in Floods and Storms</item>
@@ -17078,7 +17078,7 @@
        Evans in <date>1859</date> in Pennsylvania. Its first page and running headers read: “Heroic
        Women of the West.” Compare title variations of this collection with those by Fowler from
         <date>1876</date> on. Frost [<date>1800-1859</date>], “LL.D.,” prolific writer of histories. </note>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Woman as Pioneer</item>
         <item>Woman’s Work in Floods and Storms</item>
@@ -17187,7 +17187,7 @@
        <publisher>Constable,</publisher>
        <date>1905.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>The Unacknowledged Wife of George IV (Mrs. Fitzherbert)</item>
         <item>Nelson's Lady Hamilton</item>
@@ -21746,7 +21746,7 @@
        <date>1888;</date>
        <date>1892.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>The Installation at the Tuileries</item>
         <item>A Visit from the National Assembly</item>
@@ -21815,7 +21815,7 @@
       </imprint>
       <note place="unspecified" anchored="yes"> NOT:=auto/biography. Marie Louise, Empress, Consort
        of Napoleon I. </note>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Marie Louise at Saint Cloud</item>
         <item>Moscow</item>
@@ -21959,7 +21959,7 @@
        <date>1894;</date>
        <date>1894.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>The Chateau of Versailles</item>
         <item>Louis XIV and His Court in 1682</item>
@@ -23138,7 +23138,7 @@
         targOrder="U">Burke</ref>, and <ref target="a452" targOrder="U">Jameson</ref>. "Gallery" is
        a literal and figurative premise for at least seventeen collections in this bibliography.
        Clare Jerrold also wrote three individual biographies of Victoria. </note>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Princess Victoria's Relatives</item>
         <item>Princess Victoria's Mother and Uncle</item>
@@ -23421,7 +23421,7 @@
        <date>1873;</date>
        <date>1922.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>In Filial Affection</item>
         <item>In Sisterly Affection</item>
@@ -23495,7 +23495,7 @@
       </imprint>
       <note place="unspecified" anchored="yes"> Various chapters feature “The first woman novelist:
        Fanny Burney,” Austen, Charlotte Brontë, Eliot: “The Great Four.” </note>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Introduction: Before Miss Burney</item>
         <item>The First Woman Novelist: Fanny Burney</item>
@@ -27331,7 +27331,7 @@
        <date>1900;</date>
        <date>1901.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Introduction by Mrs. G. A. Drummond</item>
         <item>Past and Present of Canadian Women</item>
@@ -27423,7 +27423,7 @@
        <publisher>Nevin,</publisher>
        <date>1888.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Beauty</item>
         <item>Gifted Women</item>
@@ -29532,7 +29532,7 @@
        <publisher>Westminster,</publisher>
        <date>1922.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Mary, Princess Royal of England, 1631-1660</item>
         <item>Henriette-Anne, Duchesse d'Orléans</item>
@@ -29588,7 +29588,7 @@
        <publisher>Macmillan,</publisher>
        <date>1918.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>The Eternal Feminine</item>
         <item>A Woman Critic of Women: Arvède Barine</item>
@@ -29999,7 +29999,7 @@
        <publisher>Houghton Mifflin,</publisher>
        <date>1920.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Learned Ladies in England Before 1650</item>
         <item>Learned Ladies in England from 1650 to 1760</item>
@@ -30399,7 +30399,7 @@
        <publisher>Harcourt Brace,</publisher>
        <date>1928.</date>
       </imprint>
-      <note type="Chapter Title">
+      <note type="chapter_titles">
        <list>
         <item>Mata Hari</item>
         <item>Mary Read and Anne Bonny</item>
@@ -30711,7 +30711,7 @@
       <imprint>
        <date>1905.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Three Generations of Fascinating Women</item>
         <item>A Gipsy Prediction Fulfilled</item>
