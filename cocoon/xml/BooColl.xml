@@ -10122,7 +10122,7 @@
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 64-65.</xref>
-      <note type="toc">
+      <note type="chapter_titles">
        <list>
         <item>Introduction</item>
         <item n="QUEEN_VICTORIA">Her Majesty the Queen</item>
@@ -11193,7 +11193,7 @@
        <date>1845;</date>
        <date>1849.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>I. Comprising the Women of Asia and Africa</item>
         <item>II. Comprising the Women of Europe, America, and South Sea Islands</item>
@@ -11262,6 +11262,39 @@
        <publisher>Poe &amp; Hitchcock,</publisher>
        <date>1863.</date>
       </imprint>
+      <note type="TOC">
+       <list>
+        <item>Susannah Wesley</item>
+        <item>Catherine von Bora</item>
+        <item n="HANNAH_MORE">Hannah More</item>
+        <item n="ANN_HASSELTINE_JUDSON">Ann Hasseltine Judson</item>
+        <item>Isabella of Spain</item>
+        <item>Mary, Queen of Scots</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
+        <item>Mrs. Ann Wilkins</item>
+        <item>Mrs. Eliza Garrett</item>
+        <item>Penelope</item>
+        <item>Cornelia</item>
+        <item>Martha Washington</item>
+        <item n="POCAHONTAS">Pocahontas</item>
+        <item>Frances Sargent Osgood</item>
+        <item>Elizabeth Barrett Browning</item>
+        <item>Marie Antoinette</item>
+        <item n="MADAME_ROLAND">Madame Roland</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronté [sic]</item>
+        <item>Emily C. Judson</item>
+        <item>Mrs. Mary Fletcher</item>
+        <item>Lady Huntingdon</item>
+        <item>Helena, Duchess of Orleans</item>
+        <item>The Maid of Saragossa</item>
+        <item>Josephine</item>
+        <item>Harriet Beecher Stowe</item>
+        <item>Harriet E. Hosmer</item>
+        <item>Rosa Bonheur.</item>
+       </list>
+       <hi rend="bold">*Pop Chart</hi>
+      </note>
       <note type="chapter_titles">
        <list>
         <item>The Mother of Reformers—Susannah Wesley</item>
@@ -11293,7 +11326,6 @@
         <item>The Female Sculptor—Harriet E. Hosmer</item>
         <item>The Female Painter—Rosa Bonheur.</item>
        </list>
-       <hi rend="bold">*Pop Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> The Rev. D.W. Clark was the editor of <title>
         <hi rend="italics">Ladies' Repository</hi>
@@ -11507,6 +11539,94 @@
        <publisher>Tinsley,</publisher>
        <date>1879.</date>
       </imprint>
+      <note type="TOC">
+       <list>
+        <item>Semiramis</item>
+        <item>Harpalyce</item>
+        <item>Atalanta</item>
+        <item>Camilla</item>
+        <item>Tomyris</item>
+        <item>Telesilla</item>
+        <item>Mania</item>
+        <item>Arsinoe</item>
+        <item>Hypsicrates</item>
+        <item>Cleopatra</item>
+        <item>Candace</item>
+        <item>Boadicea</item>
+        <item>Victoria</item>
+        <item>Zenobia</item>
+        <item>Empress Hunila</item>
+        <item>Mavia</item>
+        <item>Pharandsem</item>
+        <item>Henda</item>
+        <item>Forka</item>
+        <item>Khaullah</item>
+        <item>Ayesha</item>
+        <item>Cabina</item>
+        <item>Saidet</item>
+        <item>Turkhan-Khatun</item>
+        <item>Hadee’yah</item>
+        <item>Libyssa and Valasca</item>
+        <item>Wanda</item>
+        <item>Elfrida</item>
+        <item>Igor</item>
+        <item>Richilda</item>
+        <item>Eleanora of Aquitane</item>
+        <item>Matilda of Boulogne</item>
+        <item>Empress Maud</item>
+        <item>Aldrude</item>
+        <item>Empress Constantia</item>
+        <item>Nichola de Camville</item>
+        <item>Blanche of Castille</item>
+        <item>Blanch de Rossi</item>
+        <item>Black Agnes</item>
+        <item>Countess of March</item>
+        <item>Countess de Montfort</item>
+        <item>Julia de Guesclin</item>
+        <item>Jane de Belleville</item>
+        <item>Lady of Clisson</item>
+        <item>Marzia</item>
+        <item>Margaret</item>
+        <item>Fair Maiden Lilliard</item>
+        <item>Lady Pelham</item>
+        <item>Philippa</item>
+        <item>Jeanne d’Arc</item>
+        <item>Margaret de Attendoli</item>
+        <item>Bona Lombardi and Onorata Rodiana</item>
+        <item>Marulla</item>
+        <item>Margaret of Anjou</item>
+        <item>Jeanne Hachette</item>
+        <item>Dona Aldonza de Castillo</item>
+        <item>Dofia Maria Sarmiento</item>
+        <item>Isabel</item>
+        <item>Caterina Sforza</item>
+        <item>Maria d’Estrada</item>
+        <item>Catalina de Erauso</item>
+        <item>Dona Maria Pacheco</item>
+        <item>Eleonora of Toledo</item>
+        <item>Louise Labé</item>
+        <item>Mary of Hungary</item>
+        <item>Granu Weal</item>
+        <item>Kenan Simonz Hasselaar</item>
+        <item>Mary, Queen of Scots</item>
+        <item>Magdalaine de Saint Nectaire</item>
+        <item>Constance de Cezelli</item>
+        <item>Christine de Lalaing</item>
+        <item>Princess d’Espinoy</item>
+        <item n="QUEEN_ELIZABETH_I">Queen Elizabeth</item>
+        <item>Barabara of Ernecourt</item>
+        <item>Christina of Sweden</item>
+        <item>Lady Offaley</item>
+        <item>Lady Arundell</item>
+        <item>Lady Bankes</item>
+        <item>Countess of Derby</item>
+        <item>Helena Zrinyi</item>
+        <item>Wife of Tekeli</item>
+        <item>Lady Newcombe</item>
+        <item>Madame de Vercheres</item>
+        <item>Mademoiselle de la Charce</item>
+       </list>
+      </note>
       <note type="chapter_titles">
        <list>
         <item>Warlike Goddesses</item>
@@ -11645,6 +11765,20 @@
        <pubPlace>London,</pubPlace>
        <date>1875.</date>
       </imprint>
+      <note type="TOC">
+       <list>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
+        <item n="HANNAH_MORE">Hannah More</item>
+        <item>Margaret Godolphin</item>
+        <item>Margaret Roper</item>
+        <item>Lucy Hutchinson</item>
+        <item>Elizabeth Bunyan</item>
+        <item>Selina</item>
+        <item>Anne Clifford</item>
+       </list>
+       <hi rend="bold">*Pop Chart</hi>
+      </note>
       <note type="chapter_titles">
        <list>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale, the Soldier's Friend</item>
@@ -11658,7 +11792,6 @@
         <item>Anne Clifford, Countess of Dorset and Pembroke, the Dispenser of Charity.
         </item>
        </list>
-       <hi rend="bold">*Pop Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> Bodleian British Library. </note>
      </bibl>
@@ -12468,6 +12601,19 @@
        <publisher>Benziger,</publisher>
        <date>1928.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Darlugdacha</item>
+        <item>Saint Elizabeth</item>
+        <item>Cecilia Gonzaga</item>
+        <item>Margaret More</item>
+        <item>Marie Jeanne D'Aumale</item>
+        <item>Hélène Massalska</item>
+        <item>Anna Green Winslow</item>
+        <item>Pamela at Bellechasse</item>
+        <item>Marjorie Fleming</item>
+       </list>
+      </note>
       <note type="chapter_titles">
        <list>
         <item>“Darlugdacha: A Little Schoolgirl of Saint Brigid (Circa A.D. 490)”</item>
@@ -12669,6 +12815,31 @@
         <item>Vol. 1: Elizabeth, Countess of Shrewsbury</item>
         <item>Arabella Stuart</item>
         <item>Catherine Grey</item>
+        <item>Mary Sidney</item>
+        <item>Penelope</item>
+        <item>Magdalen Herbert</item>
+        <item>Frances Howard</item>
+        <item>Vol. 2: Elizabeth Stuart</item>
+        <item>Lucy Harrington</item>
+        <item>Frances Howard</item>
+        <item>Margaret Elizabeth</item>
+        <item>Christian</item>
+        <item>Anne Clifford</item>
+        <item>Mary Evelyn</item>
+        <item>Lady Fanshawe.</item>
+        <item>Vol. 3: 21 subjects. incl. Mrs. Lucy Hutchinson,</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell,</item>
+        <item>Jane Lane,</item>
+        <item>Susannah Centlivre.</item>
+        <item>Vol. 4: Lengthy biographies of Sarah, Duchess of Marlborough and Lady Mary Wortley
+         Montagu</item>
+       </list>
+      </note>
+      <note type="chapter_titles">
+       <list>
+        <item>Vol. 1: Elizabeth, Countess of Shrewsbury</item>
+        <item>Arabella Stuart</item>
+        <item>Catherine Grey</item>
         <item>Mary Sidney, Countess of Pembroke</item>
         <item>Penelope, Lady Rich</item>
         <item>Magdalen Herbert</item>
@@ -12770,6 +12941,23 @@
        Journal of Countess Krasinska, and the Love-Letters of Margaret Fuller). The entries in the
        last section are quite biographical; some of the chapters on novelists are scarcely at all. </note>
       <note type="toc">
+       <list>
+        <item>Mrs. Humphry Ward</item>
+        <item>John Oliver Hobbes</item>
+        <item>Lucas Malet</item>
+        <item>Gertrude Atherton</item>
+        <item>Mrs. Woods</item>
+        <item>Mrs. Voynich</item>
+        <item>Miss Robins</item>
+        <item>Miss Mary Wilkins. Diaries and Love-letters: Abelard and Heloise</item>
+        <item>Dorothy Osborne’s Love Letters</item>
+        <item>Fanny Burney</item>
+        <item>Mademoiselle de Lespinasse</item>
+        <item>The Journal of Countess Krasinska</item>
+        <item>The Love-letters of Margaret Fuller</item>
+       </list>
+      </note>
+      <note type="chapter_titles">
        <list>
         <item>Mrs. Humphry Ward</item>
         <item>John Oliver Hobbes</item>
@@ -12898,6 +13086,19 @@
        <publisher>James Pott,</publisher>
        <date>1907.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Barbara, Duchess of Cleveland</item>
+        <item>Louise Renée de Keroualle</item>
+        <item>Molly Lepell (Lady Hervey)</item>
+        <item>Mrs. Abington</item>
+        <item>Anne Seymour-Damer</item>
+        <item>Jane, Duchess of Gordon</item>
+        <item>Elizabeth Linley</item>
+        <item>Georgiana, Duchess of Devonshire</item>
+        <item>Mary Robinson</item>
+       </list>
+      </note>
       <note type="chapter_titles">
        <list>
         <item>Introduction: Fashion in Femininity</item>
@@ -14604,6 +14805,23 @@
        <date>1864</date>
        <date>1870.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>(Edinburgh n.d.): Isabel the Fair</item>
+        <item>Philippa of Hainault</item>
+        <item>Katherine, Countess of Salisbury</item>
+        <item>Joan, Countess of Montfort</item>
+        <item>Agnes, Countess of Dunbar</item>
+        <item>Agnes, Countess of Foix</item>
+        <item>Joan Plantagenet, Princess of Wales</item>
+        <item>Florence of Biscay</item>
+        <item>Isabel Plantagenet</item>
+        <item>Leonora d'Acunha</item>
+        <item>Constance of Castille</item>
+        <item>Isabel of Bavaria</item>
+        <item>Valentine Visconti</item>
+       </list>
+      </note>
       <note type="chapter_titles">
        <list>
         <item>(Edinburgh n.d.): Isabel the Fair, Queen of England</item>
@@ -15467,7 +15685,23 @@
       </imprint>
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
-       </title> 153-156, 201.</xref>
+      </title> 153-156, 201.</xref>
+      <note type="toc">
+       <list>
+        <item>Introduction by Henry C. Ewart</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
+        <item>Princess Alice</item>
+        <item n="ELIZABETH_FRY">Mrs. Fry</item>
+        <item>Sarah Martin</item>
+        <item n="SISTER_DORA">Sister Dora</item>
+        <item>Mary Carpenter</item>
+        <item>Mrs. Chisholm</item>
+        <item>Mary Moffat</item>
+        <item>Mrs. Sewell</item>
+        <item>Mrs. Carlyle</item>
+        <item>Baroness Bunsen</item>
+       </list>
+      </note>
       <note type="chapter_titles">
        <list>
         <item>Introduction by Henry C. Ewart</item>
@@ -15506,6 +15740,22 @@
        <date>1900.</date>
       </imprint>
       <note type="toc">
+       <list>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
+        <item>Selina, Countess of Huntington</item>
+        <item n="LADY_RACHEL_RUSSELL">Rachel, Lady Russell</item>
+        <item>Frances Ridley Havergal</item>
+        <item n="HANNAH_MORE">Hannah More</item>
+        <item>Susanna Wesley</item>
+        <item>Mrs. Hemans</item>
+        <item>Madame Guyon</item>
+        <item n="ANN_HASSELTINE_JUDSON">Ann Judson</item>
+        <item>Mary Louisa Whately</item>
+        <item>Agnes Jones</item>
+        <item>Elizabeth, Duchess of Gordon</item>
+       </list>
+      </note>
+      <note type="chapter_titles">
        <list>
         <item n="ELIZABETH_FRY">Elizabeth Fry / by James Macaulay</item>
         <item>Selina, Countess of Huntington / by R. Lovett</item>
@@ -16274,6 +16524,16 @@
        <publisher>Nisbet,</publisher>
        <date>1901.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Lady Bridget Manners</item>
+        <item>Brilliana Conway</item>
+        <item>Blanche Somerset</item>
+        <item>The Lady Mary Bertie</item>
+        <item>Thomas Pitt , Jane Innes</item>
+        <item>Ellenor Frere</item>
+       </list>
+      </note>
       <note type="chapter_titles">
        <list>
         <item>Preface</item>
@@ -17151,6 +17411,22 @@
        and Elizabeth, Lady Holland.</note>
       <note type="toc">
        <list>
+        <item>Lavinia Fenton</item>
+        <item>Charlotte Charke</item>
+        <item>Catherine Clive</item>
+        <item>Margaret Woffington</item>
+        <item>George Anne Bellamy</item>
+        <item>Frances Abington</item>
+        <item>Sophia Baddeley</item>
+        <item>Elizabeth Farren</item>
+        <item>Mary Robinson</item>
+        <item>Mary Sumbel</item>
+        <item>Dora Jordan</item>
+        <item>Harriot Mellon</item>
+       </list>
+      </note>
+      <note type="chapter_titles">
+       <list>
         <item>Lavinia Fenton, Duchess of Bolton (1708-1760)</item>
         <item>Charlotte Charke (1710-1760)</item>
         <item>Catherine Clive (1711-1785)</item>
@@ -17187,6 +17463,18 @@
        <publisher>Constable,</publisher>
        <date>1905.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Mrs. Fitzherbert</item>
+        <item>Lady Hamilton</item>
+        <item>Mrs. Montagu</item>
+        <item>Lady Blessington</item>
+        <item>Mrs. Lennox</item>
+        <item>Mrs. Grote</item>
+        <item>The Hon. Mrs. Norton</item>
+        <item>Lady Eastlake</item>
+       </list>
+      </note>
       <note type="chapter_titles">
        <list>
         <item>The Unacknowledged Wife of George IV (Mrs. Fitzherbert)</item>
