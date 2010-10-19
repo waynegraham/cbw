@@ -10388,7 +10388,7 @@
      </bibl>
      <bibl id="a154" default="NO"><ref targOrder="U">154.</ref>
       <idno>a154</idno>
-      <author>[<name type="last">Chambers</name>, <name type="first">William</name>,</author> ed.]
+      <author><name type="last">Chambers</name>, <name type="first">William</name>,</author> ed.]
        <title type="ref">
        <hi rend="italics">Lives of Eminent Women and Tales for Girls, from Chambers’
         Miscellany.</hi>
@@ -11262,7 +11262,7 @@
        <publisher>Poe &amp; Hitchcock,</publisher>
        <date>1863.</date>
       </imprint>
-      <note type="chapter-titles">
+      <note type="chapter_titles">
        <list>
         <item>The Mother of Reformers—Susannah Wesley</item>
         <item>The Wife of Luther—Catherine von Bora</item>
@@ -14488,7 +14488,7 @@
         <item>Mary E. Van Lennep</item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes"> This and two following Eddy collections closely
+      <note place="unspecified" anchored="yes"> This and two other Eddy collections closely
        similar with different titles, acc. to Brumberg, <title>
         <hi rend="italics">Mission for Life</hi>
        </title>, 15. </note>
@@ -15644,7 +15644,7 @@
       <note place="unspecified" anchored="yes"><xref targOrder="U" from="ROOT" to="DITTO"
         >Riches;</xref> not British Library. or WorldCat. Possibly by <ref target="a220"
         targOrder="U">John Maw Darton?</ref></note>
-      <note type="chapter_itles">
+      <note type="chapter_titles">
        <list>
         <item>Margaret Roper, Daughter of Sir Thomas More</item>
         <item>"Little Miss Burney"</item>
@@ -16101,7 +16101,7 @@
        <publisher>Books for Libraries,</publisher>
        <date>1972.</date>
       </imprint>
-      <note type="toc"> TOC: First Series: <list>
+      <note type="toc">First Series: <list>
         <item>Faustina Bordoni</item>
         <item>Catarina Gabrielli</item>
         <item>Sophie Arnould</item>
@@ -16735,7 +16735,7 @@
       <imprint>
        <date>[1849?].</date>
       </imprint> Probable alternative title for: 1. <author>
-       <abbr expan="Fowler, William Worthington">---.</abbr>
+       Fowler, William Worthington
       </author>
       <title>
        <hi rend="italics">The Book of the Boudoir; or, The Court of Queen Victoria. A series of
@@ -21786,7 +21786,7 @@
       <note place="unspecified" anchored="yes"> NOT:=auto/biography. Note series of associated
        titles: <title>
         <hi rend="italics">Famous Women of the French Court</hi>
-       </title> (with following titles, A436, A437, A438). </note>
+       </title> (with titles as in A436, A437, A438). </note>
      </bibl>
      <bibl id="a436" default="NO">
       <ref targOrder="U">436.</ref>
@@ -25223,7 +25223,7 @@
        <publisher>Holt,</publisher>
        <date>1911.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>The Making of an Empress</item>
         <item>The End of the Golden Age</item>
@@ -25261,7 +25261,7 @@
        <date>1900;</date>
        <date>1905.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Eve, the Ideal Woman</item>
         <item>Sarah, the Wife</item>
@@ -25511,7 +25511,7 @@
        <publisher>Revell,</publisher>
        <date>1919.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Her Majesty, Haruko, the Meiji Era Empress</item>
         <item>Miss Ume Tsuda Educator</item>
@@ -25538,7 +25538,7 @@
        <publisher>Dail; Macveagh,</publisher>
        <date>1927.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>The Ideal Woman</item>
         <item>The Forerunners</item>
@@ -25606,7 +25606,7 @@
         <item>Josephine</item>
        </list>
       </note>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>The Last of the Tudors, Elizabeth of England</item>
         <item>Crown and Thistle, Mary Queen of Scots</item>
@@ -25699,7 +25699,7 @@
         <item>Maria Mathsdotter</item>
        </list>
       </note>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Monica, the Mother of St. Augustine</item>
         <item>Elizabeth of Hungary</item>
@@ -25721,7 +25721,7 @@
        <publisher>American Tract Society,</publisher>
        <date>1868.</date>
       </imprint>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Eve, the Mother of Mankind </item>
         <item>Sarah, the Wife of Abraham </item>
@@ -27218,7 +27218,7 @@
        <date>1913.</date>
       </imprint>
       <note place="unspecified" anchored="yes">NOT:=history.</note>
-      <note type="Chapter Titles">
+      <note type="chapter_titles">
        <list>
         <item>Woman’s Long Struggle for Things of the Mind</item>
         <item>Woman’s Capacity for Scientific Pursuit</item>
