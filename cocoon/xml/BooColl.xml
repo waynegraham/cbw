@@ -41487,6 +41487,57 @@
      </bibl>
      <bibl id="p099A" default="NO">
       <idno>p099A</idno>
+      <author><name type="last">Pierpont</name>name>, <name type="first">Claudia Roth</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Passionate Minds: Women Rewriting the World</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York</pubPlace>
+       <publisher>Alfred A. Knopf</publisher>
+       <date>2000.</date>
+      </imprint>
+      <note type="toc">
+       <list>
+        <item>Olive Schreiner</item>
+        <item>Gertrude Stein</item>
+        <item>Anais Nin</item>
+        <item>Mae West</item>
+        <item>Margaret Mitchell</item>
+        <item>Zora Neale Hurston</item>
+        <item>Eudora Welty</item>
+        <item>Marina Tsvetaeva</item>
+        <item>Ayn Rand</item>
+        <item>Doris Lessing</item>
+        <item>Hannah Arendt</item>
+         <item>Mary McCarthy</item>
+       </list>
+      </note>
+      <note type="chapter_titles">
+       <list>
+        <item>A Woman's Place: Olive Schreiner</item>
+        <item>Mother of Confusion: Gertrude Stein</item>
+        <item>Sex, Lies, and Thirty-five Thousand Places: Anais Nin</item>
+        <item>Strong Woman: Mae West</item>
+        <item>A Study in Scarlett: Margaret Mitchell</item>
+        <item>A Society of One: Zora Neale Hurston</item>
+        <item>A Perfect Lady: Eudora Welty</item>
+        <item>Rage of Aphrodite: Marina Tsvetaeva</item>
+        <item>Twilight of a Goddess: Ayn Rand</item>
+        <item>Memoirs of a Revolutionary: Doris Lessing</item>
+        <item>Hearts and Minds: Hannah Arendt, Mary McCarthy</item>
+       </list>
+      </note>
+      
+     </bibl>
+     
+     
+     
+     
+     
+     
+     
+     <bibl id="p099B" default="NO">
+      <idno>p099B</idno>
       <author><name type="last">Pinkney</name>, <name type="first">Andrea Davis</name>.</author>
       <title type="ref">
        <hi rend="italics">Let It Shine: Stories of Black Women Freedom Fighters. </hi>
