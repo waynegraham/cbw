@@ -15570,39 +15570,46 @@
        <pubPlace>London:</pubPlace>
        <publisher>Allen,</publisher>
        <date>1883-95.</date>
-      </imprint>
-      <note place="unspecified" anchored="yes"> British Library. Bodleian NOT:=book series. Series
-       of twenty-two volumes of biographies of British and French women (with one American entry, <title>
-        <hi rend="italics">Margaret Fuller, Marchesa Ossoli</hi>
-       </title> by Julia Ward Howe), including Mathilde Blind's <title>
-        <hi rend="italics">George Eliot</hi>
-       </title>, Millicent Garrett Fawcett's <title>
-        <hi rend="italics">
-         <list>
-          <item n="QUEEN_VICTORIA">Life of Her Majesty Queen Victoria</item>
-         </list>
-        </hi>
-       </title>, Ingram's <title>
-        <hi rend="italics">Elizabeth Barrett Browning</hi>
-       </title>, Florence Fenwick Miller's <title>
-        <hi rend="italics">Harriet Martineau</hi>
-       </title>, Elizabeth Robins Pennell's <title>
-        <hi rend="italics">Mary Wollstonecraft Godwin</hi>
-       </title>, Emma Raymond Pitman's <title>
-        <hi rend="italics">
-         <list>
-          <item n="ELIZABETH_FRY">Elizabeth Fry</item>
-         </list>
-        </hi>
-       </title>, Lucy Madox Rossetti's <title>
-        <hi rend="italics">Mrs. Shelley</hi>
-       </title>, and Charlotte Mary Yonge's <title>
-        <hi rend="italics">
-         <list>
-          <item n="HANNAH_MORE">Hannah More</item>
-         </list>
-        </hi>
-       </title>. </note>
+      </imprint> 
+      <note>
+       British Library. Bodleian NOT:=book series. Series
+       of twenty-two volumes of biographies of British and French
+       women (with one American entry by Julia Ward Howe).
+      </note>
+      <note type="chapter_titles">
+       <list>
+        <item>
+         Julia Ward Howe's
+         <title>
+          <hi rend="italics">Margaret Fuller, Marchesa Ossoli</hi>
+         </title>
+        </item>
+        <item>
+         Mathilde Blind's
+         <title>
+          <hi rend="italics">George Eliot</hi>
+         </title>
+        </item>
+        <item n="QUEEN_VICTORIA">
+         Millicent Garrett Fawcett's
+         <title>
+          <hi rend="italics">Life of Her Majesty Queen Victoria</hi>
+         </title>
+        </item>
+        <item>
+         Ingram's
+         <title>
+          <hi rend="italics">Elizabeth Barrett Browning</hi>
+         </title>
+        </item>
+        <item>Florence Fenwick Miller's <title><hi rend="italics">Harriet Martineau</hi></title></item>
+        <item>Elizabeth Robins Pennell's <title><hi rend="italics">Mary Wollstonecraft Godwin</hi></title></item>
+        <item>Emma Raymond Pitman's<title><hi rend="italics">Elizabeth Fry</hi></title></item>
+        <item>Lucy Madox Rossetti's <title><hi rend="italics">Mrs. Shelley</hi></title></item>
+        <item>Charlotte Mary Yongue's <title><hi rend="italics">Hannah More</hi></title></item>
+       </list>
+       [the rest of the chapters go here...]
+      </note>
      </bibl>
      <bibl id="a267" default="NO">
       <ref targOrder="U">267.</ref>
