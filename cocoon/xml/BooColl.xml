@@ -22946,8 +22946,24 @@
       </imprint>
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
-       </title> 68, 175-96, 253-54.</xref>
+      </title> 68, 175-96, 253-54.</xref>
       <note type="toc">
+       <list>
+        <item>vol I: Semiramis</item>
+        <item>Cleopatra</item>
+        <item>Zenobia</item>
+        <item>Joanna I.</item>
+        <item>Joanna II.</item>
+        <item>Isabella of Castile</item>
+        <item>Mary, Queen of Scots</item>
+        <item n="QUEEN_ELIZABETH_I">Queen Elizabeth</item>
+        <item>vol. II: Queen Christina</item>
+        <item>Queen Anne</item>
+        <item>Maria Theresa</item>
+        <item>Catherine II</item>
+       </list>
+      </note>
+      <note type="chapter_titles">
        <list>
         <item>vol I: Semiramis</item>
         <item>Cleopatra, Queen of Egypt</item>
@@ -23112,7 +23128,7 @@
       </imprint> Alternate title: <title>
        <hi rend="italics">Memoirs of Women Loved and Celebrated by Poets.</hi>
       </title>
-      <note type="toc">
+      <note type="chapter_titles">
        <list>
         <item>The Loves of the Troubadours</item>
         <item>Guido Cavalcanti and Mandetta</item>
@@ -25556,6 +25572,21 @@
        <date>1900;</date>
        <date>1905.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Eve</item>
+        <item>Sarah</item>
+        <item>Rebecca</item>
+        <item>Miriam</item>
+        <item>Anna</item>
+        <item>Ruth</item>
+        <item>Jezebel</item>
+        <item>Lydia</item>
+        <item>Esther</item>
+        <item>Martha</item>
+        <item>Phebe</item>
+       </list>
+      </note>
       <note type="chapter_titles">
        <list>
         <item>Eve, the Ideal Woman</item>
@@ -25738,7 +25769,7 @@
       <note place="unspecified" anchored="yes"> Chapters on types rather than named subjects (index
        missing). A “Companion” to <title>
         <hi rend="italics">Bible Types of Modern Men</hi>
-       </title>. </note>
+       </title></note>
      </bibl>
      <bibl id="a536" default="NO">
       <ref targOrder="U">536.</ref>
@@ -25806,6 +25837,18 @@
        <publisher>Revell,</publisher>
        <date>1919.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Haruko</item>
+        <item>Ume Tsuda</item>
+        <item>Kaji Ko Yajima</item>
+        <item>Uta Hayashi</item>
+        <item>Kashi Iwamoto</item>
+        <item>Asa Hirooka</item>
+        <item>Michi Kawai</item>
+        <item>Roku Suto</item>
+       </list>
+      </note>
       <note type="chapter_titles">
        <list>
         <item>Her Majesty, Haruko, the Meiji Era Empress</item>
@@ -25901,6 +25944,14 @@
         <item>Josephine</item>
        </list>
       </note>
+      <note type="toc">
+       <list>
+        <item>Elizabeth of England</item>
+        <item>Mary Queen of Scots</item>
+        <item>Marie Antoinette</item>
+        <item>Josephine</item>
+       </list>
+      </note>
       <note type="chapter_titles">
        <list>
         <item>The Last of the Tudors, Elizabeth of England</item>
@@ -25985,7 +26036,7 @@
        <publisher>American Tract Society,</publisher>
        <date>1868.</date>
       </imprint> Also published anonymously. 
-      <note type="TOC">
+      <note type="toc">
        <list>
         <item>Monica</item>
         <item>Elizabeth</item>
@@ -26160,6 +26211,21 @@
       <note type="toc">
        <list>
         <item>Introduction</item>
+        <item>Eve</item>
+        <item>Sarah</item>
+        <item>Rebekah</item>
+        <item>Rachael</item>
+        <item>Miriam</item>
+        <item>Deborah</item>
+        <item>Ruth</item>
+        <item>Hannah</item>
+        <item>Mary</item>
+        <item>Mary</item>
+       </list>
+      </note>
+      <note type="chapter_titles">
+       <list>
+        <item>Introduction</item>
         <item>Eve the Unfolded</item>
         <item>Sarah the Steadfast</item>
         <item>Rebekah the Far-Seeing</item>
@@ -26331,7 +26397,7 @@
        <publisher>YWCA,</publisher>
        <date>1915-29.</date>
       </imprint>
-      <note type="toc">
+      <note type="chapter_titles">
        <list>
         <item>[no. 1.] She Remembered His Commandments to Do Them / Mrs. R.E. Speer</item>
         <item>[no. 2.] A Cycle of Prayer in Remembrance of Grace L. Coppock / Abby Shaw
@@ -26744,7 +26810,7 @@
       </imprint>
       <note place="unspecified" anchored="yes"> Catalogued under Stone: <date>1865</date>,
         <date>1870</date>; under Menzies: <date>1866</date>. </note>
-      <note type="toc">
+      <note type="chapter_titles">
        <list>
         <item>The Favourites of Edward of Caernarvon and Isabel of France</item>
         <item>Maria de Padilla, Favourite of Don Pedro the Cruel</item>
@@ -26910,6 +26976,33 @@
        </title> 207-8.</xref>
       <note type="toc">
        <list>
+        <item>Wife of Bishop Wilkinson</item>
+        <item>Mrs. Frank Grimwood</item>
+        <item>Mrs. Granger</item>
+        <item>Emily Lacy</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
+        <item>Elizabeth Mouatt</item>
+        <item>Mrs. M'Dougal</item>
+        <item>Mrs. John (Norah) Halinstrom</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
+        <item>Miss Kingsley</item>
+        <item n="GRACE_DARLING">Grace Darling</item>
+        <item>Catherine Vasseur</item>
+        <item>Grace Bussell</item>
+        <item>Mabel Howard</item>
+        <item>Mrs. Kerr and Daughter</item>
+        <item>Mrs. Marion Smith</item>
+        <item>Agnes Green</item>
+        <item>Elizabeth Woodcock</item>
+        <item>Bessie Frampton</item>
+        <item>Milkmaid of Dort</item>
+        <item>Margaret and May Brown, Isabella Armstrong</item>
+       </list>
+       <hi rend="bold">*Pop
+        Chart</hi>
+      </note>
+      <note type="chapter_titles">
+       <list>
         <item>Wife of Bishop Wilkinson (Zululand Missionaries)</item>
         <item>Mrs. Frank Grimwood (British Resident of Manipur)</item>
         <item>Mrs. Granger (Scottish Resistance)</item>
@@ -26932,8 +27025,6 @@
         <item>Milkmaid of Dort (Foiled Attack by Spaniards)</item>
         <item>Margaret and May Brown, Isabella Armstrong (Fishergirls).</item>
        </list>
-       <hi rend="bold">*Pop
-        Chart</hi>
       </note>
       <image n="no143">
        <imgName>Florence Nightingale</imgName>
@@ -27048,6 +27139,18 @@
       </imprint>
       <note type="toc">
        <list>
+        <item>Mary Seton</item>
+        <item>Duchess de Berri</item>
+        <item>Alison Cockburn</item>
+        <item>Fanny Mendelssohn</item>
+        <item n="CAROLINE_HERSCHEL">Caroline Herschel</item>
+        <item>Ida Pfeiffer.</item>
+       </list>
+       <hi rend="bold">*Pop
+        Chart</hi>
+      </note>
+      <note type="chapter_titles">
+       <list>
         <item>A Woman's Friendship, Mary Seton</item>
         <item>A Wonderful Princess, the Duchess de Berri</item>
         <item>In the Social Maze, Alison Cockburn</item>
@@ -27055,8 +27158,6 @@
         <item n="CAROLINE_HERSCHEL">Only a Satellite, Caroline Herschel</item>
         <item>A Great Woman Traveller, Ida Pfeiffer.</item>
        </list>
-       <hi rend="bold">*Pop
-        Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> Author of <title>
         <hi rend="italics">Harriet Martineau</hi>
@@ -27405,7 +27506,7 @@
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 215-16, 218-21.</xref>
-      <note type="toc">
+      <note type="chapter_titles">
        <list>
         <item>Page: The Work of the Afro-American Woman</item>
         <item>The Sketch of Afro-American Literature</item>
@@ -29827,6 +29928,15 @@
        <publisher>Westminster,</publisher>
        <date>1922.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Princess Mary</item>
+        <item>Henriette-Anne</item>
+        <item>Sophie</item>
+        <item>Margaret of Scotland</item>
+        <item>Queen Elizabeth</item>
+       </list>
+      </note>
       <note type="chapter_titles">
        <list>
         <item>Mary, Princess Royal of England, 1631-1660</item>
@@ -29883,6 +29993,15 @@
        <publisher>Macmillan,</publisher>
        <date>1918.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Arvède Barine</item>
+        <item>George Sand</item>
+        <item n="MADAME_DE_STAEL">Mme de Staël</item>
+        <item>Madame de Sévigné</item>
+        <item>Mme de Lafayette</item>
+       </list>
+      </note>
       <note type="chapter_titles">
        <list>
         <item>The Eternal Feminine</item>
@@ -30356,6 +30475,22 @@
        <date>1899.</date>
       </imprint>
       <note type="toc">
+       <list>
+        <item>Elizabeth</item>
+        <item>The Lady Mary Sidney</item>
+        <item>Mary</item>
+        <item>Penelope</item>
+        <item>The Lady Anne Clifford</item>
+        <item>Lucy Countess of Carlisle</item>
+        <item>Frances, Duchess of Richmond</item>
+        <item>Anne, Countess of Sunderland</item>
+        <item>Sarah, Duchess of Marlborough</item>
+        <item>Henrietta, Countess of Suffolk</item>
+        <item>The Lady Sarah Lennox</item>
+        <item>Isabella, Marchioness of Hertford</item>
+       </list>
+      </note>
+      <note type="chapter_titles">
        <list>
         <item>Elizabeth, Countess of Shrewsbury, “Bess of Hardwick”</item>
         <item>The Lady Mary Sidney</item>
@@ -35357,6 +35492,22 @@
       </imprint>
       <note type="toc">
        <list>
+        <item>Alice Perrers</item>
+        <item>Alice Arden</item>
+        <item>Moll Cutpurse</item>
+        <item>Frances Howard</item>
+        <item>Barbara Villiers</item>
+        <item>Jenny Diver</item>
+        <item>Teresia C. Phillips</item>
+        <item>Elizabeth Brownrigg</item>
+        <item>Elizabeth Canning</item>
+        <item>Elizabeth Chudleigh</item>
+        <item>Mary Bateman</item>
+        <item>Mary A. Clarke.</item>
+       </list>
+      </note>
+      <note type="chapter_titles">
+       <list>
         <item>A. Vincent: Alice Perrers, Favorite of King Edward III</item>
         <item>A.H. Coppinger: Alice Arden, Murderess</item>
         <item>C. Andrews: Moll Cutpurse, Thief and Receiver</item>
@@ -37944,6 +38095,20 @@
        <date>1892.</date>
       </imprint>
       <note type="toc">
+       <list>
+        <item>Judith</item>
+        <item>Queen Salome
+         Alexandra</item>
+        <item>Mariamne</item>
+        <item>Helena</item>
+        <item>Berenice</item>
+        <item>Ima Shalom</item>
+        <item>Rachel</item>
+        <item>Beruria</item>
+        <item>Jalta</item>
+       </list>
+      </note>
+      <note type="chapter_titles">
        <list>
         <item>From the Apocrypha: Judith</item>
         <item>The Mother of the Seven Martyrs.The Graeco-Roman Period:Queen Salome
