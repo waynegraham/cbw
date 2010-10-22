@@ -11262,7 +11262,7 @@
        <publisher>Poe &amp; Hitchcock,</publisher>
        <date>1863.</date>
       </imprint>
-      <note type="TOC">
+      <note type="toc">
        <list>
         <item>Susannah Wesley</item>
         <item>Catherine von Bora</item>
@@ -11293,7 +11293,6 @@
         <item>Harriet E. Hosmer</item>
         <item>Rosa Bonheur.</item>
        </list>
-       <hi rend="bold">*Pop Chart</hi>
       </note>
       <note type="chapter_titles">
        <list>
@@ -11765,7 +11764,7 @@
        <pubPlace>London,</pubPlace>
        <date>1875.</date>
       </imprint>
-      <note type="TOC">
+      <note type="toc">
        <list>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item n="ELIZABETH_FRY">Elizabeth Fry</item>
@@ -12941,23 +12940,6 @@
        Journal of Countess Krasinska, and the Love-Letters of Margaret Fuller). The entries in the
        last section are quite biographical; some of the chapters on novelists are scarcely at all. </note>
       <note type="toc">
-       <list>
-        <item>Mrs. Humphry Ward</item>
-        <item>John Oliver Hobbes</item>
-        <item>Lucas Malet</item>
-        <item>Gertrude Atherton</item>
-        <item>Mrs. Woods</item>
-        <item>Mrs. Voynich</item>
-        <item>Miss Robins</item>
-        <item>Miss Mary Wilkins. Diaries and Love-letters: Abelard and Heloise</item>
-        <item>Dorothy Osborne’s Love Letters</item>
-        <item>Fanny Burney</item>
-        <item>Mademoiselle de Lespinasse</item>
-        <item>The Journal of Countess Krasinska</item>
-        <item>The Love-letters of Margaret Fuller</item>
-       </list>
-      </note>
-      <note type="chapter_titles">
        <list>
         <item>Mrs. Humphry Ward</item>
         <item>John Oliver Hobbes</item>
@@ -15527,6 +15509,7 @@
         <item>Miss Emma Roberts</item>
        </list>
       </note>
+      <hi rend="bold">*Pop Chart</hi>
       <note place="unspecified" anchored="yes">
        <xref targOrder="U" from="ROOT" to="DITTO">Riches</xref> has title <title>
         <hi rend="italics"> . . . from <date>1700-1843</date>.</hi>
@@ -15886,6 +15869,7 @@
         <item>Mademoiselles de Bussy and de Brion</item>
        </list>
       </note>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a273" default="NO">
       <ref targOrder="U">273.</ref>
@@ -16021,6 +16005,7 @@
         <item n="QUEEN_VICTORIA">Queen Victoria</item>
        </list>
       </note>
+      <hi rend="bold">*Pop Chart</hi>
       <image n="no427">
        <imgName>Lady Jane Grey</imgName>
        <imgDesc>Lady Grey</imgDesc>
@@ -16176,6 +16161,7 @@
         <item n="GRACE_DARLING">Grace Darling</item>
        </list>
       </note>
+      <hi rend="bold">*Pop Chart</hi>
       <note place="unspecified" anchored="yes">Twelve persons series.</note>
      </bibl>
      <bibl id="a280" default="NO">
@@ -16217,6 +16203,7 @@
         <item>Renée of France, Duchess of Ferrara</item>
        </list>
       </note>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a282" default="NO">
       <ref targOrder="U">282.</ref>
@@ -16378,6 +16365,7 @@
         <item>Theresa Titiens</item>
        </list>
       </note>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a286" default="NO"><ref targOrder="U">286.</ref>
       <idno>a286</idno>
@@ -16416,7 +16404,6 @@
         <item>Alice Foote MacDougail</item>
         <item>Mary Kingsbury Simkhovitch</item>
         <item>Maria Jeritza</item>
-        <item>You.</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"><xref targOrder="U" from="ROOT" to="DITTO">Inez
@@ -16463,7 +16450,7 @@
         <item>Janet Scudder</item>
         <item>Marie Curie</item>
         <item>Jane Addams</item>
-        <item>Etsu Inagaki Sugimoto.</item>
+        <item>Etsu Inagaki Sugimoto</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Note comparable collection with different contents.
@@ -16807,6 +16794,8 @@
         <item>Mrs. Siddons</item>
        </list>
       </note>
+      
+      <hi rend="bold">*Pop Chart</hi>
       <note place="unspecified" anchored="yes">
        <p>British Library copy with the first title, likely to be circa 1870. See title 678 (Mrs.
         Clyde Robertson, 1936). One catalogue has “1830-1850?,” unlikely dates given Charlotte
@@ -17185,6 +17174,20 @@
       </imprint>
       <note type="toc">
        <list>
+        <item>Anne Hutchinson</item>
+        <item>Susannah Wesley</item>
+        <item>Elizabeth Ann Seton</item>
+        <item>Lucretia Mott</item>
+        <item>Fanny Crosby</item>
+        <item n="SISTER_DORA">Sister Dora</item>
+        <item>Hannah Whitall Smith</item>
+        <item>Frances Ridley Havergal</item>
+        <item>Ramabai Dongre Medhavi</item>
+        <item>Maud Ballington Booth</item>
+       </list>
+      </note>
+      <note type="chapter_titles">
+       <list>
         <item>Anne Hutchinson, by A.E. Jenkins</item>
         <item>Susannah Wesley, by W.H. Foster</item>
         <item>Elizabeth Ann Seton, by R.V. Trevel</item>
@@ -17194,11 +17197,13 @@
         <item>Hannah Whitall Smith, by W.H. Foster</item>
         <item>Frances Ridley Havergal, by W. Bradbury</item>
         <item>Ramabai Dongre Medhavi, by J.C. Minot</item>
-        <item>Maud Ballington Booth, by R.V. Trevel. Part of "Modern Heroines Series," ed. Foster
+        <item>Maud Ballington Booth, by R.V. Trevel</item>
+         <item>Part of "Modern Heroines Series," ed. Foster
          (b. 1886). See companion collection Heroines of Modern Progress by Adams and Foster.
          Available microfiche. Rpt. Freeport, NY: Books for Libraries, 1970</item>
        </list>
       </note>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a303" default="NO">
       <ref targOrder="U">303.</ref>
@@ -22548,6 +22553,9 @@
        for her country, should perform deeds, of which the most celebrated generals of the age might
        have been proud, appears more like the fiction of the poet than a transaction of real life;
        yet such was the case with Joan of Arc”( 7; opening line of text). </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
+      </note>
      </bibl>
      <bibl id="a449" default="NO">
       <ref targOrder="U">449.</ref>
@@ -22982,6 +22990,9 @@
       <note place="unspecified" anchored="yes"> Portions of Jameson's biographies of queens reappear
        in a collection “by Anna Jameson”. Part of Sovereigns and Pioneers of History, Edition
        Chateaubriand. </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
+      </note>
      </bibl>
      <bibl id="a454" default="NO"><ref targOrder="U">454.</ref>
       <idno>a454</idno>
@@ -23041,6 +23052,9 @@
         <item>Charlotte Corday</item>
         <item>Josephine</item>
        </list>
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> See <ref target="a403" targOrder="U">Hewitt.</ref>
       </note>
@@ -23422,7 +23436,7 @@
         <item>Mary of Scotland</item>
         <item>Catherine of Russia</item>
         <item>Marie Antoinette</item>
-        <item n="MADAME_ROLAND">Madame Roland.</item>
+        <item n="MADAME_ROLAND">Madame Roland</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes">
@@ -25936,17 +25950,9 @@
        <publisher>McClurg,</publisher>
        <date>1913.</date>
       </imprint>
-      <note type="TOC">
-       <list>
-        <item>Elizabeth</item>
-        <item>Mary Queen of Scots</item>
-        <item>Marie Antoinette</item>
-        <item>Josephine</item>
-       </list>
-      </note>
       <note type="toc">
        <list>
-        <item>Elizabeth of England</item>
+        <item>Elizabeth</item>
         <item>Mary Queen of Scots</item>
         <item>Marie Antoinette</item>
         <item>Josephine</item>
@@ -26146,6 +26152,9 @@
        Ferrier and her novels (Scottish life)” or “The Life of Mrs. Gaskell”). The Brontës receive a
        group biography, with three separate chapters on their novels. The entry on Charlotte Yonge
        was “(contributed by Dorothea Blagg).” </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
+      </note>
      </bibl>
      <bibl id="a551" default="NO">
       <ref targOrder="U">551.</ref>
@@ -26478,6 +26487,9 @@
         <item>Adah Isaacs Menken.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
+      </note>
       <image n="no410">
        <imgName>Jenny Lind</imgName>
        <imgDesc>From the picture by Eduard Magnus in the National Gallery, Berlin. Berlin
@@ -26541,6 +26553,9 @@
         <item>Agnes Jones</item>
         <item>Kitty Wilkinson</item>
        </list>
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
      <bibl id="a559" default="NO">
@@ -26723,7 +26738,7 @@
        <publisher>Houghton Mifflin,</publisher>
        <date>1928.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> “Note: The “Windsor beauties” were a group of
+      <note place="unspecified" anchored="yes"> Note: The “Windsor beauties” were a group of
        portraits painted by Lely for Ann Hyde, dutchess of York. The present work includes accounts
        of the Dutchess of York, Nell Gwyn, Louise de Kérouall and the Dutchess of Mazarin, besides
        the beauties.” </note>
@@ -26952,8 +26967,9 @@
         <item>Eugenie</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale.</item>
        </list>
-       <hi rend="bold">*Pop
-        Chart</hi>
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> See <ref target="a174" targOrder="U">Mary Cowden
         Clarke</ref> and <ref target="a331" targOrder="U">Frank B. Goodrich.</ref>
@@ -27026,6 +27042,9 @@
         <item>Margaret and May Brown, Isabella Armstrong (Fishergirls).</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
+      </note>
       <image n="no143">
        <imgName>Florence Nightingale</imgName>
        <imgDesc>Florence Nightingale's First Patient.</imgDesc>
@@ -27078,7 +27097,7 @@
         <item>Jane Taylor</item>
         <item>Mrs. Mary Martha Sherwood</item>
         <item n="HANNAH_MORE">Hannah More</item>
-        <item n="ELIZABETH_FRY">Elizabeth Fry.</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
        </list>
        <hi rend="bold">*Pop
         Chart</hi>
@@ -27258,6 +27277,9 @@
         <item>Lady Tilley</item>
         <item>Marshall Saunders</item>
        </list>
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
      <bibl id="a580" default="NO">
@@ -27586,8 +27608,9 @@
         <item>Anne Askew</item>
         <item>Madame Guyon.</item>
        </list>
-       <hi rend="bold">*Pop
-        Chart</hi>
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
       <image n="no472">
        <imgName>Elizabeth Fry</imgName>
@@ -30016,6 +30039,9 @@
       </note>
       <note place="unspecified" anchored="yes"> “Reprinted in part from various periodicals.”
       </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
+      </note>
      </bibl>
      <bibl id="a661" default="NO"><ref targOrder="U">661.</ref>
       <idno>a661</idno>
@@ -30325,8 +30351,9 @@
         <item>Louisa May Alcott</item>
         <item n="QUEEN_VICTORIA">Queen Victoria.</item>
        </list>
-       <hi rend="bold">*Pop
-        Chart</hi>
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
       <image n="no413">
        <imgName>Queen Victoria</imgName>
@@ -30396,8 +30423,9 @@
         <item>Pope Joan</item>
         <item n="JOAN_OF_ARC">Joan of Arc.</item>
        </list>
-       <hi rend="bold">*Pop
-        Chart</hi>
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
      <bibl id="a668" default="NO">
@@ -30609,8 +30637,9 @@
         <item>Harriet Beecher Stowe</item>
         <item>Harriet Hosmer.</item>
        </list>
-       <hi rend="bold">*Pop
-        Chart</hi>
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> Making “no claim to originality,” the volumes
        testify to “the power of woman for good or evil,” and to the fact that “intellect has no sex”
@@ -30769,6 +30798,9 @@
         <item>Mary Robinson</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
+      </note>
      </bibl>
      <bibl id="a680" default="NO">
       <ref targOrder="U">680.</ref>
@@ -30885,6 +30917,9 @@
         <item>Elizabeth Carter</item>
         <item n="HANNAH_MORE">Hannah More</item>
        </list>
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> Novelist and poet. Some generic chapters. </note>
      </bibl>
@@ -31122,6 +31157,9 @@
         <item>Miss Charlotte Young</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
+      </note>
      </bibl>
      <bibl id="a689" default="NO">
       <ref targOrder="U">689.</ref>
@@ -31270,7 +31308,9 @@
         <item>Mrs. Opie</item>
         <item>Maria-Theresa.</item>
        </list>
-       
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> Not to be associated with Compton MacKenzie's novel
        about lesbians, <title>
