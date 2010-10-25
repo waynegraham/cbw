@@ -19010,16 +19010,16 @@
         <item>Mary Ker</item>
         <item>Mary Calvert</item>
         <item>Anna Backhouse</item>
-        <item>Frances Ridley Havergal. *Pop Chart</item>
+        <item>Frances Ridley Havergal</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a355" default="NO">
       <ref targOrder="U">355.</ref>
       <idno>a355</idno>
-      <author>
-       <abbr expan="Hack, Mary Pryor">---.</abbr>
-      </author>
+      <author><name type="last">Hack</name>, <name type="first">Mary Pryor</name>.</author>
       <title type="ref">
        <hi rend="italics">Consecrated Women.</hi>
       </title>
@@ -19027,7 +19027,8 @@
        <pubPlace>London:</pubPlace>
        <publisher>Hodder &amp; Stoughton,</publisher>
        <date>1880;</date>
-       <date>1892.</date>
+       <date>1892;</date>
+       <date>1893.</date>
       </imprint>
       <imprint>
        <pubPlace>Philadelphia:</pubPlace>
@@ -19053,16 +19054,16 @@
         <item>Lena Huber</item>
         <item>Viscountess Wilhelmina Glenorchy</item>
         <item>Isabella Graham</item>
-        <item>“Marie.” *Pop Chart</item>
+        <item>“Marie.”</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a356" default="NO">
       <ref targOrder="U">356.</ref>
       <idno>a356</idno>
-      <author>
-       <abbr expan="Hack, Mary Pryor">---.</abbr>
-      </author>
+      <author><name type="last">Hack</name>, <name type="first">Mary Pryor</name>.</author>
       <title type="ref">
        <hi rend="italics">Faithful Service: Sketches of Christian Women.</hi>
       </title>
@@ -19077,9 +19078,7 @@
      </bibl>
      <bibl id="a357" default="NO"><ref targOrder="U">357.</ref>
       <idno>a357</idno>
-      <author>
-       <abbr expan="Hack, Mary Pryor">---.</abbr>
-      </author>
+      <author><name type="last">Hack</name>, <name type="first">Mary Pryor</name>.</author>
       <title type="ref">
        <hi rend="italics">Self-Surrender: A Second Series of “Consecrated Women”.</hi>
       </title> With <editor role="editor"><name type="first">John Greenleaf</name>
@@ -19095,6 +19094,7 @@
       <imprint>
        <pubPlace> London:</pubPlace>
        <publisher>Hodder &amp; Stoughton,</publisher>
+       <date>1882;</date>
        <date>1892.</date>
       </imprint>
       <note type="toc">
@@ -19109,9 +19109,11 @@
         <item>Lydia Reid</item>
         <item>Harriet Jukes</item>
         <item>Susannah Gibson</item>
-        <item>Agnes Jones. *Pop Chart</item>
+        <item>Agnes Jones.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a358" default="NO">
       <ref targOrder="U">358.</ref>
@@ -19132,9 +19134,8 @@
      <bibl id="a359" default="NO">
       <ref targOrder="U">359.</ref>
       <idno>a359</idno>
-      <author>
-       <abbr expan="Haggard, Andrew Charles Parker">---.</abbr>
-      </author>
+      <author><name type="last">Haggard</name>, <name type="first">Andrew Charles
+       Parker</name>.</author>
       <title type="ref">
        <hi rend="italics">Remarkable Women of France, <date>1431-1749</date>. With a Frontispiece in
         Photogravure and 16 Other Illustrations in Half-Tone.</hi>
@@ -19193,9 +19194,11 @@
         <item>Charlotte Corday</item>
         <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Sarah Martin</item>
-        <item n="GRACE_DARLING">Grace Darling. *Pop Chart</item>
+        <item n="GRACE_DARLING">Grace Darling.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <note place="unspecified" anchored="yes"> Verbatim excerpts from <title>
         <hi rend="italics">Woman's Record</hi>
        </title>. Illustrations and decorations but not text alter in later editions. </note>
@@ -19203,9 +19206,8 @@
      <bibl id="a361" default="NO">
       <ref targOrder="U">361.</ref>
       <idno>a361</idno>
-      <author>
-       <abbr expan="Hale, Sarah Josepha [Buell]">---.</abbr>
-      </author>
+      <author><name type="last">Hale</name>, <name type="first">Sarah Josepha</name> [<name
+       type="aka">Buell</name>].</author>
       <title type="ref">
        <hi rend="italics">Sketches of American Character.</hi>
       </title>
@@ -19263,9 +19265,8 @@
      <bibl id="a362" default="NO">
       <ref targOrder="U">362.</ref>
       <idno>a362</idno>
-      <author>
-       <abbr expan="Hale, Sarah Josepha [Buell]">---.</abbr>
-      </author>
+      <author><name type="last">Hale</name>, <name type="first">Sarah Josepha</name> [<name
+       type="aka">Buell</name>].</author>
       <title type="ref">
        <hi rend="italics">Woman's Record; or, Sketches of All Distinguished Women, from “The
         Beginning” till [Until-London ed.] <date>A. D. 1850</date>. Arranged in Four Eras--With
@@ -19345,9 +19346,11 @@
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Holt,</publisher>
-       <date>1936.</date>
+       <date>1936;</date>
+       <publisher>Books for Libraries,</publisher>
+       <date>1969.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> Notable Women of the Reign of Louis XIV. </note>
+     <note place="unspecified" anchored="yes"> Notable Women of the Reign of Louis XIV. </note>
      </bibl>
      <bibl id="a365" default="NO"><ref targOrder="U">365.</ref>
       <idno>a365</idno>
@@ -19439,9 +19442,8 @@
      </bibl>
      <bibl id="a366" default="NO"><ref targOrder="U">366.</ref>
       <idno>a366</idno>
-      <author>
-       <abbr expan="Hall, Mrs. Matthew">---.</abbr>
-      </author>
+      <author><name type="last">Hall</name>, <name type="title">Mrs.</name>
+       <name type="first">Matthew</name>.</author>
       <title type="ref">
        <hi rend="italics">Royal Princesses.</hi>
       </title>
@@ -19456,6 +19458,7 @@
        <pubPlace>London and</pubPlace>
        <pubPlace>New York:</pubPlace>
        <publisher>Routledge,</publisher>
+       <date>1858;</date>
        <date>1871.</date>
       </imprint>
       <note type="toc">
@@ -19526,9 +19529,7 @@
      <bibl id="a369" default="NO">
       <ref targOrder="U">369.</ref>
       <idno>a369</idno>
-      <author>
-       <abbr expan="Hamel, Frank">---.</abbr>
-      </author>
+      <author><name type="last">Hamel</name>, <name type="first">Frank</name>.</author>
       <title type="ref">
        <hi rend="italics">Fair Women at Fontainebleau.</hi>
       </title>
@@ -19562,9 +19563,7 @@
      <bibl id="a370" default="NO">
       <ref targOrder="U">370.</ref>
       <idno>a370</idno>
-      <author>
-       <abbr expan="Hamel, Frank">---.</abbr>
-      </author>
+      <author><name type="last">Hamel</name>, <name type="first">Frank</name>.</author>
       <title type="ref">
        <hi rend="italics">Famous French Salons.</hi>
       </title>
@@ -19577,6 +19576,19 @@
        <date>1909;</date>
        <date>1911.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>The Hotel de Rambouillet</item>
+        <item>La Grande Mademoiselle</item>
+        <item>Madame de Sévigné</item>
+        <item>Ninon de Lenclos</item>
+        <item>Madame de Maintenon</item>
+        <item>Madame du Deffand</item>
+        <item>Mademoiselle de Lespinasse</item>
+        <item>Madame de Stael</item>
+        <item>Madame Récamier</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a371" default="NO">
       <ref targOrder="U">371.</ref>
@@ -19612,9 +19624,7 @@
      </bibl>
      <bibl id="a372" default="NO"><ref targOrder="U">372.</ref>
       <idno>a372</idno>
-      <author>
-       <abbr expan="Hamilton, Catherine Jane">---.</abbr>
-      </author>
+      <author><name type="last">Hamilton</name>, <name type="first">Catherine Jane</name>.</author>
       <title type="ref">
        <hi rend="italics">Women Writers: Their Works and Ways.</hi>
       </title> First and second series. <extent rend="vols">2 vols.,</extent>
@@ -19720,7 +19730,9 @@
       <imprint>
        <pubPlace>[London]:</pubPlace>
        <publisher>The Suffrage Shop,</publisher>
-       <date>1910.</date>
+       <date>1910;</date>
+       <publisher>Suffragette Fellowship,</publisher>
+       <date>1948.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -19766,9 +19778,11 @@
         <item>Christian Davies</item>
         <item>Hannah Snell</item>
         <item>Mary Ann Talbot</item>
-        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale. *Pop Chart</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a374" default="NO"><ref targOrder="U">374.</ref>
       <idno>a374</idno>
@@ -19789,6 +19803,38 @@
        <publisher>Cornhill,</publisher>
        <date>1922.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>George Washington and Mary Ball</item>
+        <item>John Adams and Susannah Boylston</item>
+        <item>Thomas Jefferson and Jane Randolph</item>
+        <item>James Madison and Nelly Conway</item>
+        <item>James Monroe and Eliza Jones</item>
+        <item>John Quincy Adams and Abigail Smith</item>
+        <item>Andrew Jackson and Elizabeth Hutchinson</item>
+        <item>Martin Van Buren and Mary Hoes</item>
+        <item>William H. Harrison and Elizabeth Bassett</item>
+        <item>John Tyler and Mary Armistead</item>
+        <item>James K. Polk and Jane Knox</item>
+        <item>Zachary Taylor and Sarah Strother</item>
+        <item>Millard Fillmore and Phere Millard</item>
+        <item>Franklin Pierce and Anna Kendrick</item>
+        <item>James Buchanan and Elizabeth Speer</item>
+        <item>Abraham Lincoln and Nancy Hanks</item>
+        <item>Andrew Johnson and Mary McDonough</item>
+        <item>Ulysses S. Grant and Hannah Simpson</item>
+        <item>Rutherford B. Hays and Sophia Birchard</item>
+        <item>James A. Garfield and Eliza Ballou</item>
+        <item>Chester A. Arthur and Melvina Stone</item>
+        <item>Grover Cleveland and Anne Neal</item>
+        <item>Benjamin Harrison and Elizabeth F. Irwin</item>
+        <item>William McKinley and Nancy Allison</item>
+        <item>Theodore Roosevelt and Martha Bullock</item>
+        <item>William Howard Taft and Louise M. Torrey</item>
+        <item>Woodrow Wilson and Janet Woodrow</item>
+        <item>Warren G. Harding and Phoebe Elizabeth Dickerson</item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes"> NOT:=male-female collective biography. Though mixed,
        it belongs with “Mothers of Great Men” subgenre. </note>
      </bibl>
@@ -19867,8 +19913,9 @@
        <publisher>True,</publisher>
        <date>1889.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> Approx. 160 subjects. <hi rend="bold">*Pop
-        Chart</hi> As in Ellet's more exclusive <title>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
+      <note place="unspecified" anchored="yes"> Approx. 160 subjects. As in Ellet's more exclusive <title>
         <hi rend="italics">Queens of American Society</hi>
        </title> in the same decade, chapter subheadings in <title>
         <hi rend="italics">Daughters of America</hi>
@@ -19951,8 +19998,10 @@
         <item>The Modern Woman on the Stage: Eleonora Duse</item>
         <item>The Woman Naturalist: Amalie Skram</item>
         <item>A Young Girl's Tragedy: Marie Bashkirtseff</item>
-        <item>The Woman's Rights Woman: A. Ch. Edgren-Leffler. *Pop Chart</item>
+        <item>The Woman's Rights Woman: A. Ch. Edgren-Leffler.</item>
        </list>
+       <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+        Chart</hi></note>
       </note>
       <note place="unspecified" anchored="yes"> Also catalogued under Marholm. Endpaper ads for “The
        Keynote Series”: works by George Egerton, Grant Allen, Dostoievsky [sic], Gertrude Dix, etc.,
@@ -19961,9 +20010,7 @@
      <bibl id="a379" default="NO">
       <ref targOrder="U">379.</ref>
       <idno>a379</idno>
-      <author>
-       <abbr expan="Hansson, Laura Marholm">---.</abbr>
-      </author>
+      <author><name type="last">Hansson</name>, <name type="first">Laura Marholm</name>.</author>
       <title type="ref">
        <hi rend="italics">We Women and Our Authors.</hi>
       </title>
@@ -19993,7 +20040,7 @@
      <bibl id="a379A" default="NO">
       <ref targOrder="U">379A</ref>
       <idno>a379A</idno>
-      <author><name type="last">Hardy,</name><name type="first">Florence Emily</name>.</author>
+      <author><name type="last">Hardy, </name><name type="first">Florence Emily</name>.</author>
       <title type="ref"><hi rend="italics">Eminent Women: Coloured Illustrations and Six Portraits
         and Pictures.</hi></title>
       <imprint>
@@ -20025,8 +20072,22 @@
       <imprint>
        <pubPlace>London and</pubPlace>
        <pubPlace>New York:</pubPlace>
-       <publisher>Harper; Scribner,</publisher>
-       <date>1904.</date>
+       <publisher>Harper; Scribner</publisher>
+       <date>1904;</date>
+      </imprint>
+      <imprint>
+       <publisher>Scribner,</publisher>
+       <date>1905;</date>
+      </imprint>
+      <imprint>
+       <publisher>Harper,</publisher>
+       <date>1907;</date>
+       <date>1911.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Williamstown, Mass:</pubPlace>
+       <publisher>Corner House,</publisher>
+       <date>1972.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> British Library lists 20 titles by Christopher Hare,
        published by various houses in London <date>1897-1917</date>. Works include historical
@@ -20189,6 +20250,58 @@
        <date>1866;</date>
        <date>1870.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Catherine M. Sedgwick</item>
+        <item>Eliza Leslie</item>
+        <item>Caroline Gilman</item>
+        <item>Sarah Hall</item>
+        <item>Maria J. McIntosh</item>
+        <item>Lydia H. Sigourney</item>
+        <item>Sarah J. Hale</item>
+        <item>Louisa C. Tuthill</item>
+        <item>Caroline M. Kirkland</item>
+        <item>Lydia M. Child</item>
+        <item>Emma C. Embury</item>
+        <item>Mary S. H. Schindler</item>
+        <item>Caroline Lee Hentz</item>
+        <item>Hannah Adams</item>
+        <item>Elizabeth F. Ellet</item>
+        <item>E. Oakes Smith</item>
+        <item>Louisa S. McCord</item>
+        <item>Ann S. Stephens</item>
+        <item>Frances S. Osgood</item>
+        <item>Elizabeth C. Kinney</item>
+        <item>Harriet Farley</item>
+        <item>Mary H. Eastman</item>
+        <item>S. Margaret Fuller</item>
+        <item>Harriet Beecher Stowe</item>
+        <item>Sara H. Browne</item>
+        <item>Maria J. B. Browne</item>
+        <item>Elizabeth Bogart</item>
+        <item>Jane Elizabeth Larcombe</item>
+        <item>Emily C. Judson</item>
+        <item>Sara J. Clarke</item>
+        <item>Anne C. Lynch</item>
+        <item>Mary E. Hewitt</item>
+        <item>Alice B. Neal</item>
+        <item>Clara Moore</item>
+        <item>Ann E. Porter</item>
+        <item>E. W. Barnes</item>
+        <item>Anne T. Wilbur</item>
+        <item>Eliza L. Sproat</item>
+        <item>Mary Spenser Pease</item>
+        <item>Susan Fenimore Cooper</item>
+        <item>Elizabeth Wetherell</item>
+        <item>Caroline Orne</item>
+        <item>Caroline May</item>
+        <item>Julia C. R. Dorr</item>
+        <item>Mary Elizabeth Moragne</item>
+        <item>Mary Elizabeth Lee</item>
+        <item>Mary J. Windle</item>
+        <item>Frances B. M. Brotherson</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a386" default="NO">
       <ref targOrder="U">386.</ref>
@@ -20258,9 +20371,7 @@
      <bibl id="a388" default="NO">
       <ref targOrder="U">388.</ref>
       <idno>a388</idno>
-      <author>
-       <abbr expan="Harvey, Frances Vernon">[---].</abbr>
-      </author>
+      <author><name type="last">Harvey</name>, <name type="first">Frances Vernon</name>.</author>
       <title type="ref">
        <hi rend="italics">Women Helpers of their Nation. By the Author of ‘The Six Maries,’
         etc.</hi>
@@ -20371,9 +20482,7 @@
      <bibl id="a394" default="NO">
       <ref targOrder="U">394.</ref>
       <idno>a394</idno>
-      <author>
-       <abbr expan="Hayward, Charles F">---.</abbr>
-      </author>
+      <author><name type="last">Hayward</name>, <name type="first">Charles F.</name></author>
       <title type="ref">
        <hi rend="italics">Women Missionaries.</hi>
       </title>
@@ -20476,6 +20585,30 @@
        <publisher>Doran,</publisher>
        <date>1917.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Court Beauties of the Second Empire</item>
+        <item>Recollections of Queen Victoria</item>
+        <item>Royal Gamblers and Their Amours</item>
+        <item>Court Society Around the Prince of Wales</item>
+        <item>The Gallantries of His Royal Highness</item>
+        <item>Brides and Wedding Gowns of the Court of St. James</item>
+        <item>A Royal Love Affair</item>
+        <item>Authors and Actors of King Edward's Reign</item>
+        <item>The Modern Spirit of King Edward's Rule</item>
+        <item>His Majesty's Last Affair of the Heart</item>
+        <item>Some Beauties of King Edward's Reign</item>
+        <item>Personal Anecdotes of Queen Mary</item>
+        <item>Some Beautiful American Women in England</item>
+        <item>Her Majesty the Queen of Roumania</item>
+        <item>Other Memories in England</item>
+        <item>Some Famous Grandes Dames</item>
+        <item>Some Recollections of Royal Children</item>
+        <item>Ministers and Prime Ministers I Have Known</item>
+        <item>The Last London Season Before the War</item>
+        <item>My Last Days in London</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a397" default="NO"><ref targOrder="U">397.</ref>
       <idno>a397</idno>
@@ -20507,9 +20640,11 @@
         <item>Maude Adams</item>
         <item>Julia Marlowe</item>
         <item>Sarah Bernhardt</item>
-        <item>Ellen Key. *Pop Chart</item>
+        <item>Ellen Key.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <note place="unspecified" anchored="yes"> Epigraph: “Give us labor and the training which fits
        for labor. We demand this not for ourselves alone, but for the race.---Olive Schreiner.”
        Illustrated with photographs. </note>
@@ -20691,8 +20826,10 @@
       <note place="unspecified" anchored="yes"> Variant title of <title>
         <hi rend="italics">Lives of Celebrated Female Sovereigns and Illustrious Women</hi>
        </title>, ed. Hewitt (some identical publication data, identical subjects). See my listing
-       under <ref target="a454" targOrder="U">Jameson</ref>. <hi rend="bold">*Pop Chart</hi>
+       under <ref target="a454" targOrder="U">Jameson</ref>. 
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a403A" default="NO">
       <ref targOrder="U">403A.</ref>
@@ -20715,6 +20852,11 @@
        <publisher>Dutton,</publisher>
        <date>1938;</date>
        <date>1941.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Freeport, NY:</pubPlace>
+       <publisher>Books for Libraries,</publisher>
+       <date>1969.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -20991,9 +21133,11 @@
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item n="JENNY_LIND">Jenny Lind</item>
         <item>Rosa Bonheur</item>
-        <item>Louisa May Alcott. *Pop Chart</item>
+        <item>Louisa May Alcott.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <note place="unspecified" anchored="yes"> Frontispiece Joan of Arc. U. Virginia copy Part One,
        inscribed: “Dorothea David/ March, 1921/ From Daddy,” has pasted photographs on endpapers:
        “Joan of Arc's Home in Domremmy, France.” and “Joan of Arc—age of 18.” </note>
@@ -21131,9 +21275,8 @@
      </bibl>
      <bibl id="a411" default="NO"><ref targOrder="U">411.</ref>
       <idno>a411</idno>
-      <author>
-       <abbr expan="Holloway, Laura Carter [Langford]">---.</abbr>
-      </author>
+      <author><name type="last">Holloway</name>, <name type="first">Laura Carter</name> [<name
+       type="aka">Langford</name>].</author>
       <title type="ref">
        <hi rend="italics">The Mothers of Great Men and Women, and Some Wives of Great Men.</hi>
       </title> Illustrated. <imprint>
@@ -21270,9 +21413,8 @@
      <bibl id="a412" default="NO">
       <ref targOrder="U">412.</ref>
       <idno>a412</idno>
-      <author>
-       <abbr expan="Holloway, Laura Carter [Langford]">---.</abbr>
-      </author>
+      <author><name type="last">Holloway</name>, <name type="first">Laura Carter</name> [<name
+       type="aka">Langford</name>].</author>
       <title type="ref">
        <hi rend="italics">The Woman's Story, as Told by Twenty American Women.</hi>
       </title>
@@ -21424,7 +21566,9 @@
        <publisher>Leadenhall;</publisher>
        <pubPlace>New York:</pubPlace>
        <publisher>Scribner,</publisher>
-       <date>1883.</date>
+       <date>1883;</date>
+       <publisher>Leadenhall:</publisher>
+       <date>1891.</date>
       </imprint>
       <imprint>
        <pubPlace>London and</pubPlace>
@@ -21507,9 +21651,11 @@
         <item>Harriet Hosmer</item>
         <item>Louisa M. Alcott</item>
         <item>Frances E. Willard</item>
-        <item>Women on the Battlefield and in Pioneer Life. *Pop Chart</item>
+        <item>Women on the Battlefield and in Pioneer Life.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a420" default="NO">
       <ref targOrder="U">420.</ref>
@@ -21527,11 +21673,13 @@
        <pubPlace>London:</pubPlace>
        <publisher>Service &amp; Paton,</publisher>
        <date>1898;</date>
+       <date>1900.</date>
       </imprint>
       <imprint>
        <publisher>Nisbet,</publisher>
        <date>1897;</date>
        <date>1899;</date>
+       <date>1900;</date>
        <date>1911.</date>
       </imprint>
       <note type="toc">
@@ -21555,9 +21703,10 @@
         <item>The Little Captive Maid</item>
         <item>Huldah</item>
         <item>The Wives of the Prophets</item>
-        <item>Esther. British Library</item>
+        <item>Esther.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes">In the British Library</note>
      </bibl>
      <bibl id="a421" default="NO">
       <ref targOrder="U">421.</ref>
@@ -21769,8 +21918,10 @@
         <item>Mary Lamb</item>
         <item>Jane Austen</item>
         <item>Empress Josephine</item>
-        <item>Mary W. Shelley. *Pop Chart</item>
+        <item>Mary W. Shelley.</item>
        </list>
+       <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+        Chart</hi></note>
       </note>
       <note place="unspecified" anchored="yes"> Cambridge University Library owns Roycrofters
        edition of <hi rend="italics">Famous Women</hi> dated 1888 (in error?). In
@@ -21785,9 +21936,7 @@
      <bibl id="a426" default="NO">
       <ref targOrder="U">426.</ref>
       <idno>a426</idno>
-      <author>
-       <abbr expan="Hubbard, Elbert">---.</abbr>
-      </author>
+      <author><name type="last">Hubbard</name>, <name type="first">Elbert</name>.</author>
       <title type="ref">
        <hi rend="italics">Three Great Women: Being Little Journeys.</hi>
       </title>
@@ -22004,8 +22153,10 @@
         <item>Mrs. E. J. Thompson</item>
         <item n="QUEEN_VICTORIA">Victoria</item>
         <item>Frances E. Willard</item>
-        <item>Letitia Youmans. *Pop Chart</item>
+        <item>Letitia Youmans.</item>
        </list>
+       <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+        Chart</hi></note>
       </note>
      </bibl>
      <bibl id="a434" default="NO">
@@ -23925,7 +24076,16 @@
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Brown,</publisher>
-       <date>1932.</date>
+       <date>1932;</date>
+      </imprint>
+      <imprint>
+      <publisher>Herzl,</publisher>
+       <date>1975.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Hanover, NH:</pubPlace>
+       <publisher>University Press of New England,</publisher>
+       <date>2002</date>
       </imprint>
      </bibl>
      <bibl id="a476" default="NO">
@@ -23939,7 +24099,8 @@
       <imprint>
        <pubPlace>Leipzig:</pubPlace>
        <publisher>Tauchnitz,</publisher>
-       <date>1862.</date>
+       <date>1862;</date>
+       <date>1872.</date>
       </imprint>
       <imprint>
        <pubPlace>London:</pubPlace>
@@ -23963,9 +24124,7 @@
      <bibl id="a477" default="NO">
       <ref targOrder="U">477.</ref>
       <idno>a477</idno>
-      <author>
-       <abbr expan="Kavanagh, Julia">---.</abbr>
-      </author>
+      <author><name type="last">Kavanagh</name>, <name type="first">Julia</name>.</author>
       <title type="ref">
        <hi rend="italics">French Women of Letters: Biographical Sketches.</hi>
       </title>
@@ -23994,9 +24153,7 @@
      <bibl id="a478" default="NO">
       <ref targOrder="U">478.</ref>
       <idno>a478</idno>
-      <author>
-       <abbr expan="Kavanagh, Julia">---.</abbr>
-      </author>
+      <author><name type="last">Kavanagh</name>, <name type="first">Julia</name>.</author>
       <title type="ref">
        <hi rend="italics">Woman in France During the Eighteenth Century.</hi>
       </title>
@@ -24045,9 +24202,7 @@
      <bibl id="a479" default="NO">
       <ref targOrder="U">479.</ref>
       <idno>a479</idno>
-      <author>
-       <abbr expan="Kavanagh, Julia">---.</abbr>
-      </author>
+      <author><name type="last">Kavanagh</name>, <name type="first">Julia</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of Christianity, Exemplary for Acts of Piety and Charity.</hi>
       </title>
@@ -24064,6 +24219,7 @@
        <date>1858;</date>
        <date>1860;</date>
        <date>1864;</date>
+       <date>1865;</date>
        <date>1866;</date>
        <date>1869.</date>
       </imprint>
@@ -24276,6 +24432,24 @@
        <publisher>C. H. [sic] Kelly,</publisher>
        <date>1897.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Susanna Wesley</item>
+        <item>Mary Bosanquet</item>
+        <item>Lady Mary Fitzgerald and Elizabeth Mortimer</item>
+        <item>Hester Ann Rogers</item>
+        <item>Lady Maxwell Darcy</item>
+        <item>Barbara Heck</item>
+        <item>Agnes Bulmer</item>
+        <item>Caroline Eliza Walker</item>
+        <item>Jane Tucker</item>
+        <item>Anne Lutton</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">Chapter Titles: The Mother of Methodism, A Sister of the Poor,
+       Two Friends of Mrs. Fletcher, A Life Hidden with God, A Scottish Methodist of the First Days,
+       The Foundress of American Methodism, A Christian Poetess, One "Led by the Spirit," A Teacher of the Heathen,
+       A Consecrated Life of Joy.</note>
       <note place="unspecified" anchored="yes">British Library.</note>
      </bibl>
      <bibl id="a482" default="NO">
@@ -24384,9 +24558,11 @@
         <item n="JENNY_LIND">Jenny Lind</item>
         <item>Clara Barton</item>
         <item>Rosa Bonheur</item>
-        <item>Louisa Alcott. *Pop Chart</item>
+        <item>Louisa Alcott.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a486" default="NO">
       <ref targOrder="U">486.</ref>
@@ -24461,6 +24637,8 @@
         <item>Elizabeth Gilbert. *Pop Chart</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a490" default="NO">
       <ref targOrder="U">490.</ref>
