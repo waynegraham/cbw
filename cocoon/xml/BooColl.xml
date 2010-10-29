@@ -10122,10 +10122,10 @@
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 64-65.</xref>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Introduction</item>
-        <item n="QUEEN_VICTORIA">Her Majesty the Queen</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>The Baroness Burdett-Coutts</item>
@@ -10246,15 +10246,15 @@
        <date>1859;</date>
        <date>1861.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">Chapter Titles: Eras in Woman’s Life, 
-       Josephine, 
-       Madame de Sévigné, Marie Louise, Suburban Romance, 
-       Charlotte Corday, The Fountain Very Far Down, Madame Roland, ”Catch the Sunshine,”
-       Bertram the Lime Burner, Madame Junot, A Mule Ride in Madeira, Madame Récamier,
-        Paul Pyne, Pauline Bonaparte, Caroline Bonaparte, Lost Alice, Madame de Staël 
-        Hortense, Phantoms of Fonainebleau, M’lle Lenormand, 
-        Madame Jerome Bonaparte, The Last Picture, Grace Ingersoll
-       Madame Regnault, M’lle Georges.</note>
+      <note place="unspecified" anchored="yes">Chapter Titles: Eras in Woman’s Life; 
+       Josephine; 
+       Madame de Sévigné; Marie Louise; Suburban Romance; 
+       Charlotte Corday; The Fountain Very Far Down; Madame Roland; ”Catch the Sunshine;”
+       Bertram the Lime Burner; Madame Junot; A Mule Ride in Madeira; Madame Récamier;
+        Paul Pyne; Pauline Bonaparte; Caroline Bonaparte; Lost Alice; Madame de Staël;
+        Hortense; Phantoms of Fonainebleau; M’lle Lenormand; 
+        Madame Jerome Bonaparte; The Last Picture; Grace Ingersoll;
+       Madame Regnault; M’lle Georges.</note>
       <note place="unspecified" anchored="yes">Biographies of women of the Bonaparte family.</note>
      </bibl>
      <bibl id="a148" default="NO"><ref targOrder="U">148.</ref>
@@ -10409,13 +10409,11 @@
         <item>Mrs. MacClarty</item>
         <item>Helen Gray</item>
         <item>The Sister of Rembrandt</item>
-        <item n="MADAME_ROLAND">Madame Roland. Illustrated at head and foot of chapters</item>
+        <item n="MADAME_ROLAND">Madame Roland.</item>
         <item>pagination resumes repeatedly (prob. issues bound together).</item>
        </list>
-       <note> Chapter Titles: Joan of Arc, Elizabeth Stuart and the Palatinate/ The Heroine of Siberia, Poems of the Domestic Affections, Grace Darling, Grizel Cochrane, Select Poems on Love for Flowers, Flora MacDonald, Passion and Principle, Women's Trials in Humble Life, Love Is Power, Mrs. MacClarty--Scenes from the “Cottagers of Glenburnie,” Three Ways of Living, Annals of the Poor--Female Industry and Intrepidity, Helen Gray, The Sister of Rembrandt, Madame Roland.</note>
-       <hi rend="bold">*Pop Chart</hi>
-       
       </note>
+      <hi rend="bold">*Pop Chart</hi>
       <note place="unspecified" anchored="yes"> British Library. Univ. of Georgia copy: bookplate:
        “Royal School,/ Dunkeld./ Session <date>1897-1898</date>./Standard III/Isobel
        MacNaughton/Second Prize/ G. R. Croll, M.A./ Rector.” Amazonian Joan of Arc in gold on cover,
@@ -11195,7 +11193,7 @@
       </imprint>
       <note type="chapter_titles">
        <list>
-        <item>I. Comprising the Women of Asia and Africa</item>
+        <item>I. Comprising the Women of Asia and Africa </item>
         <item>II. Comprising the Women of Europe, America, and South Sea Islands</item>
        </list>
       </note>
@@ -12169,7 +12167,7 @@
         <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Mrs. Isabel Reaney</item>
         <item>Mary Ann Rogers</item>
-        <item n="FRANCES_COBBE">Frances Power Cobbe.</item>
+        <item n="FRANCES_COBBE">Frances Power Cobbe</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes">Refers to Victoria's funeral, the
@@ -12277,7 +12275,7 @@
         <item>Louisa May Alcott</item>
         <item n="SISTER_DORA">Dorothy Pattison [Sister Dora]</item>
         <item>Jean Ingelow</item>
-        <item>Mary Carpenter.</item>
+        <item>Mary Carpenter</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Riches. San Jose State Library copy of NY edition:
@@ -12556,8 +12554,7 @@
       </imprint>
       <note type="chapter_titles">
        <list>
-        <item n="CAROLINE_HERSCHEL">British Library. No. 6: Eminent Women . TOC: Caroline
-         Herschel</item>
+        <item n="CAROLINE_HERSCHEL">Caroline Herschel</item>
         <item>The Princess de Lamballe</item>
         <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Elizabeth Barrett Browning</item>
@@ -12713,7 +12710,8 @@
       </imprint>
       <note type="toc">
        <list>
-        <item n="HANNAH_MORE">vol. I. Hannah More</item>
+        <item>vol. I. </item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Frances Burney (Mme D'Arblay)</item>
         <item>Mary Wollstonecraft (Godwin)</item>
         <item>Mary W. Godwin (Shelley)</item>
@@ -12723,7 +12721,8 @@
         <item>Joanna Baillie</item>
         <item>Lady Blessington</item>
         <item>Mary Russell Mitford</item>
-        <item>--vol. II. Harriet Martineau</item>
+        <item>vol. II.</item>
+        <item>Harriet Martineau</item>
         <item>Aurore Dudevant (George Sand)</item>
         <item>Elizabeth Barrett Browning</item>
         <item>Margaret Fuller (Ossoli)</item>
