@@ -42,7 +42,7 @@
 	
 	<xsl:template match="note[@type='toc']">
 		<p class="notepara">
-			<xsl:text><strong>TOC: </strong></xsl:text>
+			<strong><xsl:text>TOC: </xsl:text></strong>
 			<xsl:for-each select=".//item[position() &lt; last()]">
 				<xsl:choose>
 					<xsl:when test="@n">
@@ -72,7 +72,7 @@
 	
 	<xsl:template match="note[@type='chapter_titles']">
 		<p class="notepara">
-			<xsl:text><strong>Chapter titles: </strong></xsl:text>
+			<strong><xsl:text>Chapter titles: </xsl:text></strong>
 			<xsl:for-each select=".//item[position() &lt; last()]">
 				<xsl:choose>
 					<xsl:when test="@n">
