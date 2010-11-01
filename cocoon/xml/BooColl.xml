@@ -10110,6 +10110,9 @@
       <title type="ref">
        <hi rend="italics">Twelve Notable Good Women of the XIX Century, with Twelve Portraits.</hi>
       </title>
+      <title type="search">
+       Lives of Eminent Women and Tales for Girls
+      </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Hutchinson;</publisher>
@@ -10212,6 +10215,9 @@
       <editor role="translator"><name type="title">Rev.</name>
        <name type="first">Edward</name>
        <name type="last">Peach</name>.</editor>
+      <title type="search">
+       Young Ladies' Mirror
+      </title>
       <imprint>
        <pubPlace>Philadelphia:</pubPlace>
        <publisher>M. Fithian,</publisher>
@@ -10412,7 +10418,7 @@
         <item>Mrs. MacClarty</item>
         <item>Helen Gray</item>
         <item>The Sister of Rembrandt</item>
-        <item n="MADAME_ROLAND">Madame Roland.</item>
+        <item n="MADAME_ROLAND">Madame Roland</item>
         <item>pagination resumes repeatedly (prob. issues bound together).</item>
        </list>
       </note>
@@ -10962,6 +10968,9 @@
        <hi rend="italics">The Women of the Gospels: Meditations on Some Traits of Feminine Character
         Recorded by the Evangelists: Selected from the Works of Chrysostom, Augustine, Calvin,
         Jeremy Taylor, and Other Writers.</hi>
+       </title>
+      <title type="search">
+       The Female Martyrs of the English Reformation
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
@@ -11060,7 +11069,10 @@
      <bibl id="a169" default="NO"><ref targOrder="U">169.</ref>
       <idno>a169</idno>
       <author><name type="last">Child</name>, <name type="first">Lydia Maria
-       Francis</name>.</author>
+      Francis</name>.</author>
+      <title type="search">
+       Biographies of Lady Russell and Madame
+      </title>
       <title type="ref">
        <hi rend="italics">Biographies of Lady Russell and Mme. Guyon.</hi>
       </title> Ladies' Family Library, ed. Lydia Child, vol. 2. <imprint>
@@ -11211,6 +11223,9 @@
        <hi rend="italics">Missionary Biography. The Memoir of Sarah B. Judson, Member of the
         American Mission to Burmah, by Fanny Forester. With an introductory notice by Edward Bean
         Underhill.</hi>
+      </title>
+      <title type="search">
+       Missionary Biography. The Memoir of Sarah B. Judson
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
@@ -11391,7 +11406,10 @@
         Concordance to Shakespear,” ETC., ETC. Illustrated with seventeen engravings on Steel, from
         Original designs by Charles Staal.</hi>
       </title>
-      <imprint>
+      <title type="search">
+       World-Noted Women; or, Types of Womanly Attributes
+      </title>
+       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Appleton,</publisher>
        <date>1857;</date>
@@ -12241,6 +12259,9 @@
       <title type="ref">
        <hi rend="italics">Lives of Good and Great Women.</hi>
       </title>
+      <title type="search">
+       Lives of Good and Great Women
+      </title>
       <imprint>
        <pubPlace>London and</pubPlace>
        <date>n.d.</date>
@@ -12535,6 +12556,9 @@
         <date>1861-[1938]</date>.</hi>
       </title>
       <extent rend="vols">6 vols.</extent>
+      <title type="search">
+       Biographies of Representative Women of the South
+      </title>
       <imprint>
        <pubPlace>[College Park? GA]:</pubPlace>
        <publisher>Margaret Collier,</publisher>
@@ -12584,6 +12608,8 @@
       <title type="ref">
        <hi rend="italics">A Garden of Girls; or, Famous Schoolgirls of Former Days.</hi>
       </title>
+      <title type="search">
+       A garden of girls </title>
       <imprint>
        <pubPlace>London and</pubPlace>
        <pubPlace>New York:</pubPlace>
@@ -12701,6 +12727,8 @@
        <hi rend="italics">Pen-Portraits of Literary Women by Themselves and Others.</hi>
       </title>
       <extent rend="vols">2 vols.</extent>
+      <title type="search">
+       Pen-Portraits of Literary Women by </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Cassell,</publisher>
@@ -12793,6 +12821,8 @@
         Guyon, Caroline Herschel, Mary Unwin, Dorothy Wordsworth and Other Mothers, Wives, Sisters,
         and Friends Who Have Helped Great Men.</hi>
       </title>
+      <title type="search">
+       The Romance of Woman </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Blackie,</publisher>
@@ -14579,7 +14609,8 @@
        <hi rend="italics">The Congress of Women, Held in the Woman's Building, World's Columbian
         Exposition, Chicago, U.S.A, <date>1893</date>; with Portraits, Biographies and
         Addresses.</hi>
-      </title>
+        </title>
+      <title type="search">The Congress of Women, Held in the Woman's Building </title>
       <imprint>
        <pubPlace>Chicago:</pubPlace>
        <publisher>American; Conkey; Monarch; Benham,</publisher>
@@ -14947,6 +14978,7 @@
         Features of the Successive Administrations from Washington to Grant...Illustrated with
         Original Portraits, Splendidly Engraved on Steel.</hi>
       </title>
+      <title type="search">The Court Circles of the Republic </title>
       <imprint>
        <pubPlace>Hartford, CT, and</pubPlace>
        <pubPlace>New York:</pubPlace>
@@ -15524,6 +15556,7 @@
       <title type="ref">
        <hi rend="italics">Eminent Women in Australia [Mrs. Sophie Corrie].</hi>
       </title>
+      <title type="search">Eminent Women in Australia </title>
       <imprint>
        <pubPlace>Sydney:</pubPlace>
        <publisher>[Brooks],</publisher>
@@ -15626,6 +15659,7 @@
       <title type="ref">
        <hi rend="italics">Heroines of Unknown Ways: A Book for Leaders of Senior Girls.</hi>
       </title>
+      <title type="search">Heroines of Unknown Ways </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>United Council for Missionary Education,</publisher>
