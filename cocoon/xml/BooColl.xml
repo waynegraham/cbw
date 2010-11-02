@@ -15851,6 +15851,7 @@
        <hi rend="italics">Facts to Correct Fancies; or, Short Narratives Compiled from the Biography
         of Remarkable Women. Written for Children, by a Mother.</hi>
       </title>
+      <title type="search"> Facts to Correct Fancies </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Harris,</publisher>
@@ -15913,6 +15914,7 @@
       <title type="ref">
        <hi rend="italics">Famous Girls.</hi>
       </title>
+      <title type="search"> "Famous Girls." darton</title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher/>
@@ -15954,6 +15956,7 @@
       <title type="ref">
        <hi rend="italics">Famous Women of History.</hi>
       </title>
+      <title type="search"> Famous Women of History. pinkham </title>
       <imprint>
        <pubPlace>[Lynn, MA:</pubPlace>
        <publisher>Lydia E. Pinkham,</publisher>
@@ -16075,6 +16078,7 @@
        <hi rend="italics">The National Exposition Souvenir: What America Owes to Woman.</hi>
       </title> Introduction by <editor role="editor"><name type="first">Julia Ward</name>
        <name type="last">Howe</name>.</editor>
+      <title type="search"> The National Exposition Souvenir</title>
       <imprint>
        <pubPlace>Chicago:</pubPlace>
        <publisher>Charles Wells Moulton; Buffalo, NY: n.p.,</publisher>
@@ -16311,6 +16315,7 @@
        <hi rend="italics">Some Beauties of the Seventeenth Century. With 82 Illustrations.</hi>
       </title>
       <edition>2d ed.,</edition>
+      <title type="search">Some Beauties of the Seventeenth Century</title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Methuen,</publisher>
@@ -16347,6 +16352,7 @@
        <hi rend="italics">The Romantic Story of Georgia's Women. As Told to Carter Brooke Jones in
         the Atlanta Georgian.</hi>
       </title>
+      <title type="search">The Romantic Story of Georgia's Women </title>
       <imprint>
        <pubPlace>[Atlanta]:</pubPlace>
        <publisher>Atlanta Georgian and Sunday American,</publisher>
@@ -16921,6 +16927,7 @@
         Lord Byron's Poems. Engraved from original paintings by eminent artists. With extracts
         illustrating each subject.</hi>
       </title>
+      <title type="search">Beauties of Byron; or, Portraits of the Principal</title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Tilt;</publisher>
@@ -17112,6 +17119,7 @@
         of women writers of the first half of the 19th century, supplemented with selections from
         their writings.</hi>
       </title>
+      <title type="search">The Women of the South Distinguished in Literature</title>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Derby &amp; Jackson,</publisher>
@@ -17189,6 +17197,7 @@
        <hi rend="italics">Who's Who Among Minnesota Women. A History of Woman's Work in Minnesota
         from Pioneer Days to Date.</hi>
       </title>
+      <title type="search">Who's Who Among Minnesota Women. A History of Women's Work </title>
       <imprint>
        <pubPlace>[Saint Paul, MN]:</pubPlace>
        <publisher>Foster,</publisher>
@@ -22649,6 +22658,7 @@
       <title type="ref">
        <hi rend="italics">Heroines of the Modern Stage. Illustrated.</hi>
       </title>
+      <title type="search">Heroines of the Modern Stage </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Sturgis &amp; Walton;</publisher>
@@ -23014,6 +23024,7 @@
         after Sir Peter Lely and Other Eminent Painters: Illustrating the Diaries of Pepys, Evelyn,
         Clarendon, and Other Contemporary Writers.</hi>
       </title>
+      <title type="search">Memoirs of the Beauties of the Court of Charles II </title>
       <imprint>
        <date>1831.</date>
       </imprint>
@@ -23786,6 +23797,7 @@
         Furnish an Incentive and Encouragement to Effort and Endurance, and Whose Example Stimulates
         to Industry and Perseverance.</hi>
       </title>
+      <title type="search">Clever Girls of Our Time and How They Became Famous Women </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Darton &amp; Hodge,</publisher>
@@ -24072,6 +24084,7 @@
        <hi rend="italics">Memoirs of Celebrated Women of All Countries. With Portraits by the Most
         Eminent Masters.</hi>
       </title>
+      <title type="search">Memoirs of Celebrated Women of All Countries </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Churton,</publisher>
@@ -26660,6 +26673,7 @@
       <title type="ref">
        <hi rend="italics">Enchanters of Men, With Twenty-Four Illustrations.</hi>
       </title>
+      <title type="search">Enchanters of Men, mayne </title>
       <imprint>
        <pubPlace>Philadelphia:</pubPlace>
        <publisher>Jacobs,</publisher>
@@ -26737,7 +26751,8 @@
       <idno>a558A</idno>
       <author><name type="last">McNeill</name>, <name type="first">William</name>.</author>
       <title type="ref"><hi rend="italics">The Noble Women of the Staircase and Atrium Windows in
-        the Lady Chapel of the Liverpool Cathedral</hi>.</title>
+      the Lady Chapel of the Liverpool Cathedral</hi>.</title>
+      <title type="search">The Noble Women of the Staircase </title>
       <imprint>
        <pubPlace>Liverpool:</pubPlace>
        <publisher>Daily Post,</publisher>
@@ -26814,6 +26829,7 @@
       <imprint>
        <date>n.d.</date>
       </imprint>
+      <title type="search">Maids of Honour</title>
       <note type="toc">
        <list>
         <item>Caroline of Anspach</item>
@@ -27196,6 +27212,7 @@
       <title type="ref">
        <hi rend="italics">Heroines: True Tales of Brave Women: A Book for British Girls.</hi>
       </title>
+      <title type="search">Heroines: True Tales of Brave Women: A Book for British Girls </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>S. W. Partridge,</publisher>
@@ -27676,6 +27693,7 @@
         of the Most Famous Belles of Cupid's Court for Two Centuries.</hi>
       </title>
       <edition>11th ed.,</edition>
+      <title type="search">Folly's Queens; or Women Whose Loves Have Ruled </title>
       <imprint>
        <pubPlace>[New York]:</pubPlace>
        <publisher>Fox,</publisher>
@@ -27730,6 +27748,7 @@
       <title type="ref">
        <hi rend="italics">The Work of Afro-American Women</hi>
       </title>
+      <title type="search">The Work of Afro-American Women </title>
       <imprint>
        <date>(1894).</date>
       </imprint>
@@ -27875,6 +27894,7 @@
       <title type="ref">
        <hi rend="italics">Tales of Female Heroism.</hi>
       </title>
+      <title type="search">Tales of Female Heroism </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>James Burns,</publisher>
@@ -27993,6 +28013,7 @@
       <title type="ref">
        <hi rend="italics">Women in India: Who's Who?</hi>
       </title>
+      <title type="search">Women in India who's who </title>
       <imprint>
        <pubPlace>Bombay:</pubPlace>
        <publisher>n.p.,</publisher>
@@ -28037,6 +28058,7 @@
       <title type="ref">
        <hi rend="italics">Women of Hawaii.</hi>
       </title>
+      <title type="search">Women of Hawaii </title>
       <imprint>
        <pubPlace>[Honolulu]:</pubPlace>
        <publisher>Langton Boyle,</publisher>
@@ -28076,7 +28098,8 @@
       <editor role="editor"><name type="last">Nevin</name>, <name type="first">James
        Banks</name>,</editor> ed. <title type="ref">
        <hi rend="italics">Prominent Women of Georgia.</hi>
-      </title>
+       </title>
+      <title type="search">Prominent Women of Georgia </title>
       <imprint>
        <pubPlace>Atlanta:</pubPlace>
        <publisher>National Biographical,</publisher>
@@ -30193,6 +30216,7 @@
        <hi rend="italics">Maids of Honour: A Tale of the Court of George I.</hi>
       </title>
       <extent rend="vols">3 vols.,</extent>
+      <title type="search"> Maids of Honour: A Tale of the Court of George I </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Colburn,</publisher>
@@ -30589,6 +30613,7 @@
       <title type="ref">
        <hi rend="italics">The Negro Women of Gainesville, Georgia.</hi>
       </title>
+      <title type="search">The Negro Women of Gainesville</title>
       <imprint>
        <pubPlace>Athens:</pubPlace>
        <publisher>University of Georgia Press,</publisher>
@@ -30615,6 +30640,7 @@
       <title type="ref">
        <hi rend="italics">Remarkable Women of Different Nations and Ages. 1st ser.</hi>
       </title>
+      <title type="search">Remarkable Women of Different Nations and Ages </title>
       <imprint>
        <pubPlace>Boston and</pubPlace>
        <pubPlace>Cleveland:</pubPlace>
@@ -31542,6 +31568,7 @@
       <title type="ref">
        <hi rend="italics">Women of Old Abingdon.</hi>
       </title>
+      <title type="search">Women of Old Abingdon</title>
       <imprint>
        <pubPlace>[Pulaski, VA:</pubPlace>
        <publisher>B.D. Smith &amp; Bros.],</publisher>
@@ -31556,6 +31583,7 @@
       <title type="ref">
        <hi rend="italics">Queens of the Renaissance. With Twenty-Four Illustrations.</hi>
       </title>
+      <title type="search">Queens of the Renaissance Ryley </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Methuen;</publisher>
