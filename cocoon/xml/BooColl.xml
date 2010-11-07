@@ -24828,8 +24828,9 @@
        <date>1936;</date>
        <date>1941;</date>
        <date>1961;</date>
-       <date>1972.</date>
-      </imprint>]. <note place="unspecified" anchored="yes"> </note>
+       <date>1972;</date>
+       <date>1982.</date>
+      </imprint> <note place="unspecified" anchored="yes"> </note>
      </bibl>
     </div2>
     <div2 type="letter" n="L" org="uniform" sample="complete" part="N">
@@ -24932,9 +24933,11 @@
         <item>Black Agnes of Dunbar</item>
         <item n="CAROLINE_HERSCHEL">Caroline Herschel</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
-        <item>Elsie Inglis. *Pop Chart</item>
+        <item>Elsie Inglis.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <note place="unspecified" anchored="yes"> See <title>
         <hi rend="italics">Short Stories of Famous Women</hi>
        </title>, by Pearl A. Wanamaker, <date>1949</date>, <date>1965</date>. </note>
@@ -24962,9 +24965,7 @@
      <bibl id="a498" default="NO">
       <ref targOrder="U">498.</ref>
       <idno>a498</idno>
-      <author>
-       <abbr expan="Latour, Therese Louis">---.</abbr>
-      </author>
+      <author><name type="last">Latour</name>, <name type="first">Therese Louis</name>.</author>
       <title type="ref">
        <hi rend="italics">Princesses, Ladies, and Republicaines of the Terror.</hi>
       </title>
@@ -24979,9 +24980,7 @@
      <bibl id="a499" default="NO">
       <ref targOrder="U">499.</ref>
       <idno>a499</idno>
-      <author>
-       <abbr expan="Latour, Therese Louis">---.</abbr>
-      </author>
+      <author><name type="last">Latour</name>, <name type="first">Therese Louis</name>.</author>
       <title type="ref">
        <hi rend="italics">Princesses, Ladies, and Salonnieres of the Reign of Louis XV.</hi>
       </title>
@@ -25034,9 +25033,7 @@
      <bibl id="a501" default="NO">
       <ref targOrder="U">501.</ref>
       <idno>a501</idno>
-      <author>
-       <abbr expan="Lawrance, Hannah">---.</abbr>
-      </author>
+      <author><name type="last">Lawrance</name>, <name type="first">Hannah</name>.</author>
       <title type="ref">
        <hi rend="italics">The History of Woman in England and Her Influence on Society and
         Literature, From the Earliest Period.</hi>
@@ -25129,6 +25126,30 @@
       </imprint>
       <note type="toc">
        <list>
+        <item>Maria Gateana Agnesi</item>
+        <item>Lucy Aikin</item>
+        <item>Maria Catherine Aunoy</item>
+        <item>Joanna Baillie</item>
+        <item>Anna Laetitia Barbauld</item>
+        <item>Laura Maria Catherina Bassi</item>
+        <item>Ann Baynard</item>
+        <item>Countess D'Haupoult Beaufort</item>
+        <item>Juliana Berners</item>
+        <item>Mary Ann Le Page Boccage</item>
+        <item>Frances Brooke</item>
+        <item>Elizabeth Bury</item>
+        <item>Jane Louisa Henrietta Campan</item>
+        <item>Elizabeth Carter</item>
+        <item>Susannah Centlivre</item>
+        <item>Emilia de Breteuil Chastelet</item>
+        <item>Hester Chapone</item>
+        <item>Corinna</item>
+        <item>Hannah Cowley</item>
+        <item>Juana Inez Cruz</item>
+        <item>Madame D'Arblay</item>
+        <item>Ann le Fevre Dacier</item>
+        <item>Maria du Deffand</item>
+        <item>Catharine Descartes</item>
         <item>Maria Edgeworth</item>
         <item>Madeline Pioche de la Verge</item>
         <item>Cassandra Fidelis</item>
@@ -25156,6 +25177,35 @@
         <item>Lady Morgan</item>
         <item>Harriet Newell</item>
         <item>Mrs. Opie</item>
+        <item>Dorothy Pakington</item>
+        <item>Catharine Parr</item>
+        <item>Hester Lynch Piozzi</item>
+        <item>Annabella Plumptre</item>
+        <item>Mrs. Plunkett</item>
+        <item>Jane Porter</item>
+        <item>Anna Maria Porter</item>
+        <item>Ann Radcliffe</item>
+        <item>Marth Laurens Ramsay</item>
+        <item>Mary Robinson</item>
+        <item>Madame Roland</item>
+        <item>Margaret Roper</item>
+        <item>Elizabeth Rowe</item>
+        <item>Rachel Russel</item>
+        <item>Sappho</item>
+        <item>Anna Maria Schurman</item>
+        <item>Madeline de Schudery</item>
+        <item>Mary de Rabutin Sevigne</item>
+        <item>Anna Seward</item>
+        <item>Frances Sheridan</item>
+        <item>Charlotte Smith</item>
+        <item>Elizabeth Smith</item>
+        <item>Anne Louise Germain de Stael</item>
+        <item>Catherine Talbot</item>
+        <item>Mary Tighe</item>
+        <item>Sarah Trimmer</item>
+        <item>Priscilla Wakefield</item>
+        <item>Jane West</item>
+        <item>Helen Maria Williams</item>
        </list>
       </note>
      </bibl>
@@ -25407,16 +25457,21 @@
      <bibl id="a516" default="NO">
       <ref targOrder="U">516.</ref>
       <idno>a516</idno>
-      <author>
-       <abbr expan="Logan, John A., Mrs. [Mary Simmerson Cunningham Logan]">---.</abbr>
-      </author>
+      <author><name type="last">Logan</name>, <name type="title">Mrs.</name>
+       <name type="first">John A.</name> [<name type="aka">Mary Simmerson Cunningham
+        Logan</name>].</author>
       <title type="ref">
        <hi rend="italics">The Part Taken by Women in American History.</hi>
       </title>
       <imprint>
        <pubPlace>Wilmington, DE:</pubPlace>
        <publisher>Perry-Nalle,</publisher>
-       <date>1912.</date>
+       <date>1912;</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Arno Press,</publisher>
+       <date>1972.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> NOT:=reference, history. Encyclopedic, with 15
        ½-pp., double-column subject index and extensive list of works consulted. “Appreciating the
@@ -25494,9 +25549,7 @@
      <bibl id="a519" default="NO">
       <ref targOrder="U">519.</ref>
       <idno>a519</idno>
-      <author>
-       <abbr expan="Lord, Fred Townley">---.</abbr>
-      </author>
+      <author><name type="last">Lord</name>, <name type="first">Fred Townley</name>.</author>
       <title type="ref">
        <hi rend="italics">Great Women in Christian History.</hi>
       </title>
@@ -25554,9 +25607,11 @@
         <item>Mme Recamier</item>
         <item n="MADAME_DE_STAEL">Mme de Stael</item>
         <item n="HANNAH_MORE">Hannah More</item>
-        <item>George Eliot. *Pop Chart</item>
+        <item>George Eliot.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a521" default="NO"><ref targOrder="U">521.</ref>
       <idno>a521</idno>
@@ -25600,6 +25655,7 @@
        <pubPlace>Chapel Hill:</pubPlace>
        <publisher>University of North Carolina Press,</publisher>
        <date>1932;</date>
+       <date>1935;</date>
        <date>1936.</date>
       </imprint>
       <edition>3d ed.</edition>
@@ -28267,7 +28323,13 @@
       <imprint>
        <pubPlace>Folcroft, PA:</pubPlace>
        <publisher>Folcroft Library,</publisher>
-       <date>1969.</date>
+       <date>1969;</date>
+       <date>1974.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Norwood, PA:</pubPlace>
+       <publisher>Norwood,</publisher>
+       <date>1977.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -28323,9 +28385,8 @@
      <bibl id="a610" default="NO">
       <ref targOrder="U">610.</ref>
       <idno>a610</idno>
-      <author>
-       <abbr expan="O'Malley, I[da] B[eatrice]">---.</abbr>
-      </author>
+      <author><name type="last">O'Malley</name>, <name type="first">I[da]
+       B[eatrice]</name>.</author>
       <title type="ref">
        <hi rend="italics">Women in Subjection: A Study of the Lives of Englishwomen Before
          <date>1832</date>.</hi>
@@ -28334,6 +28395,11 @@
        <pubPlace>London:</pubPlace>
        <publisher>Duckworth,</publisher>
        <date>1933.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Tokyo:</pubPlace>
+       <publisher>Athena Press,</publisher>
+       <date>2006.</date>
       </imprint>
       <note place="unspecified" anchored="yes">NOT:=history.</note>
      </bibl>
@@ -28465,6 +28531,42 @@
        <date>1920;</date>
        <date>1922.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Edith Wharton</item>
+        <item>Alice Brown</item>
+        <item>Ellen Glasgow</item>
+        <item>Gertrude Atherton</item>
+        <item>Mary Roberts Rinehart</item>
+        <item>Kathleen Norris</item>
+        <item>Margaret Deland</item>
+        <item>Gene Stratton-Porter</item>
+        <item>Eleanor H. Porter</item>
+        <item>Kate Douglas Wiggin</item>
+        <item>Mary Johnston</item>
+        <item>Corra Harris</item>
+        <item>Mary Austin</item>
+        <item>Mary S. Watts</item>
+        <item>Mary E. Wilkins Freeman</item>
+        <item>Anna Katharine Green</item>
+        <item>Helen R. Martin</item>
+        <item>Sophie Kerr</item>
+        <item>Marjorie Benton Cooke</item>
+        <item>Grace S. Richmond</item>
+        <item>Willa Sibert Cather</item>
+        <item>Clara Louise Burnham</item>
+        <item>Demetra Vaka</item>
+        <item>Edna Ferber</item>
+        <item>Dorothy Canfield Fisher</item>
+        <item>Amelia E. Barr</item>
+        <item>Alice Hegan Rice</item>
+        <item>Alice Duer Miller</item>
+        <item>Eleanor Hallowell Abbott</item>
+        <item>Harriet T. Comstock</item>
+        <item>Honoré Willsie</item>
+        <item>Frances Hodgson Burnett</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a615" default="NO">
       <ref targOrder="U">615.</ref>
@@ -28504,17 +28606,18 @@
         <item>Prasca Loupouloff</item>
         <item>Sarah Martin</item>
         <item n="GRACE_DARLING">Grace Darling</item>
-        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale. *Pop Chart</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <note place="unspecified" anchored="yes"> British Library. Riches. Oldfield. </note>
      </bibl>
      <bibl id="a616" default="NO">
       <ref targOrder="U">616.</ref>
       <idno>a616</idno>
-      <author>
-       <abbr expan="Owen, Mrs. Octavius Freire [Emily]">---.</abbr>
-      </author>
+      <author><name type="last">Owen</name>, <name type="title">Mrs.</name>
+       <name type="first">Octavius Freire</name> [<name type="aka">Emily</name>].</author>
       <title type="ref">
        <hi rend="italics">The Heroines of History.</hi>
       </title>
@@ -28559,31 +28662,6 @@
       </note>
       <note place="unspecified" anchored="yes"> British Library. See <ref target="a391"
         targOrder="U">391</ref>. </note>
-      <note type="toc">
-       <list>
-        <item>Jewish Era: Jael or Jahel</item>
-        <item>Judith</item>
-        <item>Salamona</item>
-        <item>Mariamne. Classic Era: Semiramis</item>
-        <item>Penelope</item>
-        <item>Aspasia</item>
-        <item>Cornelia</item>
-        <item>Portia</item>
-        <item>Cleopatra</item>
-        <item>Arria</item>
-        <item>Boadicea</item>
-        <item>Zenobia. Modern Era: Jane de Montfort</item>
-        <item>Philippa of Hainfort</item>
-        <item>Joan d’Arc</item>
-        <item>Margaret of Anjou</item>
-        <item>Isabella of Castille</item>
-        <item>Catherine de Medici</item>
-        <item n="LADY_JANE_GREY">The Lady Jane Grey</item>
-        <item>Mary, Queen of Scots</item>
-        <item>Madame de Maintenon</item>
-        <item>Marie Antoinette</item>
-       </list>
-      </note>
      </bibl>
     </div2>
     <div2 type="letter" n="P" org="uniform" sample="complete" part="N">
@@ -28614,9 +28692,7 @@
      <bibl id="a618" default="NO">
       <ref targOrder="U">618.</ref>
       <idno>a618</idno>
-      <author>
-       <abbr expan="Padwick, Constance E.">---.</abbr>
-      </author>
+      <author><name type="last">Padwick</name>, <name type="first">Constance E.</name></author>
       <title type="ref">
        <hi rend="italics">White Heroines of Africa: A Book for Leaders Amongst Working Girls.</hi>
       </title>
@@ -28633,7 +28709,7 @@
        </list>
       </note>
       <note place="unspecified" anchored="yes">
-       <xref targOrder="U" from="ROOT" to="DITTO">Riches</xref>. Lives of missionaries “to enlighten
+       <xref targOrder="U" from="ROOT" to="DITTO">Riches</xref>Phyllis M. Riches, An Analytical Bibliography of Universal Collected Biography, Comprising Books Published in the English Tongue in Great Britain and Ireland, America, and the British Dominions (London: The Library Association, 1934). Lives of missionaries “to enlighten
        uneducated working women to moral ways of living,” (abstract in WorldCat). </note>
      </bibl>
      <bibl id="a619" default="NO">
@@ -28715,9 +28791,11 @@
         <item>Mrs. Delany</item>
         <item>Harriot K. Hunt</item>
         <item>Miss Bosanquet</item>
-        <item>Mrs. Jameson. PC*</item>
+        <item>Mrs. Jameson. </item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <note place="unspecified" anchored="yes"> Author of “Essays on Women's Work.” Cambridge
        University undated library stamp. Label on spine Sm. 23 (cf. a923, Yonge, Sm. 22), and lower
        spine, 40. Someone has pencilled a grammatical correction at the end of Parkes' preface,
@@ -28776,6 +28854,38 @@
        <publisher>Lutheran,</publisher>
        <date>1882.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Woman in the Reformation</item>
+        <item>Margaretha or Gretchen Luther</item>
+        <item>Ursula Cotta</item>
+        <item>The Nuns of Nipstch</item>
+        <item>Katharine von Bora</item>
+        <item>Catherine Krapp</item>
+        <item>Anna Reinhard</item>
+        <item>Idelette de Bures</item>
+        <item>The Monastery of Konigsfeldt</item>
+        <item>Clara May and the Dominicans</item>
+        <item>Anne Askew</item>
+        <item>Elizabeth of Brandenburg</item>
+        <item>The Genevese Women</item>
+        <item>Elizabeth of Brunswick</item>
+        <item>The Three Catherines</item>
+        <item>Paul and Claudine Levet</item>
+        <item>Marguerite de Valois</item>
+        <item>Renee, Duchess of Ferrara</item>
+        <item>Olympia Morata</item>
+        <item>Jeanne D'Albret</item>
+        <item>The Women of Spain</item>
+        <item>Leanor de Cineros</item>
+        <item>Maria de Bohorques</item>
+        <item>Mother and Daughter</item>
+        <item>Charlotte de Bourbon</item>
+        <item>In the Netherlands</item>
+        <item>Katherine Willoughby</item>
+        <item>The Modern Reformation</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a624" default="NO"><ref targOrder="U">624.</ref>
       <idno>a624</idno>
@@ -28841,9 +28951,11 @@
         <item>Betsy Patterson, Otherwise Madame Jerome Bonaparte of Baltimore</item>
         <item>Some Ladies of the Old School</item>
         <item>Toru Dutt</item>
-        <item>George Sand. *Pop Chart</item>
+        <item>George Sand.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <image n="no548">
        <imgName>Josephine</imgName>
        <imgDesc>Josephine</imgDesc>
@@ -28958,9 +29070,7 @@
      </bibl>
      <bibl id="a625" default="NO"><ref targOrder="U">625.</ref>
       <idno>a625</idno>
-      <author>
-       <abbr expan="Parton, James">---.</abbr>
-      </author>
+      <author><name type="last">Parton</name>, <name type="first">James</name>.</author>
       <title type="ref">
        <hi rend="italics">Eminent Women: A Series of Sketches of Women Who Have Won Distinction by
         Their Genius and Achievements as Authors, Artists, Actors, Rulers, or within the Precincts
@@ -29009,9 +29119,11 @@
         <item n="MADAME_DE_STAEL">Madame de Staël and Napoleon Bonaparte</item>
         <item>The Wife of Frederick the Great</item>
         <item>The Flight of Eugénie</item>
-        <item n="CAROLINE_HERSCHEL">Caroline Herschel. *Pop Chart</item>
+        <item n="CAROLINE_HERSCHEL">Caroline Herschel.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <image n="no548">
        <imgName>Josephine</imgName>
        <imgDesc>Josephine</imgDesc>
@@ -29051,9 +29163,7 @@
      </bibl>
      <bibl id="a626" default="NO"><ref targOrder="U">626.</ref>
       <idno>a626</idno>
-      <author>
-       <abbr expan="Parton, James">---.</abbr>
-      </author>
+      <author><name type="last">Parton</name>, <name type="first">James</name>.</author>
       <title type="ref">
        <hi rend="italics">The World's Famous Women: A Series of Sketches of Women Who Have Won
         Distinction by Their Genius and Achievements as Authors, Artists, Actors, Rulers, or within
@@ -29103,15 +29213,16 @@
         <item>Betsy Patterson, Otherwise Madame Jerome Bonaparte of Baltimore</item>
         <item>Some Ladies of the Old School</item>
         <item>Toru Dutt</item>
-        <item>George Sand. *Pop Chart</item>
+        <item>George Sand. <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+         Chart</hi></note></item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a627" default="NO"><ref targOrder="U">627.</ref>
       <idno>a627</idno>
-      <author>
-       <abbr expan="Parton, James">---.</abbr>
-      </author>
+      <author><name type="last">Parton</name>, <name type="first">James</name>.</author>
       <title type="ref">
        <hi rend="italics">Fanny Fern: A Memorial Volume. Containing Her Select Writings and a
         Memoir.</hi>
@@ -29134,9 +29245,7 @@
      <bibl id="a628" default="NO">
       <ref targOrder="U">628.</ref>
       <idno>a628</idno>
-      <author>
-       <abbr expan="Parton, James">---.</abbr>
-      </author>
+      <author><name type="last">Parton</name>, <name type="first">James</name>.</author>
       <title type="ref">
        <hi rend="italics">Noted Women of Europe and America: Authors, Artists, Reformers, and
         Heroines, Queens, Princesses and Women of Society, Women Eccentric or Peculiar: From the
@@ -29496,9 +29605,7 @@
      <bibl id="a631" default="NO">
       <ref targOrder="U">631.</ref>
       <idno>a631</idno>
-      <author>
-       <abbr expan="Parton, James, et al">---, et al.</abbr>
-      </author>
+      <author><name type="last">Parton</name>, <name type="first">James</name>, et al.</author>
       <title type="ref">
        <hi rend="italics">People's Book of Biography; or, Short Lives of the Most Interesting
         Persons of All Ages and Countries by James Parton. Richly Illustrated with Twelve Steel
