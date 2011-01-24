@@ -25274,8 +25274,8 @@
       <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
        Chart</hi></note>
       <note place="unspecified" anchored="yes"> See <title>
-        <hi rend="italics">Short Stories of Famous Women</hi>
-       </title>, by Pearl A. Wanamaker, <date>1949</date>, <date>1965</date>. </note>
+       <hi rend="italics">Short Stories of Famous Women</hi>
+      </title>, by Pearl A. Wanamaker, <date>1949</date>, <date>1965</date>. </note>
      </bibl>
      <bibl id="a497" default="NO">
       <ref targOrder="U">497.</ref>
@@ -25922,7 +25922,7 @@
       </title> Vol. 5 of <title type="series">
        <hi rend="italics">Beacon Lights of History</hi>
       </title> by John Lord. 10 vols. New York: Ford, Howard &amp; Hulbert, 1883?-1896?. vol. 7 of
-       <title type="series">
+      <title type="series">
        <hi rend="italics">Beacon Lights of History</hi>
       </title> by John Lord. <imprint>
        <pubPlace>New York:</pubPlace>
@@ -28833,7 +28833,7 @@
        B[eatrice]</name>.</author>
       <title type="ref">
        <hi rend="italics">Women in Subjection: A Study of the Lives of Englishwomen Before
-         <date>1832</date>.</hi>
+        <date>1832</date>.</hi>
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
@@ -29105,7 +29105,7 @@
        </list>
       </note>
       <note place="unspecified" anchored="yes"> British Library. See <ref target="a391"
-        targOrder="U">391</ref>. </note>
+       targOrder="U">391</ref>. </note>
      </bibl>
     </div2>
     <div2 type="letter" n="P" org="uniform" sample="complete" part="N">
@@ -29489,15 +29489,15 @@
        <imgDesc>George Sand</imgDesc>
       </image>
       <note place="unspecified" anchored="yes"> A series of close editions begins with <ref
-        target="a628" targOrder="U">
-        <title>
-         <hi rend="italics">Noted Women</hi>
-        </title>
-       </ref> (Hartford: Phoenix, <date>1883</date>). <title>
-        <hi rend="italics">Daughters</hi>
-       </title> has identical Preface to <title>
+       target="a628" targOrder="U">
+       <title>
         <hi rend="italics">Noted Women</hi>
-       </title>, crediting “my beloved niece, Miss Ethel Parton. Many of these articles I could not
+       </title>
+      </ref> (Hartford: Phoenix, <date>1883</date>). <title>
+       <hi rend="italics">Daughters</hi>
+      </title> has identical Preface to <title>
+       <hi rend="italics">Noted Women</hi>
+      </title>, crediting “my beloved niece, Miss Ethel Parton. Many of these articles I could not
        have done without her aid” (4), with the addition in <title>
         <hi rend="italics">Daughters</hi>
        </title>: “The chapters on Queen Victoria and Elizabeth Barrett Browning, subsequently added,
@@ -29671,7 +29671,7 @@
        <hi rend="italics">Fanny Fern: A Memorial Volume. Containing Her Select Writings and a
         Memoir.</hi>
       </title> By James Parton. With illustrations by <editor role="illustrator"><name type="first"
-        >Arthur</name>
+       >Arthur</name>
        <name type="last">Lumley</name>.</editor>
       <imprint>
        <pubPlace>New York:</pubPlace>
@@ -29850,14 +29850,14 @@
        <imgDesc>Charlotte Bronte</imgDesc>
       </image>
       <note place="unspecified" anchored="yes"> Subjects not in <ref target="a624" targOrder="U">
-        <title>
-         <hi rend="italics">Daughters of Genius</hi>
-        </title>
-       </ref>: Crandall, Pember. Subjects also in <ref target="a626" targOrder="U">
-        <title>
-         <hi rend="italics">World's Famous</hi>
-        </title>
-       </ref>: Mme. Jerome Bonaparte, Toru Dutt, Peg O'Neal, Mme. Lafayette, Lady Franklin, Rachel,
+       <title>
+        <hi rend="italics">Daughters of Genius</hi>
+       </title>
+      </ref>: Crandall, Pember. Subjects also in <ref target="a626" targOrder="U">
+       <title>
+        <hi rend="italics">World's Famous</hi>
+       </title>
+      </ref>: Mme. Jerome Bonaparte, Toru Dutt, Peg O'Neal, Mme. Lafayette, Lady Franklin, Rachel,
        Joan of Arc, Adelaide Phillips, Maria Mitchell. </note>
      </bibl>
      <bibl id="a629" default="NO">
@@ -30278,9 +30278,7 @@
      <bibl id="a639" default="NO">
       <ref targOrder="U">639.</ref>
       <idno>a639</idno>
-      <author>
-       <abbr expan="Philip, Robert">---.</abbr>
-      </author>
+      <author><name type="last">Philip</name>, <name type="first">Robert</name>.</author>
       <title type="ref">
        <hi rend="italics">The Marys; or, The Beauty of Female Holiness.</hi>
       </title>
@@ -30295,6 +30293,7 @@
        <publisher>Appleton,</publisher>
        <date>1836;</date>
        <date>1837;</date>
+       <date>1839;</date>
       </imprint>
       <imprint>
        <publisher>Carter,</publisher>
@@ -30317,9 +30316,7 @@
      <bibl id="a640" default="NO">
       <ref targOrder="U">640.</ref>
       <idno>a640</idno>
-      <author>
-       <abbr expan="Philip, Robert">---.</abbr>
-      </author>
+      <author><name type="last">Philip</name>, <name type="first">Robert</name>.</author>
       <title type="ref">
        <hi rend="italics">The Mothers of Scripture: Showing Their Influence on Their Sons.</hi>
       </title>
@@ -30339,7 +30336,15 @@
       <imprint>
        <pubPlace>Austin, TX:</pubPlace>
        <publisher>Steck,</publisher>
-       <date>1929.</date>
+       <date>1929;</date>
+      </imprint>
+      <imprint>
+       <publisher>Jenkins,</publisher>
+       <date>1970;</date>
+      </imprint>
+      <imprint>
+       <publisher>State House</publisher>
+       <date>1991.</date>
       </imprint>
      </bibl>
      <bibl id="a642" default="NO"><ref targOrder="U">642.</ref>
@@ -30368,9 +30373,8 @@
      </bibl>
      <bibl id="a644" default="NO"><ref targOrder="U">644.</ref>
       <idno>a644</idno>
-      <author>
-       <abbr expan="Pitman, Emma R[aymond], Mrs">---.</abbr>
-      </author>
+      <author><name type="last">Pitman</name>, <name type="title">Mrs.</name>
+       <name type="first">Emma R[aymond]</name>. </author>
       <title type="ref">
        <hi rend="italics">Lady Missionaries in Foreign Lands.</hi>
       </title>
@@ -30394,7 +30398,8 @@
         <item>Mrs. Cargill of the Friendly and Fiji Islands</item>
        </list>
       </note>
-      <abbr expan="Pitman, Emma R[aymond], Mrs">---.</abbr>
+      <author><name type="last">Pitman</name>, <name type="title">Mrs.</name>
+       <name type="first">Emma R[aymond]</name>. </author>
       <title>
        <hi rend="italics">Lady Missionaries in Many Lands.</hi>
       </title> London: Pickering &amp; Inglis, <date>[1880s?];</date>
@@ -30404,9 +30409,8 @@
      <bibl id="a645" default="NO">
       <ref targOrder="U">645.</ref>
       <idno>a645</idno>
-      <author>
-       <abbr expan="Pitman, Emma R[aymond], Mrs">---.</abbr>
-      </author>
+      <author><name type="last">Pitman</name>, <name type="title">Mrs.</name>
+       <name type="first">Emma R[aymond]</name>. </author>
       <title type="ref">
        <hi rend="italics">Missionary Heroines in Eastern Lands: Woman's Work in Mission Fields.</hi>
       </title>
@@ -30438,9 +30442,8 @@
      <bibl id="a646" default="NO">
       <ref targOrder="U">646.</ref>
       <idno>a646</idno>
-      <author>
-       <abbr expan="Pitman, Emma R[aymond], Mrs">---.</abbr>
-      </author>
+      <author><name type="last">Pitman</name>, <name type="title">Mrs.</name>
+       <name type="first">Emma R[aymond]</name>. </author>
       <title type="ref">
        <hi rend="italics">Lady Hymn Writers.</hi>
       </title>
@@ -30450,6 +30453,21 @@
        <publisher>Nelson,</publisher>
        <date>1892.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>God's Singers</item>
+        <item>Psalms and Hymns</item>
+        <item>Hymn Writers for the Sanctuary</item>
+        <item>Minor Hymn Writers</item>
+        <item>Hymn Writers for the Quiet Hour</item>
+        <item>Hymn Writers who were also Poetesses</item>
+        <item>Writers of Children's Hymns</item>
+        <item>Queenly and Noble Hymn Writers</item>
+        <item>A Hindu Hymn Writer</item>
+        <item>Translators of Hymns</item>
+        <item>Favourite Single Poems</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a647" default="NO">
       <ref targOrder="U">647.</ref>
@@ -30591,8 +30609,10 @@
         <item>Elizabeth Gilbert</item>
         <item>Mrs. Daniell</item>
         <item>Miss Weston</item>
-        <item>Sarah Robinson. *Pop Chart</item>
+        <item>Sarah Robinson. </item>
        </list>
+       <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+        Chart</hi></note>
       </note>
       <note place="unspecified" anchored="yes"> General discussion of the occupations for women
        focused on the named subjects and their careers, often grouped in chapters. </note>
@@ -32269,9 +32289,8 @@
      <bibl id="a697" default="NO">
       <ref targOrder="U">697.</ref>
       <idno>a697</idno>
-      <author>
-       <abbr expan="Sainte-Beuve, Charles Augustin">---.</abbr>
-      </author>
+      <editor role="editor"><name type="last">Sainte-Beuve</name>, <name type="first">Charles
+       Augustin</name>,</editor>
       <title type="ref">
        <hi rend="italics">Portraits of Celebrated Women.</hi>
       </title>
@@ -32296,7 +32315,11 @@
       </imprint>
       <imprint>
        <publisher>Putnam,</publisher>
-       <date>1925.</date>
+       <date>1925;</date>
+      </imprint>
+      <imprint>
+       <publisher>Gardiners</publisher>
+       <date>2007.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -32308,8 +32331,10 @@
         <item>Madame de Duras</item>
         <item>Madame de Remusat</item>
         <item>Madame de Krudener</item>
-        <item>Madame Guizot. *Pop Chart</item>
+        <item>Madame Guizot. </item>
        </list>
+       <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+        Chart</hi></note>
       </note>
       <note place="unspecified" anchored="yes"> British Library. </note>
       <note place="unspecified" anchored="yes">
@@ -32392,7 +32417,7 @@
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
-       <publisher>n.p.,</publisher>
+       <publisher>Collins,</publisher>
        <date>1850.</date>
       </imprint>
       <note place="unspecified" anchored="yes">British Library.</note>
@@ -32457,15 +32482,17 @@
      <bibl id="a704" default="NO">
       <ref targOrder="U">704.</ref>
       <idno>a704</idno>
-      <author>
-       <abbr expan="Scott, Eleanor">---.</abbr>
-      </author>
+      <author><name type="last">Scott</name>, <name type="first">Eleanor</name>.</author>
       <title type="ref">
        <hi rend="italics">War Among Ladies.</hi>
       </title>
       <imprint>
        <pubPlace>Boston:</pubPlace>
        <publisher>Little Brown,</publisher>
+       <date>1928;</date>
+      </imprint>
+      <imprint>
+       <publisher>Benn</publisher>
        <date>1928.</date>
       </imprint>
      </bibl>
@@ -32494,11 +32521,6 @@
        <date>1935;</date>
       </imprint>
       <imprint>
-       <publisher>Torchstream Books,</publisher>
-       <date>1950.</date>
-      </imprint>
-      <imprint>
-       <pubPlace>London:</pubPlace>
        <publisher>Torchstream Books,</publisher>
        <date>1950.</date>
       </imprint>
@@ -32614,9 +32636,7 @@
      <bibl id="a710" default="NO">
       <ref targOrder="U">710.</ref>
       <idno>a710</idno>
-      <author>
-       <abbr expan="Senior, Maud Mary">---.</abbr>
-      </author>
+      <author><name type="last">Senior</name>, <name type="first">Maud Mary</name>.</author>
       <title type="ref">
        <hi rend="italics">Women Pathfinders.</hi>
       </title>
@@ -32626,14 +32646,12 @@
        <date>1940.</date>
       </imprint>
       <note place="unspecified" anchored="yes">Same as <ref target="a711" targOrder="U"
-       >next</ref>?</note>
+       >Entry a711</ref>?</note>
      </bibl>
      <bibl id="a711" default="NO">
       <ref targOrder="U">711.</ref>
       <idno>a711</idno>
-      <author>
-       <abbr expan="Senior, Maud Mary">---.</abbr>
-      </author>
+      <author><name type="last">Senior</name>, <name type="first">Maud Mary</name>.</author>
       <title type="ref">
        <hi rend="italics">African Women Pathfinders.</hi>
       </title>
@@ -32655,7 +32673,12 @@
        <pubPlace>London:</pubPlace>
        <publisher>Hutchinson,</publisher>
        <date>1929;</date>
-       <date>1930.</date>
+       <date>1930;</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Freeport:</pubPlace>
+       <publisher>Books for Libraries,</publisher>
+       <date>1969.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -32669,9 +32692,11 @@
         <item>Duchess Sarah</item>
         <item>Woman-Rule in Russia</item>
         <item>The Dancer-Politician [Lola Montez]</item>
-        <item>“The Old Buddha” [Tze-hi]. *Pop Chart</item>
+        <item>“The Old Buddha” [Tze-hi].</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <note place="unspecified" anchored="yes"> Expert on chess, biographer of Cleopatra, Catherine
        the Great, Josephine, Tze-hi the Empress Dowager of China, Eugénie, Anne Boleyn, Barbara
        Villiers (Duchess of Cleveland); books on gamblers, fakers, <title>
@@ -32681,9 +32706,8 @@
      <bibl id="a713" default="NO">
       <ref targOrder="U">713.</ref>
       <idno>a713</idno>
-      <author>
-       <abbr expan="Sergeant, Philip Walsingham">---.</abbr>
-      </author>
+      <author><name type="last">Sergeant</name>, <name type="first">Philip
+       Walsingham</name>.</author>
       <title type="ref">
        <hi rend="italics">Rogues and Scoundrels.</hi>
       </title>
@@ -32885,9 +32909,8 @@
      <bibl id="a719" default="NO">
       <ref targOrder="U">719.</ref>
       <idno>a719</idno>
-      <author>
-       <abbr expan="Sigourney, Mrs. L[ydia]. H[untley]">---.</abbr>
-      </author>
+      <author><name type="last">Sigourney</name>, <name type="title">Mrs.</name>
+       <name type="first">L[ydia]. H[untley]</name>.</author>
       <title type="ref">
        <hi rend="italics">The Girl's Own Book.</hi>
       </title>
@@ -32904,9 +32927,8 @@
      <bibl id="a720" default="NO">
       <ref targOrder="U">720.</ref>
       <idno>a720</idno>
-      <author>
-       <abbr expan="Sigourney, Mrs. L[ydia]. H[untley]">---.</abbr>
-      </author>
+      <author><name type="last">Sigourney</name>, <name type="title">Mrs.</name>
+       <name type="first">L[ydia]. H[untley]</name>.</author>
       <title type="ref">
        <hi rend="italics">Great and Good Women: Biographies for Girls.</hi>
       </title>
@@ -32937,9 +32959,11 @@
         <item n="ANN_HASSELTINE_JUDSON">Anne Hasseltine Judson</item>
         <item>Margaret Mercer [1791-1846, Well-Connected American Christian Educator]</item>
         <item>Mrs Wilson [Educator of Women in India</item>
-        <item>Largely an Excerpt from Chambers's Journal]. *Pop Chart</item>
+        <item>Largely an Excerpt from Chambers's Journal].</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <note place="unspecified" anchored="yes"> British Library: listed under Huntley. Listed in
        Nimmo ads of <date>1875</date> (Bruce, <title>
         <hi rend="italics">Book of Noble Englishwomen</hi>
@@ -32976,7 +33000,17 @@
       <imprint>
        <pubPlace>Wellington, NZ:</pubPlace>
        <publisher>Dept. of Internal Affairs, New Zealand,</publisher>
-       <date>1940.</date>
+       <date>1940;</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Aukland, NZ:</pubPlace>
+       <publisher>Paul's Book Arcade,</publisher>
+       <date>1962;</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>G. Allen and Unwin,</publisher>
+       <date>1962.</date>
       </imprint>
      </bibl>
      <bibl id="a723" default="NO">
@@ -33002,6 +33036,12 @@
        <date>1912;</date>
        <date>1913;</date>
        <date>1914.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Port Washington, NY:</pubPlace>
+       <publisher>Kennikat, P.,</publisher>
+       <date>1939;</date>
+       <date>1967.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -33241,9 +33281,7 @@
      <bibl id="a728" default="NO">
       <ref targOrder="U">728.</ref>
       <idno>a728</idno>
-      <author>
-       <abbr expan="Skinner, Charlotte">---.</abbr>
-      </author>
+      <author><name type="last">Skinner</name>, <name type="first">Charlotte</name>.</author>
       <title type="ref">
        <hi rend="italics">Uncrowned Queens.</hi>
       </title>
@@ -33256,7 +33294,7 @@
      <bibl id="a729" default="NO"><ref targOrder="U">729.</ref>
       <idno>a729</idno>
       <author><name type="last">Smith</name>, <name type="first">Daniel</name>,</author> comp.
-       <title type="ref">
+      <title type="ref">
        <hi rend="italics">Gems of Female Biography.</hi>
       </title>
       <imprint>
@@ -33292,9 +33330,11 @@
         <item>Mrs. Isabella Graham</item>
         <item>Miss Ann Bacon</item>
         <item>Mrs. Abigail Morris</item>
-        <item>Mrs. Jane R. Rust. *Pop Chart</item>
+        <item>Mrs. Jane R. Rust.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a730" default="NO">
       <ref targOrder="U">730.</ref>
@@ -33320,16 +33360,16 @@
         <item n="SISTER_DORA">Sister Dora</item>
         <item>Louisa May Alcott</item>
         <item n="ELIZABETH_FRY">Elizabeth Fry</item>
-        <item>Felicia Dorothea Hemans. *Pop Chart</item>
+        <item>Felicia Dorothea Hemans.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a731" default="NO">
       <ref targOrder="U">731.</ref>
       <idno>a731</idno>
-      <author>
-       <abbr expan="Smith, George Barnett">---.</abbr>
-      </author>
+      <author><name type="last">Smith</name>, <name type="first">George Barnett</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of Renown: Nineteenth Century Studies.</hi>
       </title>
@@ -33349,9 +33389,11 @@
         <item>Mary Carpenter</item>
         <item>Sydney Lady Morgan</item>
         <item>Rachel</item>
-        <item>Lady Hester Stanhope. *Pop Chart</item>
+        <item>Lady Hester Stanhope.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a732" default="NO">
       <ref targOrder="U">732.</ref>
@@ -33465,9 +33507,8 @@
      <bibl id="a737" default="NO">
       <ref targOrder="U">737.</ref>
       <idno>a737</idno>
-      <author>
-       <abbr expan="Soissons, Guy Jean Raoul E. C. E., Comte de">---.</abbr>
-      </author>
+      <author><name type="last">Soissons</name>, <name type="title">Comte de</name>
+       <name type="first">Guy Jean Raoul E. C. E.</name></author>
       <title type="ref">
        <hi rend="italics">Six Great Princesses.</hi>
       </title>
@@ -33551,9 +33592,9 @@
       <idno>a740</idno>
       <editor role="editor"><name type="last">Sparrow</name>, <name type="first">Walter
        Shaw</name>,</editor> ed. <title type="ref">
-       <hi rend="italics">Women Painters of the World: From the Time of Caterina Vigri,
+        <hi rend="italics">Women Painters of the World: From the Time of Caterina Vigri,
          <date>1413-1463</date>, to Rosa Bonheur and the Present Day.</hi>
-      </title>
+       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Hodder &amp; Stoughton;</publisher>
@@ -33562,6 +33603,11 @@
        <pubPlace>New York:</pubPlace>
        <publisher>Stokes,</publisher>
        <date>1905.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Hacker Art Books,</publisher>
+       <date>1976.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> Eight essays by various authors on the female
        painters of a range of European countries and U.S. </note>
@@ -33610,14 +33656,22 @@
       <ref targOrder="U">743.</ref>
       <idno>a743</idno>
       <author><name type="last">Spofford</name>, <name type="first">Harriet Elizabeth
-        Prescott</name>, et al.</author>
+       Prescott</name>, et al.</author>
       <title type="ref">
        <hi rend="italics">Three Heroines of New England Romance.</hi>
       </title>
       <imprint>
-       <pubPlace>Boston,</pubPlace>
-       <publisher>n.p.,</publisher>
-       <date>1895.</date>
+       <pubPlace>Boston:</pubPlace>
+       <publisher>Little, Brown and Co.,</publisher>
+       <date>1894;</date>
+       <date>1895;</date>
+       <publisher>John Wilson and Son,</publisher>
+       <date>1894.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>J. M. Dent and Co.,</publisher>
+       <date>1894.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -33631,14 +33685,15 @@
       <ref targOrder="U">744.</ref>
       <idno>a744</idno>
       <author><name type="last">Spofford</name>, <name type="first">Harriet Elizabeth
-        Prescott</name>.</author>
+       Prescott</name>.</author>
       <title type="ref">
        <hi rend="italics">A Little Book of Friends.</hi>
       </title>
       <imprint>
        <pubPlace>Boston:</pubPlace>
        <publisher>Little, Brown,</publisher>
-       <date>1916.</date>
+       <date>1916;</date>
+       <date>1917.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -33651,9 +33706,11 @@
         <item>Jane Andres</item>
         <item>Louisa Stone Hopkins</item>
         <item>Rose Terry Cooke</item>
-        <item>Louise Chandler Moulton. *Pop Chart</item>
+        <item>Louise Chandler Moulton.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <note place="unspecified" anchored="yes"> An extended coterie of writers. </note>
      </bibl>
      <bibl id="a745" default="NO"><ref targOrder="U">745.</ref>
@@ -33726,6 +33783,28 @@
        <publisher>David Bogue,</publisher>
        <date>1847.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Hagar</item>
+        <item>Rachel</item>
+        <item>Rebekah</item>
+        <item>Wife of Potiphar</item>
+        <item>Pharaoh's Daughter</item>
+        <item>Deborah</item>
+        <item>Jephthah's Daughter</item>
+        <item>Delilah</item>
+        <item>Ruth</item>
+        <item>Hannah</item>
+        <item>Abigail</item>
+        <item>Jezebel</item>
+        <item>The Queen of Sheba</item>
+        <item>Esther</item>
+        <item>Athaliah</item>
+        <item>Judith</item>
+        <item>The Mother of the Maccabees</item>
+        <item>Sara, Wife of Tobias</item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes"> “Each portrait accompanied by descriptive text.”
        Staal designed the illustrations for Clarke's <title>
         <hi rend="italics">World-Noted Women</hi>
@@ -33747,21 +33826,23 @@
       </imprint>
      </bibl>
      <bibl id="a748" default="NO"><ref targOrder="U">748.</ref>
-      <idno>a748</idno> ---. <title type="ref">
-       <hi rend="italics">The Dogaressas of Venice.</hi>
-      </title>
+      <author><name type="last">Staley</name>, <name type="first">John Edgcumbe</name>.</author>
+      <hi rend="italics">The Dogaressas of Venice.</hi>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Scribner,</publisher>
+       <date>1910.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>T. W. Laurie,</publisher>
        <date>1910.</date>
       </imprint>
      </bibl>
      <bibl id="a749" default="NO">
       <ref targOrder="U">749.</ref>
       <idno>a749</idno>
-      <author>
-       <abbr expan="Staley, John Edgcumbe">---.</abbr>
-      </author>
+      <author><name type="last">Staley</name>, <name type="first">John Edgcumbe</name>.</author>
       <title type="ref">
        <hi rend="italics">Heroines of Genoa and the Rivieras.</hi>
       </title>
@@ -33780,9 +33861,7 @@
      <bibl id="a750" default="NO">
       <ref targOrder="U">750.</ref>
       <idno>a750</idno>
-      <author>
-       <abbr expan="Staley, John Edgcumbe">---.</abbr>
-      </author>
+      <author><name type="last">Staley</name>, <name type="first">John Edgcumbe</name>.</author>
       <title type="ref">
        <hi rend="italics">King Rene d'Anjou and His Seven Queens.</hi>
       </title>
@@ -33860,9 +33939,14 @@
        <publisher>Bell,</publisher>
        <date>1891.</date>
       </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Garland,</publisher>
+       <date>1987.</date>
+      </imprint>
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
-        <hi rend="italics">How To Make It as a Woman,</hi>
-       </title> 97-98.</xref>
+       <hi rend="italics">How To Make It as a Woman,</hi>
+      </title> 97-98.</xref>
       <note place="unspecified" anchored="yes"> British Library. <date>1835</date> ed.: Ded. “To/
        the Ladies/ of/ Great Britain and Ireland/ this work/ is most respectfully dedicated,/ by the
        author.” Organized by quality, with index; headings [specifying the subjects or deeds] appear
@@ -33870,8 +33954,10 @@
        Preface as <date>1835</date>, dated as though <date>1848</date>; lists headings under each
        virtue in Table of Contents; frontispiece: “Child Rescued from an Eagle”; title vignette
        Grace Darling; no index; 14 engravings; bound in green, stamped on covers British Museum.
-       Approx. 150 subjects. <date>*Pop Chart</date>
+       Approx. 150 subjects. <date></date>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a752" default="NO">
       <ref targOrder="U">752.</ref>
@@ -34087,9 +34173,11 @@
         <item>Charlotte Cushman</item>
         <item>Elizabeth Stuart Phelps</item>
         <item>Frances Hodgson Burnett</item>
-        <item>Julia Ward Howe. *Pop Chart</item>
+        <item>Julia Ward Howe.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <image n="no10">
        <imgName>Our Famous Women</imgName>
        <imgDesc>Title Page from Our Famous Women, illustrated by T. W. Williams</imgDesc>
@@ -34194,7 +34282,24 @@
        <pubPlace>London:</pubPlace>
        <publisher>Bell,</publisher>
        <date>1928;</date>
-       <date>1929.</date>
+       <date>1929;</date>
+      </imprint>
+      <imprint>
+       <publisher>Virago,</publisher>
+       <date>1978;</date>
+       <date>1979;</date>
+       <date>1988;</date>
+       <date>1989.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Port Washington, NY:</pubPlace>
+       <publisher>Kennikat,</publisher>
+       <date>1969.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Portway, Bath:</pubPlace>
+       <publisher>Chivers,</publisher>
+       <date>1974.</date>
       </imprint>
       <note place="unspecified" anchored="yes">Largely prosopographical.</note>
      </bibl>
@@ -34220,7 +34325,7 @@
      <bibl id="a762A" default="NO">
       <ref targOrder="U">762A.</ref>
       <idno>a762A</idno>
-      <author><abbr expan="Strang, Lewis Clinton">---</abbr>.</author>
+      <author><name type="last">Strang</name>, <name type="first">Lewis Clinton.</name></author>
       <title type="ref">
        <hi rend="italics">Famous Prima Donnas.</hi>
       </title>
@@ -34230,6 +34335,32 @@
        <date>1900;</date>
        <date>1906.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Alice Nielsen</item>
+        <item>Virginia Earle</item>
+        <item>Lillian Russell</item>
+        <item>Josephine Hall</item>
+        <item>Mabelle Gilman</item>
+        <item>Fay Templeton</item>
+        <item>Madge Lessing</item>
+        <item>Jessie Bartlett Davis</item>
+        <item>Edna Wallace Hopper</item>
+        <item>Paula Edwardes</item>
+        <item>Lulu Glaser</item>
+        <item>Minnie Ashley</item>
+        <item>Edna May</item>
+        <item>Marie Celeste</item>
+        <item>Christie MacDonald</item>
+        <item>Marie Dressler</item>
+        <item>Della Fox</item>
+        <item>Camille D'Arville</item>
+        <item>Marie Tempest</item>
+        <item>Maud Raymond</item>
+        <item>Pauline Hall</item>
+        <item>Hilda Clark</item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes"> Different titles, though overlapping publication
        information. Unconfirmed London edition in <date>1900</date>? Alternative title: <title>
         <hi rend="italics">Soubrettes</hi>
@@ -34397,9 +34528,9 @@
      <bibl id="a764" default="NO">
       <ref targOrder="U">764.</ref>
       <idno>a764</idno>
-      <author>
-       <abbr expan="Strickland, Agnes, and Elisabeth Strickland">---.</abbr>
-      </author>
+      <author><name type="last">Strickland</name>, <name type="first">Agnes</name>, and <name
+       type="first">Elisabeth</name>
+       <name type="last">Strickland</name>.</author>
       <title type="ref">
        <hi rend="italics">The Queens of England: A Series of Portraits of Distinguished Female
         Sovereigns. Drawn and Engraved by Eminent Artists, with Biographical and Historical
@@ -34411,7 +34542,7 @@
        <date>1851.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> A different repackaging in one volume than the
-        <date>1851</date> abridged ed. above, this one dominated by its large portraits. </note>
+       <date>1851</date> abridged ed. above, this one dominated by its large portraits. </note>
       <image n="no01">
        <imgName>Queen Elizabeth</imgName>
        <imgDesc>Queen Elizabeth by Edward Corbould, engraved by William Holl</imgDesc>
@@ -34460,9 +34591,9 @@
      </bibl>
      <bibl id="a765" default="NO"><ref targOrder="U">765.</ref>
       <idno>a765</idno>
-      <author>
-       <abbr expan="Strickland, Agnes, and Elisabeth Strickland">---.</abbr>
-      </author>
+      <author><name type="last">Strickland</name>, <name type="first">Agnes</name>, and <name
+       type="first">Elisabeth</name>
+       <name type="last">Strickland</name>.</author>
       <title type="ref">
        <hi rend="italics">Lives of the Queens of Scotland and English Princesses, Connected with the
         Regal Succession of Great Britain.</hi>
@@ -34524,9 +34655,7 @@
      <bibl id="a767" default="NO">
       <ref targOrder="U">767.</ref>
       <idno>a767</idno>
-      <author>
-       <abbr expan="Strickland, Agnes">---.</abbr>
-      </author>
+      <author><name type="last">Strickland</name>, <name type="first">Agnes</name>.</author>
       <title type="ref">
        <hi rend="italics">Lives of the Stuart Princesses.</hi>
       </title>
@@ -34539,9 +34668,7 @@
      <bibl id="a768" default="NO">
       <ref targOrder="U">768.</ref>
       <idno>a768</idno>
-      <author>
-       <abbr expan="Strickland, Agnes">---.</abbr>
-      </author>
+      <author><name type="last">Strickland</name>, <name type="first">Agnes</name>.</author>
       <title type="ref">
        <hi rend="italics">Lives of the Tudor Princesses, Including Lady Jane Gray and her sisters
         Agnes and Elizabeth.</hi>
@@ -34559,9 +34686,7 @@
      <bibl id="a769" default="NO">
       <ref targOrder="U">769.</ref>
       <idno>a769</idno>
-      <author>
-       <abbr expan="Strickland, Agnes">---.</abbr>
-      </author>
+      <author><name type="last">Strickland</name>, <name type="first">Agnes</name>.</author>
       <title type="ref">
        <hi rend="italics">Lives of the Tudor and Stuart Princesses.</hi>
       </title>
@@ -34583,9 +34708,7 @@
      <bibl id="a770" default="NO">
       <ref targOrder="U">770.</ref>
       <idno>a770</idno>
-      <author>
-       <abbr expan="Strickland, Agnes">---.</abbr>
-      </author>
+      <author><name type="last">Strickland</name>, <name type="first">Agnes</name>.</author>
       <title type="ref">
        <hi rend="italics">Memoirs of the Queens of Henry VIII and His Mother, Elizabeth of
         York.</hi>
@@ -34652,16 +34775,15 @@
      </bibl>
      <bibl id="a773" default="NO"><ref targOrder="U">773.</ref>
       <idno>a773</idno>
-      <author>
-       <abbr expan="Sweetser, Kate Dickinson">---.</abbr>
-      </author>
+      <author><name type="last">Sweetser</name>, <name type="first">Kate Dickinson</name>.</author>
       <title type="ref">
        <hi rend="italics">Ten Girls From History.</hi>
       </title> Illustrated by <editor role="illustrator">George Alfred Williams.</editor>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Duffield,</publisher>
-       <date>[1912].</date>
+       <date>[1912];</date>
+       <date>1914.</date>
       </imprint>
       <imprint>
        <pubPlace>New York and</pubPlace>
@@ -34681,9 +34803,11 @@
         <item n="LADY_JANE_GREY">Lady Jane Grey</item>
         <item>“Gentle Anne”: A Daughter of the Regiment</item>
         <item>Madeleine De Vercheres</item>
-        <item>Adrienne de Lafayette. *Pop Chart</item>
+        <item>Adrienne de Lafayette. </item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <image n="no414">
        <imgName>Joan of Arc</imgName>
        <imgDesc>By George Alfred Williams.</imgDesc>
@@ -34696,9 +34820,7 @@
      <bibl id="a774" default="NO">
       <ref targOrder="U">774.</ref>
       <idno>a774</idno>
-      <author>
-       <abbr expan="Sweetser, Kate Dickinson">---.</abbr>
-      </author>
+      <author><name type="last">Sweetser</name>, <name type="first">Kate Dickinson</name>.</author>
       <title type="ref">
        <hi rend="italics">Famous Girls of the White House.</hi>
       </title>
