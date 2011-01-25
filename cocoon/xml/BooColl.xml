@@ -34864,9 +34864,7 @@
      </bibl>
      <bibl id="a776" default="NO"><ref targOrder="U">776.</ref>
       <idno>a776</idno>
-      <author>
-       <abbr expan="Tabor, Margaret Emma">---.</abbr>
-      </author>
+      <author><name type="last">Tabor</name>, <name type="first">Margaret Emma</name>.</author>
       <title type="ref">
        <hi rend="italics">Pioneer Women.</hi>
       </title> With Portraits. <extent rend="vols">4 vols.</extent>
@@ -34888,18 +34886,18 @@
         <item n="ELIZABETH_FRY">vol. or series I: Elizabeth Fry</item>
         <item>Elizabeth Blackwell</item>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
-        <item>Mary Slessor of Calabar. *Pop Chart</item>
+        <item>Mary Slessor of Calabar. </item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <note place="unspecified" anchored="yes"> Printed as Four Series, with contents equivalent to
        the volumes. </note>
      </bibl>
      <bibl id="a777" default="NO">
       <ref targOrder="U">777.</ref>
       <idno>a777</idno>
-      <author>
-       <abbr expan="Tabor, Margaret Emma">---.</abbr>
-      </author>
+      <author><name type="last">Tabor</name>, <name type="first">Margaret Emma</name>.</author>
       <title type="ref">
        <hi rend="italics">Pioneer Women. 2d ser.</hi>
       </title>
@@ -34917,16 +34915,16 @@
         <item n="HANNAH_MORE">Hannah More</item>
         <item>Mary Carpenter</item>
         <item>Octavia Hill</item>
-        <item>Agnes Jones. *Pop Chart</item>
+        <item>Agnes Jones. </item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a778" default="NO">
       <ref targOrder="U">778.</ref>
       <idno>a778</idno>
-      <author>
-       <abbr expan="Tabor, Margaret Emma">---.</abbr>
-      </author>
+      <author><name type="last">Tabor</name>, <name type="first">Margaret Emma</name>.</author>
       <title type="ref">
        <hi rend="italics">Pioneer Women. 3d ser.</hi>
       </title>
@@ -34943,16 +34941,16 @@
         <item>Mrs. Sherwood</item>
         <item>Isabella Bird</item>
         <item>Mary Kingsley</item>
-        <item>Gertrude Bell. *Pop Chart</item>
+        <item>Gertrude Bell. </item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a779" default="NO">
       <ref targOrder="U">779.</ref>
       <idno>a779</idno>
-      <author>
-       <abbr expan="Tabor, Margaret Emma">---.</abbr>
-      </author>
+      <author><name type="last">Tabor</name>, <name type="first">Margaret Emma</name>.</author>
       <title type="ref">
        <hi rend="italics">Pioneer Women. 4th ser.</hi>
       </title>
@@ -34966,16 +34964,16 @@
         <item n="CAROLINE_HERSCHEL">Caroline Herschel</item>
         <item>Sarah Siddons</item>
         <item>Maria Edgeworth</item>
-        <item n="MARY_SOMERVILLE">Mary Somerville. *Pop Chart</item>
+        <item n="MARY_SOMERVILLE">Mary Somerville. </item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a780" default="NO">
       <ref targOrder="U">780.</ref>
       <idno>a780</idno>
-      <author>
-       <abbr expan="Tabor, Margaret Emma">---.</abbr>
-      </author>
+      <author><name type="last">Tabor</name>, <name type="first">Margaret Emma</name>.</author>
       <title type="ref">
        <hi rend="italics">The Saints in Art.</hi>
       </title>
@@ -34991,9 +34989,9 @@
        <date>1913.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> NOT:=art history, religious typology. Descendent of
-        <ref target="a456" targOrder="U">Jameson's <title>
-         <hi rend="italics">Sacred and Legendary Art</hi>
-        </title></ref>. </note>
+       <ref target="a456" targOrder="U">Jameson's <title>
+        <hi rend="italics">Sacred and Legendary Art</hi>
+       </title></ref>. </note>
      </bibl>
      <bibl id="a781" default="NO">
       <ref targOrder="U">781.</ref>
@@ -35161,16 +35159,16 @@
         <item>Mme du Barry</item>
         <item>Lady Blessington</item>
         <item>Mme Recamier</item>
-        <item>Lady Hamilton. *Pop Chart</item>
+        <item>Lady Hamilton.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a789" default="NO">
       <ref targOrder="U">789.</ref>
       <idno>a789</idno>
-      <author>
-       <abbr expan="Terhune, Albert Payson">---.</abbr>
-      </author>
+      <author><name type="last">Terhune</name>, <name type="first">Albert Payson</name>.</author>
       <title type="ref">
        <hi rend="italics">Wonder Women in History.</hi>
       </title>
@@ -35200,9 +35198,11 @@
         <item>George Sand</item>
         <item>Fanny Elssler</item>
         <item>Lola Montez</item>
-        <item>Rachel. *Pop Chart</item>
+        <item>Rachel. </item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a790" default="NO">
       <ref targOrder="U">790.</ref>
@@ -35266,9 +35266,8 @@
      <bibl id="a792" default="NO">
       <ref targOrder="U">792.</ref>
       <idno>a792</idno>
-      <author>
-       <abbr expan="Thayer, William M[akepeace]">---.</abbr>
-      </author>
+      <author><name type="last">Thayer</name>, <name type="first">William
+       M[akepeace]</name>.</author>
       <title type="ref">
        <hi rend="italics">Women Who Win: Or Making Things Happen.</hi>
       </title>
@@ -35299,9 +35298,11 @@
         <item>Lucy Stone Blackwell</item>
         <item>Frances Elizabeth Willard</item>
         <item>Clara Harlowe Barton</item>
-        <item n="ELIZABETH_FRY">Elizabeth Fry. *Pop Chart</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <note place="unspecified" anchored="yes"> Possible expansion or rev. ed. of previous book,
        continued posthumously. Pref: “There is no sex among souls; hence there is none in success.”
        “Women are joint-partners now in making the world better. . . . The views of womanhood, a
@@ -35373,7 +35374,9 @@
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Kay,</publisher>
-       <date>1929.</date>
+       <date>1929;</date>
+       <publisher>Garland,</publisher>
+       <date>1985.</date>
       </imprint>
      </bibl>
      <bibl id="a797" default="NO">
@@ -35381,7 +35384,7 @@
       <idno>a797</idno>
       <author><name type="last">Thomson</name>, <name type="title">Mrs.</name>
        <name type="first">A. T.</name> [<name type="aka">Katherine Byerley</name>]
-        [<date>1797-1862</date>].</author>
+       [<date>1797-1862</date>].</author>
       <title type="ref"><hi rend="italics">The Queens of Society.</hi>
        <hi rend="italics">By Grace and Philip Wharton</hi> [pseud.] <hi rend="italics">Illustrated
         by Charles Altamont Doyle and the Brothers Dalziel.</hi></title>
@@ -35423,7 +35426,7 @@
         <item n="MADAME_ROLAND">Mme Roland</item>
         <item>Lady Mary Wortley Montagu</item>
         <item>Georgiana, Duchess of Devonshire</item>
-        <item>Letitia ElizabethLandon (LEL)</item>
+        <item>Letitia Elizabeth Landon (LEL)</item>
         <item>Mme de Sévigné</item>
         <item>Sydney, Lady Morgan</item>
         <item>Jane, Duchess of Gordon</item>
@@ -35436,9 +35439,11 @@
         <item>La Marquise du Deffand</item>
         <item>Elizabeth Montagu</item>
         <item>Mary, Countess of Pembroke</item>
-        <item>La Marquise de Maintenon. *Pop Chart</item>
+        <item>La Marquise de Maintenon. </item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a798" default="NO">
       <ref targOrder="U">798.</ref>
@@ -35455,8 +35460,8 @@
        <date>1861.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> Same author as <ref target="a796" targOrder="U"
-        >above</ref>? A biographer of royalty from <date>1826</date> onward; novelist
-        <date>1840s-1850s</date>. </note>
+       >a797</ref>? A biographer of royalty from <date>1826</date> onward; novelist
+       <date>1840s-1850s</date>. </note>
       <note type="toc">
        <list>
         <item>Fenelon and Madame Guyon</item>
@@ -35502,9 +35507,8 @@
      <bibl id="a800" default="NO">
       <ref targOrder="U">800.</ref>
       <idno>a800</idno>
-      <author>
-       <abbr expan="Thormanby, Willmott-Dixon, Willmott">---.</abbr>
-      </author>
+      <author><name type="last">Thormanby</name>. [i.e. <name type="aka">Wilmott</name>
+       <name type="aka">Willmott-Dixon</name>].</author>
       <title type="ref">
        <hi rend="italics">Queens of Beauty and Their Romances.</hi>
       </title>
@@ -35592,9 +35596,8 @@
      <bibl id="a803" default="NO">
       <ref targOrder="U">803.</ref>
       <idno>a803</idno>
-      <author>
-       <abbr expan="Thornton-Cook, Elsie Prentys">---.</abbr>
-      </author>
+      <author><name type="last">Thornton-Cook</name>, <name type="first">Elsie
+       Prentys</name>.</author>
       <title type="ref">
        <hi rend="italics">Royal Elizabeths: The Romance of Five Princesses,
         <date>1464-1840</date>.</hi>
@@ -35610,13 +35613,17 @@
        <publisher>Dutton,</publisher>
        <date>1929.</date>
       </imprint>
+      <imprint>
+       <pubPlace>Freeport, NY:</pubPlace>
+       <publisher>Books for Libraries,</publisher>
+       <date>1967.</date>
+      </imprint>
      </bibl>
      <bibl id="a804" default="NO">
       <ref targOrder="U">804.</ref>
       <idno>a804</idno>
-      <author>
-       <abbr expan="Thornton-Cook, Elsie Prentys">---.</abbr>
-      </author>
+      <author><name type="last">Thornton-Cook</name>, <name type="first">Elsie
+       Prentys</name>.</author>
       <title type="ref">
        <hi rend="italics">Royal Marys, Princess Mary and Her Predecessors.</hi>
       </title>
@@ -35643,7 +35650,9 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Holmes,</publisher>
-       <date>1853.</date>
+       <date>1850;</date>
+       <date>1853;</date>
+       <date>1880.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -35673,11 +35682,13 @@
         <item>Mrs. Hemans</item>
         <item>Mrs. Bunyan</item>
         <item>Lady A. Gower</item>
-        <item>Katherine Parr. *Pop Chart</item>
+        <item>Katherine Parr.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <note place="unspecified" anchored="yes"> Additional subtitle: <hi rend="italics">Of the Past
-        and Present</hi>
+       and Present</hi>
        <date>1855</date>. </note>
      </bibl>
      <bibl id="a806" default="NO">
@@ -35762,9 +35773,7 @@
      <bibl id="a807" default="NO">
       <ref targOrder="U">807.</ref>
       <idno>a807</idno>
-      <author>
-       <abbr expan="Timpson, Thomas">---.</abbr>
-      </author>
+      <author><name type="last">Timpson</name>, <name type="first">Thomas</name>.</author>
       <title type="ref">
        <hi rend="italics">Female Biography of the New Testament: With Preliminary Notices of the
         Condition of Women in All Ages.</hi>
@@ -35778,9 +35787,7 @@
      <bibl id="a808" default="NO">
       <ref targOrder="U">808.</ref>
       <idno>a808</idno>
-      <author>
-       <abbr expan="Timpson, Thomas">---.</abbr>
-      </author>
+      <author><name type="last">Timpson</name>, <name type="first">Thomas</name>.</author>
       <title type="ref">
        <hi rend="italics">Memoirs of British Female Missionaries; With a Survey of the Condition of
         Women in Heathen Countries. With An Introductory Essay on the Importance of Female Agency in
@@ -35829,7 +35836,7 @@
        <date>1893.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> See works by <ref target="a024" targOrder="U">Lizzie
-        Alldridge</ref> and <ref target="a123" targOrder="U">Phyllis Browne</ref> above.</note>
+       Alldridge</ref> and <ref target="a123" targOrder="U">Phyllis Browne</ref>.</note>
      </bibl>
      <bibl id="a810" default="NO">
       <ref targOrder="U">810.</ref>
@@ -35876,7 +35883,7 @@
       <ref targOrder="U">811.</ref>
       <idno>a811</idno>
       <author><name type="last">Trowbridge</name>, <name type="first">W[illiam] R[utherford]
-        H[ayes]</name>.</author>
+       H[ayes]</name>.</author>
       <title type="ref">
        <hi rend="italics">Court Beauties of Old Whitehall: Historiettes of the Restoration. With 32
         Illustrations.</hi>
@@ -35888,13 +35895,24 @@
        <publisher>Scribner,</publisher>
        <date>1906.</date>
       </imprint>
+      <note type="chapter_titles">
+       <list>
+        <item>Hortense Mancini, Duchesse de Mazarin</item>
+        <item>Barbara Villiers, Duchess of Cleveland</item>
+        <item>"La Belle Stuart," Duchess of Richmond</item>
+        <item>"La Belle Hamilton," Comtesse de Gramont</item>
+        <item>"The Lovely Jennings," Duchess of Tyrconnel</item>
+        <item>"Wanton Shrewsbury," Anna Maria, Countess of Shrewsbury</item>
+        <item>"Madame," Henrietta, Duchess of Orleans</item>
+        <item>Louise de Kéroual, Duchess of Portsmouth</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a812" default="NO">
       <ref targOrder="U">812.</ref>
       <idno>a812</idno>
-      <author>
-       <abbr expan="Trowbridge, W[illiam] R[utherford] H[ayes]">---.</abbr>
-      </author>
+      <author><name type="last">Trowbridge</name>, <name type="first">W[illiam] R[utherford]
+       H[ayes]</name>.</author>
       <title type="ref">
        <hi rend="italics">Daughters of Eve.</hi>
       </title>
@@ -35962,9 +35980,8 @@
      <bibl id="a813" default="NO">
       <ref targOrder="U">813.</ref>
       <idno>a813</idno>
-      <author>
-       <abbr expan="Trowbridge, W[illiam] R[utherford] H[ayes]">---.</abbr>
-      </author>
+      <author><name type="last">Trowbridge</name>, <name type="first">W[illiam] R[utherford]
+       H[ayes]</name>.</author>
       <title type="ref">
        <hi rend="italics">Seven Splendid Sinners.</hi>
       </title>
@@ -35988,9 +36005,11 @@
         <item>Elizabeth Chudleigh, Duchess of Kingston</item>
         <item>The Comtesse De Lamotte</item>
         <item>The Duchess De Polignac</item>
-        <item>Lola Montez. *Pop Chart</item>
+        <item>Lola Montez.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a814" default="NO">
       <ref targOrder="U">814.</ref>
@@ -36008,9 +36027,7 @@
      <bibl id="a815" default="NO">
       <ref targOrder="U">815.</ref>
       <idno>a815</idno>
-      <author>
-       <abbr expan="Turnock, Sarah Elizabeth">---.</abbr>
-      </author>
+      <author><name type="last">Turnock</name>, <name type="first">Sarah Elizabeth</name>.</author>
       <title type="ref">
        <hi rend="italics">A Woman's Tour in Palestine.</hi>
       </title>
@@ -36025,7 +36042,7 @@
       <ref targOrder="U">816.</ref>
       <idno>a816</idno>
       <author><name type="last">Tweedie</name>, Rev. <name type="first">W[illiam] K[ing]
-        [1803-1863]</name>.</author>
+       [1803-1863]</name>.</author>
       <title type="ref">
        <hi rend="italics">The Early Choice: A Book for Daughters.</hi>
       </title>
@@ -36093,12 +36110,14 @@
         <item>Clementine Cuvier</item>
         <item>Mrs. Mary Winslow. Much of text consists of life-narratives, in addition to subjects
          named in table of contents. Illustrations introduce further subjects without recounting
-         their lives (e.g Miss More and Dr. Johnson [opp. 80]). *Pop Chart</item>
+         their lives (e.g Miss More and Dr. Johnson [opp. 80]).</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <note place="unspecified" anchored="yes"> Author of <title>
-        <hi rend="italics">Earnest Men, Their Life and Work, Daily Duty: A Book for Girls</hi>
-       </title>, and several historical geographies of the Bible, among other works. “The late Rev.
+       <hi rend="italics">Earnest Men, Their Life and Work, Daily Duty: A Book for Girls</hi>
+      </title>, and several historical geographies of the Bible, among other works. “The late Rev.
        W. K. Tweedie, D.D., Author of ‘Seed-Time and Harvest,’ &amp;c.” Frontispiece: a medley of
        images of babies “Learning to See,” “to Grasp,” etc. Pref. “This volume, in this edition, has
        been to a great extent re-written, and four new chapters have been added. It is chiefly
@@ -36138,12 +36157,16 @@
      <bibl id="a818" default="NO">
       <ref targOrder="U">818.</ref>
       <idno>a818</idno>
-      <author>
-       <abbr expan="Tytler, Sarah [i.e. Henrietta Keddie]">---.</abbr>
-      </author>
+      <author><name type="last">Tytler</name>, <name type="first">Sarah</name> [i.e. <name
+       type="aka">Henrietta Keddie</name>].</author>
       <title type="ref">
        <hi rend="italics">Girlhood and Womanhood: The Story of Some Fortunes and Misfortunes.</hi>
       </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Strahan and Co.,</publisher>
+       <date>1868.</date>
+      </imprint>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Isbister,</publisher>
@@ -36155,29 +36178,41 @@
        <publisher>Ward, Lock,</publisher>
        <date>1895.</date>
       </imprint>
+      <note type="chapter_titles">
+       <list>
+        <item>Cain's Brand</item>
+        <item>On the Stage and Off the Stage</item>
+        <item>A Cast in the Waggon</item>
+        <item>Adam Home's Repentance</item>
+        <item>Hector Garret of Otter</item>
+        <item>The Old Yeomanry Weeks</item>
+        <item>Diana</item>
+        <item>Miss West's Christmas Adventure</item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes"> NOT:=historical fiction, advice. One of her many
        historical or instructive fictional works. </note>
      </bibl>
      <bibl id="a819" default="NO">
       <ref targOrder="U">819.</ref>
       <idno>a819</idno>
-      <author>
-       <abbr expan="Tytler, Sarah [i.e. Henrietta Keddie]">---.</abbr>
-      </author>
+      <author><name type="last">Tytler</name>, <name type="first">Sarah</name> [i.e. <name
+       type="aka">Henrietta Keddie</name>].</author>
       <title type="ref">
        <hi rend="italics">Heroines in Obscurity.</hi>
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Strahan,</publisher>
-       <date>1871.</date>
+       <date>1871;</date>
+       <publisher>Ward, Lock, and Co.,</publisher>
+       <date>[1890].</date>
       </imprint>
      </bibl>
      <bibl id="a820" default="NO"><ref targOrder="U">820.</ref>
       <idno>a820</idno>
-      <author>
-       <abbr expan="Tytler, Sarah [i.e. Henrietta Keddie]">---.</abbr>
-      </author>
+      <author><name type="last">Tytler</name>, <name type="first">Sarah</name> [i.e. <name
+       type="aka">Henrietta Keddie</name>].</author>
       <title type="ref">
        <hi rend="italics">Papers for Thoughtful Girls: With Sketches of Some Girls’ Lives.</hi>
       </title>
@@ -36233,9 +36268,8 @@
      <bibl id="a821" default="NO">
       <ref targOrder="U">821.</ref>
       <idno>a821</idno>
-      <author>
-       <abbr expan="Tytler, Sarah [i.e. Henrietta Keddie]">---.</abbr>
-      </author>
+      <author><name type="last">Tytler</name>, <name type="first">Sarah</name> [i.e. <name
+       type="aka">Henrietta Keddie</name>].</author>
       <title type="ref">
        <hi rend="italics">Six Royal Ladies of the House of Hanover.</hi>
       </title>
@@ -36249,9 +36283,8 @@
      <bibl id="a822" default="NO">
       <ref targOrder="U">822.</ref>
       <idno>a822</idno>
-      <author>
-       <abbr expan="Tytler, Sarah [i.e. Henrietta Keddie]">---.</abbr>
-      </author>
+      <author><name type="last">Tytler</name>, <name type="first">Sarah</name> [i.e. <name
+       type="aka">Henrietta Keddie</name>].</author>
       <title type="ref">
        <hi rend="italics">Tudor Queens and Princesses.</hi>
       </title>
@@ -36264,14 +36297,16 @@
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Whittaker,</publisher>
-       <date>1896.</date>
+       <date>1896;</date>
+       <publisher>Barnes and Noble,</publisher>
+       <date>1993.</date>
       </imprint>
      </bibl>
      <bibl id="a823" default="NO">
       <ref targOrder="U">823.</ref>
       <idno>a823</idno>
       <author><name type="last">Tytler</name>, <name type="first">Sarah</name> [i.e., <name
-        type="aka">Henrietta Keddie</name>], and <name type="first">J. L.</name>
+       type="aka">Henrietta Keddie</name>], and <name type="first">J. L.</name>
        <name type="last">Watson</name>.</author>
       <title type="ref">
        <hi rend="italics">The Songstresses of Scotland.</hi>
@@ -36284,6 +36319,13 @@
       </imprint>
       <note type="toc">
        <list>
+        <item>Vol. 1: Lady Grisell Baillie</item>
+        <item>Jean Adam</item>
+        <item>Mrs. Cockburn</item>
+        <item>Miss Jean Elliot</item>
+        <item>Miss Susanna Blamire</item>
+        <item>Jean Glover</item>
+        <item>Mrs. Elizabeth Hamilton</item>
         <item>Vol. 2: Lady Anne Barnard</item>
         <item>Carolina Baroness Nairne</item>
         <item>Miss Joanna Baillie</item>
@@ -36611,8 +36653,8 @@
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Author of <title>
-        <hi rend="italics">Recollections of a Scottish Novelist</hi>
-       </title> (<date>1910</date>). Cambridge University Library stamp 28 Nov 88. On endpaper
+       <hi rend="italics">Recollections of a Scottish Novelist</hi>
+      </title> (<date>1910</date>). Cambridge University Library stamp 28 Nov 88. On endpaper
        advertisements, "L.B. Walford" is clearly a woman novelist, author of uniform octavo volumes
        published by Blackwood, e.g. <title><hi rend="italics">Mr Smith</hi>,</title>
        <title>
@@ -36621,7 +36663,7 @@
        uncut in Cambridge copy. Catalogue of Messrs Blackwood and Sons’ publications appears in
        final 21 pp., featuring such educational and reference works such as an English dictionary
        and series: philosophical classics for English readers; foreign classics for English readers;
-       ,ancient classics ditto. </note>
+       ancient classics ditto. </note>
      </bibl>
      <bibl id="a835" default="NO">
       <ref targOrder="U">835.</ref>
@@ -36636,6 +36678,11 @@
        <publisher>Longmans, Green,</publisher>
        <date>1892;</date>
        <date>1893.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Freeport, NY:</pubPlace>
+       <publisher>Books for Libraries,</publisher>
+       <date>1972.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -36696,9 +36743,7 @@
      <bibl id="a838" default="NO">
       <ref targOrder="U">838.</ref>
       <idno>a838</idno>
-      <author>
-       <abbr expan="Walker, Cornelius Irvine">---.</abbr>
-      </author>
+      <author><name type="last">Walker</name>, <name type="first">Cornelius Irvine</name>.</author>
       <title type="ref">
        <hi rend="italics">The Women of the Southern Confederacy During the War <date>1861-5;</date>
         original historic incidents of their heroism, suffering and devotion; published in “Our
@@ -36711,10 +36756,10 @@
        <date>1908.</date>
       </imprint>
       <note place="unspecified" anchored="yes">See <ref target="a839" targOrder="U">
-        <title>
-         <hi>The Women of the Southern Confederacy...Virginia, North Carolina, ...</hi>
-        </title>
-       </ref>
+       <title>
+        <hi>The Women of the Southern Confederacy...Virginia, North Carolina, ...</hi>
+       </title>
+      </ref>
       </note>
      </bibl>
      <bibl id="a839" default="NO">
@@ -36742,7 +36787,14 @@
        <publisher>n. p.;</publisher>
        <pubPlace>New York:</pubPlace>
        <publisher>Smith,</publisher>
+       <pubPlace>Toronto:</pubPlace>
+       <publisher>Musson,</publisher>
        <date>1931.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Waverly, PA:</pubPlace>
+       <publisher>Lamplighter,</publisher>
+       <date>1999.</date>
       </imprint>
       <imprint>
        <pubPlace>London:</pubPlace>
@@ -36750,7 +36802,7 @@
        <date>1938.</date>
       </imprint>
       <note place="unspecified" anchored="yes"><xref targOrder="U" from="ROOT" to="DITTO"
-        >Riches.</xref> Translated into Chinese in <date>1959</date>.</note>
+       >Riches.</xref> Translated into Chinese in <date>1959</date>.</note>
      </bibl>
      <bibl id="a841" default="NO">
       <ref targOrder="U">841.</ref>
@@ -36768,6 +36820,17 @@
        <pubPlace>New York:</pubPlace>
        <publisher>Macmillan,</publisher>
        <date>1930.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Folcroft, PA:</pubPlace>
+       <publisher>Folcroft Library,</publisher>
+       <date>1977;</date>
+       <date>1979.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Norwood, PA:</pubPlace>
+       <publisher>Norwood,</publisher>
+       <date>1978.</date>
       </imprint>
      </bibl>
      <bibl id="a842" default="NO">
@@ -36840,13 +36903,20 @@
        <date>1901;</date>
        <date>1909.</date>
       </imprint>
+      <note type="chapter_titles">
+       <list>
+        <item>Eve</item>
+        <item>Heroines of the Patriarchal Era</item>
+        <item>Heroines of the Hebrew Nation</item>
+        <item>Heroines of the New Testament</item>
+        <item>Heroines of the Apocrypha</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a846" default="NO">
       <ref targOrder="U">846.</ref>
       <idno>a846</idno>
-      <author>
-       <abbr expan="Waters, Clara Erskine">---.</abbr>
-      </author>
+      <author><name type="last">Waters</name>, <name type="first">Clara Erskine</name>.</author>
       <title type="ref">
        <hi rend="italics">Women in the Fine Arts, from the Seventh Century B.C. to the Twentieth
         Century A.D.</hi>
@@ -36859,7 +36929,7 @@
        <date>1905.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> An answer to <ref target="a451" targOrder="U"
-        >Jameson;</ref> more “images of women” than lives of painters.</note>
+       >Jameson;</ref> more “images of women” than lives of painters.</note>
       <note type="toc">
        <list>
         <item>A Port</item>
@@ -36892,9 +36962,24 @@
        <date>1855;</date>
       </imprint>
       <imprint>
+       <publisher>Leary and Getz,</publisher>
+       <date>1856;</date>
+       <date>1857;</date>
+      </imprint>
+      <imprint>
        <publisher>Potter,</publisher>
+       <date>1856;</date>
        <date>1861;</date>
-       <date>1885.</date>
+       <date>1885;</date>
+      </imprint>
+      <imprint>
+       <publisher>Keystone,</publisher>
+       <date>1890.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Cincinnati:</pubPlace>
+       <publisher>United States Book and Bible Co.,</publisher>
+       <date>1861.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -36948,16 +37033,16 @@
         <item>Mrs. Pursley</item>
         <item>Lydia Darragh</item>
         <item>Mrs. Heald</item>
-        <item>Mrs. Helm. *Pop Chart</item>
+        <item>Mrs. Helm.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a848" default="NO">
       <ref targOrder="U">848.</ref>
       <idno>a848</idno>
-      <author>
-       <abbr expan="Watson, Henry Clay">---.</abbr>
-      </author>
+      <author><name type="last">Watson</name>, <name type="first">Henry Clay</name>.</author>
       <title type="ref">
        <hi rend="italics">Romance of History: As Exhibited in the Lives of Celebrated Women.</hi>
       </title>
@@ -36966,7 +37051,7 @@
        <publisher>Gihon,</publisher>
        <date>1857.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">Possible alternate title to above?</note>
+      <note place="unspecified" anchored="yes">Possible alternate title to a847?</note>
      </bibl>
      <bibl id="a849" default="NO">
       <ref targOrder="U">849.</ref>
@@ -37009,7 +37094,7 @@
       <ref targOrder="U">852.</ref>
       <idno>a852</idno>
       <author><name type="last">Welch</name>, <name type="first">Alice Kemp</name> [or <name
-        type="aka">Kemp-Welch</name>].</author>
+       type="aka">Kemp-Welch</name>].</author>
       <title type="ref">
        <hi rend="italics">Of Six Mediaeval Women: To Which Is Added a Note on Medieval Gardens.</hi>
       </title>
@@ -37019,8 +37104,25 @@
        <date>1903;</date>
        <date>1913.</date>
       </imprint>
+      <imprint>
+       <pubPlace>Williamstown, MA:</pubPlace>
+       <publisher>Corner House,</publisher>
+       <date>1972;</date>
+       <date>1979.</date>
+      </imprint>
+      <note type="chapter_titles">
+       <list>
+        <item>A Tenth-Century Dramatist, Roswitha the Nun</item>
+        <item>A Twelfth-Century Romance-Writer, Marie de France</item>
+        <item>A Thirteenth-Century Mystic and Beguine, Mechthild of Magdeburg</item>
+        <item>A Fourteenth-Century Art-Patron and Philanthropist, Mahaut, Countess of Artois</item>
+        <item>A Fifteenth-Century Feministe, Christine de Pisan</item>
+        <item>Agnes Sorel</item>
+        <item>A Note on Mediaeval Gardens</item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes"> Partly reprinted from the <date>nineteenth
-        century</date> and after. </note>
+       century</date> and after. </note>
      </bibl>
      <bibl id="a853" default="NO"><ref targOrder="U">853.</ref>
       <idno>a853</idno>
@@ -37067,6 +37169,20 @@
        <publisher>Dutton,</publisher>
        <date>1922.</date>
       </imprint>
+      <note type="chapter_titles">
+       <list>
+        <item>Women Agitators</item>
+        <item>Salons and Salonnieres</item>
+        <item>Clubs and Club Women</item>
+        <item>Women Writers -- Madame Roland</item>
+        <item>The Story of the Revolution Told by its Women Writers</item>
+        <item>Minor Women Writers of the Revolution</item>
+        <item>Women at Arms</item>
+        <item>Charlotte Corday</item>
+        <item>Women and Religion</item>
+        <item>The Rise and Fall of the Women's Party</item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes"> Translator and biographer of French subjects; author
        of <title>
         <hi rend="italics">French Novelists of Today</hi>
@@ -37139,9 +37255,7 @@
      <bibl id="a858" default="NO">
       <ref targOrder="U">858.</ref>
       <idno>a858</idno>
-      <author>
-       <abbr expan="Wharton, Morton Bryan">---.</abbr>
-      </author>
+      <author><name type="last">Wharton</name>, <name type="first">Morton Bryan</name>.</author>
       <title type="ref">
        <hi rend="italics">Famous Women of the Old Testament: A Series of Popular Lectures Delivered
         in the First Baptist Church Montgomery, Ala.</hi>
@@ -37233,9 +37347,7 @@
      <bibl id="a862" default="NO">
       <ref targOrder="U">862.</ref>
       <idno>a862</idno>
-      <author>
-       <abbr expan="Whiting, Lilian">---.</abbr>
-      </author>
+      <author><name type="last">Whiting</name>, <name type="first">Lilian</name>.</author>
       <title type="ref">
        <hi rend="italics">Women Who Have Ennobled Life.</hi>
       </title>
@@ -37245,8 +37357,8 @@
        <date>1915.</date>
       </imprint>
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
-        <hi rend="italics">How To Make It as a Woman,</hi>
-       </title> 7-9.</xref>
+       <hi rend="italics">How To Make It as a Woman,</hi>
+      </title> 7-9.</xref>
       <note type="toc">
        <list>
         <item>Elizabeth Barrett Browning</item>
@@ -37257,9 +37369,11 @@
         <item>Harriet Beecher Stowe</item>
         <item>Frances E. Willard</item>
         <item>Harriet Goodhue Hosmer</item>
-        <item>Julia Ward Howe. *Pop Chart</item>
+        <item>Julia Ward Howe. </item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <image n="no223">
        <imgName>Julia Ward Howe</imgName>
       </image>
@@ -37392,6 +37506,11 @@
        <date>1896;</date>
        <date>[1924?].</date>
       </imprint>
+      <imprint>
+       <pubPlace>LaCrosse, Wisc.:</pubPlace>
+       <publisher>Brookhaven,</publisher>
+       <date>2000.</date>
+      </imprint>
      </bibl>
      <bibl id="a866" default="NO">
       <ref targOrder="U">866.</ref>
@@ -37422,17 +37541,32 @@
      <bibl id="a868" default="NO"><ref targOrder="U">868.</ref>
       <idno>a868</idno>
       <editor role="editor"><name type="last">Willard</name>, <name type="first">Frances
-        Elizabeth</name>, and <name type="first">Mary A.</name>
+       Elizabeth</name>, and <name type="first">Mary A.</name>
        <name type="last">Livermore</name>,</editor> eds. <title type="ref">
-       <hi rend="italics">A Woman of the Century: Fourteen Hundred-Seventy Biographical Sketches
-        Accompanied by Portraits of Leading American Women in All Walks of Life.</hi>
-      </title>
+        <hi rend="italics">A Woman of the Century: Fourteen Hundred-Seventy Biographical Sketches
+         Accompanied by Portraits of Leading American Women in All Walks of Life.</hi>
+       </title>
       <imprint>
        <pubPlace>Buffalo, NY,</pubPlace>
        <pubPlace>Chicago, and</pubPlace>
        <pubPlace>New York:</pubPlace>
        <publisher>Moulton,</publisher>
        <date>1893.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Detroit:</pubPlace>
+       <publisher>Gale Research,</publisher>
+       <date>1968.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Gordon Press,</publisher>
+       <date>1975.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Tokyo:</pubPlace>
+       <publisher>Athena Press,</publisher>
+       <date>2008.</date>
       </imprint>
       <edition>Rev. ed.</edition> As: <title>
        <hi rend="italics">American Women: Fifteen Hundred Biographies With Over 1,400 Portraits: A
@@ -37463,12 +37597,17 @@
        <hi rend="italics">Heroines of India.</hi>
       </title>
       <imprint>
-       <pubPlace>[London]:</pubPlace>
+       <pubPlace>London:</pubPlace>
        <publisher>UCME,</publisher>
-       <date>n.d.</date>
+       <date>1919;</date>
+       <date>1920.</date>
+      </imprint>
+      <imprint>
+       <publisher>Livingstone,</publisher>
+       <date>1922.</date>
       </imprint>
       <note place="unspecified" anchored="yes">
-       <xref targOrder="U" from="ROOT" to="DITTO">Riches</xref> [i.e. before <date>1933</date>].
+       <xref targOrder="U" from="ROOT" to="DITTO">See Phyllis Riches, Analytic Bibliography of Universal Collected Biography</xref> [i.e. before <date>1933</date>].
        Other U.C.M.E. publications circa <date>1914-1925</date>. </note>
      </bibl>
      <bibl id="a870" default="NO">
@@ -37481,15 +37620,19 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Hutchinson,</publisher>
+       <date>1906;</date>
+       <date>1907.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>G.P. Putnam's Sons,</publisher>
        <date>1906.</date>
       </imprint>
      </bibl>
      <bibl id="a871" default="NO">
       <ref targOrder="U">871.</ref>
       <idno>a871</idno>
-      <author>
-       <abbr expan="Williams, Hugh Noel">---.</abbr>
-      </author>
+      <author><name type="last">Williams</name>, <name type="first">Hugh Noel</name>.</author>
       <title type="ref">
        <hi rend="italics">Later Queens of the French Stage.</hi>
       </title>
@@ -37504,9 +37647,7 @@
      <bibl id="a872" default="NO">
       <ref targOrder="U">872.</ref>
       <idno>a872</idno>
-      <author>
-       <abbr expan="Williams, Hugh Noel">---.</abbr>
-      </author>
+      <author><name type="last">Williams</name>, <name type="first">Hugh Noel</name>.</author>
       <title type="ref">
        <hi rend="italics">Queens of the French Stage.</hi>
       </title>
@@ -37534,9 +37675,7 @@
      <bibl id="a873" default="NO">
       <ref targOrder="U">873.</ref>
       <idno>a873</idno>
-      <author>
-       <abbr expan="Williams, Hugh Noel">---.</abbr>
-      </author>
+      <author><name type="last">Williams</name>, <name type="first">Hugh Noel</name>.</author>
       <title type="ref">
        <hi rend="italics">Rival Sultanas.</hi>
       </title>
@@ -37554,13 +37693,39 @@
         <item>Hortense</item>
        </list>
       </note>
+      <note type="chapter_titles">
+       <list>
+        <item>The Early Loves of Charles II</item>
+        <item>The Beginnings of Nell Gwyn</item>
+        <item>Nell Gwyn and Lord Buckhurst</item>
+        <item>"The King Sends for Nelly"</item>
+        <item>The Merry Monarch</item>
+        <item>Nell Leaves the Stage</item>
+        <item>The Treaty of Dover</item>
+        <item>The Accession of Louse de Kéroualle</item>
+        <item>Intrigues, Political and Otherwise</item>
+        <item>Louise de Kéroualle Becomes Duchess of Portsmouth</item>
+        <item>The Duchess of Portsmouth and Nell Gwyn</item>
+        <item>Madame de Mazarin Enters the Lists</item>
+        <item>Triumph of Madame de Mazarin</item>
+        <item>Charles, Louis and the Parilament</item>
+        <item>The Popish Plot</item>
+        <item>The Exclusion Bill</item>
+        <item>The Triumph of the Court</item>
+        <item>Le Roi S'Amuse</item>
+        <item>The Duchess of Portsmouth visits France</item>
+        <item>The Episode of the Grand Prior</item>
+        <item>Nell Gwyn's Letters</item>
+        <item>The Death of Charles II</item>
+        <item>The Last Days of Nell Gwyn</item>
+        <item>Exeunt Portsmouth and Mazarin</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a874" default="NO">
       <ref targOrder="U">874.</ref>
       <idno>a874</idno>
-      <author>
-       <abbr expan="Williams, Hugh Noel">---.</abbr>
-      </author>
+      <author><name type="last">Williams</name>, <name type="first">Hugh Noel</name>.</author>
       <title type="ref">
        <hi rend="italics">Unruly Daughters: A Romance of the House of Orleans.</hi>
       </title>
@@ -37575,15 +37740,19 @@
      <bibl id="a875" default="NO">
       <ref targOrder="U">875.</ref>
       <idno>a875</idno>
-      <author>
-       <abbr expan="Williams, Hugh Noel">---.</abbr>
-      </author>
+      <author><name type="last">Williams</name>, <name type="first">Hugh Noel</name>.</author>
       <title type="ref">
        <hi rend="italics">The Women Bonapartes: The Mother and Three Sisters of Napoleon I.</hi>
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
+       <publisher>Methuen,</publisher>
        <date>1908.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Scribner's Sons,</publisher>
+       <date>1909.</date>
       </imprint>
       <note place="unspecified" anchored="yes">Bodleian</note>
      </bibl>
@@ -37660,6 +37829,11 @@
        <publisher>Hood,</publisher>
        <date>[1880s?].</date>
       </imprint>
+      <imprint>
+       <pubPlace>Cincinnati:</pubPlace>
+       <publisher>Cranston and Stowe,</publisher>
+       <date>[1885].</date>
+      </imprint>
      </bibl>
      <bibl id="a880" default="NO">
       <ref targOrder="U">880.</ref>
@@ -37680,9 +37854,7 @@
      <bibl id="a881" default="NO">
       <ref targOrder="U">881.</ref>
       <idno>a881</idno>
-      <author>
-       <abbr expan="Williamson, Emma Sara">---.</abbr>
-      </author>
+      <author><name type="last">Williamson</name>, <name type="first">Emma Sara</name>.</author>
       <title type="ref">
        <hi rend="italics">The Book of Beauty (Late Victorian Era): A Collection of Beautiful
         Portraits with Literary, Artistic, and Musical Contributions by Men and Women of the
