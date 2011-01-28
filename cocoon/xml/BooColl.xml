@@ -13768,7 +13768,7 @@
        <publisher>[Chapple &amp; Tozer],</publisher>
        <date>1875.</date>
       </imprint>
-      <note type="toc">
+      <note type="chapter_titles">
        <list>
         <item>Eve, Our First Mother</item>
         <item>Sarah, the Dutiful Wife</item>
@@ -13907,7 +13907,7 @@
         <item>Dowager Duchess of Sutherland</item>
         <item n="JENNY_LIND">Jenny Lind</item>
         <item>Princess of Wales</item>
-        <item>Princess Louisa. *Pop Chart</item>
+        <item>Princess Louisa. </item>
        </list>
       </note>
       <image n="no403">
@@ -18062,7 +18062,7 @@
        <publisher>Ward &amp; Downey,</publisher>
        <date>1895.</date>
       </imprint>
-      <note type="toc">
+      <note type="chapter_titles">
        <list>
         <item>Introduction-Mary Molesworth, Countess of Belvedere</item>
         <item>Eleanor Ambrose, “the Dangerous Papist”</item>
@@ -18578,7 +18578,7 @@
        <date>1888;</date>
        <date>1889.</date>
       </imprint>
-      <note type="toc">
+      <note type="chapter_titles">
        <list>
         <item>Lady Washington</item>
         <item>Mrs. John Adams</item>
@@ -20348,7 +20348,7 @@
        <publisher>Roberts,</publisher>
        <date>1896.</date>
       </imprint>
-      <note type="toc">
+      <note type="chapter_titles">
        <list>
         <item>The Learned Woman: Sonia Kovalevsky</item>
         <item>Neurotic Keynotes: George Egerton</item>
@@ -29101,7 +29101,7 @@
         <item n="LADY_JANE_GREY">The Lady Jane Grey</item>
         <item>Mary, Queen of Scots</item>
         <item>Madame de Maintenon</item>
-        <item>Marie Antoinette. *Pop Chart</item>
+        <item>Marie Antoinette. </item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> British Library. See <ref target="a391"
@@ -37948,9 +37948,7 @@
      <bibl id="a885" default="NO">
       <ref targOrder="U">885.</ref>
       <idno>a885</idno>
-      <author>
-       <abbr expan="Willing, Thomson">---.</abbr>
-      </author>
+      <author><name type="last">Willing</name>, <name type="first">Thomson</name>.</author>
       <title type="ref">
        <hi rend="italics">Some Old Time Beauties after Portraits by the English Masters, With
         Embellishment and Comment.</hi>
@@ -38136,8 +38134,13 @@
        <publisher>Hutchinson,</publisher>
        <date>1936.</date>
       </imprint>
+      <imprint>
+       <pubPlace>Port Washington, NY:</pubPlace>
+       <publisher>Kennikat</publisher>
+       <date>1970.</date>
+      </imprint>
       <note place="unspecified" anchored="yes"> Possible relation to <ref target="a571"
-        targOrder="U">Michelet</ref> or <ref target="a854" targOrder="U">Whale.</ref> Biographer of
+       targOrder="U">Michelet</ref> or <ref target="a854" targOrder="U">Whale.</ref> Biographer of
        Josephine, de Stael, Napoleon's mother, and others; handbooks on money and medicine; murder
        mysteries. </note>
      </bibl>
@@ -38159,9 +38162,7 @@
      <bibl id="a891" default="NO">
       <ref targOrder="U">891.</ref>
       <idno>a891</idno>
-      <author>
-       <abbr expan="Wilson, Violet Alice">---.</abbr>
-      </author>
+      <author><name type="last">Wilson</name>, <name type="first">Violet Alice</name>.</author>
       <title type="ref">
        <hi rend="italics">Society Women of Shakespeare's Time.</hi>
       </title>
@@ -38172,6 +38173,11 @@
        <publisher>Dutton,</publisher>
        <date>1924;</date>
        <date>1925.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Port Washington, NY:</pubPlace>
+       <publisher>Kennikat,</publisher>
+       <date>1970.</date>
       </imprint>
      </bibl>
      <bibl id="a892" default="NO"><ref targOrder="U">892.</ref>
@@ -38213,7 +38219,22 @@
         <item>Mme de Miramion</item>
         <item>Caroline Claudius Perthes, Wife of Frederick Perthes</item>
         <item>Mary Anne Galton (Mrs. Schimmelpenninck)</item>
-        <item>Miss Marsh. *Pop Chart</item>
+        <item>Miss Marsh. </item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
+      <note type="chapter_titles">
+       <list>
+        <item>Monica, The Mother of Augustine</item>
+        <item>Olympia Morata, A Star of the Reformation</item>
+        <item>Lady Brilliana Harley, of Brampton Beyan</item>
+        <item>Grisell Hume (Lady Baillie of Jerviswoode</item>
+        <item>Madame de Chantal, Mademoiselle Legras, Madame de Miramion, Lady-Founders of Sisterhoods, and Servants of the Poor in France</item>
+        <item>Caroline Claudius, Wife of Frederick Perthes</item>
+        <item>Mary Anne Galton (Mrs. Schimmelpennick)</item>
+        <item>The Kaiserwerth Deaconesses</item>
+        <item>Miss Marsh's Labours Among the Natives</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Wilson was Minister of the Free Church at
@@ -38263,9 +38284,11 @@
         <item>Frances Ridley Havergal</item>
         <item>Felicia Hemans</item>
         <item>The Two Grimke' sisters</item>
-        <item n="CAROLINE_HERSCHEL">Caroline Herschel. *Pop Chart</item>
+        <item n="CAROLINE_HERSCHEL">Caroline Herschel.</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <note place="unspecified" anchored="yes"> Author of juvenile pious fiction and advice books,
        e.g. <title>
         <hi rend="italics">The Young Lady's Counsellor</hi>
@@ -38358,7 +38381,7 @@
        <date>1883.</date>
       </imprint>
       <note place="unspecified" anchored="yes">
-       <xref targOrder="U" from="ROOT" to="DITTO">Riches.</xref>
+       <xref targOrder="U" from="ROOT" to="DITTO">See Phyllis Riches, Analytic Bibliography of Universal Collected Biography.</xref>
       </note>
      </bibl>
      <bibl id="a899" default="NO">
@@ -38670,9 +38693,7 @@
      <bibl id="a915" default="NO">
       <ref targOrder="U">915.</ref>
       <idno>a915</idno>
-      <author>
-       <abbr expan="Woosnam, Etty">---.</abbr>
-      </author>
+      <author><name type="last">Woosnam</name>, <name type="first">Etty</name>.</author>
       <title type="ref">
        <hi rend="italics">The Women of the Bible: Old Testament.</hi>
       </title>
@@ -38755,9 +38776,11 @@
         <item>Anne Royall</item>
         <item>Sarah Josepha Hale</item>
         <item>Margaret and Katherine Fox</item>
-        <item>Belle Boyd. *Pop Chart</item>
+        <item>Belle Boyd. </item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <note place="unspecified" anchored="yes"> Author of books on gardening, house design, and
        collections of early American men, e.g. <title>
         <hi rend="italics">Hawkers and Walkers in in Early America</hi>
@@ -38802,9 +38825,11 @@
         <item>Cora Pearl</item>
         <item>Lavinia Ryves</item>
         <item>Henrietta Strangway</item>
-        <item>Caroline Walters. *Pop Chart</item>
+        <item>Caroline Walters. </item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
       <note place="unspecified" anchored="yes"> Author of biographies of Lola Montez, Speranza (Lady
        Wilde), and memoirs of contemporary scandals and trials. Also: <title>
         <hi rend="italics">Chorus to Coronet</hi>
@@ -38815,7 +38840,7 @@
       <ref targOrder="U">921.</ref>
       <idno>a921</idno>
       <author><name type="last">Wyzewa</name>, <name type="first">Teodor de</name>, and <name
-        type="first">C. H.</name>
+       type="first">C. H.</name>
        <name type="last">Jeaffreson</name>.</author>
       <title type="ref">
        <hi rend="italics">
@@ -38826,7 +38851,8 @@
        <pubPlace>London and</pubPlace>
        <pubPlace>New York:</pubPlace>
        <publisher>Lane,</publisher>
-       <date>1909.</date>
+       <date>1909;</date>
+       <date>1919.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -39016,9 +39042,8 @@
      </bibl>
      <bibl id="a924" default="NO"><ref targOrder="U">924.</ref>
       <idno>a924</idno>
-      <author>
-       <abbr expan="Yonge, Charlotte Mary">---.</abbr>
-      </author>
+      <editor role="editor"><name type="last">Yonge</name>, <name type="first">Charlotte
+       Mary</name>,</editor>
       <title type="ref"><hi rend="italics">Biographies of Good Women:</hi>
        <hi rend="italics">Chiefly by Contributors to ‘The Monthly Packet.’ Edited by the Author
         of</hi> The Heir of Redclyffe.</title>
@@ -39075,16 +39100,17 @@
         <item>Harriet M. Bowdler</item>
         <item>Dorothy Wordsworth</item>
         <item>Sarah Martin</item>
-        <item>Eugenie de Guerin. *Pop Chart</item>
+        <item>Eugenie de Guerin. </item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
+       Chart</hi></note>
      </bibl>
      <bibl id="a925" default="NO">
       <ref targOrder="U">925.</ref>
       <idno>a925</idno>
-      <author>
-       <abbr expan="Yonge, Charlotte Mary">---.</abbr>
-      </author>
+      <editor role="editor"><name type="last">Yonge</name>, <name type="first">Charlotte
+       Mary</name>,</editor>
       <title type="ref"><hi rend="italics">A Book of Golden Deeds of All Times and All Lands.</hi>
        <hi rend="italics">Gathered and Narrated by the Author of</hi> The Heir of Redclyffe.</title>
       <imprint>
@@ -39126,24 +39152,69 @@
        <publisher>Donohue, Henneberry</publisher>
        <date>[1899?].</date>
       </imprint>
+      <note type="chapter_titles">
+       <list>
+        <item>What is a Golden Deed?</item>
+        <item>Regulus</item>
+        <item>The Stories of Alcestis and Antigone</item>
+        <item>How One Mane Has Saved A Host</item>
+        <item>The Pass of Thermopylae</item>
+        <item>The Two Friends of Syracuse</item>
+        <item>The Brave Brethren of Judah</item>
+        <item>Withstanding the Monarch in His Wrath</item>
+        <item>The Last Fight in the Colosseum</item>
+        <item>The Shepard Girl of Nanterre</item>
+        <item>Leo the Slave</item>
+        <item>Guzman el Bueno</item>
+        <item>Faithful till Death</item>
+        <item>The Keys of Calais</item>
+        <item>The Battle of Sempach</item>
+        <item>Sir Thomas More's Daughter</item>
+        <item>The Voluntary Convict</item>
+        <item>The Housewives of Lowenburg</item>
+        <item>Fathers and Sons</item>
+        <item>Heroes of the Plague</item>
+        <item>The Faithful Slaves of Haiti</item>
+        <item>The Petitioners for Pardon</item>
+        <item>Agostina of Zaragoza</item>
+        <item>Casal Novo</item>
+        <item>The Mad Dog</item>
+        <item>The Monthyon Prizes</item>
+        <item>The Loss of the Drake and the Magpie</item>
+        <item>The Chieftainess and the Volcano</item>
+        <item>The Rescuers</item>
+        <item>The Rescue Party</item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes">NOT:=male-female, miscellany, advice. Anecdotes. All
        page citations in the text are to the <date>1892</date> ed.</note>
      </bibl>
      <bibl id="a926" default="NO">
       <ref targOrder="U">926.</ref>
       <idno>a926</idno>
-      <author>
-       <abbr expan="Yonge, Charlotte Mary">---.</abbr>
-      </author>
+      <editor role="editor"><name type="last">Yonge</name>, <name type="first">Charlotte
+       Mary</name>,</editor>
       <title type="ref">
        <hi rend="italics">Womankind.</hi>
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
-       <publisher>Macmillan;</publisher>
+       <publisher>Macmillan,</publisher>
+       <date>1877;</date>
+       <date>1878.</date>
+      </imprint>
+      <imprint>
        <pubPlace>London,</pubPlace>
        <publisher>Mozley &amp; Smith,</publisher>
-       <date>1877.</date>
+       <date>1877;</date>
+       <date>1878;</date>
+       <publisher>Smith,</publisher>
+       <date>1878;</date>
+       <date>1881;</date>
+       <publisher>Smith and Innes</publisher>
+       <date>1889;</date>
+       <publisher>Smith and James,</publisher>
+       <date>1889.</date>
       </imprint>
       <edition>2d ed.</edition>
       <imprint>
