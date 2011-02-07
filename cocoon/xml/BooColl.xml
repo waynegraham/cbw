@@ -19407,6 +19407,25 @@
         <item>Life in the Capital</item>
        </list>
       </note>
+      <image n="1559.Mrs.GeorgeWashington"><imgName>Mrs. George Washington</imgName></image>
+      <image n="1560"></image>
+      <image n="1561"></image>
+      <image n="1562"></image>
+      <image n="1563"></image>
+      <image n="1564"></image>
+      <image n="1565"></image>
+      <image n="1566"></image>
+      <image n="1567"></image>
+      <image n="1568"></image>
+      <image n="1569"></image>
+      <image n="1570"></image>
+      <image n="1571"></image>
+      <image n="1572"></image>
+      <image n="1573"></image>
+      <image n="1574"></image>
+      <image n="1575"></image>
+      <image n="1576"></image>
+      <image n="1577"></image>
      </bibl>
      <bibl id="a351" default="NO"><ref targOrder="U">351.</ref>
       <idno>a351</idno>
@@ -19471,7 +19490,19 @@
        <date>1906.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> One of several group studies of the consorts of the
-       Napoleons: Josephine, Marie Louise, Eugénie. </note>
+      Napoleons: Josephine, Marie Louise, Eugénie. </note>
+      <image n="1578.Josephinein1805"><imgName>Josephine in 1805</imgName></image>
+      <image n="1579.BonaparteandEugenedeBeauharnais"><imgName>Bonaparte and Eugene de Beauharnais</imgName></image>
+     <image n="1580.Josephine"><imgName>Josephine</imgName></image>
+      <image n="1581.Josephine'sBedroomatFontainebleau"><imgName>Josephine's Bedroom at Fontainbleau</imgName></image>
+     <image n="1582.MarieLouise"><imgName>Marie Louise</imgName></image>
+      <image n="1583.MarieLouiseandtheKingofRome,1811"><imgName>Marie Louise and the King of Rome, 1811</imgName></image>
+     <image n="1584.NapoleonandthekingofRome"><imgName>Napoleon and the king of Rome</imgName></image>
+     <image n="1585.TheKingofRome1814"><imgName>The King of Rome, 1814</imgName></image>
+      <image n="1586.TheEmpressEugenie"><imgName>The Empress Eugenie</imgName></image>
+      <image n="1587.TheEmperorEmpressandPrinceImperial"><imgName>The Emperor, Empress, and Prince Imperial </imgName></image>
+     <image n="1588.ThePrinceImperialasaCadet"><imgName>The Prince Imperial as a Cadet</imgName></image>
+     <image n="1589.Eugenie1872"><imgName>Eugenie, 1872</imgName></image>
      </bibl>
     </div2>
     <div2 type="letter" n="H" org="uniform" sample="complete" part="N">
@@ -20052,6 +20083,13 @@
         <item>Helena of Mecklenburg, the Bride of Fontainebleau</item>
        </list>
       </note>
+      <image n="1590.MmedePompadour"><imgName>Mme de Pompadour</imgName></image>
+      <image n="1591.DianedePoitiersfromapaintingbyClouet"><imgName>Diane de Poitiers</imgName><imgDesc>From a painting by Clouet</imgDesc></image>
+     <image n="1592.Gabrielled'Estrees,fromapaintingbyPorbus,Dijon"><imgName>Gabrielle d'Estrees</imgName><imgDesc>From a painting by Porbus, Dijon</imgDesc></image>
+     <image n="1593.MariedeMancini,fromapaintingbyMiguardNationalGallery,Berlin"><imgName>Marie de Mancini</imgName><imgDesc>From a painting by Miguard National Gallery, Berlin</imgDesc></image>
+     <image n="1594.AnneofAustria"><imgName>Anne of Austria</imgName></image>
+      <image n="1595.MmedeMontespan"><imgName>Mme de Montespan</imgName></image>
+      <image n="1596.TheEmpressJosephine"><imgName>The Empress Josephine</imgName></image>
      </bibl>
      <bibl id="a370" default="NO">
       <ref targOrder="U">370.</ref>
@@ -20082,6 +20120,19 @@
         <item>Madame Récamier</item>
        </list>
       </note>
+      <image n="1597.JuliaD'Angennes-MademoiselleRambouillet"><imgName>Julia D'Angennes- Mademoiselle Rambouillet</imgName></image>
+     <image n="1598.AnneofAustria,fromaminiatureintheSouthKensingtonMuseum"><imgName>Anne of Austria</imgName><imgDesc>From a Miniature in the South Kensington Museum</imgDesc></image>
+     <image n="1599.MademoiselledeMontpensierfromaminiaturebyPetitot"><imgName>Mademoiselle de Montpensier</imgName><imgDesc>From a miniature by Petitot</imgDesc></image>
+     <image n="1600.MadamedeSevigne"><imgName>Madame de Sevigne</imgName></image>
+      <image n="1601.MadamedeGrignan"><imgName>Madame de Grignan</imgName></image>
+      <image n="1602.NinondeLenclosfromaminiatureintheSouthKensingtonMuseum"><imgName>Ninon de Lenclose</imgName><imgDesc>From a miniature in the South Kensington Museum</imgDesc></image>
+     <image n="1603.MadamedeMainteon,fromaminiatureinthSouthKensington"><imgName>Madame de Maintenon</imgName><imgDesc>From a miniature in the South Kensington</imgDesc></image>
+     <image n="1604.MadamedeMontespan,fromaminiatureintheSouthKensingtonMuseum"><imgName>Madame de Montespan</imgName><imgDesc>From a miniature in the South Kensington</imgDesc></image>
+     <image n="1605.MadamedeMaintenon,afteraportraitbyleBlanc"><imgName>Madame de Maintenon</imgName><imgDesc>After a portrait by le Blanc</imgDesc></image>
+     <image n="1606.MadameduDeffand,byForshelafterDeCarmontelle"><imgName>Madame du Deffand</imgName><imgDesc>by Forshel after De Carmontelle</imgDesc></image>
+     <image n="1607.MademoiselledeLespinasse,fromadrawingatChantily"><imgName>Mademoiselle de Lespinasse</imgName><imgDesc>from a drawing at Chantilly</imgDesc></image>
+     <image n="1608.MadamedeStael,afterthepaintingbyGerard"><imgName>Madame de Stael</imgName><imgDesc>After the Painting by Gerard</imgDesc></image>
+     <image n="1609.MadameRecamierafterapaintingbyMadameMorin"><imgName>Madame Recamier</imgName><imgDesc>After a painting by Madame Morin</imgDesc></image>
      </bibl>
      <bibl id="a371" default="NO">
       <ref targOrder="U">371.</ref>
@@ -20275,7 +20326,21 @@
        </list>
       </note>
       <note place="unspecified" anchored="yes"> <hi rend="bold">*Pop
-       Chart</hi></note>
+      Chart</hi></note>
+      <image n="1610.CicelyHamilton"><imgName>Cicely Hamilton</imgName></image>
+      <image n="1611.MaudHoffmanasMadameRoland"><imgName>Maud Hoffman as Madame Roland</imgName></image>
+     <image n="1612.EvaBalfourasSappho"><imgName>Eva Balfour as Sappho</imgName></image>
+      <image n="1613.EdithCraigasRosaBonheur"><imgName>Edith Craif as Rosa Bonheur</imgName></image>
+     <image n="1614.EllenTerryasNanceOldfield"><imgName>Ellen Terry as Nance Oldfield</imgName></image>
+     <image n="1615.Mrs.DespardasSt.Hilda"><imgName>Mrs. Desperd as St. Hilda</imgName></image>
+      <image n="1616.JoyChatwynasElizabethFry"><imgName>Joy Chatwyn as Elizabeth Fry</imgName></image>
+     <image n="1617.SuzannaSheldonasCatherinetheGreat"><imgName>Suzanna Sheldon as Catheirne the Great</imgName></image>
+     <image n="1618.VeraCoburnastheMaidofSaragossa"><imgName>Vera Coburn as the Maid of Saragossa</imgName></image>
+     <image n="1619.CicelyasChristianDavies"><imgName>Cicely as Christan Davies</imgName></image>
+      <image n="1620.ChristopherStJohnasHannahSnell"><imgName>Christopher St. John as Hannah Snell</imgName></image>
+     <image n="1621.LinaRathboneasMaryAnnTalbot"><imgName>Lina Rathbone as Mary Ann Talbot</imgName></image>
+     <image n="1622.MarionTerryasFlorenceNightingale"><imgName>Marion Terry as Florence Nightingale</imgName></image>
+     <image n="1623.PaulineChaseasJoanofArc,ElizabehKirbyasBodicea,MunciCapelasRaneeJhansi,FrancesWetherallasAgnesofDunbar"><imgName>Pauline Chase as Joan of Arc, Elizabeth Kirby as Boadicea, Munci Capel as Ranee Jhansi, Frances Wetherall as Agnes of Dunbar</imgName></image>
      </bibl>
      <bibl id="a374" default="NO"><ref targOrder="U">374.</ref>
       <idno>a374</idno>
