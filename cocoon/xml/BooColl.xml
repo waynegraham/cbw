@@ -14826,6 +14826,14 @@
         <hi rend="italics">The Life and Adventures of Mrs. Christian Davies Commonly Called Mother
          Ross</hi>
        </title> (London: Montagu, <date>1740</date>). </note>
+      <note type="toc">
+       <list>
+        <item>Madame Velazquez</item>
+        <item>Hannah Snell</item>
+        <item>Mary Anne Talbot</item>
+        <item>Mrs. Christian Davies or Mother Ross</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a244" default="NO">
       <ref targOrder="U">244.</ref>
@@ -43117,7 +43125,28 @@
       <note place="unspecified" anchored="yes"> </note>
      </bibl>
      <bibl id="p088B" default="NO">
-      <idno>p088B</idno>
+      <idno>p088C</idno>
+      <author><name type="last">Niemi</name>, <name type="first">Judith</name>and <name type="first">Barb</name>
+       <name type="last">Wieser.</name></author>
+      <title type="ref">
+       <hi rend="italics">Rivers Running Free: Stories of Adventurous Women.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Minneapolis:</pubPlace>
+       <publisher>Bergamot,</publisher>
+       <date>1987.</date>
+      </imprint>
+      <imprint>
+       <date>1988;</date>
+       <date>1997.</date>
+      </imprint>
+      <note>
+       Said to be a collection of memoirs of women on canoeing ventures "from 1905 to the 1980s, from Mexico
+       to the Hudson Bay" (Worldcat catalog blurb).
+      </note>
+     </bibl>
+     <bibl id="p088C" default="NO">
+      <idno>p088C</idno>
       <author><name type="last">Nies</name>, <name type="first">Judith</name>.</author>
       <title type="ref">
        <hi rend="italics">Seven Women: Portraits from the American Radical Tradition. </hi>
