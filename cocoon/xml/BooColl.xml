@@ -47146,6 +47146,20 @@
       </imprint>
       <note place="unspecified" anchored="yes">Children's literature; biographies. </note>
      </bibl>
+     <bibl id="p143B" default="NO">
+      <idno>p143B</idno>
+      <author><name type="last">Way</name>, <name type="first">Thaisa</name>
+      </author>
+      <title type="ref">
+       <hi rend="italics">Unbounded Practice: Women and Landscape Architecture in the Early Twentieth
+        Century.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Charlottesville:</pubPlace>
+       <publisher>University of Virginia Press,</publisher>
+       <date>2009.</date>
+      </imprint>
+      </bibl>
      <bibl id="p144" default="NO">
       <idno>p144</idno>
       <author><name type="last">Wehlitz</name>, <name type="first">Lou Rogers</name>.</author>
