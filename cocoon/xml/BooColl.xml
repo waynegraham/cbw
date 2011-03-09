@@ -10880,8 +10880,8 @@
         Weston.) (From "The Quiver")</imgDesc>
       </image>
       <image n="no358">
-       <imgName>Davonport</imgName>
-       <imgDesc>The Davonport Sailors' Rest</imgDesc>
+       <imgName>Devonport</imgName>
+       <imgDesc>The Devonport Sailors' Rest</imgDesc>
       </image>
       <image n="no359">
        <imgName>Refreshment Bar</imgName>
@@ -11616,10 +11616,10 @@
        </list>
       </note>
       <note place="unspecified" anchored="yes"> The Rev. D.W. Clark was the editor of <title>
-        <hi rend="italics">Ladies' Repository</hi>
-       </title>. Spine title: <title>
-        <hi rend="italics">Biographies of Celebrated Women</hi>
-       </title>. </note>
+        <hi rend="italics">Ladies' Repository.</hi>
+       </title> Spine title: <title>
+        <hi rend="italics">Biographies of Celebrated Women.</hi>
+       </title></note>
       <image n="no15">
        <imgName>Maid of Saragossa</imgName>
        <imgDesc>The Maid of Saragossa by J. Champagne, engraved by S. Hollyer</imgDesc>
@@ -11760,7 +11760,7 @@
         <item>Charlotte Elizabeth</item>
         <item>Mary Russell Mitford</item>
         <item>Sarah Trimmer</item>
-        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell.</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
        </list>
        <hi rend="bold">*Pop Chart</hi>
       </note>
@@ -13223,11 +13223,11 @@
         <item>Christian</item>
         <item>Anne Clifford</item>
         <item>Mary Evelyn</item>
-        <item>Lady Fanshawe.</item>
-        <item>Vol. 3: 21 subjects. incl. Mrs. Lucy Hutchinson,</item>
-        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell,</item>
-        <item>Jane Lane,</item>
-        <item>Susannah Centlivre.</item>
+        <item>Lady Fanshawe</item>
+        <item>Vol. 3: 21 subjects. incl. Mrs. Lucy Hutchinson</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
+        <item>Jane Lane</item>
+        <item>Susannah Centlivre</item>
         <item>Vol. 4: Lengthy biographies of Sarah, Duchess of Marlborough and Lady Mary Wortley
          Montagu</item>
        </list>
@@ -13240,7 +13240,7 @@
         <item>Mary Sidney, Countess of Pembroke</item>
         <item>Penelope, Lady Rich</item>
         <item>Magdalen Herbert</item>
-        <item>Frances Howard, Duchess of Richmond.</item>
+        <item>Frances Howard, Duchess of Richmond</item>
         <item>Vol. 2: Elizabeth Stuart, Queen of Bohemia</item>
         <item>Lucy Harrington, Countess of Bedford</item>
         <item>Frances Howard, Countess of Somerset</item>
@@ -13248,11 +13248,11 @@
         <item>Christian, Countess of Devonshire</item>
         <item>Anne Clifford, Countess of Dorset</item>
         <item>Mary Evelyn</item>
-        <item>Lady Fanshawe.</item>
-        <item>Vol. 3: 21 subjects. incl. Mrs. Lucy Hutchinson,</item>
-        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell,</item>
-        <item>Jane Lane,</item>
-        <item>Susannah Centlivre.</item>
+        <item>Lady Fanshawe</item>
+        <item>Vol. 3: 21 subjects. incl. Mrs. Lucy Hutchinson</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
+        <item>Jane Lane</item>
+        <item>Susannah Centlivre</item>
         <item>Vol. 4: Lengthy biographies of Sarah, Duchess of Marlborough and Lady Mary Wortley
          Montagu</item>
        </list>
@@ -14318,7 +14318,7 @@
       </title>
       <pubPlace>London:</pubPlace>
       <publisher>Swan,</publisher>
-      <date>[1880]</date>
+      <date>[1880].</date>
       <note type="toc">
        <list>
         <item>H.R.H. Princess Louise</item>
@@ -23101,38 +23101,6 @@
         <hi rend="italics">An Hour with Charlotte Bronté</hi>
        </title> (sic, <date>1882</date>), a household manual, and several individual biographies of
        men. Note the adjustments in the subtitle in the following editions: </note>
-      <note type="toc">
-       <list>
-        <item>Martha Washington</item>
-        <item>Mrs. Abigail Adams</item>
-        <item>Martha Jefferson</item>
-        <item>Dorothy Paine Madison</item>
-        <item>Elizabeth K. Monroe</item>
-        <item>Louisa Catharine Adams</item>
-        <item>Rachel Jackson</item>
-        <item>Mrs. Emily Donelson</item>
-        <item>Sarah Yorke Jackson</item>
-        <item>Hannah Van Buren</item>
-        <item>Angelica Van Buren</item>
-        <item>Anna Symmes Harrison</item>
-        <item>Letitia Christian Tyler</item>
-        <item>Julia Gardiner Tyler</item>
-        <item>Sarah Childress Polk</item>
-        <item>Margaret Taylor</item>
-        <item>Abigail Fillmore</item>
-        <item>Mary Abigail Fillmore</item>
-        <item>Jane Appleton Pierce</item>
-        <item>Harriet Lane</item>
-        <item>Mary Todd Lincoln</item>
-        <item>Eliza McArdle Johnson</item>
-        <item>Martha Johnson Patterson</item>
-        <item>Mary Stover</item>
-        <item>Julia Dent Grant</item>
-        <item>Lucy Webb Hayes</item>
-        <item>Lucretia Rudolph Garfield</item>
-        <item>“The White House”</item>
-       </list>
-      </note>
       <author>
        <abbr expan="Holloway, Laura Carter [Langford].">---.</abbr>
       </author>
@@ -23187,6 +23155,38 @@
        <publisher>Funk &amp; Wagnalls,</publisher>
        <date>1886.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Martha Washington</item>
+        <item>Mrs. Abigail Adams</item>
+        <item>Martha Jefferson</item>
+        <item>Dorothy Paine Madison</item>
+        <item>Elizabeth K. Monroe</item>
+        <item>Louisa Catharine Adams</item>
+        <item>Rachel Jackson</item>
+        <item>Mrs. Emily Donelson</item>
+        <item>Sarah Yorke Jackson</item>
+        <item>Hannah Van Buren</item>
+        <item>Angelica Van Buren</item>
+        <item>Anna Symmes Harrison</item>
+        <item>Letitia Christian Tyler</item>
+        <item>Julia Gardiner Tyler</item>
+        <item>Sarah Childress Polk</item>
+        <item>Margaret Taylor</item>
+        <item>Abigail Fillmore</item>
+        <item>Mary Abigail Fillmore</item>
+        <item>Jane Appleton Pierce</item>
+        <item>Harriet Lane</item>
+        <item>Mary Todd Lincoln</item>
+        <item>Eliza McArdle Johnson</item>
+        <item>Martha Johnson Patterson</item>
+        <item>Mary Stover</item>
+        <item>Julia Dent Grant</item>
+        <item>Lucy Webb Hayes</item>
+        <item>Lucretia Rudolph Garfield</item>
+        <item>“The White House”</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a411" default="NO"><ref targOrder="U">411.</ref>
       <idno>a411</idno>
