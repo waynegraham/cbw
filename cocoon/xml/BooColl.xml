@@ -40476,7 +40476,30 @@
        Collett.</note>
      </bibl>
 
-
+     <bibl id="p023D">
+      <idno>p023C</idno>
+      <author><name type="last">Colman</name>, <name type="first">Penny</name>.</author>
+      <title type="ref">
+       <hi rend="italics">Adventurous Women.</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Henry Holt,</publisher>
+       <date>2006.</date>
+      </imprint>
+      <note type="toc">
+       <list>
+        <item>Louise Boyd</item>
+        <item>Mary Gibson Henry</item>
+        <item>Juana Briones</item>
+        <item>Alice Hamilton</item>
+        <item>Mary McLeod Bethune</item>
+        <item>Katharine Wormeley</item>
+        <item>Biddy Mason</item>
+        <item>Peggy Hull</item>
+       </list>
+      </note>
+     </bibl>
      <bibl id="p024" default="NO">
       <idno>p024</idno>
       <author>
