@@ -10372,7 +10372,7 @@
        <imgName>Hannah</imgName>
        <imgDesc>Hannah</imgDesc>
       </image>
-      <image n="no966.Ruth">
+      <image n="no966.RuthTheGleaner">
        <imgName>Ruth, The Gleaner</imgName>
        <imgDesc>Ruth, The Gleaner</imgDesc>
       </image>
@@ -10388,7 +10388,7 @@
        <imgName>Mary Magdalen</imgName>
        <imgDesc>Mary Magdalen</imgDesc>
       </image>
-      <image n="no970.MaryandMartha">
+      <image n="no970.MaryAndMartha">
        <imgName>Mary and Martha</imgName>
        <imgDesc>Mary and Martha</imgDesc>
       </image>
@@ -10570,7 +10570,7 @@
        <imgName>Elizabeth Wheeler Andrew</imgName>
        <imgDesc>Elizabeth Wheeler Andrew</imgDesc>
       </image>
-      <image n="no978.KateCBushnell.">
+      <image n="no978.KateCBushnell">
        <imgName>Kate C. Bushnell</imgName>
        <imgDesc>Kate C. Bushnell</imgDesc>
       </image>
@@ -10666,7 +10666,7 @@
        <imgName>Julia Ames</imgName>
        <imgDesc>Julia Ames</imgDesc>
       </image>
-      <image n="no1002.MadameWillard">
+      <image n="no1002.MadamWillard">
        <imgName>Madame Willard</imgName>
        <imgDesc>Madame Willard</imgDesc>
       </image>
@@ -10690,7 +10690,7 @@
        <imgName>Harriet Kells</imgName>
        <imgDesc>Harriet Kells</imgDesc>
       </image>
-      <image n="no1008.ZeraldaWallace.">
+      <image n="no1008.ZeraldaWallace">
        <imgName>Zeralda Wallace</imgName>
        <imgDesc>Zeralda Wallace</imgDesc>
       </image>
@@ -11429,7 +11429,7 @@
        </list>
        <hi rend="bold">*Pop Chart</hi>
       </note>
-      <image n="no1009.Lavater'sAnniversary">
+      <image n="no1009.TheAnniversaryofLavater'sWedding">
        <imgName>Lavater's Anniversary</imgName>
        <imgDesc>The Anniversary of Lavater's Wedding</imgDesc>
       </image>
@@ -11468,23 +11468,23 @@
        </list>
       </note>
       <note place="unspecified" anchored="yes"> NOT:=history, typology </note>
-      <image n="1010">
+      <image n="1010.RebekahbringingwaterforthecamelofIsaac">
        <imgName>Rebekah bringing water</imgName>
        <imgDesc>Rebekah bringing water for the camel of Isaac</imgDesc>
       </image>
-      <image n="1011">
+      <image n="1011.AMohammadenwomanriding">
        <imgName>A Mohammaden woman riding</imgName>
        <imgDesc>A Mohammaden woman riding</imgDesc>
       </image>
-      <image n="1012">
+      <image n="1012.GirlofTimor">
        <imgName>Girl of Timor</imgName>
        <imgDesc>Girl of Timor</imgDesc>
       </image>
-      <image n="1013">
+      <image n="1013.Asiaticwomenbakingbread">
        <imgName>Asiatic women baking bread</imgName>
        <imgDesc>Asiatic women baking bread</imgDesc>
       </image>
-      <image n="1014">
+      <image n="1014.Egyptianwomenbringingwaterforconquerors">
        <imgName>Egyptian women</imgName>
        <imgDesc>Egyptian women bringing water for conquerors</imgDesc>
       </image>
@@ -12109,11 +12109,11 @@
       </imprint>
       <note place="unspecified" anchored="yes"> Bodleian <xref targOrder="U" from="ROOT" to="DITTO"
         >Oldfield</xref>. </note>
-      <image n="no1015.Mrs.Billington">
+      <image n="no1015.MrsBillington">
        <imgName>Mrs. Billington</imgName>
        <imgDesc>Mrs. Billington</imgDesc>
       </image>
-      <image n="no1016.MadamePasta">
+      <image n="no1016.MadamPasta">
        <imgName>Madame Pasta</imgName>
        <imgDesc>Madame Pasta</imgDesc>
       </image>
@@ -12121,7 +12121,7 @@
        <imgName>Madame Sontag</imgName>
        <imgDesc>Madame Sontag</imgDesc>
       </image>
-      <image n="no1018.MadameGarciaMailbran">
+      <image n="no1018.MadameGarciaMalibran">
        <imgName>Madame Garcia Malibran</imgName>
        <imgDesc>Madame Garcia Malibran</imgDesc>
       </image>
@@ -12133,7 +12133,7 @@
        <imgName>Madame Clara Novello</imgName>
        <imgDesc>Madame Clara Novello</imgDesc>
       </image>
-      <image n="no1021.MadameVlardotFarcia">
+      <image n="no1021.MadameVlardotGarcia">
        <imgName>Madame Vlardot Garcia</imgName>
        <imgDesc>Madame Vlardot Garcia</imgDesc>
       </image>
@@ -12386,9 +12386,9 @@
        <imgName>West and his Mother</imgName>
        <imgDesc>West and his Mother</imgDesc>
       </image>
-      <image n="no1028.TheWidowandherSong">
-       <imgName>The Widow and her Song</imgName>
-       <imgDesc>The Widow and her Song</imgDesc>
+      <image n="no1028.TheWidowandherSon">
+       <imgName>The Widow and her Son</imgName>
+       <imgDesc>The Widow and her Son</imgDesc>
       </image>
       <image n="no1029.TheHeroicMother">
        <imgName>The Heroic Mother</imgName>
@@ -12476,7 +12476,7 @@
        <imgName>Lady Mary Wharton</imgName>
        <imgDesc>Lady Mary Wharton</imgDesc>
       </image>
-      <image n="no1036.Anne">
+      <image n="no1036.AnneCountessofPembrokeDorsetandMontgomery">
        <imgName>Anne</imgName>
        <imgDesc>Anne, Countess of Pembroke, Dorset, and Montgomery</imgDesc>
       </image>
@@ -13518,23 +13518,23 @@
        <imgName>Elizabeth Gunning</imgName>
        <imgDesc>Elizabeth Gunning</imgDesc>
       </image>
-      <image n="no1047.MariaGunning">
+      <image n="no1047.MariaGunning2">
        <imgName>Maria Gunning </imgName>
        <imgDesc>Maria Gunning</imgDesc>
       </image>
-      <image n="no1048.ElizabethGunning">
+      <image n="no1048.ElizabethGunning2">
        <imgName>Elizabeth Gunning</imgName>
        <imgDesc>Elizabeth Gunning</imgDesc>
       </image>
-      <image n="no1049.Mrs.Abington">
+      <image n="no1049.MrsAbington">
        <imgName>Mrs. Abington</imgName>
        <imgDesc>Mrs. Abington</imgDesc>
       </image>
-      <image n="no1050.Mrs.Abington">
+      <image n="no1050.MrsAbingtonasRoxlana">
        <imgName>Mrs. Abington</imgName>
        <imgDesc>Mrs. Abington as Roxalana</imgDesc>
       </image>
-      <image n="no1051.Mrs.Abington">
+      <image n="no1051.MrsAbington">
        <imgName>Mrs. Abington</imgName>
        <imgDesc>Mrs. Abington</imgDesc>
       </image>
@@ -13542,11 +13542,11 @@
        <imgName>Anne Seymour Damer</imgName>
        <imgDesc>Anne Seymour Damer</imgDesc>
       </image>
-      <image n="no1053.Jane">
+      <image n="no1053.JaneDuchessofGordon">
        <imgName>Jane</imgName>
        <imgDesc>Jane, Duchess of Gordan</imgDesc>
       </image>
-      <image n="no1054.Jane">
+      <image n="no1054.JaneDuchessofGordon2">
        <imgName>Jane</imgName>
        <imgDesc>Jane, Duchess of Gordan</imgDesc>
       </image>
@@ -13554,11 +13554,11 @@
        <imgName>Elizabeth and Mary Linley</imgName>
        <imgDesc>Elizaebeth and Mary Linley</imgDesc>
       </image>
-      <image n="no1056.Georgiana">
+      <image n="no1056.GeorgianaDuchessofDevonshire">
        <imgName>Georgiana</imgName>
        <imgDesc>Georgiana, Duchess of Devonshire</imgDesc>
       </image>
-      <image n="no1057.Georgiana">
+      <image n="no1057.GeorgianaDuchessofDevonshire2">
        <imgName>Georgiana</imgName>
        <imgDesc>Georgiana, Duchess of Devonshire</imgDesc>
       </image>
@@ -13894,15 +13894,15 @@
         <hi rend="italics">Stories of the City of London, Retold for Youthful Readers</hi>
        </title> (<date>1880</date>), etc. </note>
       <hi rend="bold">*Pop Chart</hi>
-      <image n="no1060.LadyFanshaw">
+      <image n="no1060.LadyFanshawvisitingherhusbandinprison">
        <imgName>Lady Fanshaw</imgName>
        <imgDesc>Lady Fanshaw visiting her husband in prison</imgDesc>
       </image>
-      <image n="no1061.LadyRachelRussell">
+      <image n="no1061.LadyRachelRussellatherhusband'strial">
        <imgName>Lady Rachel Russell</imgName>
        <imgDesc>Lady Rachel Russell at her husband's trial</imgDesc>
       </image>
-      <image n="no1062.Mrs.Thrale">
+      <image n="no1062.Mrs.ThraleatStreathamPark">
        <imgName>Mrs. Thrale</imgName>
        <imgDesc>Mrs. Thrale at Streatham Park</imgDesc>
       </image>
@@ -13910,11 +13910,11 @@
        <imgName>Fanny Burney visiting Dr. Johnson</imgName>
        <imgDesc>Frances Burney visiting Dr. Johnson</imgDesc>
       </image>
-      <image n="no1064.MaryLWare">
+      <image n="no1064.MaryLWarewatchingoverheraunt'ssickbed">
        <imgName>Mary L. Ware</imgName>
        <imgDesc>Mary L. Ware watching over her aunt's sick bed</imgDesc>
       </image>
-      <image n="no1065.Mrs.Hutchinson">
+      <image n="no1065.Mrs.Hutchinsonattendingonthewoundedsoldiers">
        <imgName>Mrs. Hutchinson</imgName>
        <imgDesc>Mrs. Hutchinson Mrs. Hutchinson attending on the wounded soldiers</imgDesc>
       </image>
@@ -15912,23 +15912,23 @@
        <imgName>Mrs. Sallie Ward Hunt</imgName>
        <imgDesc>Mrs. Sallie Ward Hunt</imgDesc>
       </image>
-      <image n="no1074.Mrs.J.J.Crittenden">
+      <image n="no1074.Mrs.JJCrittenden">
        <imgName>Mrs. J.J. Crittenden</imgName>
        <imgDesc>Mrs. J. J. Crittenden</imgDesc>
       </image>
-      <image n="no1075.Mrs.JamesW.White">
+      <image n="no1075.Mrs.JamesWWhite">
        <imgName>Mrs. James W. White</imgName>
        <imgDesc>Mrs. James W. White</imgDesc>
       </image>
-      <image n="no1076.Mrs.CoventryWaddell">
-       <imgName>Mrs. Coventry Waddell</imgName>
-       <imgDesc>Mrs. Coventry Waddell</imgDesc>
+      <image n="no1076.Mrs.ConventryWaddell">
+       <imgName>Mrs. Conventry Waddell</imgName>
+       <imgDesc>Mrs. Conventry Waddell</imgDesc>
       </image>
       <image n="no1077.MadameLeVert">
        <imgName>Madame LeVert</imgName>
        <imgDesc>Madame LeVert</imgDesc>
       </image>
-      <image n="no1078.Mrs.Acklen">
+      <image n="No1078.Mrs.Acklen">
        <imgName>Mrs. Acklen</imgName>
        <imgDesc>Mrs. Acklen</imgDesc>
       </image>
@@ -16227,11 +16227,11 @@
        <imgName>One of the few good mammas</imgName>
        <imgDesc>One of the few good mammas</imgDesc>
       </image>
-      <image n="no1083.TheToastOurLadyFriends">
+      <image n="no1083.TheToast'OurLadyFriends'">
        <imgName>The Toast "Our Lady Friends"</imgName>
        <imgDesc>The Toast "Our Lady Friends"</imgDesc>
       </image>
-      <image n="no1084.FalseFaces">
+      <image n="no1084.FalseFaces,AnEnamelingStudoonBroadway">
        <imgName>False Faces</imgName>
        <imgDesc>False Faces, an enameling student on Broadway</imgDesc>
       </image>
@@ -16239,23 +16239,23 @@
        <imgName>Fashionable Worship</imgName>
        <imgDesc>Fashionable Worship, "Have mercy upon us miserable sinners!"</imgDesc>
       </image>
-      <image n="no1086.TheSchoolGirl">
+      <image n="no1086.TheSchoolGirlonherafternoonwalk">
        <imgName>The School Girl</imgName>
        <imgDesc>The School Girl, on her afternoon walk</imgDesc>
       </image>
-      <image n="no1087.Appointment">
+      <image n="no1087.Appointmentatcentralpark">
        <imgName>Appointment</imgName>
-       <imgDesc>Appointment at central ark waiting at the "floral bridge"</imgDesc>
+       <imgDesc>Appointment at central park waiting at the "floral bridge"</imgDesc>
       </image>
-      <image n="no1088.ShoppingonBroadway">
+      <image n="no1088.ShoppinginBroadway">
        <imgName>Shopping on Broadway</imgName>
        <imgDesc>Shopping on Broadway</imgDesc>
       </image>
-      <image n="no1089.CigarStore">
+      <image n="no1089.CanalStreet'CigarStor'visitedbyatractdistributor">
        <imgName>Cigar Store</imgName>
        <imgDesc>Canal Street "Cigar Store" visited by a distributor</imgDesc>
       </image>
-      <image n="no1090.MissCora">
+      <image n="no1090.MissCoraG--ABelleoftheUnderworld">
        <imgName>Miss Cora</imgName>
        <imgDesc>Miss Cora, A Belle of the Underworld</imgDesc>
       </image>
@@ -16263,15 +16263,15 @@
        <imgName>The Madame</imgName>
        <imgDesc>The Madame</imgDesc>
       </image>
-      <image n="no1092.FastWomen">
+      <image n="no1092.FastWomen,ThedriveinCentralPark">
        <imgName>Fast Women</imgName>
        <imgDesc>Fast Women, the drive in Central Park</imgDesc>
       </image>
-      <image n="no1093.TheQueenoftheUnderworld">
+      <image n="no1093.TheQueenofthe'Underworld'">
        <imgName>The Queen of the "Underworld"</imgName>
        <imgDesc>The Queen of the "Underworld"</imgDesc>
       </image>
-      <image n="no1094.FastWomen">
+      <image n="no1094.FastWomenattheraces">
        <imgName>Fast Women</imgName>
        <imgDesc>Fast Women at the Races</imgDesc>
       </image>
@@ -16279,23 +16279,23 @@
        <imgName>Queen of the Ballet</imgName>
        <imgDesc>Queen of the Ballet</imgDesc>
       </image>
-      <image n="no1096.Laundry">
+      <image n="no1096.HouseoftheGoodShepherd-MagdalensintheLaundry">
        <imgName>Laundry</imgName>
        <imgDesc>Laundry, house of the Good Shepherd-Magdalens in the laundry</imgDesc>
       </image>
-      <image n="no1097.SewingGirls">
+      <image n="no1097.SewingGirlsinabroadwayestablishment">
        <imgName>Sewing Girls</imgName>
        <imgDesc>Sewing Girls, in a broadway establishment</imgDesc>
       </image>
-      <image n="no1098.LiquoringUp">
+      <image n="no1098.Attheracesliquoringup">
        <imgName>Liquoring Up</imgName>
        <imgDesc>At the races, liquoring up</imgDesc>
       </image>
-      <image n="no1099.Practising">
+      <image n="no1099.Practisingfortheballet">
        <imgName>Practising</imgName>
        <imgDesc>Practising for the ballet</imgDesc>
       </image>
-      <image n="no1100.Lifeintheslums">
+      <image n="no1100.LifeintheSlums-TheDeadWife">
        <imgName>Life in the slums</imgName>
        <imgDesc>Life in the slums, the dead wife</imgDesc>
       </image>
@@ -16577,11 +16577,11 @@
         <item>Powder and Patches</item>
        </list>
       </note>
-      <image n="no1101.LadyHamilton">
+      <image n="no1101.LadyHamiltonas'Nature'">
        <imgName>Lady Hamilton</imgName>
        <imgDesc>Lady Hamilton, posing as "Nature"</imgDesc>
       </image>
-      <image n="no1102.HenryVIII'sWives">
+      <image n="no1102.Henry8thWives">
        <imgName>Henry VIII's Wives</imgName>
        <imgDesc>Henry VIII's Wives</imgDesc>
       </image>
@@ -16597,7 +16597,7 @@
        <imgName>Margaret Seton</imgName>
        <imgDesc>Margaret Seton</imgDesc>
       </image>
-      <image n="no1106.HenriettaStuart">
+      <image n="no1106.HenriettaStuartDuchessD'Orleans">
        <imgName>Henrietta Stuart</imgName>
        <imgDesc>Henrietta Stuart, Duchess of D'Orleans</imgDesc>
       </image>
@@ -16617,7 +16617,7 @@
        <imgName>Madame de Pompadour</imgName>
        <imgDesc>Madame de Pompadour</imgDesc>
       </image>
-      <image n="no1111.ThreeWomen">
+      <image n="no1111.EmpressJosephineDianadePoitiersMadameduBarry">
        <imgName>Three Women</imgName>
        <imgDesc>Empress Josephine, Diana de Poitiers, Madame du Barry</imgDesc>
       </image>
@@ -16661,7 +16661,7 @@
        <imgName>Grafin Potocka</imgName>
        <imgDesc>Grafin Potocka</imgDesc>
       </image>
-      <image n="no1122.Georgiana">
+      <image n="no1122.GeorgianaDuchessofDevonshire">
        <imgName>Georgiana</imgName>
        <imgDesc>Georgiana, Duchess of Devonshire</imgDesc>
       </image>
@@ -17144,7 +17144,7 @@
        <imgName>Mrs. Lydia Hoyt Farmer</imgName>
        <imgDesc>Mrs. Lydia Hoyt Farmer</imgDesc>
       </image>
-      <image n="no1127.Mrs.JaneG.Austin">
+      <image n="no1127.Mrs.JaneGAustin">
        <imgName>Mrs. Jane G. Austin</imgName>
        <imgDesc>Mrs. Jane G. Austin</imgDesc>
       </image>
@@ -17152,15 +17152,15 @@
        <imgName>Mrs. Lucy Larcom</imgName>
        <imgDesc>Mrs. Lucy Larcom</imgDesc>
       </image>
-      <image n="no1129.Mrs.ElroyM.Avery">
+      <image n="no1129.Mrs.ElroyMAvery">
        <imgName>Mrs. Elroy M. Avery</imgName>
        <imgDesc>Mrs. Elroy M. Avery</imgDesc>
       </image>
-      <image n="no1130.Mrs.UlyssesS.Grant">
+      <image n="no1130.Mrs.UlyssesSGrant">
        <imgName>Mrs. Ulysses S. Grant</imgName>
        <imgDesc>Mrs. Ulysses S. Grant</imgDesc>
       </image>
-      <image n="no1131.Mrs.RutherfordB.Hayes">
+      <image n="no1131.Mrs.RutherfordBHayes">
        <imgName>Mrs. Rutherford B. Hayes</imgName>
        <imgDesc>Mrs. Rutherford B. Hayes</imgDesc>
       </image>
@@ -17192,11 +17192,11 @@
        <imgName>Mrs. Frank Leslie</imgName>
        <imgDesc>Mrs. Frank Leslie</imgDesc>
       </image>
-      <image n="no1139.Mrs.ANnieJennessMiller">
+      <image n="no1139.Mrs.AnnieJennessMiller">
        <imgName>Mrs. Annie Jenness Miller</imgName>
        <imgDesc>Mrs. Annie Jenness Miller</imgDesc>
       </image>
-      <image n="no1140.MissJennieE.Hooker">
+      <image n="no1140.MissJennieEHooker">
        <imgName>Miss Jennie E. Hooker</imgName>
        <imgDesc>Miss Jennie E. Hooker</imgDesc>
       </image>
@@ -17204,19 +17204,19 @@
        <imgName>Mrs. Mary Mapes Dodge</imgName>
        <imgDesc>Mrs. Mary Mapes Dodge</imgDesc>
       </image>
-      <image n="no1142.Mrs.JohnA.Logan">
+      <image n="no1142.Mrs.JohnALogan">
        <imgName>Mrs. John A. Logan</imgName>
        <imgDesc>Mrs. John A. Logan</imgDesc>
       </image>
-      <image n="no1143.Mrs.HarrietM.Lothrop">
+      <image n="no1143.Mrs.HarrietMLothrop">
        <imgName>Mrs. Harriet M. Lothrop</imgName>
        <imgDesc>Mrs. Harriet M. Lothrop</imgDesc>
       </image>
-      <image n="no1144.Mrs.EllenOlneyKirk">
+      <image n="no1144.MrsEllenOlneyKirk">
        <imgName>Mrs. Ellen Olney Kirk</imgName>
        <imgDesc>Mrs. Ellen Olney Kirk</imgDesc>
       </image>
-      <image n="no1145.MissSusanE.Dickinson">
+      <image n="no1145.MissSusanEDickinson">
        <imgName>Miss Susan E. Dickinson</imgName>
        <imgDesc>Miss Susan E. Dickinson</imgDesc>
       </image>
@@ -17224,7 +17224,7 @@
        <imgName>Miss Eliza Hardy Lord</imgName>
        <imgDesc>Miss. Eliza Hardy Lord</imgDesc>
       </image>
-      <image n="no1147.MissAnneEugeniaMoran">
+      <image n="no1147.MissAnneEugeniaMorgan">
        <imgName>Miss Anne Eugenia Morgan</imgName>
        <imgDesc>Miss Anne Eugenia Morgan</imgDesc>
       </image>
@@ -17232,11 +17232,11 @@
        <imgName>Mrs. Frances Fisher Wood</imgName>
        <imgDesc>Mrs. Frances Fisher Wood</imgDesc>
       </image>
-      <image n="no1149.Mrs.FrancesE.Willard">
+      <image n="no1149.Mrs.FrancesEWillard">
        <imgName>Mrs. Frances E. Willard</imgName>
        <imgDesc>Mrs. Frances E. Willard</imgDesc>
       </image>
-      <image n="no1150.Mrs.MaryA.Livermore">
+      <image n="no1150.Mrs.MaryALivermore">
        <imgName>Mrs. Mary A. Livermore</imgName>
        <imgDesc>Mrs. Mary A. Livermore</imgDesc>
       </image>
@@ -17244,19 +17244,19 @@
        <imgName>Mrs. Amelia Stone Quinton</imgName>
        <imgDesc>Mrs. Amelia Stone Quinton</imgDesc>
       </image>
-      <image n="no1152.Mrs.J.C.Croly">
+      <image n="no1152.Mrs.JCCroly">
        <imgName>Mrs. J. C. Croly</imgName>
        <imgDesc>Mrs. J. C. Croly</imgDesc>
       </image>
-      <image n="no1153.Mrs.J.EllenFoster">
+      <image n="no1153.Mrs.JEllenFoster">
        <imgName>Mrs. J. Ellen Foster</imgName>
        <imgDesc>Mrs. J. Ellen Foster</imgDesc>
       </image>
-      <image n="no1154.Mrs.FrancesJ.Barnes">
+      <image n="no1154.Mrs.FrancesJBarnes">
        <imgName>Mrs. Frances J. Barnes</imgName>
        <imgDesc>Mrs. Frances J. Barnes</imgDesc>
       </image>
-      <image n="no1155.Miss.L.ElizabethPrice">
+      <image n="no1155.Miss.LElizabethPrice">
        <imgName>Miss. L. Elizabeth Price</imgName>
        <imgDesc>Miss. L. Elizabeth Price</imgDesc>
       </image>
@@ -17264,15 +17264,15 @@
        <imgName>Mrs. Charles Henrotin</imgName>
        <imgDesc>Mrs. Charles Henrotin</imgDesc>
       </image>
-      <image n="no1157.Mrs.AdaM.Bittenbender">
+      <image n="no1157.Mrs.AdaMBittenbender">
        <imgName>Mrs. Ada M. Bittenbender</imgName>
        <imgDesc>Mrs. Ada M. Bittenbender</imgDesc>
       </image>
-      <image n="no1158.MissLillianWhitin">
+      <image n="no1158.MissLillianWhiting">
        <imgName>Miss Lillian Whiting</imgName>
        <imgDesc>Miss Lillian Whiting</imgDesc>
       </image>
-      <image n="no1159.Mrs.MathildaB.Carse">
+      <image n="no1159.Mrs.MathildaBCarse">
        <imgName>Mrs. Mathilda B. Carse</imgName>
        <imgDesc>Mrs. Mathilda B. Carse</imgDesc>
       </image>
@@ -17376,11 +17376,11 @@
        </list>
       </note>
       <hi rend="bold">*Pop Chart</hi>
-      <image n="no1163.Margaret">
-       <imgName>Margaret</imgName>
+      <image n="no1163.MargaretofAngouleme">
+       <imgName>Margaret of Angouleme</imgName>
        <imgDesc>Margaret of Angouleme</imgDesc>
       </image>
-      <image n="no1164.Louise">
+      <image n="no1164.LouiseofSavoyComtesseD'Angouleme">
        <imgName>Louise</imgName>
        <imgDesc>Louise of Savoy</imgDesc>
       </image>
@@ -17396,11 +17396,11 @@
        <imgName>Jeanne D'Albret</imgName>
        <imgDesc>Jeanne D'Albret</imgDesc>
       </image>
-      <image n="no1168.ReneeofFrance">
+      <image n="no1168.ReneeofFranceDuchessofFerrara">
        <imgName>Renee of France</imgName>
        <imgDesc>Renee of France</imgDesc>
       </image>
-      <image n="no1169.Elizabeth">
+      <image n="no1169.ElizabethQueenofEngland">
        <imgName>Elizabeth</imgName>
        <imgDesc>Elizabeth, Queen of England</imgDesc>
       </image>
@@ -17519,15 +17519,15 @@
        <imgName>Hortense Mancini</imgName>
        <imgDesc>Hortense Mancini</imgDesc>
       </image>
-      <image n="no1174.Henrietta">
+      <image n="no1174.HenriettaDuchessofOrleans">
        <imgName>Henrietta</imgName>
        <imgDesc>Henrietta, Duchess of Orleans</imgDesc>
       </image>
-      <image n="no1175.AnneVilliers">
+      <image n="no1175.AnneVilliersCountessofMorton">
        <imgName>Anne Villiers</imgName>
        <imgDesc>Anne Villiers, Countess of Morton</imgDesc>
       </image>
-      <image n="no1176.Henrietta">
+      <image n="no1176.HenriettaDuchessofOrleans">
        <imgName>Henrietta</imgName>
        <imgDesc>Henrietta, Duchess of Orleans</imgDesc>
       </image>
@@ -17555,7 +17555,7 @@
        <imgName>Frances Stuart</imgName>
        <imgDesc>Frances Stuart</imgDesc>
       </image>
-      <image n="no1183.FrancesStuart">
+      <image n="no1183.FrancesStuartDuchessofRichmond">
        <imgName>Frances Stuart</imgName>
        <imgDesc>Frances Stuart</imgDesc>
       </image>
@@ -17563,11 +17563,11 @@
        <imgName>Mary Bagot</imgName>
        <imgDesc>Mary Bagot</imgDesc>
       </image>
-      <image n="no1185.HenriettaBoyle">
+      <image n="no1185.HenriettaBoyleCountessofRochester">
        <imgName>Henrietta Boyle</imgName>
        <imgDesc>Henrietta Boyle, Countess of Rochester</imgDesc>
       </image>
-      <image n="no1186.HenriettaBoyle">
+      <image n="no1186.HenriettaBoyleCountessofRochester">
        <imgName>Henrietta Boyle</imgName>
        <imgDesc>Henrietta Boyle, Countess of Rochester</imgDesc>
       </image>
@@ -17579,33 +17579,33 @@
        <imgName>Mary Beatrice D'Este</imgName>
        <imgDesc>Mary Beatrice D'Este</imgDesc>
       </image>
-      <image n="no1189.AnneDigby">
+      <image n="no1189.AnneDigbyCountessofSunderland">
        <imgName>Anne Digby</imgName>
        <imgDesc>Anne Digby, Countess of Sunderland</imgDesc>
       </image>
-      <image n="no1190.BarbaraVilliers">
+      <image n="no1190.BarbaraVilliersCountessofCastlemaine">
        <imgName>Barbara Villiers</imgName>
        <imgDesc>Barbara Villiers, Countess of Castlemaine</imgDesc>
       </image>
-      <image n="no1191.BarbaraVilliers">
+      <image n="no1191.BarbaraVilliersCountessofCastlemaine">
        <imgName>Barbara Villiers</imgName>
        <imgDesc>Barbara Villiers, Countess of Castlemaine</imgDesc>
       </image>
-      <image n="no1192.BarbaraVilliers">
+      <image n="no1192.BarbaraVilliersCountessofCastlemaine">
        <imgName>Barbara Villiers</imgName>
        <imgDesc>Barbara Villiers, Countess of Castlemaine</imgDesc>
       </image>
-      <image n="no1193.BarbaraVilliers">
+      <image n="no1193.BarbaraVilliersCountessofCastlemaineandhersontheDukeofGrafton">
        <imgName>Barbara Villiers</imgName>
        <imgDesc>Barbara Villiers, Countess of Castlemaine and her son, the Duke of Grafton</imgDesc>
       </image>
-      <image n="no1194.ElizabethHamilton">
+      <image n="no1194.ElizabethHamiltonComtessedeGramont">
        <imgName>Elizabeth Hamilton</imgName>
-       <imgDesc>Elizabeth Hamilton, Contesse de Gramont</imgDesc>
+       <imgDesc>Elizabeth Hamilton, Comtesse de Gramont</imgDesc>
       </image>
-      <image n="no1195.ELizabethHamilton">
+      <image n="no1195.ELizabethHamiltonComtessedeGramont">
        <imgName>Elizabeth Hamilton</imgName>
-       <imgDesc>Elizabeth, Hamilton, Contesse de Gramont</imgDesc>
+       <imgDesc>Elizabeth, Hamilton, Comtesse de Gramont</imgDesc>
       </image>
       <image n="no1196.NellGwyn">
        <imgName>Nell Gwyn</imgName>
@@ -17615,18 +17615,16 @@
        <imgName>Nell Gwyn</imgName>
        <imgDesc>Nell Gwyn</imgDesc>
       </image>
-      <image n="no1198.AnnaMariaBruden">
+      <image n="no1198.AnnaMariaBrudenCountessofShrewsbury">
        <imgName>Anna Maria Bruden</imgName>
        <imgDesc>Anna Maria Bruden, Countess of Shrewsbury</imgDesc>
       </image>
-      <image n="no1199FrancesJennings">
+      <image n="no1199FrancesJenningsDuchessofTyrconnel">
        <imgName>Frances Jennings</imgName>
        <imgDesc>Frances Jennings, Duchess of Tyrconnel</imgDesc>
       </image>
-      <image n="no1200.FrancesJennings">
-       <imgName>Frances Jennings</imgName>
-       <imgDesc>Frances Jennings, Duchess of Tyrconnel</imgDesc>
-      </image>
+      <image n="no1200.FrancesJenningsDuchessofTyrconnel"><imgName>Frances Jennings</imgName><imgDesc>Frances Jennings, Duchess of Tyrconnel</imgDesc></image>
+      
       <image n="no1201.JaneMyddleton">
        <imgName>Jane Myddleton</imgName>
        <imgDesc>Jane Myddleton</imgDesc>
@@ -17651,23 +17649,23 @@
        <imgName>Mary Cholmondeley</imgName>
        <imgDesc>Mary Cholmondeley</imgDesc>
       </image>
-      <image n="no1207.ElizabethButler">
+      <image n="no1207.ElizabethButlerCountessofChesterfield">
        <imgName>Elizabeth Butler</imgName>
        <imgDesc>Elizabeth Butler, Countess of Chesterfield</imgDesc>
       </image>
-      <image n="no1208.MargaretBrooke">
+      <image n="no1208.MargaretBrookeLadyDenham">
        <imgName>Margaret Brooke</imgName>
        <imgDesc>Margaret Brooke, Lady Denham</imgDesc>
       </image>
-      <image n="no1209.FrancesBrooke">
+      <image n="no1209.FrancesBrookeLadyWhitmore">
        <imgName>Frances Brooke</imgName>
        <imgDesc>Frances Brooke, Lady Whitmore</imgDesc>
       </image>
-      <image n="no1210.Mrs.Lawson">
-       <imgName>Mrs. Lawson</imgName>
-       <imgDesc>Mrs. Lawson</imgDesc>
+      <image n="no1210.MissLawson">
+       <imgName>Miss Lawson</imgName>
+       <imgDesc>Miss Lawson</imgDesc>
       </image>
-      <image n="no1211.CareyFraser">
+      <image n="no1211.CareyFraserCountessofPeterborough">
        <imgName>Carey Fraser</imgName>
        <imgDesc>Carey Fraser, Countess of Peterborough</imgDesc>
       </image>
@@ -18381,7 +18379,7 @@
        <imgName>The May Queen</imgName>
        <imgDesc>The May Queen</imgDesc>
       </image>
-      <image n="no1223.TheLadyAdeline">
+      <image n="no1223.TheLadyeAdeline">
        <imgName>The Ladye Adeline</imgName>
        <imgDesc>The Ladye Adeline</imgDesc>
       </image>
@@ -18449,11 +18447,11 @@
        <imgName>The Passion Flower</imgName>
        <imgDesc>The Passion Flower</imgDesc>
       </image>
-      <image n="no1240.TheWildFower">
+      <image n="no1240.TheWildFlower">
        <imgName>The Wild Flower</imgName>
        <imgDesc>The Wild Flower</imgDesc>
       </image>
-      <image n="no1241.Gertrude">
+      <image n="no1241.GertrudeofWyoming">
        <imgName>Gertrude</imgName>
        <imgDesc>Gertude of Wyoming</imgDesc>
       </image>
@@ -18976,9 +18974,9 @@
        <imgName>Frances Abington</imgName>
        <imgDesc>Frances Abington</imgDesc>
       </image>
-      <image n="no1249.SophiaBadeloy">
-       <imgName>Sophia Badeloy</imgName>
-       <imgDesc>Sophia Badeloy</imgDesc>
+      <image n="no1249.SophiaBaddeloy">
+       <imgName>Sophia Baddeloy</imgName>
+       <imgDesc>Sophia Baddeloy</imgDesc>
       </image>
       <image n="no1250.ElizabethFerron">
        <imgName>Elizabeth Ferron</imgName>
@@ -19070,7 +19068,7 @@
         <item>Eliza O'Neill (Lady Becher)</item>
        </list>
       </note>
-      <image n="no1254.Mrs.Siddons">
+      <image n="no1254.Mrs.SiddonsastheTragicMuse">
        <imgName>Mrs. Siddons</imgName>
        <imgDesc>Mrs. Siddons as the Tragic Muse</imgDesc>
       </image>
@@ -19090,7 +19088,7 @@
        <imgName>Mrs. Porter</imgName>
        <imgDesc>Mrs. Porter</imgDesc>
       </image>
-      <image n="no1259.Mrs.TheophiliusCibber">
+      <image n="no1259.Mrs.TheophilusCibber">
        <imgName>Mrs. Theophilius Cibber</imgName>
        <imgDesc>Mrs. Theophilius Cibber</imgDesc>
       </image>
