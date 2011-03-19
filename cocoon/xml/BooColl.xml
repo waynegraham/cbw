@@ -14264,29 +14264,23 @@
         <item>Princess Louisa. </item>
        </list>
       </note>
-      <image n="no403">
-       <imgName>Jenny Lind</imgName>
-       <imgDesc>Sotherland. Jenny Lind. Miss March.</imgDesc>
-      </image>
-      <image n="no1419">
-       <imgName>Miss Burney</imgName>
-       <imgDesc>Little Miss Burney surrounded by her father's great friends.</imgDesc>
-      </image>
-      <image n="no1420">
-       <imgName>Coronation</imgName>
-       <imgDesc>The Archbishop of Canterbury presenting the Bible to the Queen at her Majesty's
-        Coronation.</imgDesc>
-      </image>
-      <image n="no1421">
-       <imgName>Miss March</imgName>
-       <imgDesc>When they saw Miss March, a look of joyous recognition lighted up their
-        faces</imgDesc>
-      </image>
       <note place="unspecified" anchored="yes"> Flint, <title>
         <hi rend="italics">Woman Reader</hi>
        </title>: companion to <title>
         <hi rend="italics">Brave Boys Who Have Become Illustrious Men of Our Time</hi>
        </title> (<date>1880</date>). Twenty subjects, primarily from nineteenth-century Europe. </note>
+      <image n="no1419.LittleMissBurneysurroundedbyherfather'sgreatfriends">
+       <imgName>Little Miss Burney</imgName>
+       <imgDesc>Little Miss Burney, surrounded by her father's great subjects</imgDesc>
+      </image>
+      <image n="no1420.TheArchbishopofCanterburypresentingtheBibletotheQueenatHerMajesty'sCoronation">
+       <imgName>The Archbishop of Canterbury</imgName>
+       <imgDesc>The Archbishop of Canterbury presenting the Bible to the Queen at her Majesty's Coronation</imgDesc>
+      </image>
+      <image n="no1421.WhentheysawMissMarch,alookofjoyousrecognitionlighteduptheirface">
+       <imgName>Joyous Recognition for Miss March</imgName>
+       <imgDesc>When they saw Miss March, a look of joyous recognition lighted up their face</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes">
        <hi rend="bold">*Pop Chart</hi></note>
      </bibl>
@@ -14357,7 +14351,7 @@
       <image n="no1423.EmilyLouiseGerry">
        <imgName>Emily Louise Gerry</imgName>
       </image>
-      <image n="no1424.TheGerryHouse">
+      <image n="no1424.TheGerryHouse,CornerTempleandWallStreets,NewHaven">
        <imgName>The Gerry House</imgName>
        <imgDesc>The Gerry House, Corner Temple and Wall Streets, New Haven</imgDesc>
       </image>
@@ -14404,15 +14398,15 @@
       <image n="no1438.Minerva(Blake)Howland">
        <imgName>Minverva (Blake) Howland</imgName>
       </image>
-      <image n="no1439.Emily(Savage)Roys(FromaphotographwhenMrs.Royswasaboutseventyyearsold">
+      <image n="no1439.Emily(Savage)Roys(FromaphotographtakenwhenMrs.Royswasaboutseventyyearsold">
        <imgName>Emily (Savage) Roys</imgName>
        <imgDesc>From a photograph taken when Mrs. Roys was about seventy years old</imgDesc>
       </image>
-      <image n="no1440.NancyLord(Wheeler)Stanton(Fromaphotographytakenin1895whenshewas84yearsold">
+      <image n="no1440.NancyLord(Wheeler)Stanton(Fromaphotographtakenin1895whenshewas84yearsold">
        <imgName>Nancy Lord (Wheeler) Stanton</imgName>
        <imgDesc>From a photograph taken in 1895 when she was 84 years old</imgDesc>
       </image>
-      <image n="no1441.MaryAnnWheeler(Fromadaguerreotypetakenabout1852">
+      <image n="no1441.MaryAnnWheeler(Fromadaguerreotypetakenabout1852)">
        <imgName>Mary Ann Wheeler</imgName>
        <imgDesc>From a daguerrotype taken about 1852</imgDesc>
       </image>
@@ -14440,7 +14434,7 @@
       <image n="no1449.AbbyHolt">
        <imgName>Abby Holt</imgName>
       </image>
-      <image n="no1450.JulietteBetts(TheFirstPatriot'sDaughterinConneticutChapters">
+      <image n="no1450.JulietteBetts(TheFirstPatriot'sDaughterinConneticutChapters)">
        <imgName>Juliette Betts</imgName>
        <imgDesc>The First Patriot's daughters in Conneticut Chapters</imgDesc>
       </image>
@@ -14453,7 +14447,7 @@
       <image n="no1453.Lydia(Alexander)Couch">
        <imgName>Lydia (Alexander Couch)</imgName>
       </image>
-      <image n="no1454.Sylvia (Langdon) Dunham">
+      <image n="no1454.Sylvia(Langdon)Dunham">
        <imgName>Sylvia (Langdon) Dunham</imgName>
       </image>
       <image n="no1455.MarySpooner(Onehundredandfiveyearsold)">
@@ -14481,7 +14475,7 @@
       <image n="no1462.Julia(Eddy)Calder">
        <imgName>Julia (Eddy) Calder</imgName>
       </image>
-      <image n="no1463.AnnaParkhurst(Knowlton)Bird">
+      <image n="no1463.AnnaParkhurst(KnowltonBird">
        <imgName>Anna Parkhurt (Knowlton) Bird</imgName>
       </image>
       <image n="no1464.Sarah(Candee)Fairchild">
@@ -14496,7 +14490,7 @@
       <image n="no1467.AbigailAnn(Atwater)Bradley">
        <imgName>Abigail Ann (Atwater) Bradley</imgName>
       </image>
-      <image n="no1468.Phoebe(Rockwell)Gainford(Nowliving(1904)inheronehundredthyear)">
+      <image n="no1468.Phoebe(Rockwell)Gainford(Nowliving(1904)inheronehundredthyear.)">
        <imgName>Phoebe (Rockwell) Gainford</imgName>
        <imgDesc>Now living (1904) in her one hundredth year</imgDesc>
       </image>
@@ -14535,7 +14529,7 @@
       <image n="no1475.TheGirl,FaithTrumbull">
        <imgName>The Girl, Faith Trumbull</imgName>
       </image>
-      <image n="no1476.EntrancetotheTrumbulHome">
+      <image n="no1476.EntrancetotheTrumbullHome">
        <imgName>Entrance to the Trumbull House</imgName>
       </image>
       <image n="no1477.InterioroftheWarOffice">
@@ -14548,7 +14542,7 @@
       <image n="no1479.TheTrumbullTombatLebanon">
        <imgName>The Trumbull Tombat Lebanon</imgName>
       </image>
-      <image n="no1480.ColonelGeorgeWyllys,WhoseThreeSonsServedintheRevolution">
+      <image n="no1480.ColonelGeorgeWyllys,WhoseThreeSongsServedintheRevolution">
        <imgName>Colonel George Wyllys</imgName>
        <imgDesc>Whose three sons served in the Revolution</imgDesc>
       </image>
@@ -14564,11 +14558,11 @@
        <imgName>Charlotte Elderkin</imgName>
        <imgDesc>Youngest Daughter of Anne Wood Elderkin</imgDesc>
       </image>
-      <image n="no1484.EuniceDennieBurr">
+      <image n="no1484.EuniceDennieBurr,FromapaintingbyCopley">
        <imgName>Eunice Dennie Burr</imgName>
        <imgDesc>From a painting by Copley</imgDesc>
       </image>
-      <image n="no1485.LucretiaShaw,fromapaintingbyCopley">
+      <image n="no1485.LucretiaShaw,FromapaintingbyCopley">
        <imgName>Lucretia Shaw</imgName>
        <imgDesc>From a painting by Copley</imgDesc>
       </image>
@@ -14576,7 +14570,7 @@
        <imgName>General Wooster House</imgName>
        <imgDesc>On Wooster Street, New Haven</imgDesc>
       </image>
-      <image n="no1487.CornerCupboardFormerlyinthegeneralWoosterHouseonGeorgeSt.">
+      <image n="no1487.CornerCupboardFormerlyinthegeneralWoosterHouseonGeorgeSt">
        <imgName>Corner Cupboard</imgName>
        <imgDesc>Formerly in the general Wooster House on George St.</imgDesc>
       </image>
@@ -14584,11 +14578,11 @@
        <imgName>Homeo of Elizabeth Porter Putnam</imgName>
        <imgDesc>birthplace of Israel Putnam</imgDesc>
       </image>
-      <image n="no1489.MarySilliman(fromaportraitbyMoulthropofNewHaven)">
+      <image n="no1489.MarySilliman(FromaportraitbyMoulthropofNewHaven)">
        <imgName>Mary Silliman</imgName>
        <imgDesc>From a portrait by Moulthrop of New Haven</imgDesc>
       </image>
-      <image n="no1490.ThehomeofMrs.MarySilliman,HollandHill">
+      <image n="no1490.TheHomeofMrs.MarySilliman,HollandHill">
        <imgName>The Home of Mrs. Mary Silliman</imgName>
        <imgDesc>Holland Hill</imgDesc>
       </image>
@@ -14596,7 +14590,7 @@
        <imgName>Sarah Fuller Hull</imgName>
        <imgDesc>Wife of Gen. William Hull</imgDesc>
       </image>
-      <image n="no1492.JaneSmithPhelps,wifeofElishaPhelps">
+      <image n="no1492.JaneSmithPhelps,WifeofElishaPhelps">
        <imgName>Jane Smith Phelps</imgName>
        <imgDesc>Wife of Elisha Phelps</imgDesc>
       </image>
@@ -15272,7 +15266,7 @@
        <imgName>Indian Woman of the Umatilla Tribe</imgName>
        <imgDesc>Eastern Oregon</imgDesc>
       </image>
-      <image n="no1500.Mr.andMrs.W.H.Gray">
+      <image n="no1500.Mrs.andMrs.W.H.Gray">
        <imgName>Mr. and Mrs. W. H. Gray</imgName>
       </image>
       <image n="no1501.Mrs.C.M.Cartwrightandgrandson">
@@ -15302,7 +15296,7 @@
       <image n="no1509.JamesHarrisonandLuezaOsbornDouthit">
        <imgName>James Harrison and Lueza Douthit</imgName>
       </image>
-      <image n="no1510.ChineseMotherandChildren,Portaldn,Oregon">
+      <image n="no1510.ChineseMotherandChildren,Portland,Oregon">
        <imgName>Chinese Mother and Children</imgName>
        <imgDesc>Portland, Oregon</imgDesc>
       </image>
@@ -19946,8 +19940,8 @@
        <imgName>Anne Luttrell</imgName>
        <imgDesc>H.R.H. The Duchess of Cumberland and Strathern</imgDesc>
       </image>
-      <image n="no1523.Mrs.Farren,CountessofDerby">
-       <imgName>Mrs. Farren, Countess of Derby</imgName>
+      <image n="no1523.MissFarren,CountessofDerby">
+       <imgName>Miss Farren, Countess of Derby</imgName>
       </image>
       <image n="no1524.MaryLyon">
        <imgName>Mary Lyon</imgName>
@@ -19955,7 +19949,7 @@
       <image n="no1525.Mrs.R.B.Lyth">
        <imgName>Mrs. R. B. Lyth</imgName>
       </image>
-      <image n="no1526.Mary Louisa Whately">
+      <image n="no1526.MaryLouisaWhately">
        <imgName>Mary Louisa Whately</imgName>
       </image>
       <image n="no1527.Mrs.BishopGobat">
@@ -19973,7 +19967,7 @@
       <image n="no1531.GertrudeEgede">
        <imgName>Gertrude Egede</imgName>
       </image>
-      <image n="no1532.MissClaraA.Swain.M.D.">
+      <image n="no1532.MissClaraA.Swain.M.D">
        <imgName>Miss Clara A. Swain, M.D.</imgName>
       </image>
      </bibl>
@@ -20134,7 +20128,7 @@
        <imgDesc>From an oil paintin</imgDesc>
       </image>
       <image
-       n="no1540.DeborahRead(Mrs.BenjaminFranklin,fromanengravingofthepaintingownedbyProf.Hodge">
+       n="no1540.DeborahRead(Mrs.BenjaminFranklin,fromanengravingofthepaintingownedbyProf.Hodge)">
        <imgName>Deborah Read</imgName>
        <imgDesc>Mrs. Benjamin Franklin, from an engraving of the painting owned by Prof.
         Hodge</imgDesc>
@@ -20166,7 +20160,7 @@
        <imgName>Mrs. James Duane</imgName>
        <imgDesc>From an old painting</imgDesc>
       </image>
-      <image n="no1548.MarySilliman,formapotraitbyMoulthropofNewHaven">
+      <image n="no1548.MarySilliman,formaportraitbyMoulthropofNewHaven">
        <imgName>Mary Silliman</imgName>
        <imgDesc>From a portrait by Moulthrop of New Haven</imgDesc>
       </image>
@@ -21781,6 +21775,30 @@
         <item>A Speed of Flame: Joseph S. Cotter, Jr</item>
        </list>
       </note>
+      <image n="no1624.BookerT.Washington">
+       <imgName>Booker T. Washington</imgName>
+       <imgDesc>Booker T. Washington</imgDesc>
+      </image>
+      <image n="no1625.MissNannieH.Burroughs">
+       <imgName>Miss Nannie H. Burroughs</imgName>
+       <imgDesc>Miss Nannie H. Burroughs</imgDesc>
+      </image>
+      <image n="no1626.Mrs.JaniePorterBarrett">
+       <imgName>Mrs. Janie Porter Barrett</imgName>
+       <imgDesc>Mrs. Janie Porter Barrett</imgDesc>
+      </image>
+      <image n="no1627.JohnB.Pierce">
+       <imgName>John B. Pierce</imgName>
+       <imgDesc>John B. Pierce</imgDesc>
+      </image>
+      <image n="no1628.HarryT.Burleigh">
+       <imgName>Harry T. Burleigh</imgName>
+       <imgDesc>Harry T. Burleigh</imgDesc>
+      </image>
+      <image n="1629.JosephS.Cotter">
+       <imgName>Joseph S. Cotter</imgName>
+       <imgDesc>Joseph S. Cotter</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes"> NOT:=male-female collective biography.
        African-American. </note>
      </bibl>
@@ -21827,6 +21845,30 @@
        <publisher>True,</publisher>
        <date>1889.</date>
       </imprint>
+      <image n="no1630.IdaLewis">
+       <imgName>Ida Lewis</imgName>
+       <imgDesc>Ida Lewis</imgDesc>
+      </image>
+      <image n="no1631.MissEmilySartain">
+       <imgName>Miss Emily Sartain</imgName>
+       <imgDesc>Miss Emily Sartain</imgDesc>
+      </image>
+      <image n="no1632.MaryA.Livermore">
+       <imgName>Mary A. Livermore</imgName>
+       <imgDesc>Mary A. Livermore</imgDesc>
+      </image>
+      <image n="no1633.MaggieNewtonVanColt">
+       <imgName>Maggie Newton Van Colt</imgName>
+       <imgDesc>Maggie Newton Van Colt</imgDesc>
+      </image>
+      <image n="no1634.LouiseWoodworthFoss">
+       <imgName>Louise Woodworth Foss</imgName>
+       <imgDesc>Louise Woodworth Foss</imgDesc>
+      </image>
+      <image n="no1635.D.D.Taylor">
+       <imgName>D. D. Taylor</imgName>
+       <imgDesc>D. D. Taylor</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes">
        <hi rend="bold">*Pop Chart</hi></note>
       <note place="unspecified" anchored="yes"> Approx. 160 subjects. As in Ellet's more exclusive <title>
@@ -22027,6 +22069,34 @@
         <item>Elisabetta Gonzaga, Duchess of Urbino</item>
        </list>
       </note>
+      <image n="no1636.LorenzodeiMedici">
+       <imgName>Lorenzo de Medici</imgName>
+       <imgDesc>Lorenzo de Medici</imgDesc>
+      </image>
+      <image n="no1637.BeatriceD'Este,DuchessofMilan">
+       <imgName>Beatrice D'Este, Duchess of Milan</imgName>
+       <imgDesc>Beatrice D'Este, Duchess of Milan</imgDesc>
+      </image>
+      <image n="no1638.LucreziaCrivelli">
+       <imgName>Lucrezia Crivelli</imgName>
+       <imgDesc>Lucrezie Crivelli</imgDesc>
+      </image>
+      <image n="no1639.IsabellaD'EsteMarchesaofMantua">
+       <imgName>Isabella D'Este, Marchesa of Mantua</imgName>
+       <imgDesc>Isabella D'Este, Marchesa of Mantua</imgDesc>
+      </image>
+      <image n="no1640.BiancaCapello,GrandDuchessofTuscany">
+       <imgName>Bianca Capello, Grand Duchess of Tuscany</imgName>
+      <imgDesc>Bianca Capello, Grand Duchess of Tuscany</imgDesc>
+      </image>
+      <image n="no1641.CaterinaSforzaCountessofForli">
+       <imgName>Caterina Sforza, Countess of Forli</imgName>
+      <imgDesc>Caterina Sforza, Countess of Forli</imgDesc>
+      </image>
+      <image n="no1642.CountBaldassareCastiglione">
+       <imgName>Count Baldassare Castiglione</imgName>
+       <imgDesc>Count Baldassare Castiglione</imgDesc>
+      </image>
      </bibl>
      <bibl id="a381" default="NO">
       <ref targOrder="U">381.</ref>
@@ -22103,6 +22173,86 @@
         <item>Bertha Runkle</item>
        </list>
       </note>
+      <image n="no1643.ElizabethStuartPhelps">
+       <imgName>Elizabeth Stuart Phelps</imgName>
+     <imgDesc>Elizabeth Stuart Phelps</imgDesc>
+      </image>
+      <image n="no1644.FrancesHodgsonBurnett">
+       <imgName>Frances Hodgson Burnett</imgName>
+       <imgDesc>Frances Hodgson Burnett</imgDesc>
+      </image>
+      <image n="no1645.SarahOrneJewett">
+       <imgName>Sarah Orne Jewett</imgName>
+       <imgDesc>Sarah Orne Jewett</imgDesc>
+      </image>
+      <image n="no1646.Mrs.BurtonHarrison">
+       <imgName>Mrs. Burton Harrison</imgName>
+       <imgDesc>Mrs. Burton Harrison</imgDesc>
+      </image>
+      <image n="no1647.CharlesEgbertCraddock">
+       <imgName>Charles Egbert Craddock</imgName>
+       <imgDesc>Charles Egbert Craddock</imgDesc>
+      </image>
+      <image n="no1648.AnnaKatharineGreen">
+       <imgName>Anna Katharine Green</imgName>
+       <imgDesc>Anna Katharine Green</imgDesc>
+      </image>
+      <image n="no1649.MollyElliotSeawell">
+       <imgName>Molly Elliot Seawell</imgName>
+       <imgDesc>Molly Eliot Seawell</imgDesc>
+      </image>
+      <image n="no1650.AmeliaE.Barr">
+       <imgName>Amelia E. Barr</imgName>
+<imgDesc>Amelia E. Barr</imgDesc>
+      </image>
+      <image n="no1651.MaryE.Wilkins">
+       <imgName>Mary E. Wilkins</imgName>
+       <imgDesc>Mary E. Wilkins</imgDesc>
+      </image>
+      <image n="no1652.OctaveThanet">
+       <imgName>Octave Thanet</imgName>
+       <imgDesc>Octave Thanet</imgDesc>
+      </image>
+      <image n="no1653.MarshallSaunders">
+       <imgName>Marshall Saunders</imgName>
+       <imgDesc>Marshall Saunders</imgDesc>
+      </image>
+      <image n="no1654.KateDouglasWiggin">
+       <imgName>Kate Douglas Wiggin</imgName>
+       <imgDesc>Kate Douglas Wiggin</imgDesc>
+      </image>
+      <image n="no1655.GertrudeAtherton">
+       <imgName>Gertrude Atherton</imgName>
+       <imgDesc>Gertrude Atherton</imgDesc>
+      </image>
+      <image n="no1656.JohnOliverHobbes">
+       <imgName>John Oliver Hobbes</imgName>
+       <imgDesc>John Oliver Hobbes</imgDesc>
+      </image>
+      <image n="no1657.LillianBell">
+       <imgName>Lillian Bell</imgName>
+       <imgDesc>Lillian Bell</imgDesc>
+      </image>
+      <image n="no1658.RuthMcEneryStuart">
+       <imgName>Ruth McEnery Stuart</imgName>
+       <imgDesc>Ruth McEnery Stuart</imgDesc>
+      </image>
+      <image n="no1659.AnnaFarquhar">
+       <imgName>Anna Farquhar</imgName>
+       <imgDesc>Anna Farquhar</imgDesc>
+      </image>
+      <image n="no1660.PaulineBradfordMackie">
+       <imgName>Pauline Bradford Mackie</imgName>
+       <imgDesc>Pauline Bradford Mackie</imgDesc>
+      </image>
+      <image n="no1661.MaryJohnston">
+       <imgName>Mary Johnston</imgName>
+       <imgDesc>Mary Johnston</imgDesc>
+      </image>
+      <image n="no1662.EllenAndersonG.Glasgow">
+       <imgName>Ellen Anderson G. Glasgow</imgName>
+       <imgDesc>Ellen Anderson G. Glasgow</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes"> New title for the above. </note>
      </bibl>
      <bibl id="a383" default="NO">
@@ -22216,6 +22366,34 @@
         <item>Frances B. M. Brotherson</item>
        </list>
       </note>
+      <image n="no1663.CatherineM.Sedgwick">
+       <imgName>Catherine M. Sedgwick</imgName>
+       <imgDesc>Catherine M. Sedgwick</imgDesc>
+      </image>
+      <image n="no1664.CatherineM.Kirkland">
+       <imgName>Caroline M. Kirkland</imgName>
+       <imgDesc>Caroline M. Kirkland</imgDesc>
+      </image>
+      <image n="no1665.CarolineLeeHentz">
+       <imgName>Caroline Lee Hentz</imgName>
+       <imgDesc>Caroline Lee Hentz</imgDesc>
+      </image>
+      <image n="no1666.ElizabethF.Ellet">
+       <imgName>Elizabeth F. Ellet</imgName>
+       <imgDesc>Elizabeth F. Ellet</imgDesc>
+      </image>
+      <image n="no1667.AnnS.Stephens">
+       <imgName>Ann S. Stephens</imgName>
+       <imgDesc>Ann S. Stephens</imgDesc>
+      </image>
+      <image n="no1668.S.MargaretFuller">
+       <imgName>S. Margaret Fuller</imgName>
+       <imgDesc>S. Margaret Fuller</imgDesc>
+      </image>
+      <image n="no1669.AliceB.Neal">
+       <imgName>Alice B. Neal</imgName>
+       <imgDesc>Alice B. Neal</imgDesc>
+      </image>
      </bibl>
      <bibl id="a386" default="NO">
       <ref targOrder="U">386.</ref>
@@ -22523,6 +22701,38 @@
         <item>My Last Days in London</item>
        </list>
       </note>
+      <image n="no1670.Franziska,BaronessVonHedemann">
+       <imgName>Franziska, Baroness Von Hedemann</imgName>
+       <imgDesc>Franziska, Baroness Von Hedemann</imgDesc>
+      </image>
+      <image n="no1671.TheFittingRoomintheHouseofFrederic">
+       <imgName>The Fitting Room in the House of Frederic</imgName>
+      <imgDesc>The Fitting Room in the House of Frederic</imgDesc>
+      </image>
+      <image n="no1672.TheReceptionRoomintheHouseofFrederic">
+       <imgName>The Reception Room in the House of Frederic</imgName>
+      <imgDesc>The Reception Room in the House of Frederic</imgDesc>
+      </image>
+      <image n="no1673.BAronessdeRamelmandherDaughterattheSwedishEmbassy">
+       <imgName>Baroness de Rameland</imgName>
+       <imgDesc>Baroness de Rameland and her Daughter at the Swedish Embassy</imgDesc>
+      </image>
+      <image n="no1674.LadyWinifredBenshaw">
+       <imgName>Lady Winifred Benshaw</imgName>
+       <imgDesc>Lady Winifred Benshaw</imgDesc>
+      </image>
+      <image n="no1675.QueenMary">
+       <imgName>Queen Mary</imgName>
+       <imgDesc>Queen Mary</imgDesc>
+      </image>
+      <image n="no1676.TheRoyalChildren">
+       <imgName>The Royal Children</imgName>
+       <imgDesc>The Royal Children</imgDesc>
+      </image>
+      <image n="no1677.TheCountessofWarwick">
+       <imgName>The Countess of Warwick</imgName>
+       <imgDesc>The Countess of Warwick</imgDesc>
+      </image>
      </bibl>
      <bibl id="a397" default="NO"><ref targOrder="U">397.</ref>
       <idno>a397</idno>
@@ -23568,6 +23778,86 @@
         <item>Women on the Battlefield and in Pioneer Life.</item>
        </list>
       </note>
+      <image n="no1678.JoanofArc,ThePeasantGirlatDomremy">
+       <imgName>Joan of Arc</imgName>
+       <imgDesc>Joan of Arc, The Peasant Girl at Domremy</imgDesc>
+      </image>
+      <image n="no1679.JoanofArc">
+       <imgName>Joan of Arc</imgName>
+      <imgDesc>Joan of Arc</imgDesc>
+      </image>
+      <image n="no1680.DorothyPayneMadison">
+       <imgName>Dorothy Payne Madison</imgName>
+       <imgDesc>Dorothy Payne Madison</imgDesc>
+      </image>
+      <image n="no1681.LucretiaMott">
+       <imgName>Lucretia Mott</imgName>
+       <imgDesc>Lucretia Mott</imgDesc>
+      </image>
+      <image n="no1682.MaryLyon">
+       <imgName>Mary Lyon</imgName>
+       <imgDesc>Mary Lyon</imgDesc>
+      </image>
+      <image n="no1683.DorotheaDix">
+       <imgName>Dorothea Dix</imgName>
+       <imgDesc>Dorothea Dix</imgDesc>
+      </image>
+      <image n="no1684.MargaretFullerD'Ossoli">
+       <imgName>Margaret Fuller D'Ossoli</imgName>
+       <imgDesc>Margaret Fuller D'Ossoli</imgDesc>
+      </image>
+      <image n="no1685.HarrietBeecherStowe">
+       <imgName>Harriet Beecher Stowe</imgName>
+       <imgDesc>Harriet Beecher Stowe</imgDesc>
+      </image>
+      <image n="no1686.MariaMitchell">
+       <imgName>Maria Mitchell</imgName>
+       <imgDesc>Maria Mitchell</imgDesc>
+      </image>
+      <image n="no1687.LucyStone">
+       <imgName>Lucy Stone</imgName>
+       <imgDesc>Lucy Stone</imgDesc>
+      </image>
+      <image n="no1688.JuliaWardHowe">
+       <imgName>Julia Ward Howe</imgName>
+       <imgDesc>Julia Ward Howe</imgDesc>
+      </image>
+      <image n="no1689.QueenVictoria">
+       <imgName>Queen Victoria</imgName>
+       <imgDesc>Queen Victoria</imgDesc>
+      </image>
+      <image n="no1690.FlorenceNightingale">
+       <imgName>Florence Nightingale</imgName>
+       <imgDesc>Florence Nightingale</imgDesc>
+      </image>
+      <image n="no1691.SusanB.Anthony">
+       <imgName>Susan B. Anthony</imgName>
+       <imgDesc>Susan B. Anthony</imgDesc>
+      </image>
+      <image n="no1692.MaryA.Livermore">
+       <imgName>Mary A. Livermore</imgName>
+       <imgDesc>Mary A. Livermore</imgDesc>
+      </image>
+      <image n="no1693.ClaraBarton">
+       <imgName>Clara Barton</imgName>
+       <imgDesc>Clara Barton</imgDesc>
+      </image>
+      <image n="no1694.HarrietHosmer">
+       <imgName>Harriet Hosmer</imgName>
+       <imgDesc>Harriet Hosmer</imgDesc>
+      </image>
+      <image n="no1695.LouisaMayAlcott">
+       <imgName>Louisa May Alcott</imgName>
+<imgDesc>Louisa May Alcott</imgDesc>
+      </image>
+      <image n="no1696.FrancesWillard">
+       <imgName>Frances Willard</imgName>
+       <imgDesc>Frances Willard</imgDesc>
+      </image>
+      <image n="no1698.MollyPitcher">
+       <imgName>Molly Pitcher</imgName>
+       <imgDesc>Molly Pitcher</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes">
        <hi rend="bold">*Pop Chart</hi></note>
      </bibl>
@@ -23846,6 +24136,46 @@
        </title> (reissue of <date>1853</date> multiauthored collection, ed. Hubbard); 4: <title>
         <hi rend="italics">To the Homes of American Statesmen</hi>
        </title>. Some women intermixed. </note>
+     <image n="no1699.ElizabethBarretBrowning">
+      <imgName>Elizabeth Barrett Browning</imgName>
+      <imgDesc>Elizaebeth Barrett Browning</imgDesc>
+     </image>
+      <image n="no1700.JeanneMarieBouvieres">
+       <imgName>Jeanne Marrie Bouvieres</imgName>
+       <imgDesc>Jeanne Marie Bouvieres</imgDesc>
+      </image>
+      <image n="no1701.HarrietMartineau">
+       <imgName>Harriet Martineau</imgName>
+       <imgDesc>Harriet Martineau</imgDesc>
+      </image>
+      <image n="no1702.CharlotteBronte">
+       <imgName>Charlotte Bronte</imgName>
+       <imgDesc>Charlotte Bronte</imgDesc>
+      </image>
+      <image n="no1703.RosaBonheur">
+       <imgName>Rosa Bonheur</imgName>
+       <imgDesc>Rosa Bonheur</imgDesc>
+      </image>
+      <image n="no1704.MadamedeStael">
+       <imgName>Madame de Stael</imgName>
+       <imgDesc>Madame de Stael</imgDesc>
+      </image>
+      <image n="no1705.Elizabeth Fry">
+       <imgName>Elizabeth Fry</imgName>
+       <imgDesc>Elizabeth Fry</imgDesc>
+      </image>
+      <image n="no1706.MaryLamb">
+       <imgName>Mary Lamb</imgName>
+       <imgDesc>Mary Lamb</imgDesc>
+      </image>
+      <image n="no1707.Josephine">
+       <imgName>Josephine</imgName>
+       <imgDesc>Josephine</imgDesc>
+      </image>
+      <image n="no1708.MaryW.Shelley">
+       <imgName>Mary W. Shelley</imgName>
+       <imgDesc>Mary W. Shelley</imgDesc>
+      </image>
      </bibl>
      <bibl id="a426" default="NO">
       <ref targOrder="U">426.</ref>
@@ -23962,6 +24292,22 @@
         <item>Book V. 1. Marie Louise of Orleans. 2. Mariana of Neuberg</item>
        </list>
       </note>
+      <image n="no1709.IsabelofValois">
+       <imgName>Isabel of Valois</imgName>
+       <imgDesc>Isabel of Valois</imgDesc>
+      </image>
+      <image n="no1710.IsabelofBourbon">
+       <imgName>Isabel of Bourbon</imgName>
+       <imgDesc>Isabel of Bourbon</imgDesc>
+      </image>
+      <image n="no1711.MarianaofAustria">
+       <imgName>Mariana of Austria</imgName>
+       <imgDesc>Mariana of Austria</imgDesc>
+      </image>
+      <image n="no1712.IsabelFarnese">
+       <imgName>Isabel Farnese</imgName>
+       <imgDesc>Isabel Farnese</imgDesc>
+      </image>
      </bibl>
      <bibl id="a430" default="NO">
       <ref targOrder="U">430.</ref>
@@ -26399,6 +26745,26 @@
         <item>Sarah Martin</item>
        </list>
       </note>
+      <image n="no1713.MadameduBarry">
+       <imgName>Madame du Barry</imgName>
+       <imgDesc>Madame du Barry</imgDesc>
+      </image>
+      <image n="no1714.MadameduMaine">
+       <imgName>Madame du Maine</imgName>
+       <imgDesc>Madame du Maine</imgDesc>
+      </image>
+      <image n="no1715.MadamedeTencin">
+       <imgName>Madame de Tencin</imgName>
+       <imgDesc>Madame de Tencin</imgDesc>
+      </image>
+      <image n="no1716.MadameDuChatelet">
+       <imgName>Madame du Chatelet</imgName>
+       <imgDesc>Madame du Chatelet</imgDesc>
+      </image>
+      <image n="no1717.Madame de Pompadour">
+       <imgName>Madame de Pompadour</imgName>
+       <imgDesc>Madamede Pompadour</imgDesc>
+      </image>
      </bibl>
      <bibl id="a480" default="NO">
       <ref targOrder="U">480.</ref>
@@ -32702,7 +33068,7 @@
        <imgName>St. Ursula and her Maidens</imgName>
        <imgDesc>St. Ursula and her Maidens</imgDesc>
       </image>
-      <image n="no1402.PortraitofLavinaFontana">
+      <image n="no1402.PortraitofLaviniaFontana">
        <imgName>Lavinia Fontana</imgName>
        <imgDesc>Portrait of Lavinia Fontana</imgDesc>
       </image>
