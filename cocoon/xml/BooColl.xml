@@ -27780,6 +27780,34 @@
        <date>1908.</date>
       </imprint>
       <note place="unspecified" anchored="yes">NOT:=male-female collective biography.</note>
+     <image n="no1720.Mrs.JohnA.Logan">
+      <imgName>Mrs. John A. Logan</imgName>
+      <imgDesc>Mrs. John A. Logan</imgDesc>
+     </image>
+      <image n="no1721.Mrs.PresidentRooseveltSeatedatherdeskinthelibraryoftheremodeledWhiteHouse">
+       <imgName>Mrs. President Roosevelt</imgName>
+       <imgDesc>Mrs. President Roosevelt, Seated at her desk in the library of the remodeled White House</imgDesc>
+      </image>
+     <image n="no1722.TheLibraryoftheDepartmentofState">
+      <imgName>The Library of the Department of State</imgName>
+     <imgDesc>The Library of the Department of State</imgDesc>
+     </image>
+     <image n="no1723.Mrs.Rev.StephenBrown">
+      <imgName>Mrs. Rev. Stephen Brown</imgName>
+      <imgDesc>Mrs. Rev. Stephen Brown</imgDesc>
+     </image>
+      <image n="no1725.Mrs.W.A.Leonard">
+       <imgName>Mrs. W. A. Leonard</imgName>
+       <imgDesc>Mrs. W. A. Leonard</imgDesc>
+      </image>
+      <image n="no1726.Mrs.S.F.Fitzgerald">
+       <imgName>Mrs. S. F. Fitzgerald</imgName>
+       <imgDesc>Mrs. S. F. Fitzgerald</imgDesc>
+      </image>
+      <image n="no1727.MissAliceRoosevelt,ThePresident'sEldestDaughter">
+       <imgName>Miss Alice Roosevelt</imgName>
+       <imgDesc>Miss Alice Roosevelt, The President's Eldest Daughter</imgDesc>
+      </image>
      </bibl>
      <bibl id="a516" default="NO">
       <ref targOrder="U">516.</ref>
@@ -27836,6 +27864,14 @@
         <item>Women in Business</item>
        </list>
       </note>
+      <image n="no1729.DistinguishedWomenOrators">
+       <imgName>Distinguised Women Orators</imgName>
+       <imgDesc>Distinguished Women Orators</imgDesc>
+      </image>
+      <image n="no1730.WomenPoetsofAmerica">
+       <imgName>Women Poets of America</imgName>
+       <imgDesc>Women Poets of America</imgDesc>
+      </image>
      </bibl>
      <bibl id="a517" default="NO"><ref targOrder="U">517.</ref>
       <idno>a517</idno>
@@ -27937,6 +27973,34 @@
         <item>George Eliot.</item>
        </list>
       </note>
+      <image n="no1731.MadameRecamier,afterthepaintingbyBaronFrancoisPascalGerard">
+       <imgName>Madame Recamier</imgName>
+       <imgDesc>After the painting by Baron Francois Pascal Gerard</imgDesc>
+      </image>
+      <image n="no1732.JoanofArcHearstheVoices">
+       <imgName>Joan of Arc Hears the Voices</imgName>
+       <imgDesc>Joan of Arc Hears the Voices</imgDesc>
+      </image>
+      <image n="no1733.Sarah,DuchessofMarlborough">
+       <imgName>Sarah, Duchess of Marlborough</imgName>
+       <imgDesc>Sarah, Duchess of Marlborough</imgDesc>
+      </image>
+      <image n="no1734.MmedeRecamier">
+       <imgName>Mme de Recamier</imgName>
+       <imgDesc>Mme de Recamier</imgDesc>
+      </image>
+      <image n="no1735.MmedeStael">
+       <imgName>Mme de Stael</imgName>
+       <imgDesc>Mme de Stael</imgDesc>
+      </image>
+      <image n="no1736.GarrickandhisWife">
+       <imgName>Garrick and his Wife</imgName>
+       <imgDesc>Garrick and his Wife</imgDesc>
+      </image>
+      <image n="no1737.HannahMore">
+       <imgName>Hannah More</imgName>
+       <imgDesc>Hannah More</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes">
        <hi rend="bold">*Pop Chart</hi></note>
      </bibl>
