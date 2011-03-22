@@ -32801,6 +32801,22 @@
         <item>Advent of the Carignan Regiment</item>
        </list>
       </note>
+      <image n="no1789.MotherMarieGuyard">
+       <imgName>Mother Marie Guyard</imgName>
+       <imgDesc>Mother Marie Guyard</imgDesc>
+      </image>
+      <image n="no1790.JeanneMance">
+       <imgName>Jeanne Mance</imgName>
+       <imgDesc>Jeanne Mance</imgDesc>
+      </image>
+      <image n="no1791.MargueriteBourgeois">
+       <imgName>Marguerite Bourgeois</imgName>
+       <imgDesc>Marguerite Bourgeois</imgDesc>
+      </image>
+    <image n="no1792.MadamedePompadour">
+     <imgName>Madame de Pompadour</imgName>
+     <imgDesc>Madame de Pompadour</imgDesc>
+    </image>
       <note place="unspecified" anchored="yes"> Biographies of French Canadian women. </note>
      </bibl>
      <bibl id="a638" default="NO">
@@ -38084,6 +38100,35 @@
         <item>La Marquise de Maintenon. </item>
        </list>
       </note>
+      <image n="no1793.LadyMary,Pope,andKneller-ThePortraitScene">
+       <imgName>Lady Mary, Pope, and Kneller, The Portrait Scene</imgName>
+       <imgDesc>Lady Mary, Pope, and Kneller, The Portrait Scene</imgDesc>
+      </image>
+      <image n="no1794.TheDuchessofMarlboroughPleadingHerOwnCase">
+       <imgName>The Duchess of Marlborough pleading her own case</imgName>
+       <imgDesc>The Duchess of Marlborough pleading her own case</imgDesc>
+      </image>
+      <image n="no1795.TheInaugrationoftheRepublic">
+       <imgName>The Inauguration of the Republic</imgName>
+       <imgDesc>The Inauguration of the Republic</imgDesc>
+      </image>
+      <image n="no1796.TheBeautifulDuchessofDevonshire-AKissforaVote">
+       <imgName>The Beautiful Duchess of Devonshire, a Kiss for a Vote</imgName>
+       <imgDesc>The Beautiful Duchess of Devonshire, a Kiss for a Vote</imgDesc>
+      </image>
+      <image n="no1797.ThePoet'sExile-L.E.L.AtCafeCoastCastle">
+       <imgName>The Poet's Exile-- L.E.L. at Cafe Coast Castle</imgName>
+       <imgDesc>The Poet's Exile-- L.E.L. at Cafe Coast Castle</imgDesc>
+      </image>
+      <image n="no1798.TheHoteldeRambouillet">
+       <imgName>The Hotel de Rambouillet</imgName>
+       <imgDesc>The Hotel de Rambouillet</imgDesc>
+      </image>
+      <image n="no1799.TheCounterfeitLadyMorgan">
+       <imgName>The Counterfeit Lady Morgan</imgName>
+       <imgDesc>The Counterfeit Lady Morgan</imgDesc>
+      </image>
+      
       <note place="unspecified" anchored="yes">
        <hi rend="bold">*Pop Chart</hi></note>
      </bibl>
@@ -38549,6 +38594,30 @@
         <item>Louise de Kéroual, Duchess of Portsmouth</item>
        </list>
       </note>
+      <image n="no1800.HortenseManciniDuchessofMazarin">
+       <imgName>Hortense Mancini Duchess of Mazarin</imgName>
+       <imgDesc>Hortense Mancini Duchess of Mazarin</imgDesc>
+      </image>
+      <image n="no1801.MyLadyCastlemaine(BarbaraVilliers,DuchessofCleveland)">
+       <imgName>My Lady Castlemaine (Barbara Villiers), Duchess of Cleveland</imgName>
+       <imgDesc>My Lady Castlemaine (Barbara Villiers), Duchess of Cleveland</imgDesc>
+      </image>
+      <image n="no1802.NellGwynn">
+       <imgName>Nell Gwynn</imgName>
+       <imgDesc>Nell Gwynn</imgDesc>
+      </image>
+      <image n="no1803.TheDuchessofRichmond">
+       <imgName>The Duchess of Richmond</imgName>
+       <imgDesc>The Duchess of Richmond</imgDesc>
+      </image>
+    <image n="no1807.MademoiselledelaValliere">
+     <imgName>Mademoiselle de la Valliere</imgName>
+     <imgDesc>Mademoiselle de la Valliere</imgDesc>
+    </image>
+      <image n="no1808.DuchessedePolignac">
+       <imgName>Duchesse de Polignac</imgName>
+       <imgDesc>Duchesse de Polignac</imgDesc>
+      </image>
      </bibl>
      <bibl id="a812" default="NO">
       <ref targOrder="U">812.</ref>
