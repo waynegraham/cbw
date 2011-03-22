@@ -38614,10 +38614,7 @@
      <imgName>Mademoiselle de la Valliere</imgName>
      <imgDesc>Mademoiselle de la Valliere</imgDesc>
     </image>
-      <image n="no1808.DuchessedePolignac">
-       <imgName>Duchesse de Polignac</imgName>
-       <imgDesc>Duchesse de Polignac</imgDesc>
-      </image>
+     
      </bibl>
      <bibl id="a812" default="NO">
       <ref targOrder="U">812.</ref>
@@ -38717,8 +38714,80 @@
         <item>The Comtesse De Lamotte</item>
         <item>The Duchess De Polignac</item>
         <item>Lola Montez.</item>
-       </list>
+       </list> 
       </note>
+      <image n="no1808.DuchessedePolignac">
+       <imgName>Duchesse de Polignac</imgName>
+       <imgDesc>Duchesse de Polignac</imgDesc>
+      </image>
+      <image n="no1809.MarieAnnedeMailly-Nesle,DuchessedeChateauroux">
+       <imgName>Marie Anne de Mailly-- Nesle, Duchesse de Chateauroux</imgName>
+       <imgDesc>Marie Anne de Mailly-- Nesle, Duchesse de Chateauroux</imgDesc>
+      </image>
+      <image n="no1810.TheMarquisedePrie">
+       <imgName>The Marquise de Prie</imgName>
+       <imgDesc>The Marquise de Prie</imgDesc>
+      </image>
+      <image n="no1811.TheMarquisedeVintimille">
+       <imgName>The Marquise de Vintimille</imgName>
+       <imgDesc>The Marquise de Vintimille</imgDesc>
+      </image>
+      <image n="no1812.TheComtessedeMailly">
+       <imgName>The Comtesse de Mailly</imgName>
+       <imgDesc>The Comtesse de Mailly</imgDesc>
+      </image>
+      <image n="no1813.EhrengardMelusinaVonDerSchulenburg,DuchessofKendal">
+       <imgName>Ehrengard Melusina Von Der Schulenburg, Duchess of Kendal</imgName>
+       <imgDesc>Ehrengard Melusina Von Der Schulenburg, Duchess of Kendal</imgDesc>
+      </image>
+      <image n="no1814.TheCountessVonPlaten">
+       <imgName>The Countess Von Platen</imgName>
+       <imgDesc>The Countess Von Platen</imgDesc>
+      </image>
+      <image n="no1815.TheBaronessVonKielmansegg,CountessofDarlington">
+       <imgName>The Baroness Von Kielmanseff, Countess of Darlington</imgName>
+       <imgDesc>The Baroness Von Kielmanseff, Countess of Darlington</imgDesc>
+      </image>
+      <image n="no1816.CatherineIIEmpressofRussia">
+       <imgName>Catherine II, Empress of Russia</imgName>
+       <imgDesc>Catherine II, Empress of Russia</imgDesc>
+      </image>
+      <image n="no1817.TheEmpressElizabeth">
+       <imgName>The Empress Elizabeth</imgName>
+       <imgDesc>The Empress Elizabeth</imgDesc>
+      </image>
+      <image n="no1818.PrincessDashkof">
+       <imgName>Princess Dashkof</imgName>
+       <imgDesc>Princess Dashkof</imgDesc>
+      </image>
+      <image n="no1819.ElizabethChudleigh">
+       <imgName>Elizabeth Chudleigh</imgName>
+       <imgDesc>Elizabeth Chudleigh</imgDesc>
+      </image>
+      <image n="no1820.Augusta,PrincessofWales">
+       <imgName>Augusta, Princess of Wales</imgName>
+       <imgDesc>Augusta, Princess of Wales</imgDesc>
+      </image>
+      <image n="no1821.TheTrialoftheDuchessofKingston">
+       <imgName>The Trial of the Duchess of Kingston</imgName>
+       <imgDesc>The Trial of the Duchess of Kingston</imgDesc>
+      </image>
+      <image n="no1822.TheComtessedeLaMotte">
+       <imgName>The Comtesse de la Motte</imgName>
+       <imgDesc>The Comtesse de la Motte</imgDesc>
+      </image>
+      <image n="no1823.CountCagliostro">
+       <imgName>Count Cagliostro</imgName>
+       <imgDesc>Count Cagliostro</imgDesc>
+      </image>
+      <image n="no1826.TheDuchessedePolignacandtheComtessedePolastron">
+       <imgName>The Duchesse de Polignac and the Comtesse de Polastron</imgName>
+       <imgDesc>The Duchesse de Polignac and the Comtesse de Polastron</imgDesc>
+      </image>
+      <image n="no1827.LolaMontez">
+       <imgName>Lola Montez</imgName>
+       <imgDesc>Lola Montez</imgDesc>
+      </image>
       <note place="unspecified" anchored="yes">
        <hi rend="bold">*Pop Chart</hi></note>
      </bibl>
@@ -39622,6 +39691,75 @@
         <item>Heroines of the Apocrypha</item>
        </list>
       </note>
+      <image n="no1828.MichaelCoxcie-TheTemptation">
+       <imgName>Michael Coxcie- The Temptation</imgName>
+       <imgDesc>Michael Coxcie- The Temptation</imgDesc>
+      </image>
+      <image n="no1829.AdrianVanDerWerff-TheExpulsionofHagar">
+       <imgName>Adrian Van Der Werff- The Expulsion of Hagar</imgName>
+       <imgDesc>Adrian Van Der Werff- The Expulsion of Hagar</imgDesc>
+      </image>
+      <image n="no1830.J.Cazin-HagarandIshmaelintheDesert">
+       <imgName>J. Cazin- Hagar and Ishmael in the Desert</imgName>
+       <imgDesc>J. Cazin- Hagar and Ishmael in the Desert</imgDesc>
+      </image>
+      <image n="no1831.Delaroche-MosesintheBulrushes">
+       <imgName>Delaroche- Moses in the Bulrushes</imgName>
+       <imgDesc>Delaroche- Moses in the Bulrushes</imgDesc>
+      </image>
+      <image n="no1832.Veronese-TheFindingofMoses">
+       <imgName>Veronese- The Finding of Moses</imgName>
+       <imgDesc>Veronese- The Finding of Moses</imgDesc>
+      </image>
+      <image n="no1833.Roselli-TheTriumphofDavid">
+       <imgName>Roselli- The Triumph of David</imgName>
+       <imgDesc>Roselli- The Triumph of David</imgDesc>
+      </image>
+      <image n="no1834.CharlesLeBrun-Jepththah'sDaughter">
+       <imgName>Charles Le Brun- Jepththah's Daughter</imgName>
+       <imgDesc>Charles Le Brun- Jepththah's Daughter</imgDesc>
+      </image>
+      <image n="no1835.Bruck-Lajos-Ruth">
+       <imgName>Bruck-Lajos-Ruth</imgName>
+       <imgDesc>Bruck-Lajos-Ruth</imgDesc>
+      </image>
+      <image n="no1836.Salviatino-BathshebaattheBath">
+       <imgName>Salviatino- Bathsheba at the Bath</imgName>
+       <imgDesc>Salviatino- Bathsheba at the Bath</imgDesc>
+      </image>
+      <image n="no1837.GeorgeBecker-RizpahProtectingtheBodies">
+       <imgName>George Becker- Rizpah protecting the bodies</imgName>
+       <imgDesc>George Becker- Rizpah protecting the bodies</imgDesc>
+      </image>
+      <image n="no1838.Veronese-EstherBeforeAhasuerus">
+       <imgName>Veronese- Esther Before Ahasuerus</imgName>
+       <imgDesc>Veronese- Esther Before Ahasuerus</imgDesc>
+      </image>
+      <image n="no1839.Giorgione-TheVisitation">
+       <imgName>Giorgione- The Visitation</imgName>
+       <imgDesc>Giorgione- The Visitation</imgDesc>
+      </image>
+      <image n="no1840.CarloDolci-TheDaughterofHerodias">
+       <imgName>Carlo Dolci- The Daughter of Herodias</imgName>
+       <imgDesc>Carlo Dolci- The Daughter of Herodias</imgDesc>
+      </image>
+      <image n="no1841.AndreadelSarto-TheMagdalene">
+       <imgName>Andrea del Sarto- The Magdalene</imgName>
+       <imgDesc>Andrea del Sarto- The Magdalene</imgDesc>
+      </image>
+      <image n="no1842.Henner-TheRepentantMagdalene">
+       <imgName>Henner- The Repentant Magdalene</imgName>
+       <imgDesc>Henner- The Repentant Magdalene</imgDesc>
+      </image>
+      <image n="no1843.Millais-TheLostPieceofSilver">
+       <imgName>Millais- The Lost Piece of Silver</imgName>
+       <imgDesc>Millais- The Lost Piece of Silver</imgDesc>
+      </image>
+      <image n="no1844.Botticelli-Judtih">
+       <imgName>Botticelli- Judith</imgName>
+       <imgDesc>Botticelli- Judith</imgDesc>
+      </image>
+
      </bibl>
      <bibl id="a846" default="NO">
       <ref targOrder="U">846.</ref>
@@ -39832,7 +39970,47 @@
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Partly reprinted from the <date>nineteenth
-        century</date> and after. </note>
+      century</date> and after. </note>
+      <image n="no1845.RoswithapresentingherpoemtotheEmperorOthol.,TheAbbessofGandersheimStandingatherside">
+       <imgName>Roswitha presenting her poem to the Emperor Othol</imgName>
+       <imgDesc>Roswitha presenting her poem to the Emperor Othol</imgDesc>
+      </image>
+      <image n="no1846.LadyPlayingHarp">
+       <imgName>Lady Playing Harp</imgName>
+       <imgDesc>Lady Playing Harp</imgDesc>
+      </image>
+      <image n="no1847.MarriageofCharlesLeBelandMarieofLuxemburg">
+       <imgName>Marriage of Charles LeBel and Marie of Luxemburg</imgName>
+       <imgDesc>Marriage of Charles LeBel and Marie of Luxemburg</imgDesc>
+      </image>
+      <image n="no1848.Thirteenth-CenturyTreatiseonSurgery,inFrench">
+       <imgName>Thirteenth-Century Treatise on Surgery, in French</imgName>
+       <imgDesc>Thirteenth-Century Treatise on Surgery, in French</imgDesc>
+      </image>
+      <image n="no1849.Banquet,WithMinstrelsplayingandroomhungwithembroidery">
+       <imgName>Banquet, with Minstrels playing and room hung with embroidery</imgName>
+       <imgDesc>Banquet, with Minstrels playing and room hung with embroidery</imgDesc>
+      </image>
+      <image n="no1850.Harl.MS.4425,Brit.Mus">
+       <imgName>Harl. MS. 4425, Brit. Mus</imgName>
+       <imgDesc>Harl. MS. 4425, Brit. Mus</imgDesc>
+      </image>
+      <image n="no1851.ChristinedePisan">
+       <imgName>Christine de Pisan</imgName>
+       <imgDesc>Christine de Pisan</imgDesc>
+      </image>
+      <image n="no1852.SettingoutforPoissy">
+       <imgName>Setting out for Poissy</imgName>
+       <imgDesc>Setting out for Poissy</imgDesc>
+      </image>
+      <image n="no1853.BookofHoursofEtienneChevalier">
+       <imgName>Book of Hours of Etienne</imgName>
+       <imgDesc>Book of Hours of Etienne</imgDesc>
+      </image>
+      <image n="no1854.FlemishMaster">
+       <imgName>Flemish Master</imgName>
+       <imgDesc>Flemish Master</imgDesc>
+      </image>
      </bibl>
      <bibl id="a853" default="NO"><ref targOrder="U">853.</ref>
       <idno>a853</idno>
@@ -39961,6 +40139,30 @@
         <item>The Elect Lady, the Model Matron</item>
        </list>
       </note>
+      <image n="no1855.SlaughteroftheChildren-DecreeofHerod">
+       <imgName>Slaughter of the Children- Decree of Herod</imgName>
+       <imgDesc>Slaughter of the Children- Decree of Herod</imgDesc>
+      </image>
+      <image n="no1856.TheAngelAnnouncingMarytheMotherofJesus">
+       <imgName>The Angel Announcing Mary of the Mother of Jesus</imgName>
+       <imgDesc>The Angel Announcing Mary of the Mother of Jesus</imgDesc>
+      </image>
+      <image n="no1857.TheHolyFamily">
+       <imgName>The Holy Family</imgName>
+       <imgDesc>The Holy Family</imgDesc>
+      </image>
+      <image n="no1858.TheSyro-PhoenicianWomanPleadingwithChrist">
+       <imgName>The Syro-Phoenician Woman pleading with Christ</imgName>
+       <imgDesc>The Syro-Phoenician WOman pleading with Christ</imgDesc>
+      </image>
+      <image n="no1859.ChristConversingwiththeSamaritanWoman">
+       <imgName>Christ conversing with the Samaritan woman</imgName>
+       <imgDesc>Christ conversing with the Samaritan woman</imgDesc>
+      </image>
+      <image n="no1860.MaryWashingChrist'sFeet">
+       <imgName>Mary washing Christ's feet</imgName>
+       <imgDesc>Mary washing Christ's feet</imgDesc>
+      </image>
      </bibl>
      <bibl id="a858" default="NO">
       <ref targOrder="U">858.</ref>
@@ -39995,6 +40197,50 @@
         <item>Esther</item>
        </list>
       </note>
+      <image n="no1861.SarahBornetotheGrace">
+       <imgName>Sarah Borne to the Grace</imgName>
+       <imgDesc>Sarah Borne to the Grace</imgDesc>
+      </image>
+      <image n="no1862.RachelAttheWellWhereJacobMetHer">
+       <imgName>Rachel at the well where Jacob met her</imgName>
+       <imgDesc>Rachel at the well where Jacob met her</imgDesc>
+      </image>
+      <image n="no1863.MiriamCelebratingVictoryattheRedSea">
+       <imgName>Miriam celebrating victory at the Red Sea</imgName>
+       <imgDesc>Miriam celebrating victory at the Red Sea</imgDesc>
+      </image>
+      <image n="no1864.RuthGleaningintheFieldofBoaz">
+       <imgName>Ruth gleaning in the field of Boaz</imgName>
+       <imgDesc>Ruth gleaning in the field of Boaz</imgDesc>
+      </image>
+      <image n="no1865.DeborahIncitingtoWar">
+       <imgName>Deborah inciting to war</imgName>
+       <imgDesc>Deboarh inciting to war</imgDesc>
+      </image>
+      <image n="no1866.Jepthah'sDaughterandFellowMaidens">
+       <imgName>Jepthah's Daughter and Fellow Maidens</imgName>
+       <imgDesc>Jepthah's Daughter and Fellow Maidens</imgDesc>
+      </image>
+      <image n="no1867.TheWitchofEndorBringingtheGhostofSamuelBeforeSaul">
+       <imgName>The Witch of Endor bringing the Ghost of Samuel before Saul</imgName>
+       <imgDesc>The Witch of Endor bringing the Ghost of Samuel before Saul</imgDesc>
+      </image>
+      <image n="no1868.Hannah'sSonSamuel,andEli,TheHighPriest">
+       <imgName>Hannah's son Samuel, and Eli, the High Priest</imgName>
+       <imgDesc>Hannah's son Samuel, and Eli, the High Priest</imgDesc>
+      </image>
+      <image n="no1869.QueenofShebaBeforeSolomon">
+       <imgName>Queen of Sheba Solomon</imgName>
+       <imgDesc>Queen of Sheba Solomon</imgDesc>
+      </image>
+      <image n="no1870.JezebelThrownoutoftheWindow">
+       <imgName>Jezebel thrown out of the window</imgName>
+       <imgDesc>Jezebel thrown out of the window</imgDesc>
+      </image>
+      <image n="no1871.EstherAppealingtoKingAhasuerus">
+       <imgName>Esther appealing to King Ahasuerus</imgName>
+       <imgDesc>Esther appealing to King Ahasuerus</imgDesc>
+      </image>
      </bibl>
      <bibl id="a859" default="NO">
       <ref targOrder="U">859.</ref>
@@ -40339,6 +40585,42 @@
        <publisher>G.P. Putnam's Sons,</publisher>
        <date>1906.</date>
       </imprint>
+      <image n="no1872.AnneMarieMartinozziPrincessedeConti">
+       <imgName>Anne Marie Martinozzi, Princesse de Conti</imgName>
+       <imgDesc>Anne Marie Martinozzi, Princesse de Conti</imgDesc>
+      </image>
+      <image n="no1873.LaureManciniDuchessedeMercoeur">
+       <imgName>Laure Mancini Duchesse de Mer Coeur</imgName>
+       <imgDesc>Laure Mancini, Duchesse de Mer Coeur</imgDesc>
+      </image>
+      <image n="no1874.MarieMancini">
+       <imgName>Marie Mancini</imgName>
+       <imgDesc>Marie Mancini</imgDesc>
+      </image>
+      <image n="no1875.AnneofAustria,QueenofFrance">
+       <imgName>Anne of Austria, Queen of France</imgName>
+       <imgDesc>Anne of Austria, Queen of France</imgDesc>
+      </image>
+      <image n="no1876.MariaTheresaofAustria,QueenofFrance">
+       <imgName>Maria Theresa of Austria, Queen of France</imgName>
+       <imgDesc>Maria Theresa of Austria, Queen of France</imgDesc>
+      </image>
+      <image n="no1877.MarianneManciniDuchessedeBouillon">
+       <imgName>Marianne Mancini, Duchesse de Bouillon</imgName>
+       <imgDesc>Marianne Mancini, Duchesse de Bouillon</imgDesc>
+      </image>
+      <image n="no1878.MarieManciniColonna,PrincipessadiPalliano">
+       <imgName>Marie Mancini Colonna, Principessa di Palliano</imgName>
+       <imgDesc>Marie Mancini Colonna, Principessa di Palliano</imgDesc>
+      </image>
+      <image n="no1879.MarieLouiseD'Orleans,QueenofSpain">
+       <imgName>Marie Louise D'Orleans, Queen of Spain</imgName>
+       <imgDesc>Marie Louise D'Orleans, Queen of Spain</imgDesc>
+      </image>
+      <image n="no1880.OlympeMancini,ComtessedeSoissons">
+       <imgName>Olympe Mancini, Comtesse de Soissons</imgName>
+       <imgDesc>Olympe Mancini, Comtesse de Soissons</imgDesc>
+      </image>
      </bibl>
      <bibl id="a871" default="NO">
       <ref targOrder="U">871.</ref>
