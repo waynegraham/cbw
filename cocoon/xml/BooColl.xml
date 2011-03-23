@@ -40664,6 +40664,26 @@
         <item>Elizabeth Berkeley, Countess of Craven</item>
        </list>
       </note>
+      <image n="no1881.ArmandeBejart">
+       <imgName>Armande Bejart</imgName>
+       <imgDesc>Armane Bejart</imgDesc>
+      </image>
+      <image n="no1882.MademoisellePrevost">
+       <imgName>Mademoiselle Prevost</imgName>
+       <imgDesc>Mademoiselle Prevost</imgDesc>
+      </image>
+      <image n="no1883.JustineFavart">
+       <imgName>Justine Favart</imgName>
+       <imgDesc>Justine Favart</imgDesc>
+      </image>
+      <image n="no1884.MademoiselleClairon">
+       <imgName>Mademoiselle Clairon</imgName>
+       <imgDesc>Mademoiselle Clairon</imgDesc>
+      </image>
+      <image n="no1885.ElizabethBerkeley,CountessofCraven,AfterwardsMargravineofAnspach">
+       <imgName>Elizabeth Berkeley, Countess of Craven, afterwards Margravine of Anspach</imgName>
+       <imgDesc>Elizabeth Berkeley, Countess of Craven, afterwards Margravine of Anspach</imgDesc>
+      </image>
      </bibl>
      <bibl id="a873" default="NO">
       <ref targOrder="U">873.</ref>
@@ -40748,6 +40768,26 @@
        <date>1909.</date>
       </imprint>
       <note place="unspecified" anchored="yes">Bodleian</note>
+      <image n="no1887.PaulineBonaparte">
+       <imgName>Pauline Bonaparte</imgName>
+       <imgDesc>Pauline Bonaparte</imgDesc>
+      </image>
+      <image n="no1888.MariaLetiziaBonaparte">
+       <imgName>Maria Letizia Bonaparte</imgName>
+       <imgDesc>Maria Letizia Bonaparte</imgDesc>
+      </image>
+      <image n="no1889.JosephineatMalmaison">
+       <imgName>Josephine at Malmaison</imgName>
+       <imgDesc>Josephine at Malmaison</imgDesc>
+      </image>
+      <image n="no1890.CarolineBonaparte">
+       <imgName>Caroline Bonaparte</imgName>
+       <imgDesc>Caroline Bonaparte</imgDesc>
+      </image>
+      <image n="no1891.ElisaBonaparte">
+       <imgName>Elisa Bonaparte</imgName>
+       <imgDesc>Elisa Bonaparte</imgDesc>
+      </image>
      </bibl>
      <bibl id="a876" default="NO">
       <ref targOrder="U">876.</ref>
@@ -40937,6 +40977,42 @@
       <note place="unspecified" anchored="yes"> Indebted to <ref target="a416" targOrder="U"
         >Hoppner/Wilkin</ref>, related to <ref target="a798" targOrder="U">Thormanby/Willmott
         Dixon</ref>. Willing an authority on visual arts. </note>
+      <image n="no1892.DuchessofMarlborough">
+       <imgName>Duchess of Marlborough</imgName>
+       <imgDesc>Duchess of Marlborough</imgDesc>
+      </image>
+      <image n="no1893.CountessofSuffolk">
+       <imgName>Countess of Suffolk</imgName>
+       <imgDesc>Countess of Suffolk</imgDesc>
+      </image>
+      <image n="no1894.LadySarahLennox">
+       <imgName>Lady Sarah Lennox</imgName>
+       <imgDesc>Lady Sarah Lennox</imgDesc>
+      </image>
+      <image n="no1895.LadyWaldegrave">
+       <imgName>Lady Waldegrave</imgName>
+       <imgDesc>Lady Waldegrave</imgDesc>
+      </image>
+      <image n="no1896.DuchessofCumberland">
+       <imgName>Duchess of Cumberland</imgName>
+       <imgDesc>Duchess of Cumberland</imgDesc>
+      </image>
+      <image n="no1897.Mrs.CreweandMrs.Bouverie">
+       <imgName>Mrs. Crewe and Mrs. Bouverie</imgName>
+       <imgDesc>Mrs. Crewe and Mrs. Bouverie</imgDesc>
+      </image>
+      <image n="no1898.DuchessofGordon">
+       <imgName>Duchess of Gordon</imgName>
+       <imgDesc>Duchess of Gordon</imgDesc>
+      </image>
+      <image n="no1899.CountessofCraven">
+       <imgName>Countess of Craven</imgName>
+       <imgDesc>Countess of Craven</imgDesc>
+      </image>
+      <image n="no1901.ViscountSt.Asaph">
+       <imgName>Viscount St. Asaph</imgName>
+       <imgDesc>Viscount St. Asaph</imgDesc>
+       </image>
      </bibl>
      <bibl id="a885" default="NO">
       <ref targOrder="U">885.</ref>
@@ -41232,7 +41308,51 @@
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Wilson was Minister of the Free Church at
-       Musselburgh. “By the author of 'The Heavenward Path.” </note>
+      Musselburgh. “By the author of 'The Heavenward Path.” </note>
+      <image n="no1902.TheChristianTriumph">
+       <imgName>The Christian Triumph</imgName>
+       <imgDesc>The Christian Triumph</imgDesc>
+      </image>
+      <image n="no1903.Monica,theMotherofAugustine">
+       <imgName>Monica, the Mother of Augustine</imgName>
+       <imgDesc>Monica, the Mother of Augustine</imgDesc>
+      </image>
+      <image n="no1904.AugustineandMonica">
+       <imgName>Augustine and Monica</imgName>
+       <imgDesc>Augustine and Monica</imgDesc>
+      </image>
+      <image n="no1905.OlympiaMorataGivingaReadingintheClassics">
+       <imgName>Olympia Morata</imgName>
+       <imgDesc>Olympia Morata giving a reading in the Classics</imgDesc>
+      </image>
+      <image n="no1906.OlympiaMorataatFerrara">
+       <imgName>Olympia Morata at Ferrara</imgName>
+       <imgDesc>Olympia Morata at Ferrara</imgDesc>
+      </image>
+      <image n="no1907.LadyHarley'sDefenceofBramptonCastle">
+       <imgName>Lady Harley's Defence of Brampton Castle</imgName>
+       <imgDesc>Lady Harley's Defence of Brampton Castle</imgDesc>
+      </image>
+      <image n="no1908.GrisellHume,TheBraveDaughter">
+       <imgName>GrisellHume,TheBraveDaughter</imgName>
+       <imgDesc>GrisellHume,TheBraveDaughter</imgDesc>
+      </image>
+      <image n="no1909.TheSisterhood">
+       <imgName>The Sisterhood</imgName>
+       <imgDesc>The Sisterhood</imgDesc>
+      </image>
+      <image n="no1910.AnIncidentintheLifeofMadamedeChantal">
+       <imgName>An Incident in the Life of Madame de Chantal</imgName>
+       <imgDesc>An Incident in the Life of Madame de Chantal</imgDesc>
+      </image>
+      <image n="no1911.TheStrengthoftheTenderWife">
+       <imgName>The Strength of the Tender Wife</imgName>
+       <imgDesc>The Strength of the Tender Wife</imgDesc>
+      </image>
+      <image n="no1912.PlantingfortheFuture">
+       <imgName>Planting for the Future</imgName>
+       <imgDesc>Planting for the Future</imgDesc>
+      </image>
      </bibl>
      <bibl id="a893" default="NO">
       <ref targOrder="U">893.</ref>
@@ -41858,6 +41978,42 @@
         <item>Authors Wives and Literary Women</item>
        </list>
       </note>
+      <image n="no1913.CarolinaMatilda,QueenofDenmark">
+       <imgName>Carolina Matilda, Queen of Denmark</imgName>
+       <imgDesc>Carolina Matilda, Queen of Denmark</imgDesc>
+      </image>
+      <image n="no1914.SophiaDorotheaofZell">
+       <imgName>Sophia Dorothea of Zell</imgName>
+       <imgDesc>Sophia Dorothea of Zell</imgDesc>
+      </image>
+      <image n="no1915.CatherineHoward,QueenofHenryVIII">
+       <imgName>Catherine Howard, Queen of Henry VIII</imgName>
+       <imgDesc>Catherine Howard, Queen of Henry VIII</imgDesc>
+      </image>
+      <image n="no1916.MaryQueenofScots">
+       <imgName>Mary Queen of Scots</imgName>
+       <imgDesc>Mary Queen of Scots</imgDesc>
+      </image>
+      <image n="no1917.MaryofModena">
+       <imgName>Mary of Modena</imgName>
+       <imgDesc>Mary of Modena</imgDesc>
+      </image>
+      <image n="no1918.TheQueenofEtruria">
+       <imgName>The Queen of Etruria</imgName>
+       <imgDesc>The Queen of Etruria</imgDesc>
+      </image>
+      <image n="no1919.LadyJeanDouglas">
+       <imgName>Lady Jean Douglas</imgName>
+       <imgDesc>Lady Jean Douglas</imgDesc>
+      </image>
+      <image n="no1920.FannyBurney">
+       <imgName>Fanny Burney</imgName>
+       <imgDesc>Fanny Burney</imgDesc>
+      </image>
+      <image n="no1921.MaryWollstonecraftGodwin">
+       <imgName>Mary Wollstonecraft Godwin</imgName>
+       <imgDesc>Mary Wollstonecraft Godwin</imgDesc>
+      </image>
      </bibl>
     </div2>
     <div2 type="letter" n="Y" org="uniform" sample="complete" part="N">
