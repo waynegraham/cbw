@@ -14355,8 +14355,8 @@
        <imgName>The Gerry House</imgName>
        <imgDesc>The Gerry House, Corner Temple and Wall Streets, New Haven</imgDesc>
       </image>
-      <image n="no1425.Phebe(Kimberley)Castle">
-       <imgName>Phebe (Kimberley) Castle</imgName>
+      <image n="no1425.Phebe(Kimberly)Castle">
+       <imgName>Phebe (Kimberly) Castle</imgName>
       </image>
       <image n="no1426.RachelSelina(Fowler)Belden">
        <imgName>Rachel Selina (Folwer) Belden</imgName>
@@ -14402,7 +14402,7 @@
        <imgName>Emily (Savage) Roys</imgName>
        <imgDesc>From a photograph taken when Mrs. Roys was about seventy years old</imgDesc>
       </image>
-      <image n="no1440.NancyLord(Wheeler)Stanton(Fromaphotographtakenin1895whenshewas84yearsold">
+      <image n="no1440.NancyLord(Wheeler)Stanton(Fromaphotographtakeninin1895whenshewas84yearsold">
        <imgName>Nancy Lord (Wheeler) Stanton</imgName>
        <imgDesc>From a photograph taken in 1895 when she was 84 years old</imgDesc>
       </image>
@@ -19924,9 +19924,6 @@
        <imgName>Elizabeth, Duchess of Hamilton</imgName>
       </image>
       <image n="no1517.MissKittyGunning"/>
-      <image n="no1518.GunildaGunning">
-       <imgName>"Gunilda" Gunning</imgName>
-      </image>
       <image n="no1519.Mrs.Woffington">
        <imgName>Mrs. Woffington</imgName>
       </image>
@@ -21795,10 +21792,6 @@
        <imgName>Harry T. Burleigh</imgName>
        <imgDesc>Harry T. Burleigh</imgDesc>
       </image>
-      <image n="1629.JosephS.Cotter">
-       <imgName>Joseph S. Cotter</imgName>
-       <imgDesc>Joseph S. Cotter</imgDesc>
-      </image>
       <note place="unspecified" anchored="yes"> NOT:=male-female collective biography.
        African-American. </note>
      </bibl>
@@ -22370,7 +22363,7 @@
        <imgName>Catherine M. Sedgwick</imgName>
        <imgDesc>Catherine M. Sedgwick</imgDesc>
       </image>
-      <image n="no1664.CatherineM.Kirkland">
+      <image n="no1664.CarolineM.Kirkland">
        <imgName>Caroline M. Kirkland</imgName>
        <imgDesc>Caroline M. Kirkland</imgDesc>
       </image>
@@ -22713,7 +22706,7 @@
        <imgName>The Reception Room in the House of Frederic</imgName>
       <imgDesc>The Reception Room in the House of Frederic</imgDesc>
       </image>
-      <image n="no1673.BAronessdeRamelmandherDaughterattheSwedishEmbassy">
+      <image n="no1673.BaronessdeRamelmandherDaughterattheSwedishEmbassy">
        <imgName>Baroness de Rameland</imgName>
        <imgDesc>Baroness de Rameland and her Daughter at the Swedish Embassy</imgDesc>
       </image>
@@ -24160,7 +24153,7 @@
        <imgName>Madame de Stael</imgName>
        <imgDesc>Madame de Stael</imgDesc>
       </image>
-      <image n="no1705.Elizabeth Fry">
+      <image n="no1705.ElizabethFry">
        <imgName>Elizabeth Fry</imgName>
        <imgDesc>Elizabeth Fry</imgDesc>
       </image>
@@ -26761,7 +26754,7 @@
        <imgName>Madame du Chatelet</imgName>
        <imgDesc>Madame du Chatelet</imgDesc>
       </image>
-      <image n="no1717.Madame de Pompadour">
+      <image n="no1717.MadamedePompadour">
        <imgName>Madame de Pompadour</imgName>
        <imgDesc>Madamede Pompadour</imgDesc>
       </image>
@@ -27973,7 +27966,7 @@
         <item>George Eliot.</item>
        </list>
       </note>
-      <image n="no1731.MadameRecamier,afterthepaintingbyBaronFrancoisPascalGerard">
+      <image n="no1731.MadamedeRecamier,afterthepaintingbyBaronFrancoisPascalGerard">
        <imgName>Madame Recamier</imgName>
        <imgDesc>After the painting by Baron Francois Pascal Gerard</imgDesc>
       </image>
@@ -32696,10 +32689,6 @@
        <imgName>Octavia Walton (Madame LeVert)</imgName>
        <imgDesc>Octavia Walton (Madame LeVert)</imgDesc>
       </image>
-      <image n="no1723.FannyTaylor(Mrs.ThomasHardingEllis)FromportraitbyThomasSully">
-       <imgName>Fanny Taylor (Mrs. Thomas Harding Ellis</imgName>
-       <imgDesc>Fanny Taylor (Mrs. Thomas Harding Ellis) From a portrait by Thomas Sully</imgDesc>
-      </image>
       <image n="no1774.SallyChevalier(Mrs.AbramWarwick)ByThomasSully">
        <imgName>Sally Chevalier (Mrs. Abram Warwick) By Thomas Sully</imgName>
        <imgDesc>Sally Chevalier (Mrs. Abram Warwick) By Thomas Sully</imgDesc>
@@ -32732,7 +32721,7 @@
        <imgName>Lizzie Cabell (Mrs. Albert Ritchie</imgName>
        <imgDesc>Lizzie Cabell (Mrs. Albert Ritchie</imgDesc>
       </image>
-      <image n="no1782.MaryTriplett(Mrs.PhilipHaxall)FromphotographybyRosetti">
+      <image n="no1782.MaryTriplett(Mrs.PhilipHaxall)FromphotographbyRosetti">
        <imgName>Mary Triplett (Mrs. Philip Haxall)</imgName>
        <imgDesc>Mary Triplett (Mrs. Philip Haxall) From photography by Rosetii</imgDesc>
       </image>
@@ -32756,7 +32745,7 @@
        <imgName>Miss May Handy</imgName>
        <imgDesc>From photograph by James L. Breese</imgDesc>
       </image>
-      <image n="no1788.CatherineDuer(Mrs.ClarenceMackay">
+      <image n="no1788.CatherineDuer(Mrs.ClarenceMackay)">
        <imgName>Catherine Duer (Mrs. Clarence MacKay</imgName>
        <imgDesc>Catherine Duer (Mrs. Clarence MacKay</imgDesc>
       </image>
@@ -38108,7 +38097,7 @@
        <imgName>The Duchess of Marlborough pleading her own case</imgName>
        <imgDesc>The Duchess of Marlborough pleading her own case</imgDesc>
       </image>
-      <image n="no1795.TheInaugrationoftheRepublic">
+      <image n="no1795.TheInaugurationoftheRepublic">
        <imgName>The Inauguration of the Republic</imgName>
        <imgDesc>The Inauguration of the Republic</imgDesc>
       </image>
@@ -39755,7 +39744,7 @@
        <imgName>Millais- The Lost Piece of Silver</imgName>
        <imgDesc>Millais- The Lost Piece of Silver</imgDesc>
       </image>
-      <image n="no1844.Botticelli-Judtih">
+      <image n="no1844.Botticelli-Judith">
        <imgName>Botticelli- Judith</imgName>
        <imgDesc>Botticelli- Judith</imgDesc>
       </image>
@@ -39971,10 +39960,6 @@
       </note>
       <note place="unspecified" anchored="yes"> Partly reprinted from the <date>nineteenth
       century</date> and after. </note>
-      <image n="no1845.RoswithapresentingherpoemtotheEmperorOthol.,TheAbbessofGandersheimStandingatherside">
-       <imgName>Roswitha presenting her poem to the Emperor Othol</imgName>
-       <imgDesc>Roswitha presenting her poem to the Emperor Othol</imgDesc>
-      </image>
       <image n="no1846.LadyPlayingHarp">
        <imgName>Lady Playing Harp</imgName>
        <imgDesc>Lady Playing Harp</imgDesc>
@@ -40197,9 +40182,9 @@
         <item>Esther</item>
        </list>
       </note>
-      <image n="no1861.SarahBornetotheGrace">
-       <imgName>Sarah Borne to the Grace</imgName>
-       <imgDesc>Sarah Borne to the Grace</imgDesc>
+      <image n="no1861.SarahBornetotheGrave">
+       <imgName>Sarah Borne to the Grave</imgName>
+       <imgDesc>Sarah Borne to the Grave</imgDesc>
       </image>
       <image n="no1862.RachelAttheWellWhereJacobMetHer">
        <imgName>Rachel at the well where Jacob met her</imgName>
@@ -40217,9 +40202,9 @@
        <imgName>Deborah inciting to war</imgName>
        <imgDesc>Deboarh inciting to war</imgDesc>
       </image>
-      <image n="no1866.Jepthah'sDaughterandFellowMaidens">
-       <imgName>Jepthah's Daughter and Fellow Maidens</imgName>
-       <imgDesc>Jepthah's Daughter and Fellow Maidens</imgDesc>
+      <image n="no1866.Jephthah'sDaughterandFellowMaidens">
+       <imgName>Jephthah's Daughter and Fellow Maidens</imgName>
+       <imgDesc>Jephthah's Daughter and Fellow Maidens</imgDesc>
       </image>
       <image n="no1867.TheWitchofEndorBringingtheGhostofSamuelBeforeSaul">
        <imgName>The Witch of Endor bringing the Ghost of Samuel before Saul</imgName>
@@ -40680,10 +40665,6 @@
        <imgName>Mademoiselle Clairon</imgName>
        <imgDesc>Mademoiselle Clairon</imgDesc>
       </image>
-      <image n="no1885.ElizabethBerkeley,CountessofCraven,AfterwardsMargravineofAnspach">
-       <imgName>Elizabeth Berkeley, Countess of Craven, afterwards Margravine of Anspach</imgName>
-       <imgDesc>Elizabeth Berkeley, Countess of Craven, afterwards Margravine of Anspach</imgDesc>
-      </image>
      </bibl>
      <bibl id="a873" default="NO">
       <ref targOrder="U">873.</ref>
@@ -40780,7 +40761,7 @@
        <imgName>Josephine at Malmaison</imgName>
        <imgDesc>Josephine at Malmaison</imgDesc>
       </image>
-      <image n="no1890.CarolineBonaparte">
+      <image n="no1890.CarolineBonaparte,Aboutthetimeofhermarriage">
        <imgName>Caroline Bonaparte</imgName>
        <imgDesc>Caroline Bonaparte</imgDesc>
       </image>
@@ -41334,8 +41315,8 @@
        <imgDesc>Lady Harley's Defence of Brampton Castle</imgDesc>
       </image>
       <image n="no1908.GrisellHume,TheBraveDaughter">
-       <imgName>GrisellHume,TheBraveDaughter</imgName>
-       <imgDesc>GrisellHume,TheBraveDaughter</imgDesc>
+       <imgName>Grisell Hume,The Brave Daughter</imgName>
+       <imgDesc>Grisell Hume,The Brave Daughter</imgDesc>
       </image>
       <image n="no1909.TheSisterhood">
        <imgName>The Sisterhood</imgName>
