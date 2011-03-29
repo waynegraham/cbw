@@ -16479,32 +16479,7 @@
       </imprint>
       <note> British Library. Bodleian NOT:=book series. Series of twenty-two volumes of biographies
        of British and French women (with one American entry by Julia Ward Howe). </note>
-      <note type="chapter_titles">
-       <list>
-        <item> Julia Ward Howe's <title>
-          <hi rend="italics">Margaret Fuller, Marchesa Ossoli</hi>
-         </title>
-        </item>
-        <item> Mathilde Blind's <title>
-          <hi rend="italics">George Eliot</hi>
-         </title>
-        </item>
-        <item n="QUEEN_VICTORIA"> Millicent Garrett Fawcett's <title>
-          <hi rend="italics">Life of Her Majesty Queen Victoria</hi>
-         </title>
-        </item>
-        <item> Ingram's <title>
-          <hi rend="italics">Elizabeth Barrett Browning</hi>
-         </title>
-        </item>
-        <item>Florence Fenwick Miller's <title><hi rend="italics">Harriet
-         Martineau</hi></title></item>
-        <item>Elizabeth Robins Pennell's <title><hi rend="italics">Mary Wollstonecraft
-          Godwin</hi></title></item>
-        <item>Emma Raymond Pitman's<title><hi rend="italics">Elizabeth Fry</hi></title></item>
-        <item>Lucy Madox Rossetti's <title><hi rend="italics">Mrs. Shelley</hi></title></item>
-        <item>Charlotte Mary Yongue's <title><hi rend="italics">Hannah More</hi></title></item>
-       </list> [the rest of the chapters go here...] </note>
+      
      </bibl>
      <bibl id="a267" default="NO">
       <ref targOrder="U">267.</ref>
@@ -19235,6 +19210,12 @@
        <publisher>DAR,</publisher>
        <date>1935.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">HATHI Trust Digital Library version http://hdl.handle.net/2027/mdp.39015071338530
+       indicates a 50-pp. typescript "Prepared for the Genesee Chapter DAR."  No table of contents; the text weaves names
+       into narrative, and headers focus on towns.  "Mrs. Bert M. Garner begins, "The writer of this narrative has
+       found it necessary to weave bits of history around the pioneer women of Genesee County and their families else
+       not much of a paper would she have been able to produce. Not so much has been recorded about the women of that early day
+       as about the men" (1).</note> 
      </bibl>
      <bibl id="a315" default="NO">
       <ref targOrder="U">315.</ref>
