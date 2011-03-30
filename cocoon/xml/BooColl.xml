@@ -14067,8 +14067,12 @@
        <date>1907.</date>
       </imprint>
       <note place="unspecified" anchored="yes">Bodleian</note>
-      <note place="unspecified" anchored="yes">The Venus, the Juno, the Minerva. See <ref
-        target="a188" targOrder="U">Cole</ref> .</note>
+      <note place="unspecified" anchored="yes">The Venus, the Juno, the Minerva. Few named women.  For example, 
+       on p. 98, with header "TYPES--CAREERS OF LIFE  [CHAP. III." and subheading "IN SOCIETY": "In middle age the Venus
+       and Juno types approach each other as to form and disposition, though their leading characteristics will be preserved."
+       Epigraphs and excerpts from famous writers such as Ovid interrupt the prose, e.g. pp. 232-3.  An exception appears
+       in discussing the famous women who "ruled Kings" in France; ch. vii, pp. 300-13, includes various named women. See <ref
+        target="a188" targOrder="U">Cole</ref>.</note>
      </bibl>
      <bibl id="a216" default="NO">
       <ref targOrder="U">216.</ref>
@@ -14333,6 +14337,10 @@
         <item>Anne Mackenzie</item>
        </list>
       </note>
+     </bibl>
+     <bibl id="a221A" default="NO">
+      <ref targOrder="U">221A.</ref>
+      <author></author>
      </bibl>
      <bibl id="a222" default="NO"><ref targOrder="U">222.</ref>
       <idno>a222</idno>
