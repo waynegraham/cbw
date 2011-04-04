@@ -10491,11 +10491,12 @@
         <item>pagination resumes repeatedly (prob. issues bound together).</item>
        </list>
       </note>
-      <hi rend="bold">*Pop Chart</hi>
+      
       <note place="unspecified" anchored="yes"> British Library. Univ. of Georgia copy: bookplate:
        “Royal School,/ Dunkeld./ Session <date>1897-1898</date>./Standard III/Isobel
        MacNaughton/Second Prize/ G. R. Croll, M.A./ Rector.” Amazonian Joan of Arc in gold on cover,
        with raised fist and lance. Frontis. “Grace Darling.” </note>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a155" default="NO"><ref targOrder="U">155.</ref>
       <idno>a155</idno>
@@ -16289,37 +16290,14 @@
        <imgName>A Stylish Mamma</imgName>
        <imgDesc>A Stylish Mamma</imgDesc>
       </image>
-      <image n="no1082.Oneofthefewgoodmammas">
-       <imgName>One of the few good mammas</imgName>
-       <imgDesc>One of the few good mammas</imgDesc>
-      </image>
-      <image n="no1083.TheToast'OurLadyFriends'">
-       <imgName>The Toast "Our Lady Friends"</imgName>
-       <imgDesc>The Toast "Our Lady Friends"</imgDesc>
-      </image>
+     
       <image n="no1084.FalseFaces,AnEnamelingStudoonBroadway">
        <imgName>False Faces</imgName>
        <imgDesc>False Faces, an enameling student on Broadway</imgDesc>
       </image>
-      <image n="no1085.FashionableWorship">
-       <imgName>Fashionable Worship</imgName>
-       <imgDesc>Fashionable Worship, "Have mercy upon us miserable sinners!"</imgDesc>
-      </image>
-      <image n="no1086.TheSchoolGirlonherafternoonwalk">
-       <imgName>The School Girl</imgName>
-       <imgDesc>The School Girl, on her afternoon walk</imgDesc>
-      </image>
-      <image n="no1087.Appointmentatcentralpark">
-       <imgName>Appointment</imgName>
-       <imgDesc>Appointment at central park waiting at the "floral bridge"</imgDesc>
-      </image>
       <image n="no1088.ShoppinginBroadway">
        <imgName>Shopping on Broadway</imgName>
        <imgDesc>Shopping on Broadway</imgDesc>
-      </image>
-      <image n="no1089.CanalStreet'CigarStor'visitedbyatractdistributor">
-       <imgName>Cigar Store</imgName>
-       <imgDesc>Canal Street "Cigar Store" visited by a distributor</imgDesc>
       </image>
       <image n="no1090.MissCoraG--ABelleoftheUnderworld">
        <imgName>Miss Cora</imgName>
@@ -16332,10 +16310,6 @@
       <image n="no1092.FastWomen,ThedriveinCentralPark">
        <imgName>Fast Women</imgName>
        <imgDesc>Fast Women, the drive in Central Park</imgDesc>
-      </image>
-      <image n="no1093.TheQueenofthe'Underworld'">
-       <imgName>The Queen of the "Underworld"</imgName>
-       <imgDesc>The Queen of the "Underworld"</imgDesc>
       </image>
       <image n="no1094.FastWomenattheraces">
        <imgName>Fast Women</imgName>
@@ -16352,10 +16326,6 @@
       <image n="no1097.SewingGirlsinabroadwayestablishment">
        <imgName>Sewing Girls</imgName>
        <imgDesc>Sewing Girls, in a broadway establishment</imgDesc>
-      </image>
-      <image n="no1098.Attheracesliquoringup">
-       <imgName>Liquoring Up</imgName>
-       <imgDesc>At the races, liquoring up</imgDesc>
       </image>
       <image n="no1099.Practisingfortheballet">
        <imgName>Practising</imgName>
@@ -16503,12 +16473,13 @@
         <item>Miss Emma Roberts</item>
        </list>
       </note>
-      <hi rend="bold">*Pop Chart</hi>
+      
       <note place="unspecified" anchored="yes">
        <xref targOrder="U" from="ROOT" to="DITTO">Riches</xref> has title <title>
         <hi rend="italics"> . . . from <date>1700-1843</date>.</hi>
        </title>
       </note>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a265" default="NO">
       <ref targOrder="U">265.</ref>
@@ -16639,10 +16610,6 @@
         <item>Powder and Patches</item>
        </list>
       </note>
-      <image n="no1101.LadyHamiltonas'Nature'">
-       <imgName>Lady Hamilton</imgName>
-       <imgDesc>Lady Hamilton, posing as "Nature"</imgDesc>
-      </image>
       <image n="no1102.Henry8thWives">
        <imgName>Henry VIII's Wives</imgName>
        <imgDesc>Henry VIII's Wives</imgDesc>
@@ -17395,8 +17362,9 @@
         <item n="GRACE_DARLING">Grace Darling</item>
        </list>
       </note>
-      <hi rend="bold">*Pop Chart</hi>
+      
       <note place="unspecified" anchored="yes">Twelve persons series.</note>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a280" default="NO">
       <ref targOrder="U">280.</ref>
@@ -18223,7 +18191,7 @@
         <item>Mrs. Siddons</item>
        </list>
       </note>
-      <hi rend="bold">*Pop Chart</hi>
+     
       <note place="unspecified" anchored="yes">
        <p>British Library copy with the first title, likely to be circa 1870. See title 678 (Mrs.
         Clyde Robertson, 1936). One catalogue has “1830-1850?,” unlikely dates given Charlotte
@@ -18278,6 +18246,7 @@
         Garfield, of General Gordon; lots of advice and self help “Famous People and Famous Places”
         “Sacred Heroes and Martyrs” by JT Headley </p>
       </note>
+      <hi rend="bold">*Pop Chart</hi>
      </bibl>
      <bibl id="a294" default="NO">
       <ref targOrder="U">294.</ref>
@@ -20756,9 +20725,7 @@
         <item>Life in the Capital</item>
        </list>
       </note>
-      <image n="1559.Mrs.GeorgeWashington">
-       <imgName>Mrs. George Washington</imgName>
-      </image>
+   
       <image n="1560"/>
       <image n="1561"/>
       <image n="1562"/>
@@ -34279,18 +34246,7 @@
        author of <title>
         <hi rend="italics">Saint Catherine of Siena and Her Times</hi>
        </title> (<date>1906</date>). </note>
-      <image n="no1414.Ibegthekindtoallowyoutokisshishand">
-       <imgDesc>"I beg the king to allow you to kiss his hand."</imgDesc>
-      </image>
-      <image n="no1415.SoshewaswithintheBastille">
-       <imgDesc>"So she was within the Bastille."</imgDesc>
-      </image>
-      <image n="no1416.BonavarteandMadamePermon">
-       <imgDesc>Bonavarte and Madame Permon</imgDesc>
-      </image>
-      <image n="no1417.Fire!Fire!">
-       <imgDesc>"Fire! Fire!"</imgDesc>
-      </image>
+   
      </bibl>
      <bibl id="a678" default="NO"><ref targOrder="U">678.</ref>
       <idno>a678</idno>
