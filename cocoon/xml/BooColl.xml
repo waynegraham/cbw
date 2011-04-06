@@ -14697,6 +14697,9 @@
        <publisher>North Carolina DAR,</publisher>
        <date>1909.</date>
       </imprint>
+      <note place="unspecified" anchored="yes"> A nine page insert in <hi rend="italics">The North Carolina Booklet</hi>  
+       that details the heroic acts of three North Carolinian women (Betsey Dowdy, Mary Slocumb, and Flora MacDonald)
+      during the American Revolution.</note>
      </bibl>
      <bibl id="a227" default="NO">
       <ref targOrder="U">227.</ref>
@@ -19685,9 +19688,42 @@
        <publisher>Sunday School Board of the Reformed Church in the United States,</publisher>
        <date>1901.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> Cover title: <title>
-        <hi rend="italics">Famous Women of the Reformed Church</hi>
-       </title>. </note>
+      <note place="unspecified" anchored="yes">Title page describes author as Professor of Dogmatics and Reformed Church History in the Ursinus School of Theology. The preface 
+      explains that the chapters of the book first appeared in the Reformed Church Magazine and were so 
+      warmly received that the Sunday-school Board of the Reformed Church in the United States republished
+      them in this book. Good concludes his preface by saying he hopes "the lives of these Reformed saints will stimulate the ladies of our Church to greater interest
+      in our splendid Church history, and to greater activity as in missions and the practical work of the Church, 
+      in which they already excel."</note>
+      <note type="toc">
+       <list>
+        <item>Anna Reinhard</item>
+        <item>Idelette D'Bures</item>
+        <item>Anna Bullinger</item>
+        <item>Catharine Zell</item>
+        <item>Margaret Blaarer</item>
+        <item>Queen Margaret of Navarre</item>
+        <item>Queen Jeanne D'Albret of Navarre</item>
+        <item>Charlotte D'Mornay</item>
+        <item>Phillipine de Luns</item>
+        <item>Charlotte D'Bourbon</item>
+        <item>Louisa de Coligny</item>
+        <item>Duchess Renee of Este</item>
+        <item>Olympia Morata</item>
+        <item>Electress Elizabeth</item>
+        <item>Electress Louisa Juliana</item>
+        <item>Landgravine Amalie Elizabeth</item>
+        <item>Countess Ursula</item>
+        <item>Countess Gertrude</item>
+        <item>Duchess Catharine Charlotte</item>
+        <item>Princess Elizabeth</item>
+        <item>Electress Louisa Henrietta</item>
+        <item>Countess Susan Rakoczy</item>
+        <item>Anna Lavater</item>
+        <item>Anna Schlatter and Meta Heusser-Schweitzer</item>
+        <item>Mrs. Thomas C. Doremus</item>
+        <item></item>
+       </list>
+     </note>
      </bibl>
      <bibl id="a331" default="NO"><ref targOrder="U">331.</ref>
       <idno>a331</idno>
