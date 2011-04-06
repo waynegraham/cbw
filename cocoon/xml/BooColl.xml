@@ -11183,7 +11183,7 @@
         <item>Mlle Legras</item>
         <item n="HANNAH_MORE">Hannah More</item>
         <item>Sarah Martin</item>
-        <item n="ELIZABETH_FRY">Elizabeth Fry.</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Author of at least 12 vols. for Nelson, advertised
@@ -13017,7 +13017,7 @@
         <item>“Two Schoolgirl Diarists of the Eighteenth Century: Hélène Massalska, Paris</item>
         <item>Anna Green Winslow, Boston”</item>
         <item>“Pamela at Bellechasse: The Schooldays of Lady Edward Fitzgerald”</item>
-        <item>“Marjorie Fleming: Sir Walter Scott's ‘Pet Marjorie.’”</item>
+        <item>“Marjorie Fleming: Sir Walter Scott's ‘Pet Marjorie’”</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Endorsed by Catholic authorities. A mixture of
@@ -28332,9 +28332,7 @@
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale.</item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes">
-       <hi rend="bold">*Pop Chart</hi>
-      </note>
+     
       <note place="unspecified" anchored="yes"> Preface: “The Book of Heroes should never be
        separated from the Book of Heroines” (vii), i.e. Mabie, <title>
         <hi rend="italics">Heroes Every Child Should Know</hi>
@@ -28346,6 +28344,9 @@
        </title> (New York, <date>1916</date>). Contributors include: Alfred J. Church, Margaret
        Oliphant and Mrs. E. Rundle Charles, Janet Tuckey, Dante G. Rossetti, W.H.D. Adams; Elizabeth
        Eggleston Seelye and Edward Eggleston, Mrs. O. F. Owen, John S. C. Abbott, S. Baring-Gould.
+      </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
      <bibl id="a528" default="NO">
@@ -29316,16 +29317,17 @@
         <item>Adah Isaacs Menken.</item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes">
-       <hi rend="bold">*Pop Chart</hi>
-      </note>
+     
       <image n="no410">
        <imgName>Jenny Lind</imgName>
        <imgDesc>From the picture by Eduard Magnus in the National Gallery, Berlin. Berlin
         Photographic Co.</imgDesc>
       </image>
       <note place="unspecified" anchored="yes"> Mayne: a translator from German; biographer of
-       Byron. </note>
+      Byron. </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
+      </note>
      </bibl>
      <bibl id="a558" default="NO">
       <ref targOrder="U">558.</ref>
@@ -30859,9 +30861,6 @@
       <note place="unspecified" anchored="yes"> Frontispiece of undated Edinburgh edition: Madame de
        Staël questioning Napoleon about the merits of women. <date>1870</date> London edition:
        frontis. Elizabeth Fry reading to the female convicts and sailors. </note>
-      <image n="no1392.Whomdoyouthinkthegreatestwoman,deadoralive?">
-       <imgDesc>"Whom do you think the greatest woman, dead or alive?"</imgDesc>
-      </image>
       <image n="no1393.JoanofArc">
        <imgName>Joan of Arc</imgName>
        <imgDesc>Joan of Arc</imgDesc>
@@ -34246,12 +34245,13 @@
         <item>Harriet Hosmer.</item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes">
-       <hi rend="bold">*Pop Chart</hi>
-      </note>
+      
       <note place="unspecified" anchored="yes"> Making “no claim to originality,” the volumes
        testify to “the power of woman for good or evil,” and to the fact that “intellect has no sex”
        (3). </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
+      </note>
      </bibl>
      <bibl id="a674" default="NO">
       <ref targOrder="U">674.</ref>
@@ -34282,10 +34282,11 @@
        Pamphlets 24 (<date>Feb. 1913</date>): 1-9, consisting of autobiographical reflections on
        Gaskell, Oliphant, the Brontës, George Eliot. Ritchie says the title <title>
         <hi rend="italics">Book of Sibyls</hi>
-       </title> was borrowed from an Elizabethan “collection of histories” (2). <hi rend="bold">*Pop
-        Chart</hi>
-      </note>
-     </bibl>
+       </title> was borrowed from an Elizabethan “collection of histories” (2). 
+       <note place="unspecified" anchored="yes">
+        <hi rend="bold">*Pop Chart</hi>
+       </note> 
+     </note></bibl>
      <bibl id="a675" default="NO">
       <ref targOrder="U">675.</ref>
       <idno>a675</idno>
@@ -34526,10 +34527,11 @@
         <item n="HANNAH_MORE">Hannah More</item>
        </list>
       </note>
+      
+      <note place="unspecified" anchored="yes"> Novelist and poet. Some generic chapters. </note>
       <note place="unspecified" anchored="yes">
        <hi rend="bold">*Pop Chart</hi>
       </note>
-      <note place="unspecified" anchored="yes"> Novelist and poet. Some generic chapters. </note>
      </bibl>
      <bibl id="a684" default="NO">
       <ref targOrder="U">684.</ref>
@@ -34917,13 +34919,14 @@
         <item>Maria-Theresa.</item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes">
-       <hi rend="bold">*Pop Chart</hi>
-      </note>
+     
       <note place="unspecified" anchored="yes"> Not to be associated with Compton MacKenzie's novel
        about lesbians, <title>
         <hi rend="italics">Extraordinary Women</hi>
        </title> (<date>1928</date>). </note>
+      <note place="unspecified" anchored="yes">
+       <hi rend="bold">*Pop Chart</hi>
+      </note>
      </bibl>
      <bibl id="a693" default="NO">
       <ref targOrder="U">693.</ref>
