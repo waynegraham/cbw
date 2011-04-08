@@ -14341,7 +14341,41 @@
      </bibl>
      <bibl id="a221A" default="NO">
       <ref targOrder="U">221A.</ref>
-      <author></author>
+      <author><name type="last">D'Auvergne,</name><name type="first">Edmund B.</name></author>
+      <title type="ref"><hi rend="italics">Adventuresses and Adventurous Ladies.</hi></title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Sears,</publisher>
+       <date>[1927].</date>
+      </imprint>
+      <note type="toc">
+       <list>
+        <item>Catalina de Erauso</item>
+        <item>Mary Carleton</item>
+        <item>Elizabeth Chudleigh</item>
+        <item>Princess Tarakanova</item>
+        <item>Theroigne de Mericourt</item>
+        <item>Emma, Lady Hamilton</item>
+        <item>Lola Montez</item>
+        <item>Therese Humbert</item>
+       </list>
+      </note>
+      <note type="chapter_titles">
+       <list>
+        <item>A Preliminary Discourse on Aventuresses</item>
+        <item>The Nun Ensign (Catalina de Erauso)</item>
+        <item>"The German Princess" (Mary Carleton)</item>
+        <item>The Countess-Duchess (Elizabeth Chudleigh)</item>
+        <item>"Elizabeth the Second"</item>
+        <item>The Fire-Hearted Demoiselle</item>
+        <item>"The Dear Emma" (Emma, Lady Hamilton)</item>
+        <item>"The Spanish Dancer" (Lola Montez)</item>
+        <item>La Grande Therese (Therese Humbert)</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">Frontispiece of Lola Montez "(After Joseph Stieler)" among sixteen illustrations
+      including portraits of men; two other portraits of Lola Montez.  D'Auvergne's preface notes that he had written a biography
+      of her, and has tried to update and confirm his information on her.</note>
      </bibl>
      <bibl id="a222" default="NO"><ref targOrder="U">222.</ref>
       <idno>a222</idno>
