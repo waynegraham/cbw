@@ -43487,6 +43487,42 @@
        including Methodist sermons, self-help; listed under Pocket Pulpit and Minister's Paperback
        library. </note>
      </bibl>
+     <bibl id="" default="NO">
+      <ref targOrder="U"></ref>
+      <idno></idno>
+      <author><name type="last">Clymer</name><name type="first">Eleanor</name></author>
+      <author><name type ="last ">Erlich</name><name type="first">Lillian</name></author>
+      <title type="ref">
+       <hi rend="italics"> Modern American Career Women</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Dodd, Mead and Company</publisher>
+       <date>1959</date>
+      </imprint>
+      <note type ="toc">
+       <list>
+        <item>Lillian Gilbreth</item>
+        <item>Virginia Crocheron Gildersleeve</item>
+        <item>Frances Perkins</item>
+        <item>Anne O'Hare McCormick</item>
+        <item>Georgia o'Keeffe</item>
+        <item>Malvina Hoffman</item>
+        <item>Katharine F. Lenroot</item>
+        <item>Dorothy Shaver</item>
+        <item>Margaret Chase Smith</item>
+        <item>Helen B. Taussig</item>
+        <item>Mary Honor Donlon</item>
+        <item>Helen Hayes</item>
+        <item>Margaret Mead</item>
+        <item>Clare Boothe Luce</item>
+        <item>Pauline Frederick</item>
+        <item>Agnes de Mille</item>
+        <item>Jacqueline Cochran</item>
+        <item>Babe Didrikson Zaharias</item>
+       </list>
+      </note>
+     </bibl>
      <bibl id="p023A" default="NO">
       <idno>p023A</idno>
       <author><name type="last">Clyne</name>, <name type="first">Patricia Edwards</name>.</author>
@@ -43623,6 +43659,43 @@
        <date>1949.</date>
       </imprint>
       <note place="unspecified" anchored="yes">Dissertation manuscript. </note>
+     </bibl>
+     <bibl id="p025B" default="NO">
+      <idno>p025B</idno>
+      <editor><name type="last">Dannett</name>, <name type="first">Sylvia G.L.</name></editor>
+      <title type="ref">
+       <hi rend="italics ">Noble women of the North</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York</pubPlace>
+       <publisher>Thomas Yoseloff</publisher>
+       <date>1959</date>
+      </imprint>
+      <note type= "unspecified">
+       <list>
+        <item>The Beginning of It All</item>
+        <item>The Call for Women</item>
+        <item>It is a Miracle That the Patients Survived</item>
+        <item>Closer to the Scenes of Battle</item>
+        <item>On to Richmond</item>
+        <item>The Fleet of Mercy</item>
+        <item>Hearts Were Heavy With Despair</item>
+        <item>Sufferings of War</item>
+        <item>A Sad Day for the Army of the Potomac</item>
+        <item>No End to All the Horror</item>
+        <item>We Cannot Hallow This Ground</item>
+        <item>Fairs Are the Rage</item>
+        <item>Heading for the Front</item>
+        <item>At Last Men Dare to Hope</item>
+        <item>The Darkest, Saddest Page of All</item>
+        <item>Fires Along the Potomac and James</item>
+        <item>The North Went Wild with Joy</item>
+        <item>Fell the Dark April Morning</item>
+        <item>Aftermath</item>
+        <item>New Freedom and New Horizons</item>
+       </list>
+      </note>
+      <note>Each chapter consists of short sections of first-hand accounts of the Civil War written by various women.</note>
      </bibl>
      <bibl id="p026" default="NO">
       <idno>p026</idno>
