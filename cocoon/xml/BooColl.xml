@@ -8033,6 +8033,36 @@
        <date>1938.</date>
       </imprint>
      </bibl>
+     <bibl id="a095A" default="NO">
+      <ref targOrder="U">95A</ref>
+      <idno>a095A</idno>
+      <author><name type="last">Bolitho</name><name type="first">William</name></author>
+      <title type="ref">
+       <hi rend="italics">Twelve Against the Gods: The Story of Adventure</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Simon and Schuster</publisher>
+       <date>1929</date>
+      </imprint>
+      <note type="toc">
+       <list>
+        <item>Alexander the Great</item>
+        <item>Casanova</item>
+        <item>Christopher Columbus</item>
+        <item>Mahomet</item>
+        <item>Lola Montez</item>
+        <item>Cagliostro (and Seraphina)</item>
+        <item>Charles XII of Sweden</item>
+        <item>Napoleon I</item>
+        <item>Lucius Sergius Catiline</item>
+        <item>Napoleon III</item>
+        <item>Isadora Duncan</item>
+        <item>Woodrow Wilson</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">NOT=male-female collective biography.</note>
+     </bibl>
      <bibl id="a096" default="NO">
       <ref targOrder="U">96.</ref>
       <idno>a096</idno>
@@ -19605,6 +19635,9 @@
        <publisher>Eclectic,</publisher>
        <date>1927.</date>
       </imprint>
+      <note place="unspecified">
+       Lists approximately 150 women from Illinois in alphabetical order, with one-to-two page biographies of each. The table of contents divides the women up by their hometown. A plurality of the women listed are from Chicago. The book lists each woman's address after her biography, often down to the house number. A sticker on the inside front cover denotes the book as "Property of The Chapter House Corporation of the Daughters of the American Revolution of the District of Columbia." An inscription in the front says "Written by Agnes Geneva Gilman and Gertrude Marcelle Gilman 1927" and "Presented by Mrs. Helen Orr Watson, Susan Riviere Hetzel Chapter."
+      </note>
      </bibl>
      <bibl id="a325" default="NO">
       <ref targOrder="U">325.</ref>
@@ -44794,6 +44827,39 @@
         <item>Tania</item>
        </list>
       </note>
+     </bibl>
+     <bibl id="p045A" default="NO">
+      <idno>p045A</idno>
+      <author><name type="last">Hodgson</name><name type="first ">Barbara</name></author>
+      <title type="ref">
+       <hi rend="italics">No Place for a Lady: Tales of Adventurous Women Travelers.</hi>
+      </title>
+     <imprint>
+      <pubPlace>Berkeley:</pubPlace>
+      <publisher>Ten Speed Press</publisher>
+      <date>2002</date>
+     </imprint>
+     <note place="unspecified" anchored="yes">Chapter list:
+      <list>
+       <item>Introduction</item>
+       <item>Diligences, Douuaniers and Baedeker's</item>
+       <item>Europe: On Tour with the Fair Sex</item>
+       <item>Russia: Realizing the Unrealizable</item>
+       <item>The Middle East: Desert Queens</item>
+       <item>Egypt: Leave Your Crinoline in Cairo</item>
+       <item>Africa: No Place for a Lady?</item>
+       <item>Arabia to Persia: A Desire for Danger</item>
+       <item>Lambs in Wolves' Clothing</item>
+       <item>India: Forgetting to Be Shocked</item>
+       <item>Oceania: The Round-the-Worlders Converge</item>
+       <item>Staying Alive</item>
+       <item>China, Japan and Tibet: Fiath and Folly</item>
+       <item>North America: Trollopizing a Continent</item>
+       <item>Central and South America: Not for Namby-Pambies</item>
+       <item>Going Home</item>
+      </list>
+       Expensive, glossy book whose chapters are organized by places. Important women travelers in each pla are mentioned in the appropriate chapters. There are images on nearly every page.
+     </note>
      </bibl>
      <bibl id="p046" default="NO">
       <idno>p046</idno>
