@@ -43487,9 +43487,9 @@
        including Methodist sermons, self-help; listed under Pocket Pulpit and Minister's Paperback
        library. </note>
      </bibl>
-     <bibl id="" default="NO">
+     <bibl id="p023A" default="NO">
       <ref targOrder="U"></ref>
-      <idno></idno>
+      <idno>p023A</idno>
       <author><name type="last">Clymer</name><name type="first">Eleanor</name></author>
       <author><name type ="last ">Erlich</name><name type="first">Lillian</name></author>
       <title type="ref">
@@ -43523,8 +43523,8 @@
        </list>
       </note>
      </bibl>
-     <bibl id="p023A" default="NO">
-      <idno>p023A</idno>
+     <bibl id="p023B" default="NO">
+      <idno>p023B</idno>
       <author><name type="last">Clyne</name>, <name type="first">Patricia Edwards</name>.</author>
       <title type="ref">
        <hi rend="italics">Patriots in Petticoats. </hi>
@@ -43537,8 +43537,8 @@
       <note place="unspecified" anchored="yes">Twenty brief biographies of women of the American
        Revolution; juvenile. </note>
      </bibl>
-     <bibl id="p023B" default="NO">
-      <idno>p023B</idno>
+     <bibl id="p023C" default="NO">
+      <idno>p023C</idno>
       <author><name type="last">Cohen</name>, <name type="first">Marcia</name>.</author>
       <title type="ref">
        <hi rend="italics">The Sisterhood: The True Story of the Women Who Changed the World.</hi>
@@ -43560,8 +43560,8 @@
       <note place="unspecified" anchored="yes">Biographies of American feminists. </note>
      </bibl>
 
-     <bibl id="p023C">
-      <idno>p023C</idno>
+     <bibl id="p023D">
+      <idno>p023D</idno>
       <author><name type="last">Collett</name>, <name type="first">Barry</name>.</author>
       <editor><name type="first">Betty S.</name><name type="last">Travitsky</name> and <name
         type="first">Anne Lake</name><name type="last">Prescott</name>, general editors.</editor>
@@ -43579,8 +43579,8 @@
        Collett.</note>
      </bibl>
 
-     <bibl id="p023D">
-      <idno>p023C</idno>
+     <bibl id="p023E">
+      <idno>p023E</idno>
       <author><name type="last">Colman</name>, <name type="first">Penny</name>.</author>
       <title type="ref">
        <hi rend="italics">Adventurous Women.</hi>
