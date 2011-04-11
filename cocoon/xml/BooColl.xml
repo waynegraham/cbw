@@ -8033,36 +8033,6 @@
        <date>1938.</date>
       </imprint>
      </bibl>
-     <bibl id="a095A" default="NO">
-      <ref targOrder="U">95A</ref>
-      <idno>a095A</idno>
-      <author><name type="last">Bolitho</name><name type="first">William</name></author>
-      <title type="ref">
-       <hi rend="italics">Twelve Against the Gods: The Story of Adventure</hi>
-      </title>
-      <imprint>
-       <pubPlace>New York:</pubPlace>
-       <publisher>Simon and Schuster</publisher>
-       <date>1929</date>
-      </imprint>
-      <note type="toc">
-       <list>
-        <item>Alexander the Great</item>
-        <item>Casanova</item>
-        <item>Christopher Columbus</item>
-        <item>Mahomet</item>
-        <item>Lola Montez</item>
-        <item>Cagliostro (and Seraphina)</item>
-        <item>Charles XII of Sweden</item>
-        <item>Napoleon I</item>
-        <item>Lucius Sergius Catiline</item>
-        <item>Napoleon III</item>
-        <item>Isadora Duncan</item>
-        <item>Woodrow Wilson</item>
-       </list>
-      </note>
-      <note place="unspecified" anchored="yes">NOT=male-female collective biography.</note>
-     </bibl>
      <bibl id="a096" default="NO">
       <ref targOrder="U">96.</ref>
       <idno>a096</idno>
@@ -14104,18 +14074,6 @@
        Epigraphs and excerpts from famous writers such as Ovid interrupt the prose, e.g. pp. 232-3.  An exception appears
        in discussing the famous women who "ruled Kings" in France; ch. vii, pp. 300-13, includes various named women. See <ref
         target="a188" targOrder="U">Cole</ref>.</note>
-      <note place="unspecified">Chapter list: 
-       <list>
-        <item>Chapter I: Types Considered: Beauty generally - Past and present types - Have women types of oold been excelled? - Types in novels - The study of types - Non-comprehension of types - Why no men types</item>
-        <item>Chapter II: The Prototypes in the Classics: The classics shelved - Siege of Troy - Venus - Juno - Minerva - The 'Iliad' - The 'Aeneid' - The Argonauts - The 'Odyssey' - From various poems"</item> 
-        <item>Chapter III: Types - Careers of Life: First to finish - School days - Coming out - Middle age - In society, in the home - A glance at the unions - Affinities - Spinsterhood - Conclusion</item>
-        <item>Chapter IV: Types - Manners and Feelings: Shopping - Abroad - Fitness - Facing danger - Religion - The Venus - The Juno - The Minerva - The Refusal - Home occupations - Conversation - Altering influences: Mental, Physical</item>
-        <item>Chapter V: Types 'En Abandon': The playground - Men met - The loud man - The manly man - The ladies' man - The old beau - The atypic and tact</item> 
-        <item>Chapter VI: 'Abandon' Caged: The sea voyage - Climate and scenery - Pairing off and courting - The Venus - The Juno - The Minerva - Conclusion - The atypic - Expression - Hints</item>
-        <item>Chapter VII: Types in Communities: Continental women generally - The Frenchwoman - The political state - The domestic state - Reserve - Grades of society - Jumping the fences</item>
-        <item>Chapter VIII: Types - 'Adrift' and 'Astray': Types 'adrift' - Self-dissolution - 'Lucrece' - 'Panthea' - 'Haidée'- Paulina - Types 'astray' - Platform ethics - Ignorance of types</item>
-       </list>
-      </note>
      </bibl>
      <bibl id="a216" default="NO">
       <ref targOrder="U">216.</ref>
@@ -14383,41 +14341,7 @@
      </bibl>
      <bibl id="a221A" default="NO">
       <ref targOrder="U">221A.</ref>
-      <author><name type="last">D'Auvergne,</name><name type="first">Edmund B.</name></author>
-      <title type="ref"><hi rend="italics">Adventuresses and Adventurous Ladies.</hi></title>
-      <imprint>
-       <pubPlace>New York:</pubPlace>
-       <publisher>Sears,</publisher>
-       <date>[1927].</date>
-      </imprint>
-      <note type="toc">
-       <list>
-        <item>Catalina de Erauso</item>
-        <item>Mary Carleton</item>
-        <item>Elizabeth Chudleigh</item>
-        <item>Princess Tarakanova</item>
-        <item>Theroigne de Mericourt</item>
-        <item>Emma, Lady Hamilton</item>
-        <item>Lola Montez</item>
-        <item>Therese Humbert</item>
-       </list>
-      </note>
-      <note type="chapter_titles">
-       <list>
-        <item>A Preliminary Discourse on Aventuresses</item>
-        <item>The Nun Ensign (Catalina de Erauso)</item>
-        <item>"The German Princess" (Mary Carleton)</item>
-        <item>The Countess-Duchess (Elizabeth Chudleigh)</item>
-        <item>"Elizabeth the Second"</item>
-        <item>The Fire-Hearted Demoiselle</item>
-        <item>"The Dear Emma" (Emma, Lady Hamilton)</item>
-        <item>"The Spanish Dancer" (Lola Montez)</item>
-        <item>La Grande Therese (Therese Humbert)</item>
-       </list>
-      </note>
-      <note place="unspecified" anchored="yes">Frontispiece of Lola Montez "(After Joseph Stieler)" among sixteen illustrations
-      including portraits of men; two other portraits of Lola Montez.  D'Auvergne's preface notes that he had written a biography
-      of her, and has tried to update and confirm his information on her.</note>
+      <author></author>
      </bibl>
      <bibl id="a222" default="NO"><ref targOrder="U">222.</ref>
       <idno>a222</idno>
@@ -14930,6 +14854,15 @@
        <publisher>Dominion of Canada News,</publisher>
        <date>1916.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">Dedication "In Honour of Their Great Devotion and 
+       Self-sacrifice." A large colllection profiling the activities of 
+       various women's leagues during wartime (The St. John Ambulance Brigade, the Canadian Red Cross Society, 
+       Scottish Women's Hospital for Foreign Service, The Women's Volunteer Reserve, Work of the Women's Police 
+       Service, etc). Short paragraphs on Lady Fremantle, Lady McBride, Mrs. A.M. De Beck, Adeline Duchess of Bedford, and 
+       the Duchess of Westminster. Larger profiles on Edith Cavell, Lady French, Mrs. St. Clair Stobard, and Lady Jellicoe. 
+       Some essays written by women like "The Blinded Officers, Their Care and Treatment," "Wokr of the Women of the Stage
+       in War Time," "Women's Freedom League Settlement," "Is Motoring really a New Profession for Women?" and "The Girls' Life Brigade."
+      </note>
      </bibl>
      <bibl id="a233" default="NO">
       <ref targOrder="U">233.</ref>
@@ -19571,6 +19504,40 @@
        <publisher>McQuiddy,</publisher>
        <date>1902.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Mrs. Benton McMillin</item>
+        <item>Mrs. Julia Peete Bate</item>
+        <item>Mrs. John C. Brown</item>
+        <item>Mrs. Benjamin F. Wilson</item>
+        <item>Mrs. Laura Lavender Baxter</item>
+        <item>Mrs. Horace Harmon Lurton</item>
+        <item>Mrs. Mary Hunter Pierce</item>
+        <item>Mrs. Emma Etheridge Moran</item>
+        <item>Mrs Leslie Warner</item>
+        <item>Mrs. Robert M. Lea</item>
+        <item>Mrs. Judith Winston Pilcher</item>
+        <item>Mrs. Florence Kirkman Drouillard</item>
+        <item>Mrs. Emma Louise Ashford</item>
+        <item>Miss Louise Gerding</item>
+        <item>Mrs. Charles A. Garratt</item>
+        <item>Mrs. Julia E. Diboll Steen</item>
+        <item>Mrs. Lawrence Davis Tyson</item>
+        <item>Mrs. John Yates Johnston</item>
+        <item>Mrs. Mary Irby Dupre</item>
+        <item>Mrs. Edmund B. Teachout</item>
+        <item>Mrs. William Keeling Phillips</item>
+        <item>Mrs. George W. Martin</item>
+        <item>Mrs. Granville P. Rose</item>
+        <item>Miss Mary Boyce Temple</item>
+        <item>Mrs. Jennie Craighead Buntin</item>
+        <item>Mrs. Mary Coldwell Evans</item>
+        <item>Mrs. Martha Dillon Lester</item>
+        <item>Mrs. Sarah Ewing Gaut</item>
+        <item>Mrs. Mary Hannah Johnson</item>
+       
+       </list>
+      </note>
      </bibl>
      <bibl id="a322" default="NO">
       <ref targOrder="U">322.</ref>
@@ -19635,9 +19602,6 @@
        <publisher>Eclectic,</publisher>
        <date>1927.</date>
       </imprint>
-      <note place="unspecified">
-       Lists approximately 150 women from Illinois in alphabetical order, with one-to-two page biographies of each. The table of contents divides the women up by their hometown. A plurality of the women listed are from Chicago. The book lists each woman's address after her biography, often down to the house number. A sticker on the inside front cover denotes the book as "Property of The Chapter House Corporation of the Daughters of the American Revolution of the District of Columbia." An inscription in the front says "Written by Agnes Geneva Gilman and Gertrude Marcelle Gilman 1927" and "Presented by Mrs. Helen Orr Watson, Susan Riviere Hetzel Chapter."
-      </note>
      </bibl>
      <bibl id="a325" default="NO">
       <ref targOrder="U">325.</ref>
@@ -19652,7 +19616,6 @@
        <publisher>Foster &amp; Parkes,</publisher>
        <date>1923.</date>
       </imprint>
-      <note place="unspecified">Large, glossy, expensively produced book. Many individual photographs of women mentioned, as well as many group photographs.  Organized by groups women were members of, such as "War Work Council, Southern Presbyterian Church" and "Department of Woman's Work, Nashville Chapter, A.R.C." Lists thousands upon thousands of women.</note>
      </bibl>
      <bibl id="a326" default="NO">
       <ref targOrder="U">326.</ref>
@@ -43521,43 +43484,7 @@
        library. </note>
      </bibl>
      <bibl id="p023A" default="NO">
-      <ref targOrder="U"></ref>
       <idno>p023A</idno>
-      <author><name type="last">Clymer</name><name type="first">Eleanor</name></author>
-      <author><name type ="last ">Erlich</name><name type="first">Lillian</name></author>
-      <title type="ref">
-       <hi rend="italics"> Modern American Career Women</hi>
-      </title>
-      <imprint>
-       <pubPlace>New York:</pubPlace>
-       <publisher>Dodd, Mead and Company</publisher>
-       <date>1959</date>
-      </imprint>
-      <note type ="toc">
-       <list>
-        <item>Lillian Gilbreth</item>
-        <item>Virginia Crocheron Gildersleeve</item>
-        <item>Frances Perkins</item>
-        <item>Anne O'Hare McCormick</item>
-        <item>Georgia o'Keeffe</item>
-        <item>Malvina Hoffman</item>
-        <item>Katharine F. Lenroot</item>
-        <item>Dorothy Shaver</item>
-        <item>Margaret Chase Smith</item>
-        <item>Helen B. Taussig</item>
-        <item>Mary Honor Donlon</item>
-        <item>Helen Hayes</item>
-        <item>Margaret Mead</item>
-        <item>Clare Boothe Luce</item>
-        <item>Pauline Frederick</item>
-        <item>Agnes de Mille</item>
-        <item>Jacqueline Cochran</item>
-        <item>Babe Didrikson Zaharias</item>
-       </list>
-      </note>
-     </bibl>
-     <bibl id="p023B" default="NO">
-      <idno>p023B</idno>
       <author><name type="last">Clyne</name>, <name type="first">Patricia Edwards</name>.</author>
       <title type="ref">
        <hi rend="italics">Patriots in Petticoats. </hi>
@@ -43570,8 +43497,8 @@
       <note place="unspecified" anchored="yes">Twenty brief biographies of women of the American
        Revolution; juvenile. </note>
      </bibl>
-     <bibl id="p023C" default="NO">
-      <idno>p023C</idno>
+     <bibl id="p023B" default="NO">
+      <idno>p023B</idno>
       <author><name type="last">Cohen</name>, <name type="first">Marcia</name>.</author>
       <title type="ref">
        <hi rend="italics">The Sisterhood: The True Story of the Women Who Changed the World.</hi>
@@ -43593,8 +43520,8 @@
       <note place="unspecified" anchored="yes">Biographies of American feminists. </note>
      </bibl>
 
-     <bibl id="p023D">
-      <idno>p023D</idno>
+     <bibl id="p023C">
+      <idno>p023C</idno>
       <author><name type="last">Collett</name>, <name type="first">Barry</name>.</author>
       <editor><name type="first">Betty S.</name><name type="last">Travitsky</name> and <name
         type="first">Anne Lake</name><name type="last">Prescott</name>, general editors.</editor>
@@ -43612,8 +43539,8 @@
        Collett.</note>
      </bibl>
 
-     <bibl id="p023E">
-      <idno>p023E</idno>
+     <bibl id="p023D">
+      <idno>p023C</idno>
       <author><name type="last">Colman</name>, <name type="first">Penny</name>.</author>
       <title type="ref">
        <hi rend="italics">Adventurous Women.</hi>
@@ -43692,43 +43619,6 @@
        <date>1949.</date>
       </imprint>
       <note place="unspecified" anchored="yes">Dissertation manuscript. </note>
-     </bibl>
-     <bibl id="p025B" default="NO">
-      <idno>p025B</idno>
-      <editor><name type="last">Dannett</name>, <name type="first">Sylvia G.L.</name></editor>
-      <title type="ref">
-       <hi rend="italics ">Noble women of the North</hi>
-      </title>
-      <imprint>
-       <pubPlace>New York</pubPlace>
-       <publisher>Thomas Yoseloff</publisher>
-       <date>1959</date>
-      </imprint>
-      <note type= "unspecified">
-       <list>
-        <item>The Beginning of It All</item>
-        <item>The Call for Women</item>
-        <item>It is a Miracle That the Patients Survived</item>
-        <item>Closer to the Scenes of Battle</item>
-        <item>On to Richmond</item>
-        <item>The Fleet of Mercy</item>
-        <item>Hearts Were Heavy With Despair</item>
-        <item>Sufferings of War</item>
-        <item>A Sad Day for the Army of the Potomac</item>
-        <item>No End to All the Horror</item>
-        <item>We Cannot Hallow This Ground</item>
-        <item>Fairs Are the Rage</item>
-        <item>Heading for the Front</item>
-        <item>At Last Men Dare to Hope</item>
-        <item>The Darkest, Saddest Page of All</item>
-        <item>Fires Along the Potomac and James</item>
-        <item>The North Went Wild with Joy</item>
-        <item>Fell the Dark April Morning</item>
-        <item>Aftermath</item>
-        <item>New Freedom and New Horizons</item>
-       </list>
-      </note>
-      <note>Each chapter consists of short sections of first-hand accounts of the Civil War written by various women.</note>
      </bibl>
      <bibl id="p026" default="NO">
       <idno>p026</idno>
@@ -44496,39 +44386,6 @@
        </list>
       </note>
      </bibl>
-     <bibl id="p038B" default="NO">
-      <idno>p038B</idno>
-      <editor><name type="last">Gullick</name><name type="first">John</name></editor>
-      <title type="ref">
-       <hi rend="italics">Adventurous Women in South-East Asia</hi>
-      </title>
-      <imprint>
-       <pubPlace>New York:</pubPlace>
-       <publisher>Oxford University Press</publisher>
-       <date>1995</date>
-      </imprint>
-      <note type="toc">
-       <list>
-        <item>Sophia Raffles</item>
-        <item>Harriette McDougall</item>
-        <item>Anna Leonowens</item>
-        <item>Emily Innes</item>
-        <item>Isabella Bird</item>
-        <item>Anna Forbes</item>
-       </list>
-      </note>
-      <note place="unspecified">Chapter titles: 
-       <list> 
-        <item>Sophia Raffles: Hardship and Travel in Sumatra</item> 
-        <item>Harriette McDougall: First Woman Missionary to Sarawak</item>
-        <item>Anna Leonowens: 'School Mastress' at the Court of Siam</item> 
-        <item>Emily Innes: Keeping Up One's Standards in Malaya</item>
-        <item>Isabella Bird: 'Escape from Civilisation' in Malaya"</item>
-        <item>Anna Forbes: A Naturalist's Companion in the Far East</item>
-        </list>
-      </note>
-      <note place="unspecified">Illustrated with photographs and images of relevant artworks.</note>
-     </bibl>
      <bibl id="p039" default="NO">
       <idno>p039</idno>
       <author><name type="last">Guy</name>, <name type="first">H.A.</name></author>
@@ -44827,39 +44684,6 @@
         <item>Tania</item>
        </list>
       </note>
-     </bibl>
-     <bibl id="p045A" default="NO">
-      <idno>p045A</idno>
-      <author><name type="last">Hodgson</name><name type="first ">Barbara</name></author>
-      <title type="ref">
-       <hi rend="italics">No Place for a Lady: Tales of Adventurous Women Travelers.</hi>
-      </title>
-     <imprint>
-      <pubPlace>Berkeley:</pubPlace>
-      <publisher>Ten Speed Press</publisher>
-      <date>2002</date>
-     </imprint>
-     <note place="unspecified" anchored="yes">Chapter list:
-      <list>
-       <item>Introduction</item>
-       <item>Diligences, Douuaniers and Baedeker's</item>
-       <item>Europe: On Tour with the Fair Sex</item>
-       <item>Russia: Realizing the Unrealizable</item>
-       <item>The Middle East: Desert Queens</item>
-       <item>Egypt: Leave Your Crinoline in Cairo</item>
-       <item>Africa: No Place for a Lady?</item>
-       <item>Arabia to Persia: A Desire for Danger</item>
-       <item>Lambs in Wolves' Clothing</item>
-       <item>India: Forgetting to Be Shocked</item>
-       <item>Oceania: The Round-the-Worlders Converge</item>
-       <item>Staying Alive</item>
-       <item>China, Japan and Tibet: Fiath and Folly</item>
-       <item>North America: Trollopizing a Continent</item>
-       <item>Central and South America: Not for Namby-Pambies</item>
-       <item>Going Home</item>
-      </list>
-       Expensive, glossy book whose chapters are organized by places. Important women travelers in each pla are mentioned in the appropriate chapters. There are images on nearly every page.
-     </note>
      </bibl>
      <bibl id="p046" default="NO">
       <idno>p046</idno>
