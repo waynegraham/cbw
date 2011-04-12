@@ -11832,7 +11832,7 @@
        <publisher>Tinsley,</publisher>
        <date>1879.</date>
       </imprint>
-      <note type="TOC">
+      <note type="toc">
        <list>
         <item>Semiramis</item>
         <item>Harpalyce</item>
@@ -12492,9 +12492,9 @@
        <imgName>Mary Evelyn</imgName>
        <imgDesc>Mary Evelyn</imgDesc>
       </image>
-      <image n="no1039.QueenMaryll">
-       <imgName>Queen Maryll</imgName>
-       <imgDesc>Queen Maryll</imgDesc>
+      <image n="no1039.QueenMaryII">
+       <imgName>Queen Mary II</imgName>
+       <imgDesc>Queen Mary II</imgDesc>
       </image>
      </bibl>
      <bibl id="a184" default="NO">
@@ -18098,10 +18098,10 @@
         <item>Lady Pakington</item>
         <item>Anne Countess of Winchelsea</item>
        </list>
+       </note>
        <note place="unspecified" anchored="yes">
         <hi rend="bold">*Pop Chart</hi>
        </note>
-      </note>
       <image n="no485.CharlotteCorday">
        <imgName>Charlotte Corday</imgName>
       </image>
@@ -20783,34 +20783,34 @@
         <item>Miss Anne H. Phillips</item>
        </list>
       </note>
-      <image n="1549.J.OakesSmith">
+      <image n="no1549.J.OakesSmith">
        <imgName>J. Oakes Smith</imgName>
       </image>
-      <image n="1550.FrancesS.Bogood">
+      <image n="no1550.FrancesS.Bogood">
        <imgName>Frances S. Bogood</imgName>
       </image>
-      <image n="1551.LydiaH.Sigourney">
+      <image n="no1551.LydiaH.Sigourney">
        <imgName>Lydia H. Sigourney</imgName>
       </image>
-      <image n="1552.EmmaC.Embury">
+      <image n="no1552.EmmaC.Embury">
        <imgName>Emma C. Embury</imgName>
       </image>
-      <image n="1553.ElizabethF.Ellet">
+      <image n="no1553.ElizabethF.Ellet">
        <imgName>Elizabeth F. Ellet</imgName>
       </image>
-      <image n="1554.SarahJ.Hale">
+      <image n="no1554.SarahJ.Hale">
        <imgName>Sarah J. Hale</imgName>
       </image>
-      <image n="1555.AmeliaB.Welby">
+      <image n="no1555.AmeliaB.Welby">
        <imgName>Amelia B. Welby</imgName>
       </image>
-      <image n="1556.AnneC.Lynch">
+      <image n="no1556.AnneC.Lynch">
        <imgName>Anne C. Lynch</imgName>
       </image>
-      <image n="1557.ElizabethC.Kinney">
+      <image n="no1557.ElizabethC.Kinney">
        <imgName>Elizabeth C. Kinney</imgName>
       </image>
-      <image n="1558.SarahJ.Clarke">
+      <image n="no1558.SarahJ.Clarke">
        <imgName>Sarah J. Clarke</imgName>
       </image>
      </bibl>
@@ -31081,7 +31081,7 @@
       <image n="no1398.Mrs.GeorgeA.Drummond">
        <imgName>Mrs. George A. Drummond</imgName>
        <imgDesc>Mrs. George A. Drummond</imgDesc>
-      </image>/image> </bibl>
+      </image> </bibl>
      <bibl id="a595" default="NO">
       <ref targOrder="U">595.</ref>
       <idno>a595</idno>
