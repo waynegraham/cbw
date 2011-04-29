@@ -1,15 +1,18 @@
 #! /bin/bash
 CORE='womensbios'
+OUTPUT='./add_docs.xml'
 
 echo Generating index...this will take some time
 echo Updating add_doc
 
-java -jar saxon/saxon9he.jar -xi:on -s ../../cocoon/xml/BooColl.xml -xsl:solr_add_docs.xsl > ./add_BooColl2.xml 
+java -jar saxon/saxon9he.jar -xi:on -s ../../cocoon/xml/BooColl.xml -xsl:solr_add_docs.xsl > $OUTPUT
 
 URL='http://localhost:8080/solr/womensbios'
 
-echo Posting files to index...
+echo Posting $OUTPUT to solr server at $URL...
+curl $URL --data-binary $OUTPUT -H 'Content-type:text/xml; charset=utf-8' 
 
+echo Commiting the documents...
 curl $URL --data-binary '<commit/>' -H 'Content-type:text/xml; charset=utf-8'
 echo
 
