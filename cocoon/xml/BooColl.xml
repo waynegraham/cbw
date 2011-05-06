@@ -9,7 +9,6 @@
 
 <TEI.2 id="BooColl">
  <!-- comment here -->
- <!-- comment again -->
  <teiHeader type="aacr2" status="new">
   <fileDesc>
    <titleStmt>
@@ -14075,6 +14074,18 @@
        Epigraphs and excerpts from famous writers such as Ovid interrupt the prose, e.g. pp. 232-3.  An exception appears
        in discussing the famous women who "ruled Kings" in France; ch. vii, pp. 300-13, includes various named women. See <ref
         target="a188" targOrder="U">Cole</ref>.</note>
+      <note place="unspecified">Chapter list: 
+       <list>
+        <item>Chapter I: Types Considered: Beauty generally - Past and present types - Have women types of oold been excelled? - Types in novels - The study of types - Non-comprehension of types - Why no men types</item>
+        <item>Chapter II: The Prototypes in the Classics: The classics shelved - Siege of Troy - Venus - Juno - Minerva - The 'Iliad' - The 'Aeneid' - The Argonauts - The 'Odyssey' - From various poems"</item> 
+        <item>Chapter III: Types - Careers of Life: First to finish - School days - Coming out - Middle age - In society, in the home - A glance at the unions - Affinities - Spinsterhood - Conclusion</item>
+        <item>Chapter IV: Types - Manners and Feelings: Shopping - Abroad - Fitness - Facing danger - Religion - The Venus - The Juno - The Minerva - The Refusal - Home occupations - Conversation - Altering influences: Mental, Physical</item>
+        <item>Chapter V: Types 'En Abandon': The playground - Men met - The loud man - The manly man - The ladies' man - The old beau - The atypic and tact</item> 
+        <item>Chapter VI: 'Abandon' Caged: The sea voyage - Climate and scenery - Pairing off and courting - The Venus - The Juno - The Minerva - Conclusion - The atypic - Expression - Hints</item>
+        <item>Chapter VII: Types in Communities: Continental women generally - The Frenchwoman - The political state - The domestic state - Reserve - Grades of society - Jumping the fences</item>
+        <item>Chapter VIII: Types - 'Adrift' and 'Astray': Types 'adrift' - Self-dissolution - 'Lucrece' - 'Panthea' - 'Haidée'- Paulina - Types 'astray' - Platform ethics - Ignorance of types</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a216" default="NO">
       <ref targOrder="U">216.</ref>
@@ -19627,7 +19638,7 @@
       <ref targOrder="U">324.</ref>
       <idno>a324</idno>
       <author><name type="last">Gilman</name>, <name type="first">Agness Geneva</name>, <name
-        type="first">Gertrude Marcelle</name>
+       type="first">Gertrude Marcelle</name>
        <name type="last">Gilman</name>
       </author>
       <title type="ref">
@@ -19638,21 +19649,25 @@
        <publisher>Eclectic,</publisher>
        <date>1927.</date>
       </imprint>
-     </bibl>
-     <bibl id="a325" default="NO">
-      <ref targOrder="U">325.</ref>
-      <idno>a325</idno>
-      <author><name type="last">Gilmore</name>, <name type="first">Rose Long</name>.</author>
-      <title type="ref">
-       <hi rend="italics">Davidson County Women in the World War, <date>1914-1919</date>.</hi>
-      </title>
-      <imprint>
-       <pubPlace>Nashville:</pubPlace>
-       <publisher>Advisory Council;</publisher>
-       <publisher>Foster &amp; Parkes,</publisher>
-       <date>1923.</date>
-      </imprint>
-     </bibl>
+      <note place="unspecified">
+       Lists approximately 150 women from Illinois in alphabetical order, with one-to-two page biographies of each. The table of contents divides the women up by their hometown. A plurality of the women listed are from Chicago. The book lists each woman's address after her biography, often down to the house number. A sticker on the inside front cover denotes the book as "Property of The Chapter House Corporation of the Daughters of the American Revolution of the District of Columbia." An inscription in the front says "Written by Agnes Geneva Gilman and Gertrude Marcelle Gilman 1927" and "Presented by Mrs. Helen Orr Watson, Susan Riviere Hetzel Chapter."
+      </note>
+      </bibl>
+      <bibl id="a325" default="NO">
+       <ref targOrder="U">325.</ref>
+       <idno>a325</idno>
+       <author><name type="last">Gilmore</name>, <name type="first">Rose Long</name>.</author>
+       <title type="ref">
+        <hi rend="italics">Davidson County Women in the World War, <date>1914-1919</date>.</hi>
+       </title>
+       <imprint>
+        <pubPlace>Nashville:</pubPlace>
+        <publisher>Advisory Council;</publisher>
+        <publisher>Foster &amp; Parkes,</publisher>
+        <date>1923.</date>
+       </imprint>
+       <note place="unspecified">Large, glossy, expensively produced book. Many individual photographs of women mentioned, as well as many group photographs.  Organized by groups women were members of, such as "War Work Council, Southern Presbyterian Church" and "Department of Woman's Work, Nashville Chapter, A.R.C." Lists thousands upon thousands of women.</note>
+      </bibl>
      <bibl id="a326" default="NO">
       <ref targOrder="U">326.</ref>
       <idno>a326</idno>
@@ -43576,7 +43591,43 @@
        library. </note>
      </bibl>
      <bibl id="p023A" default="NO">
+      <ref targOrder="U"></ref>
       <idno>p023A</idno>
+      <author><name type="last">Clymer</name><name type="first">Eleanor</name></author>
+      <author><name type ="last ">Erlich</name><name type="first">Lillian</name></author>
+      <title type="ref">
+       <hi rend="italics"> Modern American Career Women</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Dodd, Mead and Company</publisher>
+       <date>1959</date>
+      </imprint>
+      <note type ="toc">
+       <list>
+        <item>Lillian Gilbreth</item>
+        <item>Virginia Crocheron Gildersleeve</item>
+        <item>Frances Perkins</item>
+        <item>Anne O'Hare McCormick</item>
+        <item>Georgia o'Keeffe</item>
+        <item>Malvina Hoffman</item>
+        <item>Katharine F. Lenroot</item>
+        <item>Dorothy Shaver</item>
+        <item>Margaret Chase Smith</item>
+        <item>Helen B. Taussig</item>
+        <item>Mary Honor Donlon</item>
+        <item>Helen Hayes</item>
+        <item>Margaret Mead</item>
+        <item>Clare Boothe Luce</item>
+        <item>Pauline Frederick</item>
+        <item>Agnes de Mille</item>
+        <item>Jacqueline Cochran</item>
+        <item>Babe Didrikson Zaharias</item>
+       </list>
+      </note>
+     </bibl>
+     <bibl id="p023B" default="NO">
+      <idno>p023B</idno>
       <author><name type="last">Clyne</name>, <name type="first">Patricia Edwards</name>.</author>
       <title type="ref">
        <hi rend="italics">Patriots in Petticoats. </hi>
@@ -43589,8 +43640,8 @@
       <note place="unspecified" anchored="yes">Twenty brief biographies of women of the American
        Revolution; juvenile. </note>
      </bibl>
-     <bibl id="p023B" default="NO">
-      <idno>p023B</idno>
+     <bibl id="p023C" default="NO">
+      <idno>p023C</idno>
       <author><name type="last">Cohen</name>, <name type="first">Marcia</name>.</author>
       <title type="ref">
        <hi rend="italics">The Sisterhood: The True Story of the Women Who Changed the World.</hi>
@@ -43612,8 +43663,8 @@
       <note place="unspecified" anchored="yes">Biographies of American feminists. </note>
      </bibl>
 
-     <bibl id="p023C">
-      <idno>p023C</idno>
+     <bibl id="p023D">
+      <idno>p023D</idno>
       <author><name type="last">Collett</name>, <name type="first">Barry</name>.</author>
       <editor><name type="first">Betty S.</name><name type="last">Travitsky</name> and <name
         type="first">Anne Lake</name><name type="last">Prescott</name>, general editors.</editor>
@@ -43631,8 +43682,8 @@
        Collett.</note>
      </bibl>
 
-     <bibl id="p023D">
-      <idno>p023C</idno>
+     <bibl id="p023E">
+      <idno>p023E</idno>
       <author><name type="last">Colman</name>, <name type="first">Penny</name>.</author>
       <title type="ref">
        <hi rend="italics">Adventurous Women.</hi>
@@ -43711,6 +43762,43 @@
        <date>1949.</date>
       </imprint>
       <note place="unspecified" anchored="yes">Dissertation manuscript. </note>
+     </bibl>
+     <bibl id="p025B" default="NO">
+      <idno>p025B</idno>
+      <editor><name type="last">Dannett</name>, <name type="first">Sylvia G.L.</name></editor>
+      <title type="ref">
+       <hi rend="italics ">Noble women of the North</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York</pubPlace>
+       <publisher>Thomas Yoseloff</publisher>
+       <date>1959</date>
+      </imprint>
+      <note type= "unspecified">
+       <list>
+        <item>The Beginning of It All</item>
+        <item>The Call for Women</item>
+        <item>It is a Miracle That the Patients Survived</item>
+        <item>Closer to the Scenes of Battle</item>
+        <item>On to Richmond</item>
+        <item>The Fleet of Mercy</item>
+        <item>Hearts Were Heavy With Despair</item>
+        <item>Sufferings of War</item>
+        <item>A Sad Day for the Army of the Potomac</item>
+        <item>No End to All the Horror</item>
+        <item>We Cannot Hallow This Ground</item>
+        <item>Fairs Are the Rage</item>
+        <item>Heading for the Front</item>
+        <item>At Last Men Dare to Hope</item>
+        <item>The Darkest, Saddest Page of All</item>
+        <item>Fires Along the Potomac and James</item>
+        <item>The North Went Wild with Joy</item>
+        <item>Fell the Dark April Morning</item>
+        <item>Aftermath</item>
+        <item>New Freedom and New Horizons</item>
+       </list>
+      </note>
+      <note>Each chapter consists of short sections of first-hand accounts of the Civil War written by various women.</note>
      </bibl>
      <bibl id="p026" default="NO">
       <idno>p026</idno>
@@ -44478,6 +44566,39 @@
        </list>
       </note>
      </bibl>
+     <bibl id="p038B" default="NO">
+      <idno>p038B</idno>
+      <editor><name type="last">Gullick</name><name type="first">John</name></editor>
+      <title type="ref">
+       <hi rend="italics">Adventurous Women in South-East Asia</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Oxford University Press</publisher>
+       <date>1995</date>
+      </imprint>
+      <note type="toc">
+       <list>
+        <item>Sophia Raffles</item>
+        <item>Harriette McDougall</item>
+        <item>Anna Leonowens</item>
+        <item>Emily Innes</item>
+        <item>Isabella Bird</item>
+        <item>Anna Forbes</item>
+       </list>
+      </note>
+      <note place="unspecified">Chapter titles: 
+       <list> 
+        <item>Sophia Raffles: Hardship and Travel in Sumatra</item> 
+        <item>Harriette McDougall: First Woman Missionary to Sarawak</item>
+        <item>Anna Leonowens: 'School Mastress' at the Court of Siam</item> 
+        <item>Emily Innes: Keeping Up One's Standards in Malaya</item>
+        <item>Isabella Bird: 'Escape from Civilisation' in Malaya"</item>
+        <item>Anna Forbes: A Naturalist's Companion in the Far East</item>
+       </list>
+      </note>
+      <note place="unspecified">Illustrated with photographs and images of relevant artworks.</note>
+     </bibl>
      <bibl id="p039" default="NO">
       <idno>p039</idno>
       <author><name type="last">Guy</name>, <name type="first">H.A.</name></author>
@@ -44775,6 +44896,39 @@
         <item>Eva Perón</item>
         <item>Tania</item>
        </list>
+      </note>
+     </bibl>
+     <bibl id="p045A" default="NO">
+      <idno>p045A</idno>
+      <author><name type="last">Hodgson</name><name type="first ">Barbara</name></author>
+      <title type="ref">
+       <hi rend="italics">No Place for a Lady: Tales of Adventurous Women Travelers.</hi>
+      </title>
+      <imprint>
+       <pubPlace>Berkeley:</pubPlace>
+       <publisher>Ten Speed Press</publisher>
+       <date>2002</date>
+      </imprint>
+      <note place="unspecified" anchored="yes">Chapter list:
+       <list>
+        <item>Introduction</item>
+        <item>Diligences, Douuaniers and Baedeker's</item>
+        <item>Europe: On Tour with the Fair Sex</item>
+        <item>Russia: Realizing the Unrealizable</item>
+        <item>The Middle East: Desert Queens</item>
+        <item>Egypt: Leave Your Crinoline in Cairo</item>
+        <item>Africa: No Place for a Lady?</item>
+        <item>Arabia to Persia: A Desire for Danger</item>
+        <item>Lambs in Wolves' Clothing</item>
+        <item>India: Forgetting to Be Shocked</item>
+        <item>Oceania: The Round-the-Worlders Converge</item>
+        <item>Staying Alive</item>
+        <item>China, Japan and Tibet: Fiath and Folly</item>
+        <item>North America: Trollopizing a Continent</item>
+        <item>Central and South America: Not for Namby-Pambies</item>
+        <item>Going Home</item>
+       </list>
+       Expensive, glossy book whose chapters are organized by places. Important women travelers in each pla are mentioned in the appropriate chapters. There are images on nearly every page.
       </note>
      </bibl>
      <bibl id="p046" default="NO">
@@ -46603,6 +46757,36 @@
        <date>1941.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> </note>
+     </bibl>
+     <bibl id="a095A" default="NO">
+      <ref targOrder="U">95A</ref>
+      <idno>a095A</idno>
+      <author><name type="last">Bolitho</name><name type="first">William</name></author>
+      <title type="ref">
+       <hi rend="italics">Twelve Against the Gods: The Story of Adventure</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Simon and Schuster</publisher>
+       <date>1929</date>
+      </imprint>
+      <note type="toc">
+       <list>
+        <item>Alexander the Great</item>
+        <item>Casanova</item>
+        <item>Christopher Columbus</item>
+        <item>Mahomet</item>
+        <item>Lola Montez</item>
+        <item>Cagliostro (and Seraphina)</item>
+        <item>Charles XII of Sweden</item>
+        <item>Napoleon I</item>
+        <item>Lucius Sergius Catiline</item>
+        <item>Napoleon III</item>
+        <item>Isadora Duncan</item>
+        <item>Woodrow Wilson</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">NOT=male-female collective biography.</note>
      </bibl>
      <bibl id="p096" default="NO">
       <idno>p096</idno>
