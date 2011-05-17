@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen SCHSchema="../IATH/xml/schema/BESS.rng"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+<BESS>
+    <textAnalyzed>
+        <collectionID>a302A</collectionID>
+        <biographyID>06</biographyID>
+        <URI>a302A.b06.bess.kjl.xml</URI>
+        <author>Mumford, Gertrude Leslie</author>
+        <personaName>Sister Dora</personaName>
+    </textAnalyzed>
+    <analysis>
+        <personaType>Nursing Reform</personaType>
+        <stageOfLife>
+            <textUnitReference>1</textUnitReference>
+            <name>after</name>
+        </stageOfLife>
+        
+        <stageOfLife>
+            <textUnitRangeReference>
+                <start>2</start>
+                <end>8</end>
+            </textUnitRangeReference>
+            
+            <name>beginning</name>
+        </stageOfLife>
+        <stageOfLife>
+            <textUnitRangeReference>
+                <start>9</start>
+                <end></end>
+            </textUnitRangeReference>
+            
+            <name>middle</name>
+        </stageOfLife>
+        <stageOfLife>
+            <textUnitRangeReference>
+                <start></start>
+                <end></end>
+            </textUnitRangeReference>
+            
+            <name>culmination</name>
+        </stageOfLife>
+        <stageOfLife>
+            <textUnitRangeReference>
+                <start></start>
+                <end></end>
+            </textUnitRangeReference>
+            
+            <name>end</name>
+        </stageOfLife>
+        <event>
+            <textUnitReference>2</textUnitReference>
+            <type>birth</type>
+            <dateSingle standardDate ="1832"></dateSingle>
+            <locationSetting>village</locationSetting>
+            <agentType>father</agentType>
+            <agentType>mother, unnamed</agentType>
+        </event>
+        <event>
+            <textUnitReference>3</textUnitReference>
+            <type>education</type>
+        </event>
+        
+        <event>
+            <textUnitReference>4</textUnitReference>
+            <type>disobedience</type>
+            <agentType>sister, unnamed</agentType>
+            <agentType>storm</agentType>
+            <locationStructure>family home</locationStructure>
+        </event>
+        <narration>
+            <textUnitReference>4</textUnitReference>
+            <type>quotation, persona speech, unique</type>
+        </narration>
+        <event>
+            <textUnitReference>4</textUnitReference>
+            <type>other</type>
+            <agentType>mother, unnamed</agentType>
+            <note>
+                <p>NEED event control value: "punishment" or "disciplining"</p>
+            </note>
+        </event>
+        <event>
+            <textUnitReference>5</textUnitReference>
+            <type>illness, object of persona's care</type>
+            <agentType>male object, unnamed</agentType>
+            <locationSetting>village</locationSetting>
+        </event>
+        <event>
+            <textUnitReference>5</textUnitReference>
+            <type>nursing, local amateur</type>
+            <agentType>male object, unnamed</agentType>
+        </event>
+        <event>
+            <textUnitReference>5</textUnitReference>
+            <type>death, nonfamily, boy</type>
+            <agentType>male object, unnamed</agentType>
+        </event>
+        <topos>
+            <textUnitReference>8</textUnitReference>
+            <type>youthful desire for vocation or work</type>
+        </topos>
+        
+        
+        
+        
+        
+        
+    </analysis>
+    
+    
+</BESS>
