@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen SCHSchema="../IATH/xml/schema/BESS.rng"?>
-<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+<?oxygen RNGSchema="../IATH/xml/schema/BESS.rng" type="xml"?>
 <BESS>
     <textAnalyzed>
         <collectionID>a302A</collectionID>
@@ -51,11 +51,20 @@
         <event>
             <textUnitReference>2</textUnitReference>
             <type>birth</type>
-            <dateSingle standardDate ="1832"></dateSingle>
+            <dateSingle standardDate="1832-01-07"></dateSingle>
             <locationSetting>village</locationSetting>
             <agentType>father</agentType>
             <agentType>mother, unnamed</agentType>
         </event>
+        <event>
+            <textUnitRangeReference>
+                <start>2</start>
+                <end>5</end>
+            </textUnitRangeReference>
+            
+            <type>childhood or upbringing</type>
+        </event>
+        
         <event>
             <textUnitReference>3</textUnitReference>
             <type>education</type>
@@ -100,6 +109,267 @@
             <textUnitReference>8</textUnitReference>
             <type>youthful desire for vocation or work</type>
         </topos>
+        <event>
+            <textUnitReference>9</textUnitReference>
+            <type>visiting by persona</type>
+            <agentType>brother</agentType>
+            <locationSetting>town</locationSetting>
+        </event>
+        <event>
+            <textUnitReference>9</textUnitReference>
+            <type>loss or death of mother</type>
+        </event>
+        <event>
+            <textUnitReference>10</textUnitReference>
+            <type>calling or vocation choice, considered</type>
+            <locationSetting>town</locationSetting>
+            <locationStructure>hospital</locationStructure>
+            <agentType>female superiors, group, unnamed</agentType>
+            <agentType>father, unnamed</agentType>
+        </event>
+        <topos>
+            <textUnitReference>10</textUnitReference>
+            <type>family restricts vocation</type>
+            <type>defiance of family</type>
+        </topos>
+        <event>
+            <textUnitReference>10</textUnitReference>
+            <type>move to new city, town, or village</type>
+            <type>hired for job</type>
+            <locationStructure>school, village</locationStructure>
+            <locationSetting>village</locationSetting>
+            <dateSingle standardDate="1861-10"></dateSingle>
+        </event>
+        <event>
+            <textUnitReference>11</textUnitReference>
+            <type>teaching literacy to children</type>
+            <type>visiting by persona</type>
+            <type>nursing, local amateur</type>
+            <type>working as paid occupation</type>
+            <agentType>male objects, group</agentType>
+            <agentType>female objects, group</agentType>
+            <agentType>children, unrelated, unspecified</agentType>
+            <locationSetting>village</locationSetting>
+        </event>
+        <event>
+            <textUnitReference>11</textUnitReference>
+            <type>housework by others</type>
+            <agentType>female servant, unnamed</agentType>
+            <locationStructure>cottage</locationStructure>
+        </event>
+        <event>
+            <textUnitReference>11</textUnitReference>
+            <type>illness, persona's</type>
+            <locationStructure>home, convalescent or institutional</locationStructure>
+            <locationSetting>town</locationSetting>
+        </event>
+        <event>
+            <textUnitReference>11</textUnitReference>
+            <type>calling or vocation choice, decision</type>
+            <agentType>father, unnamed</agentType>
+            <agentType>mother, unnamed</agentType>
+            <agentType>female superiors, group, unnamed</agentType>
+            <dateSingle standardDate="1864">1864</dateSingle>
+            <season>fall</season>
+        </event>
+        <event>
+            <textUnitReference>12</textUnitReference>
+            <type>renaming of persona, vocational name</type>
+            <type>change of title or position</type>
+            <agentType>female superiors, group, unnamed</agentType>
+            <agentType>male superior, unnamed</agentType>
+        </event>
+        <event>
+            <textUnitReference>12</textUnitReference>
+            <type>training</type>
+            <type>crying, persona's</type>
+            <agentType>female superiors, group, unnamed</agentType>
+            <agentType>female coworker, unnamed</agentType>
+            <locationStructure>hospital</locationStructure>
+            <locationSetting>village</locationSetting>
+        </event>
+        <event>
+            <textUnitReference>12</textUnitReference>
+            <type>sending letter or message</type>
+            <type>nursing, professional</type>
+            <dateSingle standardDate="1865-01-05"></dateSingle>
+            <agentType>friend</agentType>
+        </event>
+        <event>
+            <textUnitReference>13</textUnitReference>
+            <type>move to new city, town, or village</type>
+            <locationSetting>village</locationSetting>
+            <locationStructure>hospital</locationStructure>
+        </event>
+        <narration>
+            <textUnitReference>14</textUnitReference>
+            <type>digression</type>
+        </narration>
+        <event>
+            <textUnitReference>14</textUnitReference>
+            <type>founding organization</type>
+            <locationStructure>hospital</locationStructure>
+            <locationSetting>village</locationSetting>
+            <agentType>female superiors, group, unnamed</agentType>
+            <dateSingle standardDate="1863">1863</dateSingle>
+        </event>
+        <event>
+            <textUnitReference>14</textUnitReference>
+            <type>change of title or position</type>
+            <dateSingle standardDate="1865">1865</dateSingle>
+            <locationStructure>hospital</locationStructure>
+        </event>
+        <event>
+            <textUnitReference>14</textUnitReference>
+            <type>illness, persona's</type>
+        </event>
+        <event>
+            <textUnitReference>14</textUnitReference>
+            <type>violence against persona</type>
+            <type>injury or wound, persona's</type>
+            <agentType>assailant or criminal</agentType>
+            <agentType>crowd, male</agentType>
+        </event>
+        <event>
+            <textUnitReference>14</textUnitReference>
+            <type>accident harming others</type>
+            <type>injury or wound, object of persona's care</type>
+            <type>crying, adult male</type>
+            <agentType>male object, unnamed</agentType>
+            <agentType>male patient, poor</agentType>
+            <note>
+                <p>NEED event value: "forgiving."</p>
+            </note>
+        </event>
+        <topos>
+            <textUnitReference>14</textUnitReference>
+            <type>influence, emotional effect on working men</type>
+        </topos>
+        <event>
+            <textUnitReference>15</textUnitReference>
+            <type>travel for calling or work</type>
+            <locationSetting>town</locationSetting>
+        </event>
+        <event>
+            <textUnitReference>15</textUnitReference>
+            <type>adventure, persona initiated</type>
+            <type>accident harming persona</type>
+            <agentType>animal, domestic or pet, unnamed</agentType>
+        </event>
+        <topos>
+            <textUnitReference>16</textUnitReference>
+            <type>doubt of faith</type>
+        </topos>
+        <narration>
+            <textUnitReference>16</textUnitReference>
+            <type>focalization, attributing thoughts</type>
+            <type>focalization, attributing feelings</type>
+        </narration>
+        <event>
+            <textUnitReference>16</textUnitReference>
+            <type>consultation, advice, clergyman</type>
+            <type>Sunday churchgoing or sabbath</type>
+            <agentType>male superior, named</agentType>
+            <locationStructure>church</locationStructure>
+        </event>
+        <event>
+            <textUnitReference>17</textUnitReference>
+            <type>charity, personal action</type>
+            <agentType>male objects, group</agentType>
+            <agentType>female objects, group</agentType>
+        </event>
+        <event>
+            <textUnitReference>18</textUnitReference>
+            <type>travel for calling or work</type>
+            <locationSetting>village</locationSetting>
+        </event>
+        <event>
+            <textUnitReference>18</textUnitReference>
+            <type>charity, personal action</type>
+            <type>illness, object of persona's care</type>
+            <agentType>male objects, group</agentType>
+            <agentType>female objects, group</agentType>
+            <locationSetting>slum</locationSetting>
+        </event>
+        <event>
+            <textUnitReference>18</textUnitReference>
+            <type>illness, persona's</type>
+            <dateSingle standardDate="1866">1866</dateSingle>
+            <note>
+                <p>NEED event value: "concern, public's" or "recognition, outpouring of concern" or something similar.</p>
+            </note>
+            
+        </event>
+        <event>
+            <textUnitReference>19</textUnitReference>
+            <type>building construction</type>
+            <type>charity, personal action</type>
+            <locationStructure>hospital</locationStructure>
+            <dateSingle standardDate="1868">1868</dateSingle>
+        </event>
+        <event>
+            <textUnitRangeReference>
+                <start>12</start>
+                <end></end>
+            </textUnitRangeReference>
+            
+            <type>nursing, professional</type>
+        </event>
+        
+        <event>
+            <textUnitReference>19</textUnitReference>
+            <type>illness, recurrent or epidemic</type>
+            <agentType>female objects, group</agentType>
+            <agentType>male objects, group</agentType>
+        </event>
+        <event>
+            <textUnitReference>19</textUnitReference>
+            <type>death, nonfamily, man</type>
+        </event>
+        <event>
+            <textUnitReference>20</textUnitReference>
+            <type>change of title or position</type>
+        </event>
+        <event>
+            <textUnitReference>20</textUnitReference>
+            <type>accident harming others</type>
+            <type>consultation, medical, for agents</type>
+            <type>operation, medical</type>
+            <type>nursing, professional</type>
+            <type>renaming of other agents, nicknames</type>
+            <agentType>male object, unnamed</agentType>
+        </event>
+        <event>
+            <textUnitReference>21</textUnitReference>
+            <type>project, new organization</type>
+            <agentType>female coworkers, group</agentType>
+        </event>
+        <topos>
+            <textUnitReference>22</textUnitReference>
+            <type>influence on children, gender unspecified</type>
+            <type>influence on girls</type>
+        </topos>
+        <narration>
+            <textUnitReference>22</textUnitReference>
+            <type>quotation, persona speech, often said</type>
+        </narration>
+        <event>
+            <textUnitReference>22</textUnitReference>
+            <type>death, nonfamily, girl</type>
+            <agentType>girl, unrelated, unnamed</agentType>
+            <locationStructure>hospital</locationStructure>
+        </event>
+        
+        <narration>
+            <textUnitReference>22</textUnitReference>
+            <type>quotation, agent’s speech, unique</type>
+        </narration>
+        
+        
+        
+        
+        
+        
         
         
         
