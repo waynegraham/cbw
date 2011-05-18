@@ -364,10 +364,154 @@
             <textUnitReference>22</textUnitReference>
             <type>quotation, agent’s speech, unique</type>
         </narration>
-        
-        
-        
-        
+        <event>
+            <textUnitReference>23</textUnitReference>
+            <type>travel, short distance or frequent</type>
+            <type>adventure, persona innocent</type>
+            <type>violence against persona</type>
+            <type>recognition, spoken praise</type>
+            <agentType>male objects, group</agentType>
+            <agentType>male object, unnamed</agentType>
+            <locationStructure>train</locationStructure>
+        </event>
+        <event>
+            <textUnitReference>24</textUnitReference>
+            <type>Sunday churchgoing or sabbath</type>
+            <locationStructure>church</locationStructure>
+        </event>
+        <topos>
+            <textUnitReference>24</textUnitReference>
+            <type>reading, persona's habit</type>
+            <type>religion, prejudice or hostility against Catholics</type>
+            <type>religion, prejudice or hostility against Protestants</type>
+        </topos>
+        <topos>
+            <textUnitReference>25</textUnitReference>
+            <type>sacrifice or renunciation of self-interest or desire</type>
+            <type>test or trial, spiritual</type>
+            <type>temptation of pleasure or love</type>
+            <type>solitude, loneliness</type>
+        </topos>
+        <event>
+            <textUnitReference>25</textUnitReference>
+            <type>illness, persona's</type>
+            <agentType>male object, named</agentType>
+        </event>
+        <topos>
+            <textUnitReference>25</textUnitReference>
+            <type>influence, emotional effect on working men</type>
+            <type>influence, changing behavior of working men</type>
+        </topos>
+        <narration>
+            <textUnitReference>25</textUnitReference>
+            <type>quotation, agent’s speech, often said</type>
+        </narration>
+       <event>
+           <textUnitReference>26</textUnitReference>
+           <type>nursing, professional</type>
+           <timeOfDay>morning</timeOfDay>
+           <locationStructure>hospital</locationStructure>
+       </event>
+       <topos>
+           <textUnitReference>26</textUnitReference>
+           <type>prayer</type>
+           <type>caring for the people, persona's service or nurture</type>
+           <type>skill in daily tasks</type>
+           <type>triumph as overcoming adversity or opposition</type>
+       </topos>
+       <event>
+           <textUnitReference>27</textUnitReference>
+           <type>violence between two or more others</type>
+           <type>nursing, professional</type>
+           <type>adventure, persona initiated</type>
+           <agentType>female object, unnamed</agentType>
+           <agentType>male object, unnamed</agentType>
+       </event>
+       <narration>
+           <textUnitReference>27</textUnitReference>
+           <type>OneDay occasion stated</type>
+           <type>quotation, agent’s speech, unique</type>
+           <type>quotation, persona speech, unique</type>
+       </narration>
+        <narration>
+            <textUnitReference>28</textUnitReference>
+            <type>iterative, repeating or persistent</type>
+            <type>quotation, agent’s speech, unique</type>
+            <type>quotation, persona writings about self</type>
+            <type>quotation, persona speech, unique</type>
+        </narration>
+        <topos>
+            <textUnitReference>28</textUnitReference>
+            <type>prayer</type>
+        </topos>
+        <event>
+            <textUnitReference>28</textUnitReference>
+            <type>other</type>
+            <dateSingle standardDate="1874">1874</dateSingle>
+            <note>
+                <p>Need event value: "end of association with group".</p>
+            </note>
+        </event>
+        <topos>
+            <textUnitReference>29</textUnitReference>
+            <type>prayer</type>
+            <type>influence, changing peers' action</type>
+            <type>recognition</type>
+        </topos>
+        <event>
+            <textUnitReference>30</textUnitReference>
+            <type>mission, religious, city</type>
+            <dateSingle standardDate="1873">1873</dateSingle>
+            <locationSetting>town</locationSetting>
+        </event>
+        <topos>
+            <textUnitReference>30</textUnitReference>
+            <type>influence, converting others to faith</type>
+        </topos>
+        <event>
+            <textUnitRangeReference>
+                <start>30</start>
+                <end>31</end>
+            </textUnitRangeReference>
+            
+            <type>mission, religious, city</type>
+            <type>church service, ceremonial other than funeral</type>
+            <type>Sunday churchgoing or sabbath</type>
+            <dateSingle standardDate="1876">1876</dateSingle>
+            <locationSetting>slum</locationSetting>
+            <agentType>female objects, group</agentType>
+            <agentType>male objects, group</agentType>
+            <agentType>male coworkers, group</agentType>
+            <timeOfDay>night</timeOfDay>
+        </event>
+        <topos>
+            <textUnitReference>31</textUnitReference>
+            <type>influence, converting others to faith</type>
+            <type>lady braving dark space</type>
+        </topos>
+        <event>
+            <textUnitReference>32</textUnitReference>
+            <type>illness, recurrent or epidemic</type>
+            <type>building construction</type>
+            <locationStructure>hospital</locationStructure>
+        </event>
+        <topos>
+            <textUnitReference>32</textUnitReference>
+            <type>sacrifice or renunciation of self-interest or desire</type>
+            <type>skill in emergency or crisis</type>
+        </topos>
+        <narration>
+            <textUnitReference>32</textUnitReference>
+            <type>focalization, attributing thoughts</type>
+        </narration>
+        <narration>
+            <textUnitReference>33</textUnitReference>
+            <type>quotation, persona letters</type>
+        </narration>
+        <event>
+            <textUnitReference>33</textUnitReference>
+            <type>nursing, professional</type>
+        </event>
         
         
         
