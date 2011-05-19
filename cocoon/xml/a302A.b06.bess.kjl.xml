@@ -27,27 +27,36 @@
         <stageOfLife>
             <textUnitRangeReference>
                 <start>9</start>
-                <end></end>
+                <end>31</end>
             </textUnitRangeReference>
             
             <name>middle</name>
         </stageOfLife>
         <stageOfLife>
             <textUnitRangeReference>
-                <start></start>
-                <end></end>
+                <start>32</start>
+                <end>37</end>
             </textUnitRangeReference>
             
             <name>culmination</name>
         </stageOfLife>
         <stageOfLife>
             <textUnitRangeReference>
-                <start></start>
-                <end></end>
+                <start>38</start>
+                <end>39</end>
             </textUnitRangeReference>
             
             <name>end</name>
         </stageOfLife>
+        <stageOfLife>
+            <textUnitRangeReference>
+                <start>40</start>
+                <end>42</end>
+            </textUnitRangeReference>
+            
+            <name>after</name>
+        </stageOfLife>
+        
         <event>
             <textUnitReference>2</textUnitReference>
             <type>birth</type>
@@ -308,15 +317,6 @@
             <dateSingle standardDate="1868">1868</dateSingle>
         </event>
         <event>
-            <textUnitRangeReference>
-                <start>12</start>
-                <end></end>
-            </textUnitRangeReference>
-            
-            <type>nursing, professional</type>
-        </event>
-        
-        <event>
             <textUnitReference>19</textUnitReference>
             <type>illness, recurrent or epidemic</type>
             <agentType>female objects, group</agentType>
@@ -477,6 +477,7 @@
             <type>mission, religious, city</type>
             <type>church service, ceremonial other than funeral</type>
             <type>Sunday churchgoing or sabbath</type>
+            <type>preaching by persona</type>
             <dateSingle standardDate="1876">1876</dateSingle>
             <locationSetting>slum</locationSetting>
             <agentType>female objects, group</agentType>
@@ -512,9 +513,237 @@
             <textUnitReference>33</textUnitReference>
             <type>nursing, professional</type>
         </event>
-        
-        
-        
+        <narration>
+            <textUnitRangeReference>
+                <start>33</start>
+                <end>34</end>
+            </textUnitRangeReference>
+            <type>quotation, persona letters</type>
+        </narration>
+        <event>
+            <textUnitReference>35</textUnitReference>
+            <type>travel for calling or work</type>
+            <locationSetting>town</locationSetting>
+            <locationStructure>hospital</locationStructure>
+        </event>
+        <event>
+            <textUnitReference>35</textUnitReference>
+            <type>accident harming others</type>
+            <dateSingle standardDate="1875-12">1875-12</dateSingle>
+            <agentType>male objects, group</agentType>
+            <locationStructure>factory</locationStructure>
+        </event>
+        <event>
+            <textUnitReference>35</textUnitReference>
+            <type>nursing, professional</type>
+            <agentType>male objects, group</agentType>
+        </event>
+        <event>
+            <textUnitRangeReference>
+                <start>36</start>
+                <end>37</end>
+            </textUnitRangeReference>
+            <type>illness, persona's</type>
+            <dateRange>
+                <fromDate>1876</fromDate>
+                <toDate>1877</toDate>
+            </dateRange>
+        </event>
+        <event>
+            <textUnitReference>36</textUnitReference>
+            <type>consultation, medical, for persona</type>
+            <agentType>male professional, unnamed</agentType>
+        </event>
+        <event>
+            <textUnitReference>37</textUnitReference>
+            <type>preaching by persona</type>
+            <locationSetting>slum</locationSetting>
+        </event>
+        <narration>
+            <textUnitReference>37</textUnitReference>
+            <type>quotation, unidentified</type>
+        </narration>
+        <topos>
+            <textUnitReference>37</textUnitReference>
+            <type>Christmas</type>
+            <type>food and meals, persona's giving to others</type>
+        </topos>
+        <event>
+            <textUnitReference>37</textUnitReference>
+            <type>hosting by persona</type>
+            <dateSingle standardDate="1877-12-25">December 25, 1877</dateSingle>
+        </event>
+        <event>
+            <textUnitReference>37</textUnitReference>
+            <type>illness, recurrent or epidemic</type>
+            <dateSingle standardDate="1878-06">June 1878</dateSingle>
+        </event>
+        <event>
+            <textUnitRangeReference>
+                <start>37</start>
+                <end>38</end>
+            </textUnitRangeReference>
+            <type>holiday</type>
+            <type>visiting by persona</type>
+            <type>travel, recreational</type>
+            <agentType>female relative, unnamed, other</agentType>
+        </event>
+        <event>
+            <textUnitReference>38</textUnitReference>
+            <type>travel, international</type>
+            <locationSetting>city</locationSetting>
+        </event>
+        <event>
+            <textUnitReference>38</textUnitReference>
+            <type>travel for calling or work</type>
+            <type>training</type>
+            <agentType>male superior, named</agentType>
+            <locationSetting>city</locationSetting>
+        </event>
+        <event>
+            <textUnitReference>38</textUnitReference>
+            <type>travel due to illness</type>
+            <type>sending letter or message</type>
+            <dateSingle standardDate="1878-10-10">October 10, 1878</dateSingle>
+        </event>
+        <narration>
+            <textUnitReference>38</textUnitReference>
+            <type>quotation, persona letters</type>
+        </narration>
+        <event>
+            <textUnitReference>39</textUnitReference>
+            <type>recognition, event in honor</type>
+            <type>tribute</type>
+            <locationStructure>hospital</locationStructure>
+            <dateSingle standardDate="1878-11-04">November 4, 1878</dateSingle>
+        </event>
+        <event>
+            <textUnitReference>39</textUnitReference>
+            <type>other</type>
+            <agentType>female coworker, named</agentType>
+            <note>
+                <p>Need event value: "successor found" or similar.</p>
+            </note>
+        </event>
+        <event>
+            <textUnitReference>39</textUnitReference>
+            <type>death, persona’s</type>
+            <dateSingle standardDate="1878-12-24">December 24, 1878</dateSingle>
+            <locationStructure>home</locationStructure>
+        </event>
+        <narration>
+            <textUnitReference>39</textUnitReference>
+            <type>quotation, persona speech, unique</type>
+            <type>focalization, attributing feelings</type>
+        </narration>
+        <event>
+            <textUnitReference>40</textUnitReference>
+            <type>funeral</type>
+            <type>tribute</type>
+            <agentType>people, the, town or village</agentType>
+            <agentType>crowd, unspecified</agentType>
+        </event>
+        <narration>
+            <textUnitReference>40</textUnitReference>
+            <type>quotation, agent’s speech, unique</type>
+        </narration>
+        <event>
+            <textUnitReference>41</textUnitReference>
+            <type>recognition, statue</type>
+            <agentType>people, the, town or village</agentType>
+            <agentType>female objects, group</agentType>
+            <agentType>male objects, group</agentType>
+        </event>
+        <narration>
+            <textUnitReference>41</textUnitReference>
+            <type>quotation, agent’s speech, unique</type>
+        </narration>
+        <narration>
+            <textUnitReference>42</textUnitReference>
+            <type>present tense</type>
+        </narration>
+        <personaDescription>
+            <textUnitReference>1</textUnitReference>
+            <type>famous</type>
+            <type>willful or stubborn</type>
+            <type>persistent</type>
+        </personaDescription>
+        <narration>
+            <textUnitReference>1</textUnitReference>
+            <type>evaluation</type>
+            <type>retrospective</type>
+        </narration>
+        <personaDescription>
+            <textUnitReference>2</textUnitReference>
+            <type>beautiful</type>
+            <type>physically weak or frail</type>
+        </personaDescription>
+        <personaDescription>
+            <textUnitReference>3</textUnitReference>
+            <type>intelligent</type>
+            <type>quiet</type>
+            <type>physically weak or frail</type>
+            <type>willful or stubborn</type>
+            <note>
+                <p>Need personaDescription value: "mischievous"</p>
+            </note>
+        </personaDescription>
+        <topos>
+            <textUnitReference>4</textUnitReference>
+            <type>childhood anecdote, character predicted</type>
+            <type>clothing, vanity in, persona's</type>
+        </topos>
+        <topos>
+            <textUnitRangeReference>
+                <start>40</start>
+                <end>42</end>
+            </textUnitRangeReference>
+            <type>attachment or love of people for persona</type>
+        </topos>
+        <topos>
+            <textUnitReference>2</textUnitReference>
+            <type>family, occupation of parents or ancestors</type>
+        </topos>
+        <topos>
+            <textUnitReference>5</textUnitReference>
+            <type>clothing, persona's</type>
+            <type>caring for the people, persona's service or nurture</type>
+            <type>food and meals, persona's giving to others</type>
+        </topos>
+        <personaDescription>
+            <textUnitReference>5</textUnitReference>
+            <type>noble in character</type>
+        </personaDescription>
+        <narration>
+            <textUnitReference>5</textUnitReference>
+            <type>OneDay occasion stated</type>
+            <type>focalization, attributing feelings</type>
+            <type>focalization, attributing motives</type>
+            <type>quotation, agent’s speech, unique</type>
+        </narration>
+        <narration>
+            <textUnitReference>6</textUnitReference>
+            <type>focalization, attributing feelings</type>
+        </narration>
+        <personaDescription>
+            <textUnitReference>6</textUnitReference>
+            <type>physically strong</type>
+            <type>energetic or untiring</type>
+            <type>physically daring</type>
+        </personaDescription>
+        <topos>
+            <textUnitReference>6</textUnitReference>
+            <type>physical prowess, athletics</type>
+        </topos>
+        <personaDescription>
+            <textUnitReference>7</textUnitReference>
+            <type>wild</type>
+            <type>beautiful</type>
+            <type>physically strong</type>
+            <note>
+                <p>Need personaDescription value: "good sense of humor" or similar.</p>
+            </note>
+        </personaDescription>
         
         
         
