@@ -7,10 +7,10 @@ echo Updating add_doc
 
 java -jar saxon/saxon9he.jar -xi:on -s ../cocoon/xml/BooColl.xml -xsl:add_docs/solr_add_docs.xsl > $OUTPUT
 
-URL='http://localhost:8080/solr/womensbios'
+URL='http://localhost:8080/solr/womensbios/update'
 
 echo Posting $OUTPUT to solr server at $URL...
-curl $URL --data-binary $OUTPUT -H 'Content-type:text/xml; charset=utf-8' 
+curl $URL --data-binary @$OUTPUT -H 'Content-type:text/xml; charset=utf-8' 
 
 echo Commiting the documents...
 curl $URL --data-binary '<commit/>' -H 'Content-type:text/xml; charset=utf-8'
