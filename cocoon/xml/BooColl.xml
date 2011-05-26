@@ -43878,8 +43878,9 @@
        <date>1949.</date>
       </imprint>
       <note place="unspecified" anchored="yes">Dissertation manuscript. </note>
-     </bibl><bibl id="p026A" default="NO">
-      <idno>p026A</idno>
+     </bibl>
+     <bibl id="p026B" default="NO">
+      <idno>p026B</idno>
       <author><name type="last">Da Silva</name>, <name type="first">Rachel, ed.</name></author>
       <title type="ref">
        <hi rend="italics">Leading Out: Women Climbers Reaching the Top. </hi>
@@ -43890,8 +43891,8 @@
        <date>1992.</date>
       </imprint>
      </bibl>
-     <bibl id="p026B" default="NO">
-      <idno>p026B</idno>
+     <bibl id="p026C" default="NO">
+      <idno>p026C</idno>
       <author>Daughters of the American Revolution, John Paul Chapter.</author>
       <title type="ref">
        <hi rend="italics">Pioneer Women of Jefferson County, Indiana. </hi>
@@ -43902,8 +43903,8 @@
       </imprint>
       <note place="unspecified" anchored="yes"> </note>
      </bibl>
-     <bibl id="p026C" default="NO">
-      <idno>p026C</idno>
+     <bibl id="p026D" default="NO">
+      <idno>p026D</idno>
       <author><name type="last">Davis</name>, <name type="first">Natalie Zemon</name>.</author>
       <title type="ref">
        <hi rend="italics">Women on the Margins: Three Seventeenth Century Lives. </hi>
@@ -43922,8 +43923,8 @@
        </list>
       </note>
      </bibl>
-     <bibl id="p026D" default="NO">
-      <idno>p026D</idno>
+     <bibl id="p026E" default="NO">
+      <idno>p026E</idno>
       <author><name type="last">Deen</name>, <name type="first">Edith</name>.</author>
       <title type="ref">
        <hi rend="italics">All of the Women of the Bible.</hi>
@@ -43946,8 +43947,8 @@
       </imprint>
       <note place="unspecified" anchored="yes"> </note>
      </bibl>
-     <bibl id="p026E" default="NO">
-      <idno>p026E</idno>
+     <bibl id="p026F" default="NO">
+      <idno>p026F</idno>
       <author><name type="last">Deen</name>, <name type="first">Edith</name>.</author>
       <title type="ref">
        <hi rend="italics">Great Women of the Christian Faith. </hi>
