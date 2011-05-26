@@ -14060,7 +14060,7 @@
       <author><name type="last">Da Libra</name>
        <name type="aka">[Daniel L. Brain]</name>.</author>
       <title type="ref">
-       <hi rend="italics">Women Types of To-Day.</hi>
+       <hi rend="italics">Women Types of To-Day.  The Venus, the Juno, the Minerva.</hi>
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
@@ -14068,9 +14068,22 @@
        <date>1907.</date>
       </imprint>
       <note place="unspecified" anchored="yes">Bodleian</note>
-      <note place="unspecified" anchored="yes">The Venus, the Juno, the Minerva. Few named women.  For example, 
-       on p. 98, with header "TYPES--CAREERS OF LIFE  [CHAP. III." and subheading "IN SOCIETY": "In middle age the Venus
-       and Juno types approach each other as to form and disposition, though their leading characteristics will be preserved."
+      <note place="unspecified" anchored="yes">On blue cloth front cover, title appears in red, subtitle types in silver
+       script, and in lower right in red: "A Study by Da Libra," the name as if in signature.  On the
+       title page the title and subtitle continue: "Or/ Modern Casts from Ancient Moulds" in small caps.  
+       "A Study, Dedicated to Both Sexes," in gothic lettering, "By/ Da Libra."  in pencil annotated
+       "pseud/ Colonel Brain." 
+       The introduction quickly establishes the strange blend of the text and its effervescent style.  "In this
+       work there might be found sign-posts or aids in the scrutation of types" (vi) in the effort
+       to "classify women, as a naturalist does" (iii-vi).  The next section, "Cover Device," explains
+       the cover's design: the types appear on the cover in calligraphy characteristic of 
+       their respective types ("enlarged from those written by models of the respective types" (vii).  The
+       types appear in silver to symbolize the night and the moon, and the color blue is an 
+       emblem of "the Firmament" (viii).
+       Few named women appear in the book, though passages will catalogue eminent women, for instance
+       Semiramis, Zenobia, Sappho, Cleopatra, on up to Mrs. Somerville, on pp. 10-11. Under the header "TYPES--CAREERS OF LIFE  [CHAP. III." and subheading "IN SOCIETY": "In middle 
+       age the Venus
+       and Juno types approach each other as to form and disposition, though their leading characteristics will be preserved" (98).
        Epigraphs and excerpts from famous writers such as Ovid interrupt the prose, e.g. pp. 232-3.  An exception appears
        in discussing the famous women who "ruled Kings" in France; ch. vii, pp. 300-13, includes various named women. See <ref
         target="a188" targOrder="U">Cole</ref>.</note>
@@ -43622,15 +43635,15 @@
      <bibl id="p023A" default="NO">
       <ref targOrder="U"></ref>
       <idno>p023A</idno>
-      <author><name type="last">Clymer</name><name type="first">Eleanor</name></author>
-      <author><name type ="last ">Erlich</name><name type="first">Lillian</name></author>
+      <author><name type="last">Clymer, </name><name type="first">Eleanor</name> and</author>
+      <author><name type="first">Lillian </name><name type ="last ">Erlich.</name></author>
       <title type="ref">
-       <hi rend="italics"> Modern American Career Women</hi>
+       <hi rend="italics"> Modern American Career Women.</hi>
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
-       <publisher>Dodd, Mead and Company</publisher>
-       <date>1959</date>
+       <publisher>Dodd, Mead, </publisher>
+       <date>1959.</date>
       </imprint>
       <note type ="toc">
        <list>
@@ -43654,6 +43667,11 @@
         <item>Babe Didrikson Zaharias</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes">Includes a series of photographic portraits.  The
+      chapters in TOC identify the occupations of each woman, respectively: Engineer, Educator,
+      Cabinet Member, Journalist, Painter, Sculptor, Children's Ambassador to Washington, Department
+      Store President, Senator, Physician, Judge, Actress, Anthropologist, Ambassador, News Analyst,
+      Choreographer, Aviator, Athlete.</note>
      </bibl>
      <bibl id="p023B" default="NO">
       <idno>p023B</idno>
@@ -43848,8 +43866,31 @@
       </imprint>
       <note place="unspecified" anchored="yes"> </note>
      </bibl>
-     <bibl id="p026A" default="NO">
+     <bibl id="p025A" default="NO">
+      <idno>p025A</idno>
+      <author><name type="last">D.</name>, <name type="first">M.R.</name></author>
+      <title type="ref">
+       <hi rend="italics">Women Leaders in Holyoke's 100 Years. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Holyoke, MA:</pubPlace>
+       <date>1949.</date>
+      </imprint>
+      <note place="unspecified" anchored="yes">Dissertation manuscript. </note>
+     </bibl><bibl id="p026A" default="NO">
       <idno>p026A</idno>
+      <author><name type="last">Da Silva</name>, <name type="first">Rachel, ed.</name></author>
+      <title type="ref">
+       <hi rend="italics">Leading Out: Women Climbers Reaching the Top. </hi>
+      </title>
+      <imprint>
+       <pubPlace>Seattle:</pubPlace>
+       <publisher>Seal,</publisher>
+       <date>1992.</date>
+      </imprint>
+     </bibl>
+     <bibl id="p026B" default="NO">
+      <idno>p026B</idno>
       <author>Daughters of the American Revolution, John Paul Chapter.</author>
       <title type="ref">
        <hi rend="italics">Pioneer Women of Jefferson County, Indiana. </hi>
@@ -43860,8 +43901,8 @@
       </imprint>
       <note place="unspecified" anchored="yes"> </note>
      </bibl>
-     <bibl id="p026B" default="NO">
-      <idno>p026B</idno>
+     <bibl id="p026C" default="NO">
+      <idno>p026C</idno>
       <author><name type="last">Davis</name>, <name type="first">Natalie Zemon</name>.</author>
       <title type="ref">
        <hi rend="italics">Women on the Margins: Three Seventeenth Century Lives. </hi>
@@ -43880,8 +43921,8 @@
        </list>
       </note>
      </bibl>
-     <bibl id="p026C" default="NO">
-      <idno>p026C</idno>
+     <bibl id="p026D" default="NO">
+      <idno>p026D</idno>
       <author><name type="last">Deen</name>, <name type="first">Edith</name>.</author>
       <title type="ref">
        <hi rend="italics">All of the Women of the Bible.</hi>
@@ -43904,8 +43945,8 @@
       </imprint>
       <note place="unspecified" anchored="yes"> </note>
      </bibl>
-     <bibl id="p026D" default="NO">
-      <idno>p026D</idno>
+     <bibl id="p026E" default="NO">
+      <idno>p026E</idno>
       <author><name type="last">Deen</name>, <name type="first">Edith</name>.</author>
       <title type="ref">
        <hi rend="italics">Great Women of the Christian Faith. </hi>
@@ -44597,14 +44638,14 @@
      </bibl>
      <bibl id="p038B" default="NO">
       <idno>p038B</idno>
-      <editor><name type="last">Gullick,</name><name type="first">John. </name></editor>
+      <editor><name type="last">Gullick,</name><name type="first"> John. </name></editor>
       <title type="ref">
        <hi rend="italics">Adventurous Women in South-East Asia: Six Lives.</hi>
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Oxford University Press</publisher>
-       <date>1995</date>
+       <date>1995.</date>
       </imprint>
       <note type="toc">
        <list>
@@ -44630,8 +44671,8 @@
       Punctuation and spelling in titles is thus.  All the subjects wrote their own memoirs; "the limits of available source
       material ... confines the choice to women of the professional class, more particularly church and the army families...But
       they were not just ordinary, representative specimens of the social class from which they came" (Introduction, xvi).  The
-      chapters have bibliographies and illustrations: photographs, maps, contemporary images of setting or persons.  .  The Anna Leonowens biography is aware not only of
-      her versions of the story and <hi rend="italics">The King and I</hi> but also further sources through 1993.</note>
+      chapters have bibliographies and illustrations: photographs, maps, contemporary images of setting or persons. The Anna Leonowens biography is aware not only of
+      her versions of the story and <hi rend="italics">The King and I</hi> but also of further sources through 1993.</note>
      </bibl>
      <bibl id="p039" default="NO">
       <idno>p039</idno>
