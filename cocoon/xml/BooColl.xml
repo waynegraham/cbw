@@ -21545,7 +21545,8 @@
       </imprint>
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
-       </title> 100-2, 203-7.</xref>
+      </title> 100-2, 203-7.</xref>
+      <note type="unspecified">A 900+page, encyclopedia-like book that contains hundreds upon hundreds of entries of varying length on historical women, divided into four historical "eras": the first, from the beginning of history through the birth of Jesus Christ; the second, from the birth of Christ through the year 1500; the third, from 1500 through 1850; and the fourth, of women alive at the time of the book's publication. Also contains 229 portraits of important women.</note>
      </bibl>
      <bibl id="a363" default="NO">
       <ref targOrder="U">363.</ref>
@@ -22339,6 +22340,7 @@
        <publisher>Star and Covenant Office,</publisher>
        <date>1884.</date>
       </imprint>
+      <note>Contains brief biographies of approximately 150 women, ranging from a few pages to a single short paragraph. Also contains 14 illustrations of particular women.</note>
      </bibl>
      <bibl id="a378" default="NO">
       <ref targOrder="U">378.</ref>
@@ -24105,6 +24107,23 @@
       </imprint>
       <note place="unspecified" anchored="yes">Bodleian See <ref target="a157" targOrder="U"
         >Barton</ref> re Lincoln.</note>
+      <note type="chapter_list">
+       <list>
+        <item>I: Introductory: Napoleon and the Feminine Tangent. </item>
+        <item>II: Episodes of Youth and Adolescence. </item>
+        <item>III: Josephine. </item>
+        <item>IV: The Queen of the East. </item>
+        <item>V: The Singer of Milan. </item>
+        <item>VI: "Georgina." </item>
+        <item>VII: The Feminine under the Empire. </item>
+        <item>VIII: The Women of the Family. </item>
+        <item>IX: The Femmes Fortes. </item>
+        <item>X: The Mystery of Madame X. </item>
+        <item>XI: Walewska. </item>
+        <item>XII: Marie Louise. </item>
+        <item>XIII: The "Tragi-Comedy" of the Rock. </item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a416" default="NO">
       <ref targOrder="U">416.</ref>
