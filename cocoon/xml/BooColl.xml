@@ -21358,6 +21358,40 @@
        <date>1914.</date>
       </imprint>
       <note place="unspecified" anchored="yes">British Library.</note>
+      <note type="chapter_list">
+       <list>
+        <item>Madame Adelaide and Pompadour.  </item>
+        <item>Madame de Pompadour's Practices.  </item>
+        <item>Pompadour's "Cousin" The Empress.  </item>
+        <item>Pompadour and Three Royal Ladies.  </item>
+        <item>Pompadour as a War Minister.  </item>
+        <item>Pompadour, The Abbe De Bernis and Choiseul.  </item>
+        <item>The Duchesses de Choiseul, de Gramont and Julie.  </item>
+        <item>The Dauphine Maria Josepha.  </item>
+        <item>Madame du Barry.  </item>
+        <item>The Comtesse du Barry at Court.  </item>
+        <item>Madame Legros.  </item>
+        <item>Jeanne de Valois, Comtesse de Lamotte.  </item>
+        <item>Oliva - The Queen?  </item>
+        <item>Jeanne de Valois and the Diamond Necklace.  </item>
+        <item>Marie Antoinette and Her Favourites.  </item>
+        <item>Marie Antoinette and Her Amusements.  </item>
+        <item>Marie Antoinette and Count Fersen.  </item>
+        <item>Marie Antoinette's Execution.  </item>
+        <item>Theroigne de Mericourt.  </item>
+        <item>Madame Roland.  </item>
+        <item>Madamde Roland Guillotined.  </item>
+        <item>Madame de Stael and the Comte de Narbonne.  </item>
+        <item>Madame de Stael and Benjamin Constant.  </item>
+        <item>Madame de Stael and Bonaparte.  </item>
+        <item>Madame de Stael, "Delphine."  </item>
+        <item>Madame de Stael and Madame de Recamier.  </item>
+        <item>The Comtesse de Genlis.  </item>
+        <item>Madame de Genlis' Liasion with Philippe Egalite.  </item>
+        <item>Madame de Genlis an Emigree.  </item>
+        <item>Charlotte Corday.  </item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a359" default="NO">
       <ref targOrder="U">359.</ref>
@@ -21716,6 +21750,7 @@
        <publisher>n.p.,</publisher>
        <date>1903].</date>
       </imprint>
+      <note type="unspecified" anchored="yes">NOT: article from Transactions and Proceedings of the Japan Society, London, Volume 6.</note>
      </bibl>
      <bibl id="a368" default="NO">
       <ref targOrder="U">368.</ref>
@@ -22548,6 +22583,18 @@
        <date>1912;</date>
        <date>[1915?].</date>
       </imprint>
+      <note type="chapter_list">
+       <list>
+        <item>Elisabeth Goethe.  </item>
+        <item>The Jewish Salons.  </item>
+        <item>Henriette Herz.  </item>
+        <item>Rahel Varnhagen, the German Sybil of the Nineteenth Century.  </item>
+        <item>Bettina Von Arnim.  </item>
+        <item>Queen Luise.  </item>
+        <item>Caroline Schlegel.  </item>
+        <item>Charlotte Stieglitz.  </item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a382" default="NO"><ref targOrder="U">382.</ref>
       <idno>a382</idno>
