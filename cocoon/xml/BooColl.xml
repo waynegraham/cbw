@@ -35717,9 +35717,9 @@
      <bibl id="a703" default="NO">
       <ref targOrder="U">703.</ref>
       <idno>a703</idno>
-      <author><name type="last">Scott</name>, <name type="first">Eleanor</name>.</author>
+      <author><name type="last">Scott</name>, <name type="first">Eleanor</name> [<name type="aka">Helen Madeline Leys</name>].</author>
       <title type="ref">
-       <hi rend="italics">Adventurous Women.</hi>
+       <hi rend="italics">Adventurous Women.</hi> Illustrated by J. P. Paterson.
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
@@ -35738,7 +35738,22 @@
         <item>Gertrude Bell of Arabia</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes">Pseudonym of Helen Madeline Leys, who also wrote novels as P. R. Shore.  Thanks to Steve Holland's
+      blog 23 October 2010 http://bearalley.blogspot.com.  Accessed 9 June 2011.</note>
      </bibl>
+     <bibl id="a703A" default="NO">
+      <ref targOrder="U">703A.</ref>
+      <idno>a703A</idno>
+      <author><name type="last">Scott</name>, <name type="first">Eleanor</name> [<name type="aka">Helen Madeline Leys</name>].</author>
+      <title type="ref">
+       <hi rend="italics">Heroic Women.</hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Nelson,</publisher>
+       <date>1939.</date>
+      </imprint>
+      </bibl>
      <bibl id="a704" default="NO">
       <ref targOrder="U">704.</ref>
       <idno>a704</idno>
@@ -35747,15 +35762,16 @@
        <hi rend="italics">War Among Ladies.</hi>
       </title>
       <imprint>
-       <pubPlace>Boston:</pubPlace>
-       <publisher>Little Brown,</publisher>
+       <pubPlace>London:</pubPlace>
+       <publisher>Benn,</publisher>
        <date>1928;</date>
       </imprint>
       <imprint>
-       <publisher>Benn</publisher>
+       <pubPlace>Boston:</pubPlace>
+       <publisher>Little Brown,</publisher>
        <date>1928.</date>
       </imprint>
-     </bibl>
+      </bibl>
      <bibl id="a704A" default="NO">
       <ref targOrder="U">704A.</ref>
       <idno>a704A</idno>
