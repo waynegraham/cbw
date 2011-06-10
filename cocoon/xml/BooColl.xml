@@ -24818,6 +24818,25 @@
        <publisher>Warne,</publisher>
        <date>1866.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Introduction</item>
+        <item>Sarah</item>
+        <item>Miriam</item>
+        <item>Naomi</item>
+        <item>Oprah and Ruth</item>
+        <item>Ruth</item>
+        <item>The Widow of Sarepta</item>
+        <item>Mary and Elisabeth</item>
+        <item>Anna the Prophetess</item>
+        <item>Mary Magdalene and the Other Ministering Women</item>
+        <item>The Woman of Canaan</item>
+        <item>Martha and Mary</item>
+        <item>Mary and Rhoda</item>
+        <item>Dorcas</item>
+        <item>Lydia</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a428" default="NO">
       <ref targOrder="U">428.</ref>
@@ -24928,6 +24947,22 @@
        <publisher>Hitchcock &amp; Walden,</publisher>
        <date>1875.</date>
       </imprint>
+      <note type="chapter_list">
+       <list>
+        <item>Sanjogata, the Last Ranee of Delhi.  </item>
+        <item>Pudmunee, the Beautiful Cingalese.  </item>
+        <item>Durgavatee, the Warrior Ranee - A Chapter of Mogul History.  </item>
+        <item>Jodh Baie, the Hindoo Sultana - A Chapter of Mogul History.  </item>
+        <item>Chand Sultana - A Chapter of Mogul History.  </item>
+        <item>Noor Mahal, The Light of the Palace - A Chapter of Mogul History.  </item>
+        <item>Mumtaz Mahal - A Chapter of Mogul History.  </item>
+        <item>Ahuliya Baie, the Mahrattee Queen.  </item>
+        <item>Kishna Comaree Baie; or, The Maiden's Sacrifice.  </item>
+        <item>The Ranee of Jhansee - A Tale of the Indian Mutiny.  </item>
+        <item>The Begums of Bhopal.  </item>
+        <item>The Women of India.  </item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a431" default="NO">
       <ref targOrder="U">431.</ref>
@@ -27737,7 +27772,8 @@
       </title> [n.p., <imprint>
        <date>1920s?]</date>
       </imprint>]. <note place="unspecified" anchored="yes"> Cover title: A list of women Maraños
-       who died in autos-da-fé or were imprisoned. </note>
+      who died in autos-da-fé or were imprisoned. </note>
+      <note type="unspecified">Lists 67 Jewish women from Spain and Portugal who died in the Spanish Inquisition. Published in the journal American Jewess, Volume II, Number 1, pages 43-48; Full text available online athttp://quod.lib.umich.edu/a/amjewess/taj1895.0002.001/55:16?didno=TAJ1895.0002.001;page=root;rgn=full+text;size=100;view=image (10 June 2011). </note>
      </bibl>
      <bibl id="a493A" default="NO"><ref targOrder="U">493A.</ref>
       <idno>a493A</idno>
@@ -27760,6 +27796,60 @@
        <date>1982.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> </note>
+      <note type="toc">
+       <list>
+        <item>The Mother of Us All</item>
+        <item>Ada and Zillah</item>
+        <item>Sarah</item>
+        <item>Hagar</item>
+        <item>Keturah</item>
+        <item>Rebekah</item>
+        <item>Deborah the Nursemaid</item>
+        <item>Leah</item>
+        <item>Rachel</item>
+        <item>Judith and Bashemath</item>
+        <item>Dinah</item>
+        <item>Tamar</item>
+        <item>Asenath</item>
+        <item>Shiphrah and Puah</item>
+        <item>Jochebed</item>
+        <item>Pharaoh's Daughter</item>
+        <item>Miriam</item>
+        <item>Zipporah</item>
+        <item>Rahab</item>
+        <item>Deborah</item>
+        <item>Jael</item>
+        <item>Jephthah's Daughter</item>
+        <item>Manoah's Wife</item>
+        <item>Delilah</item>
+        <item>Naomi</item>
+        <item>Orpah</item>
+        <item>Ruth</item>
+        <item>Hannah</item>
+        <item>Ichabod's Mother</item>
+        <item>Abigail</item>
+        <item>Michal</item>
+        <item>Bathsehba</item>
+        <item>The Woman of Tekoah</item>
+        <item>The Witch of Endor</item>
+        <item>The Peasant Woman of Bahurim</item>
+        <item>The Real Mother of the Illegitimate Child</item>
+        <item>Rizpah</item>
+        <item>Job's Wife</item>
+        <item>The Queen of Sheba</item>
+        <item>Jeroboam's Wife</item>
+        <item>The Widow of Zeraphath</item>
+        <item>Jezebel</item>
+        <item>The Shunammite</item>
+        <item>Namaan's Wife's Little Jewish Maid</item>
+        <item>Athaliah</item>
+        <item>Jehosheba</item>
+        <item>Hulda</item>
+        <item>Noadiah</item>
+        <item>Vashti</item>
+        <item>Esther</item>
+       </list>
+      </note>
      </bibl>
     </div2>
     <div2 type="letter" n="L" org="uniform" sample="complete" part="N">
