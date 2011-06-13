@@ -28501,6 +28501,29 @@
       </imprint> n.p.], <imprint>
        <date>1904.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Sophia Blackmore</item>
+        <item>Minnie F. Abrams</item>
+        <item>Ella Blackstock</item>
+        <item>Emma E. Ferris (Shellubear)</item>
+        <item>Susan Harrington (Cousland)</item>
+        <item>Willma H. Rouse</item>
+        <item>Florence Sterling (Lenth)</item>
+        <item>Clara Martin</item>
+        <item>Helen Ingram</item>
+        <item>Martha Nicolaisen</item>
+        <item>Mary Cody</item>
+        <item>Ida Ellis</item>
+        <item>Adeline Goetz (Guthrie)</item>
+        <item>Christiana Williams (Hall)</item>
+        <item>Alma Jakobson (Keventer)</item>
+        <item>Mary Olson</item>
+        <item>Mabel Lee</item>
+        <item>Anna Stone</item>
+        <item>Frieda Lorenz</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a514" default="NO">
       <ref targOrder="U">514.</ref>
@@ -28598,6 +28621,7 @@
        <imgName>Miss Alice Roosevelt</imgName>
        <imgDesc>Miss Alice Roosevelt, The President's Eldest Daughter</imgDesc>
       </image>
+      <note place="unspecified" anchored="yes">Describes virtually every facet of how Washington, D.C. worked at the time of writing. Found online at http://books.google.com/books?id=oD8VAAAAYAAJ&printsec=frontcover&dq=thirty+years+in+washington+or+life+and+scenes+in+our+national+capital&hl=en&ei=xGH2TfipOsnx0gH69ujvDA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCoQ6AEwAA#v=onepage&q&f=false; (13 June 2011).</note>
      </bibl>
      <bibl id="a516" default="NO">
       <ref targOrder="U">516.</ref>
@@ -28682,6 +28706,26 @@
        <publisher>Brentano's,</publisher>
        <date>1910.</date>
       </imprint>
+      <note type="chapter_list">
+       <list>
+        <item>Society.  </item>
+        <item>Gay Life and Theatre Wings.  </item>
+        <item>The High Life of Gay Life.  </item>
+        <item>Noctambulists and Famous Gamblers.  </item>
+        <item>The Legend of La Marquise de Paiva.  </item>
+        <item>Among the Artists: Opera Queens.  </item>
+        <item>Among the Artists: In the Realm of Operette.  </item>
+        <item>A Trip to Cytherea.  </item>
+        <item>Leonide Leblanc.  </item>
+        <item>Anna Deslion.  </item>
+        <item>Julia Beneni (Known as La Barucci).  </item>
+        <item>Adele Courtois.  </item>
+        <item>Esther Guimond.  </item>
+        <item>Marguerite Bellanger.  </item>
+        <item>Adele Remy.  </item>
+        <item>The Heavy Battalion of Cytherea X.  </item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a518" default="NO">
       <ref targOrder="U">518.</ref>
