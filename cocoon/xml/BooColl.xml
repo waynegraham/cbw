@@ -28129,6 +28129,7 @@
       <note place="unspecified" anchored="yes"> Contains portraits and biographical sketches of
        members, with poetry and prose selections by them. Includes list of Michigan women taxpayers
        and wage earners, <date>1893</date> [statistics.]. Michigan Woman's Press Club. </note>
+      <note place="unspecified" anchored="yes">No table of contents: can be found online at http://hdl.handle.net/2027/mdp.39015071254026 (13 June 2011).</note>
      </bibl>
      <bibl id="a505" default="NO">
       <ref targOrder="U">505.</ref>
@@ -28364,7 +28365,25 @@
       </imprint>
       <title>
        <hi rend="italics">Studia Sinaitica</hi>
-      </title> 9-10. </bibl>
+      </title> 9-10. 
+     <note type="toc">
+      <list>
+       <item>Eugenia</item>
+       <item>Mary - Marinus</item>
+       <item>Euphrosyne</item>
+       <item>Onesima</item>
+       <item>Drusis</item>
+       <item>Barbara</item>
+       <item>Mary (slave of Tertullius)</item>
+       <item>Irene</item>
+       <item>Euphemia</item>
+       <item>Sophia</item>
+       <item>Cyprian and Justa</item>
+       <item>Hymn of Mar Ephraim</item>
+       <item>Colophon</item>
+      </list>
+     </note>
+     </bibl>
      <bibl id="a511" default="NO">
       <ref targOrder="U">511.</ref>
       <idno>a511</idno>
