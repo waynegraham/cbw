@@ -21692,7 +21692,22 @@
        <publisher>Books for Libraries,</publisher>
        <date>1969.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> Notable Women of the Reign of Louis XIV. </note>
+      <note place="unspecified" anchored="yes"> Notable Women of the Reign of Louis XIV. Contains illustrations of each of the women described, as well as of Louis XIV and the Palace at Versailles.</note>
+      <note type="toc">
+       <list>
+        <item>Mme de Longueville (1619-1679)</item>
+        <item>Mme de Motteville (1621-1689) and Anne of Austria</item>
+        <item>Mlle de Montpensier (1627-1693): Part I. Le plus beau parti de France</item>
+        <item>Henriette, Duchesse d'Orleans (1644-1670)</item>
+        <item>Mlle de la Valliere (1644-1710)</item>
+        <item>Olympe, Comtesse de Soissons (1637-1708)</item>
+        <item>Ninon de L'Enclos (1644-1710)</item>
+        <item>Mme de Montespan (1641-1707)</item>
+        <item>Mlle de Montpensier (1627-1693): Part II> La Grande Mademoiselle and Lauzun</item>
+        <item>Mme des Ursins (1642-1722)</item>
+        <item>Mme de Maintenon (1638-1719)</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a365" default="NO"><ref targOrder="U">365.</ref>
       <idno>a365</idno>
@@ -27158,6 +27173,7 @@
        <publisher>University Press of New England,</publisher>
        <date>2002</date>
       </imprint>
+      <note place="unspecified" anchored="yes">NOT: Collective autobiography. This book consists of the personal narratives of Jewish women living in Palestine between 1904 and 1928. The Council of the Women Workers of Palestine decided in 1928 to put the book together, and invited about 50 women, most of who did agricultural work in Palestine, to contribute their stories. These stories were edited and organized into a book by Rachel Katzenelson-Rubashow. Most of the book deals with the Jewish women's struggles with work and finding their place in their new homes in Palestine.</note>
      </bibl>
      <bibl id="a476" default="NO">
       <ref targOrder="U">476.</ref>
@@ -27495,6 +27511,21 @@
        <publisher>MacLehose,</publisher>
        <date>1933.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Margaret of Scotland, Queen and Saint</item>
+        <item>In the Middle Ages</item>
+        <item>Marie of Guise-Lorraine</item>
+        <item>Mary Queen of Scots</item>
+        <item>Some Women of Covenanting Times</item>
+        <item>Helen Walker</item>
+        <item>Flora Macdonald</item>
+        <item>Song-Writers</item>
+        <item>Mary Slessor</item>
+        <item>Dr. Elsie Inglis</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">Contains illustrations of Queen Margaret and Malcolm Canmore, Saint Margaret's Chapel, Marie of Guise-Lorraine, Mary Queen of Scots, Flora Macdonald, Lady Anne Lindsay, Lady Nairne and her son, and the Nursing Sevices Memorial in Scotland.</note>
      </bibl>
      <bibl id="a481" default="NO">
       <ref targOrder="U">481.</ref>
