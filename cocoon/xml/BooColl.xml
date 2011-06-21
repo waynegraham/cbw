@@ -18892,7 +18892,7 @@
      </bibl>
      <bibl id="a302A" default="NO">
       <ref targOrder="U">302A.</ref>
-      <idno>a302a</idno>
+      <idno>a302A</idno>
       <editor role="editor"><name type="last">Foster</name>, <name type="first">Warren
        Dunham</name>, ed. </editor>
       <title type="ref">
@@ -27620,7 +27620,7 @@
        <publisher>Kendrick,</publisher>
        <date>1839.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">British Library.</note>
+      <note place="unspecified" anchored="yes">British Library.  Rare, non-circulating, and not available online (2011). </note>
      </bibl>
      <bibl id="a483" default="NO">
       <ref targOrder="U">483.</ref>
@@ -28686,7 +28686,8 @@
        <imgName>Miss Alice Roosevelt</imgName>
        <imgDesc>Miss Alice Roosevelt, The President's Eldest Daughter</imgDesc>
       </image>
-      <note place="unspecified" anchored="yes">Describes virtually every facet of how Washington, D.C. worked at the time of writing. Found online at http://books.google.com/books?id=oD8VAAAAYAAJ&printsec=frontcover&dq=thirty+years+in+washington+or+life+and+scenes+in+our+national+capital&hl=en&ei=xGH2TfipOsnx0gH69ujvDA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCoQ6AEwAA#v=onepage&q&f=false; (13 June 2011).</note>
+      <note place="unspecified" anchored="yes">Describes virtually every facet of how Washington, D.C. worked at the time of writing. 
+       Found online at Google Books and Internet Archive (21 June 2011).</note>
      </bibl>
      <bibl id="a516" default="NO">
       <ref targOrder="U">516.</ref>
@@ -28963,7 +28964,7 @@
         <item>Trail Blazers of the Twentieth Century: Jane Addams - Charlotte Perkins Gilman.  </item>
         <item>French Queens of the Sixteenth Century: Margaret of Navarre - Catherine de'Medici - Diane de Poitiers.  </item>
         <item>Women in the Scientific World: Marie Curie - Rosalie Slaughter Morton.  </item>
-        <item>With the Poets: Harriet Monroe - Eunice Tietjens - Amy Lowell.  </item>\
+        <item>With the Poets: Harriet Monroe - Eunice Tietjens - Amy Lowell.  </item>
         <item>Reforming Crusader and Crusading Reformer: Elizabeth Fry - Harriet Beecher Stowe.  </item>
         <item>Victorians: Queen Victoria - Lucie Duff Gordon.  </item>
         <item>Behind the Footlights: Fanny Kemble - Sarah Berhnhardt.  </item>
@@ -28971,7 +28972,8 @@
         <item>Conquest of the Air: Anne Morrow Lindbergh - Amelia Earhart.  </item>
        </list>
       </note>
-      <note>Thin green volume. The University of North Carolina Library Extension Publication, Volume IV, No. 6, July 1938.  Each entry describes the life of the woman mentioned for 2 or 3 paragraphs, then gives a list of suggestions for further reading.</note>
+      <note place="unspecified" anchored="yes">Thin green volume. The University of North Carolina Library Extension Publication, Volume IV, No. 6, July 1938.  
+       Each entry describes the life of the woman mentioned for 2 or 3 paragraphs, then gives a list of suggestions for further reading.</note>
      </bibl>
      <bibl id="a523" default="NO"><ref targOrder="U">523.</ref>
       <idno>a523</idno>
@@ -28983,9 +28985,25 @@
       <imprint>
        <pubPlace>Baltimore:</pubPlace>
        <publisher>King,</publisher>
-       <date>1931;</date>
-       <date>1942.</date>
+       <date>1931 (v. 1);</date>
+       <date>1937 (v. 2)</date>
+       <date>1942 (v. 3).</date>
       </imprint>
+      <note place="unspecified" anchored="yes">First volume (517 pages); following, 417 and 444 pages respectively.  Bound in black with the Maryland
+      seal on the front cover in gold.  Margie H. Luckett, "Editor and Publisher," appears to have signed each title page; this is supported by the bookplates
+      of the Library of the University of Virginia: "Presented by Mrs. Edmund Boone Luckett" (typed).  She appears in the frontispiece of the third volume, captioned Mrs. Edmond Boone Luckett, The Author, where in volume one Queen Henrietta
+      Maria and in volume two Queen Anne appeared. Each volume is dedicated to one of Mrs. Luckett's daughters.  The third volume differs in a glossy insert
+      between copyright and dedication pages: the lyrics to the Star-Spangled Banner, facing a color image of the flag above the Pledge of Allegiance.  This
+      seems likely to be prompted by the war ongoing in 1942.  The brief "Foreword" to v. 3 states: "Responding to a continued demand for Maryland Women,
+      the author has compiled the third volume; this volume before leaving the press has been ordered by different universities, to be placed by volume 1 and volume
+      2 as reference books.  The author has derived great pleasure in the contact of these native and adopted Maryland Women.  To quote Carlyle, who said, 'he 
+      would give more for a single picture of a man than all the books that might be written of him.'"  Short alphabetical entries (indexed) take very different 
+      forms, suggesting self- or family-contributed bios, most with glossy photographs of the subject.  The contents appear almost entirely distinct in each
+      volume, though the daughter Elise Luckett Balsam, featured in volume one, has an obituary in volume three (sadly inserted with her beautiful portrait
+      and paginated "6A"), and one Mrs. John Nicholas Brown (Anne Kinsolving), misplaced in the alphabet at the very end of volume one, reappears 3: 23.  These
+      appear all to be white women; some could be Jewish, though this is not remarked; a number have careers in music, the arts, journalism, even sky-diving,
+      and at least one is a suffrage advocate.  Some portraits show pageantry, as women play the role of queens or the Goddess of Liberty (3: 28).  The inclusion
+      of English nobility and royalty goes along with a frequent insistence on genealogy and membership in the Daughters of the American Revolution.</note>
      </bibl>
      <bibl id="a524" default="NO">
       <ref targOrder="U">524.</ref>
