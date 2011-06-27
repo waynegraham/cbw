@@ -20336,6 +20336,34 @@
        <publisher>Lutterworth,</publisher>
        <date>1937.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Hagar</item>
+        <item>Rebekah</item>
+        <item>Rachel</item>
+        <item>Pharaoh's Daughter</item>
+        <item>Delilah</item>
+        <item>Naomi</item>
+        <item>Ruth</item>
+        <item>The Widow of Zarephath</item>
+        <item>Jezebel</item>
+        <item>The Shunammite Woman</item>
+        <item>Esther</item>
+        <item>Mary the Mother of Jesus</item>
+        <item>The Woman of Samaria</item>
+        <item>The Woman with the Box of Ointment</item>
+        <item>Elisabeth</item>
+        <item>The Widow of Nain</item>
+        <item>Martha and Mary</item>
+        <item>The Woman of Canaan</item>
+        <item>The Woman Who Touched the Hem of His Garment</item>
+        <item>Mary Magdalene</item>
+        <item>The Women at the Sepulchre</item>
+        <item>Lydia of Thyatria</item>
+        <item>Priscilla</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">At the beginning of each chapter, on the left-hand page, there is a hand-drawn illustation of a scene from the life of the Biblical woman the chapter is describing, with a narrative caption.</note>
      </bibl>
      <bibl id="a336" default="NO"><ref targOrder="U">336.</ref>
       <idno>a336</idno>
@@ -23075,6 +23103,16 @@
        trait: “Deborah. (The Helper, Through Personal Influence).” Includes “Jochabed the Mother of
        Moses, Aaron, and Miriam,” “Hannah, the Mother of Samuel,” Deborah, Naomi, Esther, and
        Phoebe, a “deaconess” of “the early Church” (87-88). </note>
+      <note type="chapter_list">
+       <list>
+        <item>Jochabed. (The Helper, Through the Home).  </item>
+        <item>Deborah.  (The Helper, Through Personal Influence).  </item>
+        <item>Hannah. (The Helper, Through Self-Sacrifice).  </item>
+        <item>Naomi. (The Helper, Through Enduranceand Unselfishness).  </item>
+        <item>Esther.  (The Helper, Through Faithfulness).  </item>
+        <item>Phoebe.  (The Helper, Through the Church).  </item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a389" default="NO">
       <ref targOrder="U">389.</ref>
@@ -23182,6 +23220,16 @@
        <date>n.d.</date>
       </imprint>
       <note place="unspecified" anchored="yes">WorldCat. Same as next record?</note>
+      <note type="toc">
+       <list>
+        <item>Mrs. Johnston of the West Indies</item>
+        <item>Mrs. Boweb Thompson of Syria</item>
+        <item>Mrs. Gobat of Abyssinia and Jerusalem</item>
+        <item>Mrs. Robert Moffat of Kuruman</item>
+        <item>Mrs. Margaret Cargill of the Fiji Islands</item>
+        <item>Miss Whately of Cairo</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a394" default="NO">
       <ref targOrder="U">394.</ref>
@@ -23736,6 +23784,22 @@
        <publisher>Wells Gardner, Darton,</publisher>
        <date>1909.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Mother Hilda</item>
+        <item>The Abbess Elfleda</item>
+        <item>Saint Etheldreda</item>
+        <item>The Flight of Saint Frideswide</item>
+        <item>A Princess of Mercia</item>
+        <item>Saint Milburgh</item>
+        <item>The Widow of Glastonbury</item>
+        <item>Kieran's Little Nurse-girl</item>
+        <item>Brigit the Shepherdess</item>
+        <item>A Tale of a Saintly Queen</item>
+        <item>Saint Melangell and Her Lambs</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">The titles of chapters appear in large, elaborate letters with illustrations around them, illuminated-manuscript style. There are illustrations at the beginning of each chapter, and sometimes within the chapters. Most of the illustrations depict the respective saint for the chapter, but others relate to other elements of the narrative, such as the pictures of Beowulf and Grendel in the chapter on the Widow of Glastonbury. The final pages of the book contain a table of the saints with their respective feast days; notes on their shrines, emblems, and coat-of-arms; and a small glossary and bibliography. </note>
      </bibl>
      <bibl id="a407" default="NO">
       <ref targOrder="U">407.</ref>
@@ -28474,6 +28538,44 @@
        <publisher>Behrman's Jewish Book House,</publisher>
        <date>1940.</date>
       </imprint>
+      <note type="chapter_list">
+       <list>
+        <item>Sarah, the Mother of Her People.  </item>
+        <item>Rebecca, the Girl Who Was Kind to Strangers.  </item>
+        <item>Rachel and Leah, the Daughters of Laban.  </item>
+        <item>Jochebed, the Mother Who Saved Her Baby.  </item>
+        <item>Miriam, Who Danced by the Sea.  </item>
+        <item>Deborah, the Woman Judge.  </item>
+        <item>The Daughter of Jephthah.  </item>
+        <item>Ruth, the Girl Who Came from Moab.  </item>
+        <item>Hannah, the Mother of Samuel.  </item>
+        <item>Shulamith, the Girl of the Vineyards.  </item>
+        <item>Huldah, a Teacher in Israel.  </item>
+        <item>Judith of Bethulia.  </item>
+        <item>Esther, a Star of Good Fortune.  </item>
+        <item>Hannah, the Mother of the Seven Martyrs.  </item>
+        <item>Marianne, a Most Unhappy Queen. </item>
+        <item>Helena, a Royal Proselyte.  </item>
+        <item>Ima Shalom, the Wise.  </item>
+        <item>Rachel, Who Gave a Great Leader to Israel.  </item>
+        <item>Beruria, the Learned Wife of Rabbi Meir.  </item>
+        <item>The Wife of Sidon.  </item>
+        <item>Gracia Mendesia, 'The Heart of Her People.'  </item>
+        <item>Maria Nunez of Portugal.  </item>
+        <item>Henriette Herz, the Woman Who Stood at the Crossroads.  </item>
+        <item>Rachel, Queen of the Stage.  </item>
+        <item>Grace Aguilar, a Defender of Her Race.  </item>
+        <item>Judith Montefiore, Traveller in Many Lands.  </item>
+        <item>Rebecca Gratz, a Lady of Old Philadelphia.  </item>
+        <item>Penina Moise, Sweet Singer of Israel.  </item>
+        <item>Emma Lazarus, Poet of Her People.  </item>
+        <item>Clara de Hirsch, a Wise and Generous Giver.  </item>
+        <item>Lina Straus, Who Heard the Cry of the Needy.  </item>
+        <item>Sophie Irene Loeb, the Friend of Little Children.  </item>
+        <item>Sarah Chizick, a Lover of Palestine.  </item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">The table of contents is divided into three sections: "In the Early Days" (Sarah through Hannah), "In Talmudic Tmes" (Mariamne through the Wife of Sidon), and "In Later Days and in Our Own Times" (Gracia Mendesia through Sarah Chizick). There are stark, black-and-white, hand-drawn illustrations of scenes for Rebecca, the Daughter of Jephthah, Ruth, Shulamith, Esther, Mariamne, Rachel wife of Akiba, the Wife of Sidon, Maria Nunez, Grace Aguilar, and Rebecca Gratz, with narrative captions.</note>
      </bibl>
      <bibl id="a509" default="NO">
       <ref targOrder="U">509.</ref>
@@ -28489,6 +28591,49 @@
        <date>[1900s?].</date>
       </imprint>
       <note place="unspecified" anchored="yes"> Original in German, Columbus, <date>1895</date>.
+      </note>
+      <note type="toc">
+       <list>
+        <item>Eve</item>
+        <item>Sarah</item>
+        <item>Rebecca</item>
+        <item>Leah and Rachel</item>
+        <item>Miriam</item>
+        <item>Rahab</item>
+        <item>Deborah</item>
+        <item>Jephtha's Daughter</item>
+        <item>Ruth</item>
+        <item>Hannah</item>
+        <item>Michal</item>
+        <item>Abigail</item>
+        <item>The Witch of Endor</item>
+        <item>Bathsheba</item>
+        <item>The Queen of Arabia</item>
+        <item>Jezebel</item>
+        <item>Athalia</item>
+        <item>Esther</item>
+        <item>The Old Testament Ideal for Women</item>
+        <item>Elizabeth</item>
+        <item>Mary, the Mother of Jesus</item>
+        <item>Mary, the Mother of Jesus (concluded)</item>
+        <item>Herodias</item>
+        <item>The Woman of Samaria</item>
+        <item>The Woman of Canaan</item>
+        <item>Salome</item>
+        <item>Mary Magdalene</item>
+        <item>Mary, the Wife of Cleophas</item>
+        <item>Martha</item>
+        <item>Mary of Bethany</item>
+        <item>Sapphira</item>
+        <item>Dorcas</item>
+        <item>Rhoda</item>
+        <item>Lois and Eunice</item>
+        <item>Lydia</item>
+        <item>Priscilla</item>
+        <item>Phoebe</item>
+        <item>The New Testament Ideal for Women</item>
+        <item>Woman in Biblical Symbolism</item>
+       </list>
       </note>
      </bibl>
      <bibl id="a510" default="NO"><ref targOrder="U">510.</ref>
@@ -28808,6 +28953,26 @@
        <date>1939;</date>
        <date>1941.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Eve, the Mother of Mankind</item>
+        <item>Sarah</item>
+        <item>Rachel</item>
+        <item>Deborah</item>
+        <item>Jezebel</item>
+        <item>Ruth</item>
+        <item>Esther</item>
+        <item>The Virtuous Woman</item>
+        <item>Mary the Mother of Jesus</item>
+        <item>The Woman of Samaria</item>
+        <item>Mary Magdalene</item>
+        <item>The Widow of Nain</item>
+        <item>Martha and Mary</item>
+        <item>Lydia</item>
+        <item>Priscilla</item>
+        <item>The Women in the Background</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a519" default="NO">
       <ref targOrder="U">519.</ref>
@@ -36112,6 +36277,16 @@
        <publisher>Nelson,</publisher>
        <date>1939.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
+        <item>Mother St. Dominic</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
+        <item>Christina Forsyth</item>
+        <item>Mary Bird</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">Each chapter has a portrait of the woman it is about, either a photograph or a painted portrait.</note>
       </bibl>
      <bibl id="a704" default="NO">
       <ref targOrder="U">704.</ref>
