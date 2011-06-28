@@ -24452,6 +24452,20 @@
        <publisher>Scribner's,</publisher>
        <date>n.d.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Lady Charlotte Duncombe</item>
+        <item>Viscountess St. Asaph</item>
+        <item>Lady Charlotte Campbell</item>
+        <item>Jane Elizabeth, Viscountess Andover</item>
+        <item>Lady Gertrude Villiers</item>
+        <item>Lady Langham</item>
+        <item>The Countess of Euston</item>
+        <item>Lady Catherine Howard</item>
+        <item>The Duchess of Rutland</item>
+        <item>Lady Gertrude Fitzpatrick</item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes"> WorldCat: London, Field &amp; Tuer [etc.]; New York,
        Scribner &amp; Welford, <date>n.d.</date> See <ref target="a883" targOrder="U">Willing</ref>.
        Hoppner (<date>1758-1810</date>) emulated Reynolds, popular portrait painter. Reproducing his
@@ -24475,7 +24489,21 @@
       <imprint>
        <date>1929-30.</date>
       </imprint>
+      <note type="chapter_list">
+       <list>
+        <item>Part I: The Change in Position of the Woman Novelist, 1688-1797.  </item>
+        <item>Chapter I: "The Fair Triumvirate of Wit."  </item>
+        <item>Chapter II: The "Lady" Novelist.  </item>
+        <item>Chapter III: The Period of the Bluestockings.  </item>
+        <item>Part II: "The Qualities of Females."  </item>
+        <item>Introduction</item>
+        <item>Chapter I: The Beginnings of the Psychological Novel.  </item>
+        <item>Chapter II: The Evolution of the Heroine.  </item>
+        <item>Conclusion.  </item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes">Revised M. A. thesis.</note>
+      <note place="unspecified" anchored="yes">The female novelists studied for this thesis include Penelope Aubin, Jane Austen, Jane Barker, Aphra Behn, Frances Burney, Sarah Fielding, Eliza Haywood, Elizabeth Inchbald, Charlotte Lennox, Mary de la Riviere Manley, Ann Radcliffe, Clara Reeve, Madeleine de Scudery, Frances Sheridan, and Charlotte Smith.</note>
      </bibl>
      <bibl id="a418" default="NO"><ref targOrder="U">418.</ref>
       <idno>a418</idno>
@@ -24746,7 +24774,8 @@
        <pubPlace>Boston:</pubPlace>
        <publisher>New England Historical,</publisher>
        <date>1904.</date>
-      </imprint>
+       </imprint>
+      <note>This long book (600+ pages) contains brief biographies of several hundred women, with occasional photographs. A PDF of it can be found online at archive.org (28 June 2011).</note>
      </bibl>
      <bibl id="a424" default="NO"><ref targOrder="U">424.</ref>
       <idno>a424</idno>
@@ -25263,6 +25292,32 @@
        <publisher>Froben,</publisher>
        <date>1933.</date>
       </imprint>
+      <note type="chapter_list">
+       <list>
+        <item>Chapter I: Early Midwives in the Colonies. - The Hunt Sisters in Boston. - Medical Education Before 1850.  </item>
+        <item>Chapter II: New York and London. - Elizabeth Blackwell, M.D., Geneva, New York, 1849. - Emily Blackwell, M.D., Cleveland, Ohio. 1854. - Elizabeth Garrett, Diploman of the Society of Apothecaries, London, 1865; M.D. Paris, 1870.  </item>
+        <item>Chapter III: Philadelphia. - Ann Preston, M.D., 1852. - Her Diploma from The Female Medical College of Philadelphia. - The First Medical College in the World for Women.  </item>
+        <item>Chapter IV: Boston. - The Work of Marie Zakrzewska, M.D., Cleveland, Ohio, 1856. - The New England Hospital for Women and Children, 1862.  </item>
+        <item>Chapter V: England and Scotland. - The Work of Sophia Jex Blake, M.D., Berne, Switzerland, 1877.  </item>
+        <item>Chapter VI: Paris and New York. - Mary Putnam Jacobi, M.D. - Woman's Medical COllege of Pennsylvania, 1864; Paris, 1871. - Other Medical Schools for Women in America. - Hospitals Founded by and for Medical Women in America. - Women as Medical Students.  </item>
+        <item>Chapter VII: Eclectic, Thomsonian, and Homeopathic Medical Schools. - The Schools at Rochester, New York, and Cleveland, Ohio. - Lydia Folger Fowler, M.D., 1850. - Sarah Adamson Dolley, M.D., 1851. - Rachel Brooks Gleason, M.D., 1851.  </item>
+        <item>Chapter VIII: The 'Regular' Medical School of Cleveland, Ohio. - The First Co-educational Medical School in the United States. - Nancy Talbot Clark, of Boston, the First Graduate, 1852. - Cordelia A. Green, M.D., 1856.  </item>
+        <item>Chapter IX: The University of Michigan Medical School. - Amanda Sanford, M.D., 1869. - Emma L. Call, M.D., 1873. - Sarah A. Gertrude Banks, M.D., 1873. - Eliza M. Mosher, M.D., 1875.  </item>
+        <item>Chapter X: The Progress of Medical Women in Professional Work, a Comparison of 1850 and 1930.  </item>
+        <item>Chapter XI: Admission of Medical Women to Hospital Positions, 1848-1883.  </item>
+        <item>Chapter XII: Medical Women as Teachers, Investigators, and Lecturers in Medical Schools.  </item>
+        <item>Chapter XIII: Women Admitted to Medical Societies Organized by Men.  </item>
+        <item>Chapter XIV: Women Doctors in Preventive Medicine, Cancer Research, Laboratories. - Dr. Maude E.S. Abbott, Director of the McGill University Medical Museum.  </item>
+        <item>Chapter XV: Women as Surgeons. - Emmeline Horton Cleveland, M.D., 1855, First Woman Ovariotomist in America.  </item>
+        <item>Chapter XVI: Medical Women in the Army and Navy. - Mary E. Walker, M.D., Syracuse University, 1855. - Anita Newcomb McGee, M.D., George Washington University, 1892, and Others.  </item>
+        <item>Chapter XVII: Medical Women in Medico-Social Work at Home and in Foreign Missions. - Clara Swain, the First Medical Missionary, 1869.  </item>
+        <item>Chapter XVIII: The American Women's Hospitals. - A Committee of the Medical Women's National Association.  </item>
+        <item>Chapter XIX: Medical Women as Writers of Scientific or Popular Books, or Articles for Journals.  </item>
+        <item>Chapter XX: Statistics as to the Personell of the Medical Women's National Association as Gathered from a Questionnaire Sent to Its Members in 1931.  </item>
+        <item>Chapter XXI: Conclusions and Summary.  </item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">The back of the book contains several glossy pages with portraits, some painted and some photographic, of many of the individual medical women mentioned in the text.</note>
      </bibl>
     </div2>
     <div2 type="letter" n="I" org="uniform" sample="complete" part="N">
@@ -28684,6 +28739,32 @@
        <publisher>Robinson,</publisher>
        <date>1904.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Rebekah</item>
+        <item>Rachel</item>
+        <item>Lot's Wife</item>
+        <item>Miriam</item>
+        <item>Deborah</item>
+        <item>Jael</item>
+        <item>Jephthah's Daughter</item>
+        <item>Abigail</item>
+        <item>Jezebel</item>
+        <item>The Little Hebrew Maid</item>
+        <item>Esther</item>
+        <item>The Mother of Our Lord</item>
+        <item>Martha and Mary</item>
+        <item>The Woman of Samaria</item>
+        <item>The Syro-Phoenician Woman</item>
+        <item>The Widw Who Gave Her Two Mites</item>
+        <item>The Penitent Sinner</item>
+        <item>Mary Magdalene</item>
+        <item>Dorcas</item>
+        <item>Lydia</item>
+        <item>Aquila and Priscilla</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">The book was actually co-written by several authors, with different chapters being written by H. Elvet Lewis, J.G. Greenhough, Walter F. Adeney, D. Rowlands, P. Carnegie Simpson, and George Milligan. The last pages of the book contain advertisements for "A List of Theological Books, Published and Imported by James Robinson."</note>
      </bibl>
      <bibl id="a512" default="NO">
       <ref targOrder="U">512.</ref>
