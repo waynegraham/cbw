@@ -28378,8 +28378,33 @@
        <publisher>Revell;</publisher>
        <pubPlace>Chicago:</pubPlace>
        <publisher>Bible Institute Colportage Assoc.,</publisher>
+       <publisher>Revell,</publisher>
        <date>1900.</date>
       </imprint>
+      <note type="chapter_list">
+       <list>
+        <item>Hannah, the Praying Mother</item>
+        <item>Elisabeth, the Pious Mother</item>
+        <item>Jochebed, the Tried Mother</item>
+        <item>Eunice, Timothy's Mother</item>
+        <item>The Rival Mothers</item>
+        <item>The Shunammite, the Brave Mother</item>
+        <item>Sarah, A Mother of Nations</item>
+        <item>The Widowed Mother</item>
+        <item>The Trusting Mother</item>
+        <item>Rebekah, the Unwise Mother</item>
+        <item>The Canaanite, the Prevailing Mother</item>
+        <item>Naomi, the Sorrowing Mother</item>
+        <item>Hagar, the Homeless Mother</item>
+        <item>Rachel, the Dying Mother</item>
+        </list>
+      </note>
+      <note type="unspecified" anchored="yes">Part of The Red Library (Northwestern University Library School of Education
+      bookplate, signed or stamped "GeoH.Betts" in script), with hazy engravings of biblical scenes in different styles (from
+      various sources).  Each chapter has a titlepage with epigraph or Bible verse (recto) and additional epigraph (verso), beginning
+      the narrative on the following page.  Poems and hymn lyrics are interspersed. A one-sentence Preface: "I pray that this 
+      little book may be as useful to "Mothers" in America as I belive it has been on this side [sic] the Atlantic.  
+      Charles Leach, Cavendish Chapel, Manchester, England."</note>
      </bibl>
      <bibl id="a504" default="NO">
       <ref targOrder="U">504.</ref>
@@ -29188,7 +29213,7 @@
      <bibl id="a522" default="NO">
       <ref targOrder="U">522.</ref>
       <idno>a522</idno>
-      <author><name type="last">Love</name>, <name type="first">Cornelia Spencer</name>.</author>
+      <author><name type="last">Love</name>, <name type="first">Cornelia Spencer</name>. </author>
       <title type="ref">
        <hi rend="italics">Famous Women of Yesterday and Today.</hi>
       </title>
@@ -29203,7 +29228,16 @@
       <imprint>
        <date>1938.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> “An outline for individual and group study.” </note>
+      <note place="unspecified" anchored="yes"> These pamphlets 
+       are "published six times a year" as a series that includes C. S. Love, 
+       <hi rend="italics">Other People's Lives</hi>, 1928, 1931, 1933, among works on biography, history, drama, literature, and other
+       subjects.  The "University Extension Library" is designed to share "the advantages available to residents of the 
+       University" through study guides and lending of the books studied.  A complex procedure and fees allow clubs 
+       to register for the guides and to borrow the books, which outline topical meetings and additional references. A thin issue bound in
+       green paper: vol. IV No. 6 (July, 1938). Each entry describes the life of the woman mentioned for 2 or 3 
+       paragraphs, then gives a list of suggestions for further reading; the two or three women under each chapter 
+       title would be studied at one of the fourteen meetings of a reading club.</note>
+     </bibl>
       <note type="chapter_list">
        <list>
         <item>Women of Concord: Louisa May Alcott - Rose Hawthorne Lathrop.  </item>
@@ -29222,10 +29256,7 @@
         <item>Conquest of the Air: Anne Morrow Lindbergh - Amelia Earhart.  </item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes">Thin green volume. The University of North Carolina Library Extension Publication, Volume IV, No. 6, July 1938.  
-       Each entry describes the life of the woman mentioned for 2 or 3 paragraphs, then gives a list of suggestions for further reading.</note>
-     </bibl>
-     <bibl id="a523" default="NO"><ref targOrder="U">523.</ref>
+      <bibl id="a523" default="NO"><ref targOrder="U">523.</ref>
       <idno>a523</idno>
       <editor role="editor"><name type="last">Luckett</name>, <name type="first">Margie
        Hersh</name>,</editor> ed. <title type="ref">
@@ -29296,7 +29327,7 @@
       <ref targOrder="U">526.</ref>
       <idno>a526</idno>
       <author><name type="last">Lundholm</name>, <name type="title">Rev.</name>
-       <name type="first">Algot Theodore</name>, </author>
+       <name type="first">Algot Theodor</name>, </author>
       <title type="ref">
        <hi rend="italics">Women of the Bible.</hi>
       </title>
@@ -29308,8 +29339,54 @@
        <date>1948;</date>
        <date>1954;</date>
        <date>1957;</date>
+       <date>1959;</date>
        <date>1961.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">"The following pen pictures of some of the outstanding women of the Bible
+      were originally prepared for the study period at the regular meetings of the women's organization in two churches
+      where the author served as pastor during twenty-two years"(Preface, n.p.; dated 1948).  Originally in two volumes.
+      In two sections, Old and New Testament. Not exclusively biography; will open out into general precepts or first-
+      person anecdotes, e.g. "Some years ago I was called to the bedside of a sick man" (59). "Every mother is an author,"
+      her books are her children.  "Deborah knew how to rule" (70).  With wide margins and fairly large type, a plain and
+      plain-spoken book, each chapter beginning with chapter and verse and segmented with subheadings, it begins with 
+      "The Magnificat" Luke 1:46-55 printed in the shape of a cross on a pediment.  Sentences underlined, chapter numbers
+      circled.</note>
+      <note type="chapter_list">
+       <list>
+        <item>Woman: The Ideal According to the Scriptures</item>
+        <item>Eve: The Mother of the Human Race</item>
+        <item>Sarah: The Wife of Abraham</item>
+        <item>Rebekah: The Wife of Isaac</item>
+        <item>Rachel: The Mother of Joseph</item>
+        <item>Miriam: Singer, Sister, and Patriot</item>
+        <item>Ruth: The Foremother of Christ</item>
+        <item>Deborah: Judge, Warrior, and Singer</item>
+        <item>Jephtha's Daughter: An Example of Filial Devotion</item>
+        <item>Delilah: Sampson's Faithless Wife</item>
+        <item>Witch at Endor: Who Practiced Sorcery</item>
+        <item>Hannah: the Mother of Samuel</item>
+        <item>Abigail: The Tragedgy of an Unhappy Marriage</item>
+        <item>Queen of Sheba: Solomon's Royal Guest</item>
+        <item>Jezebel: Cursed by Her Own Hatred</item>
+        <item>The Shunammite: The Hospital Matron</item>
+        <item>Queen Esther: The Saviour of Her Own People</item>
+        <item>Elisabeth: Mother of John the Baptist</item>
+        <item>Mary: The Mother of Jesus</item>
+        <item>Anna: Widow and Missionary</item>
+        <item>Martha: Who Lived to Serve</item>
+        <item>Mary: Who Lived to Worship</item>
+        <item>Mary Magdalene: Saved to Minister</item>
+        <item>At Jacob's Well: The Woman With a Past</item>
+        <item>Woman of Canaan: The Power of a Mother's Plea</item>
+        <item>Joanna: Wife of Herod's Steward</item>
+        <item>Jairus' Daughter: The Power of a Father's Prayer</item>
+        <item>Herodias: Mother of Salome</item>
+        <item>Sapphira: The Wife of Ananias</item>
+        <item>Dorcas: The Woman of Good Works</item>
+        <item>Lydia: The Christian Business Woman</item>
+        <item>The Elect Lady: The Ideal Christian Matron</item>
+       </list>
+      </note>
      </bibl>
     </div2>
     <div2 type="letter" n="M" org="uniform" sample="complete" part="N">
