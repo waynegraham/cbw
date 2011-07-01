@@ -21385,6 +21385,7 @@
         <item>Margaret Wilson</item>
         <item>Matilda Countess von der Recke Volmerstein</item>
         <item>Christine Alsop</item>
+        <item>Sarah A. and Elizabeth W.</item>
         <item>Christian Eddy</item>
         <item>Louise Schepler</item>
         <item>Fidelia Fiske</item>
@@ -21392,7 +21393,7 @@
         <item>Lena Huber</item>
         <item>Viscountess Wilhelmina Glenorchy</item>
         <item>Isabella Graham</item>
-        <item>“Marie.”</item>
+        <item>“Marie”</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes">
@@ -21410,9 +21411,7 @@
        <publisher>Hodder &amp; Stoughton,</publisher>
        <date>1885.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">Possible duplicate of <title>
-        <hi rend="italics">Christian Womanhood</hi>
-      </title>.</note>
+      <note place="unspecified" anchored="yes">In series with other books by Hack.</note>
       <note type="toc">
        <list>
         <item>Darcy Lady Maxwell</item>
@@ -21422,10 +21421,24 @@
         <item>Sarah B. Judson</item>
         <item>Priscilla Johnston</item>
         <item>Margaret Foreman</item>
-        <item>Eliza Fletcher.</item>
+        <item>Eliza Fletcher</item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes">Last pages containt advertisements for other books by Mary Pryor Hack, including Christian Womanhood, Self-Surrender, and Consecrated Women, as well as Eliza Fletcher: A Woman's Work: Memorials of Eliza Fletcher by Rev. C.A. Salmond, and Mrs. Prentiss, Her Life and Letters, by Rev. G. L. Prentiss.</note>
+      <note place="unspecified" anchored="yes">Blue-green cloth binding, with gold stamped title and "By the Author of 'Consecrated Women'" (no
+       indication of author's name) and an array of gold and red ivy leaves on the cover (and spine), befits the claim, "elegantly bound in cloth, crown 8vo., 5s.," that
+       appears variously in the advertisements for other books in this series by Mary Pryor Hack.  These four pages of advertisements at back of volume 
+       include <hi rend="italics">Christian Womanhood</hi> ("Third Thousand") <hi rend="italics">Self-Surrender</hi> ("Third Thousand"), 
+       and <hi rend="italics">Consecrated Women</hi> ("Fifth Thousand"), 
+       as well as <hi rend="italics">A Woman's Work: Memorials of Eliza Fletcher</hi> by Rev. C.A. Salmond, "With a Facsimile of Mr. Gladstone's
+       Letter to the Author," "Fourth Edition" and <hi rend="italics">Mrs. Prentiss, The Author of "Stepping Heavenward."  Her Life and Letters</hi>, 
+       by Rev. G. L. Prentiss, "Sixth Thousand.  With Portrait and Illustrations," each of these pages filled with excerpts of periodical reviews.  
+      Book plate: Harriet K. Howell/ from/ Mary P. Hack./ 99 Trafalgar Street. Brighton."  The first two lines appear handwritten in ink, the remaining
+      printed in script.  The chapter titles consist of the subject's name followed by birth and death dates and a phrase, all but one in quotation marks.
+      Thus: I: Born 1738, died 1810; "Under his shadow"; II: Born (about) 1741, died 1807; "Found faithful"; III: Born 1791, died 1856; Working willingly
+      with her hands; IV: Born 1797, died 1881; "Given to hospitality"; V: Born 1803, died 1845; "Called with a holy calling"; VI: Born 1808, died 1852; "Putting on
+      the breastplate of faith and love"; VII: Born (probably about) 1820, died 1872; "Faithful and beloved"; VIII: Born 1831, died 1883; "Brought nigh."  Each
+      chapter preceded by a title page with epigraph (Havergal, Elizabeth Barrett Browning, Henry Wadsworth Longfellow, etc.) and a second page with a block of prose, 
+      often from another person's biography.  Reproduces correspondence and adds footnotes identifying correspondents or otherwise annotating.</note>
      </bibl>
      <bibl id="a357" default="NO"><ref targOrder="U">357.</ref>
       <idno>a357</idno>
@@ -21460,7 +21473,7 @@
         <item>Lydia Reid</item>
         <item>Harriet Jukes</item>
         <item>Susannah Gibson</item>
-        <item>Agnes Jones.</item>
+        <item>Agnes Jones</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes">
@@ -27312,10 +27325,13 @@
      <bibl id="a475" default="NO">
       <ref targOrder="U">475.</ref>
       <idno>a475</idno>
-      <author><name type="last">Katznelson-Shazar</name>, <name type="first">Rachel</name>.</author>
+      <author><name type="last">Katzenelson-Rubashow</name>, <name type="first">Rachel</name>.</author>
       <title type="ref">
        <hi rend="italics">The Plough Woman: Records of the Pioneer Women of Palestine.</hi>
       </title>
+      <edition>Rendered into English by</edition>
+      <editor role="translator"><name type="first">Maurice</name>
+       <name type="last">Samuel</name>.</editor>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Brown,</publisher>
@@ -27330,7 +27346,10 @@
        <publisher>University Press of New England,</publisher>
        <date>2002</date>
       </imprint>
-      <note place="unspecified" anchored="yes">NOT: Collective autobiography. This book consists of the personal narratives of Jewish women living in Palestine between 1904 and 1928. The Council of the Women Workers of Palestine decided in 1928 to put the book together, and invited about 50 women, most of who did agricultural work in Palestine, to contribute their stories. These stories were edited and organized into a book by Rachel Katzenelson-Rubashow. Most of the book deals with the Jewish women's struggles with work and finding their place in their new homes in Palestine.</note>
+      <note place="unspecified" anchored="yes">NOT: Collective autobiography. This book consists of the personal narratives of Jewish women living in Palestine between 1904 and 1928. 
+       The Council of the Women Workers of Palestine decided in 1928 to put the book together, and invited about 50 women, most of whom 
+       did agricultural work in Palestine, to contribute their stories. These stories were edited and organized into a book by Rachel 
+       Katzenelson-Rubashow. Most of the book deals with the Jewish women's struggles with work and finding their place in their new homes in Palestine.</note>
      </bibl>
      <bibl id="a476" default="NO">
       <ref targOrder="U">476.</ref>
