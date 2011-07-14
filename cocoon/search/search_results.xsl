@@ -124,6 +124,8 @@
 					<xsl:text> </xsl:text>
 					<xsl:value-of select="arr[@name='author']/str"/>
 					<xsl:text> </xsl:text>
+					<xsl:value-of select="arr[@name='editor']/str"/>
+					<xsl:text> </xsl:text>
 					<i>
 						<xsl:value-of select="arr[@name='title']/str[1]"/>
 					</i>
