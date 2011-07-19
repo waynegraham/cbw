@@ -14962,7 +14962,7 @@
        various women's leagues during wartime (i.e. The St. John Ambulance Brigade, the Canadian Red Cross Society, 
        Scottish Women's Hospital for Foreign Service, The Women's Volunteer Reserve, Work of the Women's Police 
        Service). The magazine-like book also features short paragraphs on Lady Fremantle, Lady McBride, Mrs. A.M. De Beck, Adeline Duchess of Bedford, and 
-       the Duchess of Westminster. There are larger profiles on Edith Cavell, Lady French, Mrs. St. Clair Stobard, and Lady Jellicoe. 
+       the Duchess of Westminster. There are larger profiles on Edith Cavell, Lady French, Mrs. St. Clair Stobart (renowned for her nursing campaign in World War I), and Lady Jellicoe. 
        Finally, the book includes essays like "The Blinded Officers, Their Care and Treatment," "Work of the Women of the Stage
        in War Time," "Women's Freedom League Settlement," "Is Motoring really a New Profession for Women?" and "The Girls' Life Brigade" written 
        by women esssayists. The book also contains illustrations of these women and some advertisements.  
@@ -19468,7 +19468,7 @@
       </imprint>
       <note place="unspecified" anchored="yes">HATHI Trust Digital Library version http://hdl.handle.net/2027/mdp.39015071338530
        indicates a 50-pp. typescript "Prepared for the Genesee Chapter DAR."  No table of contents; the text weaves names
-       into narrative, and headers focus on towns.  "Mrs. Bert M. Garner begins, "The writer of this narrative has
+       into narrative, and headers focus on towns.  Mrs. Bert M. Garner begins, "The writer of this narrative has
        found it necessary to weave bits of history around the pioneer women of Genesee County and their families else
        not much of a paper would she have been able to produce. Not so much has been recorded about the women of that early day
        as about the men" (1).</note> 
@@ -28344,10 +28344,13 @@
      <bibl id="a497" default="NO">
       <ref targOrder="U">497.</ref>
       <idno>a497</idno>
-      <author><name type="last">Latour</name>, <name type="first">Therese Louis</name>.</author>
+      <author><name type="last">Latour</name>, <name type="first">Ther&egrave;se Louis</name>.</author>
       <title type="ref">
        <hi rend="italics">Princesses, Ladies and Adventuresses of the Reign of Louis XIV.</hi>
       </title>
+      <edition>Translated by</edition>
+      <editor role="translator"><name type="first">W. Dutton</name>
+       <name type="last">Burrard</name>.</editor>
       <imprint>
        <pubPlace>Paris:</pubPlace>
        <publisher>Figuière,</publisher>
@@ -28360,11 +28363,42 @@
        <publisher>Knopf,</publisher>
        <date>1924.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Anne of Austria, the Mother of Louis XIV (1601-1666)</item>
+        <item>Anne-Marie-Louise d'Orl&eacute;ans, Duchesse de Montpensier, Known as La Grande Mademoiselle (1627-1693)</item>
+        <item>Anne-Genevi&egrave;ve de Bourbon-Cond&eacute;, Duchesse de Longueville (1619-1679)</item>
+        <item>Ninon de Lenclos (1620-1705)</item>
+        <item>Marthe du Vigean (1622-1665)</item>
+        <item>Marie Mancini (1640-1707) and Louis XIV</item>
+        <item>The Marriage of Louis XIV (1660)</item>
+        <item>Henrietta of England, Duchesse d'Orl&eacute;ans (1644-1670)</item>
+        <item>La Brinvilliers (1630-1676)</item>
+        <item>Louise de la Valli&egrave;re (1644-1710)</item>
+        <item>Madame de la Fayette (1634-1693)</item>
+        <item>Madame de S&eacute;vign&eacute; (1626-1696)</item>
+        <item>Olympe Mancini, Comtesse de Soissons (1639-1708)</item>
+        <item>Hortense Mancini, Duchesse de Mazarin (1646-1699)</item>
+        <item>Madame de Montespan (1641-1707)</item>
+        <item><hi rend="italics">Drames Myst&eacute;rieux</hi>--La Voisin and Her Associates (1676-1682)</item>
+        <item>Marie-Anne Mancini, Duchesse de Bouillon (1649-1714</item>
+        <item>Madame de Maintenon (1635-1719)</item>
+        <item>La Duchesse de Bourgogne (1685-1712)</item>
+        <item>La Duchesse du Maine (1676-1753) and the Death of Louis XIV (1715)</item>
+        <item>Note on the Mesdemoiselles de Blois</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">Frontispiece of Louis XIV.  A one-page "Preface to the French Edition" is translated.  Numerous glossy illustrations
+      reproducing court portraits or printed engraved portraits in annotated frames. About six pages of bibliography, French sources.  Someone has taped the edges of a batik-
+      style printed paper overlaid on the cloth covers (not the spine): a beige grid of purple squares with beige diamonds inside.  The tone of the narratives resembles
+      emotional romance fiction; there is little acknowledgment of historical speculation (motives and thoughts are asserted).  An exception: "What was the reason why Marei-
+      Magdeleine, at the age of twenty-two, had never had an offer of marriage?  In the first place she was poor...even in our own times we have numbers of girls...
+      compelled to remain old maids.  For it is quite an open question whether Marie-Magdeleine had any claims to good-looks" (169).</note>
      </bibl>
      <bibl id="a498" default="NO">
       <ref targOrder="U">498.</ref>
       <idno>a498</idno>
-      <author><name type="last">Latour</name>, <name type="first">Therese Louis</name>.</author>
+      <author><name type="last">Latour</name>, <name type="first">Th&eacute;r&egrave;se Louis</name>.</author>
       <title type="ref">
        <hi rend="italics">Princesses, Ladies, and Republicaines of the Terror.</hi>
       </title>
@@ -28372,9 +28406,35 @@
        <pubPlace>London:</pubPlace>
        <publisher>Kegan Paul;</publisher>
        <pubPlace>Paris:</pubPlace>
-       <publisher>Figuière,</publisher>
+       <publisher>Figuière;</publisher>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Knopf,</publisher>
        <date>1930.</date>
       </imprint>
+      <note type="chapter_titles">
+       <list>
+        <item>Marie-Antoinette&dash;Unhappy Queen</item>
+        <item>Forgotten and Unknown Women of the Revolution</item>
+        <item>The Princesse de Lamballe</item>
+        <item>Charlotte Corday d'Armont</item>
+        <item>Madame Roland, n&eacute;e Manon Phlipon</item>
+        <item>Anne-Jos&egrave;phe Terwagne, Known as Th&eacute;roigne de M&eacute;ricourt</item>
+        <item>The Mystery of the Child in the Temple</item>
+        <item>Lucille Desmoulins and Gabrille Danton</item>
+        <item>Two Active "R&eacute;publicaines": Olympe de Gouges and Claire-Rose Lacombe</item>
+        <item>Madame Elizabeth, Sister of Louis XVI</item>
+        <item>The Holocaust of Robespierre: The Red Madd of the 29th of Prairial, Year II</item>
+        <item>The Devotees of Robespierre: The Cult of the "Mother of God"</item>
+        <item>Madame Tallien, Princesse de Caraman-Chimay</item>
+        <item>Madame de Talleyrand, Princess of Benevento</item>
+        <item>Pauline de Montmorin, Comtesse de Beaumont</item>
+        <item>Delphine de Sabran, Marquise de Custine</item>
+        <item>Bibliography</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">Dedicated to the "dear memory of the best of husbands," who was the dedicatee of the 1924 volume in this set by
+      Latour.  Preface by Joseph Barth&eacute;lemy, professor of political science and law, waxing enthusiastic for the "rare flowers" and "truthful...historical sketches"
+      of the Frenchwoman (xi). Illustrations include portraits of men.</note>
      </bibl>
      <bibl id="a499" default="NO">
       <ref targOrder="U">499.</ref>
@@ -28872,7 +28932,7 @@
      <bibl id="a511" default="NO">
       <ref targOrder="U">511.</ref>
       <idno>a511</idno>
-      <author><name type="last">Lewis</name>, <name type="first">Howell Elvet</name>.</author>
+      <author><name type="last">Lewis</name>, <name type="first">Howell Elvet, et. al.</name>.</author>
       <title type="ref">
        <hi rend="italics">Women of the Bible: Rebekah to Priscilla.</hi>
       </title>
@@ -28898,7 +28958,7 @@
         <item>Martha and Mary</item>
         <item>The Woman of Samaria</item>
         <item>The Syro-Phoenician Woman</item>
-        <item>The Widw Who Gave Her Two Mites</item>
+        <item>The Widow Who Gave Her Two Mites</item>
         <item>The Penitent Sinner</item>
         <item>Mary Magdalene</item>
         <item>Dorcas</item>
@@ -28906,7 +28966,12 @@
         <item>Aquila and Priscilla</item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes">The book was actually co-written by several authors, with different chapters being written by H. Elvet Lewis, J.G. Greenhough, Walter F. Adeney, D. Rowlands, P. Carnegie Simpson, and George Milligan. The last pages of the book contain advertisements for "A List of Theological Books, Published and Imported by James Robinson."</note>
+      <note place="unspecified" anchored="yes">The book was actually co-written by several authors, with different chapters 
+       being written by H. Elvet Lewis, J.G. Greenhough, Walter F. Adeney, D. Rowlands, P. Carnegie Simpson, and George Milligan. The last pages of the 
+       book contain advertisements for "A List of Theological Books, Published and Imported by James Robinson."  Such books as <hi rend="italics">Men of the Old Testament,
+       Cain to David</hi> by much the same list of authors fill more than four pages, followed by collections of sermons or Bible studies by Americans such as Dr. David James 
+      Burrell of New York.  The thick-page volume from Old Dominion University is water stained and shows signs of lesson preparation: underlining in different colors, 
+      including a green highlighter (it was checked out in 2010).</note>
      </bibl>
      <bibl id="a512" default="NO">
       <ref targOrder="U">512.</ref>
@@ -36775,7 +36840,7 @@
         <item>“The Beastly Brace” [Duchesses of Cleveland and Portsmouth, Mistresses of Charles
          II]</item>
         <item>Duchess Sarah</item>
-        <item>Woman-Rule in Russia</item>
+        <item>Woman-Rule in Russia [Catherine I and Catherine II of Russia, Empress Elizabeth of Russia]</item>
         <item>The Dancer-Politician [Lola Montez]</item>
         <item>“The Old Buddha” [Tze-hi].</item>
        </list>
