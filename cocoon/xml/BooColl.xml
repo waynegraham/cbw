@@ -33124,6 +33124,13 @@
        <publisher>Edinburgh House,</publisher>
        <date>1927.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item></item>
+        <item></item>
+        <item></item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a618" default="NO">
       <ref targOrder="U">618.</ref>
@@ -33166,6 +33173,37 @@
        <date>1861;</date>
        <date>1868.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Queen Victoria</item>
+        <item>Princess Frederick William of Prussia, the Princess Royal</item>
+        <item>The Empress Eugénie</item>
+        <item>The Duchess of Kent</item>
+        <item>Queen Adelaide</item>
+        <item>Lady Jane Gray</item>
+        <item>Mary, Queen of Scots</item>
+        <item>Queen Caroline</item>
+        <item>Queen Marie Antoinette</item>
+        <item>Josephine, Queen and Empress</item>
+        <item>Lady Rachel Russell</item>
+        <item>Elizabeth Fry, the Prison Reformer</item>
+        <item>Harriet Martineau</item>
+        <item>Amelia Opie</item>
+        <item>Lady Huntingdon</item>
+        <item>Hannah More</item>
+        <item>Eliza Cook</item>
+        <item>Felicia Hemans</item>
+        <item>Mrs. Bunyan</item>
+        <item>Charlotte Corday</item>
+        <item>Frederika Bremer</item>
+        <item>L. E. L.</item>
+        <item>Jenny Lind</item>
+        <item>Joan of Arc</item>
+        <item>Miss Burdett Coutts</item>
+        <item>Florence Nightingale</item>
+        <item>Elizabeth, Anna, and Emily Blackwell</item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes"> British Library. A writer on parlor games. </note>
      </bibl>
      <bibl id="a620" default="NO">
@@ -34131,6 +34169,30 @@
        <publisher>Cambridge University Press,</publisher>
        <date>1930.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Firdausi and the Shahnama</item>
+        <item>Faranak</item>
+        <item>Shahrinaz and Arnawaz</item>
+        <item>Rudaba</item>
+        <item>Tahmina</item>
+        <item>Gurdafrid</item>
+        <item>Farangis</item>
+        <item>Manizha</item>
+        <item>Katayun</item>
+        <item>Humai and Bih Afrid</item>
+        <item>Queen Humai</item>
+        <item>Nahid</item>
+        <item>Rushanak</item>
+        <item>Gulnar</item>
+        <item>Dilafruz-i-Farrukhpai</item>
+        <item>Sapinud</item>
+        <item>Gurdya</item>
+        <item>Shirin</item>
+        <item>Purandukht</item>
+        <item>Azarmdukht</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a633" default="NO">
       <ref targOrder="U">633.</ref>
@@ -34327,6 +34389,119 @@
        <date>1928;</date>
        <date>1940.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Madame Louise le Gras</item>
+        <item>Mlle. Jeanne Mance</item>
+        <item>Elizabeth Gurney Fry</item>
+        <item>Frederike Munster Fliedner</item>
+        <item>Gertrude Reichardt</item>
+        <item>Catherine M'Auley</item>
+        <item>Dorothea Lynde Dix</item>
+        <item>Florence Nightingale</item>
+        <item>Sister Helen</item>
+        <item>Clara Barton</item>
+        <item>Contributions of Religious Communities (Mother Frances Shervier, Mother Teresa Bonzel, Catharine Kasper, Mother Cabrini, Sister Marianneof Molokai, Mother Joseph Lynch, Mother d'Youville, Elizabeth Bayley Seton)</item>
+        <item>Jane Stuart Woolsey</item>
+        <item>Linda Richards</item>
+        <item>Adah B. Thoms</item>
+        <item>Isabel Hampton Robb</item>
+        <item>Irene Sutliffe</item>
+        <item>Mary Agney Sniveley</item>
+        <item>Sister Mary Ignatius Feeney</item>
+        <item>Mary Adelaide Nutting</item>
+        <item>Anne C. Jamme</item>
+        <item>Helen Hartley Jankins</item>
+        <item>Anna Caroline Maxwell</item>
+        <item>Sister Elisabeth Fedde</item>
+        <item>Mary Agnes O'Donnell</item>
+        <item>Mabel T. Boardman</item>
+        <item>Jane A. Delano</item>
+        <item>Helen Scott Hay</item>
+        <item>Clara Dutton Noyes</item>
+        <item>Eleanor Robson Belmont</item>
+        <item>Elizabeth Smellie</item>
+        <item>Annie W. Goodrich</item>
+        <item>Ella Phillips Crandall</item>
+        <item>Frances Payne Bolton</item>
+        <item>Lillian Wald</item>
+        <item>Julia Stimson</item>
+        <item>Julia O. Flikke</item>
+        <item>Myn M. Hoffman</item>
+        <item>J. Beatrice Bowman</item>
+        <item>Lucy Minnigerode</item>
+        <item>Katherine S. Read</item>
+        <item>Mary A. Hickey</item>
+        <item>Elinor D. Gregg</item>
+        <item>Mary Beard</item>
+        <item>Ida F. Butler</item>
+        <item>Mary Gladwin</item>
+        <item>Eleanor McGarvah</item>
+        <item>Mary Sewall Gardner</item>
+        <item>Lystra E. Gretter</item>
+        <item>Charlotte MacLeod</item>
+        <item>Flora Madeline Shaw</item>
+        <item>Mrs. William Church Osborn</item>
+        <item>Helen N. Joy</item>
+        <item>Emma Louise Warr</item>
+        <item>Emily L. Loveridge</item>
+        <item>Frances M. Ott</item>
+        <item>Berta E. Dreyfus</item>
+        <item>Helen F. Greaney</item>
+        <item>Isabel M. Stewart</item>
+        <item>Maude B. Muse</item>
+        <item>Nellie X. Hawkinson</item>
+        <item>S. Lillian Clayton</item>
+        <item>Elizabeth Miller</item>
+        <item>Marion T. Brockway</item>
+        <item>Sally Lucas Jean</item>
+        <item>Laura R. Logan</item>
+        <item>Hazel Corbin</item>
+        <item>Carolyn Conant Van Blarcom</item>
+        <item>Elizabeth C. Burgess</item>
+        <item>Bessie Baker</item>
+        <item>Julia St. Lo Mellichamp</item>
+        <item>Ida M. Cannon</item>
+        <item>Harriet L. Leete</item>
+        <item>Minnie Goodnow</item>
+        <item>Stella Boothe Vail</item>
+        <item>Gladys Sellew</item>
+        <item>V. May Macdonald</item>
+        <item>Agnes Dillon Randolph</item>
+        <item>Margaret Francis Sirch</item>
+        <item>Lavinia Lloyd Dock</item>
+        <item>Diana Clifford Kimber</item>
+        <item>Amy Elizabeth Pope</item>
+        <item>Anna L. Gibson</item>
+        <item>Sophia F. Palmer</item>
+        <item>Bertha Harmer</item>
+        <item>Cora E. Simpson</item>
+        <item>Anna D. Wolf</item>
+        <item>Susan E. Tracy</item>
+        <item>Elsie M. Lawler</item>
+        <item>Manelva Wylie Keller</item>
+        <item>Marguerite Wales</item>
+        <item>Ethel Swope</item>
+        <item>Carrie M. Hall</item>
+        <item>Lucy C. Ayers</item>
+        <item>Elizabeth Gordon Fox</item>
+        <item>Bessie Ingersoll Cutler</item>
+        <item>Alice G. Carr</item>
+        <item>Hazel A. Goff</item>
+        <item>Florence Dakin</item>
+        <item>Ethel Gordon Fenwick</item>
+        <item>Louise Macpherson Coleman</item>
+        <item>Dr. Anna Hamilton</item>
+        <item>Grace M. Fairley</item>
+        <item>Helen F. Draper</item>
+        <item>Ellen N. La Motte</item>
+        <item>Nina Diadamia Gage</item>
+        <item>Maude H. Mellish Wilson</item>
+        <item>Euphemia J. Taylor</item>
+        
+        
+       </list>
+      </note>
      </bibl>
      <bibl id="a637" default="NO">
       <ref targOrder="U">637.</ref>
@@ -34510,6 +34685,37 @@
        <publisher>Cassell,</publisher>
        <date>1880.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Mrs. Mary Moffat, of the Kuruman, South Africa</item>
+        <item>Mrs. Maria Regina Christina Gobat, of Jerusalem</item>
+        <item>Mrs. Hannah Catherine Mullen, of Calcutta</item>
+        <item>Mrs. Emily C. Judson, of Burmah</item>
+        <item>Mrs. Mary Williams, of the South Seas</item>
+        <item>Miss Fedelia Fiske, of Persia</item>
+        <item>Mrs. Mary M. Ellis, of the South Seas</item>
+        <item>Mrs. Dorothy Jones, of the West Indies</item>
+        <item>Mrs. Jane Chalmers, of Rarotonga and New Guinea</item>
+        <item>Mrs. Anna Hindeger, of Ibadan, West Africa</item>
+        <item>Mrs. Sarah Smith, of Madras</item>
+        <item>Mrs. Rebecca Wakefield, of Ribé, East Africa</item>
+        <item>Miss Susan B. Higgins, of Yokohama, Japan</item>
+        <item>Mrs. Hannah Kilham, of Sierra Leone</item>
+        <item>Mrs. Mary Hope, of Kunnunkulum, India</item>
+        <item>Mrs. Ann H. Judson, of Burmah</item>
+        <item>Mrs. Valentine, of Jeypore, North India</item>
+        <item>Mrs. Harriet Newell, of India</item>
+        <item>Mrs. Margaret Wilson, of Bombay</item>
+        <item>Miss Letitia A. Campbell, of Pekin, China</item>
+        <item>Mrs. Martha Jowett, of Malta</item>
+        <item>Mrs. Krusé, of Egypt</item>
+        <item>Miss Mary Gunson, of China</item>
+        <item>Mrs. Krapf, of Mombas, East Africa</item>
+        <item>Mrs. Eliza Ann Foster, of Jamaica</item>
+        <item>Miss Louisa Gomez, of Calcutta</item>
+        <item>Brief Memorials of Two Missionary Sisters: Mrs. Mary Cryer, of India, Miss Margaret Burton, of Ceylong</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a644" default="NO"><ref targOrder="U">644.</ref>
       <idno>a644</idno>
