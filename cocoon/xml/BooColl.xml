@@ -33175,32 +33175,32 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Queen Victoria</item>
+        <item n= "QUEEN_VICTORIA">Queen Victoria</item>
         <item>Princess Frederick William of Prussia, the Princess Royal</item>
         <item>The Empress Eugénie</item>
         <item>The Duchess of Kent</item>
         <item>Queen Adelaide</item>
-        <item>Lady Jane Gray</item>
+        <item n= "LADY_JANE_GREY">Lady Jane Grey</item>
         <item>Mary, Queen of Scots</item>
         <item>Queen Caroline</item>
         <item>Queen Marie Antoinette</item>
         <item>Josephine, Queen and Empress</item>
-        <item>Lady Rachel Russell</item>
-        <item>Elizabeth Fry, the Prison Reformer</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
+        <item n= "ELIZABETH_FRY">Elizabeth Fry, the Prison Reformer</item>
         <item>Harriet Martineau</item>
         <item>Amelia Opie</item>
         <item>Lady Huntingdon</item>
-        <item>Hannah More</item>
+        <item n= "HANNAH_MORE">Hannah More</item>
         <item>Eliza Cook</item>
         <item>Felicia Hemans</item>
         <item>Mrs. Bunyan</item>
         <item>Charlotte Corday</item>
         <item>Frederika Bremer</item>
         <item>L. E. L.</item>
-        <item>Jenny Lind</item>
-        <item>Joan of Arc</item>
+        <item n="JENNY_LIND">Jenny Lind</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Miss Burdett Coutts</item>
-        <item>Florence Nightingale</item>
+        <item n= "FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Elizabeth, Anna, and Emily Blackwell</item>
        </list>
       </note>
@@ -34393,12 +34393,12 @@
        <list>
         <item>Madame Louise le Gras</item>
         <item>Mlle. Jeanne Mance</item>
-        <item>Elizabeth Gurney Fry</item>
+        <item n="ELIZABETH_FRY">Elizabeth Gurney Fry</item>
         <item>Frederike Munster Fliedner</item>
         <item>Gertrude Reichardt</item>
         <item>Catherine M'Auley</item>
         <item>Dorothea Lynde Dix</item>
-        <item>Florence Nightingale</item>
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
         <item>Sister Helen</item>
         <item>Clara Barton</item>
         <item>Contributions of Religious Communities (Mother Frances Shervier, Mother Teresa Bonzel, Catharine Kasper, Mother Cabrini, Sister Marianneof Molokai, Mother Joseph Lynch, Mother d'Youville, Elizabeth Bayley Seton)</item>
@@ -34498,9 +34498,7 @@
         <item>Nina Diadamia Gage</item>
         <item>Maude H. Mellish Wilson</item>
         <item>Euphemia J. Taylor</item>
-        
-        
-       </list>
+        </list>
       </note>
      </bibl>
      <bibl id="a637" default="NO">
@@ -34702,7 +34700,7 @@
         <item>Miss Susan B. Higgins, of Yokohama, Japan</item>
         <item>Mrs. Hannah Kilham, of Sierra Leone</item>
         <item>Mrs. Mary Hope, of Kunnunkulum, India</item>
-        <item>Mrs. Ann H. Judson, of Burmah</item>
+        <item n= "ANN_HASSELTINE_JUDSON">Mrs. Ann H. Judson, of Burmah</item>
         <item>Mrs. Valentine, of Jeypore, North India</item>
         <item>Mrs. Harriet Newell, of India</item>
         <item>Mrs. Margaret Wilson, of Bombay</item>
@@ -34715,6 +34713,12 @@
         <item>Miss Louisa Gomez, of Calcutta</item>
         <item>Brief Memorials of Two Missionary Sisters: Mrs. Mary Cryer, of India, Miss Margaret Burton, of Ceylong</item>
        </list>
+      </note>
+      <note place="unspecified" anchored="yes">Title page begins with the quote, "The women of all lands for Jesus" in caps; Authoress of "Vestina's Martydom," "Profit and Loss," "Margaret Mervyn's Cross," etc. 
+        Dedication reads, "To Robert Arthingon, Esq., whose prompt and munificent efforts for the evangelisation of the 'Dark Continent,' especially in the regions around Lake Tanganyika, have so largely contributed 
+        to the establishment and support of missions in Central Africa, this volume is respectfully dedicated, by permission."	
+       Each chapter begins with a prayer or religious poem. Illustrations throughout book of places and scenes of life in mission countries, along with some portraits of the featured women in their respective chapters. 
+       Eight pages of publisher's advertisements in the back.
       </note>
      </bibl>
      <bibl id="a644" default="NO"><ref targOrder="U">644.</ref>
@@ -34870,9 +34874,39 @@
        <publisher>Stock,</publisher>
        <date>1892.</date>
       </imprint>
+      <note type = "toc">
+       <list>
+        <item>Sita, the Consort of Rama</item>
+        <item>The Princess Draupadi</item>
+        <item>The Princess of Canouje</item>
+        <item>Sultana Rezia</item>
+        <item>The Ranee of Argal</item>
+        <item>Dewal Devi, Princess of Guzerat</item>
+        <item>Pudmini of Cheetore</item>
+        <item>Pretal, the Village Maiden Who Become a Princess</item>
+        <item>Princess Korumdevi</item>
+        <item>Sooja Bae, Princess of Boondi</item>
+        <item>Tara Rae, the Wife of Prithwi Raj</item>
+        <item>Queen Kurnarath</item>
+        <item>The Empress Noor Jehan, the Light of the World</item>
+        <item>Mumtaza Zemani, the Consort of Shah Jehan</item>
+        <item>Princess Aesha</item>
+        <item>The Ranee of Jodpore</item>
+        <item>The Princess of Roopnagurh</item>
+        <item>The Begum Sombre</item>
+        <item>Ranee Sahib Kour of Pattiala</item>
+        <item>The Virgin Princess Kishna</item>
+        <item>Princess Damayanti</item>
+        <item>Savitri</item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes"> Abstract (WorldCat): Pool recounts the lives of
        influential Indian women throughout history to show that their history has not been
-       characterized only by oppression. </note>
+       characterized only by oppression. The book features a list of books "used in connection with this work, 
+       and now gratefully acknowledged," and the last page provides the table of contents and press reviews
+       of <title>
+        <hi rend="italics">The Life of H.M. Queen Victoria, Empress of India</hi></title>, another work by the author.
+      </note>
      </bibl>
      <bibl id="a650" default="NO">
       <ref targOrder="U">650.</ref>
@@ -34915,6 +34949,26 @@
        <publisher>Brentano's,</publisher>
        <date>1929.</date>
       </imprint>
+      <note place="unspecified" anchored="yes"> Opposite the title page is an advertisement with reviews for <title>
+       <hi rend="italics">The Borgias,</hi></title> (New York: AA Knopf, <date>1928</date>), a book by the same author. 
+      Included throughout the book are photographs of artistic representations of the subjects (medals, paintings, portraits, frescoes, etc.),
+      and there are two pages of publisher's advertisements in the back of the book.</note>
+     <note type="toc">
+      <list>
+       <item>Illustrations</item>
+       <item>A Flower of the Cloister (Cecilia Gonzaga)</item>
+       <item>Sacred and Profane Love (Fra Filippo Lippi, Lucrezia Buti)</item>
+       <item>The Romance of a Pope (Pope Pius II)</item>
+       <item>A Votive Temple (Isotta da Rimini, Sigismondo Malatesta)</item>
+       <item>An Arcadian Prelude (Simonetta)</item>
+       <item>Perfect Love (Tommasina Spinola, King Louis XII)</item>
+       <item>A Lady Light and Learned (Tullia d'Aragona)</item>
+       <item>"Non Moritura" (Giulia Gonzaga, Cardinal Ippolito de' Medici)</item>
+       <item>A Tragic Passion (Non-biographical account of the love affair between Violante Garlonia and Marcello Capece)</item>
+       <item>An Adventuress on the Throne (Bianca Capello)</item>
+       <item>Index</item>
+      </list>
+     </note>
      </bibl>
      <bibl id="a652" default="NO">
       <ref targOrder="U">652.</ref>
@@ -35059,8 +35113,22 @@
        <publisher>Religious Tract Society,</publisher>
        <date>[1903].</date>
       </imprint>
+      <note>
+       <list>
+        <item>Madame de Mornay [by] Rev. J.P. Hobson, M.A.</item>
+        <item>Mary Jane Graham, [by] the late Rev. Canon Bell, D.D.</item>
+        <item>A. L. O. E., [by] Rev. W. R. Bowman</item>
+        <item>Mrs. Mary A. Schimmelpenninck, [by] Mrs. M. C. France</item>
+        <item>Elizabeth Prentiss, [by] the late Rev. W. Garden Blaikie, D.D.</item>
+        <item>Sarah Martin, [by] Rev. S. F. Harris, M.A.</item>
+        <item>Harriet Beecher Stow, [by] Rev. J. Cunningham, M.A.</item>
+        <item>Mrs. Sewell, [by] Mrs. Gorges</item>
+        <item n="QUEEN_VICTORIA">Victoria, R.I., [by] the late James Macaulay, M.D.</item>
+        <item>Elizabeth Gilbert, [by] Mrs. Gorges</item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes"> Listed in Catalogue of British Library under
-       Victoria, Queen of Great Britain and Ireland. </note>
+       Victoria, Queen of Great Britain and Ireland. Contains portraits of the book's subjects and biographical scenes.</note>
      </bibl>
     </div2>
     <div2 type="letter" n="R" org="uniform" sample="complete" part="N">
@@ -36601,6 +36669,17 @@
        <date>1885;</date>
        <date>1917.</date>
       </imprint>
+      <note>
+       <list>
+        <item>Margaret O'Carroll, an Irish Princess of the 15th century</item>
+      <item>Isabella of Castile, Queen of Spain, Surnamed the Catholic</item>
+        <item>Margaret Roper, Daughter of Sir Thomas More, Chancellor of England</item>
+        <item>Marie de l'Incarnation, Foundress and First Superioress of the Ursulines of Quebec</item>
+        <item>Marguerite Bourgeoys, Foundress of the Congregation of Notre Dame, Montreal</item>
+       <item>Ethan Allen's Daughter, The First American Nun</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes"> Title page announces, "Author of 'Names that Live in Catholic Hearts,' etc., etc." </note>
      </bibl>
      <bibl id="a696" default="NO"><ref targOrder="U">696.</ref>
       <idno>a696</idno>
@@ -36871,7 +36950,7 @@
        <publisher>Schmidt,</publisher>
        <date>1933.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> NOT:=miscellanry, history. “This book is composed of
+      <note place="unspecified" anchored="yes"> NOT:=miscellaney, history. “This book is composed of
        two parts: the first is a compilation of biographical sketches of accomplished women
        throughout the world; the second is a series of essays on the social history of dress and
        fashion.” </note>
