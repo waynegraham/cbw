@@ -27915,7 +27915,31 @@
        <publisher>Kendrick,</publisher>
        <date>1839.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">British Library.  Rare, non-circulating, and not available online (2011). </note>
+      <note type="toc">
+       <list>
+        <item>Princess Charlotte of Wales</item>
+        <item>Mrs. James Fordyce</item>
+        <item>Mrs. Hannah Moore</item>
+        <item>Miss Elizabeth Smith</item>
+        <item>Mrs. Rowe</item>
+        <item>Mrs. Elizabeth Carter</item>
+        <item>Lady Russel</item>
+        <item>Lady Jane Grey</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">British Library.  Rare, non-circulating, and not available online (2011). Purchased
+      copy has damaged brown cloth covers (dim impressions of floral frames), newer spine with gold lettering.  Names spelled thus in 
+      contents, i.e. "Moore" for "More" and "Russel" for Russell.  Grey and Gray are alternate spellings in many works.  Frontispiece engraving
+      of greyhound and lilies. Octavo with gilded page edges (216 pp.).  Epigraph in small caps on title page: "Favour is deceitful, and beauty is vain; but a woman 
+      that feareth the Lord, she shall be praised."  Proverbs, XXX. 30.  Short preface; "A young lady might, from reading the life
+      of Hannah Moore, be desirous of imitating her ardent desire of instructing the poor; she might attend a Sunday School
+      for that purpose, and, for trying to benefit others, God might reward her by blessing his word to her own soul" (iv).  The 
+      examples instill the "virtues, which every mother would be delighted to see blossoming..." while the book aims "to amuse, instruct,
+      and edify Young Ladies" (v).  At the close of Lady Jane Grey's biography a horizontal line marks off direct address: "And
+      now, my dear young friends, reflect, I entreat you, upon the information to be derived from the perusal of my little volume."  Specific
+      comments on each subject leads to the summation, "make the Bible your guide" and a final couplet commending a heavenly reward for good
+      conduct (210-16).
+      </note>
      </bibl>
      <bibl id="a483" default="NO">
       <ref targOrder="U">483.</ref>
@@ -50705,16 +50729,19 @@
      </bibl>
      <bibl id="p145" default="NO">
       <idno>p145</idno>
-      <author><name type="last"/>
-       <name type="first"/>.</author>
+      <author>Gabriela (organization).<name type="last"/>
+       </author>
       <title type="ref">
-       <hi rend="italics">Women of Courage </hi>. </title>
+       <hi rend="italics">Women of Courage</hi>. </title>
       <imprint>
        <pubPlace>Manila:</pubPlace>
        <publisher>Gabriela,</publisher>
        <date>1996.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"/>
+      <note place="unspecified" anchored="yes">GABRIELA evidently is an acronym: General Assembly Binding 
+       Women for Reforms, Integrity, Equality, Leadership, and Action, founded for women's rights in Manila in 1984, according
+      to their web site on tripod.com (accessed 22 August 2011).  Note that there are a dozen or more books with this title across recent
+      decades.</note>
      </bibl>
      <bibl id="p145A" default="NO">
       <idno>p145A</idno>
