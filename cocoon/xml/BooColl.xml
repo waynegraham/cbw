@@ -39239,7 +39239,28 @@
        <date>1902;</date>
        <date>1907.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">Combines the two previous volumes.</note>
+      <note type="toc">
+       <list>
+        <item>Princess Mary Tudor</item>
+        <item>Lady Jane Gray</item>
+        <item>Lady Katherine Gray</item>
+        <item>Lady Mary Gray</item>
+        <item>Lady Eleanor Brandon</item>
+        <item>Lady Margaret Clifford</item>
+        <item>Lady Arabella Stuart</item>
+        <item>Mary, Princess-Royal of Great Britain</item>
+        <item>Princess Elizabeth</item>
+        <item>Princess Henrietta Anne</item>
+        <item>Princess Louisa</item>
+        </list>
+      </note>
+      <note place="unspecified" anchored="yes">Combines the two previous volumes, a768 and a769.  The 1888 revised edition
+      notes "the late Agnes Strickland" on title page and reprints the Original Preface to the Tudor Princesses and the Original
+      Preface to the Stuart Princesses.  Long discursive table of contents; chapter titles include the woman's connection and other title
+      such as "Princess Mary Tudor, Second Daughter of King Henry VII., Queen of France and Duchess of Suffolk."  The book includes 
+      some facsimiles of signatures by Lady Jane Gray.  "With Two Portraits" on the title page seems to misrepresent the rebound copy
+      from the University of Alabama Library; a frontispied has obviously been removed.  A footnote to the Tudor preface says "The woodcuts are not reproduced
+      in this edition" (vi).  After the index, more than 23 pages of Catalogue of Bohn's Libraries are stitched in.</note>
      </bibl>
      <bibl id="a770" default="NO">
       <ref targOrder="U">770.</ref>
@@ -40427,22 +40448,11 @@
         <item>Bianca Cappello</item>
         <item>Olympia Pamfili</item>
         <item>Elisabetta Sirani</item>
-        <item>La Corilla. Contributor to Lives of Celebrated Women (1875)</item>
-        <item>author of a biography of Vittoria Colonna (1881) and "The Girlhood of Catherine de'
-         Medici (pre-1859?)</item>
-       </list>
-      </note>
-      <note type="toc">
-       <list>
-        <item>Vol. 2: Tullia D’Aragona</item>
-        <item>Olympia Morata</item>
-        <item>Isabella Andreini</item>
-        <item>Bianca Cappello</item>
-        <item>Olympia Pamfili</item>
-        <item>Elisabetta Sirani</item>
         <item>La Corilla</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes">Trollope contributed to <hi rend="italics">Lives of Celebrated Women</hi> (1875);
+       author of a biography of Vittoria Colonna (1881); and "The Girlhood of Catherine de' Medici" (pre-1859). </note>
      </bibl>
      <bibl id="a811" default="NO">
       <ref targOrder="U">811.</ref>
