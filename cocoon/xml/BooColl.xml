@@ -11315,13 +11315,13 @@
        <publisher>M.W. Dodd</publisher>
        <date>1870.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Ministry</item>
         <item>Mary, the Mother of Our Lord</item>
         <item>Mary Magdalene</item>
         <item>Salome</item>
-        <item>The Window of Nain</item>
+        <item>The Widow of Nain</item>
         <item>The Syrophenician</item>
         <item>The Sisters of Bethany</item>
         <item>The Unnamed Women</item>
@@ -11961,7 +11961,7 @@
         <item>Fair Maiden Lilliard</item>
         <item>Lady Pelham</item>
         <item>Philippa</item>
-        <item>Jeanne d’Arc</item>
+        <item n="JOAN_OF_ARC">Jeanne d’Arc</item>
         <item>Margaret de Attendoli</item>
         <item>Bona Lombardi and Onorata Rodiana</item>
         <item>Marulla</item>
@@ -12307,7 +12307,7 @@
        <date>1875.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> </note>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Mother of Washington</item>
         <item>Wife of Washington</item>
@@ -40544,7 +40544,7 @@
        <publisher>Scribner,</publisher>
        <date>1906.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Hortense Mancini, Duchesse de Mazarin</item>
         <item>Barbara Villiers, Duchess of Cleveland</item>
@@ -41634,7 +41634,7 @@
        <hi rend="italics">Heroines of the Bible in Art.</hi>
       </title>
       <imprint>
-       <pubPlace>Boston:</pubPlace>
+       <pubPlace>Boston:</pubPlace> 
        <publisher>Page,</publisher>
        <date>1900;</date>
       </imprint>
@@ -41653,6 +41653,9 @@
         <item>Heroines of the Apocrypha</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes">An answer to <ref target="a451" targOrder="U"
+       >Jameson.</ref>
+       </note>
       <image n="no1828.MichaelCoxcie-TheTemptation">
        <imgName>Michael Coxcie- The Temptation</imgName>
        <imgDesc>Michael Coxcie- The Temptation</imgDesc>
@@ -41738,24 +41741,13 @@
        <date>1904;</date>
        <date>1905.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> An answer to <ref target="a451" targOrder="U"
-        >Jameson;</ref> more “images of women” than lives of painters.</note>
-      <note type="toc">
-       <list>
-        <item>A Port</item>
-        <item>A Canadian Interior</item>
-        <item>Angiola</item>
-        <item>Dorothy</item>
-        <item>A Picture Miniature</item>
-        <item>Judith with the Head of Holofei</item>
-        <item>The Departure of Summer</item>
-        <item>Miniature of Persis Blair</item>
-        <item>Child of the People</item>
-        <item>Mother and Child</item>
-        <item>Miss Ellen Terry as “Portia”</item>
-       </list>
-      </note>
-     </bibl>
+      <note place="unspecified" anchored="yes"> Extensive list of illustrations, mostly portraits, by the women artists represented in the book.  Alphabetical entries of career narratives of women artists 
+       partly derived from a survey of living artists; the information following the name may be as brief as "[no reply to circular]"
+       or it may extend to a short essay.  The introduction
+       notes Waters' discovery of more than 1,000 women artists throughout centuries, and summarizes a Western history of women in
+       the arts, notably with an expansion of opportunity in the nineteenth-century comparable to the radical changes in 
+       technology in the period. </note>
+      </bibl>
      <bibl id="a847" default="NO">
       <ref targOrder="U">847.</ref>
       <idno>a847</idno>
@@ -41920,7 +41912,7 @@
        <date>1972;</date>
        <date>1979.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>A Tenth-Century Dramatist, Roswitha the Nun</item>
         <item>A Twelfth-Century Romance-Writer, Marie de France</item>
@@ -42655,9 +42647,9 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>TOC : Nell Gwyn</item>
-        <item>Louise de Kerovalle</item>
-        <item>Hortense</item>
+        <item>Nell Gwyn</item>
+        <item>Louise de Keroualle</item>
+        <item>Hortense Mancini, duchesse de Mazarin</item>
        </list>
       </note>
       <note type="chapter_titles">
@@ -42669,18 +42661,18 @@
         <item>The Merry Monarch</item>
         <item>Nell Leaves the Stage</item>
         <item>The Treaty of Dover</item>
-        <item>The Accession of Louse de Kéroualle</item>
+        <item>The Accession of Louise de Kéroualle</item>
         <item>Intrigues, Political and Otherwise</item>
         <item>Louise de Kéroualle Becomes Duchess of Portsmouth</item>
         <item>The Duchess of Portsmouth and Nell Gwyn</item>
         <item>Madame de Mazarin Enters the Lists</item>
         <item>Triumph of Madame de Mazarin</item>
-        <item>Charles, Louis and the Parilament</item>
+        <item>Charles, Louis and the Parliament</item>
         <item>The Popish Plot</item>
         <item>The Exclusion Bill</item>
         <item>The Triumph of the Court</item>
         <item>Le Roi S'Amuse</item>
-        <item>The Duchess of Portsmouth visits France</item>
+        <item>The Duchess of Portsmouth Visits France</item>
         <item>The Episode of the Grand Prior</item>
         <item>Nell Gwyn's Letters</item>
         <item>The Death of Charles II</item>
@@ -43242,7 +43234,7 @@
         <item>Mme de Miramion</item>
         <item>Caroline Claudius Perthes, Wife of Frederick Perthes</item>
         <item>Mary Anne Galton (Mrs. Schimmelpenninck)</item>
-        <item>Miss Marsh. </item>
+        <item>Miss Marsh</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes">
@@ -43252,13 +43244,13 @@
         <item>Monica, The Mother of Augustine</item>
         <item>Olympia Morata, A Star of the Reformation</item>
         <item>Lady Brilliana Harley, of Brampton Beyan</item>
-        <item>Grisell Hume (Lady Baillie of Jerviswoode</item>
+        <item>Grisell Hume (Lady Baillie of Jerviswoode)</item>
         <item>Madame de Chantal, Mademoiselle Legras, Madame de Miramion, Lady-Founders of
          Sisterhoods, and Servants of the Poor in France</item>
         <item>Caroline Claudius, Wife of Frederick Perthes</item>
         <item>Mary Anne Galton (Mrs. Schimmelpennick)</item>
         <item>The Kaiserwerth Deaconesses</item>
-        <item>Miss Marsh's Labours Among the Natives</item>
+        <item>Miss Marsh's Labours Among the Navies</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Wilson was Minister of the Free Church at
@@ -44262,7 +44254,7 @@
         <item>What is a Golden Deed?</item>
         <item>Regulus</item>
         <item>The Stories of Alcestis and Antigone</item>
-        <item>How One Mane Has Saved A Host</item>
+        <item>How One Man Has Saved A Host</item>
         <item>The Pass of Thermopylae</item>
         <item>The Two Friends of Syracuse</item>
         <item>The Brave Brethren of Judah</item>
@@ -44329,7 +44321,7 @@
        <date>1890.</date>
       </imprint>
       <note place="unspecified" anchored="yes">NOT:=advice.</note>
-      <note type="toc">
+      <note type="chapter_titles">
        <list>
         <item>Woman’s Status</item>
         <item>Nursery Training</item>
@@ -44362,6 +44354,17 @@
        <date>1888;</date>
        <date>1891.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Joan of Arc</item>
+         <item>Margaret of Anjou</item>
+         <item>Isabella of Castile</item>
+        <item>Charlotte, Countess of Derby</item>
+        <item>Maria Theresa</item>
+        <item>Flora MacDonald</item>
+        <item>Marie Antoinette</item>
+       </list>       
+      </note>
       <note place="unspecified" anchored="yes"> Biographer of Scott, Marie Antoinette, etc.; author
        of school texts in history and classics; translator of Cicero; <title>
         <hi rend="italics">Parallel Lives of Ancient and Modern Heroes</hi>
@@ -44418,19 +44421,6 @@
        <date>1892.</date>
       </imprint>
       <note type="toc">
-       <list>
-        <item>Judith</item>
-        <item>Queen Salome Alexandra</item>
-        <item>Mariamne</item>
-        <item>Helena</item>
-        <item>Berenice</item>
-        <item>Ima Shalom</item>
-        <item>Rachel</item>
-        <item>Beruria</item>
-        <item>Jalta</item>
-       </list>
-      </note>
-      <note type="chapter_titles">
        <list>
         <item>From the Apocrypha: Judith</item>
         <item>The Mother of the Seven Martyrs.The Graeco-Roman Period:Queen Salome Alexandra</item>
