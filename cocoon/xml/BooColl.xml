@@ -34700,6 +34700,9 @@
        <publisher>State House</publisher>
        <date>1991.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">NOT= Reference work. A collection of “biographical sketches” of women 
+       who lived in Texas prior to 1845. The collection gives a 1-2 page sketch of approximately 80 women.
+      </note>
      </bibl>
      <bibl id="a642" default="NO"><ref targOrder="U">642.</ref>
       <idno>a642</idno>
@@ -36977,6 +36980,58 @@
        <publisher>Winston,</publisher>
        <date>1923.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Introduction</item>
+        <item>I. Alice Roosevelt Longworth</item>
+        <item>Defying Convention</item>
+        <item>The Hatless Woman in the Senate Gallery</item>
+        <item>Enter Nick</item>
+        <item>Alice the Politician</item>
+        <item>II. Mrs. Woodrow Wilson</item>
+        <item>The Woodrow Wilson Language</item>
+        <item>Butlers and Cave Dwellers</item>
+        <item>The Contrasts of March the Fourth</item>
+        <item>The Tongues of Washington</item>
+        <item>The Penalties of Greatness</item>
+        <item>III. Florence King Harding</item>
+        <item>Her Finger on the Pulse</item>
+        <item>"Just Folks"</item>
+        <item>The Hospitable Hardings</item>
+        <item>Four Thousand Handclasps</item>
+        <item>IV. Mrs. Calvin Coolidge</item>
+        <item>Real Boys</item>
+        <item>Smiling Through</item>
+        <item>Steering a Safe Course</item>
+        <item>Abolishing the Bustle</item>
+        <item>Burdens and Beatitudes</item>
+        <item>V. Thomas D. Schall, The Blind Congressman (Mrs. Thomas D. Schall)</item>
+        <item>VI. Social Publicity</item>
+        <item>VII. Mrs. William E. Borah</item>
+        <item>VIII. Mrs. Medill McCormick</item>
+        <item>IX. Mrs. Miles Poindexter</item>
+        <item>X. Cabinet Wives (Mrs. Charles Hughes, Mrs. John Weeks, Mrs. Henry Wallace, Mrs. Edwin Denby, Mrs. Albert Fall)</item>
+        <item>XI. Limitations of Social Armaments (Mrs. Stephen Elkins)</item>
+        <item>XII. Washington's Diplomatic Set (Madame Riano, Madame Sze, Madame Jusserand, Princess Bibesco)</item>
+        <item>XIII. Glimpses of the Great (Lady Geddes)</item>
+        <item>XIV. The Floral Offensive, or The Battle of the Buds (Ailsa Mellon)</item>
+        <item>XV. Calling Days in the Capital</item>
+        <item>XVI. Supreme Court Wives (Mrs. William Howard Taft, Mrs. Oliver Wendell Holmes, Mrs. Louise Brandeis, Mrs. George Sutherland)</item>
+        <item>XVII. Wives of Senate Lame Ducks (Mrs. Truman Newberry, Mrs. Atlee Pomerene, Mrs. Joseph Sherman Frelinghuysen, Mrs. Ira Clifton
+        Copley, Mrs. Harry New, Mrs. William Calder)</item>
+        <item>XVIII. The Social Lobby (Mrs. John B. Henderson)</item>
+        <item>XIX. Dinner Delays (Mrs. Key Pittman)</item>
+        <item>XX. Women in Congress (Jeannette Rankin, Alice Robertson, Winnifred Mason Huck, Mae Ella Nolan)</item>
+        <item>XXI. Mrs. Herbert Hoover</item>
+        <item>XXII. Back to Main Street (Mrs. Frank Wheeler, Mrs. Philip Pitt Campbell, Miss Volstead, Mrs. Wells Goodykoontz,
+        Mrs. Edgar Clarence Ellis, Mrs. William Wallace Chalmers)</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">	- 264 pp, with portraits of the featured women. 
+       Lively, personal, and colloquial, almost as though it's parlor-room gossip. Author professes 
+       to hold the "Mirror to Facts - in their curling pins, and without powder on their noses," 
+       and many of the author's accounts are from her personal experiences and encounters with the women featured. 
+      </note>
      </bibl>
      <bibl id="a702" default="NO">
       <ref targOrder="U">702.</ref>
@@ -37155,7 +37210,15 @@
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 219-21.</xref>
-      <note place="unspecified" anchored="yes"> No cover signal of African-American contents. <hi
+      <note place="unspecified" anchored="yes">NOT = Reference Work. No table of contents available. This is a reference of nineteenth- century 
+       African American women of distinction. There are approximately 100 women included in this collection, and a brief chapter (3 – 5 pages) 
+       is dedicated to the life of each woman. Most chapters begin with the woman’s portrait. The mission stated in the preface states:  
+       “To assist in giving this information to our young people, that they may be the more proud of their ancestors and love more devotedly their race…” 
+       In contrast to the earlier chapters, the last two chapters are not devoted to specific women, but rather themes. For example, Chapter 98 is titled,
+       “Higher Education For Women,” and Chapter 99 is titled, “Influence of Negro Women in the Home”. The collection ends with an advertisement for 
+       Ringwood’s Illustrated Magazine – an African American magazine “devoted to the domestic, moral, social, educational, and artistic interests 
+       of our women and our girls”.  No cover signal of African-American contents.
+       <hi
         rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
@@ -37431,8 +37494,9 @@
        <publisher>Chew,</publisher>
        <date>1891.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> 48 pp. “At the Octogenenial celebration of Bishop
-       Daniel A. Payne, D.D.L.L., D., <date>February 24, 1891</date>, Jacksonville, Florida.”
+      <note place="unspecified" anchored="yes"> NOT = Miscellaneous History. No TOC; 48 pp. “At the Octogenenial celebration of Bishop
+       Daniel A. Payne, D.D.L.L., D., <date>February 24, 1891</date>, Jacksonville, Florida.” Introduction by Bishop B. W. Arnett. D.D. 
+       focused on the life of Daniel Alexander Payne.
       </note>
      </bibl>
      <bibl id="a717A" default="NO">
@@ -39720,6 +39784,13 @@
        <publisher>Jones-Briggs/Tennessee FWC,</publisher>
        <date>1916.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">NOT = Miscellaneous History. No TOC. This collection details the lives of 
+       the women in the Tennessee Federation of Women’s Clubs.  The collection contains short 1-3 paragraph bios of these women
+       (including portraits).  However, most of the collection is devoted to the history of the Tennessee Federation of Women’s Clubs
+       (i.e. successful reforms and legislation).  The introduction reads, “In these pages we partially tell the story of the mountain 
+       cabins, into whose lives the women of the Tennessee Federation have brought the hope of religion and the blessings of health and hygiene.”
+       Ends with 10 pages of advertisements for Memphis area companies.
+      </note>
      </bibl>
      <bibl id="a788" default="NO">
       <ref targOrder="U">788.</ref>
@@ -40009,6 +40080,31 @@
        <publisher>Garland,</publisher>
        <date>1985.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">NOT = Miscellaneous History. Chapters focus primarily on places and 
+       mention various women in relation to these places. Dedicated to  The Colored Graduate Nurses of America, with
+       "The Florence Nightingale Pledge" as the epigram to the Introduction. Includes portraits. </note>
+      <note type="toc">
+       <list>
+        <item>Chapter I:  Introduction</item>
+        <item>Chapter II:  Early Pathfinders</item>
+        <item>Chapter III:  The First Professional Nurse</item>
+        <item>Chapter IV:  Famous Schools and Their Graduates</item>
+        <item>Part I – Provident Hospital Training School</item>
+        <item>Part II – Dixie Hospital Training School</item>
+        <item>Part III – Tuskegee Institute Training School</item>
+        <item>Part IV – Freedmen’s Hospital Training School</item>
+        <item>Part V – St. Agnes Hospital Training School</item>
+        <item>Part VI – Flint – Goodridge Hospital Training School</item>
+        <item>Part VII – Lincoln Hospital Training School</item>
+        <item>Part VIII – Brewster Hospital Training School</item>
+       <item>Part IX – Mercy Hospital Training School</item>
+        <item>Part X – George W. Hubbard Hospital Training School</item>
+        <item>Part XI – Kansas City Hospital, No. 2, Training School</item>
+        <item>Part XII – Lamar Wing, University Hospital, Augusta</item>
+        <item>Part XIII – Millie E. Hale Hospital Training School</item>
+        <item>Part XIV – Well-known Graduates of Other Schools</item>
+     </list>
+      </note>
      </bibl>
      <bibl id="a797" default="NO">
       <ref targOrder="U">797.</ref>
@@ -40180,6 +40276,30 @@
        <publisher>Appleton,</publisher>
        <date>1907.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Volume I</item>
+        <item>A Puritan Wife (Mrs. Lucy Hutchinson)</item>
+        <item>A Fair Woman with Discretion (La Belle Hamilton)</item>
+        <item>From the Castle to the Convent</item>
+        <item>Rival State Queens (Mrs. Bracegirdle; Nancy Oldfield)</item>
+        <item>A Saint In Society</item>
+        <item>La Belle Dame Sans Merci (Lady Mary Pierrepoint)</item>
+        <item>Maids of Honour (Mary Bellenden; Molly Lepel)</item>
+        <item>“The Goddesses” (Maria Gunning)</item>
+        <item>A Victim of Indiscretion (Lady Charlotte Bury)</item>
+        <item>A Crown Well Lost (Lady Sarah Lennox)</item>
+        <item>A Political Siren</item>
+        <item>The “Twin Wives” (Agnes Berry; Mary Berry)</item>
+        <item>Volume II</item>
+        <item>The Romance of Two Royal Duchesses (The Duchess of Cumberland; Maria, Countess of Waldegrave)</item>
+        <item>“The Wild Irish Girl” (Lady Morgan; Lady Clarke)</item>
+        <item>“The Nightingales of Bath” (Mrs. Sheridan and Mrs. Tickell)</item>
+        <item>“The Three Graces” (Mrs. Sheridan [Elizabeth Linley]; Helen, Marchioness of Dufferin; Mrs. Norton)</item>
+        <item>The Heiresses of Rose Hill(Countess of Charlemont [Anne Bermingham])</item>
+        <item>The Queen of Almack’s (The Countess of Jersey [Sarah Sophia Child Fane])</item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes"> W. Willmott Dixon on titlepage. </note>
       <image n="no187">
        <imgName>Elizabeth, Duchess of Hamilton</imgName>
@@ -41475,11 +41595,18 @@
        <date>1906.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> NOT:=history, typology, miscellany. Mounted
-       newspaper clippings. This and corresponding item <ref target="a838" targOrder="U">
+       newspaper clippings, not a printed book. This and corresponding item <ref target="a838" targOrder="U">
         <title>
          <hi rend="italics">The Women of the Southern Confederacy ... Alabama, Florida, ...</hi>
         </title>
-       </ref> retort to Northern prosopographies of the women in the Civil War effort. </note>
+       </ref> retort to Northern prosopographies of the women in the Civil War effort. The University of South Carolina Library's
+       catalog entry for the item describes it as "a two volume set of scrapbooks collecting biographical sketches, historical essays, 
+       and memoirs re life on the home front during and immediately after the Civil War, published in various newspapers published 
+       around the Southeast." 188 pp, with illustrations (including portraits). The dedication reads, "These two volumes are dedicated by Mrs. C. Irvine Walker... to the memory 
+       of her sister Carrie Belle Sinclair, authoress of 'the Homespun Dress' and many other war poems, conspicious by her devotion 
+       to the Confederacy, made and presented fourteen flags to Confederate Commands, nursed the sick and wounded, all this in Augusta, Ga..." 
+       The scrapbook can be found in the Dotsy Diane Lloyd Boineau Papers, South Caroliniana Library, University of South Carolina.
+       (Record no. b2939067) </note>
      </bibl>
      <bibl id="a838" default="NO">
       <ref targOrder="U">838.</ref>
@@ -50022,7 +50149,9 @@
        <publisher>Research Division, Social and Geographic Section,</publisher>
        <date>1944.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> </note>
+      <note place="unspecified" anchored="yes">NOT = Reference work. Approximately 150 women are included accompanied 
+       by short biographies (2-3 sentences).
+      </note>
      </bibl>
      <bibl id="p132A" default="NO">
       <idno>p132A</idno>
@@ -50301,7 +50430,23 @@
        <pubPlace>Atlanta:</pubPlace>
        <date>1941.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> </note>
+      <note place="unspecified" anchored="yes">NOT = Reference Work, Pamphlet</note>
+      <note type="toc">
+       <list>
+        <item>Mrs. Alice McLellan Birney</item>
+        <item>Mrs. Maud Barker Cobb</item>
+        <item>Mrs. Rebecca Latimar Felton</item>
+        <item>H. Augusta Howard</item>
+        <item>Mrs. Anne Wallace Howland</item>
+        <item>Madam Octavia Walton LeVert</item>
+        <item>Mrs. Mary Ann Rutherford Lipscomb</item>
+        <item>Mrs. Passie Fenton McFabe Ottley</item>
+        <item>Mrs. Juliette Gordon Low</item>
+        <item>Mrs. Mary Thomas Lumpkin</item>
+        <item>Alexa Stirling</item>
+        <item>Mary L. Telfair</item> 
+       </list>
+      </note>
      </bibl>
      <bibl id="p140" default="NO">
       <idno>p140</idno>
