@@ -14265,7 +14265,7 @@
        <publisher>[Chapple &amp; Tozer],</publisher>
        <date>1875.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Eve, Our First Mother</item>
         <item>Sarah, the Dutiful Wife</item>
@@ -15769,7 +15769,7 @@
        <date>1895;</date>
        <date>1924.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Consorts and Relicts</item>
         <item>Women of Affairs</item>
@@ -16295,7 +16295,7 @@
        <date>1859.</date>
       </imprint>
       <note place="unspecified" anchored="yes">Bodleian unseen</note>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>The Early Ages</item>
         <item>The Fifteenth Century</item>
