@@ -13132,7 +13132,7 @@
        <date>1920;</date>
        <date>1930.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>The Mothers of 'Nintey-Eight</item>
         <item>The Mother of the Emmets</item>
@@ -13285,14 +13285,14 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Vol. 1: Elizabeth, Countess of Shrewsbury</item>
+        <item>Elizabeth, Countess of Shrewsbury</item>
         <item>Arabella Stuart</item>
         <item>Catherine Grey</item>
         <item>Mary Sidney</item>
         <item>Penelope</item>
         <item>Magdalen Herbert</item>
         <item>Frances Howard</item>
-        <item>Vol. 2: Elizabeth Stuart</item>
+        <item>Elizabeth Stuart</item>
         <item>Lucy Harrington</item>
         <item>Frances Howard</item>
         <item>Margaret Elizabeth</item>
@@ -13300,12 +13300,30 @@
         <item>Anne Clifford</item>
         <item>Mary Evelyn</item>
         <item>Lady Fanshawe</item>
-        <item>Vol. 3: 21 subjects. incl. Mrs. Lucy Hutchinson</item>
+        <item>Anastasia Venetia Stanley, Lady Digby</item>
+        <item>The Countess of Desmond</item>
+        <item>Elizabeth Cromwell and Her Daughters</item>
+        <item>Mrs. Lucy Hutchinson</item>        
+        <item>Frances Stuart, Duchess of Richmond</item>
+        <item>Dorothy Sidney, Countess of Sunderland</item>
+        <item>Elizabeth Percy, Duchess of Somerset</item>
         <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
+        <item>Margaret, Duchess of Newcastle</item>
+        <item>Anne, Countess of Winchelsea</item>
+        <item>Mrs. Katherine Philips</item>
         <item>Jane Lane</item>
-        <item>Susannah Centlivre</item>
-        <item>Vol. 4: Lengthy biographies of Sarah, Duchess of Marlborough and Lady Mary Wortley
-         Montagu</item>
+        <item>Anne Killigrew</item>
+        <item>Frances Jennings, Duchess of Tyrconnel</item>
+        <item>Mary Beale</item>
+        <item>Anne Clarges, Duchess of Albemarle</item>
+        <item>Lady Mary Tudor</item>
+        <item>Anne Hyde, Duchess of York</item>
+        <item>Anne Scott, Duchess of Monmouth</item>
+        <item>Stella</item>
+        <item>Vanessa</item>
+        <item>Susannah Centlivre</item>        
+        <item>Sarah, Duchess of Marlborough</item>
+        <item>Lady Mary Wortley Montagu</item>
        </list>
       </note>
       <note type="chapter_titles">
@@ -13324,11 +13342,28 @@
         <item>Christian, Countess of Devonshire</item>
         <item>Anne Clifford, Countess of Dorset</item>
         <item>Mary Evelyn</item>
-        <item>Lady Fanshawe</item>
-        <item>Vol. 3: 21 subjects. incl. Mrs. Lucy Hutchinson</item>
+        <item>Lady Fanshawe</item>        
+        <item>Vo. 3: Anastasia Venetia Stanley, Lady Digby</item>
+        <item>The Countess of Desmond</item>
+        <item>Elizabeth Cromwell and Her Daughters</item>
+        <item>Mrs. Lucy Hutchinson</item>        
+        <item>Frances Stuart, Duchess of Richmond</item>
+        <item>Dorothy Sidney, Countess of Sunderland</item>
+        <item>Elizabeth Percy, Duchess of Somerset</item>
         <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
+        <item>Margaret, Duchess of Newcastle</item>
+        <item>Anne, Countess of Winchelsea</item>
+        <item>Mrs. Katherine Philips</item>
         <item>Jane Lane</item>
-        <item>Susannah Centlivre</item>
+        <item>Anne Killigrew</item>
+        <item>Frances Jennings, Duchess of Tyrconnel</item>
+        <item>Mary Beale</item>
+        <item>Anne Clarges, Duchess of Albemarle</item>
+        <item>Lady Mary Tudor</item>
+        <item>Anne Hyde, Duchess of York</item>
+        <item>Anne Scott, Duchess of Monmouth</item>
+        <item>Stella and Vanessa</item>
+        <item>Susannah Centlivre</item>  
         <item>Vol. 4: Lengthy biographies of Sarah, Duchess of Marlborough and Lady Mary Wortley
          Montagu</item>
        </list>
