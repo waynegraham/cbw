@@ -13019,34 +13019,28 @@
      <bibl id="a191" default="NO"><ref targOrder="U">191.</ref>
       <idno>a191</idno>
       <title type="ref">
-       <hi rend="italics">Collins's New Biographical Series,</hi>
+       <hi rend="italics">Eminent Women. Collins's New Biographical Series,</hi>
       </title>
-      <extent rend="vols">8 vols.</extent> Illustrated. <imprint>
+      <extent rend="vols">8 vols.</extent> Volume 6. Illustrated. <imprint>
        <pubPlace>London and Glasgow:</pubPlace>
        <publisher>Collins's Clear-Type Press,</publisher>
        <date>[1909].</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item n="CAROLINE_HERSCHEL">Caroline Herschel</item>
         <item>The Princess de Lamballe</item>
         <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Elizabeth Barrett Browning</item>
         <item>Rosa Bonheur</item>
-        <item>Agnes Weston. price 8d net. The only female subjects in other volumes in the series
-         are named below: No. 1: Nineteenth-Century Explorers, incl. Isabella Bird of 8 subjects No.
-         2: The Old Voyageurs No. 3: Modern Wonder Workers No. 4. The Old Navigators No. 5: Modern
-         Travellers, incl. Miss Gordon-Cumming and Mrs. Alec Tweedie of 8 subjects. No. 7: World
-         Famous Authors : TOC: Homer</item>
-        <item>Virgil</item>
-        <item>Dante</item>
-        <item>Chaucer</item>
-        <item>Cervantes</item>
-        <item>Shakespeare</item>
-        <item>Moliere</item>
-        <item>Milton No. 8 Makers of Nations</item>
+        <item>Agnes Weston</item> 
        </list>
       </note>
+      <note place="unspecified" anchored="yes">Price 8d net. The only female subjects in other volumes in the series
+       are named below: No. 1: Nineteenth-Century Explorers, incl. Isabella Bird of 8 subjects. No.
+       2: The Old Voyageurs. No. 3: Modern Wonder Workers. No. 4: The Old Navigators. No. 5: Modern
+       Travellers, incl. Miss Gordon-Cumming and Mrs. Alec Tweedie of 8 subjects. No. 7: World
+       Famous Authors: Homer, Virgil, Dante, Chaucer, Cervantes, Shakespeare, Moliere, Milton. No. 8 Makers of Nations.</note>
      </bibl>
      <bibl id="a192" default="NO">
       <ref targOrder="U">192.</ref>
