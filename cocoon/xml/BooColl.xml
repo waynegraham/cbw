@@ -16545,10 +16545,10 @@
         <item>Female Artistes</item>
         <item>Life in a Female Seminary</item>
         <item>Other Women</item>
-        <item>Female Institutions. NOT:=history, typology</item>
+        <item>Female Institutions. </item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes"> Complete title: <title>
+      <note place="unspecified" anchored="yes">NOT:=history, typology. Complete title: <title>
         <hi rend="italics">The Women of New York: or, The under-world of the great city :
          illustrating the life of women of fashion, women of pleasure, actresses and ballet girls,
          pickpockets and shoplifters, artists' female models, women of the town, etc.</hi>
@@ -16635,7 +16635,7 @@
        <date>1892</date>
        <date>1902.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Introductory remarks</item>
         <item>Natural Evidence</item>
@@ -16871,7 +16871,7 @@
        <publisher>Bell,</publisher>
        <date>1905.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>The Courts of Henry VIII</item>
         <item>Mary Stuart and Some of Her Contemporaries</item>
@@ -17098,7 +17098,7 @@
         targOrder="U">Williams, <title>
          <hi rend="italics">Heroines of India</hi>
         </title></ref>, published in London (<date>n.d.</date>). </note>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Women Made Famous by Imperial Decree: Suicides, Widows, Filial Daughters</item>
         <item>Women Made Famous by the Voice of the People: Filial Daughters</item>
@@ -17785,7 +17785,7 @@
        <date>1906;</date>
        <date>1907.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>The Duchess of Mazarin</item>
         <item>Henrietta, Duchess of Orleans</item>
@@ -18829,7 +18829,7 @@
        <publisher>Dutton,</publisher>
        <date>1902.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>The Songstress in Exile:Lady Grisell Hume</item>
         <item>The Songstress in Social Life: Mrs. Alison Cockburn</item>
@@ -19066,7 +19066,7 @@
        similar publication histories, and compare those by <ref target="a305" targOrder="U">John
         Frost</ref> between <date>1854-1869</date>. Various editions widely available, with several
        reprints in the <date>1990s</date>. </note>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Woman as Pioneer</item>
         <item>Woman’s Work in Floods and Storms</item>
@@ -19642,7 +19642,7 @@
        <publisher>Ward &amp; Downey,</publisher>
        <date>1895.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Introduction-Mary Molesworth, Countess of Belvedere</item>
         <item>Eleanor Ambrose, “the Dangerous Papist”</item>
@@ -19708,7 +19708,7 @@
       </imprint>
       <note place="unspecified" anchored="yes"> Titlepage: “by an ungodly woman of the 19th century”
       (i.e. Gibson). Also listed under Ella P. Gibson. </note>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Introduction</item>
         <item>Sarah</item>
@@ -20368,7 +20368,7 @@
        <date>1888;</date>
        <date>1889.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Lady Washington</item>
         <item>Mrs. John Adams</item>
@@ -20964,7 +20964,7 @@
        <publisher>Dutton,</publisher>
        <date>1917.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>I. The Amazons in ancient and modern times - Miss Beebe Beam - Senora Loreta Velasquez - Women who have served in the British Army, disguising their sex - Christian Davies - Hannah Snell - Mary Anne Talbot - Dr. James Barry, Inspector-General of Army Hospitals </item>
         <item>II. The Amazons of France - The real Mme. Sans-Gene - Bernadotte's admiration for her - Her ultimate marriage to a gendarme - Virginie Ghesquiere - Angelique Brulon - Marie Schellinck - Liberte Barrau - Felicite and Theophile Fernig, the heroines of Jemmappes - Felicite's romantic marriage - Theophile's secret sorrow </item>
@@ -21573,7 +21573,7 @@
        <date>1914.</date>
       </imprint>
       <note place="unspecified" anchored="yes">British Library.</note>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Madame Adelaide and Pompadour </item>
         <item>Madame de Pompadour's Practices </item>
@@ -21836,7 +21836,7 @@
        individual acknowledgment is impossible, and he has instead appended a list of works consulted in preference to encumbering the text with notes" (vii).  Seems likely
        that much derives from Latour's series, with similar form of chapter titles, similar focus on French 17th c.  Includes Genealogical Trees.
       </note>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Mme de Longueville (1619-1679)</item>
         <item>Mme de Motteville (1621-1689) and Anne of Austria</item>
@@ -22654,7 +22654,7 @@
        <publisher>Roberts,</publisher>
        <date>1896.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>The Learned Woman: Sonia Kovalevsky</item>
         <item>Neurotic Keynotes: George Egerton</item>
@@ -22820,7 +22820,7 @@
        <date>1912;</date>
        <date>[1915?].</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Elisabeth Goethe </item>
         <item>The Jewish Salons </item>
@@ -23207,7 +23207,7 @@
        Moses, Aaron, and Miriam,” “Hannah, the Mother of Samuel,” Deborah, Naomi, Esther, and
        Phoebe, a “deaconess” of “the early Church” (87-88). Under a hundred tight pages in a light, pocket-sized
       book bound in blue cloth, floral frame stamped in black around title in white on front cover. Punctuation as is in chapter titles.</note>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Jochabed. (The Helper, Through the Home).  </item>
         <item>Deborah.  (The Helper, Through Personal Influence).  </item>
@@ -23263,6 +23263,7 @@
         <item>Supplementary Story Material</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes">NOT=male-female.</note>
      </bibl>
      <bibl id="a391" default="NO">
       <ref targOrder="U">391.</ref>
@@ -23333,7 +23334,7 @@
       dress and bonnet.  Perhaps this missionary woman is handing towels or tracts to a white-bearded man draped in white.  The title page vignette also shows a colorful
       public scene in the "East" with apparent variety of racial types in a market.  Some chapters also listed in a394 Hayward.  Only Mrs. Cargill's narrative is without
       separate chapter headings in her 8-pp. narrative.  The thick pages have no numbering.  </note>
-      <note type="chapter_titles">
+      <note type="toc">
       <list>
         <item>Mrs. Johnston of the West Indies  </item>
        <item>I. The Slave at Work</item>
@@ -24573,7 +24574,7 @@
       </imprint>
       <note place="unspecified" anchored="yes">Bodleian See <ref target="a157" targOrder="U"
         >Barton</ref> re Lincoln.</note>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>I: Introductory: Napoleon and the Feminine Tangent</item>
         <item>II: Episodes of Youth and Adolescence</item>
@@ -25342,7 +25343,7 @@
        <publisher>Hitchcock &amp; Walden,</publisher>
        <date>1875.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Sanjogata, the Last Ranee of Delhi </item>
         <item>Pudmunee, the Beautiful Cingalese </item>
@@ -25480,7 +25481,7 @@
        <publisher>Froben,</publisher>
        <date>1933.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Chapter I: Early Midwives in the Colonies. - The Hunt Sisters in Boston. - Medical Education Before 1850  </item>
         <item>Chapter II: New York and London. - Elizabeth Blackwell, M.D., Geneva, New York, 1849. - Emily Blackwell, M.D., Cleveland, Ohio. 1854.
@@ -25755,7 +25756,7 @@
        <date>1894;</date>
        <date>1894.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>The Chateau of Versailles</item>
         <item>Louis XIV and His Court in 1682</item>
@@ -26676,7 +26677,7 @@
       </imprint> Alternate title: <title>
        <hi rend="italics">Memoirs of Women Loved and Celebrated by Poets.</hi>
       </title>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>The Loves of the Troubadours</item>
         <item>Guido Cavalcanti and Mandetta</item>
@@ -27017,7 +27018,7 @@
         targOrder="U">Burke</ref>, and <ref target="a452" targOrder="U">Jameson</ref>. "Gallery" is
        a literal and figurative premise for at least seventeen collections in this bibliography.
        Clare Jerrold also wrote three individual biographies of Victoria. </note>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Princess Victoria's Relatives</item>
         <item>Princess Victoria's Mother and Uncle</item>
@@ -27336,7 +27337,7 @@
        <date>1873;</date>
        <date>1922.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>In Filial Affection</item>
         <item>In Sisterly Affection</item>
@@ -27410,7 +27411,7 @@
       </imprint>
       <note place="unspecified" anchored="yes"> Various chapters feature “The first woman novelist:
        Fanny Burney,” Austen, Charlotte Brontë, Eliot: “The Great Four.” </note>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Introduction: Before Miss Burney</item>
         <item>The First Woman Novelist: Fanny Burney</item>
@@ -28525,7 +28526,7 @@
        <publisher>Knopf,</publisher>
        <date>1930.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Marie-Antoinette&dash;Unhappy Queen</item>
         <item>Forgotten and Unknown Women of the Revolution</item>
@@ -28573,7 +28574,7 @@
       <note place="unspecified" anchored="yes">Dedication on August 19, 1927 (her husband's birthday) indicates that her beloved husband 
       collaborated on the book before he died.  Format similar to other Latour volumes, though the University of Virginia copy is rebound in red cloth.  Numerous
       passages marked in pencil along margin.  One illustration torn and repaired with tape.</note>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Preface&mdash;By M. L&eacute;on Frapi&eacute;</item>
         <item>Marie Leczinska, Queen of France</item>
@@ -28693,7 +28694,7 @@
        <publisher>Revell,</publisher>
        <date>1900.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Hannah, the Praying Mother</item>
         <item>Elisabeth, the Pious Mother</item>
@@ -28934,7 +28935,7 @@
        <publisher>Behrman's Jewish Book House,</publisher>
        <date>1940.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Sarah, the Mother of Her People</item>
         <item>Rebecca, the Girl Who Was Kind to Strangers</item>
@@ -29347,7 +29348,7 @@
        <publisher>Brentano's,</publisher>
        <date>1910.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Society.  </item>
         <item>Gay Life and Theatre Wings.  </item>
@@ -29563,7 +29564,7 @@
        paragraphs, then gives a list of suggestions for further reading; the two or three women under each chapter 
        title would be studied at one of the fourteen meetings of a reading club.</note>
      </bibl>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Women of Concord: Louisa May Alcott - Rose Hawthorne Lathrop</item>
         <item>Oil Paint and Modelling Clay: Laura Knight - Malvina Hoffman</item>
@@ -29676,7 +29677,7 @@
       plain-spoken book, each chapter beginning with chapter and verse and segmented with subheadings, it begins with 
       "The Magnificat" Luke 1:46-55 printed in the shape of a cross on a pediment.  Sentences underlined, chapter numbers
       circled.</note>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Woman: The Ideal According to the Scriptures</item>
         <item>Eve: The Mother of the Human Race</item>
