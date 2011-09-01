@@ -37204,6 +37204,36 @@
        <publisher>Revell,</publisher>
        <date>1925.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Eve: The New Woman</item>
+        <item>Rebekah: Romance and Common Sense</item>
+        <item>Jochebed and Miriam: Resolute, Resourceful Women</item>
+        <item>Deborah: An Able Leader of Men</item>
+        <item>Delilah: A Temptress</item>
+        <item>Ruth: A Dependable Woman</item>
+        <item>Hannah: Mother of a Great Prophet</item>
+        <item>Queen of Sheba: The Seeker after Wisdom</item>
+        <item>Widow of Zarephath: Faith Under Difficulties</item>
+        <item>Jezebel: The Ruthless Queen</item>
+        <item>Esther: Self-sacrifice for a Cause</item>
+        <item>Woman of Solomon's Song: The Single Standard</item>
+        <item>Mother of Jesus: Best and Best Known</item>
+        <item>Wife of Peter: A Hidden Woman</item>
+        <item>Woman of Samaria: A Keen Questioner</item>
+        <item>Martha and Mary: A Task and a Vision</item>
+        <item>Mary Magdalene: A Woman of Large Service</item>
+        <item>Mother of James and John: An Ambitious Woman</item>
+        <item>Dorcas: A Philanthropic Woman</item>
+        <item>Mary, Mother of Mark: An Influential Church Worker</item>
+        <item>Lydia: A Business Woman</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">Henry Sell, Doctor of Divinity, is advertised on a page preceding the title page
+      as author of thirteen books of Bible studies, 350,000 copies sold.  In 160 pages, the short chapters combine narrative and 
+      commentary with frequent references to chapter and verse.  The text has the appearance of a guide, with the beginnings 
+      of paragraphs in bold type, whether they make sense as headings or not; some italicized subheadings.  Each chapter
+      ends with "Questions."  </note>
      </bibl>
      <bibl id="a708" default="NO">
       <ref targOrder="U">708.</ref>
@@ -38687,9 +38717,16 @@
        <publisher>Kilner,</publisher>
        <date>1912.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> Possible excerpt: <title>
+      <note place="unspecified" anchored="yes">NOT=fiction.  Possible excerpt: <title>
         <hi rend="italics">Saint Elizabeth, the Queen of Hungary</hi>
-       </title>. Baltimore, Baltimore Pub. Co., 188[-]. </note>
+      </title>. Baltimore, Baltimore Pub. Co., 188[-]. The 1869 volume is actually anonymous on the title page and unsigned 
+      preface and dedication (to the Duchess of Norfolk), but the red cloth binding has "Miss Stewart's Works" on the spine.  On the title page: "By the Authoress
+      of "The World and the Cloister," "The Two Marys," "At War with the World," &amp;c., &amp;c., &amp;c."  It seems likely
+      that this binding occurred when the two-page catalogue "Selection from Burns &amp; Oates' Catalogue of Publications," dated 1888,
+      was sewn in at the back in addition to the alphabetical catalogue that begins again (effectively on page 3); the whole catalogue is paginated
+      consecutively, 4-16.  One wood-cut style frontispiece, a king on horseback commissions laborers in a 
+      limekiln to commit murder.  The chapters are fictionalized
+      narratives of saints: "The Matron of Israel"L Elizabeth, mother of Saint John the Baptist; "The Queen Saint of Hungary"; "The Lily of Portugal."</note>
      </bibl>
      <bibl id="a756" default="NO">
       <ref targOrder="U">756.</ref>
