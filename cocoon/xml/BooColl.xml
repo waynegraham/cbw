@@ -29812,7 +29812,7 @@
        <publisher>Holt,</publisher>
        <date>1911.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>The Making of an Empress</item>
         <item>The End of the Golden Age</item>
@@ -29876,7 +29876,7 @@
         <item>Jezebel, Woman in Sin</item>
         <item>Lydia, Woman Under Grace</item>
         <item>Esther, Woman in Society</item>
-        <item>Martha, Woman in the hHome</item>
+        <item>Martha, Woman in the Home</item>
         <item>Phebe, Woman in the Church</item>
        </list>
       </note>
@@ -30154,7 +30154,7 @@
        <publisher>Dail; Macveagh,</publisher>
        <date>1927.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>The Ideal Woman</item>
         <item>The Forerunners</item>
@@ -30305,7 +30305,8 @@
        <pubPlace>New York:</pubPlace>
        <publisher>American Tract Society,</publisher>
        <date>1868.</date>
-      </imprint> Also published anonymously. <note type="toc">
+      </imprint> Also published anonymously. 
+      <note type="toc">
        <list>
         <item>Monica</item>
         <item>Elizabeth</item>
@@ -30336,7 +30337,7 @@
        <publisher>American Tract Society,</publisher>
        <date>1868.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Eve, the Mother of Mankind </item>
         <item>Sarah, the Wife of Abraham </item>
@@ -30669,7 +30670,7 @@
        <publisher>YWCA,</publisher>
        <date>1915-29.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>[no. 1.] She Remembered His Commandments to Do Them / Mrs. R.E. Speer</item>
         <item>[no. 2.] A Cycle of Prayer in Remembrance of Grace L. Coppock / Abby Shaw
@@ -31092,7 +31093,7 @@
       </imprint>
       <note place="unspecified" anchored="yes"> Catalogued under Stone: <date>1865</date>,
         <date>1870</date>; under Menzies: <date>1866</date>. </note>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>The Favourites of Edward of Caernarvon and Isabel of France</item>
         <item>Maria de Padilla, Favourite of Don Pedro the Cruel</item>
@@ -32203,7 +32204,7 @@
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 215-16, 218-21.</xref>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Page: The Work of the Afro-American Woman</item>
         <item>The Sketch of Afro-American Literature</item>
@@ -32769,7 +32770,7 @@
        <publisher>Lawrence Publishing,</publisher>
        <date>1907.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Introductory</item>
         <item>Women of Pagan Ireland</item>
@@ -36221,7 +36222,7 @@
        <publisher>Harcourt Brace,</publisher>
        <date>1928.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Mata Hari</item>
         <item>Mary Read and Anne Bonny</item>
@@ -36539,7 +36540,7 @@
       <imprint>
        <date>1905.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Three Generations of Fascinating Women</item>
         <item>A Gipsy Prediction Fulfilled</item>
@@ -41033,7 +41034,7 @@
        <publisher>Ward, Lock,</publisher>
        <date>1895.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Cain's Brand</item>
         <item>On the Stage and Off the Stage</item>
@@ -41686,6 +41687,17 @@
        <publisher>Norwood,</publisher>
        <date>1978.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Hannah Woolley</item>
+        <item>Lady Masham</item>
+        <item>Mary Astell</item>
+        <item>Lady Chesterfield (Lord Halifax’s daughter)</item>
+        <item>Elizabeth Elstob</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">Subjects may be more extensive; theses names derived from advertisement for this
+       book printed in a651, Giuseppe Portigliotti, <hi rend="italics">Some Fascinating Women of the Renaissance</hi>.</note>
      </bibl>
      <bibl id="a842" default="NO">
       <ref targOrder="U">842.</ref>
@@ -42120,7 +42132,7 @@
        <publisher>Dutton,</publisher>
        <date>1922.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Women Agitators</item>
         <item>Salons and Salonnieres</item>
