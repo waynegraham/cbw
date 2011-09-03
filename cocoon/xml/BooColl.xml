@@ -14196,7 +14196,7 @@
        Epigraphs and excerpts from famous writers such as Ovid interrupt the prose, e.g. pp. 232-3.  An exception appears
        in discussing the famous women who "ruled Kings" in France; ch. vii, pp. 300-13, includes various named women. See <ref
         target="a188" targOrder="U">Cole</ref>.</note>
-      <note place="unspecified" anchored="yes">Chapter list: 
+      <note type="toc">
        <list>
         <item>Chapter I: Types Considered: Beauty generally - Past and present types - Have women types of old been excelled? - Types in novels - The study of types - Non-comprehension of types - Why no men types </item>
         <item>Chapter II: The Prototypes in the Classics: The classics shelved - Siege of Troy - Venus - Juno - Minerva - The 'Iliad' - The 'Aeneid' - The Argonauts - The 'Odyssey' - From various poems" </item> 
@@ -14880,8 +14880,14 @@
        <date>1909.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> A nine page insert in <hi rend="italics">The North Carolina Booklet</hi>  
-       that details the heroic acts of three North Carolinian women (Betsey Dowdy, Mary Slocumb, and Flora MacDonald)
-      during the American Revolution.</note>
+       that details the heroic acts of three North Carolinian women during the American Revolution.</note>
+      <note type="toc">
+       <list>
+        <item>Betsey Dowdy</item>
+        <item>Mary Slocumb</item>
+        <item>Flora MacDonald</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a227" default="NO">
       <ref targOrder="U">227.</ref>
@@ -15023,7 +15029,7 @@
        <date>1910.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> British Library. Author of series of tales of famous
-       cases and popularized law studies. </note>
+      cases and popularized law studies. </note>
      </bibl>
      <bibl id="a232" default="NO"><ref targOrder="U">232.</ref>
       <idno>a232</idno>
@@ -15139,54 +15145,34 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Eve</item>
-        <item>Sarah</item>
-        <item>Lot's Wife</item>
-        <item>Rebekah</item>
-        <item>Miriam</item>
-        <item>Deborah</item>
-        <item>Ruth</item>
-        <item>Hannah</item>
-        <item>Abigail</item>
-        <item>Rizpah</item>
-        <item>Maachah</item>
-        <item>The Widow of Zarephath</item>
-        <item>Jezebel</item>
-        <item>The Shunammite</item>
-        <item>Athaliah</item>
-        <item>Esther</item>
-        <item>The Virgin Mary</item>
-        <item>Elisabeth</item>
-        <item>Anna</item>
-        <item>Martha</item>
-        <item>Mary</item>
-        <item>Mary Magdalene</item>
-        <item>Joanna</item>
-        <item>Sapphira</item>
-        <item>Dorcas</item>
-        <item>Priscilla</item>
+      <item>Eve: Disobedience</item> 
+      <item>Sarah: Impatience</item>
+      <item>Lot's Wife: A Divided Heart</item>
+      <item>Rebekah: A Crooked Way</item> 
+      <item>Miriam: Rebellion</item>
+      <item>Deborah: Simplicity</item> 
+      <item>Ruth: Filial Love and Care</item>
+      <item>Hannah: "The Prayer of Faith"</item>
+      <item>Abigail: "A Soft Answer"</item>
+      <item>Rizpah: Maternal Devotion</item> 
+      <item>Maachah: Idolatry</item>
+      <item>The Widow of Zarephath: Trust in God</item> 
+      <item>Jezebel: An Evil Influence</item> 
+      <item>The Shunammite: Hospitality</item>
+      <item>Athaliah: Ambition</item>
+      <item>Esther: Self-sacrifice</item>
+      <item>The Virgin Mary: Submission to God's Will</item> 
+      <item>Elisabeth: Consistency</item> 
+      <item>Anna: Worship</item> 
+      <item>Martha: Industry</item> 
+      <item>Mary: A Spiritual Mind</item> 
+      <item>Mary Magdalene: Love to Christ</item> 
+      <item>Joanna: Gratitude</item> 
+      <item>Sapphira: Lying</item> 
+      <item>Dorcas: Mercy</item> 
+      <item>Priscilla: Work in the Church</item>
        </list>
       </note>
-      <note place="unspecifed" anchored="yes">Chapter Titles: Eve: Disobedience; Sarah: Impatience; Lot's Wife: A Divided Heart;
-       Rebekah: A Crooked Way; Miriam: Rebellion; Deborah: Simplicity; Ruth: Filial Love and Care;
-       Hannah: "The Prayer of Faith"; Abigail: "A Soft Answer"; 
-       Rizpah: Maternal Devotion; 
-       Maachah: Idolatry; 
-       The Widow of Zarephath: Trust in God; 
-       Jezebel: An Evil Influence; 
-       The Shunammite: Hospitality; 
-       Athaliah: Ambition; 
-       Esther: Self-sacrifice; 
-       The Virgin Mary: Submission to God's Will; 
-       Elisabeth: Consistency; 
-       Anna: Worship; 
-       Martha: Industry; 
-       Mary: A Spiritual Mind; 
-       Mary Magdalene: Love to Christ; 
-       Joanna: Gratitude; 
-       Sapphira: Lying; 
-       Dorcas: Mercy; 
-       Priscilla: Work in the Church.  </note>
       <note place="unspecified" anchored="yes">The iv + 43-pp. booklet in boards covered in green with black lettering has evidently been used.  Above 
       Lesson I. in blue pencil is written S. N. 4-11-35; Lesson II. S. N. 19. x .36 ? [sic] in black pencil; Lesson XII: S. N. 21.9.36, with a check mark, "Hymn
       '94 or 187?" in black pencil.  Lesson XIX in darker pencil, "Nov'14."  These suggest plans for using the lesson on a date.  On opposite page, Lesson XVIII, above 
@@ -15194,8 +15180,8 @@
       black pencil, "Bear Wood 1913./Wickhampstead[?] 1914/Arborfield 1915."  At bottom of p. 15: "Ps 121/3/ He that Keepeth thee will not sleep" and many of the words 
       in the lesson are circled or underlined.  Of course the lessons are condensations of references
       to Bible passages.  The handwriting in such notes appears consistent throughout, and there are many marked lessons, 
-      while some remain blank and some
-      notes have been erased (p.31).  Perhaps the person who signed Corfield in blue ink on upper right of the light green endpaper inside the front cover traveled to preach and teach from these lessons.
+      while some remain blank and some notes have been erased (p.31).  Perhaps the person who signed Corfield in blue ink on upper right of the light green endpaper inside 
+      the front cover traveled to preach and teach from these lessons.
       It belongs to the Ira J. Taylor Library, Iliff School of Theology, Denver, Colorado.</note>
      </bibl>
      <bibl id="a236" default="NO">
@@ -37347,6 +37333,7 @@
        <publisher>Sheldon,</publisher>
        <date>[1940-49?].</date>
       </imprint>
+      <note place="unspecified" anchored="yes">Pending information on the contents of this collection.</note>
      </bibl>
      <bibl id="a710" default="NO">
       <ref targOrder="U">710.</ref>
@@ -37375,6 +37362,7 @@
        <publisher>Sheldon,</publisher>
        <date>1940.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">Pending information on the contents of this collection.</note>
      </bibl>
      <bibl id="a712" default="NO">
       <ref targOrder="U">712.</ref>
@@ -38367,7 +38355,12 @@
        <publisher>n.p.,</publisher>
        <date>1913.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> 24-pp. biographical literary study. </note>
+      <note place="unspecified" anchored="yes"> 24-pp. biographical literary study. Women mentioned include: Miriam, the sister of Moses;
+      Deborah, the prophetess; Huldah, the prophetess; Esther; Ima Shalom; Beruria; Jalta; Deborah Ascarelli; Sara Copia Sullam; 
+      Glückel von Hameln; Dorothea Mendelssohn; Henriette Herz; Rahel Varnhagen; Grace Aguilar; Rachel Morpurgo; Henriette Oppenheimer;
+      Martha Wolfenstein; Emma Lazarus; Mary Antin; Amy Levy; Lady Simon; Lady Magnus; Mrs. Henry Lucas; Mrs. Salaman (Nina Davis); 
+      Mrs. Nathaniel Cohen; Mrs. Morris Joseph; Miss Re Henry; Mrs. Marion Spielmann; Miss Lily Montagu; Mrs. Ada Leverson; Mrs. A. Frankau;
+      Miss Regina Bloch; and Miss Jeanne Berman.</note>
      </bibl>
      <bibl id="a743" default="NO">
       <ref targOrder="U">743.</ref>
@@ -40007,6 +40000,21 @@
        <publisher>Albertype,</publisher>
        <date>1892.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">NOT=reference: photogravures. A brief account of Brockton’s representative home-makers. 
+       Includes brief biographical sketches (one or two paragraphs) of eight Brockton women. This short collection concludes with approximately
+       ten pages of photogravures.</note>
+      <note type="toc">
+       <list>
+        <item>Mrs. Lucy C. Cross</item>
+        <item>Mrs. Taylor Cobb</item>
+        <item>Mrs. Esther M. Baxendale</item>
+        <item>Mrs. Elizabeth A Kingman</item>
+        <item>Mrs. H.B. Holmes</item>
+        <item>E. Vinton Blake</item>
+        <item>Mrs. Elizabeth A. Packard</item>
+        <item>Mrs. S. Agnes Parker</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a791" default="NO"><ref targOrder="U">791.</ref>
       <idno>a791</idno>
@@ -41976,6 +41984,24 @@
        <pubPlace>Epworth,</pubPlace>
        <date>1919.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">A tribute to the resourcefulness and bravery of women in World War, the collection
+       details the contributions of specific women as well as women in general.</note>
+      <note type="toc">
+       <list>
+        <item>Introductory</item> 	
+         <item>Nurse Edith Cavell</item> 	
+         <item>Emilienne Moreau: the Heroine of Loos</item> 	
+         <item>Sister Myra Ivanovna: a Russian Joan of Arc</item>	
+         <item>Mabel Dearmer</item> 	
+         <item>Sister Joan Martin-Nicholson</item>	
+         <item>Miss Phyllis Campbell</item> 	
+         <item>The Retreat in Serbia</item> 	
+         <item>Heroines All</item> 	
+         <item>Women Soldiers</item> 	
+         <item>Women Doctors and War Decorations</item> 	
+         <item>Conclusion</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a845" default="NO">
       <ref targOrder="U">845.</ref>
@@ -42735,7 +42761,7 @@
        </list>
       </note>
      </bibl>
-     <bibl id="a864" default="NO">
+      <bibl id="a864" default="NO">
       <ref targOrder="U">864.</ref>
       <idno>a864</idno>
       <title type="ref">
@@ -42748,7 +42774,7 @@
        <date>[1900?].</date>
        <date>1977.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> NOT=reference. See <ref target="a595" targOrder="U">National
+      <note place="unspecified" anchored="yes"> NOT=reference. Pending information on the contents of this collection. See <ref target="a595" targOrder="U">National
         Council of Women in India, <title>
          <hi rend="italics">Women in India</hi>
         </title></ref>.</note>
@@ -42803,6 +42829,20 @@
        <publisher>International Committee of YWCA,</publisher>
        <date>1898.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">NOT = Book of prayers? Not concerned with the lives of the women of the bible, 
+      but rather provides prayers to cultivate certain womanly characteristics as depicted through these women.</note>
+      <note type="toc">
+       <list>
+        <item>Study I. Deborah. The Woman of Leadership</item>
+         <item>Study II. Ruth. The Example of Friendship Between Women</item>
+         <item>Study III. Esther. The Woman of Position. A Parallel to the Modern Woman in Society</item>
+         <item>Study IV. The Ideal Woman of the Old Testament</item>
+         <item>Study V. Mary. The Mother of Our Lord</item>
+         <item>Study VI. The Ideal Woman in Christ’s Mind, So Far as We Can Judge by His Commendations and Rebuke
+         of Women in the Gospels</item>
+         <item>Study VII. The Part of Women in the Establishment and the Church</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a868" default="NO"><ref targOrder="U">868.</ref>
       <idno>a868</idno>
@@ -43803,7 +43843,7 @@
        <publisher>SPCK,</publisher>
        <date>1883.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">
+      <note place="unspecified" anchored="yes"> Pending information on the contents of this collection.
        <xref targOrder="U" from="ROOT" to="DITTO">See Phyllis Riches, Analytic Bibliography of
         Universal Collected Biography.</xref>
       </note>
@@ -44066,6 +44106,15 @@
        <date>1911;</date>
        <date>1912.</date>
       </imprint>
+      <note type="toc">
+       <list>
+         <item>Margaret Tudor, queen of Scotland, eldest daughter of Henry VII, 1489-1541</item> 	
+         <item>Mary Tudor, queen of France and duchess of Suffolk, third daughter of Henry VII, 1496-1533</item> 	
+         <item>Elizabeth, queen of Bohemia, the Queen of Hearts, eldest daughter of James I, 1596-1662</item>
+       <item>Mary Stuart, princess of Orange, eldest daughter of Charles I, 1641-1660</item>	
+         <item>Henrietta Anne of England, duchess of Orleans, and her times, 1644-1670</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a913" default="NO"><ref targOrder="U">913.</ref>
       <idno>a913</idno>
@@ -44724,7 +44773,7 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Joan of Arc</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
          <item>Margaret of Anjou</item>
          <item>Isabella of Castile</item>
         <item>Charlotte, Countess of Derby</item>
@@ -44749,6 +44798,7 @@
        <publisher>n.p.,</publisher>
        <date>1898.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">Pending information on the contents of this collection.</note>
      </bibl>
     </div2>
     <div2 type="letter" n="Z" org="uniform" sample="complete" part="N">
