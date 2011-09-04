@@ -19571,6 +19571,13 @@
        <date>1893;</date>
        <date>1894.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Josephine</item>
+        <item>Marie-Louise</item>
+        <item>Eugenie</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a317" default="NO">
       <ref targOrder="U">317.</ref>
@@ -21974,6 +21981,16 @@
        <date>1903].</date>
       </imprint>
       <note type="unspecified" anchored="yes">NOT: article from Transactions and Proceedings of the Japan Society, London, Volume 6.</note>
+     <note type="toc">
+      <list>
+       <item>Empress Jingo</item>
+       <item>Empress Komyo</item>
+       <item>Murasaki Shikibu</item>
+       <item>Hojo Masako</item>
+       <item>Hosokawa Tadaoki</item>
+       <item>Kasugano Tsubone</item>
+      </list>
+     </note>
      </bibl>
      <bibl id="a368" default="NO">
       <ref targOrder="U">368.</ref>
@@ -23613,7 +23630,7 @@
       </imprint>
       <note place="unspecified" anchored="yes">Cf. <ref target="a229" targOrder="U">Dawson,</ref>
        <ref target="a592" targOrder="U">Mundell,</ref> similar titles.</note>
-      <note type="chapter_title">
+      <note type="toc">
        <list>
         <item>Heroines of the Cross.  </item>
         <item>The First Woman Missionary - Mrs. Judson in Burmah.  </item>
@@ -27937,12 +27954,12 @@
        <list>
         <item>Princess Charlotte of Wales</item>
         <item>Mrs. James Fordyce</item>
-        <item>Mrs. Hannah Moore</item>
+        <item n="HANNAH_MORE">Mrs. Hannah Moore</item>
         <item>Miss Elizabeth Smith</item>
         <item>Mrs. Rowe</item>
         <item>Mrs. Elizabeth Carter</item>
-        <item>Lady Russel</item>
-        <item>Lady Jane Grey</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Russel</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes">British Library.  Rare, non-circulating, and not available online (2011). Purchased
@@ -28071,6 +28088,13 @@
       <note place="unspecified" anchored="yes"> British Library. Biographies of Mary Slessor and
        Frances Ridley Havergal by Esther E. Enock and of Pandita Ramabai by J. Chappell and H.S.
        Dyer. </note>
+      <note type="toc">
+       <list>
+        <item>"Ma," the Missionary Heroine of Calabar, Mary Slessor</item>
+        <item>Frances Ridley Havergal, the Christian Poetess</item>
+        <item>Pandita Ramabai</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a487" default="NO">
       <ref targOrder="U">487.</ref>
@@ -29336,24 +29360,27 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Society.  </item>
-        <item>Gay Life and Theatre Wings.  </item>
-        <item>The High Life of Gay Life.  </item>
-        <item>Noctambulists and Famous Gamblers.  </item>
-        <item>The Legend of La Marquise de Paiva.  </item>
-        <item>Among the Artists: Opera Queens.  </item>
-        <item>Among the Artists: In the Realm of Operette.  </item>
-        <item>A Trip to Cytherea.  </item>
-        <item>Leonide Leblanc.  </item>
-        <item>Anna Deslion.  </item>
-        <item>Julia Beneni (Known as La Barucci).  </item>
-        <item>Adele Courtois.  </item>
-        <item>Esther Guimond.  </item>
-        <item>Marguerite Bellanger.  </item>
-        <item>Adele Remy.  </item>
-        <item>The Heavy Battalion of Cytherea X.  </item>
+        <item>Society</item>
+        <item>Gay Life and Theatre Wings</item>
+        <item>The High Life of Gay Life</item>
+        <item>Noctambulists and Famous Gamblers</item>
+        <item>The Legend of La Marquise de Paiva</item>
+        <item>Among the Artists: Opera Queens</item>
+        <item>Among the Artists: In the Realm of Operette</item>
+        <item>A Trip to Cytherea</item>
+        <item>Leonide Leblanc</item>
+        <item>Anna Deslion</item>
+        <item>Julia Beneni (Known as La Barucci)</item>
+        <item>Adele Courtois</item>
+        <item>Esther Guimond</item>
+        <item>Marguerite Bellanger</item>
+        <item>Adele Remy</item>
+        <item>The Heavy Battalion of Cytherea X</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes">The Preface promises reviews of "the Court, society, and semi-society" and analyses
+      of both the "decorum and the absence thereof." The table of contents offers lengthy running headers delineating the subjects
+      of each chapter, from people to parties to scandals.</note>
      </bibl>
      <bibl id="a518" default="NO">
       <ref targOrder="U">518.</ref>
