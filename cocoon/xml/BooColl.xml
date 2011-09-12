@@ -37329,6 +37329,9 @@
        <date>1911;</date>
        <date>1914.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">NOT = Reference Work. This collection offers brief biographical sketches 
+       of prominent women in Denver, Colorado.  It contains approximately 100 women and includes portraits in about half
+       of the biographies.</note>
      </bibl>
      <bibl id="a708A" default="NO">
       <ref targOrder="U">708A.</ref>
@@ -37719,6 +37722,34 @@
        <publisher>Mills &amp; Boon,</publisher>
        <date>1913.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">The purpose of the collection is stated in the Preface as follows:  
+       “This book is not an attempt at exhaustive biography…it is, rather, a collection of character studies; little 
+       pen-pictures of famous women of the theatre during the period which it covers, and of the parts they played on 
+       and off stage.” The collection also features illustrations of the women, usually dressed in character.</note>
+      <note>
+       <list>
+        <item>Those That Came Before</item>
+        <item>The Rival Juliets – Mrs.Cibber</item>
+        <item>The Rival Juliets (continued) – G.A. Bellamy</item>
+        <item>Peg Woffington</item> 
+        <item>Kitty Clive</item>
+        <item>Mrs. Pritchard</item>
+        <item>Mrs. Yates and Anne Barry</item>
+        <item>Mrs. Abington</item>
+        <item>Some Stars and Lesser Stars, 1750-1800</item>
+        <item>Some Stars and Lesser Stars (continued)</item>
+        <item>Theaters and Public Taste</item>
+        <item>Miss Farren</item>
+        <item>Mrs. Jordan</item> 
+        <item>Mrs. Siddons</item>
+        <item>The Kembles</item> 
+        <item>Miss O’Neill</item>
+        <item>Some Stars and Lesser Stars, 1800-1850</item>
+        <item>Some Starts and Lesser Stars (continued)</item> 
+        <item>Helen Faucit and Mrs. Charles Kean</item> 
+        <item>Those That Came After</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a722" default="NO">
       <ref targOrder="U">722.</ref>
@@ -37742,6 +37773,18 @@
        <publisher>G. Allen and Unwin,</publisher>
        <date>1962.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Preface</item>
+        <item>Before Waitangi</item>
+        <item>The Voyage</item>
+        <item>The Early Home-Makers</item>
+        <item>Social Pleasures</item>
+        <item>Occupations</item>
+        <item>Women in Association</item>
+        <item>Postscript: since 1940</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a723" default="NO">
       <ref targOrder="U">723.</ref>
@@ -38219,6 +38262,27 @@
        <publisher>Holt, Rinehart &amp; Winston,</publisher>
        <date>1929.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>The Story of Rebekah</item> 
+        <item>How Jacob Found His Wife</item>
+         <item>How Miriam Saved Her Brother Moses</item> 
+         <item>Faithful Ruth and Her Good Fortune</item>
+         <item>A Great Queen Who Visited a Great King</item> 
+         <item>The Wickedness of Queen Jezebel</item>
+         <item>A Little Captive Maid Helps Her Master</item>
+         <item>The Story of Good Queen Esther</item>
+         <item>Mary the Mother of Jesus</item>
+         <item>The Raising of Jairus' Daughter</item>
+         <item>The Story of a Foreign Woman and Her Child</item>
+         <item>Two Sisters Who Loved Jesus</item>
+         <item>How Jesus Appeared First to a Woman After His Resurrection</item>
+         <item>A Good Woman Restored to Life</item>
+         <item>Lydia the First Christian Convert in Europe</item> 
+         <item>The Slave Girl Who Mocked the Apostles</item>
+        <item>Priscilla Who Helped to Spread the Gospel in Greece.</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a736" default="NO">
       <ref targOrder="U">736.</ref>
@@ -38234,7 +38298,18 @@
        <date>1911.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> “An account of Cardinal Mazarin and his seven
-       nieces” by a biographer of Eugénie. </note>
+      nieces” by a biographer of Eugénie. </note>
+      <note type="toc">
+       <list>
+        <item>Laura Martinozzi</item>
+        <item>Laura Mancini</item>
+        <item>Anne Marie Martinozzi</item>
+        <item>Marie Mancini</item>
+        <item>Olympia Mancini</item>
+        <item>Hortense Mancini</item>
+        <item>Marie Anne Mancini</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a737" default="NO">
       <ref targOrder="U">737.</ref>
