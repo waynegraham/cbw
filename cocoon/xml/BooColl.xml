@@ -37377,8 +37377,21 @@
        <publisher>Sheldon,</publisher>
        <date>1940.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">Same as <ref target="a711" targOrder="U">Entry
-        a711</ref>?</note>
+      <note place="unspecified" anchored="yes">Sixteen-page pamphlet.  On title page, M. Mary Senior, Methodist Mission, Sierra Leone.  "The manuscript of this
+      book was obtained through the International Committee on Christian Literature for Africa, 2 Eaton Gate, London." On back paper cover:
+      African Home Library (Each 1d.) 1. The Country of Jesus 2. The Fight for Health 3. Children Fight Enemies of Health 4. Woman's Work in the
+      Home 5. Women Pathfinder 6. African Women Pathfinders 7. Money and Its Uses 8. The Fruits of the Ground.  Obviously a711 in
+      this bibliography is item 6 in this list.</note>
+      <note type="toc">
+       <list>
+        <item>Introduction</item>
+        <item>Pandita Ramabai</item>
+        <item>Florence Nightingale</item>
+        <item>Helen Keller</item>
+        <item>Madame Chiang Kai Shek</item>
+        <item>Tseng Pao-Swen</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a711" default="NO">
       <ref targOrder="U">711.</ref>
@@ -42047,14 +42060,20 @@
       <note type="toc">
        <list>
         <item>Hannah Woolley</item>
-        <item>Lady Masham</item>
+        <item>A Philosopher and His Daughter [Lord Halifax, Advice to a Daughter Elizabeth Lady Chesterfield]</item>
+        <item>Locke's Friend, Lady Masham</item>
         <item>Mary Astell</item>
-        <item>Lady Chesterfield (Lord Halifax’s daughter)</item>
         <item>Elizabeth Elstob</item>
+        <item>The Debt of Women to Sir Richard Steele</item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes">Subjects may be more extensive; theses names derived from advertisement for this
-       book printed in a651, Giuseppe Portigliotti, <hi rend="italics">Some Fascinating Women of the Renaissance</hi>.</note>
+      <note place="unspecified" anchored="yes">Advertisement for this
+       book printed in a651, Giuseppe Portigliotti, <hi rend="italics">Some Fascinating Women of the Renaissance</hi>.  Frontispiece
+      an image of the title page of Mary Astell's "Serious Proposal" 1694 with her holograph dedication.  Ada Wallas is identified as
+      Mrs. Graham Wallas on the title page.  The book takes a researched historical approach, 223 pages with brief index. The illustrations
+      add to the documentary air, including portraits of Halifax and Steele, images of period manuscripts.  The chapter on
+      Lord Halifax's widely-admired book of advice in 1688 examines that work for that period's views on women's roles; much as 
+      Halifax loved and respected his daughter, his views of marriage are unenlightened and in some respects "poisonous" (57).</note>
      </bibl>
      <bibl id="a842" default="NO">
       <ref targOrder="U">842.</ref>
@@ -42399,6 +42418,27 @@
        <publisher>Jewish Book Club,</publisher>
        <date>1940.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>The Women of the Bible</item>
+        <item>The Talmud on Women</item>
+        <item>The Women of the Talmudic Era</item>
+        <item>Three Who Excelled in Love</item>
+        <item>Queens</item>
+        <item>Heroines</item>
+        <item>Scholars</item>
+        <item>Donna Gracia</item>
+        <item>Glueckel of Hameln</item>
+        <item>Creative Writers</item>
+        <item>Jewish Women Today and Tomorrow</item>        
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">A short note "The Book and the Author" claims the book shows that Judaism "assignes and singular
+      role of importance and honor to women" contrary to the usual assertion.  "Trude Weiss Rosmarin holds a Ph.D. degree in Semitics,
+      archeology and philosophy."  The topical chapters largely consist of lists of individuals noted, with biographical information 
+      available, except for the women of today, who are not named by described through activities and organizations; the eponymous chapters
+      are narratives of one person. "Three Who Excelled in Love" are Ruth the Moabite, Rachel, wife of Rabbi Akiba,
+      and the mother of Rabbir Ishmael Ben Elisha.</note>
      </bibl>
      <bibl id="a852" default="NO">
       <ref targOrder="U">852.</ref>
