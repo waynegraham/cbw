@@ -38293,7 +38293,7 @@
          <item>A Good Woman Restored to Life</item>
          <item>Lydia the First Christian Convert in Europe</item> 
          <item>The Slave Girl Who Mocked the Apostles</item>
-        <item>Priscilla Who Helped to Spread the Gospel in Greece.</item>
+        <item>Priscilla Who Helped to Spread the Gospel in Greece</item>
        </list>
       </note>
      </bibl>
@@ -38338,7 +38338,44 @@
        <date>1913.</date>
       </imprint>
       <note place="unspecified" anchored="yes">The six daughters of Philip II, Duke of
-       Orleans.</note>
+       Orleans. The Preface states, "This book, however, is not intended to be a defence of the Regent, although it 
+      includes some illuminating thoughts concerning his personality. It is an account of his six daughters, who were undoubtedly 
+      great princesses, and whose lives, strange and even extravagant as they were, should prove not only interesting, 
+      but also instructive reading to those who are fond of intimate history."</note>
+      <note type="toc">
+       <list>
+        <item>The Regent d'Orleans</item>
+        <item>The Regent's Wife</item>
+        <item>The Regent's Mother</item>
+        <item>The Duchess de Berry - Her Mother's Schemes for Her</item>
+        <item>The Duchess de Berry - Her Projected Marriage</item>
+        <item>The Duke de Berry - His Bride's Disposition - Matrimonial Preliminaries</item>
+        <item>The Duchess de Berry - Her Intrigues</item>
+        <item>The Duchess de Berry and Her Mother</item>
+        <item>Mme. de Berry's Enhanced Position</item>
+        <item>The Duchess de Berry - Death of Her Husband and the King</item>
+        <item>The Duchess de Berry - The Regency Begins</item>
+        <item>The Duchess de Berry - Her Guards and Her Lover</item>
+        <item>The Regent's Suppers</item>
+        <item>The Regent's Suppers and Mistresses</item>
+        <item>The Duchess de Berry - Magnificence and Repentance</item>
+        <item>The Duchess de Berry - Her Marriage and Her Death</item>
+        <item>The Duchess de Berry - Mme. de Mouchy and M. de Riom</item>
+        <item>The Abbess of Chelles - Her Early Years</item>
+        <item>The Abbess of Chelles - She Takes the Veil - Her Installation</item>
+        <item>The Abbess of Chelles - Her Mutability - Cardinal de Bissy</item>
+        <item>The Abbess of Chelles - Her Last Years and Death</item>
+        <item>The Duchess of Modena - Her Love-Affair with Richelieu</item>
+        <item>The Duchess of Modena - Her Marriage to Francis d'Este</item>
+        <item>The Duchess of Modena - Her Early Married Life</item>
+        <item>The Duchess of Modena - Her Later Life and Death</item>
+        <item>The Queen of Spain - Her First Years and Marriage</item>
+        <item>The Queen of Spain - Her Whims and Ill-behaviour</item>
+        <item>The Queen of Spain - Her Married Life, Troubles and Death</item>
+        <item>Mademoiselle de Beaujolais</item>
+        <item>The Princess de Conti</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a738" default="NO"><ref targOrder="U">738.</ref>
       <idno>a738</idno>
@@ -38649,6 +38686,18 @@
        <publisher>Scribner,</publisher>
        <date>1909.</date>
       </imprint>
+    <note type="toc">
+     <list>
+      <item>Beatrce de' Portinari - Di Simone de' Bardi: The Type of the New Woman</item>
+      <item>Camilla Lucrezie de' Tournabuoni - Di Piero de' Medici: "The Queen of Florence"</item>
+      <item>Simonetta de' Cattanei - Di Marco de' Vespucci: "The Star of Genoa"</item>
+      <item>Giovanna Degli Albizzi - Di Francesco de' Tornabuoni: Wife of "The Mirror of Fashion"</item>
+      <item>Alessandra de' Machingi - Di Matteo Negli Strozzi: "The Mother of the Strozzi"</item>
+      <item>Lisa de' Gherardini - Di Francesco del Giocondo: Leonardo's "Mona Lisa"</item>
+      <item>Bianca de' Cappelli - Di Francesco de' Medici: "The Daughter of Venice"</item>
+      <item></item>
+     </list>
+    </note>
      </bibl>
      <bibl id="a748" default="NO"><ref targOrder="U">748.</ref>
       <author><name type="last">Staley</name>, <name type="first">John Edgcumbe</name>.</author>
