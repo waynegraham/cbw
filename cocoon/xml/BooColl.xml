@@ -5326,7 +5326,11 @@
        <date>1845.</date>
       </imprint>
       <note place="unspecified" anchored="yes">See <ref target="a141" targOrder="U">Cameron,</ref>
-       <date>1904.</date></note>
+       <date>1904.</date>  NOT= Portrait collection; literary anthology. The texts include stories and other items of interest, 
+       with poems written to accompany the portraits of American beauties. A dedicatory poem to the editor: To Mrs. Henry Baldwin.  
+       Other items include "To Miss Adelia Hoyt"; "The Minister's Daughter," by Miss Tyndal; "The Emperor and the Alchymist," 
+       from the German; "On the Portrait of Miss Tyndal."      
+      </note>
       <image n="no630">
        <imgName>Mrs. Henry Baldwin</imgName>
        <imgDesc>Mrs. Henry Baldwin and Child</imgDesc>
@@ -21788,7 +21792,12 @@
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
       </title> 100-2, 203-7.</xref>
-      <note type="unspecified">A 900+page, encyclopedia-like book that contains hundreds upon hundreds of entries of varying length on historical women, divided into four historical "eras": the first, from the beginning of history through the birth of Jesus Christ; the second, from the birth of Christ through the year 1500; the third, from 1500 through 1850; and the fourth, of women alive at the time of the book's publication. Also contains 229 portraits of important women.</note>
+      <note type="unspecified">NOT= encyclopedia.  A 900-plus-page book that contains 
+       hundreds upon hundreds of entries of varying length on historical women, divided 
+       into four historical "eras": the first, from the beginning of history through the birth of 
+       Jesus Christ; the second, from the birth of Christ through the year 1500; the third, from
+       1500 through 1850; and the fourth, of women alive at the time of the book's publication. 
+       Also contains 229 portraits of important women.</note>
      </bibl>
      <bibl id="a363" default="NO">
       <ref targOrder="U">363.</ref>
@@ -35238,7 +35247,7 @@
        <publisher>Religious Tract Society,</publisher>
        <date>[1903].</date>
       </imprint>
-      <note>
+      <note type="toc">
        <list>
         <item>Madame de Mornay [by] Rev. J.P. Hobson, M.A.</item>
         <item>Mary Jane Graham, [by] the late Rev. Canon Bell, D.D.</item>
