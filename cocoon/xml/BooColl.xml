@@ -37795,14 +37795,14 @@
         <item>Mrs. Abington</item>
         <item>Some Stars and Lesser Stars, 1750-1800</item>
         <item>Some Stars and Lesser Stars (continued)</item>
-        <item>Theaters and Public Taste</item>
+        <item>Theatres and Public Taste</item>
         <item>Miss Farren</item>
         <item>Mrs. Jordan</item> 
         <item>Mrs. Siddons</item>
         <item>The Kembles</item> 
         <item>Miss O’Neill</item>
         <item>Some Stars and Lesser Stars, 1800-1850</item>
-        <item>Some Starts and Lesser Stars (continued)</item> 
+        <item>Some Stars and Lesser Stars (continued)</item> 
         <item>Helen Faucit and Mrs. Charles Kean</item> 
         <item>Those That Came After</item>
        </list>
@@ -40091,6 +40091,8 @@
        <publisher>U.S. Office of Inter-American Affairs, Research Division,</publisher>
        <date>1944.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">See <ref target="p132" targOrder="U"
+       >p132.</ref></note>
      </bibl>
      <bibl id="a786" default="NO">
       <ref targOrder="U">786.</ref>
@@ -40691,6 +40693,8 @@
        <publisher>n.p.,</publisher>
        <date>1941.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">See <ref target="p139" targOrder="U"
+       >p139.</ref></note>
       <note place="unspecified" anchored="yes"> cf. earlier collections of Georgia women in
         <date>1920s-1930s</date> by <ref target="a087" targOrder="U">Blair,</ref>
        <ref target="a284" targOrder="U">Felton,</ref>
@@ -50760,7 +50764,6 @@
       <note place="unspecified" anchored="yes">NOT = Reference work. Approximately 150 women are included accompanied 
        by short biographies (2-3 sentences).
       </note>
-
      </bibl>
      <bibl id="p132A" default="NO">
       <idno>p132A</idno>
@@ -51056,7 +51059,6 @@
         <item>Mary L. Telfair</item> 
        </list>
       </note>
-
      </bibl>
      <bibl id="p140" default="NO">
       <idno>p140</idno>
