@@ -38736,8 +38736,8 @@
       </imprint>
     <note type="toc">
      <list>
-      <item>Beatrce de' Portinari - Di Simone de' Bardi: The Type of the New Woman</item>
-      <item>Camilla Lucrezie de' Tournabuoni - Di Piero de' Medici: "The Queen of Florence"</item>
+      <item>Beatrice de' Portinari - Di Simone de' Bardi: The Type of the New Woman</item>
+      <item>Camilla Lucrezia de' Tournabuoni - Di Piero de' Medici: "The Queen of Florence"</item>
       <item>Simonetta de' Cattanei - Di Marco de' Vespucci: "The Star of Genoa"</item>
       <item>Giovanna Degli Albizzi - Di Francesco de' Tornabuoni: Wife of "The Mirror of Fashion"</item>
       <item>Alessandra de' Machingi - Di Matteo Negli Strozzi: "The Mother of the Strozzi"</item>
@@ -38760,6 +38760,11 @@
        <publisher>T. W. Laurie,</publisher>
        <date>1910.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">First page with text features "New Books" from publisher,
+       including two historical books from this collection's author (one on Lola Montez and another
+       on the tragedies of the Medici). Title page subtitles the book "The Wives of the Doges." 
+      The TOC features only chapter numbers with lengthy running headers of a historical nature (such as 
+      "The dreaded Huns" or "Early Dress and Manners"), with many women listed in each chapter.</note>
      </bibl>
      <bibl id="a749" default="NO">
       <ref targOrder="U">749.</ref>
@@ -38779,6 +38784,10 @@
        <publisher>Laurie,</publisher>
        <date>1911.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">First page with text features "New Books" from publisher,
+       including one book from this collection's author (See item <xref targOrder="U" from="ROOT" to="DITTO"
+        >a748</xref>). The TOC offers general chapter titles (such as "Christ and Cupid" or "Crusades and Crafts") followed by lengthy
+      lists of subject matter, which is of a generally historical nature and names few women specifically.</note>
      </bibl>
      <bibl id="a750" default="NO">
       <ref targOrder="U">750.</ref>
@@ -38928,6 +38937,16 @@
        <publisher>Printed for private circulation, [J. Parker],</publisher>
        <date>1869.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>The Hon. Margaret Brooke, Lady Denham</item>
+        <item>Lady Anna-Maria Brudenell, Countess of Shrewsbury</item>
+        <item>Mary Bagot, Countess of Falmouth, Afterwards of Dorset and Middlesex</item>
+        <item>Frances Thornhurst, Mrs. Jenyns</item>
+        <item>Frances Jenyns, Duchess of Tyrconnel</item>
+        <item>Lucy Walter</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a754" default="NO">
       <ref targOrder="U">754.</ref>
@@ -39289,6 +39308,45 @@
        <publisher>Page,</publisher>
        <date>1906.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">An account of famous actresses in America from the 
+       late 19th century to the early 20th century. The facts for the biographies were collected from 
+       various contemporaneous publications and also from the actresses themselves. Each chapter is devoted
+       to the life of a single actress; chapters are approximately 10-15 pages in length.</note>
+      <note>
+       <list>
+        <item>Maude Adams</item>
+        <item>Julia Marlowe</item>
+        <item>Sarah Cowell LeMoyne</item>
+        <item>Minnie Maddern Fiske</item>
+        <item>Ida Conquest</item>
+        <item>Blanche Walsh</item>
+        <item>Annie Russell</item>
+        <item>Isabel Irving</item>
+        <item>Maxine Elliott</item>
+        <item>Ada Rehan</item>
+        <item>Virginia Harned</item>
+        <item>Viola Allen</item>
+        <item>Corona Riccardo</item>
+        <item>Mary Mannering</item>
+        <item>Julia Arthur</item>
+        <item>May Irwin</item>
+        <item>Effie Shannon</item>
+        <item>Mrs. Leslie Carter</item>
+        <item>Mary Shaw</item>
+        <item>Olga Nethersole</item>
+        <item>Lillian Lawrence</item>
+        <item>Blanche Bates</item>
+        <item>Eslie DeWolfe</item>
+        <item>Rose Coghlan</item>
+        <item>Margaret Anglin</item>
+        <item>Fay Davis</item>
+        <item>Odette Tyler</item>
+        <item>Marie Burroughs</item>
+        <item>Kathryn Kidder</item>
+        <item>Helena Modjeska</item>
+        <item>May Robson</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a762A" default="NO">
       <ref targOrder="U">762A.</ref>
