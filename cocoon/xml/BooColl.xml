@@ -35189,6 +35189,8 @@
       <title type="ref">
        <hi rend="italics">First Ladies.</hi>
       </title>
+      Illustrated by <editor role="illustrator"><name type="first">Undine</name>
+       <name type="last">Dunn</name>.</editor>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Macmillan,</publisher>
@@ -35203,8 +35205,10 @@
        <date>1964;</date>
        <date>1965.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">"Decorations by Undine Dunn.  Some twelve pages of "Source Books" as bibliography.  
-      Illustrations are silhouette paper-cut-out style, usually at head of chapters: pleasant scenes of old-time life.</note>
+      <note place="unspecified" anchored="yes">"Decorations by Undine Dunn."  Some twelve pages of "Source Books" as bibliography.  
+      Illustrations are silhouette paper-cut-out style, usually at head of chapters: pleasant scenes of old-time life.  Each chapter opening includes
+      an illustration, name, birth and death dates, and italicized descriptive title, e.g. "Queen Dolly," or "With a White Camellia" (sic, Lucy Webb Hayes) 
+      that is not in the table of contents.</note>
       <note type="toc">
        <list>
         <item>Martha (Dandridge) Custis Washington</item>
@@ -42197,7 +42201,7 @@
       to build a "New Jerusalem/In England's green and pleasant land."....Boys and girls, even now the torch is being passed to you.  Seize it anc carry on!" (152).</note>
       <note>
        <list>
-        <item>Florence Nightingale: I Happy Days of Childhood; II The Squire's Daughter; III Called to Service; IV The Lady of the Lamp; V At the Front; VI The Return of 
+        <item n="FLORENCE_NIGHTINGALE">Florence Nightingale: I Happy Days of Childhood; II The Squire's Daughter; III Called to Service; IV The Lady of the Lamp; V At the Front; VI The Return of 
         the Heroine; VII The Last Farewell</item>
         <item>Clara Barton: I Early Years; II Clara Becomes a Teacher; III Love Is Stronger than Fear; IV The Angel of the Battlefield; V The Call Comes a Second Time; VI 
         Christmas at Strassburg; VII Home Again</item>
