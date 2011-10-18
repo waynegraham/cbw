@@ -42773,49 +42773,48 @@
         <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Joan Hachette</item>
         <item>Margeret of Anjou</item>
-        <item>Queen of Navarre</item>
+        <item>The Queen of Navarre</item>
         <item>Mary Stuart</item>
         <item>The Princess of Conde</item>
-        <item>Mary Dyre, the Quaker Martyr of N England</item>
+        <item>Mary Dyre, the Quaker Martyr of New England</item>
         <item>Mrs. Jane Lane</item>
         <item>Lady Fanshawe</item>
         <item>Lady Banks</item>
         <item>Lady Morton</item>
-        <item>The Heart of Montrose?</item>
+        <item>The Heart of Montrose</item>
         <item>Lady Grisell Baillie</item>
         <item>Winnifred, Countess of Nithsdale</item>
         <item>Flora Macdonald</item>
         <item>Miss Mackay</item>
         <item>Lady Harriet Acland</item>
-        <item>Hellen Walker</item>
-        <item>Mme la Rochejaquelin</item>
-        <item>Elizabeth Cazotte</item>
-        <item>Mlle de Sombreuil</item>
+        <item>Helen Walker</item>
+        <item>Madame la Rochejaquelin</item>
+        <item>Elizabeth Cazotte and Mademoiselle de Sombreuil</item>        
         <item>Gertrude von der Wart</item>
-        <item>Mrs. Spencer Smith</item>
-        <item>Mlle Ambos</item>
-        <item>Catherine I of Russia</item>
+        <item>The Miller's Maid</item>
+        <item>A Rustic Heroine</item>
+        <item>Mrs. Spencer Smith's Escape</item>
+        <item>Mademoiselle Ambos</item>
+        <item>Catherine I. of Russia</item>
         <item>Maria Theresa</item>
-        <item>Mme de Drucourt</item>
-        <item>Marie Antoinette</item>
-        <item>Princess de Lamballe</item>
-        <item>Mme Elizabeth</item>
+        <item>Madame de Drucourt</item>
+        <item>Maria Antoinette</item>
+        <item>The Princess de Lamballe</item>
+        <item>Madame Elizabeth</item>
         <item>Charlotte Corday</item>
-        <item n="MADAME_ROLAND">Mme Roland</item>
-        <item>Mme Desmoulins</item>
+        <item n="MADAME_ROLAND">Madame Roland</item>
+        <item>Madame Desmoulins</item>
         <item>Theresa Cabarus</item>
         <item>Aimee Ladoinski</item>
         <item>Countess de Lavallette</item>
-        <item>Mrs. Mott</item>
-        <item>Mrs. Brewton</item>
+        <item>Mrs. Mott and Mrs. Brewton</item>
         <item>Mrs. Richard Shubrick</item>
         <item>Elizabeth Zane</item>
-        <item>Queen of Georgia</item>
+        <item>The Queen of Georgia</item>
         <item>Mrs. Charles Elliott</item>
         <item>Mrs. Pursley</item>
         <item>Lydia Darragh</item>
-        <item>Mrs. Heald</item>
-        <item>Mrs. Helm.</item>
+        <item>Mrs. Heald and Mrs. Helm</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes">
@@ -42826,14 +42825,73 @@
       <idno>a848</idno>
       <author><name type="last">Watson</name>, <name type="first">Henry Clay</name>.</author>
       <title type="ref">
-       <hi rend="italics">Romance of History: As Exhibited in the Lives of Celebrated Women.</hi>
+       <hi rend="italics">Romance of History: As Exhibited in the Lives of Celebrated Women of All Ages and Countries; Comprising
+        Remarkable Examples of Female Courage, Disinterestedness, and Self-Sacrifice.</hi>
       </title>
       <imprint>
        <pubPlace>Philadelphia:</pubPlace>
        <publisher>Gihon,</publisher>
        <date>1857.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">Possible alternate title to a847?</note>
+      <note place="unspecified" anchored="yes">Contents identical to <ref target="a847">a847 by Watson;</ref> alternative title.  We examined a copy of a848.  Frontispiece
+      engraving of Marie Antoinette.  Introduction (2 pp.) insists "heroism is not peculiar to man"; "heroic women of history are too numerous to be comprised, even by sketches,
+      in a single volume....Let the gallery be often visited" (n.p.)  Small type crowds 496 pages without illustration; some biographies are two pages long, with strong emphasis
+      on historical events but a mix of "noble deeds" anecdotes.  The Heart of Montrose is essentially a narrative about Montrose, and Lady Elizabeth Erskine, or Lady Napier, rescues and preserves the executed
+      hero's heart (149).  The Miller's Maid is one Hanchen; the Rustic Heroine is an anecdote with names changed.</note>
+      <note type="toc">
+       <list>
+        <item>Saint Genevieve</item>
+        <item>Brunehaut</item>
+        <item>Philippa of Hainault</item>
+        <item>The Sister of Duguesclin</item>
+        <item>Jane, Countess of Monfort</item>
+        <item n="JOAN_OF_ARC">Joan of Arc</item>
+        <item>Joan Hachette</item>
+        <item>Margeret of Anjou</item>
+        <item>The Queen of Navarre</item>
+        <item>Mary Stuart</item>
+        <item>The Princess of Conde</item>
+        <item>Mary Dyre, the Quaker Martyr of New England</item>
+        <item>Mrs. Jane Lane</item>
+        <item>Lady Fanshawe</item>
+        <item>Lady Banks</item>
+        <item>Lady Morton</item>
+        <item>The Heart of Montrose</item>
+        <item>Lady Grisell Baillie</item>
+        <item>Winnifred, Countess of Nithsdale</item>
+        <item>Flora Macdonald</item>
+        <item>Miss Mackay</item>
+        <item>Lady Harriet Acland</item>
+        <item>Helen Walker</item>
+        <item>Madame la Rochejaquelin</item>
+        <item>Elizabeth Cazotte and Mademoiselle de Sombreuil</item>        
+        <item>Gertrude von der Wart</item>
+        <item>The Miller's Maid</item>
+        <item>A Rustic Heroine</item>
+        <item>Mrs. Spencer Smith's Escape</item>
+        <item>Mademoiselle Ambos</item>
+        <item>Catherine I. of Russia</item>
+        <item>Maria Theresa</item>
+        <item>Madame de Drucourt</item>
+        <item>Maria Antoinette</item>
+        <item>The Princess de Lamballe</item>
+        <item>Madame Elizabeth</item>
+        <item>Charlotte Corday</item>
+        <item n="MADAME_ROLAND">Madame Roland</item>
+        <item>Madame Desmoulins</item>
+        <item>Theresa Cabarus</item>
+        <item>Aimee Ladoinski</item>
+        <item>Countess de Lavallette</item>
+        <item>Mrs. Mott and Mrs. Brewton</item>
+        <item>Mrs. Richard Shubrick</item>
+        <item>Elizabeth Zane</item>
+        <item>The Queen of Georgia</item>
+        <item>Mrs. Charles Elliott</item>
+        <item>Mrs. Pursley</item>
+        <item>Lydia Darragh</item>
+        <item>Mrs. Heald and Mrs. Helm</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a849" default="NO">
       <ref targOrder="U">849.</ref>
