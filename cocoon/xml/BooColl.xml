@@ -5534,7 +5534,7 @@
        <name type="first">James</name>.</author>
       <title type="ref">
        <hi rend="italics">Ladies of the Reformation: Memoirs of Distinguished Female Characters,
-        Belonging to the Period of the Reformation in the Sixteenth Century . . . England, Scotland, and the Netherlands.</hi>
+        Belonging to the Period of the Reformation in the Sixteenth Century.  England, Scotland, and the Netherlands.</hi>
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
@@ -5591,14 +5591,44 @@
       </author>
       <title type="ref">
        <hi rend="italics">Ladies of the Reformation: Memoirs of Distinguished Female Characters,
-        Belonging to the Period of the Reformation in the Sixteenth Century . . . Germany, Switzerland, France,
+        Belonging to the Period of the Reformation in the Sixteenth Century. Germany, Switzerland, France,
         Italy, and Spain.</hi>
       </title>
       <imprint>
-       <pubPlace>London:</pubPlace>
+       <pubPlace>London,</pubPlace>
+       <pubPlace>Edinburgh,</pubPlace>
+       <pubPlace>Glasgow,</pubPlace>
+       <pubPlace>and New York:</pubPlace>
        <publisher>Blackie,</publisher>
        <date>1857.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Ursula, wife of Conrad Cotta</item>
+        <item>Katharine von Bora, wife of Martin Luther</item>
+        <item>Elizabeth, wife of Joachim I., Elector of Brandenburg</item>
+        <item>Elizabeth, wife of Eric, Duke of Brunswick-Calenberg, and afterwards of Prince Poppo of Henneberg</item>
+        <item>Sibylla of Cleves, wife of John Frederick, Elector of Saxony</item>
+        <item>Katharine, wife of Henry, Prince of Schwartzburg</item>
+        <item>Louisa Juliana of Nassau, Electress Palatine</item>
+        <item>Anna Reinhard, wife of Ulric Zwingle</item>
+        <item>Idelette de Bures, wife of John Calvin</item>
+        <item>Louise de Montmorency, Lady Ch&acirc;tillon</item>
+        <item>Marguerite de Valois, Duchess of Alen&ccedil;on, afterwards Queen of Navarre</item>
+        <item>Jeanne d'Albret, Queen of Navarre</item>
+        <item>Charlotte Arbaleste, wife, first of Seigneur de Feuqueres, and secondly, of Philip de Mornay</item>
+        <item>Ren&eacute;e, Duchess of Ferrara</item>
+        <item>Olympia Morata, wife of Andres Grunthler</item>
+        <item>Lavinia della Rovere, Princess Orsini</item>
+        <item>Leanor de Cisneros, wife of Antonio Herezuelo</item>
+        <item>Do&ncaron;a Leanor de Vibero, wife of Pedro Cazalla</item>
+        <item>The Do&ncaron;as Gonzalez, sisters of Doctor Juan Gonzalez</item>
+        <item>Maria de Bohorques</item>
+        <item>Do&ncaron;a Juana de Bohorques, Baroness of Higuera</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">Second volume of Anderson's studies of women of the Reformation.  Illustrated by James
+      Godwin, George Thomas, etc.  Each national group has a separate section with Historical Introduction.</note>
       </bibl>
      <bibl id="a031" default="NO"><ref targOrder="U">31.</ref>
       <idno>a031</idno>
