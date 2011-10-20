@@ -5530,13 +5530,11 @@
      <bibl id="a030" default="NO">
       <ref targOrder="U">30.</ref>
       <idno>a030</idno>
-      <author>
-       <abbr expan="Anderson, James, Rev. [of Edinburgh]">---.</abbr>
-      </author>
+      <author><name type="last">Anderson</name>, <name type="title">Rev.</name>
+       <name type="first">James</name>.</author>
       <title type="ref">
        <hi rend="italics">Ladies of the Reformation: Memoirs of Distinguished Female Characters,
-        Belonging to the Period of the Reformation in the Sixteenth Century . . . England, Scotland,
-        and the Netherlands.</hi>
+        Belonging to the Period of the Reformation in the Sixteenth Century . . . England, Scotland, and the Netherlands.</hi>
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
@@ -5585,6 +5583,23 @@
        </list>
       </note>
      </bibl>
+     <bibl id="a030A" default="NO">
+      <ref targOrder="U">30A.</ref>
+      <idno>a030A</idno>
+      <author>
+       <abbr expan="Anderson, James, Rev. [of Edinburgh]">---.</abbr>
+      </author>
+      <title type="ref">
+       <hi rend="italics">Ladies of the Reformation: Memoirs of Distinguished Female Characters,
+        Belonging to the Period of the Reformation in the Sixteenth Century . . . Germany, Switzerland, France,
+        Italy, and Spain.</hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Blackie,</publisher>
+       <date>1857.</date>
+      </imprint>
+      </bibl>
      <bibl id="a031" default="NO"><ref targOrder="U">31.</ref>
       <idno>a031</idno>
       <author>
