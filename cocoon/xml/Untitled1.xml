@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="a221A" default="NO">
+    <ref targOrder="U">221A.</ref>
+    <idno>a221A</idno>
+    <author><name type="last">D'Auvergne</name>, <name type="first">Edmund Basil Francis</name>. </author>
+    <title type="ref">
+        <hi rend="italics">Adventuresses and Adventurous Ladies.</hi>
+    </title>
+    <imprint>
+        <pubPlace>New York:</pubPlace>
+        <publisher>J. H. Sears;</publisher>
+        <pubPlace>London:</pubPlace>
+        <publisher>Hutchinson,</publisher>
+        <date>1927;</date>
+        <date>1928.</date>
+    </imprint>
+    <note place="unspecified" anchored="yes">"With sixteen full-page illustrations" in small caps on titlepage. University of Miami
+        copy bookplate "Ex Libris Henry Viehe."  "By the Same Author: Some Left-Handed Marriages, A Queen at Bay, Lola Montez, The Bride of
+        Two Kings, Etc., Etc." listed in small caps.  Youthful portrait of Lola Montez "(After Joseph Stieler)," frontispiece.  Preface by D'Auvergne 
+        attests to his original research to present truthful accounts of "women whose stories...[of] various ages, nations, and orders of society"
+        present "a doubtful moral, but...make a good tale" (5-6).  The very familiar story of Lady Hamilton (Admiral Nelson's mistress)
+        may be welcomed as a favorite "in a gallery mostly given up to strangers" (6)&mdash;possibly indicating that Lola Montez 
+        was being revived in the early twentieth century. The "Preliminary Discourse" concludes with the opinion that these women were
+        resourceful within their time's subordination of women; "You can decide for yourself which were the adventuresses and which the 
+        adventurous ladies" (14).  Portraits of male rulers mix with multiple images of some of the women; three 
+        of Lola Montez.</note>
+    <note type="toc">
+        <list>
+            <item>Catalina de Erauso</item>
+            <item>Mary Carleton</item>
+            <item>Elizabeth Chudleigh</item>
+            <item>Princess Tarakanova [Aly Emmett&eacute;]</item>
+            <item>Th&eacute;roigne de M&eacute;ricourt</item>
+            <item>Emma, Lady Hamilton</item>
+            <item>Lola Montez</item>
+            <item>Th&eacute;r&egrave;se Humbert</item>
+        </list>
+    </note>
+    <note type="chapter_titles">
+        <list>
+            <item>Preface</item>
+            <item>A Preliminary Discourse on Adventuresses</item>
+            <item>The Nun Ensign (Catalina de Erauso)</item>
+            <item>"The German Princess" (Mary Carleton)</item>
+            <item>The Countess-Duchess (Elizabeth Chudleigh</item>
+            <item>"Elizabeth the Second"</item>
+            <item>The Fire-Hearted Demoiselle</item>
+            <item>"The Dear Emma" (Emma, Lady Hamilton)</item>
+            <item>"The Spanish Dancer" (Lola Montez</item>
+            <item>La Grande Therese (Th&eacute;r&egrave;se Humbert)</item>
+        </list>
+    </note>
+</bibl>
