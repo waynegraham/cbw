@@ -39793,6 +39793,17 @@
        <publisher>Werner,</publisher>
        <date>1895.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">Includes biographies and social, cultural, and historical influences of 
+       the period in connection with the regal succession of Great Britain.  The biographies are not of equal length.  
+       Margaret Tudor’s biography is over two hundred pages long, while Magdalene and Mary each have about a thirty page biography. 
+      </note>
+      <note type="toc">
+       <list>
+        <item>Life of Margaret Tudor, Queen of James IV</item>
+        <item>Life of Magdalene of France, First Queen of James V</item>
+        <item>Life of Mary of Lorraine, Second Queen of James V</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a766" default="NO">
       <ref targOrder="U">766.</ref>
@@ -39843,6 +39854,17 @@
        <publisher>Bell,</publisher>
        <date>1888.</date>
       </imprint>
+      <note type="toc">
+       <list>
+       <item>Princess Mary Tudor, Second Daughter of King Henry VII, Queen of France and Duchess of Suffolk </item>
+       <item>Lady Jane Gray, Wife of Lord Guildford Dudley</item>
+       <item>Lady Katharine Gray, Countess of Hertford</item>
+       <item>Lady Mary Gray, Wife of Thomas Keyes</item>
+       <item>Lady Eleanor Brandon, Countess of Cumberland</item>
+       <item>Lady Margaret Clifford, Countess of Derby and Queen in Man</item>
+       <item>Lady Arabella Stuart, Wife of William Seymour</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a769" default="NO">
       <ref targOrder="U">769.</ref>
@@ -39900,6 +39922,17 @@
        <publisher>Blanchard &amp; Lea,</publisher>
        <date>1853.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Elizabeth of York, Surnamed The Good:  Mother of Henry VII</item>
+        <item>Katharine of Aragon:  First Queen of Henry VIII</item>
+        <item>Anne Boleyn:  Second Queen of Henry VIII</item>
+        <item>Jane Seymour:  Third Queen of Henry VIII</item>
+        <item>Anne of Cleves: Fourth Queen of Henry VIII</item>
+        <item>Katharine Howard:  Fifth Queen of Henry VIII</item>
+        <item>Katharine Parr:  Sixth Queen of Henry VIII</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a771" default="NO">
       <ref targOrder="U">771.</ref>
@@ -40038,6 +40071,27 @@
        <publisher>Crowell,</publisher>
        <date>1937.</date>
       </imprint>
+      <note place="unspecified" anchored="yes"> Foreword:  “Let no reader take this as a serious historical document.  It is just a gallery of girls painted on the walls
+       of Time in colors that will never fade.  Blonde, or brunette, - tall, or petite, - vivacious or demure, - we see them all 
+       playing their roles in the Executive Mansion, but for the political and Presidential struggles, enmities, victories, 
+       defeats and vital issues which formed the background of their various lives, there is no place in this book.” </note>
+      <note type="toc">
+       <list>
+        <item>Nelly Custis: A Girl of Mount Vernon</item>
+        <item>Dolly Madison: A Little Quaker Girl</item>
+        <item>Martha and Mary Jefferson: The Motherless Daughters of Thomas Jefferson</item>
+        <item>The Monroe Girls: Daughters of President Monroe</item>
+        <item>"Lovely Emily": A Mistress of the White House</item>
+        <item>Angelica Singleton: A Beauty of the White House</item>
+        <item>Julia Gardiner: The Girl Who Knew Shadow and Sunshine</item>
+        <item>"Miss Betty": A Wild Rose of the White House</item>
+        <item>Harriet Lane: A White House Beauty and Belle</item>
+        <item>Two White House Brides: 1874-1886</item>
+        <item>Alice Roosevelt: A "Princess" of the White House</item>
+        <item>Helen Taft: The Girl of the White House Who Was "Different"</item>
+        <item>Three Girls in the White House: Daughters of President Wilson</item>
+       </list>
+      </note>
      </bibl>
     </div2>
     <div2 type="letter" n="T" org="uniform" sample="complete" part="N">
@@ -40350,8 +40404,7 @@
        all must overcome resistance (ix-x). He notes the "favourable reception of the first volume" (xiv), and reprints at the beginning
        some of the verse communications he received in response (xvi-xxi).  Chapters may begin with the name as the first words of a first
        sentence, and/or they may have a parenthetical statement about the name in italics below the title name, e.g. Miss Sarah Eland. (Now Mrs. De Putron.)</p>
-      </note>
-      
+      </note>  
      </bibl>
      <bibl id="a783" default="NO">
       <ref targOrder="U">783.</ref>
@@ -40373,6 +40426,21 @@
        <publisher>Putnam,</publisher>
        <date>1926.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Madame du Deffand</item>
+        <item>Mademoiselle de Lespinasse</item>
+        <item>Madame Geoffrin</item>
+        <item>Madame d'Epinay</item>
+        <item>Madame Necker</item>
+        <item>Madame de  Staël</item>
+        <item>Madame Récamier</item>
+        <item>Tronchin: A Great Doctor</item>
+        <item>The Mother of Napoleon</item>
+        <item>Madame de Sévigné</item>
+        <item>Madame Vigée le Brun</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a784" default="NO">
       <ref targOrder="U">784.</ref>
@@ -40419,6 +40487,22 @@
        <date>1895.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> A Wesleyan minister. </note>
+     <note type="toc">
+      <list>
+       <item>Mary Moffat</item>
+       <item>Mary Livingstone</item>
+       <item n="ANN_HASSELTINE_JUDSON">Anne Hasseltine Judson</item>
+       <item>Sarah Boardman Judson</item>
+       <item>Dorothy Jones and the Maria Mail Boat</item>
+       <item>Margaret Cargill in Tonga and Fiji</item>
+       <item>Mary Cryer, the Missionary Saint</item>
+       <item>Helen Saker and the Cameroons Mission</item>
+       <item>Anna Hinderer in the Yoruba Country</item>
+       <item>Mary L. Whately Among the Moslems</item>
+       <item>Lydia M. Rouse Among Soldiers and Sailors in India</item>
+       <item>A.L.O.E. at Batala</item>
+      </list>
+     </note>
      </bibl>
      <bibl id="a787" default="NO">
       <ref targOrder="U">787.</ref>
@@ -40603,6 +40687,11 @@
        </title>; <title>
         <hi rend="italics">White House Series of Biographies</hi>
        </title>, etc.. </note>
+      <note place="unspecified" anchored="yes">NOT=handbook for girls. Designed for girls from ten to eighteen years of age.  It is a handbook
+       for the cultivation of female character and success in the areas of housekeeping, teaching music, learning, 
+       and a multitude of other matters.  The volume references several distinguished women, but focuses mainly on the 
+       qualities of Miss Lyon, who “was not a perfect woman…yet she possessed a rare combination of qulaities, such as are
+       indispensible to a high order of character…” (from Preface).</note>
      </bibl>
      <bibl id="a792" default="NO">
       <ref targOrder="U">792.</ref>
@@ -41904,6 +41993,20 @@
        <date>1898;</date>
        <date>1899.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>The Electress Sophia: The Princess Sophia, A Visit and a Marriage, The Duchess,
+        Court Match-Making, The Electress</item>
+        <item>Sophia Dorothea of Zell, Wife of George I.: Sophia Dorothea of Zell, Wife of George I.; Konigsmark's Death</item>
+        <item>Caroline of Anspach, Wife of George II., and Her Daughters: The Electoral Princess of Hanover
+        and Princess of Wales, At Leicester House and at St. James's, The Queen</item>
+        <item>Charlotte of Mecklenburg-Sterlitz, Wife of George III.: A Young Queen-Consort, A Royal Wife and Mother, An
+        Aging and Aged Queen</item>
+        <item>Caroline of Brunswick, Wife of George IV.: Royal Bride, A Contentious Couple, A Wandering Princess and
+        Repudiated Wife</item>
+        <item>Adelaide of Saxe-Meiningen, Wife of William IV.: The Duchess, The Queen</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a822" default="NO">
       <ref targOrder="U">822.</ref>
@@ -41926,6 +42029,22 @@
        <publisher>Barnes and Noble,</publisher>
        <date>1993.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item n="QUEEN_ELIZABETH">Elizabeth Tudor</item>
+        <item>The Venerable Margaret</item>
+        <item>Elizabeth of York</item>
+        <item>Margaret Tudor</item>
+        <item>Mary Tudor</item>
+        <item>Catherine of Arragon</item>
+        <item>Anne Boleyn</item>
+        <item>Jane Seymour</item>
+        <item>Anne of Cleves</item>
+        <item>Catherine Howard</item>
+        <item>Catherine Parr</item>
+        <item>Mary Tudor</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a823" default="NO">
       <ref targOrder="U">823.</ref>
@@ -42357,6 +42476,25 @@
        <date>[1877].</date>
       </imprint>
       <note place="unspecified" anchored="yes">British Library.</note>
+     <note type="toc">
+      <list>
+       <item n="ELIZABETH_FRY">Elizabeth Fry</item>
+       <item>Elizabeth Barrett Browning</item>
+       <item>Jeanne Biscot</item>
+       <item n="CAROLINE_HERSCHEL">Caroline Lucretia Herschel</item>
+       <item>Helen Walker</item>
+       <item>Queen Jane</item>
+       <item>Jane Taylor</item>
+       <item n="FLORENCE_NIGHTINGALE">Florence Nightingale</item>
+       <item>Sarah Martin</item>
+       <item>Amelia Opie</item>
+       <item>Felicia Hemans</item>
+       <item>Grace Aguilar</item>
+       <item n="HANNAH_MORE">Hannah More</item>
+       <item n="LADY_RUSSELL">Lady Russell</item>
+       <item>Elizabeth Bayley</item>
+      </list>
+     </note>
      </bibl>
      <bibl id="a837" default="NO">
       <ref targOrder="U">837.</ref>
@@ -42425,6 +42563,12 @@
        <publisher>Harriet Hammer Walker,</publisher>
        <date>1931.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">NOT = biographical sketches; miscellaneous history. 
+       Consists of very short biographical sketches (1-3 pages) of approximately sixty women.  The women 
+       were selected to represent the vast multitude of useful women, who made contributions to the state of 
+       North Carolina. “There are no queen bees chronicled herein, but rather a few fine women whose busy heels 
+       are heavy with tar, sinking deeply and lastingly in the sands of to-morrow’s North Carolina” (from Forward).
+      </note>
      </bibl>
      <bibl id="a840" default="NO">
       <ref targOrder="U">840.</ref>
@@ -42542,6 +42686,25 @@
        <date>[1927].</date>
       </imprint>
       <note place="unspecified" anchored="yes">Re Catholic orders.</note>
+      <note type="toc">
+       <list>
+        <item>St. Bridget: Pioneer Feminine Educator</item>
+        <item>St. Hilda: Abbess of Streoneshalh (Whitby)</item>
+        <item>St. Scholastica, and Her Benedictine Nuns</item>
+        <item>St. Clare: Founder of the Franciscan Nuns</item>
+        <item>Mother Marie de L'Incarnation: One of the Founders of Canada</item>
+        <item>The Word of Mother Marie</item>
+        <item>Mother Seton: Founder of the American Sisters of Charity</item>
+        <item>The Irish Sisters of Charity and Mercy:  Reformers of Hospitals (Mother Mary Aikenhead) </item>
+        <item>Sisters in the Crimean War:  Angels of Hospital and Field </item>
+        <item>Mother Angela, and the Sisters of the Civil War</item>
+        <item>The Nuns of the Battlefield Mother Angela, and the Sisters of the Civil War</item>
+        <item>Mother Cabrini:  An Apostle of the Italians</item>
+        <item>Mother Mary, Of the Sick Poor </item>
+        <item>Mother Alphonsa Lathrop:  “Rose of all the Hawthornes” </item>
+        <item>Twenty-Five Years among New York’s Cancerous Poor </item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a843" default="NO">
       <ref targOrder="U">843.</ref>
@@ -42964,6 +43127,17 @@
        <publisher>Coward-McCann,</publisher>
        <date>1936.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Heloise</item>
+        <item>Isabeau de Baviere</item>
+        <item>Madame du Deffand</item>
+        <item>Madame de Staël </item>
+        <item>Delphine Gay</item>
+        <item>Marie d'Agoult</item>
+        <item>Juliette Lamber</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a850" default="NO"><ref targOrder="U">850.</ref>
       <idno>a850</idno>
@@ -43104,6 +43278,27 @@
       <note place="unspecified" anchored="yes"> Co-authored with Charlotte M. Yonge, <title>
         <hi rend="italics">Aunt Charlotte's Stories of American History</hi>
        </title>. London, Belfast, and New York: Marcus Ward; Appleton, <date>1883</date>. </note>
+     <note type="toc">
+      <list>
+       <item>Eve</item>
+       <item>Rizpah</item>
+       <item>Woman's Mission</item>
+       <item>Life, Character, and Death of Sarah</item>
+       <item>Rebekah's Farewell to Jacob</item>
+       <item>Rebekah</item>
+       <item>Esther</item>
+       <item>Rachel</item>
+       <item>Miriam</item>
+       <item>Queen Vashti's Fall</item>
+       <item>Hannah</item>
+       <item>Hannah</item>
+       <item>The Song of Deborah</item>
+       <item>Naomi, Oprah, and Ruth</item>
+       <item>Promise for Zion</item>
+       <item>The Queen of Sheba</item>
+       <item>Jewish Domestic Customs</item>
+      </list>
+     </note>
      </bibl>
      <bibl id="a854" default="NO">
       <ref targOrder="U">854.</ref>
@@ -43752,6 +43947,16 @@
        <publisher>Scribner,</publisher>
        <date>1906.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Sophie Arnould</item>
+        <item>Mademoiselle Guimard</item>
+        <item>Mademoiselle Raucourt</item>
+        <item>Madame Dugazon</item>
+        <item>Mademoiselle Contat</item>
+        <item>Madame Saint-Huberty</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a872" default="NO">
       <ref targOrder="U">872.</ref>
@@ -43861,6 +44066,7 @@
        <publisher>Putnam,</publisher>
        <date>1913.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">NOT = male/female biography; miscellaneous history</note>
      </bibl>
      <bibl id="a875" default="NO">
       <ref targOrder="U">875.</ref>
@@ -43900,6 +44106,14 @@
        <imgName>Elisa Bonaparte</imgName>
        <imgDesc>Elisa Bonaparte</imgDesc>
       </image>
+      <note type="toc">
+       <list>
+        <item>Letizia Bonaparte</item>
+        <item>Elisa Bonaparte</item>
+        <item>Pauline Bonaparte</item>
+        <item>Caroline Bonaparte</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a876" default="NO">
       <ref targOrder="U">876.</ref>
@@ -43980,6 +44194,42 @@
        <publisher>Cranston and Stowe,</publisher>
        <date>[1885].</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Wife of the Father of His Country (Martha Washington)</item>
+        <item>The Wife of Napoleon (Josephine)</item>
+        <item>(The Wife of Luther (Catherine Von Bora)</item>
+        <item n="HANNAH_MORE">Consecrated Talents (Hannah More)</item>
+        <item n="ANN_HASSELTINE_JUDSON">The Missionary Heroine (Ann Hasseltine Judson)</item>
+        <item>The Model Queen (Isabella of Spain)</item>
+        <item>The Enigma of History (Mary, Queen of Scots)</item>
+        <item n="ELIZABETH_FRY">The Female Howard (Elizabeth Fry)</item>
+        <item n="FLORENCE_NIGHTINGALE">An Angel of Mercy (Florence Nightingale)</item>
+        <item>Africa's Benefactress (Mrs. Ann Wilkins)</item>
+        <item>The Mother of Reformers (Susannah Wesley)</item>
+        <item>The Greek Matron (Penelope)</item>
+        <item>The Roman Matron (Cornelia)</item>
+        <item n="POCAHONTAS">The India Maiden (Pocahontas)</item>
+        <item>The Poetess of the Affections (Frances Sargent Osgood)</item>
+        <item>The Songstress of Liberty (Elizabeth Barrett Browning)</item>
+        <item>The Martyr Queen (Marie Antoinette)</item>
+        <item n="MADAME_ROLAND">The Female Girondist (Madame Roland)</item>
+        <item>Light Sown in Darkness (Charlotte Bronte)</item>
+        <item>The Missionary Poet (Emily C. Judson)</item>
+        <item>Walking with God (Mrs. Mary Fletcher)</item>
+        <item>Exalted Piety and Noble Rank (Lady Huntingdon)</item>
+        <item>Piety and Royalty (Helena, Duchess of Orleans)</item>
+        <item>The Martial Heroine (The Maid of Saragossa)</item>
+        <item>Foundress of a School for the Prophets (Mrs. Eliza Garrett)</item>
+        <item>The Champion of Freedom (Harriet Beecher Stowe)</item>
+        <item>The Female Sculptor (Harriet E. Hosmer)</item>
+        <item>The Female Painter (Rosa Bonheur)</item>
+        <item>A Political Authoress (Madame de Staël</item>
+        <item n="QUEEN_ELIZABETH">The Patroness of Letters (Queen Elizabeth)</item>
+        <item>A Victim of Crime (Beatrice Cenci)</item>
+        <item>The Wife of a Patriot (Abigail Adams)</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a880" default="NO">
       <ref targOrder="U">880.</ref>
@@ -44378,6 +44628,20 @@
        <date>1922.</date>
       </imprint>
       <note place="unspecified" anchored="yes">British Library.</note>
+     <note type="toc">
+      <list>
+       <item>Mary Fitton</item>
+       <item>Lady Catherine Grey</item>
+       <item n="QUEEN_ELIZABETH">Queen Elizabeth</item>
+       <item>Mary Sydney, Countess of Pembroke</item>
+       <item>Elizabeth Howard, Lady Southwell</item>
+       <item>Kate Carey, Countess of Nottingham</item>
+       <item>Elizabeth Throckmorton, Lady Raleigh</item>
+       <item>Mary Radclyffe, Elizabeth Bridges</item>
+       <item>Elizabeth Vernon, Countess of Southampton</item>
+       <item>Ann Russell, Lady Herbert</item>
+      </list>
+     </note>
      </bibl>
      <bibl id="a891" default="NO">
       <ref targOrder="U">891.</ref>
@@ -44399,6 +44663,7 @@
        <publisher>Kennikat,</publisher>
        <date>1970.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">NOT = Miscellaneous history</note>
      </bibl>
      <bibl id="a892" default="NO"><ref targOrder="U">892.</ref>
       <idno>a892</idno>
@@ -44632,6 +44897,36 @@
        </title> (<date>1871</date>; Methodist churchwomen); co-author with Frances Willard of <title>
         <hi rend="italics">History of the Woman's Temperance Crusade</hi>
        </title> (<date>1878</date>). </note>
+      <note type="toc">
+       <list>
+        <item>Joan, Mother of Richard II. of England</item>
+        <item>Anne of Bohemia, Queen of Richard II</item>
+        <item>The Reformation in Bohemia</item>
+        <item>Marguerite of Valois, Sister of Francis I. of France</item>
+        <item>Renee, Daughter of Louis XII. of France, Duchess of Ferrara</item>
+        <item>Jeanne d'Albret, the Illustrious Queen of Navarre</item>
+        <item>Charlotte de Bourbon, Princess of Orange</item>
+        <item>Louise de Coligny, Princess of Orange</item>
+        <item>The Reformation in England</item>
+        <item>Anne Boleyn, Second Queen of Henry VIII</item>
+        <item>Catharine Parr, Sixth Queen of Henry VIII</item>
+        <item n="LADY_JANE_GREY">Lady Jane Grey</item>
+        <item>Catherine Willoughby, Duchess of Suffolk</item>
+        <item n="QUEEN_ELIZABETH">Queen Elizabeth of England</item>
+        <item>The Reformation in Germany - Catherine Von Bora</item>
+        <item>Princess Elizabeth, Electress of Brandenburg</item>
+        <item>Elizabeth, Duchess of Brunswick-Calenberg</item>
+        <item>Elizabeth Knox, Wife of John Welsh</item>
+        <item>Lady Anne Cunningham, Marchioness of Hamilton</item>
+        <item>Lady Margaret Douglas, Marchioness of Argyll</item>
+        <item>Lady Anne, Duchess of Hamilton</item>
+        <item>Barbara Cunningham, Lady Caldwell</item>
+        <item>Lady Anne Lindsay, Countess of Rothes</item>
+        <item>Lady Anne Mackenzie, Countess of Balcarres, Afterward Countess of Argyll,
+        and Her Daughters Lady Sophia and Lady Henrietta Campbell</item>
+       <item>Lady Grisell Hume - Lady Baillie of Jerviswood</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a898" default="NO">
       <ref targOrder="U">898.</ref>
@@ -44692,6 +44987,22 @@
        <publisher>Harper,</publisher>
        <date>1900.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Eve</item>
+        <item>Sarah</item>
+        <item>Rebekah</item>
+        <item>Miriam</item>
+        <item>Deborah</item>
+        <item>Ruth, the Gleaner</item>
+        <item>Hannah</item>
+        <item>Jezebel</item>
+        <item>Esther</item>
+        <item>Mary Magdalen</item>
+        <item>Mary and Martha</item>
+        <item>The Blessed Virgin Mary</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a902" default="NO">
       <ref targOrder="U">902.</ref>
@@ -44752,6 +45063,11 @@
        companion to <title>
         <hi rend="italics">Men of History by Eminent Writers</hi>
        </title>. </note>
+      <note place="unspecified" anchored="yes">NOT = Reference work. A reference work for important women 
+       throughout history.  Approximately one hundred women are listed in chronological order, beginning with 
+       Lucretia and ending with Charlotte Bronte.  A brief biography is dedicated to all of these women (1-3 pages). 
+       A companion to the volume, Men of History.  “To exhibit views of the world’s great men and women, as set forth in the best words of the best authors- to convey, as it were, at once impressions of History and Literature, and lessons in Biography and Style” (from Preface). 
+      </note>
      </bibl>
      <bibl id="a904" default="NO">
       <ref targOrder="U">904.</ref>
@@ -44789,7 +45105,32 @@
         <title>
          <hi rend="italics">The Women of the Bible</hi>
         </title>
-       </ref> (listed under Sprague above). </note>
+       </ref> (listed under Sprague above). Portraits of prominent women of the Old and New Testament.  
+       These portraits “aim to bring out those great lessons of truth and wisdom which, in some form or other, 
+       like embodied in all of these characters, and which are adapted to form the mind to virtue, usefulness and immortal felicity”
+       (from Preface). </note>
+     <note type="toc">
+      <list>
+       <item>The Virgin Mary</item>
+       <item>Sarah</item>
+       <item>Elizabeth</item>
+       <item>Miriam</item>
+       <item>Anna the Prophetess</item>
+       <item>Rahab</item>
+       <item>Herodias</item>
+       <item>The Levite's Wife</item>
+       <item>Woman of the Samaria</item>
+       <item>Zipporah</item>
+       <item>The Canaanitish Woman</item>
+       <item>The Witch of Endor</item>
+       <item>Daughter of Jairus</item>
+       <item>Widow of Nain</item>
+       <item>Michel</item>
+       <item>Martha</item>
+       <item>Mary Magdalene</item>
+       <item>Bathsheba</item>
+      </list>
+     </note>
      </bibl>
      <bibl id="a906" default="NO"><ref targOrder="U">906.</ref>
       <idno>a906</idno>
@@ -45031,6 +45372,13 @@
       </imprint>
       <note place="unspecified" anchored="yes"> Biographer of individual men, e.g. Edward VII, Oscar
        Browning. <hi rend="bold">*Pop Chart</hi>
+      </note>
+      <note type="toc">
+       <list>
+        <item>St. Teresa and the Ideal</item>
+        <item>Madame de Choiseul and the Actual</item>
+        <item>Mrs. Eddy, and the World of To-Day</item>
+       </list>
       </note>
      </bibl>
      <bibl id="a918" default="NO">
