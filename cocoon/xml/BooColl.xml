@@ -1557,7 +1557,7 @@
      <bibl id="c006" default="NO">
       <idno>c006</idno>
       <date>1521.</date>
-      <author>[<name type="last">Ravisius</name>, <name type="first">Textor</name>].</author>
+      <author>[<name type="last">Ravisius Textor</name>, <name type="first">Joannes</name>].</author>
       <title type="ref">
        <hi rend="italics">De Memorabilibus et claris mulieribus aliquot diversorum scriptorum
         opera.</hi>
@@ -1567,10 +1567,13 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>De claris mulieribus / Jacobus Bergomensis – Divae Catherainae vita / Joannem Pinum –
+        <item>De claris mulieribus / Jacobus Philippus Bergomensis – Divae Catherinae vita / Joannem Pinum –
          De gestis loannae virginis Franc[ae] / Valieriandi Varanii</item>
        </list>
       </note>
+      <note type="unspecified" anchored="yes">Among authors, Plutarch or "Plutarchus Chaeronensis" is listed, and "Jean de Pins,"
+      "Valerandus Varanius."  A compilation that includes a life of Saint Catherine (?) and of Joanna Virgin of France, i.e. Joan of Arc (?).  Rare
+      undigitized book.</note>
      </bibl>
      <bibl id="c007" default="NO">
       <idno>c007</idno>
