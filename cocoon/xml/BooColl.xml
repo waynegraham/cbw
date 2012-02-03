@@ -4862,7 +4862,27 @@
        <date>1901;</date>
        <date>1906.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> Series: The popular Biblical library, v. 4;
+      <note type="toc">
+       <list>
+        <item>Mary [Mother of Jesus]</item>
+        <item>Elizabeth</item>
+        <item>Anna</item>
+        <item>The Woman of Samaria</item>
+        <item>The Women who Ministered to Jesus</item>
+        <item>The Woman who Touched the Hem of his Garment</item>
+        <item>The Woman who Washed his Feet with her Tears</item>
+        <item>The Canaanite Woman</item>
+        <item>The Mother of James and John</item>
+        <item>The Sisters Martha and Mary</item>
+        <item>The Widow with Two Mites</item>
+        <item>Mary Magdalene</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">Adeney is identified as a professor of New College, London. Table of contents (with 
+       its capitalization) is derived from Clyde Weber Votaw, Book Review in <hi rend="italics">The Biblical World</hi>
+       14: 3 (Sep. 1899): 221-2. While Votaw calls it a lucid unsentimental book, he says Adeney’s “recital of history” of women’s 
+       subordination in the church 
+       of first century seems intended to argue for her exclusion from leadership today (222).  Series: The popular Biblical library, v. 4;
        Variation: <title>
         <hi rend="italics">Women and the Church in America</hi>
        </title>
