@@ -42076,6 +42076,9 @@
        <date>1881;</date>
        <date>[1890].</date>
       </imprint>
+      <note place="unspecified" anchored="yes">NOT = self-help book, though title indicates some biographical examples.  Chapter titles:
+       I.	Youth; II.	Intellect; III.	Beauty; IV.	Favor; V.	Ambition; VI.	Pleasure; VII.	Friendship; VIII.	Godliness; 
+       IX.	Kindliness; X.	Consolations. </note>
      </bibl>
      <bibl id="a821" default="NO">
       <ref targOrder="U">821.</ref>
@@ -42091,18 +42094,19 @@
        <date>1898;</date>
        <date>1899.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">Consists of six primary subjects with two-five chapters, with roman numerals, their titles as given here.</note>
       <note type="toc">
        <list>
-        <item>The Electress Sophia: The Princess Sophia, A Visit and a Marriage, The Duchess,
-        Court Match-Making, The Electress</item>
-        <item>Sophia Dorothea of Zell, Wife of George I.: Sophia Dorothea of Zell, Wife of George I.; Konigsmark's Death</item>
+        <item>The Electress Sophia: The Princess Sophia; A Visit and a Marriage; The Duchess;
+        Court Match-Making; The Electress</item>
+        <item>Sophia Dorothea of Zell, Wife of George I.: Sophia Dorothea of Zell; Wife of George I.; Konigsmark's Death</item>
         <item>Caroline of Anspach, Wife of George II., and Her Daughters: The Electoral Princess of Hanover
-        and Princess of Wales, At Leicester House and at St. James's, The Queen</item>
-        <item>Charlotte of Mecklenburg-Sterlitz, Wife of George III.: A Young Queen-Consort, A Royal Wife and Mother, An
+        and Princess of Wales; At Leicester House and at St. James's; The Queen</item>
+        <item>Charlotte of Mecklenburg-Sterlitz, Wife of George III.: A Young Queen-Consort; A Royal Wife and Mother; An
         Aging and Aged Queen</item>
-        <item>Caroline of Brunswick, Wife of George IV.: Royal Bride, A Contentious Couple, A Wandering Princess and
+        <item>Caroline of Brunswick, Wife of George IV.: Royal Bride; A Contentious Couple; A Wandering Princess and
         Repudiated Wife</item>
-        <item>Adelaide of Saxe-Meiningen, Wife of William IV.: The Duchess, The Queen</item>
+        <item>Adelaide of Saxe-Meiningen, Wife of William IV.: The Duchess; The Queen</item>
        </list>
       </note>
      </bibl>
@@ -42573,7 +42577,7 @@
        <publisher>William Walker,</publisher>
        <date>[1877].</date>
       </imprint>
-      <note place="unspecified" anchored="yes">British Library.</note>
+      <note place="unspecified" anchored="yes">British Library.  </note>
      <note type="toc">
       <list>
        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
@@ -42661,7 +42665,7 @@
        <publisher>Harriet Hammer Walker,</publisher>
        <date>1931.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">NOT = biographical sketches; miscellaneous history. 
+      <note place="unspecified" anchored="yes">NOT = biographical sketches; local compendium. 
        Consists of very short biographical sketches (1-3 pages) of approximately sixty women.  The women 
        were selected to represent the vast multitude of useful women, who made contributions to the state of 
        North Carolina. “There are no queen bees chronicled herein, but rather a few fine women whose busy heels 
@@ -42783,7 +42787,9 @@
        <date>1926;</date>
        <date>[1927].</date>
       </imprint>
-      <note place="unspecified" anchored="yes">Re Catholic orders.</note>
+      <note place="unspecified" anchored="yes">Biographies of the lives of the “Splendid Sisters”, who in every century 
+       since Christ have devoted their lives to the care of others, particularly those who had a terminal illness. Largely Catholic
+       order, but some are the sisterhoods of social service in more modern times.</note>
       <note type="toc">
        <list>
         <item>St. Bridget: Pioneer Feminine Educator</item>
@@ -42863,7 +42869,7 @@
         <item>Margaret Hide</item>
         <item>Agnes Stanley</item>
         <item>Elizabeth Cooper</item>
-        <item>Cicley Ormes</item>
+        <item>Cicely Ormes</item>
         <item>[ch. 4] Women Martyrs of England (concluded) Alice Mount </item>
         <item>Rose Allin</item>
         <item>Agnes Silverside</item>
@@ -42944,17 +42950,18 @@
        <date>1901;</date>
        <date>1909.</date>
       </imprint>
-      <note type="chapter_titles">
+      <note type="toc">
        <list>
         <item>Eve</item>
-        <item>Heroines of the Patriarchal Era</item>
-        <item>Heroines of the Hebrew Nation</item>
-        <item>Heroines of the New Testament</item>
-        <item>Heroines of the Apocrypha</item>
+        <item>Heroines of the Patriarchal Era (Sarah, the wife of Abraham; 
+         Hager, the second wife of Abraham; Eliezer; Rebecca; Rachel) </item>
+        <item>Heroines of the Hebrew Nation (Miriam, the Prophetess)</item>
+        <item>Heroines of the New Testament (Mary Magdalene; Tabitha)</item>
+        <item>Heroines of the Apocrypha (Susannah; Judith) </item>
        </list>
       </note>
       <note place="unspecified" anchored="yes">An answer to <ref target="a451" targOrder="U"
-       >Jameson.</ref>
+       >Jameson.</ref>  Focuses more on art than on the biographies.
        </note>
       <image n="no1828.MichaelCoxcie-TheTemptation">
        <imgName>Michael Coxcie- The Temptation</imgName>
@@ -43041,12 +43048,14 @@
        <date>1904;</date>
        <date>1905.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> Extensive list of illustrations, mostly portraits, by the women artists represented in the book.  Alphabetical entries of career narratives of women artists 
-       partly derived from a survey of living artists; the information following the name may be as brief as "[no reply to circular]"
+      <note place="unspecified" anchored="yes"> NOT = reference work.  Extensive list of illustrations, mostly portraits, by the women artists represented in the book.  
+       Alphabetical entries of career narratives of women artists 
+       partly derived from a survey of living artists; the information following the 
+       name may be as brief as "[no reply to circular]"
        or it may extend to a short essay.  The introduction
        notes Waters' discovery of more than 1,000 women artists throughout centuries, and summarizes a Western history of women in
        the arts, notably with an expansion of opportunity in the nineteenth-century comparable to the radical changes in 
-       technology in the period. </note>
+       technology in the period. Available online.</note>
       </bibl>
      <bibl id="a847" default="NO">
       <ref targOrder="U">847.</ref>
@@ -43230,12 +43239,16 @@
         <item>Heloise</item>
         <item>Isabeau de Baviere</item>
         <item>Madame du Deffand</item>
-        <item>Madame de Staël </item>
+        <item n="MADAME_DE_STAEL">Madame de Staël</item>
         <item>Delphine Gay</item>
         <item>Marie d'Agoult</item>
         <item>Juliette Lamber</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes">Brief chapters dedicated to the lives of some women 
+       of France beginning with Jeanne d’Arc and running through the days of the Revolution.  
+       The women in the book were chosen simply because the writer claims they do not seem to have been adequately treated in other works; 
+       “The women whose lives are herein pictured are no more famous than many others” (from Preface).  </note>
      </bibl>
      <bibl id="a850" default="NO"><ref targOrder="U">850.</ref>
       <idno>a850</idno>
@@ -43411,6 +43424,8 @@
        <publisher>Cannon,</publisher>
        <date>1893.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">NOT = Local compendium.  A brief description of several charitable institutions and organizations 
+       and women’s philanthropy throughout the state of Utah.  </note>
      </bibl>
      <bibl id="a855" default="NO">
       <ref targOrder="U">855.</ref>
@@ -43428,22 +43443,29 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>Women Agitators</item>
-        <item>Salons and Salonnieres</item>
-        <item>Clubs and Club Women</item>
-        <item>Women Writers -- Madame Roland</item>
+        <item>Women Agitators (Mme Legros; Theroigne de Mericourt; La Reine Audu)</item>
+        <item>Salons and Salonnieres (Mme de Condorcet; Mme Helvetius at Auteuil, 
+         Mme de Condorcet,</item>
+        <item n="MADAME_DE_STAEL">Mme de Stael)</item>
+        <item>Clubs and Club Women (Theroigne de Mericourt, Mme de Genlis)</item>
+        <item n="MADAME_ROLAND">Women Writers (Madame Roland)</item>
         <item>The Story of the Revolution Told by its Women Writers</item>
-        <item>Minor Women Writers of the Revolution</item>
-        <item>Women at Arms</item>
+         <item n="MADAME_DE_STAEL">(Mme de Stael,</item>
+        <item n="MADAME_ROLAND">Mme Roland,</item>
+        <item>Mme de Genlis, Mme Jullien, Louise Fusil, Charlotte Robespierre)</item>
+        <item>Minor Women Writers of the Revolution (Julie Candeille, Olympe de Gouges)</item>
+        <item>Women at Arms (Pauline Leon, Theroigne de Mericourt)</item>
         <item>Charlotte Corday</item>
-        <item>Women and Religion</item>
+        <item>Women and Religion (Charlotte Corday,</item><item n="MADAME_DE_STAEL">Mme de Stael,</item>
+         <item n="MADAME_ROLAND">Mme Roland,</item> <item>Mme Jullien)</item>
         <item>The Rise and Fall of the Women's Party</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Translator and biographer of French subjects; author
        of <title>
         <hi rend="italics">French Novelists of Today</hi>
-       </title> (<date>1914</date>). </note>
+       </title> (<date>1914</date>). Not clear how Mericourt and Genlis are club women.  Featured Subjects de Stael and Roland
+      appear in several chapters.</note>
      </bibl>
      <bibl id="a856" default="NO">
       <ref targOrder="U">856.</ref>
