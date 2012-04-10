@@ -44871,7 +44871,7 @@
         <item>Lady Hoby</item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes">NOT = Miscellaneous history.  A general history of the society 
+      <note place="unspecified" anchored="yes">A general history of the society 
        of women in Shakespeare’s time, mixed with short biographical sketches. 
        The aim of the book is to illustrate some of society’s women who helped to shape Shakespeare’s characters. </note>
       
@@ -45321,7 +45321,7 @@
         <title>
          <hi rend="italics">The Women of the Bible</hi>
         </title>
-       </ref> (listed under Sprague above). Portraits of prominent women of the Old and New Testament.  
+       </ref> (listed under Sprague above). Each pPortrait of a prominent woman of the Old or New Testament is written by a different author and includes an illustration.  
        These portraits “aim to bring out those great lessons of truth and wisdom which, in some form or other, 
        like embodied in all of these characters, and which are adapted to form the mind to virtue, usefulness and immortal felicity”
        (from Preface). </note>
@@ -45413,6 +45413,9 @@
        <publisher>Women's Temperance Publishing,</publisher>
        <date>1895.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">NOT = Reference work. Short thumbnail sketches (1-2 paragraphs) of 
+       approximately two hundred White Ribbon Women. Published by the Women’s Christian Temperance Union. 
+      </note>
      </bibl>
      <bibl id="a910" default="NO"><ref targOrder="U">910.</ref>
       <idno>a910</idno>
@@ -45946,6 +45949,10 @@
        <publisher>A. D. Innes,</publisher>
        <date>1893.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">A collection of women biographies, each written by different authors.  
+       The biographies aim to show both the strengths and weaknesses of these women. Written chiefly for young girls, 
+       “who are now forming their characters, and preparing to belong to one or other of the classes of 
+       women we have here described – the Sufferers – the Learners – the Workers” (from Preface).  </note>
       <note type="toc">
        <list>
         <item>vol. I: Olympia Morata</item>
