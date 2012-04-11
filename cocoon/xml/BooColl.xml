@@ -42515,7 +42515,7 @@
       <imprint>
        <date>1934.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> Foreword Mrs. A. M. Moss: if Women of the West have
+      <note place="unspecified" anchored="yes"> NOT=Local compendium.  Foreword Mrs. A. M. Moss: if Women of the West have
        received praise, “why not the Women of the South-West of Victoria?” (5). Decorative anthology
        with some biographical notices and lists of names. Various colored types and borders in wide
        album format, with photographic portraits. Subjects incl.: Mrs. Stephen George Henty; Mrs.
@@ -42541,8 +42541,8 @@
       the dedication "Dedicated to My Little Chum Phyllis," the varied illustrations (some three-tone or color, some black line drawings) all 
       suggest a juvenile target audience. The Afterword suggests as much, in context of World War I, honoring English and American "torch-bearers in the name
       of humanity" (151); "Boys and girls, you are the torch-bearers of the future!...When the black war-clouds have rolled away, to you will come the difficult task of helping
-      to build a "New Jerusalem/In England's green and pleasant land."....Boys and girls, even now the torch is being passed to you.  Seize it anc carry on!" (152).</note>
-      <note>
+      to build a 'New Jerusalem/In England's green and pleasant land.....Boys and girls, even now the torch is being passed to you.  Seize it and carry on!" (152).</note>
+      <note type="toc">
        <list>
         <item n="FLORENCE_NIGHTINGALE">Florence Nightingale: I Happy Days of Childhood; II The Squire's Daughter; III Called to Service; IV The Lady of the Lamp; V At the Front; VI The Return of 
         the Heroine; VII The Last Farewell</item>
@@ -42732,7 +42732,7 @@
        Consists of very short biographical sketches (1-3 pages) of approximately sixty women.  The women 
        were selected to represent the vast multitude of useful women, who made contributions to the state of 
        North Carolina. “There are no queen bees chronicled herein, but rather a few fine women whose busy heels 
-       are heavy with tar, sinking deeply and lastingly in the sands of to-morrow’s North Carolina” (from Forward).
+       are heavy with tar, sinking deeply and lastingly in the sands of to-morrow’s North Carolina” (from Foreword).
       </note>
      </bibl>
      <bibl id="a840" default="NO">
@@ -42850,7 +42850,7 @@
        <date>1926;</date>
        <date>[1927].</date>
       </imprint>
-      <note place="unspecified" anchored="yes">Biographies of the lives of the “Splendid Sisters”, who in every century 
+      <note place="unspecified" anchored="yes">Biographies of the lives of the “Splendid Sisters,” who in every century 
        since Christ have devoted their lives to the care of others, particularly those who had a terminal illness. Largely Catholic
        order, but some are the sisterhoods of social service in more modern times.</note>
       <note type="toc">
@@ -42862,14 +42862,14 @@
         <item>Mother Marie de L'Incarnation: One of the Founders of Canada</item>
         <item>The Word of Mother Marie</item>
         <item>Mother Seton: Founder of the American Sisters of Charity</item>
-        <item>The Irish Sisters of Charity and Mercy:  Reformers of Hospitals (Mother Mary Aikenhead) </item>
-        <item>Sisters in the Crimean War:  Angels of Hospital and Field </item>
+        <item>The Irish Sisters of Charity and Mercy:  Reformers of Hospitals (Mother Mary Aikenhead)</item>
+        <item>Sisters in the Crimean War:  Angels of Hospital and Field</item>
         <item>Mother Angela, and the Sisters of the Civil War</item>
         <item>The Nuns of the Battlefield Mother Angela, and the Sisters of the Civil War</item>
         <item>Mother Cabrini:  An Apostle of the Italians</item>
-        <item>Mother Mary, Of the Sick Poor </item>
-        <item>Mother Alphonsa Lathrop:  “Rose of all the Hawthornes” </item>
-        <item>Twenty-Five Years among New York’s Cancerous Poor </item>
+        <item>Mother Mary, Of the Sick Poor</item>
+        <item>Mother Alphonsa Lathrop:  “Rose of all the Hawthornes”</item>
+        <item>Twenty-Five Years among New York’s Cancerous Poor</item>
        </list>
       </note>
      </bibl>
@@ -42901,10 +42901,10 @@
       Contents divided by country, and most chapters have multiple subjects.  Some of those below, e.g. France, do not list individuals but groups, and even when
       names are listed in table of contents, the text may have little more than a paragraph or a page on the person's martyrdom.  Complete table of contents given only for 
       England chapters and the final chapter.</note>
-      <note>
+      <note type="toc">
        <list>
         <item>Women Martyrs of England: Anne Askew</item>
-        <item>[ch. 2]Women Martyrs of England (continued): Agnes Grebil</item>
+        <item>[ch. 2] Women Martyrs of England (continued): Agnes Grebil</item>
         <item>Margaret Polley</item>
         <item>Isabel Foster</item>
         <item>Joan Lashford</item>
@@ -43017,10 +43017,10 @@
        <list>
         <item>Eve</item>
         <item>Heroines of the Patriarchal Era (Sarah, the wife of Abraham; 
-         Hager, the second wife of Abraham; Eliezer; Rebecca; Rachel) </item>
+         Hager, the second wife of Abraham; Eliezer; Rebecca; Rachel)</item>
         <item>Heroines of the Hebrew Nation (Miriam, the Prophetess)</item>
         <item>Heroines of the New Testament (Mary Magdalene; Tabitha)</item>
-        <item>Heroines of the Apocrypha (Susannah; Judith) </item>
+        <item>Heroines of the Apocrypha (Susannah; Judith)</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes">An answer to <ref target="a451" targOrder="U"
@@ -43322,12 +43322,11 @@
        <publisher>Woman's Missionary Society of the United Evangelical Church,</publisher>
        <date>1915.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">NOT?</note>
       <note type="toc">
        <list>
         <item>Emma M Dubs</item>
         <item>Martha Alice Remer</item>
-        <item>Mary M T Fouke</item>
+        <item>Mary M. T. Fouke</item>
         <item>Ida Manbeck Haefele</item>
        </list>
       </note>
@@ -43450,8 +43449,7 @@
        <hi rend="italics">The Women of the Old and New Testaments.</hi>
       </title>
       <note place="unspecified" anchored="yes"> Co-authored with Charlotte M. Yonge, <title>
-        <hi rend="italics">Aunt Charlotte's Stories of American History</hi>
-       </title>. London, Belfast, and New York: Marcus Ward; Appleton, <date>1883</date>. </note>
+        <hi rend="italics">Aunt Charlotte's Stories of American History.</hi></title> London, Belfast, and New York: Marcus Ward; Appleton, <date>1883</date>.</note>
      <note type="toc">
       <list>
        <item>Eve</item>
@@ -43508,19 +43506,19 @@
        <list>
         <item>Women Agitators (Mme Legros; Theroigne de Mericourt; La Reine Audu)</item>
         <item>Salons and Salonnieres (Mme de Condorcet; Mme Helvetius at Auteuil, 
-         Mme de Condorcet,</item>
+         Mme de Condorcet</item>
         <item n="MADAME_DE_STAEL">Mme de Stael)</item>
         <item>Clubs and Club Women (Theroigne de Mericourt, Mme de Genlis)</item>
         <item n="MADAME_ROLAND">Women Writers (Madame Roland)</item>
         <item>The Story of the Revolution Told by its Women Writers</item>
-         <item n="MADAME_DE_STAEL">(Mme de Stael,</item>
-        <item n="MADAME_ROLAND">Mme Roland,</item>
+         <item n="MADAME_DE_STAEL">(Mme de Stael</item>
+        <item n="MADAME_ROLAND">Mme Roland</item>
         <item>Mme de Genlis, Mme Jullien, Louise Fusil, Charlotte Robespierre)</item>
         <item>Minor Women Writers of the Revolution (Julie Candeille, Olympe de Gouges)</item>
         <item>Women at Arms (Pauline Leon, Theroigne de Mericourt)</item>
         <item>Charlotte Corday</item>
-        <item>Women and Religion (Charlotte Corday,</item><item n="MADAME_DE_STAEL">Mme de Stael,</item>
-         <item n="MADAME_ROLAND">Mme Roland,</item> <item>Mme Jullien)</item>
+        <item>Women and Religion (Charlotte Corday,</item><item n="MADAME_DE_STAEL">Mme de Stael</item>
+         <item n="MADAME_ROLAND">Mme Roland</item> <item>Mme Jullien)</item>
         <item>The Rise and Fall of the Women's Party</item>
        </list>
       </note>
