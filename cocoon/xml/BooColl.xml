@@ -39484,8 +39484,25 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Butcher,</publisher>
-       <date>[1909].</date>
+       <date>[1909],</date>
+       <date>1910.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Black Agnes</item>
+        <item>Madeleine of France</item>
+        <item>Lady Margaret Douglas</item>
+        <item>Lady Glamis</item>
+        <item>Mary Queen of Scots</item>
+        <item>Helen of Kirkconnell</item>
+        <item>Lady Cassilis</item>
+        <item>Grizel Cochrane</item>
+        <item>Isobel Allison and Marion Harvey</item>
+        <item>Margaret Wilson</item>
+        <item>Lady Nithsdale</item>
+        <item>Flora Macdonald</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a761" default="NO">
       <ref targOrder="U">761.</ref>
@@ -39541,8 +39558,8 @@
        late 19th century to the early 20th century. The facts for the biographies were collected from 
        various contemporaneous publications and also from the actresses themselves. Each chapter is devoted
        to the life of a single actress; chapters are approximately 10-15 pages in length.</note>
-      <note>
-       <list>
+      <note type="toc">
+        <list>
         <item>Maude Adams</item>
         <item>Julia Marlowe</item>
         <item>Sarah Cowell LeMoyne</item>
@@ -39917,6 +39934,14 @@
        <publisher>Scribner,</publisher>
        <date>1872.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Mary, Princess Royal of Great-Britain</item>
+        <item>Princess Elizabeth</item>
+        <item>Princess Henriette Anna</item>
+        <item>Louise Maria</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a767" default="NO">
       <ref targOrder="U">767.</ref>
@@ -40565,7 +40590,7 @@
        <date>1944.</date>
       </imprint>
       <note place="unspecified" anchored="yes">See <ref target="p132" targOrder="U"
-       >p132.</ref></note>
+       >p132.</ref>  NOT=reference work.</note>
      </bibl>
      <bibl id="a786" default="NO">
       <ref targOrder="U">786.</ref>
@@ -40780,8 +40805,8 @@
         <hi rend="italics">Men Who Win, or Making Things Happen</hi>
        </title>; <title>
         <hi rend="italics">White House Series of Biographies</hi>
-       </title>, etc.. </note>
-      <note place="unspecified" anchored="yes">NOT=handbook for girls. Designed for girls from ten to eighteen years of age.  It is a handbook
+       </title>, etc.</note>
+      <note place="unspecified" anchored="yes">NOT= Advice. Designed for girls from ten to eighteen years of age.  It is a handbook
        for the cultivation of female character and success in the areas of housekeeping, teaching music, learning, 
        and a multitude of other matters.  The volume references several distinguished women, but focuses mainly on the 
        qualities of Miss Lyon, who “was not a perfect woman…yet she possessed a rare combination of qulaities, such as are
@@ -41194,6 +41219,23 @@
        <publisher>n.p.,</publisher>
        <date>1941.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">NOT = Reference Work, Pamphlet</note>
+      <note type="toc">
+       <list>
+        <item>Mrs. Alice McLellan Birney</item>
+        <item>Mrs. Maud Barker Cobb</item>
+        <item>Mrs. Rebecca Latimar Felton</item>
+        <item>H. Augusta Howard</item>
+        <item>Mrs. Anne Wallace Howland</item>
+        <item>Madam Octavia Walton LeVert</item>
+        <item>Mrs. Mary Ann Rutherford Lipscomb</item>
+        <item>Mrs. Passie Fenton McFabe Ottley</item>
+        <item>Mrs. Juliette Gordon Low</item>
+        <item>Mrs. Mary Thomas Lumpkin</item>
+        <item>Alexa Stirling</item>
+        <item>Mary L. Telfair</item> 
+       </list>
+      </note>
       <note place="unspecified" anchored="yes">See <ref target="p139" targOrder="U"
        >p139.</ref></note>
       <note place="unspecified" anchored="yes"> cf. earlier collections of Georgia women in
@@ -41993,7 +42035,7 @@
        <publisher>Ward, Lock,</publisher>
        <date>1895.</date>
       </imprint>
-      <note type="toc">
+      <note type="chapter_titles">
        <list>
         <item>Cain's Brand</item>
         <item>On the Stage and Off the Stage</item>
@@ -51832,7 +51874,8 @@
        <date>1944.</date>
       </imprint>
       <note place="unspecified" anchored="yes">NOT = Reference work. Approximately 150 women are included accompanied 
-       by short biographies (2-3 sentences).
+       by short biographies (2-3 sentences). See <ref target="a785" targOrder="U"
+        >a785.</ref>
       </note>
      </bibl>
      <bibl id="p132A" default="NO">
@@ -52129,6 +52172,8 @@
         <item>Mary L. Telfair</item> 
        </list>
       </note>
+      <note place="unspecified" anchored="yes">See <ref target="a801" targOrder="U"
+       >a801.</ref></note>
      </bibl>
      <bibl id="p140" default="NO">
       <idno>p140</idno>
