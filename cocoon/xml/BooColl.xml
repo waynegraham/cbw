@@ -12230,7 +12230,7 @@
         <item>Lucy Hutchinson, the Perfect Wife</item>
         <item>Elizabeth Bunyan, the Faithful Helpmate</item>
         <item>Selina, Countess of Huntingdon, the Servant of God</item>
-        <item>Anne Clifford, Countess of Dorset and Pembroke, the Dispenser of Charity. </item>
+        <item>Anne Clifford, Countess of Dorset and Pembroke, the Dispenser of Charity </item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Bodleian British Library. </note>
@@ -19635,7 +19635,7 @@
      <bibl id="a316" default="NO">
       <ref targOrder="U">316.</ref>
       <idno>a316</idno>
-      <author><name type="last">Gearey</name>, <name type="first">Caroline</name></author>
+      <author><name type="last">Gearey</name>, <name type="first">Caroline.</name></author>
       <title type="ref">
        <hi rend="italics">Three Empresses.</hi>
       </title>
@@ -23711,22 +23711,22 @@
        <ref target="a592" targOrder="U">Mundell,</ref> similar titles.</note>
       <note type="toc">
        <list>
-        <item>Heroines of the Cross.  </item>
-        <item>The First Woman Missionary - Mrs. Judson in Burmah.  </item>
-        <item>A Widow's Work - Mrs. Thompson in Syria.  </item>
-        <item>The Children for Christ - Fidelia Fiske in Persia.  </item>
-        <item>"Sitt Mariam" - Mary Louisa Whately in Egypt.  </item>
-        <item>A Mother in Israel - Mrs. Gobat in Abyssinia and Palestine.  </item>
-        <item>Fifty Years in the Mission Field - Mrs. Moffat in South America.  </item>
-        <item>The White Mother - Mrs. Hinderer in Yoruba.  </item>
-        <item>In Trials Often - Mrs. Wakefield in East Africa.  </item>
-        <item>Among the Cannibals - Women's Work in the South Seas.  </item>
-        <item>The Sole Survivor - Mrs. Jones in the West Indies.  </item>
-        <item>Mission Work in Tents - Mrs. Gilmour in Mongolia.  </item>
-        <item>The Chieftainess - Mrs. Wilkinson Among the Zulus.  </item>
-        <item>The Martyrs of Ku-Chang - Mrs. Stewart in China.  </item>
-        <item>The Story of Pandita Ramabai - The Friend of India's Widows and Orphans. </item>
-        <item>Mary Slessor of Calabar.  </item>
+        <item>Heroines of the Cross </item>
+        <item>The First Woman Missionary - Mrs. Judson in Burmah </item>
+        <item>A Widow's Work - Mrs. Thompson in Syria</item>
+        <item>The Children for Christ - Fidelia Fiske in Persia</item>
+        <item>"Sitt Mariam" - Mary Louisa Whately in Egypt</item>
+        <item>A Mother in Israel - Mrs. Gobat in Abyssinia and Palestine</item>
+        <item>Fifty Years in the Mission Field - Mrs. Moffat in South America</item>
+        <item>The White Mother - Mrs. Hinderer in Yoruba</item>
+        <item>In Trials Often - Mrs. Wakefield in East Africa</item>
+        <item>Among the Cannibals - Women's Work in the South Seas</item>
+        <item>The Sole Survivor - Mrs. Jones in the West Indies</item>
+        <item>Mission Work in Tents - Mrs. Gilmour in Mongolia</item>
+        <item>The Chieftainess - Mrs. Wilkinson Among the Zulus</item>
+        <item>The Martyrs of Ku-Chang - Mrs. Stewart in China</item>
+        <item>The Story of Pandita Ramabai - The Friend of India's Widows and Orphans</item>
+        <item>Mary Slessor of Calabar</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes">Contains illustrations on occasional glossy pages, including both engravings and photographs, portraits and
@@ -27218,8 +27218,7 @@
      <bibl id="a465" default="NO"><ref targOrder="U">465.</ref>
       <idno>a465</idno>
       <author><name type="last">Johnson</name>, <name type="first">Joseph</name></author>
-      <author><name type="last">Johnson</name>, <name type="first">Joseph</name></author>
-      type="ref"> <hi rend="italics">Brave Women and Their Deeds of Heroism.</hi>
+      <title type="ref"><hi rend="italics">Brave Women and Their Deeds of Heroism.</hi></title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Gall &amp; Inglis,</publisher>
@@ -27419,7 +27418,7 @@
        <date>1873;</date>
        <date>1922.</date>
       </imprint>
-      <note type="toc">
+      <note type="chapter_titles">
        <list>
         <item>In Filial Affection</item>
         <item>In Sisterly Affection</item>
@@ -27441,6 +27440,8 @@
         <item>In the Higher and Holier Life</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes">NOT=Advice, thematic rather than biographical.  Remains to be seen how this compares
+      to the several other collections by Joseph Johnson.</note>
      </bibl>
      <bibl id="a470" default="NO">
       <ref targOrder="U">470.</ref>
@@ -28346,7 +28347,16 @@
        <publisher>Sower, Barnes &amp; Potts,</publisher>
        <date>1868.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> British Library. </note>
+      <note place="unspecified" anchored="yes"> British Library. NOT= Reference. 1846 edition, epigraphs from Milton and Wordsworth
+      on excellence of women.  Introduction disputes the common view that Eastern women were all oppressed.  "The Jewish history abounds
+      in instances of female distinction" (iii).  So on through Greek, Roman, and Arab civilization, each affording some women education
+      and achievement.  Even Native Americans have some respect for women, according to Knapp's anecdotal evidence.  He advocates the 
+      current expansion of education for women in the U.S., and urges "equality among the sexes" but different pursuits (vii). Great men
+      and a great nation are fostered by educated mothers, and further in this vein.  A postscript (p. 502) precedes the double-columned
+      table of contents: here he admits copying much from other sources, as well as introducing names otherwise not included in
+      lists of notable women.  The alphabetical biographies are tightly printed without illustrations; a small break with a straight line precedes
+      the name in small caps.  Some bios are short paragraphs (3 on a page), others are extended narratives, 2, 5, or even 10 pages long.  About 172
+      persons.</note>
      </bibl>
      <bibl id="a493" default="NO"><ref targOrder="U">493.</ref>
       <idno>a493</idno>
@@ -28373,7 +28383,7 @@
        preceding entry or shared fates at particular spectacles of auto-da-fe.  
        Published in the journal American Jewess, 
        Volume II, Number 1, pages 43-48; Full text available 
-       online athttp://quod.lib.umich.edu/a/amjewess/taj1895.0002.001/55:16?didno=TAJ1895.0002.001;page=root;rgn=full+text;size=100;view=image (10 June 2011). </note>
+       online at http://quod.lib.umich.edu/a/amjewess/taj1895 (10 June 2011). </note>
      </bibl>
      <bibl id="a493A" default="NO"><ref targOrder="U">493A.</ref>
       <idno>a493A</idno>
@@ -37064,7 +37074,7 @@
         <item>Madame de Duras</item>
         <item>Madame de Remusat</item>
         <item>Madame de Krudener</item>
-        <item>Madame Guizot. </item>
+        <item>Madame Guizot</item>
        </list>
        <note place="unspecified" anchored="yes">
         <hi rend="bold">*Pop Chart</hi></note>
@@ -37072,8 +37082,8 @@
       <note place="unspecified" anchored="yes"> British Library. </note>
       <note place="unspecified" anchored="yes">
        <title>
-        <hi rend="italics">Portraits de femmes</hi>
-       </title>. Paris: Garnier, <date>1845</date>. rev. ed. <date>1876</date>. Editions in Paris
+        <hi rend="italics">Portraits de femmes.</hi>
+       </title> Paris: Garnier, <date>1845</date>. rev. ed. <date>1876</date>. Editions in Paris
        and Berlin through the <date>1920s</date>. English edition omits 6 subjects. </note>
      </bibl>
      <bibl id="a698" default="NO"><ref targOrder="U">698.</ref>
@@ -37163,7 +37173,7 @@
       <note place="unspecified" anchored="yes">Foreword with facsimile signature testifies to the "enthusiasm" and "delight"
       with which she has written the book, as well as her care to "follow...the latest scholarly criticism" on the Marys (8-9);
       the book aims to "bring us all closer in friendship to the Master" (10).  In pencil someone has written before the Foreword,
-      "It must be a joy to women that when the Master was on Earth no woamn's hand did him harm and no woman's voice was uplifted
+      "It must be a joy to women that when the Master was on Earth no woman's hand did him harm and no woman's voice was uplifted
       against Him" (3); this same hand wrote other confirming notes. A different pencilled hand answers "Shall we quote the 
       story as we find it in the Bible?" with "sure, go ahead" (204).  Sixteen fuzzy color plates listed as "Painted by Raphael," "Painted by Boulanger," etc., portraits with a long
       tradition of Orientalism.  The Judith image is essentially the same as in Stowe's collection; Judith is set apart in a section,
@@ -37614,8 +37624,8 @@
       <note place="unspecified" anchored="yes">Sixteen-page pamphlet.  On title page, M. Mary Senior, Methodist Mission, Sierra Leone.  "The manuscript of this
       book was obtained through the International Committee on Christian Literature for Africa, 2 Eaton Gate, London." On back paper cover:
       African Home Library (Each 1d.) 1. The Country of Jesus 2. The Fight for Health 3. Children Fight Enemies of Health 4. Woman's Work in the
-      Home 5. Women Pathfinder 6. African Women Pathfinders 7. Money and Its Uses 8. The Fruits of the Ground.  Obviously a711 in
-      this bibliography is item 6 in this list.</note>
+      Home 5. Women Pathfinders 6. African Women Pathfinders 7. Money and Its Uses 8. The Fruits of the Ground.  Obviously a711 in
+      this bibliography is item 6 in this list, as this is item 5.</note>
       <note type="toc">
        <list>
         <item>Introduction</item>
@@ -38033,6 +38043,7 @@
         <item>Postscript: since 1940</item>
        </list>
       </note>
+      <note place="unspecified" anchored="yes">NOT= historiography</note>
      </bibl>
      <bibl id="a723" default="NO">
       <ref targOrder="U">723.</ref>
@@ -38510,10 +38521,10 @@
         <item>The Princess Elizabeth</item>
         <item>Sarah Kemble (Mrs Siddons)</item>
         <item>Fanny Kemble</item>
-        <item>Hannah More</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Louisa May Alcott</item>
         <item>Helen Keller</item>
-        <item>Jenny Lind (Madame Lind-Goldschmidt)</item>
+        <item n="JENNY_LIND">Jenny Lind (Madame Lind-Goldschmidt)</item>
         <item>Florence Nightingale</item>
         <item n="JOAN_OF_ARC">Jeanne d'Arc</item>
         <item>Emma Lajeunesse (Madame Albani)</item>
