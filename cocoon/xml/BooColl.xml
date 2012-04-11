@@ -38782,7 +38782,7 @@
        <publisher>n.p.,</publisher>
        <date>1913.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> 24-pp. biographical literary study. Women mentioned include: Miriam, the sister of Moses;
+      <note place="unspecified" anchored="yes">NOT= literary miscellany, lecture: 24-pp. biographical literary study. Women mentioned include: Miriam, the sister of Moses;
       Deborah, the prophetess; Huldah, the prophetess; Esther; Ima Shalom; Beruria; Jalta; Deborah Ascarelli; Sara Copia Sullam; 
       Glückel von Hameln; Dorothea Mendelssohn; Henriette Herz; Rahel Varnhagen; Grace Aguilar; Rachel Morpurgo; Henriette Oppenheimer;
       Martha Wolfenstein; Emma Lazarus; Mary Antin; Amy Levy; Lady Simon; Lady Magnus; Mrs. Henry Lucas; Mrs. Salaman (Nina Davis); 
@@ -38970,7 +38970,6 @@
       <item>Alessandra de' Machingi - Di Matteo Negli Strozzi: "The Mother of the Strozzi"</item>
       <item>Lisa de' Gherardini - Di Francesco del Giocondo: Leonardo's "Mona Lisa"</item>
       <item>Bianca de' Cappelli - Di Francesco de' Medici: "The Daughter of Venice"</item>
-      <item></item>
      </list>
     </note>
      </bibl>
@@ -39011,9 +39010,12 @@
        <publisher>Laurie,</publisher>
        <date>1911.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">First page with text features "New Books" from publisher,
-       including one book from this collection's author (See item <xref targOrder="U" from="ROOT" to="DITTO"
-        >a748</xref>). The TOC offers general chapter titles (such as "Christ and Cupid" or "Crusades and Crafts") followed by lengthy
+      <note place="unspecified" anchored="yes">NOT = History.  First page with text features "New Books" from publisher,
+       including one book from this collection's author (See item <ref target="a748" targOrder="U">a748,
+        <title>
+         <hi rend="italics">The Dogaressas of Venice</hi>
+        </title>
+       </ref>). The TOC offers general chapter titles (such as "Christ and Cupid" or "Crusades and Crafts") followed by lengthy
       lists of subject matter, which is of a generally historical nature and names few women specifically.</note>
      </bibl>
      <bibl id="a750" default="NO">
