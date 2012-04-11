@@ -34882,7 +34882,7 @@
        <publisher>State House</publisher>
        <date>1991.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">NOT= Reference work. A collection of “biographical sketches” of women 
+      <note place="unspecified" anchored="yes">NOT= Local compendium. A collection of “biographical sketches” of women 
        who lived in Texas prior to 1845. The collection gives a 1-2 page sketch of approximately 80 women.
       </note>
      </bibl>
@@ -35386,7 +35386,7 @@
         <item>Mrs. Mary A. Schimmelpenninck, [by] Mrs. M. C. France</item>
         <item>Elizabeth Prentiss, [by] the late Rev. W. Garden Blaikie, D.D.</item>
         <item>Sarah Martin, [by] Rev. S. F. Harris, M.A.</item>
-        <item>Harriet Beecher Stow, [by] Rev. J. Cunningham, M.A.</item>
+        <item>Harriet Beecher Stowe, [by] Rev. J. Cunningham, M.A.</item>
         <item>Mrs. Sewell, [by] Mrs. Gorges</item>
         <item n="QUEEN_VICTORIA">Victoria, R.I., [by] the late James Macaulay, M.D.</item>
         <item>Elizabeth Gilbert, [by] Mrs. Gorges</item>
@@ -37492,15 +37492,15 @@
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 219-21.</xref>
-      <note place="unspecified" anchored="yes">NOT = Reference Work. No table of contents available. This is a reference of nineteenth- century 
+      <note place="unspecified" anchored="yes">NOT = Reference Work. No table of contents available. This is a reference of nineteenth-century 
        African American women of distinction. There are approximately 100 women included in this collection, and a brief chapter (3 – 5 pages) 
-       is dedicated to the life of each woman. Most chapters begin with the woman’s portrait. The mission stated in the preface states:  
+       is dedicated to the life of each woman. Most chapters begin with the woman’s portrait. The preface states the mission:  
        “To assist in giving this information to our young people, that they may be the more proud of their ancestors and love more devotedly their race…” 
        In contrast to the earlier chapters, the last two chapters are not devoted to specific women, but rather themes. For example, Chapter 98 is titled,
-       “Higher Education For Women,” and Chapter 99 is titled, “Influence of Negro Women in the Home”. The collection ends with an advertisement for 
+       “Higher Education For Women,” and Chapter 99 is titled, “Influence of Negro Women in the Home.” The collection ends with an advertisement for 
        Ringwood’s Illustrated Magazine – an African American magazine “devoted to the domestic, moral, social, educational, and artistic interests 
-       of our women and our girls”.  No cover signal of African-American contents.</note>
-      <note place="unspecified" anchored="yes"> No cover signal of African-American contents. <hi
+       of our women and our girls.”  No cover signal of African-American contents.</note>
+      <note place="unspecified" anchored="yes"><hi
         rend="bold">*Pop Chart</hi>
       </note>
      </bibl>
@@ -37825,8 +37825,9 @@
        <publisher>Chew,</publisher>
        <date>1891.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> 48 pp. “At the Octogenenial celebration of Bishop
-       Daniel A. Payne, D.D.L.L., D., <date>February 24, 1891</date>, Jacksonville, Florida.”
+      <note place="unspecified" anchored="yes"> NOT=Miscellaneous history.  48 pp. “At the Octogenenial celebration of Bishop
+       Daniel A. Payne, D.D.L.L., D., <date>February 24, 1891</date>, Jacksonville, Florida.”  Introduction by Bishop B. W. Arnett, D. D., 
+       primarily a life of Daniel Alexander Payne.
       </note>
      </bibl>
      <bibl id="a717A" default="NO">
@@ -40473,7 +40474,7 @@
       <note>
        <p>Available in a 1992 facsimile by The Methodist Publishing House.  It was edited by John A. Vickers, who added an Editorial
        Note identifying Zachariah Taft (1772-1848) as an itinerant Wesleyan who continued to advocate women's preaching, including
-       that of his weife Mary Barritt, even when it lost its official sanction.  Taft's preface to volume one indicates that he wants 
+       that of his wife Mary Barritt, even when it lost its official sanction.  Taft's preface to volume one indicates that he wants 
        to preserve records that have been suppressed because most "Biographers and Editors of Magazines, are enemies to female preaching" (ii).
        According to Taft, John Wesley "knew that it made no difference whether the servant of God...was male or female" (iii).  "From the
        pages of History, we learn that <hi rend="italics">women</hi> have moved in the most exalted spheres, and chived the most astonishing
@@ -40596,7 +40597,7 @@
        <publisher>Jones-Briggs/Tennessee FWC,</publisher>
        <date>1916.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">NOT = Miscellaneous History. No TOC. This collection details the lives of 
+      <note place="unspecified" anchored="yes">NOT = Local compendium. No TOC. This collection details the lives of 
        the women in the Tennessee Federation of Women’s Clubs.  The collection contains short 1-3 paragraph bios of these women
        (including portraits).  However, most of the collection is devoted to the history of the Tennessee Federation of Women’s Clubs
        (i.e. successful reforms and legislation).  The introduction reads, “In these pages we partially tell the story of the mountain 
@@ -40913,9 +40914,16 @@
        <date>1985.</date>
       </imprint>
       <note place="unspecified" anchored="yes">NOT = Miscellaneous History. Chapters focus primarily on places and 
-       mention various women in relation to these places. Dedicated to  The Colored Graduate Nurses of America, with
-       "The Florence Nightingale Pledge" as the epigram to the Introduction. Includes portraits. </note>
-      <note type="toc">
+       mention various women in relation to these places. Dedicated to The Colored Graduate Nurses of America, with
+       "The Florence Nightingale Pledge" as the epigram to the Introduction. Includes portraits. Illustrations list provides 
+       biographical list: i.	Aunt Harriet:  Spy, scout and Civil War nurse; ii.	Elizabeth Tyler, R.N.; iii.	Jessie Sleet Scales, R.N.;
+       iv.	Ludie A. Andrews, R.N.;v.	Louise M. Russell, R.N.; vi.	Cecele B. Anderson, R.N.; vii.	Mary Merritt, R.N.; viii.	Ellen Woods Carter, R.N.;
+       ix.	Clara M. Harris, R.N.; x.	Laura Baynes, R.N.; xi.	Edith M. Carter, R.N.; xii.	Cora Watson Winston, R.N.; xiii.	Mattie C. McGhee, R.N.;
+       xiv.	Bessie B. Hawes, R.N.; xv.	Charlotte K. May, R.N.; xvi.	Mary E. Stayley, R.N.; xvii.	Mary E. Williams, R.N.;
+       xviii.	Mabel Doyle Keaton, R.N.; xix.	Marion J. Pettiford, R.N.; xx.	Jennette O. May, R.N.; xxi.	Alice Sightler, R.N.;
+       xxii.	Miss Belle Davis; xxiii.	Emma C. Wilson, R.N.; xxiv.	Petra Pinn, R.N.; xxv.	Carrie E. Bullock, R.N. 
+      </note>
+      <note type="chapter_titles">
        <list>
         <item>Chapter I:  Introduction</item>
         <item>Chapter II:  Early Pathfinders</item>
@@ -41127,8 +41135,8 @@
         <item>The Romance of Two Royal Duchesses (The Duchess of Cumberland; Maria, Countess of Waldegrave)</item>
         <item>“The Wild Irish Girl” (Lady Morgan; Lady Clarke)</item>
         <item>“The Nightingales of Bath” (Mrs. Sheridan and Mrs. Tickell)</item>
-        <item>“The Three Graces” (Mrs. Sheridan [Elizabeth Linley]; Helen, Marchioness of Dufferin; Mrs. Norton)</item>
-        <item>The Heiresses of Rose Hill(Countess of Charlemont [Anne Bermingham])</item>
+        <item>“The Three Graces” (Mrs. Sheridan [Elizabeth Linley i.e. not same as above]; Helen, Marchioness of Dufferin; Mrs. Norton)</item>
+        <item>The Heiresses of Rose Hill (Countess of Charlemont [Anne Bermingham, in database as Anne Caulfeild, Lady Charlemont])</item>
         <item>The Queen of Almack’s (The Countess of Jersey [Sarah Sophia Child Fane])</item>
        </list>
       </note>
@@ -51799,7 +51807,7 @@
      </bibl>
      <bibl id="p132" default="NO">
       <idno>p132</idno>
-      <author><name type="last">Tappen</name>, <name type="first">Kathleen</name>, and <name
+      <author><name type="last">Tappen</name>, <name type="first">Kathleen B.</name>, and <name
         type="first">Bernice T.</name>
        <name type="last">Morris</name>.</author>
       <title type="ref">
@@ -51807,7 +51815,7 @@
       </title>
       <imprint>
        <pubPlace>Washington:</pubPlace>
-       <publisher>Research Division, Social and Geographic Section,</publisher>
+       <publisher>U. S. Office of Inter-American Affairs, Research Division, Social and Geographic Section,</publisher>
        <date>1944.</date>
       </imprint>
       <note place="unspecified" anchored="yes">NOT = Reference work. Approximately 150 women are included accompanied 
