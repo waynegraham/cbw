@@ -8183,6 +8183,36 @@
        <date>1938.</date>
       </imprint>
      </bibl>
+     <bibl id="a095A" default="NO">
+      <ref targOrder="U">95A</ref>
+      <idno>a095A</idno>
+      <author><name type="last">Bolitho</name><name type="first">William</name></author>
+      <title type="ref">
+       <hi rend="italics">Twelve Against the Gods: The Story of Adventure</hi>
+      </title>
+      <imprint>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Simon and Schuster</publisher>
+       <date>1929</date>
+      </imprint>
+      <note type="toc">
+       <list>
+        <item>Alexander the Great</item>
+        <item>Casanova</item>
+        <item>Christopher Columbus</item>
+        <item>Mahomet</item>
+        <item>Lola Montez</item>
+        <item>Cagliostro (and Seraphina)</item>
+        <item>Charles XII of Sweden</item>
+        <item>Napoleon I</item>
+        <item>Lucius Sergius Catiline</item>
+        <item>Napoleon III</item>
+        <item>Isadora Duncan</item>
+        <item>Woodrow Wilson</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">NOT=male-female collective biography.</note>
+     </bibl>
      <bibl id="a096" default="NO">
       <ref targOrder="U">96.</ref>
       <idno>a096</idno>
@@ -44498,7 +44528,7 @@
         <item>The Champion of Freedom (Harriet Beecher Stowe)</item>
         <item>The Female Sculptor (Harriet E. Hosmer)</item>
         <item>The Female Painter (Rosa Bonheur)</item>
-        <item>A Political Authoress (Madame de Staël</item>
+        <item n="MADAME_DE_STAEL">A Political Authoress (Madame de Staël</item>
         <item n="QUEEN_ELIZABETH">The Patroness of Letters (Queen Elizabeth)</item>
         <item>A Victim of Crime (Beatrice Cenci)</item>
         <item>The Wife of a Patriot (Abigail Adams)</item>
@@ -45016,7 +45046,7 @@
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Wilson was Minister of the Free Church at
-      Musselburgh. “By the author of 'The Heavenward Path.” </note>
+      Musselburgh. “By the author of 'The Heavenward Path.'” </note>
       <image n="no1902.TheChristianTriumph">
        <imgName>The Christian Triumph</imgName>
        <imgDesc>The Christian Triumph</imgDesc>
@@ -46051,7 +46081,8 @@
         <item>Madame Swetchine</item>
         <item n="ELIZABETH_FRY">Mrs. Fry</item>
         <item>Miss Anna Gurney</item>
-        <item>Amalie Sieveking. vol. II: Vittoria Colonna</item>
+        <item>Amalie Sieveking</item>
+        <item>vol. II: Vittoria Colonna</item>
         <item>Margaret More</item>
         <item>Madame Duplessis Mornay</item>
         <item>La Mere Angelique</item>
@@ -46068,7 +46099,7 @@
         <item>Harriet M. Bowdler</item>
         <item>Dorothy Wordsworth</item>
         <item>Sarah Martin</item>
-        <item>Eugenie de Guerin. </item>
+        <item>Eugenie de Guerin</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes">
@@ -46273,12 +46304,12 @@
       <note place="unspecified" anchored="yes"> By Zaidi, Seyed M. Hafeez: <title>
         <hi rend="italics">The Muslim Womanhood in Revolution: Being an Exhaustive Survey of Modern
          Movements Among the Muslim Women All Over the World with Special Reference to Their Social,
-         Educational, and Political Awakening</hi>
-       </title>. Calcutta: Zaidi, <date>1937</date>; and <title>
+         Educational, and Political Awakening.</hi>
+       </title> Calcutta: Zaidi, <date>1937</date>; and <title>
         <hi rend="italics">Position of Woman Under Islam: Being an Exhaustive Survey of the Position
          of Woman Under Islam in Every Walk of Life Based on the Holy Quoran, Traditions, History,
-         and Other Records</hi>
-       </title>. Bengal, India: Pronvincial, <date>1935</date>. </note>
+         and Other Records.</hi>
+       </title> Bengal, India: Pronvincial, <date>1935</date>. </note>
      </bibl>
      <bibl id="a930" default="NO">
       <ref targOrder="U">930.</ref>
@@ -50413,36 +50444,7 @@
       </imprint>
       <note place="unspecified" anchored="yes"> </note>
      </bibl>
-     <bibl id="a095A" default="NO">
-      <ref targOrder="U">95A</ref>
-      <idno>a095A</idno>
-      <author><name type="last">Bolitho</name><name type="first">William</name></author>
-      <title type="ref">
-       <hi rend="italics">Twelve Against the Gods: The Story of Adventure</hi>
-      </title>
-      <imprint>
-       <pubPlace>New York:</pubPlace>
-       <publisher>Simon and Schuster</publisher>
-       <date>1929</date>
-      </imprint>
-      <note type="toc">
-       <list>
-        <item>Alexander the Great</item>
-        <item>Casanova</item>
-        <item>Christopher Columbus</item>
-        <item>Mahomet</item>
-        <item>Lola Montez</item>
-        <item>Cagliostro (and Seraphina)</item>
-        <item>Charles XII of Sweden</item>
-        <item>Napoleon I</item>
-        <item>Lucius Sergius Catiline</item>
-        <item>Napoleon III</item>
-        <item>Isadora Duncan</item>
-        <item>Woodrow Wilson</item>
-       </list>
-      </note>
-      <note place="unspecified" anchored="yes">NOT=male-female collective biography.</note>
-     </bibl>
+     
      <bibl id="p096" default="NO">
       <idno>p096</idno>
       <author><name type="last">Perl</name>, <name type="first">Teri</name>.</author>
@@ -50518,7 +50520,7 @@
      </bibl>
      <bibl id="p099A" default="NO">
       <idno>p099A</idno>
-      <author><name type="last">Pierpont</name>name>, <name type="first">Claudia
+      <author><name type="last">Pierpont</name>, <name type="first">Claudia
        Roth</name>.</author>
       <title type="ref">
        <hi rend="italics">Passionate Minds: Women Rewriting the World.</hi>
@@ -50560,13 +50562,6 @@
        </list>
       </note>
      </bibl>
-
-
-
-
-
-
-
      <bibl id="p099B" default="NO">
       <idno>p099B</idno>
       <author><name type="last">Pinkney</name>, <name type="first">Andrea Davis</name>.</author>
@@ -50884,7 +50879,10 @@
        <date>1995;</date>
        <date>2001.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> </note>
+      <note place="unspecified" anchored="yes">NOT=anthology. Paperback with 15 chapters, beginning "Setting Out," and ending "Coming Home,"
+      with regional topics in between (e.g. 9. "The Indian Subcontinent."  Excerpts from women's travel writings are interwoven with
+      italicized "narration" that connects passages about similar places or experiences on a journey through that chapter's places. More 
+      than two pages, double column, name index.</note>
      </bibl>
      <bibl id="p109" default="NO">
       <idno>p109</idno>
@@ -51230,6 +51228,14 @@
        <date>1991;</date>
        <date>1992.</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Helen Deutsch</item>
+        <item>Karen Horney</item>
+        <item>Anna Freud</item>
+        <item>Melanie Klein</item>
+       </list>
+      </note>
       <note place="unspecified" anchored="yes"/>
      </bibl>
      <bibl id="p113B" default="NO">
@@ -51311,7 +51317,20 @@
        <publisher>J. Green,</publisher>
        <date>1947.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> </note>
+      <note type="toc">
+       <list>
+        <item>Mary Delany</item>
+        <item>Elizabeth Carter</item>
+        <item>Elizabeth Montagu</item>
+        <item>Hester Chapone</item>
+        <item>Hester Lynch Thrale (Mrs. Piozzi)</item>
+        <item>Hannah More</item>
+        <item>Frances Burney (Madame d'Arblay)</item>
+        <item>Elizabeth Vesey and others</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">Chapter one: "The Bluestockings"; final chapter "Criticisms, then and now," and 
+       "Appendix: Bluestocking parties."</note>
      </bibl>
      <bibl id="p115" default="NO">
       <idno>p115</idno>
@@ -51461,7 +51480,7 @@
       <imprint>
        <pubPlace>Freeport, NY:</pubPlace>
        <publisher>Books for Libraries,</publisher>
-       <date>1968?</date>
+       <date>1968.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> </note>
      </bibl>
