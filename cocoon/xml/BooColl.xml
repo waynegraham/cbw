@@ -43545,7 +43545,7 @@
       <note place="unspecified" anchored="yes"> By a “colonial dame” whose works include <title>
         <hi rend="italics">Social Life in the Early Republic</hi>
        </title> (<date>1902</date>) and a biography of Martha Washington (<date>1897</date>). </note>
-      <note type="toc">
+      <note type="chapter_titles">
        <list>
         <item>Colonial Days</item>
         <item>Women in the Early Settlement</item>
@@ -44111,7 +44111,7 @@
       who have died for thee!"  Foreword to Leaders (one page) says "the book aims at awakening in our girls a vivid consciousness of the need
       of India's women and children, and an active desire henceforth to do something to meet that need" (3).  The narratives can be in 
       present tense, second person, as in a tour of the school with introductions to the girls there, including a baby blinded because
-      she was a girl "It is good to feel <hi rend="italics">our</hi> baby girls at home are generally wanted, isn't it?" (48).  Other chapters
+      she was a girl: "It is good to feel <hi rend="italics">our</hi> baby girls at home are generally wanted, isn't it?" (48).  Other chapters
       are single biographies, as titles indicate.  "A New Missionary" is an anonymous apparently autobiographical but third-person narrative
       of arriving at the mission and meeting an orphan girl, Flower-Heart.</note>
       <note type="toc">
@@ -44150,8 +44150,8 @@
        <imgDesc>Anne Marie Martinozzi, Princesse de Conti</imgDesc>
       </image>
       <image n="no1873.LaureManciniDuchessedeMercoeur">
-       <imgName>Laure Mancini Duchesse de Mer Coeur</imgName>
-       <imgDesc>Laure Mancini, Duchesse de Mer Coeur</imgDesc>
+       <imgName>Laure Mancini Duchesse de Mercoeur</imgName>
+       <imgDesc>Laure Mancini, Duchesse de Mercoeur</imgDesc>
       </image>
       <image n="no1874.MarieMancini">
        <imgName>Marie Mancini</imgName>
@@ -44181,6 +44181,26 @@
        <imgName>Olympe Mancini, Comtesse de Soissons</imgName>
        <imgDesc>Olympe Mancini, Comtesse de Soissons</imgDesc>
       </image>
+      <note type="toc">
+       <list>
+        <item>Laure Mancini</item>
+        <item>Olympe Mancini, Countess de Soissons</item>
+        <item>Marie Mancini Colonna, Princess di Palliano</item>
+        <item>Hortense Mancini</item>
+        <item>Marie Anne Mancini, Duchess de Bouillon</item>
+        <item>Anne of Austria, Queen of France</item>
+        <item>Laura Martinozzi, Duchess of Modena</item>
+        <item>Anne Marie Martinozzi, Princess di Conti</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">NOT= male-female, history.  Yet much is biographical, and includes
+       details from Marie's memoirs and Anne of Austria's correspondence.  Title page identifies Williams as author of biographies of 
+      Mesdames Recamier, Pompadour, de Montespan, du Barry, as well as the "French Stage" volumes listed in CBW.  An extensive index follows final page of last chapter (414), and there is 
+      a long list
+      of illustrations but no table of contents per se.  Chapters have initial summaries.  A group biographical history about Anne
+      of Austria (Queen Mother) and her favorite, Cardinal Mazarin, who imported his nieces and some nephewes
+      from Rome as pawns in alliances
+      with powerful French families.</note>
      </bibl>
      <bibl id="a871" default="NO">
       <ref targOrder="U">871.</ref>
