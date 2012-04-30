@@ -4820,6 +4820,8 @@
        <publisher>Gotshall,</publisher>
        <date>1904.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">NOT=Local compendium; reform miscellany.  It does 
+      include biographies of women.</note>
      </bibl>
      <bibl id="a017" default="NO">
       <ref targOrder="U">17.</ref>
@@ -4840,6 +4842,7 @@
        <publisher>Rogers, Pictorial Review, Woman's World,</publisher>
        <date>1928.</date>
       </imprint>
+      <note place="unspecified" anchored="yes">Large-scale table of contents not attempted for database.</note>
      </bibl>
      <bibl id="a018" default="NO">
       <ref targOrder="U">18.</ref>
@@ -5139,7 +5142,8 @@
        <date>1914,</date>
        <date>[1915].</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> A strange mixture of advice (“DON'T giggle” [2]),
+      <note place="unspecified" anchored="yes">One OCLC item states "with 53 illustrations...including
+       21 Cartoons by W. K. Haselden."  A strange mixture of advice (“DON'T giggle” [2]),
        anthropology (illustrations of “Mother Love: Dakota Squaw and Child” facing 80),
        argument-by-example (e.g. lists of eminent women, 22), travel, and feminist argument for
        equal pay and work, written just before war broke out by a Fellow of the Royal Geographical
@@ -5402,7 +5406,44 @@
        <date>1847;</date>
        <date>1854.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> One of the celebrated “Mrs. Judsons.” </note>
+      <note place="unspecified" anchored="yes"> 
+      An educational dialogue by one of the celebrated first “Mrs. Judson," published anonymously in view of the last
+      chapter on herself, perhaps.  The Preface
+      begins with the idea of biography as example especially influential on the young female.  Judson disclaims
+      originality, deriving from existing records but selecting and shaping for good effect on readers while avoiding allusion
+      to sectarian differences (all are "Christians"), and of course she apologizes for necessary limits on the selection.  The Introduction
+      consists of a dialogue between a daughter, Mary, and her mother "Mrs. G." (presumably the same as Mrs. Grenville in the opening
+      chapter) relating an anecdote about a man who gave a boy a biography of Benjamin Franklin because it had such an influence on
+      his own life.  "Are there no histories of good and great women, mother?" (xiv).  The mother plans a weekly evening sewing circle
+      of young girls to which she can read aloud selectively, with moral annotation, the appropriate model lives of women (as some historic women are
+      misleading guides for the kind of daughter she would wish to raise).  Mrs. Grenville gathers "engraved portraits" as well
+      as biographies for this book club. The first evening, each girl is catechised on the kind of woman she wants to be, and Mrs. G. affirms that
+      they do not all need to follow the same model, but all should be devout, and any learned accomplishment should be accompanied
+      by good housekeeping skills (here an apt quotation of Hannah More).  The chapters follow the series of supposed evening meetings.  There
+      is no table of contents (though running headers), but the brief narratives do tell life stories of named women.  One evening
+      is dedicated to Elizabeth Smith, born near Durham, England, in 1776; remarkable for learning (a translator); exemplary for her
+      good cheer and resourcefulness when family loses its wealth (as happens more frequently in America); known as resident of Coniston
+      and subject of a poetic tribute and a biography after her death of tuberculosis.  The following evening on the poet Davidson explicitly
+      compares the two women, though favoring the latter in the sense of her productivity in poetry (examples given).  Mrs. Graham
+      was stranded as a widowed mother, during Revolutionary War, in Antigua; became a philanthropist in New York.  Mrs. Judson's life takes up
+      the final, eighth evening, with a concluding summary of the examples reviewed.</note>
+      <note type="toc">
+       <list>
+        <item>Semiramis</item>
+        <item>Cleopatra</item>
+        <item>Zenobia</item>
+        <item>Isabella Queen of Castile</item>
+        <item>Lady Jane Grey</item>
+        <item n="QUEEN_ELIZABETH_I">Queen Elizabeth I</item>
+        <item>Mary Queen of Scots</item>
+        <item>Queen Christina of Sweden</item>
+        <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russel</item>
+        <item>Elizabeth Smith</item>
+        <item>Lucretia Maria Davidson [1808-1825]</item>
+        <item>Mrs. Isabella Graham [nee Marshall, b. Scotland 1742]</item>
+        <item>Mrs. Judson</item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a027" default="NO">
       <ref targOrder="U">27.</ref>
