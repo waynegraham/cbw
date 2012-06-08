@@ -5446,7 +5446,7 @@
         <item>Elizabeth Smith</item>
         <item>Lucretia Maria Davidson [1808-1825]</item>
         <item>Mrs. Isabella Graham [nee Marshall, b. Scotland 1742]</item>
-        <item>Mrs. Judson</item>
+        <item n="ANN_HASSELTINE_JUDSON">Mrs. Judson</item>
        </list>
       </note>
      </bibl>
@@ -5714,6 +5714,37 @@
        <date>1862.</date>
       </imprint>
       <xref targOrder="U" from="ROOT" to="DITTO">Riches.</xref>
+      <note type="chapter_titles">
+        Contents of volume II (Hathi Trust): Mary Cromwell, daughter of Oliver Cromwell, wife of Thomas Belasyse, Earl of Fauconberg;
+        Frances Cromwell, daughter of Oliver Cromwell, wife first of Robert Rich, afterwards of Sir John Russell;
+        Lucy Apsley, wife of Colonel Hutchinson;
+        Katharine Boyle, wife of Arthur Jones, Viscount Ranelagh;
+        Margaret Charlton, wife of Richard Baxter;
+        Elizabeth, wife of John Bunyan;
+        Agnes Beaumont, friend of John Bunyan;
+        Katharine Matthews, wife of Philip Henry;
+        Rachel Wriothesley, wife of Lord William Russell;
+        Alice Beconsaw, wife of Lord John Lisle;
+        Elizabeth Gaunt, wife of William Gaunt;
+        Hannah Hewling, wife of Major Richard Cromwell, grandson of Oliver Cromwell;
+        Bridget Ireton, wife of Thomas Bendish.  
+      </note>
+      <note type="toc">
+       <list>
+        <item>Mary Cromwell</item>
+        <item>Frances Cromwell</item>
+        <item>Lucy Apsley Hutchinson</item>
+        <item>Katharine Boyle, Lady Ranelagh</item>
+        <item>Margaret Charlton Baxter</item>
+        <item>Elizabeth Bunyan</item>
+        <item>Katharine Matthews Henry</item>
+        <item n="LADY_RACHEL_RUSSELL">Rachel Wriothsley</item>
+        <item>Alice Beconsaw, Lady Lisle</item>
+        <item>Elizabeth Gaunt</item>
+        <item>Hannah Hewling Cromwell</item>
+        <item>Bridget Ireton Bendish</item>
+        </list>
+      </note>
      </bibl>
      <bibl id="a032" default="NO">
       <ref targOrder="U">32.</ref>
@@ -6225,7 +6256,7 @@
        <publisher>Rindge Missionary Literature,</publisher>
        <date>[1880-1900?].</date>
       </imprint>
-      <note place="unspecified" anchored="yes">NOT?</note>
+      <note place="unspecified" anchored="yes">NOT=autobiography.  Four-page item.</note>
      </bibl>
      <bibl id="a043" default="NO">
       <ref targOrder="U">43.</ref>
