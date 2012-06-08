@@ -1724,7 +1724,7 @@
      <bibl id="c012" default="NO">
       <idno>c012</idno>
       <date>1647.</date>
-      <author><name type="last">Le Moyne</name>, <name type="first">Pierre</name>.</author>
+      <author><name type="last">Le Moyne</name>, <name type="first">Le Pere</name>.</author>
       <title type="ref">
        <hi rend="italics">Galerie de Femmes Fortes.</hi>
       </title> English ed.: <title type="ref">
@@ -36035,7 +36035,6 @@
       <title type="ref">
        <hi rend="italics">Remarkable Women of Different Nations and Ages. 1st ser.</hi>
       </title>
-      <title type="search">Remarkable Women of Different Nations and Ages </title>
       <imprint>
        <pubPlace>Boston and</pubPlace>
        <pubPlace>Cleveland:</pubPlace>
