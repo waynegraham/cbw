@@ -11530,9 +11530,7 @@
        <pubPlace>New York:</pubPlace>
        <publisher>Taylor,</publisher>
        <date>1844.</date>
-      </imprint> Editor, <title type="ref">
-       <hi rend="italics">The Christian Lady's Magazine,</hi>
-      </title>
+      </imprint> 
       <imprint>
        <pubPlace>London,</pubPlace>
        <date>1834-49.</date>
@@ -12886,17 +12884,12 @@
       <title type="ref">
        <hi rend="italics">Lives of Good and Great Women.</hi>
       </title>
-      <title type="search"> Lives of Good and Great Women </title>
       <imprint>
-       <pubPlace>London and</pubPlace>
-       <date>n.d.</date>
-      </imprint>
-      <imprint>
+       <pubPlace>London,</pubPlace>
        <pubPlace>New York:</pubPlace>
        <publisher>Ward &amp; Drummond,</publisher>
        <date>n.d.</date>
-       <date>[1889-1900?]</date>
-      </imprint>
+       </imprint>
       <note type="toc">
        <list>
         <item n="QUEEN_VICTORIA">Victoria</item>
@@ -12927,17 +12920,17 @@
         <item>Mary Carpenter</item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes"> Riches. San Jose State Library copy of NY edition:
+      <note place="unspecified" anchored="yes"> Riches. Published 1889-1900?  San Jose State Library copy of New York edition:
        On final page: “Edinburgh: Printed by W. &amp; R. Chambers, Limited.” “The present century”
-       (81) and “this century” (113) refer to the nineteenth. Victoria still alive. Commendation of
+       (81) and “this century” (113) refer to the nineteenth. Victoria is still alive. Commendation of
        activities for <date>1887</date> Jubilee; mention of biography of Stowe published in
-        <date>1889</date>. Frontis: Nightingale “after a portrait pub: by Colnaghi
+        <date>1889</date>. Illustrations include: frontispiece, Nightingale “after a portrait pub: by Colnaghi
        <date>1854</date>” [reading, flower in hair, crucifix necklace, reversed from other copies];
-       titlepage, “Lea Hurst, Florence Nightingale's Early Home”; illustrations include images of
+       titlepage, “Lea Hurst, Florence Nightingale's Early Home”; images of
        Balmoral and Windsor Castle; Elizabeth Fry's oval portrait surrounded by scenes of Newgate,
        Earlham Hall, and “Addressing the Meeting at Plaistow”; “Sarah Martin in Yarmouth Jail”
        [Butterworth &amp; ?], as seen in other volumes; “Florence Nightingale in the Hospital at
-       Scutari,” “Colonel Hutchinson a Prisoner in Sandown Castle,” and “Lady Rachel Russell and Her
+       Scutari.”  Two images, “Colonel Hutchinson a Prisoner in Sandown Castle” and “Lady Rachel Russell and Her
        Children Parting from Lord William Russell” offer recurrent scenes of standing women before
        doomed men in institutional settings. Vignettes of rural scenes punctuate the end of some
        chapters. </note>
@@ -17523,10 +17516,14 @@
        <hi rend="italics">The National Exposition Souvenir: What America Owes to Woman.</hi>
       </title> Introduction by <editor role="editor"><name type="first">Julia Ward</name>
        <name type="last">Howe</name>.</editor>
-      <title type="search"> The National Exposition Souvenir</title>
       <imprint>
        <pubPlace>Chicago:</pubPlace>
-       <publisher>Charles Wells Moulton; Buffalo, NY: n.p.,</publisher>
+       <publisher>Charles Wells Moulton,</publisher>
+       <date>1893.</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Buffalo, NY:</pubPlace>
+       <publisher>n.p.,</publisher>
        <date>1893.</date>
       </imprint>
       <note type="chapter_titles">
@@ -17816,7 +17813,9 @@
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
-       <publisher>Coldwell; Westminster, MD: Newman,</publisher>
+       <publisher>Coldwell</publisher>
+       <pubPlace>; Westminster, MD:</pubPlace>
+       <publisher>Newman,</publisher>
        <date>1938;</date>
        <date>1955.</date>
       </imprint>
@@ -18960,14 +18959,16 @@
        <publisher>Hogarth,</publisher>
        <date>[1839];</date>
       </imprint>
-      <imprint/> n.p., <imprint>
-       <date>[1842-49?].</date>
+      <imprint/> 
+      <imprint>
+      <publisher>n.p.,</publisher>
+       <date>[1842].</date>
       </imprint>
       <edition>Reprint,</edition>
       <extent rend="vols">2 vols.,</extent>
       <imprint>
-       <date>[1849?].</date>
-      </imprint> Probable alternative title for: 1. <author> Fowler, William Worthington </author>
+       <date>[1849].</date>
+      </imprint> Probable alternative title for: 1. <author> Fowler, William Worthington.</author>
       <title>
        <hi rend="italics">The Book of the Boudoir; or, The Court of Queen Victoria. A series of
         highly-finished portraits of the British nobility, from original paintings by eminent
@@ -18979,8 +18980,9 @@
        <publisher>Tilt;</publisher>
        <pubPlace>Philadelphia:</pubPlace>
        <publisher>Carey &amp; Hart,</publisher>
-       <date>[1840s?].</date>
+       <date>[1840s].</date>
       </imprint>
+      <note place="unspecified" anchored="yes">Publication dates, from 1839 to 1849, are unspecified.</note>
      </bibl>
      <bibl id="a298" default="NO">
       <ref targOrder="U">298.</ref>
@@ -26299,8 +26301,7 @@
        <publisher>Appleton,</publisher>
        <date>1855;</date>
        <date>1856;</date>
-       <date/>
-      </imprint>
+       </imprint>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Virtue,</publisher>
@@ -26497,7 +26498,7 @@
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
-       <publisher/>
+       <publisher>Longman, Brown, Green, and Longmans,</publisher>
        <date>1852.</date>
       </imprint>
       <imprint>
@@ -26505,18 +26506,20 @@
        <publisher>Ticknor &amp; Fields,</publisher>
        <date>1853;</date>
       </imprint>
-      <edition>rev. ed.</edition>
-      <imprint>
-       <date>1861;</date>
-       <date>1866.</date>
-      </imprint>
       <imprint>
        <pubPlace>London:</pubPlace>
-       <publisher>Longman, Brown, Green, and Longmans, &amp; Roberts,</publisher>
+       <publisher>Longmans, Green,</publisher>
        <date>1857;</date>
+       <date>1861</date>
+       <date>1864;</date>
+       <date>1866;</date>
+       <date>1867;</date>
        <date>1872;</date>
+       <date>1879;</date>
        <date>1885;</date>
+       <date>1888;</date>
        <date>1890;</date>
+       <date>1891;</date>
        <date>1899.</date>
       </imprint>
       <imprint>
@@ -26537,9 +26540,18 @@
        <publisher>Unit Library,</publisher>
        <date>1904.</date>
       </imprint>
+      <imprint>
+       <pubPlace>London and</pubPlace>
+       <pubPlace>New York:</pubPlace>
+       <publisher>Longmans, Green,</publisher>
+       <date>1902;</date>
+       <date>1909.</date>
+      </imprint>
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 175-96.</xref>
+      <note place="unspecified" anchored="yes">Publisher given as Longman, Brown, Green, and Longmans, &amp; Roberts in 1857, 2nd edition, corrected and enlarged; Longman, Brown, Green,
+       and Longmans, in 1864, 3rd edition, and 1879 6th edition. Unconfirmed how revised these various "editions" were, or how the publisher's name appears in the books.</note>
      </bibl>
      <bibl id="a452" default="NO">
       <ref targOrder="U">452.</ref>
@@ -27014,7 +27026,7 @@
        <date>1880.</date>
       </imprint>
       <imprint>
-       <publisher>Boston and</publisher>
+       <pubPlace>Boston and</pubPlace>
        <pubPlace>New York:</pubPlace>
        <publisher>Houghton Mifflin,</publisher>
        <date>1881;</date>
@@ -27127,7 +27139,7 @@
        <date>1854.</date>
       </imprint>
       <imprint>
-       <pubPlace>Rochester [NY] and</pubPlace>
+       <pubPlace>Rochester and</pubPlace>
        <pubPlace>New York:</pubPlace>
        <publisher>Alden and Beardsley; J. C. Derby,</publisher>
        <date>1855.</date>
@@ -31267,7 +31279,11 @@
       </title>
       <imprint>
        <pubPlace>London:</pubPlace>
-       <publisher>Hutchinson; Boston and</publisher>
+       <publisher>Hutchinson,</publisher>
+       <date>1928.</date>
+      </imprint>
+      <imprint>
+        <pubPlace>Boston and</pubPlace>
        <pubPlace>New York:</pubPlace>
        <publisher>Houghton Mifflin,</publisher>
        <date>1928.</date>
