@@ -8436,15 +8436,17 @@
        <date>1939;</date>
        <date>1941;</date>
        <date>1949.</date>
-       <pubPlace>In Indonesia: Djakarta:</pubPlace>
-       <publisher>Endang, </publisher>
+       <pubPlace>Djakarta, Indonesia:</pubPlace>
+       <publisher>Endang,</publisher>
        <date>1958.</date>
       </imprint> Trans. in Bengali: <imprint>
-       <pubPlace>Dacca: Purbachal Prakashani,</pubPlace>
+       <pubPlace>Dacca:</pubPlace>
+       <publisher>Purbachal Prakashani,</publisher>
        <date>1959.</date>
       </imprint> Trans. in Urdu: <imprint>
-       <pubPlace>Lahore: Maktaba-e-Urdu,</pubPlace>
-       <date>1958. </date>
+       <pubPlace>Lahore:</pubPlace>
+       <publisher>Maktaba-e-Urdu,</publisher>
+       <date>1958.</date>
       </imprint>
       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
