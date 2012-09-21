@@ -5708,7 +5708,8 @@
        <hi rend="italics">Memorable Women of the Puritan Times.</hi>
       </title>
       <extent rend="vols">2 vols.,</extent>
-      <pubPlace>London,</pubPlace> [etc.]: <imprint>
+       <imprint>
+        <pubPlace>London, [etc.]:</pubPlace> 
        <publisher>Blackie,</publisher>
        <date>1861;</date>
        <date>1862.</date>
@@ -12433,9 +12434,13 @@
        <hi rend="italics">Pioneer Women of Arizona.</hi>
       </title>
       <imprint>
-       <publisher>n.p.,</publisher>
-       <date>1900.</date>
+       <pubPlace>Tucson, AZ:</pubPlace>
+       <publisher>Linda Laird &amp; Associates,</publisher>
+       <date>[1969].</date>
       </imprint>
+      <note place="unspecified" anchored="yes">Some WorldCat entries list Mesa, AZ.  Some 
+      give no date, others 19--, and several 1969.  Probably this book should be a "p" or post-1940
+      item.  It is catalogued by subject headings re Mormon pioneer women.</note>
      </bibl>
      <bibl id="a182" default="NO"><ref targOrder="U">182.</ref>
       <idno>a182</idno>
