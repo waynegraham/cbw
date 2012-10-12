@@ -4906,12 +4906,10 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Groombridge,</publisher>
-       <date>1845.</date>
-      </imprint>
-      <xref targOrder="U" from="ROOT" to="DITTO">Oldfield.</xref>
-      <imprint>
-       <date>1853.</date>
-      </imprint>
+       <date>1845;</date>
+       <date>1853;</date>
+       <date>1857.</date>
+      </imprint>      
       <edition>New edn.</edition>
       <imprint>
        <pubPlace>Boston:</pubPlace>
@@ -4936,17 +4934,11 @@
       </imprint>
       <imprint>
        <pubPlace>London:</pubPlace>
-       <publisher>Groombridge,</publisher>
-       <date>1857.</date>
-      </imprint>
-      <imprint>
-       <pubPlace>London:</pubPlace>
        <publisher>Groombridge;</publisher>
        <pubPlace>New York:</pubPlace>
        <publisher>Appleton,</publisher>
        <date>1870.</date>
       </imprint>
-      <xref targOrder="U" from="ROOT" to="DITTO">Oldfield.</xref>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Groombridge,</publisher>
@@ -5001,6 +4993,7 @@
        <date>1913;</date>
        <date>1917.</date>
       </imprint>
+      <xref targOrder="U" from="ROOT" to="DITTO">Oldfield.</xref>
       <note place="unspecified" anchored="yes"> Bodleian. Aguilar is the author fiction, notably, <title>
         <hi rend="italics">Woman's Friendship: A Story of Domestic Life</hi>
        </title> (London: Groombridge; New York: Appleton, <date>1850</date>), evidently in print in
