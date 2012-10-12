@@ -5775,7 +5775,7 @@
         <item>Felicia Dorothea Hemans</item>
         <item>Elizabeth Barrett Browning</item>
         <item>Charlotte Nichols</item>
-        <item>Caroline Lucretia Hershel</item>
+        <item>Caroline Lucretia Herschel</item>
         <item>Jane Anne Taylor (Janet Taylor)</item>
         <item>Selina, Countess of Huntingdon</item>
         <item>Elizabeth, Duchess of Gordon</item>
@@ -9830,7 +9830,9 @@
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
-       <publisher>Hunt &amp; Eaton; Cincinnati, OH: Cranston &amp; Curts,</publisher>
+       <publisher>Hunt &amp; Eaton;</publisher> 
+        <pubPlace>Cincinnati, OH:</pubPlace>
+        <publisher>Cranston &amp; Curts,</publisher>
        <date>1893.</date>
       </imprint>
      </bibl>
