@@ -2167,14 +2167,13 @@
        <pubPlace>London:</pubPlace>
        <publisher>Bettesworth &amp; Batley,</publisher>
        <date>1728.</date>
-      </imprint>
-      <edition>4th ed.,</edition>
-      <imprint>
-       <publisher>Burton,</publisher>
-      </imprint>
+      </imprint>      
+      <author>Burton,
+      </author>
       <title>
        <hi rend="italics">The Female Worthies; or, the Ladies['] Glory.</hi>
       </title>
+      <edition>4th ed.,</edition>
       <imprint>
        <pubPlace>Dublin:</pubPlace>
        <publisher>Cross,</publisher>
