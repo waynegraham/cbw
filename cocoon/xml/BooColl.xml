@@ -5701,7 +5701,7 @@
       </title>
       <extent rend="vols">2 vols.,</extent>
        <imprint>
-        <pubPlace>London, [etc.]:</pubPlace> 
+        <pubPlace>London:</pubPlace> 
        <publisher>Blackie,</publisher>
        <date>1861;</date>
        <date>1862.</date>
@@ -5753,7 +5753,7 @@
       </imprint>
       <note place="unspecified" anchored="yes"> British Library. Congregational Minister, Member of
        the General Council of the University of Aberdeen. “Author of ‘Self-Made Men,’ ‘Kings of
-       Society,’ etc., etc.“ </note>
+       Society,’ etc., etc." </note>
       <note type="toc">
        <list>
         <item>Susanna Wesley</item>
@@ -20443,14 +20443,20 @@
        <hi rend="italics">Lives of Celebrated Women: By the Author of Peter Parley's Tales.</hi>
       </title>
       <extent>2 vols.</extent>
+      <imprint>
       <pubPlace>New York:</pubPlace>
       <publisher>Allen,</publisher>
       <date>1844.</date>
+      </imprint>
+      <imprint>
       <pubPlace>Boston:</pubPlace>
       <publisher>Bradbury &amp; Soden,</publisher>
-      <date>1844.</date> Also 1 vol. <pubPlace>New York:</pubPlace>
+       <date>1844.</date></imprint>
+      <extent>1 vol.</extent>
+      <imprint><pubPlace>New York:</pubPlace>
       <publisher>J. Allen,</publisher>
-      <date>1844.</date>
+       <date>1844.</date></imprint>
+      <imprint>
       <pubPlace>Boston:</pubPlace>
       <publisher>Pierce &amp; Rand,</publisher>
       <date>1848;</date>
@@ -20474,6 +20480,7 @@
       <date>1864;</date>
       <publisher>Locke,</publisher>
       <date>1876.</date>
+      </imprint>
       <note type="toc">
        <list>
         <item>Lucretia and Margaret Davidson</item>
