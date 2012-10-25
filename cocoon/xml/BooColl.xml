@@ -16960,7 +16960,7 @@
        <publisher>Allen,</publisher>
        <date>1883-95.</date>
       </imprint>
-      <note> British Library. Bodleian NOT:=book series. Series of twenty-two volumes of biographies
+      <note> British Library. Bodleian. NOT:=book series. Series of twenty-two volumes of biographies
        of British and French women (with one American entry by Julia Ward Howe). Also published as Famous Women by
       Roberts in Boston.</note>
       <note>Books in the series include:
@@ -16974,12 +16974,12 @@
         <hi rend="italics">Life of Her Majesty Queen Victoria;</hi>
        </title>
        Ingram's <title>
-        <hi rend="italics">Elizabeth Barrett Browning</hi>
+        <hi rend="italics">Elizabeth Barrett Browning;</hi>
        </title>
        Florence Fenwick Miller's <title><hi rend="italics">Harriet
         Martineau;</hi></title>
        Elizabeth Robins Pennell's <title><hi rend="italics">Mary Wollstonecraft
-        Godwin</hi></title>
+        Godwin;</hi></title>
        Emma Raymond Pitman's <title><hi rend="italics">Elizabeth Fry;</hi></title>
        Lucy Madox Rossetti's <title><hi rend="italics">Mrs. Shelley;</hi></title>
        Charlotte Mary Yonge's <title><hi rend="italics">Hannah More.</hi></title>
@@ -45731,7 +45731,10 @@
        <date>1889.</date>
       </imprint>
       <edition>2 vols. in 1</edition>
-      <imprint><date>1881</date>, <date>1884</date></imprint>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>Partridge,</publisher>
+       <date>1881,</date><date>1884</date></imprint>
       <note type="toc">
        <list>
         <item>The Women of Samara</item>
