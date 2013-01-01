@@ -18483,7 +18483,7 @@
         <item n="JOAN_OF_ARC">Joan of Arc</item>
         <item>Isabella of Castille</item>
         <item>Marie Antoinette</item>
-        <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Brontë</item>
         <item>Marie de Medicis</item>
         <item>Henrietta Maria</item>
         <item>Joan of Navarre</item>
@@ -18600,9 +18600,11 @@
       <image n="no515.AnneBoleyn">
        <imgName>Anne Boleyn</imgName>
       </image>
-      <note type="toc"> Contents of [1881] edition (University of Western Ontario copy), the first
+      <note place="unspecified" anchored="yes"> Contents of [1881] edition (University of Western Ontario copy), the first
        sixteen names identical to above, but varying after Madame D'Arblay with some of the same
-       figures amid new names: <list>
+       figures amid new names.</note>
+        <note type="toc">
+       <list>
         <item>Madame de Lavalette</item>
         <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
         <item>the Empress Josephine</item>
@@ -18654,11 +18656,11 @@
         <item>Mrs. Siddons</item>
        </list>
       </note>
-     
+      <note place="unspecified" anchored="yes"> See <ref target="a678" targOrder="U">Robertson
+       </ref> <date>1936.</date></note>
       <note place="unspecified" anchored="yes">
-       <p>British Library copy with the first title, likely to be circa 1870. See title 678 (Mrs.
-        Clyde Robertson, 1936). One catalogue has “1830-1850?,” unlikely dates given Charlotte
-        Bronte's presence in the known tables of contents (famous after 1847, but entering
+       <p>British Library copy with the first title, likely to be circa 1870.  One catalogue has “1830-1850?,” unlikely dates given Charlotte
+        Brontë's presence in the known tables of contents (she was famous after 1847, but entering
         biographies after her death and Gaskell's biography 1855-1857). “Sketches,” including some
         negative examples: “many a wasted life, and many a career exhibiting only mistaken activity
         . . . carries with it its lesson” (iii-iv). First-person anonymous introduction offers the
@@ -18666,19 +18668,19 @@
         that heriosm belongs “with duty and work” they are “types of a class--chosen
         representatives. . . from the mass of that great army of female heroism, whose rank and file
         lie buried, unremembered and unchronicled, in nameless graves beneath the quiet churchyard
-        grass”(4). </p>
+        grass” (4). </p>
        <p>In the edition owned by University of Western Ontario, significant variation appears: a
         different TOC (as noted), and the following two-page Preface: </p><p>"In this gallery of
         “Fifty Famous Women,” it is intended to present lifelike sketches, if not finished
         portraits, of those who have attained celebrity by their own talents or been born to
         emininent positions, and have exhibited qualities which made them memorable. Varied in
-        character as in the positions occupied, the fifty shosen are representatives of the large
+        character as in the positions occupied, the fifty chosen are representatives of the large
         number who as princesses, authoresses, philanthropists, or leaders of society have done
-        honour to their sex; and representatives too of those whose sad histories ecited universal
+        honour to their sex; and representatives too of those whose sad histories excited universal
         interest, although their own characters may have been marked by errors and weaknesses.</p>
        <p>"Humanity is never perfect, and to find fifty persons of either sex for whom we must feel
         unqualified admiration would be difficult; but the lives we have selected for illustration
-        are those of women whose careers may be profitably studied, and many of whom may be takene
+        are those of women whose careers may be profitably studied, and many of whom may be taken
         as models to be studied and imitated by the young.</p>
        <p>"In these days, when the claim of women to a larger share in public and professional
         duties is so earnestly advanced, and their social and intellectual position is so warmly
@@ -18686,7 +18688,7 @@
         enterprise of Fifty Famous Women, who may be considered as representatives of their sex.
         Among them we shall find illustrations of talent, devotion, liberality, and thoughtfulness,
         which entitle them to a place in the ranks of those whom all the world honour." </p>
-       <p>The U Western Ontario copy indicates its later-Victorian origon with is blue cloth cover
+       <p>The University of Western Ontario copy indicates its later-Victorian origin with is blue cloth cover
         stamped with black and red geometric patterns intertwined with red-blossomed black branches.
         On the spine the title and publisher’s name appear in gold bands; on the front cover, the
         title only, with the sort of art-nouveau detailing that might border a Beardsley print. The
@@ -18702,12 +18704,12 @@
         </title>, first published in <date>1881</date> (the year of Carlyle's death). A second
         section features “Gift Books at Three Shillings &amp; Sixpence” in two lists: “The Home
         Treasure Library” (1 page, mostly with coloured illustrations, fiction) and “The Good Worth
-        Library” (2 pages), including most relevantly, Fifty Celebrated Women: Their Virtues and
-        Failings, and the Lessons of Their Lives” and Fifty Celebrated Men:Their Lives and Trials,
-        and the Deeds that Made Them Famous. Some fiction, some other bio collections: Famous Boys.
-        Mary Bunyan, the Daughter of John Bunyan, by Sallie Rochester Ford Bios of President
-        Garfield, of General Gordon; lots of advice and self help “Famous People and Famous Places”
-        “Sacred Heroes and Martyrs” by JT Headley </p>
+        Library” (2 pages), including most relevantly, "Fifty Celebrated Women: Their Virtues and
+        Failings, and the Lessons of Their Lives” and "Fifty Celebrated Men:Their Lives and Trials,
+        and the Deeds that Made Them Famous." Some fiction, some other biographical collections: "Famous Boys";
+        "Mary Bunyan, the Daughter of John Bunyan," by Sallie Rochester Ford; biographies of President
+        Garfield, of General Gordon; lots of advice and self-help; “Famous People and Famous Places”;
+        “Sacred Heroes and Martyrs” by JT Headley.</p>
       </note>
       <hi rend="bold">*Pop Chart</hi>
      </bibl>
@@ -37458,7 +37460,7 @@
         Mrs. Edgar Clarence Ellis, Mrs. William Wallace Chalmers)</item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes">	- 264 pp, with portraits of the featured women. 
+      <note place="unspecified" anchored="yes">264 pp., with portraits of the featured women. 
        Lively, personal, and colloquial, almost as though it's parlor-room gossip. Author professes 
        to hold the "Mirror to Facts - in their curling pins, and without powder on their noses," 
        and many of the author's accounts are from her personal experiences and encounters with the women featured. 
