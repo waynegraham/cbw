@@ -3877,7 +3877,7 @@
         <item>Empress Theodora</item>
         <item>Zenobia</item>
         <item>Katherine of Aragon</item>
-        <item>Anne Boelyn</item>
+        <item>Anne Boleyn</item>
         <item>Mary Tudor</item>
         <item>Mary Queen of Scots</item>
         <item n="LADY_JANE_GREY">Lady Jane Grey</item>
@@ -5803,9 +5803,9 @@
       <note place="unspecified" anchored="yes"> “Embracing historical subjects and ideal portraits
        of the wonderful creations of Shakespeare, Lord Byron, and Sir Walter Scott.” Note Appleton
        title by Mary Cowden Clarke, <ref target="a174" targOrder="U">
-        <hi rend="italics">World-Noted Women</hi>
-       </ref>, <date>1857</date>. Compare <ref target="a112" targOrder="U">Bristol,</ref><ref
-        target="a295" targOrder="U">Finden,</ref> and <ref target="a450" targOrder="U"
+        <hi rend="italics">World-Noted Women,</hi>
+       </ref> <date>1857</date>. Compare <ref target="a112" targOrder="U">Bristol,</ref><ref
+        target="a295" targOrder="U"> Finden,</ref> and <ref target="a450" targOrder="U"
         >Jameson,</ref> for literary heroines. </note>
      </bibl>
      <bibl id="a034" default="NO">
@@ -8005,8 +8005,8 @@
        <date>1846.</date>
       </imprint>
       <note place="unspecified" anchored="yes"> Annual, <title>
-        <hi rend="italics">Heath's Book of Beauty</hi>
-       </title> , begun in <date>1834</date>. Corresponds with <ref target="a462" targOrder="U"
+        <hi rend="italics">Heath's Book of Beauty,</hi>
+       </title> begun in <date>1834</date>. Corresponds with <ref target="a462" targOrder="U"
         >Jerrold</ref>, <ref target="a296" targOrder="U">Finden</ref>, <ref target="a134"
         targOrder="U">Burke</ref>, and <ref target="a452" targOrder="U">Jameson</ref>. "Gallery" is
        a literal and figurative premise for at least seventeen collections in this
@@ -10503,12 +10503,36 @@
        <date>1859;</date>
        <date>1861.</date>
       </imprint>
-      <note place="unspecified" anchored="yes">Chapter Titles: Eras in Woman’s Life; Josephine;
-       Madame de Sévigné; Marie Louise; Suburban Romance; Charlotte Corday; The Fountain Very Far
-       Down; Madame Roland; ”Catch the Sunshine;” Bertram the Lime Burner; Madame Junot; A Mule Ride
-       in Madeira; Madame Récamier; Paul Pyne; Pauline Bonaparte; Caroline Bonaparte; Lost Alice;
-       Madame de Staël; Hortense; Phantoms of Fonainebleau; M’lle Lenormand; Madame Jerome
-       Bonaparte; The Last Picture; Grace Ingersoll; Madame Regnault; M’lle Georges.</note>
+      <note type="chapter_titles">
+       <list>
+        <item>Eras in Woman’s Life</item>
+        <item>Josephine</item>
+        <item>Madame de Sévigné</item>
+        <item>Marie Louise</item>
+        <item>Suburban Romance</item>
+        <item>Charlotte Corday</item>
+        <item>The Fountain Very Far Down</item>
+        <item>Madame Roland</item>
+        <item>"Catch the Sunshine"</item>
+        <item>Bertram the Lime Burner</item>
+        <item>Madame Junot</item>
+        <item>A Mule Ride in Madeira</item>
+        <item>Madame Récamier</item>
+        <item>Paul Pyne</item>
+        <item>Pauline Bonaparte</item>
+        <item>Caroline Bonaparte</item>
+        <item>Lost Alice</item>
+        <item n="MADAME_DE_STAEL">Madame de Staël</item>
+        <item>Hortense</item>
+        <item>Phantoms of Fonainebleau</item>
+        <item>M’lle Lenormand</item>
+        <item>Madame Jerome Bonaparte</item>
+        <item>The Last Picture</item>
+        <item>Grace Ingersoll</item>
+        <item>Madame Regnault</item>
+        <item>M’lle Georges</item>
+       </list>
+       </note>
       <note place="unspecified" anchored="yes">Biographies of women of the Bonaparte family.</note>
       <image n="no951.Josephine">
        <imgName> Josephine</imgName>
@@ -13564,7 +13588,7 @@
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Chapman &amp; Hall,</publisher>
-       <date>1931</date>
+       <date>1931;</date>
        <date>1936.</date>
       </imprint>
       <note type="toc">
@@ -13913,10 +13937,10 @@
       </note>
       <note place="unspecified" anchored="yes"> Author of children's histories of England and
        France; <title>
-        <hi rend="italics">Heroes of European History</hi>
-       </title>; <title>
-        <hi rend="italics">The Art of Living and Other Addresses to Girls</hi>
-       </title>; biographies of male rulers. </note>
+        <hi rend="italics">Heroes of European History;</hi>
+       </title> <title>
+        <hi rend="italics">The Art of Living and Other Addresses to Girls;</hi>
+       </title> biographies of male rulers. </note>
       <image n="no367">
        <imgName>Whitby Abbey</imgName>
        <imgDesc>Whitby Abbey. This was the successor of St. Hilda's building. Photo: Frith &amp;
@@ -20346,7 +20370,7 @@
         <item n="ANN_HASSELTINE_JUDSON">Anne Hasseltine Judson</item>
         <item n="CHARLOTTE_BRONTE">Charlotte Bronte</item>
         <item n="QUEEN_VICTORIA">Victoria</item>
-        <item>Eugenie. </item>
+        <item>Eugenie</item>
        </list>
        <note place="unspecified" anchored="yes">
         <hi rend="bold">*Pop Chart</hi></note>
@@ -24801,7 +24825,7 @@
       <idno>a416</idno>
       <author><name type="last">Hoppner</name>, <name type="first">John</name>; <name type="first"
         >Charles</name>
-       <name type="last">Wilkin</name>, and <name type="first">Andrew White</name>
+       <name type="last">Wilkins</name>, and <name type="first">Andrew White</name>
        <name type="last">Tuer</name>.</author>
       <title type="ref">
        <hi rend="italics">Bygone Beauties: A Select Series of Ten Portraits of Ladies of Rank and
@@ -24843,7 +24867,7 @@
       <note place="unspecified" anchored="yes"> WorldCat: London, Field &amp; Tuer [etc.]; New York,
        Scribner &amp; Welford, <date>n.d.</date> See <ref target="a883" targOrder="U">Willing</ref>.
        Hoppner (<date>1758-1810</date>) emulated Reynolds, popular portrait painter. Reproducing his
-       “A Select Series of Poratirs of Ladies of Rank and Fashion” (n.p.), engraved by Wilkins and
+       “A Select Series of Portraits of Ladies of Rank and Fashion” (n.p.), engraved by Wilkins and
        issued in five numbers, <date>1797-1803</date>, purchased (<date>1883?</date>) as part of
        Hoare's Stourhead Library (n.p. prefatory text by Tuer, expert on engraving). </note>
      </bibl>
