@@ -8819,15 +8819,15 @@
         <item>Margaret Fuller Ossoli</item>
         <item>Louisa May Alcott</item>
         <item>Frances Willard</item>
-        <item>Emily Dickinson. *Pop Chart</item>
+        <item>Emily Dickinson</item>
        </list>
       </note>
       <note place="unspecified" anchored="yes"> “A group of women who were mainly notable for their
        own achievements, quite independent of the other sex” (Preface, <title>
-        <hi rend="italics">Wives</hi>
-       </title>, xi, re <title>
-        <hi rend="italics">Portraits of American Women</hi>
-       </title>). </note>
+        <hi rend="italics">Wives,</hi>
+       </title> xi, re <title>
+        <hi rend="italics">Portraits of American Women).</hi>
+       </title></note>
       <image n="no813">
        <imgName>Abigail Smith Adams</imgName>
        <imgDesc>Abigail Smith Adams</imgDesc>
@@ -9096,8 +9096,8 @@
        <date>1919.</date>
       </imprint>
       <xref targOrder="U" from="ROOT" to="DITTO">Also listed under Fortescue-Brickdale, and as <title>
-        <hi rend="italics">Eleanor Fortesque Brickdale's Golden Book of Famous Women</hi>
-       </title>.</xref>
+        <hi rend="italics">Eleanor Fortesque Brickdale's Golden Book of Famous Women.</hi>
+       </title></xref>
       <note place="unspecified" anchored="yes"> NOT=fiction. A mix of historical fiction and
        biography, including literary heroines. Elegant album in blue cloth with golden lettering and
        decoration: a frieze of early-modern figures strolling through an orchard on the front cover.
@@ -9391,9 +9391,10 @@
         <item>Theresa of Avila</item>
         <item>Elizabeth of Tudor</item>
         <item>Christina of Sweden</item>
-        <item n="POCAHONTAS">Ma-ta-oka of Powha-tan. *Pop Chart</item>
+        <item n="POCAHONTAS">Ma-ta-oka of Powha-tan</item>
        </list>
-      </note>
+       <hi rend="bold">*Pop Chart</hi>
+      </note>      
      </bibl>
      <bibl id="a115" default="NO">
       <ref targOrder="U">115.</ref>
@@ -9603,8 +9604,9 @@
         <item>California Colored Women Trail Blazers</item>
         <item>Sarah G. Jones</item>
         <item>Marietta Chiles</item>
-        <item>Eliza P. Fox. *Pop Chart</item>
+        <item>Eliza P. Fox</item>
        </list>
+       <hi rend="bold">*Pop Chart</hi>
       </note>
       <note place="unspecified" anchored="yes"> African American subjects, compiled by the educator
        and elocutionist. </note>
