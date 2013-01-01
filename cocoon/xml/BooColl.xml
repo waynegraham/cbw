@@ -9378,6 +9378,7 @@
        <date>1904;</date>
        <date>1915.</date>
       </imprint>
+      <note place="unspecified" anchored="yes"><hi rend="bold">*Pop Chart</hi></note>
       <note type="toc">
        <list>
         <item>Zenobia of Palmyra</item>
@@ -9393,7 +9394,6 @@
         <item>Christina of Sweden</item>
         <item n="POCAHONTAS">Ma-ta-oka of Powha-tan</item>
        </list>
-       <hi rend="bold">*Pop Chart</hi>
       </note>      
      </bibl>
      <bibl id="a115" default="NO">
@@ -9606,10 +9606,9 @@
         <item>Marietta Chiles</item>
         <item>Eliza P. Fox</item>
        </list>
-       <hi rend="bold">*Pop Chart</hi>
-      </note>
+       </note>
       <note place="unspecified" anchored="yes"> African American subjects, compiled by the educator
-       and elocutionist. </note>
+       and elocutionist. <hi rend="bold">*Pop Chart</hi></note>
      </bibl>
      <bibl id="a121" default="NO">
       <ref targOrder="U">121.</ref>
@@ -9700,6 +9699,7 @@
        <publisher>Cassell, Petter, and Galpin,</publisher>
        <date>1878.</date>
       </imprint>
+      <note place="unspecified" anchored="yes"><hi rend="bold">*Pop Chart</hi></note>
       <note type="toc">
        <list>
         <item>Anne Askew</item>
@@ -9738,9 +9738,9 @@
         <item>Sarah Siddons</item>
         <item>Felicia Hemans</item>
         <item>L.E. Landon</item>
-        <item>Maria Edgeworth. *Pop Chart</item>
+        <item>Maria Edgeworth</item>
        </list>
-      </note>
+       </note>
      </bibl>
      <bibl id="a126" default="NO">
       <ref targOrder="U">126.</ref>
