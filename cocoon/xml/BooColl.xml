@@ -10468,7 +10468,6 @@
       <editor role="translator"><name type="title">Rev.</name>
        <name type="first">Edward</name>
        <name type="last">Peach</name>.</editor>
-      <title type="search"> Young Ladies' Mirror </title>
       <imprint>
        <pubPlace>Philadelphia:</pubPlace>
        <publisher>M. Fithian,</publisher>
@@ -10750,7 +10749,6 @@
        <hi rend="italics">Lives of Eminent Women and Tales for Girls, from Chambers’
         Miscellany.</hi>
       </title>
-      <title type="search"> Lives of Eminent Women and Tales for Girls </title>
       <imprint>
        <pubPlace>London and</pubPlace>
        <pubPlace>Edinburgh:</pubPlace>
@@ -11506,7 +11504,6 @@
         Recorded by the Evangelists: Selected from the Works of Chrysostom, Augustine, Calvin,
         Jeremy Taylor, and Other Writers.</hi>
       </title>
-      <title type="search"> The Female Martyrs of the English Reformation </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Seeley, Jackson &amp; Halliday,</publisher>
@@ -11603,8 +11600,7 @@
       <idno>a169</idno>
       <author><name type="last">Child</name>, <name type="first">Lydia Maria
        Francis</name>.</author>
-      <title type="search"> Biographies of Lady Russell and Madame </title>
-      <title type="ref">
+       <title type="ref">
        <hi rend="italics">Biographies of Lady Russell and Mme. Guyon.</hi>
       </title> Ladies' Family Library, ed. Lydia Child, vol. 2. <imprint>
        <pubPlace>Boston:</pubPlace>
@@ -11959,7 +11955,6 @@
         Concordance to Shakespear,” ETC., ETC. Illustrated with seventeen engravings on Steel, from
         Original designs by Charles Staal.</hi>
       </title>
-      <title type="search"> World-Noted Women; or, Types of Womanly Attributes </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>Appleton,</publisher>
@@ -13206,7 +13201,6 @@
         <date>1861-[1938]</date>.</hi>
       </title>
       <extent rend="vols">6 vols.</extent>
-      <title type="search"> Biographies of Representative Women of the South </title>
       <imprint>
        <pubPlace>[College Park? GA]:</pubPlace>
        <publisher>Margaret Collier,</publisher>
@@ -13250,7 +13244,6 @@
       <title type="ref">
        <hi rend="italics">A Garden of Girls; or, Famous Schoolgirls of Former Days.</hi>
       </title>
-      <title type="search"> A garden of girls </title>
       <imprint>
        <pubPlace>London and</pubPlace>
        <pubPlace>New York:</pubPlace>
@@ -27255,14 +27248,14 @@
         >Blessington</ref>, <ref target="a296" targOrder="U">Finden</ref>, <ref target="a134"
         targOrder="U">Burke</ref>, and <ref target="a452" targOrder="U">Jameson</ref>. "Gallery" is
        a literal and figurative premise for at least seventeen collections in this bibliography.
-       Clare Jerrold also wrote three individual biographies of Victoria. </note>
+       Clare Jerrold also wrote three individual biographies of Victoria. Queen Victoria is a Featured Subject, and all chapters in this collection refer to her biography.</note>
       <note type="toc">
        <list>
         <item>Princess Victoria's Relatives</item>
         <item>Princess Victoria's Mother and Uncle</item>
         <item>Princess Victoria's Tuition in Politics</item>
         <item>Princess Victoria's Suitors</item>
-        <item>Queen Victoria's Accession</item>
+        <item n="QUEEN_VICTORIA">Queen Victoria's Accession</item>
         <item>Queen Victoria's Advisers</item>
         <item>Queen Victoria's Circle</item>
         <item>Queen Victoria's Prime Minister</item>
@@ -31025,7 +31018,6 @@
       <title type="ref">
        <hi rend="italics">Enchanters of Men, With Twenty-Four Illustrations.</hi>
       </title>
-      <title type="search">Enchanters of Men, mayne </title>
       <imprint>
        <pubPlace>Philadelphia:</pubPlace>
        <publisher>Jacobs,</publisher>
@@ -31105,8 +31097,7 @@
       <author><name type="last">McNeill</name>, <name type="first">William</name>.</author>
       <title type="ref"><hi rend="italics">The Noble Women of the Staircase and Atrium Windows in
         the Lady Chapel of the Liverpool Cathedral</hi>.</title>
-      <title type="search">The Noble Women of the Staircase </title>
-      <imprint>
+       <imprint>
        <pubPlace>Liverpool:</pubPlace>
        <publisher>Daily Post,</publisher>
        <date>1915.</date>
@@ -31182,7 +31173,6 @@
       <imprint>
        <date>n.d.</date>
       </imprint>
-      <title type="search">Maids of Honour</title>
       <note type="toc">
        <list>
         <item>Caroline of Anspach</item>
@@ -31569,7 +31559,6 @@
       <title type="ref">
        <hi rend="italics">Heroines: True Tales of Brave Women: A Book for British Girls.</hi>
       </title>
-      <title type="search">Heroines: True Tales of Brave Women: A Book for British Girls </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>S. W. Partridge,</publisher>
@@ -32455,7 +32444,6 @@
         of the Most Famous Belles of Cupid's Court for Two Centuries.</hi>
       </title>
       <edition>11th ed.,</edition>
-      <title type="search">Folly's Queens; or Women Whose Loves Have Ruled </title>
       <imprint>
        <pubPlace>[New York]:</pubPlace>
        <publisher>Fox,</publisher>
@@ -32510,7 +32498,6 @@
       <title type="ref">
        <hi rend="italics">The Work of Afro-American Women</hi>
       </title>
-      <title type="search">The Work of Afro-American Women </title>
       <imprint>
        <date>(1894).</date>
       </imprint>
@@ -32799,7 +32786,6 @@
       <title type="ref">
        <hi rend="italics">Women in India: Who's Who?</hi>
       </title>
-      <title type="search">Women in India who's who </title>
       <imprint>
        <pubPlace>Bombay:</pubPlace>
        <publisher>n.p.,</publisher>
@@ -32844,7 +32830,6 @@
       <title type="ref">
        <hi rend="italics">Women of Hawaii.</hi>
       </title>
-      <title type="search">Women of Hawaii </title>
       <imprint>
        <pubPlace>[Honolulu]:</pubPlace>
        <publisher>Langton Boyle,</publisher>
@@ -32885,7 +32870,6 @@
        Banks</name>,</editor> ed. <title type="ref">
        <hi rend="italics">Prominent Women of Georgia.</hi>
       </title>
-      <title type="search">Prominent Women of Georgia </title>
       <imprint>
        <pubPlace>Atlanta:</pubPlace>
        <publisher>National Biographical,</publisher>
@@ -35696,7 +35680,6 @@
        <hi rend="italics">Maids of Honour: A Tale of the Court of George I.</hi>
       </title>
       <extent rend="vols">3 vols.,</extent>
-      <title type="search"> Maids of Honour: A Tale of the Court of George I </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Colburn,</publisher>
@@ -37065,7 +37048,6 @@
       <title type="ref">
        <hi rend="italics">Queens of the Renaissance. With Twenty-Four Illustrations.</hi>
       </title>
-      <title type="search">Queens of the Renaissance Ryley </title>
       <imprint>
        <pubPlace>London:</pubPlace>
        <publisher>Methuen;</publisher>
