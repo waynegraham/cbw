@@ -7146,8 +7146,17 @@
        <publisher>Brentano,</publisher>
        <date>1909.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> [French, Italian, Spanish subjects, no duplication
-       of above]. </note>
+      <note type="toc">
+       <list>
+        <item>Marie Adélaïde de Savoie, Duchess of Burgundy</item>
+        <item>Madame Adélaïde, Daughter of Louis XV</item>
+        <item>Maria Luisa, Infanta of Spain, Daughter of Carlos IV., Wife of Carlo Ludovico of Parma, King of Etruria</item>
+        <item>Marie Amélie Thérèse of Naples, Wife of Louis Philippe, King of the French</item>
+       </list>
+      </note>
+      <note place="unspecified" anchored="yes">French, Italian, Spanish subjects, no duplication
+       of <ref target="a065" targOrder="U"
+        ><hi>a065</hi>. Each subject gets 10-12 chapters that intertwine many people in the royal houses.</ref></note>
       <image n="no680">
        <imgName>Marie Adelaide de Savoie</imgName>
        <imgDesc>Marie Adelaide de Savoie, Duchess of Burgundy</imgDesc>
