@@ -12,7 +12,8 @@
 	<xsl:template match="/">
 		<html>
 			<head>
-				<link type="text/css" href="style.css" rel="stylesheet"/>
+        <link type="text/css" href="style.css" rel="stylesheet"/>
+        <link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css" rel="stylesheet" />
 				<title>The Collective Biographies of Women: Preface</title>
 				<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 				<script src="javascript/jcarousel/lib/jquery.jcarousel.pack.js" type="text/javascript"/>
@@ -88,7 +89,7 @@
 										<div>Collective Biographies of Women is a project of Alison Booth, Professor, <a href="http://www.engl.virginia.edu">Department of English of the University of Virginia 
 </a> and Associate Fellow, <a href="http://www.iath.virginia.edu">Institute for Advanced Technology in the Humanities</a>. It is part of <a href="http://www.nines.org">NINES</a>, a 
 consortium of digital scholarship in nineteenth-century studies.  The <a href="http://lib.virginia.edu/scholarslab/">Scholars' Lab</a> supports digital scholarship through the <a href="http://lib.virginia.edu">University of Virginia Library</a>.</div>
-										<a href="mailto:ab6j@virginia.edu" style="color:#531B15;">Contact us <img src="http://www.scholarslab.org/wp-content/themes/oulipo2/images/mail.png" alt="contact"/></a>
+										<a href="mailto:ab6j@virginia.edu" style="color:#531B15;">Contact us <i class="icon-envelope-alt"></i></a>
 									</div>
 								</div>
 							</div>
