@@ -14,7 +14,7 @@
 			<head>
 				<link type="text/css" href="style.css" rel="stylesheet"/>
 				<title>The Collective Biographies of Women: Preface</title>
-				<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+				<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 				<script src="javascript/jcarousel/lib/jquery.jcarousel.pack.js" type="text/javascript"/>
 				<script type="text/javascript">
 					$(function() {
