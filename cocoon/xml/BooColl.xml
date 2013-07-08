@@ -2181,15 +2181,15 @@
         <item>The GOLDEN CHARACTER Of a VIRTUOUS WOMAN In all her CAPACITIES</item>
         <item>THE CHARACTER Of a VIRTUOUS WIFE</item>
         <item>THE CHARACTER Of a VIRTUOUS WIDOW</item>
-       </list>
-       <note place="unspecified" anchored="yes">Text in Argument contents: The Introduction to the Reasons and Arguments, &amp;
-        Reasons and Arguments for the Capaci∣ties of the Soul of Women, &amp; In Relation to Learning, Arts, and Sciences. &amp;
-        Reasons drawn from the Immortality and wonderful Operation of the Soul, more fully proving the Excellency of Woman-kind.
-        The Happiness that accrues to Man in the possession of so great a Blessing as a Virtuous Woman.
-        The Reasons why Mans Happiness is not compleat on Earth without the Charm∣ing Creature Woman.
-       </note>          
+       </list>         
        
       </note>
+      <note place="unspecified" anchored="yes">Text in Argument contents: The Introduction to the Reasons and Arguments, &amp;
+       Reasons and Arguments for the Capaci∣ties of the Soul of Women, &amp; In Relation to Learning, Arts, and Sciences. &amp;
+       Reasons drawn from the Immortality and wonderful Operation of the Soul, more fully proving the Excellency of Woman-kind.
+       The Happiness that accrues to Man in the possession of so great a Blessing as a Virtuous Woman.
+       The Reasons why Mans Happiness is not compleat on Earth without the Charm∣ing Creature Woman.
+      </note>   
       <image n="no30">
        <imgName>Catherine de Medici</imgName>
       </image>
@@ -7857,9 +7857,48 @@
       </imprint>
       <note type="toc">
        <list>
-        <item>vol. 1: Early Irish Period</item>
+        <item>vol. 1: Early Irish Period Introductory Chapter</item>
+        <item>Queen Macha</item>
+        <item>Queen Méave</item>
+        <item>Saint Brigit</item>
+        <item>Dearbhforguill</item>
+        <item>Eva, Princess of Leinster</item>
         <item>Mediaeval Period</item>
-        <item>Famous Actresses. vol. 2: Literary Women</item>
+        <item>Margaret O'Carroll</item>
+        <item>The Old Countess of Desmond</item>
+        <item>The Fair Geraldine</item>
+        <item>Grainne O'Mailly</item>
+        <item>Lettice, Baroness Ophaly</item>
+        <item>La Bell Hamilton</item>
+        <item>Famous Actresses</item>
+        <item>Margarte Woffington</item>
+        <item>George Anne Bellamy</item>
+        <item>"Perdita" (Mrs. Robinson)</item>
+        <item>Kitty Clive</item>
+        <item>Dorothy Jordan</item>
+        <item>Elizabeth Farren</item>
+        <item>Maria Pope</item>
+        <item>Miss O'Neill</item>
+        <item>Catherine Hayes</item>
+        <item>vol. 2: Literary Women</item>
+        <item>Susanna Centlivre</item>
+        <item>The Honourable Mrs. Monk</item>
+        <item>Constantia Grierson</item>
+        <item>Charlotte Brooke</item>
+        <item>Mrs. Mary Tighe</item>
+        <item>Mary Boyle (Countess of Warwick)</item>
+        <item>Henrietta Boyle (Lady O'Neil)</item>
+        <item>Maria Edgeworth</item>
+        <item>Felicia Dorothea Hemans</item>
+        <item>The Miss Porter</item>
+        <item>Sydney, Lady Morgan</item>
+        <item>Marguerite, Countess of Blessington</item>
+        <item>Eliza Ryves</item>
+        <item>Helen Selina, Countess of Dufferin</item>
+        <item>Lady Stirling-Maxwell</item>
+        <item></item>
+        <item></item>
+        <item></item>
         <item>Miscellaneous</item>
        </list>
       </note>
@@ -40507,18 +40546,18 @@
       </title> With Portraits. <extent rend="vols">4 vols.</extent>
       <imprint>
        <pubPlace>London:</pubPlace>
-       <publisher>SPCK,</publisher>
-       <date>1925.</date>
-      </imprint>
-      <extent rend="vols">2 vols.,</extent>
-      <imprint>
-       <pubPlace>London,</pubPlace>
-       <pubPlace>New York, and</pubPlace>
+       <publisher>Sheldon (SPCK),</publisher>
+       <date>1925;</date>
+       <date>1927;</date>
+       <date>1929.</date>      
+       <pubPlace>New York,</pubPlace>
        <pubPlace>Toronto:</pubPlace>
-       <publisher>Sheldon, Macmillan,</publisher>
-       <date>1925-33.</date>
+       <publisher>Macmillan,</publisher>
+       <date>1925,</date>
+       <date>1927,</date>
+       <date>1929.</date>
       </imprint>
-      <note type="toc">
+        <note type="toc">
        <list>
         <item n="ELIZABETH_FRY">vol. or series I: Elizabeth Fry</item>
         <item>Elizabeth Blackwell</item>
@@ -40539,10 +40578,11 @@
        <hi rend="italics">Pioneer Women. 2d ser.</hi>
       </title>
       <imprint>
-       <pubPlace>London,</pubPlace>
-       <pubPlace>New York, and</pubPlace>
+       <pubPlace>London:</pubPlace>
+       <publisher>Sheldon;</publisher>
+       <pubPlace>New York,</pubPlace>
        <pubPlace>Toronto:</pubPlace>
-       <publisher>Sheldon, Macmillan,</publisher>
+       <publisher>Macmillan,</publisher>
        <date>1925;</date>
        <date>1927;</date>
        <date>1929.</date>
@@ -40566,10 +40606,10 @@
        <hi rend="italics">Pioneer Women. 3d ser.</hi>
       </title>
       <imprint>
-       <pubPlace>London,</pubPlace>
-       <pubPlace>New York, and</pubPlace>
-       <pubPlace>Toronto:</pubPlace>
+       <pubPlace>London:</pubPlace>
        <publisher>Sheldon;</publisher>
+       <pubPlace>New York,</pubPlace>
+       <pubPlace>Toronto:</pubPlace>       
        <publisher>Macmillan,</publisher>
        <date>1930.</date>
       </imprint>
