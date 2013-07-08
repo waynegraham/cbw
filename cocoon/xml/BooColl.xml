@@ -2096,35 +2096,9 @@
        <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 26.</xref>
-     </bibl>
-     <bibl id="c016" default="NO">
-      <idno>c016</idno>
-      <date>1671.</date>
-      <author><name type="last">Barton</name>, <name type="first">William</name></author>
-      <title type="ref">
-       <hi rend="italics">A Catalogue of Virtuous Women recorded in the Old and New Testament.</hi>
-      </title>
-      <imprint>
-       <pubPlace>London:</pubPlace>
-       <publisher>printed by W. Goodbid for William Cooper at Pelican in Little-Britain.</publisher>
-      </imprint>
-     </bibl>
-     <bibl id="c017" default="NO">
-      <idno>c017</idno>
-      <date>1686.</date>
-      <author>[<name type="last">Shirley</name>, <name type="first">John</name>].</author>
-      <title type="ref">
-       <hi rend="italics">The Illustrious History of Women.</hi>
-      </title>
-      <imprint>
-       <pubPlace>London:</pubPlace>
-       <publisher>J. Harris.</publisher>
-      </imprint>
-      <xref targOrder="U" from="ROOT" to="DITTO">See <title>
-        <hi rend="italics">How To Make It as a Woman,</hi>
-       </title> 27.</xref>
       <note type="toc">
        <list>
+        <item></item>
         <item>Anne de Bretagne</item>
         <item>Catherine de Medici</item>
         <item>Marie Stuart, Queen of Scotland</item>
@@ -2156,6 +2130,65 @@
         <item>Catherine de Cleves, Wife of Henri I de Lorraine, Duc de Guise</item>
         <item>Madame de Bourdeille</item>
        </list>
+      </note>
+     </bibl>
+     <bibl id="c016" default="NO">
+      <idno>c016</idno>
+      <date>1671.</date>
+      <author><name type="last">Barton</name>, <name type="first">William</name></author>
+      <title type="ref">
+       <hi rend="italics">A Catalogue of Virtuous Women recorded in the Old and New Testament.</hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>printed by W. Goodbid for William Cooper at Pelican in Little-Britain.</publisher>
+      </imprint>
+     </bibl>
+     <bibl id="c017" default="NO">
+      <idno>c017</idno>
+      <date>1686.</date>
+      <author>[<name type="last">Shirley</name>, <name type="first">John</name>].</author>
+      <title type="ref">
+       <hi rend="italics">The Illustrious History of Women.</hi>
+      </title>
+      <imprint>
+       <pubPlace>London:</pubPlace>
+       <publisher>J. Harris.</publisher>
+      </imprint>
+      <xref targOrder="U" from="ROOT" to="DITTO">See <title>
+        <hi rend="italics">How To Make It as a Woman,</hi>
+       </title> 27.</xref>
+      <note type="toc">
+       <list>
+        <item>The PREFACE TO THE READER</item>
+        <item>To the LADIES the Authors APOLOGY</item>
+        <item>THE INTRODUCTION</item> 
+        <item>Examples: Of Chast-Love</item>
+        <item>Of Chastity</item> 
+        <item>Of Piety</item>
+        <item>Of Liberality</item>
+        <item>Of Humility</item>
+        <item>Of Patience</item>
+        <item>Of Steadfastness</item>
+        <item>Of Modesty</item>
+        <item>Of Temperance</item>
+        <item>Of Learning</item>
+        <item>Women skill'd in Painting</item>
+        <item>Women skill'd in Weaving</item>
+        <item>Of Courage and Conduct in War</item>
+        <item>Of Loyal Women</item>
+        <item>Argument</item>
+        <item>The GOLDEN CHARACTER Of a VIRTUOUS WOMAN In all her CAPACITIES</item>
+        <item>THE CHARACTER Of a VIRTUOUS WIFE</item>
+        <item>THE CHARACTER Of a VIRTUOUS WIDOW</item>
+       </list>
+       <note place="unspecified" anchored="yes">Text in Argument contents: The Introduction to the Reasons and Arguments, &amp;
+        Reasons and Arguments for the Capaci∣ties of the Soul of Women, &amp; In Relation to Learning, Arts, and Sciences. &amp;
+        Reasons drawn from the Immortality and wonderful Operation of the Soul, more fully proving the Excellency of Woman-kind.
+        The Happiness that accrues to Man in the possession of so great a Blessing as a Virtuous Woman.
+        The Reasons why Mans Happiness is not compleat on Earth without the Charm∣ing Creature Woman.
+       </note>          
+       
       </note>
       <image n="no30">
        <imgName>Catherine de Medici</imgName>
