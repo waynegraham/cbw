@@ -2082,17 +2082,18 @@
        <publisher>Lamb Publishing,</publisher>
        <date>1912</date>
       </imprint>
-      <note place="unspecified" anchored="yes">
-       <ref target="a696" targOrder="U">(see Sainte-Beuve).</ref>
-      </note>
-      <title>
-       <hi rend="italics">Lives of Gallant Ladies: Suggestive Stories for Lovers.</hi>
-      </title>
+      <edition>Adapted</edition> as <title>
+       <hi rend="italics">Lives of Gallant Ladies: Suggestive Stories for Lovers,</hi>
+      </title> 
       <imprint>
-       <pubPlace>Paris,</pubPlace>
-       <date>[1935].</date>
+       <pubPlace>Paris</pubPlace>
+       <publisher>n.p.,</publisher>
+       <date>1935.</date>
       </imprint>
-      <xref targOrder="U" from="ROOT" to="DITTO">See <title>
+      <note place="unspecified" anchored="yes">
+       <ref target="a696" targOrder="U">See Sainte-Beuve.</ref>  Table of contents for c015 in database derives from a696 published in 1899.
+      </note>    
+       <xref targOrder="U" from="ROOT" to="DITTO">See <title>
         <hi rend="italics">How To Make It as a Woman,</hi>
        </title> 26.</xref>
      </bibl>
