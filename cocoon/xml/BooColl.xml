@@ -7869,9 +7869,9 @@
         <item>The Fair Geraldine</item>
         <item>Grainne O'Mailly</item>
         <item>Lettice, Baroness Ophaly</item>
-        <item>La Bell Hamilton</item>
+        <item>La Belle Hamilton</item>
         <item>Famous Actresses</item>
-        <item>Margarte Woffington</item>
+        <item>Margaret Woffington</item>
         <item>George Anne Bellamy</item>
         <item>"Perdita" (Mrs. Robinson)</item>
         <item>Kitty Clive</item>
@@ -7890,7 +7890,7 @@
         <item>Henrietta Boyle (Lady O'Neil)</item>
         <item>Maria Edgeworth</item>
         <item>Felicia Dorothea Hemans</item>
-        <item>The Miss Porter</item>
+        <item>The Misses Porter</item>
         <item>Sydney, Lady Morgan</item>
         <item>Marguerite, Countess of Blessington</item>
         <item>Eliza Ryves</item>
@@ -7901,8 +7901,7 @@
         <item>The Beautiful Gunnings</item>
         <item>The Ladies of Llangollen</item>
         <item>Lady Louisa Conolly</item>
-        <item>Sarah Curran</item>
-        
+        <item>Sarah Curran</item>        
        </list>
       </note>
       <note place="unspecified" anchored="yes"> Also catalogued under Casey. </note>
@@ -25641,23 +25640,26 @@
       <note place="unspecified" anchored="yes">British Library.</note>
       <note type="toc">
        <list>
-        <item>Eve</item>
-        <item>Sarah</item>
+        <item>Monica, Mother of Augustine</item>
+        <item>Anne Askew</item>
         <item>Miriam</item>
-        <item>Naomi</item>
-        <item>Oprah and Ruth</item>
-        <item>Ruth</item>
-        <item>The Widow of Sarepta</item>
-        <item>Mary and Elisabeth</item>
-        <item>The Virgin Mary</item>
-        <item>Anna the Prophetess</item>
-        <item>Mary Magdalene and the other Ministering Women</item>
-        <item>The Woman of Canaan</item>
-        <item>Martha and Mary</item>
-        <item>Mary and Rhoda</item>
-        <item>Dorcas</item>
-        <item>Lydia</item>
-        <item>The Women Mentioned in St. Paul’s Epistles</item>
+        <item>Queen Catherine Parr</item>
+        <item>Olympia Morata</item>
+        <item>Jane, Queen of Navarre</item>
+        <item>Lady Mary Langham</item>
+        <item>Lady Brooke</item>
+        <item>Queen Mary II</item>
+        <item>Mrs Bury</item>
+        <item>Rachel, Lady Russell</item>
+        <item>Mrs Rowe</item>
+        <item>Mrs Steel</item>
+        <item>The Countess of Huntingdon</item>
+        <item>Lady Glenorchy</item>
+        <item>Miss Jane Taylor</item>
+        <item>Mademoiselle Cuvier</item>
+        <item>Miss Mary Jane Graham</item>
+        <item>Mrs Hannah More</item>
+        <item>Mrs Wilson</item>
        </list>
       </note>
      </bibl>
@@ -27510,7 +27512,9 @@
       </note>
       <note place="unspecified" anchored="yes"> Walter Jerrold author of <title>
         <hi rend="italics">A Book of Famous Wits, Henry VIII and His Wives</hi>
-       </title>. </note>
+       </title>. This book names the Windsor Beauties and the Beauties of Hampton Court, usually by the
+      maiden surname that appears to be the title of the painting by Lely, Kneller, etc.  A range of them are
+      very rare persons in CBW, albeit historically well known and of high rank.</note>
      </bibl>
      <bibl id="a464" default="NO">
       <ref targOrder="U">464.</ref>
