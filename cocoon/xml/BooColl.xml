@@ -6083,30 +6083,45 @@
       <author><name type="last">Ashton</name>, <name type="first">Sophia Goodrich</name>.</author>
       <title type="ref">
        <hi rend="italics">The Girlhood of Celebrated Women: Women of Worth and the Mothers of the
-        Bible. 2 vols. In 1.</hi>
+        Bible. Illustrated. 2 vols. in 1.</hi>
       </title>
       <imprint>
        <pubPlace>New York:</pubPlace>
        <publisher>World,</publisher>
+       <date>1876,</date>
        <date>1877.</date>
       </imprint>
       <note type="toc">
        <list>
-        <item n="CHARLOTTE_BRONTE">“Women of Worth,” TOC: Charlotte Bronté [sic]</item>
+        <item>Mary Washington</item>
+        <item>Martha Washington</item>
+        <item n="CHARLOTTE_BRONTE">Charlotte Bronté [sic]</item>
+        <item n="ELIZABETH_FRY">Elizabeth Fry</item>
         <item>Sarah Martin</item>
+        <item>Margaret Mercer</item>
         <item>Sarah Boardman Judson</item>
         <item n="LADY_RACHEL_RUSSELL">Lady Rachel Russell</item>
+        <item>Lucy Hutchinson</item>
         <item>Isabel the Catholic</item>
         <item>Mrs. Elizabeth Rowe</item>
         <item>Maria Theresa</item>
+        <item>Madame Oberlin</item>
+        <item>Ann Letitia Barbauld</item>
+        <item>Rebecca Motte</item>
+        <item>Madame Necker</item>
         <item n="CAROLINE_HERSCHEL">Caroline Herschel</item>
+        <item n="HANNAH_MORE">Hannah More</item>
         <item>Mrs. Flaxman</item>
+        <item>Mrs. Wordsworth</item>
+        <item>Harriet Newell</item>
+        <item>Sarah Lanman Smith</item>
         <item>Lady Warwick</item>
         <item>Lady Mackintosh</item>
        </list>
       </note>
-      <note place="unspecified" anchored="yes"> One of many volumes marketing girlhood/childhood.
-       “Mothers of the Bible” is the volume by <ref target="a038" targOrder="U">Sophia Goodrich
+      <note place="unspecified" anchored="yes"> One of many volumes marketing girlhood/childhood, yet the 
+       narratives are not confined to early episodes in the lives.  The chapter titles (accessible in Internet 
+       Archive copy of 1877 edition, indicate the women's roles. “Mothers of the Bible” is the volume by <ref target="a038" targOrder="U">Sophia Goodrich
         Ashton</ref>. </note>
      </bibl>
      <bibl id="a038" default="NO">
