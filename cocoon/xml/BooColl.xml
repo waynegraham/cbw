@@ -47249,9 +47249,9 @@
      </bibl>
      <bibl id="p016A" default="NO">
       <idno>p016A</idno>
-      <author><name type="last">Boccaccio</name>, <name type="first">Giovanni</name>,<name
-        type="first">Lord Henry Parker</name><name type="last">Morley</name>, and <name type="first"
-        >Herbert G.</name><name type="last">Wright, ed.</name></author>
+      <author><name type="last">Boccaccio</name>,<name type="first">Giovanni</name></author>
+      <editor role="editor">,<name type="first">Lord Henry Parker</name><name type="last">Morley</name>, and <name type="first"
+        >Herbert G.</name><name type="last">Wright, ed.</name></editor>
       <title type="ref">
        <hi rend="italics">Forty-Six Lives.</hi>
       </title>
@@ -47263,6 +47263,9 @@
       </imprint>
       <note place="unspecified" anchored="yes"> Translated from Giovanni Boccaccio's (1313-1375) <hi
         rend="italics">De Claris Mulieribus</hi> by Lord Henry Parker Morley. </note>
+      <note place="unspecified" anchored="yes">
+       <ref target="c002" targOrder="U">See Boccaccio's <hi rend="italics">De Claris Mulieribus</hi> of 1361-1375, c002.</ref>
+      </note>
      </bibl>
      <bibl id="p017" default="NO">
       <idno>p017</idno>
