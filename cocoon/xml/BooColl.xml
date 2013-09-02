@@ -33019,7 +33019,7 @@
       <ref targOrder="U">593.</ref>
       <idno>a593</idno>
       <author><name type="last">Murch</name>, <name type="title">Sir</name>
-       <name type="first">Jerome</name>.</author>
+       <name type="first">Jerom</name>.</author>
       <title type="ref">
        <hi rend="italics">Mrs. Barbauld and Her Contemporaries: Sketches of Some Eminent Literary
         and Scientific Englishwomen.</hi>
@@ -33035,6 +33035,25 @@
        <date>1877;</date>
        <date>[1887?]</date>
       </imprint>
+      <note type="toc">
+       <list>
+        <item>Hannah More</item>
+        <item>Miss Jane Austen</item>
+        <item>Miss Edgeworth</item>
+        <item>Mrs. Marcet</item>
+        <item>Miss Mitford</item>
+        <item>Miss Jane Porter</item>
+        <item>Madame D'Arblay</item>
+        <item>Mrs. Elizabeth Montagu</item>
+        <item>Miss Berry</item>
+        <item>Miss Joanna Baillie</item>
+        <item>Mrs. Barbauld's Descent and Training; Marriage and School at Palgrave; 
+         Earliest Publications; Continental Journey and Life at Hampstead; Close of Life</item>
+        <item>Appendix: Mrs. Barbauld; Hannah More; Mrs. Trimmer; Mrs. Piozzi; Sophia and Harriet Lee; Ann Radcliffe;
+         Lady Morgan; Mary Somerville; Caroline Herschel.
+        </item>
+       </list>
+      </note>
      </bibl>
      <bibl id="a594" default="NO">
       <ref targOrder="U">594.</ref>
