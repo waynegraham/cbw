@@ -53215,9 +53215,27 @@
        <pubPlace>New York:</pubPlace>
        <publisher>Dodd, Mead,</publisher>
        <date>1961;</date>
-       <date>1964.</date>
+       <date>1964;</date>
+       <date>1965.</date>
       </imprint>
-      <note place="unspecified" anchored="yes"> </note>
+      <note place="unspecified" anchored="yes">Not pioneers in historical sense.</note>
+      <note type="toc">
+       <list>
+        <item>Anne Hutchinson</item>
+        <item>Mary Katherine Goddard</item>
+        <item>Emma Hart Willard</item>
+        <item>Lucretia Mott</item>
+        <item>Dorothea Dix</item>
+        <item>Maria Mitchell</item>
+        <item>Harriet Tubman</item>
+        <item>Elizabeth Blackwell</item>
+        <item>Mary Mapes Dodge</item>
+        <item>Rose Hawthorne Lathrop, Mother Alphonsa</item>
+        <item>Anna Botsford Comstock</item>
+        <item>Ida M. Tarbell</item>
+        <item>Amelia Earhart</item>
+       </list>
+      </note> 
      </bibl>
      <bibl id="p147A" default="NO">
       <idno>p147A</idno>
